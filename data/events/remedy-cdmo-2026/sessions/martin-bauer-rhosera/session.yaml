@@ -1,5 +1,5 @@
 id: martin-bauer-rhosera
-title: 'Martin Bauer: Rhosera, cultivated Rhodiola rosea for muscle ageing'
+title: 'Martin Bauer: Rhosera, cultivated Rhodiola rosea against anabolic resistance'
 date: '2026-10-22'
 start: '13:07'
 end: '13:23'
@@ -7,20 +7,20 @@ format: talk
 track: ''
 speakers:
 - name: Ralph
-  organisation: Martin Bauer
+  organisation: Martin Bauer Nutraceuticals (Nature Network)
   role: ''
 themes: []
-ingredients: []
-relevance: ''
-status: captured
-summary_by: ''
-summary_date: ''
+ingredients: [Rhosera, Rhodiola rosea, protein, spermidine, magnesium, vitamin B]
+relevance: high
+status: summarised
+summary_by: Claude
+summary_date: '2026-11-09'
 reviewed_by: ''
 reviewed_date: ''
-attended_by:
-- Nathan
-links: {}
-to_check: 'Working title and times are from Nathan''s Otter recording (its label, start and length, Pacific time converted
-  to Warsaw time), not the programme: billed title, speakers'' full names and roles, and the room still to confirm.'
+attended_by: [Nathan]
+links:
+  otter: https://otter.ai/u/h-He1KRLsyjlt0MtiA_KezhS81k
+to_check: 'Billed title, Ralph''s surname and role, the exact name of the new unit (he said "Martin Bauer Nutritions"; Otter
+  heard "Nathan Bawa Nutraceuticals"), the room, and the spellings of the marker compounds and the Polish sites are unconfirmed.'
 added: '2026-11-09'
 added_by: Claude (from Nathan's Otter recordings, 9 Nov 2026)
