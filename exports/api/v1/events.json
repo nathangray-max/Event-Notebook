@@ -1,7 +1,7 @@
 {
  "schema": "confnotes.events/1",
  "built": "2026-11-09",
- "commit": "60b8e96",
+ "commit": "5a7c2ed",
  "count": 2,
  "items": [
   {
@@ -71,7 +71,23 @@
    "added_by": "Claude (from Nathan, 9 Nov 2026, and a NutraIngredients report of 3 Nov 2026)",
    "description": "A conference bringing local contract manufacturers (CDMOs) together with market innovators, run by the nutraceuticals consultancy Remedy. Launched in Gdansk in April 2025 (about 150 attendees), with a satellite event in Riga in June 2026; the 2026 edition ran on 22-23 October. Nathan attended and will share details.",
    "has_report": false,
-   "sessions": [],
+   "sessions": [
+    "nick-morgan-longevity",
+    "nuritas-peptistrong",
+    "kaneka-ubiquinol",
+    "novosol-optimsm",
+    "martin-bauer-rhosera",
+    "solabia-launches",
+    "tantus-longevity-concepts",
+    "protein-brewery-fermotein",
+    "alex-glover-holland-barrett",
+    "2waves-platform",
+    "panel-evidence-regulation-ai",
+    "hmt-probiotic-market",
+    "novonesis-montefarmaco",
+    "sacco-probiotics",
+    "spi-pharma-nordic-biotic"
+   ],
    "themes": [],
    "report": null
   }

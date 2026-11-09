@@ -1,7 +1,617 @@
 {
  "schema": "confnotes.themes/1",
  "built": "2026-11-09",
- "commit": "60b8e96",
- "count": 0,
- "items": []
+ "commit": "5a7c2ed",
+ "count": 19,
+ "items": [
+  {
+   "id": "whey-price-squeeze",
+   "name": "Whey price squeeze and protein reformulation",
+   "description": "Record whey protein prices in 2026 and what brands do about them (price, pack size, blends, hybrids, portfolio shifts).",
+   "first_seen": "sans-europe-2026",
+   "events": [],
+   "sessions": [
+    {
+     "event": "sans-europe-2026",
+     "session": "a-bigger-sports-nutrition-landscape-growth",
+     "title": "A Bigger Sports Nutrition Landscape: Growth, Tensions and What Comes Next",
+     "date": "2026-11-09"
+    },
+    {
+     "event": "sans-europe-2026",
+     "session": "unfiltered-an-insider-s-view-of",
+     "title": "Unfiltered: An Insider's View of the Whey Protein Market",
+     "date": "2026-11-09"
+    },
+    {
+     "event": "sans-europe-2026",
+     "session": "whey-collagen-the-protein-power-couple",
+     "title": "Whey & Collagen: The Protein Power Couple",
+     "date": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "id": "supply-security",
+   "name": "Ingredient supply security",
+   "description": "Structural supply limits and shocks (whey from cheese, fish oil, wild botanicals) and the move to secured or cultivated supply.",
+   "first_seen": "remedy-cdmo-2026",
+   "events": [],
+   "sessions": [
+    {
+     "event": "sans-europe-2026",
+     "session": "unfiltered-an-insider-s-view-of",
+     "title": "Unfiltered: An Insider's View of the Whey Protein Market",
+     "date": "2026-11-09"
+    },
+    {
+     "event": "remedy-cdmo-2026",
+     "session": "martin-bauer-rhosera",
+     "title": "Martin Bauer: Rhosera, cultivated Rhodiola rosea against anabolic resistance",
+     "date": "2026-10-22"
+    },
+    {
+     "event": "remedy-cdmo-2026",
+     "session": "panel-evidence-regulation-ai",
+     "title": "Closing panel: evidence, regulation, supply and AI in nutraceuticals",
+     "date": "2026-10-22"
+    }
+   ]
+  },
+  {
+   "id": "novel-proteins-and-blends",
+   "name": "Novel proteins, hybrids and blends",
+   "description": "New protein sources (mycelium, plant, peptides) and blends (dairy plus plant, whey plus collagen) as the answer to cost and benefit.",
+   "first_seen": "remedy-cdmo-2026",
+   "events": [],
+   "sessions": [
+    {
+     "event": "sans-europe-2026",
+     "session": "a-bigger-sports-nutrition-landscape-growth",
+     "title": "A Bigger Sports Nutrition Landscape: Growth, Tensions and What Comes Next",
+     "date": "2026-11-09"
+    },
+    {
+     "event": "sans-europe-2026",
+     "session": "whey-collagen-the-protein-power-couple",
+     "title": "Whey & Collagen: The Protein Power Couple",
+     "date": "2026-11-09"
+    },
+    {
+     "event": "remedy-cdmo-2026",
+     "session": "protein-brewery-fermotein",
+     "title": "The Protein Brewery: Fermotein, a fermented mycelium protein for active and all-in-one nutrition",
+     "date": "2026-10-22"
+    }
+   ]
+  },
+  {
+   "id": "sports-nutrition-mainstream",
+   "name": "Sports nutrition going mainstream",
+   "description": "Protein and sports ingredients entering everyday food and drink, with the identity and value tensions that brings.",
+   "first_seen": "sans-europe-2026",
+   "events": [],
+   "sessions": [
+    {
+     "event": "sans-europe-2026",
+     "session": "a-bigger-sports-nutrition-landscape-growth",
+     "title": "A Bigger Sports Nutrition Landscape: Growth, Tensions and What Comes Next",
+     "date": "2026-11-09"
+    },
+    {
+     "event": "sans-europe-2026",
+     "session": "unfiltered-an-insider-s-view-of",
+     "title": "Unfiltered: An Insider's View of the Whey Protein Market",
+     "date": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "id": "glp-1-nutrition",
+   "name": "GLP-1 users as a nutrition market",
+   "description": "Protein, fibre and companion products for people on GLP-1 medicines, and GLP-1 as a demand driver.",
+   "first_seen": "remedy-cdmo-2026",
+   "events": [],
+   "sessions": [
+    {
+     "event": "sans-europe-2026",
+     "session": "a-bigger-sports-nutrition-landscape-growth",
+     "title": "A Bigger Sports Nutrition Landscape: Growth, Tensions and What Comes Next",
+     "date": "2026-11-09"
+    },
+    {
+     "event": "sans-europe-2026",
+     "session": "unfiltered-an-insider-s-view-of",
+     "title": "Unfiltered: An Insider's View of the Whey Protein Market",
+     "date": "2026-11-09"
+    },
+    {
+     "event": "remedy-cdmo-2026",
+     "session": "protein-brewery-fermotein",
+     "title": "The Protein Brewery: Fermotein, a fermented mycelium protein for active and all-in-one nutrition",
+     "date": "2026-10-22"
+    },
+    {
+     "event": "remedy-cdmo-2026",
+     "session": "alex-glover-holland-barrett",
+     "title": "Holland & Barrett: how longevity science translates into consumer outcomes",
+     "date": "2026-10-22"
+    },
+    {
+     "event": "remedy-cdmo-2026",
+     "session": "spi-pharma-nordic-biotic",
+     "title": "SPI Pharma and Nordic Biotic: new dosage forms and clinically tested strains",
+     "date": "2026-10-23"
+    }
+   ]
+  },
+  {
+   "id": "longevity-positioning",
+   "name": "Longevity and healthspan positioning",
+   "description": "Selling ingredients and products on healthy ageing, cellular health and healthspan rather than lifespan, and the words consumers respond to.",
+   "first_seen": "remedy-cdmo-2026",
+   "events": [],
+   "sessions": [
+    {
+     "event": "sans-europe-2026",
+     "session": "a-bigger-sports-nutrition-landscape-growth",
+     "title": "A Bigger Sports Nutrition Landscape: Growth, Tensions and What Comes Next",
+     "date": "2026-11-09"
+    },
+    {
+     "event": "remedy-cdmo-2026",
+     "session": "nick-morgan-longevity",
+     "title": "Nick Morgan: how longevity is sold, from hallmarks to habits",
+     "date": "2026-10-22"
+    },
+    {
+     "event": "remedy-cdmo-2026",
+     "session": "kaneka-ubiquinol",
+     "title": "Kaneka: Ubiquinol, the active form of coenzyme Q10",
+     "date": "2026-10-22"
+    },
+    {
+     "event": "remedy-cdmo-2026",
+     "session": "martin-bauer-rhosera",
+     "title": "Martin Bauer: Rhosera, cultivated Rhodiola rosea against anabolic resistance",
+     "date": "2026-10-22"
+    },
+    {
+     "event": "remedy-cdmo-2026",
+     "session": "tantus-longevity-concepts",
+     "title": "Tantus: longevity in action, from a trend to a product",
+     "date": "2026-10-22"
+    },
+    {
+     "event": "remedy-cdmo-2026",
+     "session": "protein-brewery-fermotein",
+     "title": "The Protein Brewery: Fermotein, a fermented mycelium protein for active and all-in-one nutrition",
+     "date": "2026-10-22"
+    },
+    {
+     "event": "remedy-cdmo-2026",
+     "session": "alex-glover-holland-barrett",
+     "title": "Holland & Barrett: how longevity science translates into consumer outcomes",
+     "date": "2026-10-22"
+    },
+    {
+     "event": "remedy-cdmo-2026",
+     "session": "sacco-probiotics",
+     "title": "Sacco System: probiotic CDMO services, CA15 for women's health and Symbio for healthy ageing",
+     "date": "2026-10-23"
+    }
+   ]
+  },
+  {
+   "id": "creatine-beyond-strength",
+   "name": "Creatine beyond strength",
+   "description": "Creatine repositioned for healthspan, cognition and women, and moved into new formats (gummies, chewables, chocolates).",
+   "first_seen": "remedy-cdmo-2026",
+   "events": [],
+   "sessions": [
+    {
+     "event": "sans-europe-2026",
+     "session": "a-bigger-sports-nutrition-landscape-growth",
+     "title": "A Bigger Sports Nutrition Landscape: Growth, Tensions and What Comes Next",
+     "date": "2026-11-09"
+    },
+    {
+     "event": "remedy-cdmo-2026",
+     "session": "nick-morgan-longevity",
+     "title": "Nick Morgan: how longevity is sold, from hallmarks to habits",
+     "date": "2026-10-22"
+    },
+    {
+     "event": "remedy-cdmo-2026",
+     "session": "solabia-launches",
+     "title": "Solabia Nutrition: three things your brief forgot to tell you",
+     "date": "2026-10-22"
+    },
+    {
+     "event": "remedy-cdmo-2026",
+     "session": "tantus-longevity-concepts",
+     "title": "Tantus: longevity in action, from a trend to a product",
+     "date": "2026-10-22"
+    }
+   ]
+  },
+  {
+   "id": "muscle-health-beyond-protein",
+   "name": "Muscle health beyond protein",
+   "description": "Ingredients claimed to support muscle in ageing or inactivity beyond protein itself (peptides, botanicals, probiotics, MSM).",
+   "first_seen": "remedy-cdmo-2026",
+   "events": [],
+   "sessions": [
+    {
+     "event": "sans-europe-2026",
+     "session": "whey-collagen-the-protein-power-couple",
+     "title": "Whey & Collagen: The Protein Power Couple",
+     "date": "2026-11-09"
+    },
+    {
+     "event": "remedy-cdmo-2026",
+     "session": "nuritas-peptistrong",
+     "title": "Nuritas: AI-discovered plant peptides and the PeptiStrong trials",
+     "date": "2026-10-22"
+    },
+    {
+     "event": "remedy-cdmo-2026",
+     "session": "novosol-optimsm",
+     "title": "Aquanova NovaSol micellar delivery, then Balchem OptiMSM",
+     "date": "2026-10-22"
+    },
+    {
+     "event": "remedy-cdmo-2026",
+     "session": "martin-bauer-rhosera",
+     "title": "Martin Bauer: Rhosera, cultivated Rhodiola rosea against anabolic resistance",
+     "date": "2026-10-22"
+    },
+    {
+     "event": "remedy-cdmo-2026",
+     "session": "sacco-probiotics",
+     "title": "Sacco System: probiotic CDMO services, CA15 for women's health and Symbio for healthy ageing",
+     "date": "2026-10-23"
+    }
+   ]
+  },
+  {
+   "id": "branded-ingredients-differentiation",
+   "name": "Branded ingredients and science as differentiation",
+   "description": "Branded, clinically documented ingredients and memorable naming as the way to stand out among thousands of products.",
+   "first_seen": "remedy-cdmo-2026",
+   "events": [],
+   "sessions": [
+    {
+     "event": "sans-europe-2026",
+     "session": "a-bigger-sports-nutrition-landscape-growth",
+     "title": "A Bigger Sports Nutrition Landscape: Growth, Tensions and What Comes Next",
+     "date": "2026-11-09"
+    },
+    {
+     "event": "sans-europe-2026",
+     "session": "fuelling-the-female-runner-from-paper",
+     "title": "Fuelling the female runner: from paper to podium to partnerships",
+     "date": "2026-11-09"
+    },
+    {
+     "event": "remedy-cdmo-2026",
+     "session": "nuritas-peptistrong",
+     "title": "Nuritas: AI-discovered plant peptides and the PeptiStrong trials",
+     "date": "2026-10-22"
+    },
+    {
+     "event": "remedy-cdmo-2026",
+     "session": "kaneka-ubiquinol",
+     "title": "Kaneka: Ubiquinol, the active form of coenzyme Q10",
+     "date": "2026-10-22"
+    },
+    {
+     "event": "remedy-cdmo-2026",
+     "session": "novosol-optimsm",
+     "title": "Aquanova NovaSol micellar delivery, then Balchem OptiMSM",
+     "date": "2026-10-22"
+    },
+    {
+     "event": "remedy-cdmo-2026",
+     "session": "solabia-launches",
+     "title": "Solabia Nutrition: three things your brief forgot to tell you",
+     "date": "2026-10-22"
+    },
+    {
+     "event": "remedy-cdmo-2026",
+     "session": "novonesis-montefarmaco",
+     "title": "Novonesis and Montefarmaco: the Lactoflorene partnership, from science to consumer product",
+     "date": "2026-10-23"
+    }
+   ]
+  },
+  {
+   "id": "outcomes-over-mechanisms",
+   "name": "Consumer outcomes over mechanisms",
+   "description": "Consumers and retailers buy felt benefits (sleep, joints, energy), not biomarkers or mechanisms; science has to be translated.",
+   "first_seen": "remedy-cdmo-2026",
+   "events": [],
+   "sessions": [
+    {
+     "event": "sans-europe-2026",
+     "session": "clicks-to-community-turning-digital-engagement",
+     "title": "Clicks to Community: Turning Digital Engagement into Brand Loyalty",
+     "date": "2026-11-09"
+    },
+    {
+     "event": "remedy-cdmo-2026",
+     "session": "nick-morgan-longevity",
+     "title": "Nick Morgan: how longevity is sold, from hallmarks to habits",
+     "date": "2026-10-22"
+    },
+    {
+     "event": "remedy-cdmo-2026",
+     "session": "alex-glover-holland-barrett",
+     "title": "Holland & Barrett: how longevity science translates into consumer outcomes",
+     "date": "2026-10-22"
+    },
+    {
+     "event": "remedy-cdmo-2026",
+     "session": "panel-evidence-regulation-ai",
+     "title": "Closing panel: evidence, regulation, supply and AI in nutraceuticals",
+     "date": "2026-10-22"
+    },
+    {
+     "event": "remedy-cdmo-2026",
+     "session": "hmt-probiotic-market",
+     "title": "HMT: beyond probiotics, four new rules for the category",
+     "date": "2026-10-23"
+    }
+   ]
+  },
+  {
+   "id": "delivery-formats",
+   "name": "New dosage forms and delivery systems",
+   "description": "Chewables, effervescents, fast melts, sticks, micellar and cap-in-cap systems as product differentiation and compliance aids.",
+   "first_seen": "remedy-cdmo-2026",
+   "events": [],
+   "sessions": [
+    {
+     "event": "remedy-cdmo-2026",
+     "session": "nick-morgan-longevity",
+     "title": "Nick Morgan: how longevity is sold, from hallmarks to habits",
+     "date": "2026-10-22"
+    },
+    {
+     "event": "remedy-cdmo-2026",
+     "session": "kaneka-ubiquinol",
+     "title": "Kaneka: Ubiquinol, the active form of coenzyme Q10",
+     "date": "2026-10-22"
+    },
+    {
+     "event": "remedy-cdmo-2026",
+     "session": "novosol-optimsm",
+     "title": "Aquanova NovaSol micellar delivery, then Balchem OptiMSM",
+     "date": "2026-10-22"
+    },
+    {
+     "event": "remedy-cdmo-2026",
+     "session": "solabia-launches",
+     "title": "Solabia Nutrition: three things your brief forgot to tell you",
+     "date": "2026-10-22"
+    },
+    {
+     "event": "remedy-cdmo-2026",
+     "session": "tantus-longevity-concepts",
+     "title": "Tantus: longevity in action, from a trend to a product",
+     "date": "2026-10-22"
+    },
+    {
+     "event": "remedy-cdmo-2026",
+     "session": "spi-pharma-nordic-biotic",
+     "title": "SPI Pharma and Nordic Biotic: new dosage forms and clinically tested strains",
+     "date": "2026-10-23"
+    }
+   ]
+  },
+  {
+   "id": "eu-regulation-brake",
+   "name": "EU claims and regulation as a brake",
+   "description": "EU health-claim and novel-food rules slowing innovation, and the workarounds (borrowed claims, emotional branding, lawyers early).",
+   "first_seen": "remedy-cdmo-2026",
+   "events": [],
+   "sessions": [
+    {
+     "event": "remedy-cdmo-2026",
+     "session": "martin-bauer-rhosera",
+     "title": "Martin Bauer: Rhosera, cultivated Rhodiola rosea against anabolic resistance",
+     "date": "2026-10-22"
+    },
+    {
+     "event": "remedy-cdmo-2026",
+     "session": "protein-brewery-fermotein",
+     "title": "The Protein Brewery: Fermotein, a fermented mycelium protein for active and all-in-one nutrition",
+     "date": "2026-10-22"
+    },
+    {
+     "event": "remedy-cdmo-2026",
+     "session": "panel-evidence-regulation-ai",
+     "title": "Closing panel: evidence, regulation, supply and AI in nutraceuticals",
+     "date": "2026-10-22"
+    },
+    {
+     "event": "remedy-cdmo-2026",
+     "session": "hmt-probiotic-market",
+     "title": "HMT: beyond probiotics, four new rules for the category",
+     "date": "2026-10-23"
+    }
+   ]
+  },
+  {
+   "id": "marketing-compliance-social",
+   "name": "Compliance and education in digital marketing",
+   "description": "Influencer and social content built on education and humanised science, policed by advertising rules and reviewed for claims.",
+   "first_seen": "sans-europe-2026",
+   "events": [],
+   "sessions": [
+    {
+     "event": "sans-europe-2026",
+     "session": "clicks-to-community-turning-digital-engagement",
+     "title": "Clicks to Community: Turning Digital Engagement into Brand Loyalty",
+     "date": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "id": "ai-in-nutraceuticals",
+   "name": "AI in discovery, factories and marketing",
+   "description": "AI used to find ingredients, run plants, check compliance and scale content, with a human kept in the loop.",
+   "first_seen": "remedy-cdmo-2026",
+   "events": [],
+   "sessions": [
+    {
+     "event": "sans-europe-2026",
+     "session": "clicks-to-community-turning-digital-engagement",
+     "title": "Clicks to Community: Turning Digital Engagement into Brand Loyalty",
+     "date": "2026-11-09"
+    },
+    {
+     "event": "remedy-cdmo-2026",
+     "session": "nuritas-peptistrong",
+     "title": "Nuritas: AI-discovered plant peptides and the PeptiStrong trials",
+     "date": "2026-10-22"
+    },
+    {
+     "event": "remedy-cdmo-2026",
+     "session": "panel-evidence-regulation-ai",
+     "title": "Closing panel: evidence, regulation, supply and AI in nutraceuticals",
+     "date": "2026-10-22"
+    }
+   ]
+  },
+  {
+   "id": "cdmo-partnership-models",
+   "name": "Supplier and CDMO co-development",
+   "description": "Ingredient suppliers, CDMOs and brands co-developing concepts and sharing science, and the platforms that connect them.",
+   "first_seen": "remedy-cdmo-2026",
+   "events": [],
+   "sessions": [
+    {
+     "event": "remedy-cdmo-2026",
+     "session": "nuritas-peptistrong",
+     "title": "Nuritas: AI-discovered plant peptides and the PeptiStrong trials",
+     "date": "2026-10-22"
+    },
+    {
+     "event": "remedy-cdmo-2026",
+     "session": "solabia-launches",
+     "title": "Solabia Nutrition: three things your brief forgot to tell you",
+     "date": "2026-10-22"
+    },
+    {
+     "event": "remedy-cdmo-2026",
+     "session": "tantus-longevity-concepts",
+     "title": "Tantus: longevity in action, from a trend to a product",
+     "date": "2026-10-22"
+    },
+    {
+     "event": "remedy-cdmo-2026",
+     "session": "2waves-platform",
+     "title": "2waves: one platform for brands, manufacturers and ingredient suppliers",
+     "date": "2026-10-22"
+    },
+    {
+     "event": "remedy-cdmo-2026",
+     "session": "novonesis-montefarmaco",
+     "title": "Novonesis and Montefarmaco: the Lactoflorene partnership, from science to consumer product",
+     "date": "2026-10-23"
+    },
+    {
+     "event": "remedy-cdmo-2026",
+     "session": "sacco-probiotics",
+     "title": "Sacco System: probiotic CDMO services, CA15 for women's health and Symbio for healthy ageing",
+     "date": "2026-10-23"
+    }
+   ]
+  },
+  {
+   "id": "probiotic-category-evolution",
+   "name": "Probiotic category evolution",
+   "description": "From CFU counts to documented strains, new indications (women's health, ageing, mental balance) and whole-ecosystem claims.",
+   "first_seen": "remedy-cdmo-2026",
+   "events": [],
+   "sessions": [
+    {
+     "event": "remedy-cdmo-2026",
+     "session": "hmt-probiotic-market",
+     "title": "HMT: beyond probiotics, four new rules for the category",
+     "date": "2026-10-23"
+    },
+    {
+     "event": "remedy-cdmo-2026",
+     "session": "novonesis-montefarmaco",
+     "title": "Novonesis and Montefarmaco: the Lactoflorene partnership, from science to consumer product",
+     "date": "2026-10-23"
+    },
+    {
+     "event": "remedy-cdmo-2026",
+     "session": "sacco-probiotics",
+     "title": "Sacco System: probiotic CDMO services, CA15 for women's health and Symbio for healthy ageing",
+     "date": "2026-10-23"
+    },
+    {
+     "event": "remedy-cdmo-2026",
+     "session": "spi-pharma-nordic-biotic",
+     "title": "SPI Pharma and Nordic Biotic: new dosage forms and clinically tested strains",
+     "date": "2026-10-23"
+    }
+   ]
+  },
+  {
+   "id": "carbohydrate-fuelling",
+   "name": "Carbohydrate fuelling science",
+   "description": "Intake rates, dual-source blends and personalisation for endurance performance.",
+   "first_seen": "sans-europe-2026",
+   "events": [],
+   "sessions": [
+    {
+     "event": "sans-europe-2026",
+     "session": "fuelling-the-female-runner-from-paper",
+     "title": "Fuelling the female runner: from paper to podium to partnerships",
+     "date": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "id": "female-athlete-nutrition",
+   "name": "Female athlete nutrition",
+   "description": "Evidence and products for women in sport, and the knowledge and tolerance barriers to fuelling.",
+   "first_seen": "sans-europe-2026",
+   "events": [],
+   "sessions": [
+    {
+     "event": "sans-europe-2026",
+     "session": "fuelling-the-female-runner-from-paper",
+     "title": "Fuelling the female runner: from paper to podium to partnerships",
+     "date": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "id": "hydration-electrolytes",
+   "name": "Hydration and electrolytes",
+   "description": "Everyday, superior and performance hydration positioning, wide sodium doses, and hydration formats as a growth category.",
+   "first_seen": "sans-europe-2026",
+   "events": [],
+   "sessions": [
+    {
+     "event": "sans-europe-2026",
+     "session": "a-bigger-sports-nutrition-landscape-growth",
+     "title": "A Bigger Sports Nutrition Landscape: Growth, Tensions and What Comes Next",
+     "date": "2026-11-09"
+    },
+    {
+     "event": "remedy-cdmo-2026",
+     "session": "spi-pharma-nordic-biotic",
+     "title": "SPI Pharma and Nordic Biotic: new dosage forms and clinically tested strains",
+     "date": "2026-10-23"
+    }
+   ]
+  }
+ ]
 }
