@@ -1,23 +1,30 @@
 id: novosol-optimsm
-title: NovoSol micellar delivery and OptiMSM
+title: Aquanova NovaSol micellar delivery, then Balchem OptiMSM
 date: '2026-10-22'
 start: '12:41'
 end: '12:53'
 format: talk
 track: ''
-speakers: []
+speakers:
+- name: Toshton Sack
+  organisation: Aquanova
+  role: ''
+- name: Lena Leder
+  organisation: Balchem
+  role: Senior manager nutrition science
 themes: []
-ingredients: []
-relevance: ''
-status: captured
-summary_by: ''
-summary_date: ''
+ingredients: [NovaSol curcumin, NovaSol astaxanthin, NovaSol coenzyme Q10, micellar resveratrol, OptiMSM, MSM (methylsulfonylmethane),
+  chelated minerals, choline, vitamin K2, methylfolate]
+relevance: medium
+status: summarised
+summary_by: Claude
+summary_date: '2026-11-09'
 reviewed_by: ''
 reviewed_date: ''
-attended_by:
-- Nathan
-links: {}
-to_check: 'Working title and times are from Nathan''s Otter recording (its label, start and length, Pacific time converted
-  to Warsaw time), not the programme: billed title, speakers'' full names and roles, and the room still to confirm.'
+attended_by: [Nathan]
+links:
+  otter: https://otter.ai/u/0JsIxJy1tPgKSVOIhya78-KpK08
+to_check: 'Billed titles, the Aquanova speaker''s name (Otter heard "Toshton Sack", the host also "Austin"), the spelling Lena
+  Leder or Leda, the room, and the end of the OptiMSM talk (the recording stops at 12:53, a few minutes in) are unconfirmed.'
 added: '2026-11-09'
 added_by: Claude (from Nathan's Otter recordings, 9 Nov 2026)

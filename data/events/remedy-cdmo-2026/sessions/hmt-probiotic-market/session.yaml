@@ -1,5 +1,5 @@
 id: hmt-probiotic-market
-title: 'HMT: the probiotic market''s eras and new rules'
+title: 'HMT: beyond probiotics, four new rules for the category'
 date: '2026-10-23'
 start: '10:03'
 end: '10:15'
@@ -7,20 +7,28 @@ format: talk
 track: ''
 speakers:
 - name: Marit Weinstra
-  organisation: HMT
+  organisation: HMT (branding and innovation agency for food and supplements)
   role: ''
 themes: []
-ingredients: []
-relevance: ''
-status: captured
-summary_by: ''
-summary_date: ''
+ingredients:
+- probiotics
+- prebiotics
+- fibres
+- postbiotics
+- 'Akkermansia (heard as "Acromancia"; a US brand built on it)'
+- Yakult
+- Danone Activia
+- Poppi
+relevance: medium
+status: summarised
+summary_by: Claude
+summary_date: '2026-11-09'
 reviewed_by: ''
 reviewed_date: ''
 attended_by:
 - Nathan
-links: {}
-to_check: 'Working title and times are from Nathan''s Otter recording (its label, start and length, Pacific time converted
-  to Warsaw time), not the programme: billed title, speakers'' full names and roles, and the room still to confirm.'
+links:
+  otter: https://otter.ai/u/bK_DMxHJzVgH8AgUv_VzIp24x3Y
+to_check: 'Billed title, the speaker''s name spelling (Otter: Marit Weinstra; the chair said "Marty Leibstra") and role, the agency''s name (Otter: HMT; she says "H and D" and "HMDs"), and the room are unconfirmed; times are the recording''s, Pacific converted to Polish time.'
 added: '2026-11-09'
 added_by: Claude (from Nathan's Otter recordings, 9 Nov 2026)

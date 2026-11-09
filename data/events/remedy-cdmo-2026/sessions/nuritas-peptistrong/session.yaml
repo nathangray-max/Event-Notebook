@@ -1,5 +1,5 @@
 id: nuritas-peptistrong
-title: 'Nuritas: AI-discovered peptides and PeptiStrong'
+title: 'Nuritas: AI-discovered plant peptides and the PeptiStrong trials'
 date: '2026-10-22'
 start: '12:14'
 end: '12:30'
@@ -8,22 +8,22 @@ track: ''
 speakers:
 - name: Miguel
   organisation: Nuritas
-  role: ''
-- name: Brian
+  role: Business developer
+- name: Brian Keogh
   organisation: Nuritas
-  role: ''
+  role: Chief Scientific Officer
 themes: []
-ingredients: []
-relevance: ''
-status: captured
-summary_by: ''
-summary_date: ''
+ingredients: [PeptiStrong, fava bean protein hydrolysate, creatine, leucine, HMB, milk protein concentrate, Nuritas sleep peptide]
+relevance: high
+status: summarised
+summary_by: Claude
+summary_date: '2026-11-09'
 reviewed_by: ''
 reviewed_date: ''
-attended_by:
-- Nathan
-links: {}
-to_check: 'Working title and times are from Nathan''s Otter recording (its label, start and length, Pacific time converted
-  to Warsaw time), not the programme: billed title, speakers'' full names and roles, and the room still to confirm.'
+attended_by: [Nathan]
+links:
+  otter: https://otter.ai/u/dNrb6XKgiiNJM1nShFhABZWHyUU
+to_check: 'Billed title, Miguel''s surname (Otter heard "Miguel Push"), the spelling of Brian Keogh (Otter also "Keough" and
+  "Keo"), and the room are unconfirmed.'
 added: '2026-11-09'
 added_by: Claude (from Nathan's Otter recordings, 9 Nov 2026)

@@ -1,5 +1,5 @@
 id: kaneka-ubiquinol
-title: 'Kaneka: Ubiquinol'
+title: 'Kaneka: Ubiquinol, the active form of coenzyme Q10'
 date: '2026-10-22'
 start: '12:31'
 end: '12:41'
@@ -10,17 +10,17 @@ speakers:
   organisation: Kaneka
   role: ''
 themes: []
-ingredients: []
-relevance: ''
-status: captured
-summary_by: ''
-summary_date: ''
+ingredients: [Kaneka Ubiquinol, ubiquinol, coenzyme Q10, vitamin C, vitamin E]
+relevance: low
+status: summarised
+summary_by: Claude
+summary_date: '2026-11-09'
 reviewed_by: ''
 reviewed_date: ''
-attended_by:
-- Nathan
-links: {}
-to_check: 'Working title and times are from Nathan''s Otter recording (its label, start and length, Pacific time converted
-  to Warsaw time), not the programme: billed title, speakers'' full names and roles, and the room still to confirm.'
+attended_by: [Nathan]
+links:
+  otter: https://otter.ai/u/mumrv9Sr307M-dngjsizz1Q62QM
+to_check: 'Billed title, Oliver''s surname and role, what "MTIC certified" in the UK refers to (Otter''s hearing), and the room
+  are unconfirmed.'
 added: '2026-11-09'
 added_by: Claude (from Nathan's Otter recordings, 9 Nov 2026)

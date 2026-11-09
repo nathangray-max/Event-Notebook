@@ -1,5 +1,5 @@
 id: novonesis-montefarmaco
-title: 'Novonesis and Montefarmaco: a science-backed probiotic partnership'
+title: 'Novonesis and Montefarmaco: the Lactoflorene partnership, from science to consumer product'
 date: '2026-10-23'
 start: '10:15'
 end: '10:31'
@@ -8,22 +8,31 @@ track: ''
 speakers:
 - name: Ariel Annoni
   organisation: Novonesis
-  role: ''
+  role: Responsible for the Human Health business across Central and Eastern Europe, Middle East and Africa (as she said it)
 - name: Alessia
   organisation: Montefarmaco
   role: ''
 themes: []
-ingredients: []
-relevance: ''
-status: captured
-summary_by: ''
-summary_date: ''
+ingredients:
+- Lactoflorene (Montefarmaco)
+- probiotics
+- postbiotics
+- enzymes
+- vitamins
+- HMO
+- 'Novonesis strains heard as "GGM BB 12"'
+- zinc
+- vitamin B
+relevance: medium
+status: summarised
+summary_by: Claude
+summary_date: '2026-11-09'
 reviewed_by: ''
 reviewed_date: ''
 attended_by:
 - Nathan
-links: {}
-to_check: 'Working title and times are from Nathan''s Otter recording (its label, start and length, Pacific time converted
-  to Warsaw time), not the programme: billed title, speakers'' full names and roles, and the room still to confirm.'
+links:
+  otter: https://otter.ai/u/5NwsgDWEiAfhcqUShKDsQnqiuZc
+to_check: 'Billed title, the Novonesis speaker''s exact name (Otter: Ariel Annoni; the chair said "Ariella Anoni") and title, Alessia''s surname and role at Montefarmaco, the strain names Otter heard as "GGM BB 12", and the room are unconfirmed; times are the recording''s, Pacific converted to Polish time.'
 added: '2026-11-09'
 added_by: Claude (from Nathan's Otter recordings, 9 Nov 2026)

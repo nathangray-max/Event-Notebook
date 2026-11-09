@@ -1,29 +1,40 @@
 id: spi-pharma-nordic-biotic
-title: SPI Pharma dosage forms and Nordic Biotic strains
+title: 'SPI Pharma and Nordic Biotic: new dosage forms and clinically tested strains'
 date: '2026-10-23'
 start: '11:05'
 end: '11:24'
 format: talk
 track: ''
 speakers:
-- name: Miguel
+- name: Miguel (surname unconfirmed)
   organisation: SPI Pharma
   role: ''
 - name: Mihail Jakubowski
   organisation: Nordic Biotic
   role: ''
 themes: []
-ingredients: []
-relevance: ''
-status: captured
-summary_by: ''
-summary_date: ''
+ingredients:
+- 'Composol Pro Tab (SPI Pharma, as heard; polyol-based chewable platform)'
+- Effer Soda (SPI Pharma)
+- sodium bicarbonate
+- probiotics
+- Northbiotic Mental Balance (Nordic Biotic)
+- Lactobacillus plantarum 140
+- Bifidobacterium breve 010
+- GABA
+- Lactobacillus acidophilus 120
+- Lactobacillus fermentum 160
+- GLP-1 companion product (Nordic Biotic and Azento)
+relevance: medium
+status: summarised
+summary_by: Claude
+summary_date: '2026-11-09'
 reviewed_by: ''
 reviewed_date: ''
 attended_by:
 - Nathan
-links: {}
-to_check: 'Working title and times are from Nathan''s Otter recording (its label, start and length, Pacific time converted
-  to Warsaw time), not the programme: billed title, speakers'' full names and roles, and the room still to confirm.'
+links:
+  otter: https://otter.ai/u/xOkga3-eCFj68BvsGrrE1wFKMCo
+to_check: 'Billed titles of the two talks, the SPI Pharma speaker''s full name (the chair calls him Miguel; the recording starts mid-talk, a 22-second Otter fragment at 11:02 holds his opening words), the Nordic Biotic speaker''s name spelling (Otter: Mihail Jakubowski; the chair said "Mikhail"; he said something Otter heard as "Mihaj Kuboski"), both roles, the exact spelling of the SPI platform heard as "composol pro tab", and the room are unconfirmed; times are the recording''s, Pacific converted to Polish time.'
 added: '2026-11-09'
 added_by: Claude (from Nathan's Otter recordings, 9 Nov 2026)
