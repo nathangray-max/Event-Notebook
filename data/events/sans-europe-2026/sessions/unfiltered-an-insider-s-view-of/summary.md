@@ -1,0 +1,33 @@
+# Unfiltered: An Insider's View of the Whey Protein Market
+
+## Summary
+Alan Johnstone (owner of Nutrilution, formerly selling whey at Arla Foods Ingredients) explained the supply chain behind this year's whey prices [00:16]. WPI rose from around 7 euros a kilogram in 2023 to over 30 euros earlier this year; WPC80 was stable at around 12 euros until it jumped to 28 euros in about six weeks, which hurt more because brands had already switched into WPC80 [00:16]. Demand is growing at over 10% a year (sports nutrition, GLP-1 users, mainstream protein, clear whey, which is almost all WPI), while liquid whey only grows with cheese production at about one and a half percent a year, and filtration plants are expensive and slow to build [00:16]. Producers have prioritised WPI (growing about 15% a year) over WPC80, and new capacity suggests WPI at 7 to 11% and WPC80 at 4 to 7% a year, but not both at the top [00:16]. Prices overshoot in both directions on buyer behaviour, and right now WPC80 is falling hard while WPI corrects and the substitutes brands moved into (MPC85, caseins, plant proteins) are rising [00:16]. His advice: do not try to time the bottom, keep buying steadily if the price lets you make money, and accept that whey "will be expensive. It should be expensive" [00:16].
+
+## Key takeaways
+- WPI went from around 7 euros a kilogram in 2023 to over 30 euros earlier this year; WPC80 held around 12 euros, then rocketed to 28 in about six weeks. WPC80 was the existential risk for brands because they had already moved their sourcing into it [00:16].
+- Demand drivers: traditional sports nutrition at 10% a year on Euromonitor, which he thinks is a big underestimate; GLP-1 users as incremental demand; protein going mainstream (Starbucks, Papa John's, Dunkin'); clear whey, which barely existed five years ago, is one of the fastest-selling parts of the category and is almost all whey [00:16].
+- Whey wins on taste and texture, not nutrition: "the more mainstream you get with protein products, the less people care about the protein source." It is far easier to make a good-tasting product with whey than with most alternatives [00:16].
+- Supply: only 0.6% of liquid milk is whey protein; whey comes from cheese, and cheese production grows about one and a half percent a year, so liquid whey does too, against demand growing over 10%. This is his most important conclusion [00:16].
+- Factories are the first bottleneck ("phenomenally expensive" and slow to build); liquid whey is the second; byproducts are the third, and WPI producers must also sell a fatty protein stream [00:16].
+- Over five years total whey protein supply grew just under 5% a year; WPI about 15% a year at the expense of WPC80, which explains why WPC80 was undersupplied this year. Clear whey may be up to 25% of WPI (top of the estimate range); ordinary instant WPI grew about eight and a half percent, below the category [00:16].
+- New capacity: WPI expected to grow 7 to 11% a year, WPC80 4 to 7%, but if WPI is at 11, WPC80 has to be more like 4 because there is not enough whey. Both are below underlying demand [00:16].
+- Prices overshoot on behaviour, in both directions (the COVID example): buyers stock up when prices rise and sit out when they fall [00:16].
+- Now: WPC80 "has been falling pretty hard", WPI "still expensive, but definitely correcting"; new US factories set in motion three or four years ago are commissioning; producers have better uses for whey (WPI, WPC35, sweet whey powder), so WPC80 production should fall; MPC85 and other substitutes are rising and WPC80 and milk protein lines "should never meet" [00:16].
+- Advice: do not try to be too clever with volume; buy steadily if the price works; whey will be and should be expensive; a business that cannot cope with this year's prices needs to change its model [00:16].
+- Nutrilution also sells niche, higher-value ingredients and advises buyers on whey and dairy protein sourcing, including cross-continental supply chains [00:16].
+
+## For Vita Actives
+The structural case for non-dairy protein is made by a whey insider: cheese grows one and a half percent a year and demand over 10%, and he expects whey to stay expensive [00:16]. For IsoClr: Pea, my reading is that this is the opening, but he also set the bar: mainstream consumers care about taste and texture, not source, and whey is the easiest protein to make taste good, so a clear pea isolate has to win on taste and clarity before it wins on supply. Clear whey is almost all WPI and is where the squeeze is tightest; a clear pea isolate is positioned exactly there (my reading). The next few months are a window: WPC80 is falling, substitutes are rising and brands have just reformulated, so they are reviewing formulations and open to blends; my reading is that this is the moment to be in front of formulators with pea, before WPC80 settles. Nick Morgan's observation that brands want higher-margin non-protein lines applies here too: CreaWin and Oxystorm are the lines brands want to grow while whey margins are thin (my reading). Nutrilution is a potential partner or competitor in niche ingredients and sourcing advice. Relevance high: protein market structure and pricing.
+
+## Quotes
+- "Cheese is only growing one and a half percent a year, whereas waferaging demand is growing whatever figure we choose over over 10%." Speaker 2 (Alan Johnstone) [00:16]
+- "Certainly the more mainstream you get with protein products, the less people care about the protein source. I think what people always care about is taste and texture. And whey protein is delicious." Speaker 2 (Alan Johnstone) [00:16]
+- "If WPI is growing 11% a year, then WPC 80 has to be more like four because there's not enough whey." Speaker 2 (Alan Johnstone) [00:16]
+- "So over the last few weeks, WPC80 has been falling pretty hard. WPI still expensive, but definitely correcting." Speaker 2 (Alan Johnstone) [00:16]
+- "Whey protein will be expensive. It should be expensive. It's the best protein source for so many uses. It's got a structural supply restriction, and the amount of protein is not really going away." Speaker 2 (Alan Johnstone) [00:16]
+
+## Follow-ups
+- Talk to Alan Johnstone (Nutrilution) about the WPI/WPC80 price series and the US and European capacity lists he showed; he invited conversations on sourcing strategy [00:16].
+- Find the slides: the price chart, the five-year supply growth chart, the capacity additions and the MPC85 against WPC80 chart [00:16].
+- Cross-reference with Rousselot's WPC80 figure of 5.7k a tonne in 2023 to almost 32k in 2026 (whey-collagen-the-protein-power-couple).
+- Check the Euromonitor 10% a year sports nutrition growth figure he cited [00:16].

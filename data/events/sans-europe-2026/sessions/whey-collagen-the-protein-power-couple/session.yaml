@@ -9,20 +9,30 @@ room: Partnership Forum
 speakers:
 - name: Tess Plaquet
   organisation: Rousselot
-  role: ''
+  role: Technical sport manager (as she introduced herself)
 themes: []
 ingredients:
 - whey protein
-- collagen
-relevance: ''
-status: captured
-summary_by: ''
-summary_date: ''
+- whey protein concentrate
+- collagen peptides
+- Peptan
+- hydroxyproline
+- glycine
+- proline
+- vitamin C
+relevance: high
+status: summarised
+summary_by: Claude
+summary_date: '2026-11-09'
 reviewed_by: ''
 reviewed_date: ''
-attended_by: []
-links: {}
-to_check: Sponsored slot (Rousselot by Darling Ingredients logo on the programme). No slides, transcript or notes filed yet;
-  whether Nathan attended this one.
+attended_by: [Nathan]
+links:
+  otter: https://otter.ai/u/2-a4DWLvb-1Z5tHqsJEsHdBFRaM
+to_check: 'Sponsored slot (Rousselot by Darling Ingredients logo on the programme). Otter produced no summary and labelled
+  the speaker "Speaker unknown"; the recording ends mid-sentence in her closing invitation to the roundtables, so any Q&A
+  is missing; Otter heard her name as "Staske" and Olivia Haslam introduced her as "Tess Plackett", so the spelling
+  is unconfirmed; the currency of the "5.7 k" to "almost 32 k" a tonne WPC80 figure was not said; whether photos of the
+  slides exist (the launch, price and study charts were on slides).'
 added: '2026-11-09'
 added_by: Claude (from the event app's programme, screenshots from Nathan at 11:39-11:40 on 9 Nov 2026)

@@ -1,7 +1,7 @@
 id: clicks-to-community-turning-digital-engagement
 title: 'Clicks to Community: Turning Digital Engagement into Brand Loyalty'
 date: '2026-11-09'
-start: 09:50
+start: '09:50'
 end: '10:25'
 format: panel
 track: State of the Market
@@ -9,29 +9,38 @@ room: Partnership Forum
 speakers:
 - name: Nikki Hancocks
   organisation: NutraIngredients
-  role: ''
+  role: Chair
 - name: Dan Richardson
   organisation: DRN Nutrition Group
-  role: ''
+  role: Nutritionist (as he described himself; works across professional sport)
 - name: Sinead Gibbons
   organisation: Tonic Health
   role: ''
 - name: Luca Bucchini
   organisation: Hylobates Consulting
-  role: ''
+  role: Speaking for ESSNA (Otter's label)
 - name: Julian Harvie
   organisation: AG1
   role: ''
 themes: []
-ingredients: []
-relevance: ''
-status: captured
-summary_by: ''
-summary_date: ''
+ingredients:
+- creatine
+- CreaWin
+- magnesium
+- collagen
+- caffeine
+relevance: medium
+status: summarised
+summary_by: Claude
+summary_date: '2026-11-09'
 reviewed_by: ''
 reviewed_date: ''
-attended_by: []
-links: {}
-to_check: No slides, transcript or notes filed yet; whether Nathan attended this one.
+attended_by: [Nathan]
+links:
+  otter: https://otter.ai/u/AFcS0eaniyWZMj-cu4IFkai0za0
+to_check: 'The recording starts mid-sentence (the chair''s opening is cut); Otter''s speaker labels are my reading (Speaker 1
+  Nikki Hancocks, 2 Sinead Gibbons, 3 Julian Harvie, 4 Dan Richardson) and the [14:35] turn merges the chair''s question
+  with Sinead''s answer; Speaker 5 ([18:28]) is unidentified; Luca''s "Digital Finance Act" is as transcribed; whether
+  photos of the slides exist (if any were used).'
 added: '2026-11-09'
 added_by: Claude (from the event app's programme, screenshots from Nathan at 11:39-11:40 on 9 Nov 2026)

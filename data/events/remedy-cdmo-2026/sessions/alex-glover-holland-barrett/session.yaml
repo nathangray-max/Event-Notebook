@@ -1,5 +1,5 @@
 id: alex-glover-holland-barrett
-title: 'Alex Glover, Holland & Barrett: from mechanisms to outcomes consumers feel'
+title: 'Holland & Barrett: how longevity science translates into consumer outcomes'
 date: '2026-10-22'
 start: '15:50'
 end: '16:01'
@@ -8,19 +8,25 @@ track: ''
 speakers:
 - name: Alex Glover
   organisation: Holland & Barrett
-  role: ''
+  role: Leads the product formulation team (own-label products globally)
 themes: []
-ingredients: []
-relevance: ''
-status: captured
-summary_by: ''
-summary_date: ''
+ingredients:
+- NAD boosters (nicotinamide riboside, nicotinamide mononucleotide)
+- fibre
+- vitamin D
+- calcium
+- protein
+- curcumin
+relevance: medium
+status: summarised
+summary_by: Claude
+summary_date: '2026-11-09'
 reviewed_by: ''
 reviewed_date: ''
 attended_by:
 - Nathan
-links: {}
-to_check: 'Working title and times are from Nathan''s Otter recording (its label, start and length, Pacific time converted
-  to Warsaw time), not the programme: billed title, speakers'' full names and roles, and the room still to confirm.'
+links:
+  otter: https://otter.ai/u/LXa2bHODxRY5s8up7grRiBmKTgI
+to_check: 'The title is from the host''s introduction (heard as "how longevity science translates into the relevant consumer outcomes"), not a printed programme; Alex Glover''s exact job title and the room are unconfirmed; the 2026 meta-analysis on NAD boosters he cited is not named.'
 added: '2026-11-09'
 added_by: Claude (from Nathan's Otter recordings, 9 Nov 2026)

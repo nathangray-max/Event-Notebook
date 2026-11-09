@@ -1,26 +1,31 @@
 id: protein-brewery-fermotein
-title: 'The Protein Brewery: Fermotein mycelium protein'
+title: 'The Protein Brewery: Fermotein, a fermented mycelium protein for active and all-in-one nutrition'
 date: '2026-10-22'
 start: '15:33'
 end: '15:41'
 format: talk
 track: ''
 speakers:
-- name: Thijs
+- name: Thijs Bos
   organisation: The Protein Brewery
-  role: ''
+  role: CEO
 themes: []
-ingredients: []
-relevance: ''
-status: captured
-summary_by: ''
-summary_date: ''
+ingredients:
+- Fermotein (mycelium protein)
+- spermidine
+- chitin and chitosan (prebiotic fibre)
+- choline
+- fava protein
+relevance: high
+status: summarised
+summary_by: Claude
+summary_date: '2026-11-09'
 reviewed_by: ''
 reviewed_date: ''
 attended_by:
 - Nathan
-links: {}
-to_check: 'Working title and times are from Nathan''s Otter recording (its label, start and length, Pacific time converted
-  to Warsaw time), not the programme: billed title, speakers'' full names and roles, and the room still to confirm.'
+links:
+  otter: https://otter.ai/u/ZXyx5ZOSuM5zfKku6YMQxaU1pFA
+to_check: 'Billed title and room unconfirmed; the CEO''s name is transcribed "Tais Bos" (Otter titled the recording "Thijs") and the shareholder "Nova Holdings", both taken here as Thijs Bos and Novo Holdings; the nematode study partner is heard as "Nema Live".'
 added: '2026-11-09'
 added_by: Claude (from Nathan's Otter recordings, 9 Nov 2026)

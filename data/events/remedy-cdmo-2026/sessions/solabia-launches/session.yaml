@@ -1,26 +1,32 @@
 id: solabia-launches
-title: 'Solabia Nutrition: what makes a launch succeed'
+title: 'Solabia Nutrition: three things your brief forgot to tell you'
 date: '2026-10-22'
 start: '15:01'
 end: '15:10'
 format: talk
 track: ''
 speakers:
-- name: Thomas
+- name: Thomas Beadnall
   organisation: Solabia Nutrition
-  role: ''
+  role: Works with Solabia Nutrition on its ingredient portfolio (title not given; surname is Otter's speaker label)
 themes: []
-ingredients: []
-relevance: ''
-status: captured
-summary_by: ''
-summary_date: ''
+ingredients:
+- creatine
+- collagen
+- Microbiomex (flavonol with a prebiotic effect)
+- Brainberry (aronia berry extract)
+- citrus extract for nitric oxide (heard as WhatsApp)
+- olive leaf extract (heard as Bun Olive)
+relevance: high
+status: summarised
+summary_by: Claude
+summary_date: '2026-11-09'
 reviewed_by: ''
 reviewed_date: ''
 attended_by:
 - Nathan
-links: {}
-to_check: 'Working title and times are from Nathan''s Otter recording (its label, start and length, Pacific time converted
-  to Warsaw time), not the programme: billed title, speakers'' full names and roles, and the room still to confirm.'
+links:
+  otter: https://otter.ai/u/6FNnMKNhUH1TKX6_R0ZQLnVqrDo
+to_check: 'Billed title and room unconfirmed; Thomas''s surname comes from Otter''s speaker label (Beadnall), not from the stage, and his role at Solabia is not stated; Otter mis-hears Solabia (Salava, Sylvia, Larry) and the citrus and olive leaf ingredient names (heard as WhatsApp and Bun Olive), so their real names need checking.'
 added: '2026-11-09'
 added_by: Claude (from Nathan's Otter recordings, 9 Nov 2026)

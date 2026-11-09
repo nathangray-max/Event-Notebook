@@ -1,23 +1,49 @@
 id: panel-evidence-regulation-ai
-title: 'Panel: evidence, regulation, supply and AI in nutraceuticals'
+title: 'Closing panel: evidence, regulation, supply and AI in nutraceuticals'
 date: '2026-10-22'
 start: '16:35'
 end: '17:06'
 format: panel
 track: ''
-speakers: []
+speakers:
+- name: Alex Glover
+  organisation: Holland & Barrett
+  role: Leads the product formulation team (own-label); retail and consumer perspective
+- name: Martina
+  organisation: ''
+  role: From a contract development and manufacturing organisation (company not named)
+- name: Matt
+  organisation: ''
+  role: Ingredient developer (company not named; spoke of a new brain ingredient and krill)
+- name: Joanna
+  organisation: ''
+  role: Lawyer, food law (firm not named)
+- name: Alexandra
+  organisation: Pharmaceutical company (heard as Zendiva)
+  role: ''
 themes: []
-ingredients: []
-relevance: ''
-status: captured
-summary_by: ''
-summary_date: ''
+ingredients:
+- creatine
+- omega-3 (fish oil)
+- krill oil
+- astaxanthin
+- vitamin D
+- magnesium
+- zinc
+- protein
+- probiotics
+- rhodiola
+- fibre
+relevance: medium
+status: summarised
+summary_by: Claude
+summary_date: '2026-11-09'
 reviewed_by: ''
 reviewed_date: ''
 attended_by:
 - Nathan
-links: {}
-to_check: 'Working title and times are from Nathan''s Otter recording (its label, start and length, Pacific time converted
-  to Warsaw time), not the programme: billed title, speakers'' full names and roles, and the room still to confirm.'
+links:
+  otter: https://otter.ai/u/ZEdFW2wF_FhJmfWkdH-p8aSyG74
+to_check: 'Billed title and room unconfirmed; the moderator is unnamed and the panellists'' surnames, companies and roles are not given except Alex Glover (Alexandra is heard as "Alexandra Dumchich" of "Zendiva"); Otter''s labels are mapped to names from the moderator''s cues (Speaker 2 Martina, Speaker 3 Joanna, Speaker 4 Alexandra, Speaker 5 Matt), and the moderator twice calls Matt "Max".'
 added: '2026-11-09'
 added_by: Claude (from Nathan's Otter recordings, 9 Nov 2026)

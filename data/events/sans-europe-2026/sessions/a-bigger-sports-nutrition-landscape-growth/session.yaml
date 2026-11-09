@@ -1,8 +1,8 @@
 id: a-bigger-sports-nutrition-landscape-growth
 title: 'A Bigger Sports Nutrition Landscape: Growth, Tensions and What Comes Next'
 date: '2026-11-09'
-start: 09:05
-end: 09:30
+start: '09:05'
+end: '09:30'
 format: talk
 track: State of the Market
 room: Partnership Forum
@@ -11,15 +11,32 @@ speakers:
   organisation: Nutrition Integrated
   role: ''
 themes: []
-ingredients: []
-relevance: ''
-status: captured
-summary_by: ''
-summary_date: ''
+ingredients:
+- whey protein
+- clear whey
+- whey protein isolate
+- whey protein concentrate
+- creatine
+- CreaWin
+- collagen
+- magnesium
+- electrolytes
+- sodium
+- plant protein
+- caseinate
+- yeast protein
+- mycelium protein
+relevance: high
+status: summarised
+summary_by: Claude
+summary_date: '2026-11-09'
 reviewed_by: ''
 reviewed_date: ''
-attended_by: []
-links: {}
-to_check: No slides, transcript or notes filed yet; whether Nathan attended this one.
+attended_by: [Nathan]
+links:
+  otter: https://otter.ai/u/Pxd86SRFpBSZ2lO7RwpmypP_fpQ
+to_check: 'Whether photos of the slides exist (the product counts, branded-ingredient penetration and whey price charts were
+  on slides); the chair at [25:30] is unnamed by Otter (Nikki Hancocks, my reading); "Sonero", "Rocker" and "solely" are
+  Otter''s spellings of brand names; Otter gives one time per speaker turn, so most cites are [00:00].'
 added: '2026-11-09'
 added_by: Claude (from the event app's programme, screenshots from Nathan at 11:39-11:40 on 9 Nov 2026)

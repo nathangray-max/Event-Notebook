@@ -1,5 +1,5 @@
 id: tantus-longevity-concepts
-title: 'Tantus: turning longevity trends into products'
+title: 'Tantus: longevity in action, from a trend to a product'
 date: '2026-10-22'
 start: '15:11'
 end: '15:18'
@@ -8,22 +8,24 @@ track: ''
 speakers:
 - name: Victoria
   organisation: Tantus
-  role: ''
-- name: Mateus
+  role: Sales and business development manager; certified herbalist
+- name: Mateus Kollu
   organisation: Tantus
-  role: ''
+  role: Clinical dietitian and business development manager (surname as transcribed; the host said "Matthias Korgol")
 themes: []
-ingredients: []
-relevance: ''
-status: captured
-summary_by: ''
-summary_date: ''
+ingredients:
+- creatine
+- hesperidin (hesperidin-based ingredient)
+relevance: high
+status: summarised
+summary_by: Claude
+summary_date: '2026-11-09'
 reviewed_by: ''
 reviewed_date: ''
 attended_by:
 - Nathan
-links: {}
-to_check: 'Working title and times are from Nathan''s Otter recording (its label, start and length, Pacific time converted
-  to Warsaw time), not the programme: billed title, speakers'' full names and roles, and the room still to confirm.'
+links:
+  otter: https://otter.ai/u/OYrH7X1nX2KoUmyAm7nhqedGwTk
+to_check: 'The title is the host''s introduction ("longevity in action, from a trend to a product") not a printed programme; Victoria''s surname, the spelling of Mateus''s name (transcribed "Mateus Kollu", introduced as "Matthias Korgol") and the room are unconfirmed; the recording stops after the first of three product concepts.'
 added: '2026-11-09'
 added_by: Claude (from Nathan's Otter recordings, 9 Nov 2026)
