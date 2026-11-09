@@ -1,0 +1,18 @@
+id: example-summit-2025
+name: Example Summit 2025 (synthetic test data)
+short: Example 2025
+start: 2025-03-04
+end: 2025-03-05
+city: Testville
+country: Nowhere
+venue: The Fixture Hall
+organiser: The test suite
+url: https://example.invalid/summit
+status: reported
+attended_by: [Nathan]
+links:
+  programme: https://example.invalid/summit/programme
+description: Invented for the tests. Nothing here was said by anyone.
+to_check: ''
+added: 2025-03-06
+added_by: tests

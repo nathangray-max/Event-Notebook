@@ -1,0 +1,3 @@
+date,who,words,rule,applied_in,checked_by
+2026-11-09,Nathan,"a system to help me manage notes and insights from conferences ... uploads of presentations, transcripts of talks, summaries and take aways from sessions, key themes, and overall event reports",One store per event: originals (slides and transcripts) untouched; a summary with takeaways per session; themes per event tracked across events by shared ids; one report per event,"confnotes/store.py, docs/design.md","tests/test_store.py"
+2026-11-09,Nathan,"similar to Cortex, may be a sub-set, but should be discrete and independent in the same way VA-Analysis or ProductDB or Black-Book",Its own repo and build; Cortex reads it through the Suite API only,"exports/api/v1/, docs/api.md","tests/test_api.py"

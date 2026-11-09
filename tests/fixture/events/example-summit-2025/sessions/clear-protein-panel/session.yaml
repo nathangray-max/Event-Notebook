@@ -1,0 +1,26 @@
+id: clear-protein-panel
+title: Retail panel on clear protein
+date: 2025-03-05
+start: '14:00'
+end: '14:45'
+format: panel
+track: Retail room
+speakers:
+- name: B. Retailer
+  organisation: A Shop
+  role: Buyer
+- name: C. Brand
+  organisation: A Brand
+themes: [clear-protein-formats]
+ingredients: [clear whey isolate, "IsoClr: Pea"]
+relevance: medium
+status: captured
+summary_by: ''
+summary_date: ''
+reviewed_by: ''
+reviewed_date: ''
+attended_by: [Nathan]
+links: {}
+to_check: Recording not yet received from the organiser; summary waits for it.
+added: 2025-03-06
+added_by: tests

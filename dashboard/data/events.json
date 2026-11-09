@@ -1,0 +1,45 @@
+{
+ "generated": {
+  "commit": "3714636",
+  "uncommitted_changes": true,
+  "date": "2026-11-09"
+ },
+ "events": [
+  {
+   "id": "sans-europe-2026",
+   "name": "Sports & Active Nutrition Summit Europe 2026",
+   "short": "SANS Europe 2026",
+   "start": "2026-11-09",
+   "end": "2026-11-09",
+   "city": "London",
+   "country": "United Kingdom",
+   "venue": "Convene 133 Houndsditch",
+   "organiser": "NutraIngredients",
+   "url": "https://www.nutraingredients.com/Events/sports-active-nutrition-summit-europe-2026/",
+   "status": "attending",
+   "attended_by": [],
+   "links": {
+    "save_the_date": "https://www.nutraingredients.com/Article/2026/07/06/save-the-date-sports-active-nutrition-summit-europe-returns-for-2026/",
+    "reasons_to_attend": "https://www.nutraingredients.com/Article/2026/09/02/top-reasons-to-attend-nutraingredients-sports-active-nutrition-summit-europe-2026/"
+   },
+   "description": "NutraIngredients' one-day sports and active nutrition conference, followed on 10 and 11 November by its Nutra Healthspan Summit at the same venue.",
+   "to_check": "Who attended for Vita Actives; the programme (sessions, speakers, times); whether the Nutra Healthspan Summit days are covered as their own event.",
+   "added": "2026-11-09",
+   "added_by": "Claude (from NutraIngredients' event pages, 9 Nov 2026)",
+   "themes": [],
+   "report": {
+    "In brief": "",
+    "Themes": "",
+    "Sessions that mattered": "",
+    "People met": "",
+    "For Vita Actives": "",
+    "Follow-ups": "",
+    "Sources": ""
+   },
+   "sessions": [],
+   "report_md": "",
+   "has_report": false
+  }
+ ],
+ "themes": []
+}

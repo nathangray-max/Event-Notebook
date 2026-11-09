@@ -1,0 +1,3 @@
+# The theme vocabulary: one id per theme, shared across events (docs/design.md §2, "Themes").
+# Add a theme only when no existing one fits; an event's own version of a theme is its headline in that event's themes.yaml.
+themes: []

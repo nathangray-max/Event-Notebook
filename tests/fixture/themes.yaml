@@ -1,0 +1,13 @@
+themes:
+- id: creatine-beyond-muscle
+  name: Creatine beyond muscle
+  description: Creatine positioned for brain, bone and healthy ageing rather than strength alone.
+  first_seen: example-summit-2025
+- id: clear-protein-formats
+  name: Clear protein formats
+  description: Transparent, juice-like protein drinks and powders as the growth format for protein.
+  first_seen: example-summit-2025
+- id: unused-theme
+  name: A theme no event carries yet
+  description: Kept in the vocabulary to check that the build handles a theme with no events.
+  first_seen: ''

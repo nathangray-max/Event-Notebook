@@ -1,0 +1,15 @@
+themes:
+- theme: creatine-beyond-muscle
+  headline: Two of five talks sold creatine on cognition and ageing, not on strength.
+  strength: dominant
+  evidence:
+  - session: creatine-beyond-muscle
+    quote: "The strength story is told. The next buyer is fifty and worried about her memory."
+    where: "12:40"
+- theme: clear-protein-formats
+  headline: Clear protein was named as the format to watch by the retail panel.
+  strength: present
+  evidence:
+  - session: clear-protein-panel
+    quote: "Clear is the only protein shelf growing in our stores."
+    where: notes

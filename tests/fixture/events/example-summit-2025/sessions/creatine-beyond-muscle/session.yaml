@@ -1,0 +1,25 @@
+id: creatine-beyond-muscle
+title: Creatine beyond muscle
+date: 2025-03-04
+start: '09:30'
+end: '10:00'
+format: keynote
+track: Main stage
+speakers:
+- name: Dr A. Example
+  organisation: Example University
+  role: Professor of invented nutrition
+themes: [creatine-beyond-muscle]
+ingredients: [CreaWin, creatine monohydrate]
+relevance: high
+status: reviewed
+summary_by: Claude
+summary_date: 2025-03-05
+reviewed_by: Nathan
+reviewed_date: 2025-03-06
+attended_by: [Nathan]
+links:
+  programme: https://example.invalid/summit/creatine
+to_check: ''
+added: 2025-03-05
+added_by: tests
