@@ -1,8 +1,8 @@
 {
  "schema": "confnotes.takeaways/1",
  "built": "2026-11-09",
- "commit": "5a7c2ed",
- "count": 199,
+ "commit": "43bf5fe",
+ "count": 217,
  "items": [
   {
    "id": "sans-europe-2026/a-bigger-sports-nutrition-landscape-growth#1",
@@ -47,9 +47,10 @@
    "event": "sans-europe-2026",
    "session": "a-bigger-sports-nutrition-landscape-growth",
    "date": "2026-11-09",
-   "text": "Whey protein prices have never been higher and brands are going through a \"structural reset\", not mitigation: fewer promotions, pack architecture (1 kg to 900 g at the same price), some reformulation, a rush of new whey launches, and a push to sell higher-margin lines instead. Consumer prices for clear whey, WPI, blends and WPC are up by anywhere between 15 and 25 percent. He believes protein will \"look quite differently in 18 to 20 months\" [00:00].",
+   "text": "Raw whey prices: on Vesper's EU index, WPI rose from about EUR 11 a kilogram in January 2023 to EUR 30.5 by July 2026 and WPC80 from about EUR 7 to EUR 27.6, while WPC35 moved only from about EUR 3 to EUR 4.3; the slide calls it \"the strongest period of price inflation on record\", with WPC80 and WPI up about fourfold on 2023 and the sharpest acceleration in H1 2026 [00:00] (photo 4).",
    "cites": [
-    "00:00"
+    "00:00",
+    "photo 4"
    ],
    "themes": [
     "whey-price-squeeze",
@@ -82,6 +83,84 @@
   },
   {
    "id": "sans-europe-2026/a-bigger-sports-nutrition-landscape-growth#3",
+   "event": "sans-europe-2026",
+   "session": "a-bigger-sports-nutrition-landscape-growth",
+   "date": "2026-11-09",
+   "text": "Whey protein prices have never been higher and brands are going through a \"structural reset\", not mitigation: fewer promotions, pack architecture (1 kg to 900 g at the same price), some reformulation, a rush of new whey launches, and a push to sell higher-margin lines instead. Consumer prices per kilogram for priority brands in Europe rose between October 2025 and October 2026 by 13.6% for clear whey (EUR 60.14 to 68.32), 28.0% for HWP/WPI (47.73 to 61.10), 28.8% for whey blends (37.56 to 48.38), 15.0% for whey hybrids (35.64 to 40.97) and 20.8% for WPC (36.66 to 44.29); he said 15 to 25 percent from the stage. He believes protein will \"look quite differently in 18 to 20 months\" [00:00] (photo 8).",
+   "cites": [
+    "00:00",
+    "photo 8"
+   ],
+   "themes": [
+    "whey-price-squeeze",
+    "sports-nutrition-mainstream",
+    "novel-proteins-and-blends",
+    "creatine-beyond-strength",
+    "hydration-electrolytes",
+    "branded-ingredients-differentiation",
+    "longevity-positioning",
+    "glp-1-nutrition"
+   ],
+   "ingredients": [
+    "whey protein",
+    "clear whey",
+    "whey protein isolate",
+    "whey protein concentrate",
+    "creatine",
+    "CreaWin",
+    "collagen",
+    "magnesium",
+    "electrolytes",
+    "sodium",
+    "plant protein",
+    "caseinate",
+    "yeast protein",
+    "mycelium protein"
+   ],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "sans-europe-2026/a-bigger-sports-nutrition-landscape-growth#4",
+   "event": "sans-europe-2026",
+   "session": "a-bigger-sports-nutrition-landscape-growth",
+   "date": "2026-11-09",
+   "text": "His mitigation ladder has six rungs: price increases (widespread), reduced promotion (increasingly common) and pack architecture (widely adopted globally) are tactical; reformulation is strategic and brand specific; new products that cut whey reliance and a portfolio shift into creatine, energy and fibre are the \"top priority for brands\", with the limitations named as a ground-zero revenue base, brand permission and alienating core consumers [00:00] (photo 6).",
+   "cites": [
+    "00:00",
+    "photo 6"
+   ],
+   "themes": [
+    "whey-price-squeeze",
+    "sports-nutrition-mainstream",
+    "novel-proteins-and-blends",
+    "creatine-beyond-strength",
+    "hydration-electrolytes",
+    "branded-ingredients-differentiation",
+    "longevity-positioning",
+    "glp-1-nutrition"
+   ],
+   "ingredients": [
+    "whey protein",
+    "clear whey",
+    "whey protein isolate",
+    "whey protein concentrate",
+    "creatine",
+    "CreaWin",
+    "collagen",
+    "magnesium",
+    "electrolytes",
+    "sodium",
+    "plant protein",
+    "caseinate",
+    "yeast protein",
+    "mycelium protein"
+   ],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "sans-europe-2026/a-bigger-sports-nutrition-landscape-growth#5",
    "event": "sans-europe-2026",
    "session": "a-bigger-sports-nutrition-landscape-growth",
    "date": "2026-11-09",
@@ -119,90 +198,14 @@
    "status": "summarised"
   },
   {
-   "id": "sans-europe-2026/a-bigger-sports-nutrition-landscape-growth#4",
-   "event": "sans-europe-2026",
-   "session": "a-bigger-sports-nutrition-landscape-growth",
-   "date": "2026-11-09",
-   "text": "\"Whey hybrids\" (presented as whey, blended with milk, soy or yeast to cut cost of goods) launched in greater numbers in the last 12 months than ever; whey milkshakes (whey plus milk) and whey plus collagen (typically 10 g plus 10 g, in shakes and clear drinks) are the next pillars; GLP-1 and longevity proteins, yeast, mycelium and air-derived protein are coming through but are still expensive [00:00].",
-   "cites": [
-    "00:00"
-   ],
-   "themes": [
-    "whey-price-squeeze",
-    "sports-nutrition-mainstream",
-    "novel-proteins-and-blends",
-    "creatine-beyond-strength",
-    "hydration-electrolytes",
-    "branded-ingredients-differentiation",
-    "longevity-positioning",
-    "glp-1-nutrition"
-   ],
-   "ingredients": [
-    "whey protein",
-    "clear whey",
-    "whey protein isolate",
-    "whey protein concentrate",
-    "creatine",
-    "CreaWin",
-    "collagen",
-    "magnesium",
-    "electrolytes",
-    "sodium",
-    "plant protein",
-    "caseinate",
-    "yeast protein",
-    "mycelium protein"
-   ],
-   "relevance": "high",
-   "status": "summarised"
-  },
-  {
-   "id": "sans-europe-2026/a-bigger-sports-nutrition-landscape-growth#5",
-   "event": "sans-europe-2026",
-   "session": "a-bigger-sports-nutrition-landscape-growth",
-   "date": "2026-11-09",
-   "text": "Plant protein is not taking the gap: ranges come in and out because they still underdeliver on taste. The winning message is \"we're just a really bloody good protein\", not \"plant\"; dairy plus plant hybrids are appearing for the first time and caseinates are gaining with milk volatility [00:00].",
-   "cites": [
-    "00:00"
-   ],
-   "themes": [
-    "whey-price-squeeze",
-    "sports-nutrition-mainstream",
-    "novel-proteins-and-blends",
-    "creatine-beyond-strength",
-    "hydration-electrolytes",
-    "branded-ingredients-differentiation",
-    "longevity-positioning",
-    "glp-1-nutrition"
-   ],
-   "ingredients": [
-    "whey protein",
-    "clear whey",
-    "whey protein isolate",
-    "whey protein concentrate",
-    "creatine",
-    "CreaWin",
-    "collagen",
-    "magnesium",
-    "electrolytes",
-    "sodium",
-    "plant protein",
-    "caseinate",
-    "yeast protein",
-    "mycelium protein"
-   ],
-   "relevance": "high",
-   "status": "summarised"
-  },
-  {
    "id": "sans-europe-2026/a-bigger-sports-nutrition-landscape-growth#6",
    "event": "sans-europe-2026",
    "session": "a-bigger-sports-nutrition-landscape-growth",
    "date": "2026-11-09",
-   "text": "Creatine is now \"for all people and for all occasions\"; gummies are the fastest-growing format by new launches in the last six months, off a small base, with \"lots of conjecture about stability\"; \"other\" formats (liquids, foods, chocolate) grew faster still off a tiny base, and most brands now have a route into broader retail [00:00], [25:59].",
+   "text": "\"Whey hybrids\" (presented as whey, blended with milk, soy or yeast to cut cost of goods) launched in greater numbers in the last 12 months than ever; whey milkshakes (whey plus milk) and whey plus collagen (typically 10 g plus 10 g, in shakes and clear drinks) are the next pillars; GLP-1 and longevity proteins, yeast, mycelium and air-derived protein are coming through but are still expensive [00:00]. The slide's examples were Bulk Daily Whey Protein (\"best value protein\"), Myprotein's Impact Whey Protein Milkshake (20 g protein, 2.6 g sugar, 1.2 g fat per 29 g serving), Clean Simple Eats Protein Powder + Collagen and Planta (20 g protein, 24 vitamins and minerals, 1,000 mg BCAAs) (photo 9).",
    "cites": [
     "00:00",
-    "25:59"
+    "photo 9"
    ],
    "themes": [
     "whey-price-squeeze",
@@ -238,9 +241,10 @@
    "event": "sans-europe-2026",
    "session": "a-bigger-sports-nutrition-landscape-growth",
    "date": "2026-11-09",
-   "text": "Hydration: no agreed electrolyte dose (SiS \"all five essential\", LMNT 1,000 mg sodium, Precision by sweat rate); Liquid IV is the category leader at £1.50 a stick; effervescents are three times cheaper than a stick pack; naturalness (no colours or preservatives, natural sweeteners and flavours, short ingredient lists) is a prerequisite to growth [00:00].",
+   "text": "Six \"pillars of innovation\" from the price squeeze: whey choice risks confusing consumers; communications react more than they solve; hybrid powders are gaining consistency (dairy plus plant in overt blends); caseinate is the new milkshake; plant protein still needs a taste breakthrough; and the Myprotein x Nero launch signals a race for the next cafe collaboration [00:00] (photo 12).",
    "cites": [
-    "00:00"
+    "00:00",
+    "photo 12"
    ],
    "themes": [
     "whey-price-squeeze",
@@ -276,9 +280,10 @@
    "event": "sans-europe-2026",
    "session": "a-bigger-sports-nutrition-landscape-growth",
    "date": "2026-11-09",
-   "text": "Product counts tracked: almost 3,500 creatine, almost 2,800 standalone magnesium, over 2,500 collagen; longevity small but growing [00:00].",
+   "text": "Plant protein is not taking the gap: ranges come in and out because they still underdeliver on taste. The winning message is \"we're just a really bloody good protein\", not \"plant\"; dairy plus plant hybrids are appearing for the first time and caseinates are gaining with milk volatility [00:00]. His example was Rocka's vegan range: Pro Protein at 24 g protein, 122 kcal, an 83% fava bean and pea blend, EUR 37.99 per 700 g (EUR 1.65 a serve); Natural Protein at 21 g, 112 kcal, 86.6% soy, fava, almond and pea, EUR 29.99 per 600 g (EUR 1.50 a serve); Protein Shake, \"the tastiest vegan protein powder\", 84% blend, EUR 37.99 per 900 g (EUR 1.27 a serve), plant moving \"from an extended product proposition to a simple product attribute\" (photo 10).",
    "cites": [
-    "00:00"
+    "00:00",
+    "photo 10"
    ],
    "themes": [
     "whey-price-squeeze",
@@ -314,9 +319,9 @@
    "event": "sans-europe-2026",
    "session": "a-bigger-sports-nutrition-landscape-growth",
    "date": "2026-11-09",
-   "text": "Branded ingredient penetration: over one in two pre-workouts (many use more than one), 40% of longevity products, one in four creatine products, where most comes from one supplier and \"there's a race for those to follow\" [18:50].",
+   "text": "The creatine benchmark is Optimum Nutrition's Micronised Creatine Powder: 3 g creatine monohydrate a serve, GBP 14.00 for the 187 g unflavoured tub (25p a serve, EUR 0.33) and GBP 16.00 for 247 g flavoured (29p a serve), fronted by Lauren James, Chelsea and England footballer (photo 13).",
    "cites": [
-    "18:50"
+    "photo 13"
    ],
    "themes": [
     "whey-price-squeeze",
@@ -352,9 +357,12 @@
    "event": "sans-europe-2026",
    "session": "a-bigger-sports-nutrition-landscape-growth",
    "date": "2026-11-09",
-   "text": "Longevity brands and athlete-backed brands (Sergio Ramos linking sport to longevity) compete for the same consumer with sports nutrition products framed as \"live better today\"; the competitive set has never been broader [18:50].",
+   "text": "Creatine is now \"for all people and for all occasions\"; gummies are the fastest-growing format by new launches in the last six months, off a small base, with \"lots of conjecture about stability\"; \"other\" formats (liquids, foods, chocolate) grew faster still off a tiny base, and most brands now have a route into broader retail [00:00], [25:59]. The format split of 2,639 creatine products: powder 70.1% (13.1% added in the last six months), capsule 17.0% (8.7%), gummy 8.0% (36.2%), tablet 4.2% (14.4%), effervescent 0.4% (10.0%), other 0.3% (44.4%); 378 products, 14.3% of the total, were added in six months. The examples were Creatonics' \"Creatine+ formulated for women\" sachet and Sunday Natural's Nutrachoc creatine chocolate (20 pieces at 1,000 mg creatine monohydrate, sweetened with tagatose) (photo 14) (photo 15).",
    "cites": [
-    "18:50"
+    "00:00",
+    "25:59",
+    "photo 14",
+    "photo 15"
    ],
    "themes": [
     "whey-price-squeeze",
@@ -387,6 +395,317 @@
   },
   {
    "id": "sans-europe-2026/a-bigger-sports-nutrition-landscape-growth#11",
+   "event": "sans-europe-2026",
+   "session": "a-bigger-sports-nutrition-landscape-growth",
+   "date": "2026-11-09",
+   "text": "Hydration: no agreed electrolyte dose (SiS \"all five essential\", LMNT 1,000 mg sodium, Precision by sweat rate); Liquid IV is the category leader at £1.50 a stick; effervescents are three times cheaper than a stick pack; naturalness (no colours or preservatives, natural sweeteners and flavours, short ingredient lists) is a prerequisite to growth [00:00]. The shelf prices on the slide: Liquid I.V. GBP 1.50 a sachet (GBP 9.00 for 6; GBP 1.00 on Clubcard), Phizz GBP 0.40 a tablet (GBP 8.00 for 20; GBP 0.28 on Clubcard), Evian 750 ml GBP 1.85 single, Red Bull 250 ml GBP 2.10 single, Lucozade Sport 500 ml GBP 1.65 single (photo 16).",
+   "cites": [
+    "00:00",
+    "photo 16"
+   ],
+   "themes": [
+    "whey-price-squeeze",
+    "sports-nutrition-mainstream",
+    "novel-proteins-and-blends",
+    "creatine-beyond-strength",
+    "hydration-electrolytes",
+    "branded-ingredients-differentiation",
+    "longevity-positioning",
+    "glp-1-nutrition"
+   ],
+   "ingredients": [
+    "whey protein",
+    "clear whey",
+    "whey protein isolate",
+    "whey protein concentrate",
+    "creatine",
+    "CreaWin",
+    "collagen",
+    "magnesium",
+    "electrolytes",
+    "sodium",
+    "plant protein",
+    "caseinate",
+    "yeast protein",
+    "mycelium protein"
+   ],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "sans-europe-2026/a-bigger-sports-nutrition-landscape-growth#12",
+   "event": "sans-europe-2026",
+   "session": "a-bigger-sports-nutrition-landscape-growth",
+   "date": "2026-11-09",
+   "text": "Declared sodium a serve on selected electrolyte powders runs from 38 mg (ViDrate Boost) through 350 mg (SiS Hydro+), 500 mg (Cadence Daily), 570 mg (Liquid I.V. Multiplier) and 750 mg (Hunter & Gather) to 1,000 mg (LMNT); 69% of powders include four or five electrolytes, and 8% of products claim Himalayan sea salt as a natural sodium source. The slide's heading: \"there is no optimal formula\" [00:00] (photo 18).",
+   "cites": [
+    "00:00",
+    "photo 18"
+   ],
+   "themes": [
+    "whey-price-squeeze",
+    "sports-nutrition-mainstream",
+    "novel-proteins-and-blends",
+    "creatine-beyond-strength",
+    "hydration-electrolytes",
+    "branded-ingredients-differentiation",
+    "longevity-positioning",
+    "glp-1-nutrition"
+   ],
+   "ingredients": [
+    "whey protein",
+    "clear whey",
+    "whey protein isolate",
+    "whey protein concentrate",
+    "creatine",
+    "CreaWin",
+    "collagen",
+    "magnesium",
+    "electrolytes",
+    "sodium",
+    "plant protein",
+    "caseinate",
+    "yeast protein",
+    "mycelium protein"
+   ],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "sans-europe-2026/a-bigger-sports-nutrition-landscape-growth#13",
+   "event": "sans-europe-2026",
+   "session": "a-bigger-sports-nutrition-landscape-growth",
+   "date": "2026-11-09",
+   "text": "Hydration powders are positioned three ways: everyday hydration (Humantra, Hunter & Gather, Repowr: routine, natural, sugar-free), superior hydration (SOS \"4x faster than water\", Ancient + Brave, ARTAH \"cellular hydration\") and performance hydration (226ERS Hydra Zero on sweat losses, HIGH5 Isotonic carbs plus electrolytes, Precision PH strength options) (photo 22).",
+   "cites": [
+    "photo 22"
+   ],
+   "themes": [
+    "whey-price-squeeze",
+    "sports-nutrition-mainstream",
+    "novel-proteins-and-blends",
+    "creatine-beyond-strength",
+    "hydration-electrolytes",
+    "branded-ingredients-differentiation",
+    "longevity-positioning",
+    "glp-1-nutrition"
+   ],
+   "ingredients": [
+    "whey protein",
+    "clear whey",
+    "whey protein isolate",
+    "whey protein concentrate",
+    "creatine",
+    "CreaWin",
+    "collagen",
+    "magnesium",
+    "electrolytes",
+    "sodium",
+    "plant protein",
+    "caseinate",
+    "yeast protein",
+    "mycelium protein"
+   ],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "sans-europe-2026/a-bigger-sports-nutrition-landscape-growth#14",
+   "event": "sans-europe-2026",
+   "session": "a-bigger-sports-nutrition-landscape-growth",
+   "date": "2026-11-09",
+   "text": "Naturalness in ingredient declarations: 40% state natural colours, 46% use natural flavours and 43% include stevia; Humantra names grape skin as its colour source, Liquid I.V. declares sugar alongside steviol glycosides, ViDrate covers flavour, colour and sweetening in one proposition and Cadence extends the absence message to fillers [00:00] (photo 24).",
+   "cites": [
+    "00:00",
+    "photo 24"
+   ],
+   "themes": [
+    "whey-price-squeeze",
+    "sports-nutrition-mainstream",
+    "novel-proteins-and-blends",
+    "creatine-beyond-strength",
+    "hydration-electrolytes",
+    "branded-ingredients-differentiation",
+    "longevity-positioning",
+    "glp-1-nutrition"
+   ],
+   "ingredients": [
+    "whey protein",
+    "clear whey",
+    "whey protein isolate",
+    "whey protein concentrate",
+    "creatine",
+    "CreaWin",
+    "collagen",
+    "magnesium",
+    "electrolytes",
+    "sodium",
+    "plant protein",
+    "caseinate",
+    "yeast protein",
+    "mycelium protein"
+   ],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "sans-europe-2026/a-bigger-sports-nutrition-landscape-growth#15",
+   "event": "sans-europe-2026",
+   "session": "a-bigger-sports-nutrition-landscape-growth",
+   "date": "2026-11-09",
+   "text": "Product counts tracked (US and Europe, 16,412 listings across eight spaces): 3,448 creatine (new-product activity +10% over the latest six months), 2,833 magnesium (+15%), 2,648 collagen, 2,153 energy and focus, 1,869 pre-workout, 1,626 sleep and mood, 1,487 electrolyte and 348 longevity (+20% new); he said almost 3,500 creatine, almost 2,800 magnesium and over 2,500 collagen from the stage. \"Only a few will be really successful\", by pulling on format, brand, dose, science and branded solutions [00:00] (photo 23).",
+   "cites": [
+    "00:00",
+    "photo 23"
+   ],
+   "themes": [
+    "whey-price-squeeze",
+    "sports-nutrition-mainstream",
+    "novel-proteins-and-blends",
+    "creatine-beyond-strength",
+    "hydration-electrolytes",
+    "branded-ingredients-differentiation",
+    "longevity-positioning",
+    "glp-1-nutrition"
+   ],
+   "ingredients": [
+    "whey protein",
+    "clear whey",
+    "whey protein isolate",
+    "whey protein concentrate",
+    "creatine",
+    "CreaWin",
+    "collagen",
+    "magnesium",
+    "electrolytes",
+    "sodium",
+    "plant protein",
+    "caseinate",
+    "yeast protein",
+    "mycelium protein"
+   ],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "sans-europe-2026/a-bigger-sports-nutrition-landscape-growth#16",
+   "event": "sans-europe-2026",
+   "session": "a-bigger-sports-nutrition-landscape-growth",
+   "date": "2026-11-09",
+   "text": "Branded ingredient penetration (share of tracked products with at least one identified branded ingredient): pre-workout 53% (many use more than one), longevity 40%, energy and focus 31%, sleep and mood 25%, creatine 25%, collagen 25%, electrolyte 17%, magnesium 17%; in creatine most comes from one supplier and \"there's a race for those to follow\". His slide's nuance: minerals \"need to work harder to prove the benefit\" [18:50] (photo 27).",
+   "cites": [
+    "18:50",
+    "photo 27"
+   ],
+   "themes": [
+    "whey-price-squeeze",
+    "sports-nutrition-mainstream",
+    "novel-proteins-and-blends",
+    "creatine-beyond-strength",
+    "hydration-electrolytes",
+    "branded-ingredients-differentiation",
+    "longevity-positioning",
+    "glp-1-nutrition"
+   ],
+   "ingredients": [
+    "whey protein",
+    "clear whey",
+    "whey protein isolate",
+    "whey protein concentrate",
+    "creatine",
+    "CreaWin",
+    "collagen",
+    "magnesium",
+    "electrolytes",
+    "sodium",
+    "plant protein",
+    "caseinate",
+    "yeast protein",
+    "mycelium protein"
+   ],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "sans-europe-2026/a-bigger-sports-nutrition-landscape-growth#17",
+   "event": "sans-europe-2026",
+   "session": "a-bigger-sports-nutrition-landscape-growth",
+   "date": "2026-11-09",
+   "text": "Longevity products take three approaches: alter the ageing process (cellular health, mitochondria, senescence), optimise the ageing experience (muscle and mobility, cognition, energy, sleep) or personalise to a life stage (ageing athletes, menopause, later life); Cellaro's Vitalize AM, Renew PM and Reset monthly range against the 12 hallmarks of ageing was the example [18:50] (photo 29).",
+   "cites": [
+    "18:50",
+    "photo 29"
+   ],
+   "themes": [
+    "whey-price-squeeze",
+    "sports-nutrition-mainstream",
+    "novel-proteins-and-blends",
+    "creatine-beyond-strength",
+    "hydration-electrolytes",
+    "branded-ingredients-differentiation",
+    "longevity-positioning",
+    "glp-1-nutrition"
+   ],
+   "ingredients": [
+    "whey protein",
+    "clear whey",
+    "whey protein isolate",
+    "whey protein concentrate",
+    "creatine",
+    "CreaWin",
+    "collagen",
+    "magnesium",
+    "electrolytes",
+    "sodium",
+    "plant protein",
+    "caseinate",
+    "yeast protein",
+    "mycelium protein"
+   ],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "sans-europe-2026/a-bigger-sports-nutrition-landscape-growth#18",
+   "event": "sans-europe-2026",
+   "session": "a-bigger-sports-nutrition-landscape-growth",
+   "date": "2026-11-09",
+   "text": "Longevity brands and athlete-backed brands (Sergio Ramos linking sport to longevity through Centenarian: \"Real longevity, backed by science. To perform better. To live better.\") compete for the same consumer with sports nutrition products framed as \"live better today\"; the competitive set has never been broader [18:50] (photo 30).",
+   "cites": [
+    "18:50",
+    "photo 30"
+   ],
+   "themes": [
+    "whey-price-squeeze",
+    "sports-nutrition-mainstream",
+    "novel-proteins-and-blends",
+    "creatine-beyond-strength",
+    "hydration-electrolytes",
+    "branded-ingredients-differentiation",
+    "longevity-positioning",
+    "glp-1-nutrition"
+   ],
+   "ingredients": [
+    "whey protein",
+    "clear whey",
+    "whey protein isolate",
+    "whey protein concentrate",
+    "creatine",
+    "CreaWin",
+    "collagen",
+    "magnesium",
+    "electrolytes",
+    "sodium",
+    "plant protein",
+    "caseinate",
+    "yeast protein",
+    "mycelium protein"
+   ],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "sans-europe-2026/a-bigger-sports-nutrition-landscape-growth#19",
    "event": "sans-europe-2026",
    "session": "a-bigger-sports-nutrition-landscape-growth",
    "date": "2026-11-09",
@@ -424,13 +743,53 @@
    "status": "summarised"
   },
   {
+   "id": "sans-europe-2026/a-bigger-sports-nutrition-landscape-growth#20",
+   "event": "sans-europe-2026",
+   "session": "a-bigger-sports-nutrition-landscape-growth",
+   "date": "2026-11-09",
+   "text": "The four closing principles: think beyond the category (new consumers, needs and occasions); stay true to your DNA (capabilities, credibility, differentiation); choose where to compete (\"where you could play from where you should play\"); know your right to win (where you can create distinctive value). \"Growth creates opportunity. Understanding change creates advantage.\" [18:50] (photo 32)",
+   "cites": [
+    "18:50",
+    "photo 32"
+   ],
+   "themes": [
+    "whey-price-squeeze",
+    "sports-nutrition-mainstream",
+    "novel-proteins-and-blends",
+    "creatine-beyond-strength",
+    "hydration-electrolytes",
+    "branded-ingredients-differentiation",
+    "longevity-positioning",
+    "glp-1-nutrition"
+   ],
+   "ingredients": [
+    "whey protein",
+    "clear whey",
+    "whey protein isolate",
+    "whey protein concentrate",
+    "creatine",
+    "CreaWin",
+    "collagen",
+    "magnesium",
+    "electrolytes",
+    "sodium",
+    "plant protein",
+    "caseinate",
+    "yeast protein",
+    "mycelium protein"
+   ],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
    "id": "sans-europe-2026/unfiltered-an-insider-s-view-of#1",
    "event": "sans-europe-2026",
    "session": "unfiltered-an-insider-s-view-of",
    "date": "2026-11-09",
-   "text": "WPI went from around 7 euros a kilogram in 2023 to over 30 euros earlier this year; WPC80 held around 12 euros, then rocketed to 28 in about six weeks. WPC80 was the existential risk for brands because they had already moved their sourcing into it [00:16].",
+   "text": "WPI went from around 7 euros a kilogram in 2023 to over 30 euros earlier this year; WPC80 held around 12 euros, then rocketed to 28 in about six weeks. WPC80 was the existential risk for brands because they had already moved their sourcing into it [00:16]. The slide puts WPI near EUR 32 a kilogram at the summer record and WPC80 up roughly sixfold since 2020, both \"now correcting\"; its chart (Vesper, EU monthly, December 2019 to October 2026) shows WPC80 at about EUR 5 in 2020 and 2023, peaking about EUR 12 in 2022 and about EUR 26 to 27 in mid 2026, and WPI at about EUR 8 in 2020, EUR 18 in 2022, EUR 7 in 2023 and about EUR 31 in mid 2026 (photo 2).",
    "cites": [
-    "00:16"
+    "00:16",
+    "photo 2"
    ],
    "themes": [
     "whey-price-squeeze",
@@ -458,9 +817,10 @@
    "event": "sans-europe-2026",
    "session": "unfiltered-an-insider-s-view-of",
    "date": "2026-11-09",
-   "text": "Demand drivers: traditional sports nutrition at 10% a year on Euromonitor, which he thinks is a big underestimate; GLP-1 users as incremental demand; protein going mainstream (Starbucks, Papa John's, Dunkin'); clear whey, which barely existed five years ago, is one of the fastest-selling parts of the category and is almost all whey [00:16].",
+   "text": "Demand drivers: traditional sports nutrition at 10% a year on Euromonitor, which he thinks is a big underestimate; GLP-1 users as incremental demand; protein going mainstream (Starbucks, Papa John's, Dunkin'); clear whey, which barely existed five years ago, is one of the fastest-selling parts of the category and is almost all whey [00:16]. The slide's figures: the 2024 global sports nutrition market splits 48% protein powders, 26% protein bars, 17% non-protein and 9% protein RTD, growing 8 to 10% a year; clear whey SKUs are up 35% year on year; 12% of US adults take a GLP-1 medication, with protein spend up 20% (KFF 2025, BCG 2026); Starbucks' protein drinks carry 15 to 36 g (photo 3).",
    "cites": [
-    "00:16"
+    "00:16",
+    "photo 3"
    ],
    "themes": [
     "whey-price-squeeze",
@@ -518,9 +878,11 @@
    "event": "sans-europe-2026",
    "session": "unfiltered-an-insider-s-view-of",
    "date": "2026-11-09",
-   "text": "Supply: only 0.6% of liquid milk is whey protein; whey comes from cheese, and cheese production grows about one and a half percent a year, so liquid whey does too, against demand growing over 10%. This is his most important conclusion [00:16].",
+   "text": "Supply: only 0.6% of liquid milk is whey protein (the rest by weight: water 87.3%, lactose 4.7%, fat 3.9%, casein 2.8%, minerals 0.7%); whey comes from cheese, and cheese production grows about 1.5% a year, so liquid whey does too, against demand growing over 10%. This is his most important conclusion [00:16] (photo 4) (photo 7).",
    "cites": [
-    "00:16"
+    "00:16",
+    "photo 4",
+    "photo 7"
    ],
    "themes": [
     "whey-price-squeeze",
@@ -548,9 +910,10 @@
    "event": "sans-europe-2026",
    "session": "unfiltered-an-insider-s-view-of",
    "date": "2026-11-09",
-   "text": "Factories are the first bottleneck (\"phenomenally expensive\" and slow to build); liquid whey is the second; byproducts are the third, and WPI producers must also sell a fatty protein stream [00:16].",
+   "text": "The route from milk: cheese keeps the casein and fat; liquid whey goes through ultrafiltration and drying to WPC (35 to 80% protein), microfiltration or ion exchange to WPI (90% or more), then acidification or hydrolysis to clear or hydrolysed WPI; each step is a plant, and sweet whey powder (about 12% protein), permeate, lactose, demineralised whey (D70, D90, for infant nutrition) and whey cream are the other outlets for the same whey [00:16] (photo 4).",
    "cites": [
-    "00:16"
+    "00:16",
+    "photo 4"
    ],
    "themes": [
     "whey-price-squeeze",
@@ -578,9 +941,11 @@
    "event": "sans-europe-2026",
    "session": "unfiltered-an-insider-s-view-of",
    "date": "2026-11-09",
-   "text": "Over five years total whey protein supply grew just under 5% a year; WPI about 15% a year at the expense of WPC80, which explains why WPC80 was undersupplied this year. Clear whey may be up to 25% of WPI (top of the estimate range); ordinary instant WPI grew about eight and a half percent, below the category [00:16].",
+   "text": "Factories are the first bottleneck (\"phenomenally expensive\" and slow to build; the slide: \"CAPEX intensive, less flexible than people expect, takes years to start commercial production\"); liquid whey is the second; byproducts are the third, \"a major influencer of producer value\", and WPI producers must also sell a fatty protein stream [00:16] (photo 6) (photo 7).",
    "cites": [
-    "00:16"
+    "00:16",
+    "photo 6",
+    "photo 7"
    ],
    "themes": [
     "whey-price-squeeze",
@@ -608,9 +973,11 @@
    "event": "sans-europe-2026",
    "session": "unfiltered-an-insider-s-view-of",
    "date": "2026-11-09",
-   "text": "New capacity: WPI expected to grow 7 to 11% a year, WPC80 4 to 7%, but if WPI is at 11, WPC80 has to be more like 4 because there is not enough whey. Both are below underlying demand [00:16].",
+   "text": "Over five years total whey protein supply grew just under 5% a year: global WPC80 plus WPI production rose 26%, from 414,494 t in 2020 to 521,800 t in 2025 (a 4.7% CAGR); WPI grew 15.0% a year (80,494 t to 161,800 t) at the expense of WPC80 at 1.5% (334,000 t to 360,000 t), which explains why WPC80 was undersupplied this year. Clear whey may be up to 25% of WPI (top of the estimate range; 40,450 t of the 161,800 t in 2025); ordinary instant WPI grew 8.6% a year, below the category [00:16] (photo 8) (photo 9).",
    "cites": [
-    "00:16"
+    "00:16",
+    "photo 8",
+    "photo 9"
    ],
    "themes": [
     "whey-price-squeeze",
@@ -638,9 +1005,10 @@
    "event": "sans-europe-2026",
    "session": "unfiltered-an-insider-s-view-of",
    "date": "2026-11-09",
-   "text": "Prices overshoot on behaviour, in both directions (the COVID example): buyers stock up when prices rise and sit out when they fall [00:16].",
+   "text": "New capacity: WPI expected to grow 7 to 11% a year, WPC80 4 to 7% (CAGR 2025 to 2030), but if WPI is at 11, WPC80 has to be more like 4 because there is not enough whey. Both are below underlying demand [00:16] (photo 11).",
    "cites": [
-    "00:16"
+    "00:16",
+    "photo 11"
    ],
    "themes": [
     "whey-price-squeeze",
@@ -668,9 +1036,10 @@
    "event": "sans-europe-2026",
    "session": "unfiltered-an-insider-s-view-of",
    "date": "2026-11-09",
-   "text": "Now: WPC80 \"has been falling pretty hard\", WPI \"still expensive, but definitely correcting\"; new US factories set in motion three or four years ago are commissioning; producers have better uses for whey (WPI, WPC35, sweet whey powder), so WPC80 production should fall; MPC85 and other substitutes are rising and WPC80 and milk protein lines \"should never meet\" [00:16].",
+   "text": "The capacity list: announced US additions (McCully Consulting, approximate) of 24,400 t of WPC80 and 7,500 t of WPI in 2026, 41,600 t and 20,300 t in 2027, 45,900 t and 22,900 t in 2028; in the UK, EU and Oceania, FrieslandCampina (WPI expansion), Fonterra (various speciality) and Polmlek (WPC and WPI) in 2026, Tirlan (WPC, WPI and clear) and Liprovit (WPI) in 2027, and Arla's mozzarella plant in 2028. He said the European list is not exhaustive, with some Eastern European producers he could not get information from [00:16] (photo 11).",
    "cites": [
-    "00:16"
+    "00:16",
+    "photo 11"
    ],
    "themes": [
     "whey-price-squeeze",
@@ -698,9 +1067,11 @@
    "event": "sans-europe-2026",
    "session": "unfiltered-an-insider-s-view-of",
    "date": "2026-11-09",
-   "text": "Advice: do not try to be too clever with volume; buy steadily if the price works; whey will be and should be expensive; a business that cannot cope with this year's prices needs to change its model [00:16].",
+   "text": "Prices overshoot on behaviour, in both directions (the COVID example): buyers stock up when prices rise and sit out when they fall. The slide's cycle: longer lead times, inventory, demand rises, buyers compete for available material, prices rise, incentive to buy early, demand rises again, with the brand and consumer response feeding back into demand; the 2022 peak was logistics freeing up and buyers destocking, the 2023 trough buyers waiting as long as possible with stocks too low [00:16] (photo 13) (photo 15).",
    "cites": [
-    "00:16"
+    "00:16",
+    "photo 13",
+    "photo 15"
    ],
    "themes": [
     "whey-price-squeeze",
@@ -725,6 +1096,161 @@
   },
   {
    "id": "sans-europe-2026/unfiltered-an-insider-s-view-of#11",
+   "event": "sans-europe-2026",
+   "session": "unfiltered-an-insider-s-view-of",
+   "date": "2026-11-09",
+   "text": "Now: WPC80 \"has been falling pretty hard\", WPI \"still expensive, but definitely correcting\"; new US factories set in motion three or four years ago are commissioning; producers have better uses for whey (WPI, WPC35, sweet whey powder), so WPC80 production should fall; MPC85 and other substitutes are rising and WPC80 and milk protein lines \"should never meet\" [00:16]. The weekly Vesper figures: between 25 August and 4 November 2026 WPC80 fell 40.7%, from EUR 27.00 to EUR 16.00 a kilogram, WPI fell 20.3%, from EUR 32.00 to EUR 25.50, and MPC85 rose 13.5%, from EUR 13.92 to EUR 15.80, meeting WPC80 at about EUR 16 on 4 November (photo 16) (photo 18).",
+   "cites": [
+    "00:16",
+    "photo 16",
+    "photo 18"
+   ],
+   "themes": [
+    "whey-price-squeeze",
+    "supply-security",
+    "glp-1-nutrition",
+    "sports-nutrition-mainstream"
+   ],
+   "ingredients": [
+    "whey protein",
+    "whey protein isolate",
+    "whey protein concentrate",
+    "clear whey",
+    "hydrolysed whey protein",
+    "milk protein concentrate",
+    "casein",
+    "plant protein",
+    "sweet whey powder",
+    "lactose"
+   ],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "sans-europe-2026/unfiltered-an-insider-s-view-of#12",
+   "event": "sans-europe-2026",
+   "session": "unfiltered-an-insider-s-view-of",
+   "date": "2026-11-09",
+   "text": "The MPC85 line: brands substituted MPC85 (or MPI, caseins, plant proteins) into formulations, so those prices are rising while WPC80 falls; he quoted Keynes on markets staying irrational longer than you can stay solvent, so the lines touching does not mean they bounce apart at once, \"but it can't go on forever\" [00:16] (photo 18).",
+   "cites": [
+    "00:16",
+    "photo 18"
+   ],
+   "themes": [
+    "whey-price-squeeze",
+    "supply-security",
+    "glp-1-nutrition",
+    "sports-nutrition-mainstream"
+   ],
+   "ingredients": [
+    "whey protein",
+    "whey protein isolate",
+    "whey protein concentrate",
+    "clear whey",
+    "hydrolysed whey protein",
+    "milk protein concentrate",
+    "casein",
+    "plant protein",
+    "sweet whey powder",
+    "lactose"
+   ],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "sans-europe-2026/unfiltered-an-insider-s-view-of#13",
+   "event": "sans-europe-2026",
+   "session": "unfiltered-an-insider-s-view-of",
+   "date": "2026-11-09",
+   "text": "What decides the next move, from the slide: for WPC80 the bullish forces are strong other derivatives, rising alternatives and long-term protein demand, the bearish ones high inventories, powerful momentum and demand destruction; for WPI, bullish are its smaller share of brand costs, healthy inventories on both sides and being harder to replace, bearish are demand destruction and production increases due (photo 16).",
+   "cites": [
+    "photo 16"
+   ],
+   "themes": [
+    "whey-price-squeeze",
+    "supply-security",
+    "glp-1-nutrition",
+    "sports-nutrition-mainstream"
+   ],
+   "ingredients": [
+    "whey protein",
+    "whey protein isolate",
+    "whey protein concentrate",
+    "clear whey",
+    "hydrolysed whey protein",
+    "milk protein concentrate",
+    "casein",
+    "plant protein",
+    "sweet whey powder",
+    "lactose"
+   ],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "sans-europe-2026/unfiltered-an-insider-s-view-of#14",
+   "event": "sans-europe-2026",
+   "session": "unfiltered-an-insider-s-view-of",
+   "date": "2026-11-09",
+   "text": "Where prices go: \"structurally rising but volatile\"; the correction is under way and \"may overshoot below trend... then demand pulls it back up\". The schematic averages EU WPC80 and WPI (Vesper, monthly to October 2026) and the slide says the trend and forward path are \"directional, not a forecast\" [00:16] (photo 19).",
+   "cites": [
+    "00:16",
+    "photo 19"
+   ],
+   "themes": [
+    "whey-price-squeeze",
+    "supply-security",
+    "glp-1-nutrition",
+    "sports-nutrition-mainstream"
+   ],
+   "ingredients": [
+    "whey protein",
+    "whey protein isolate",
+    "whey protein concentrate",
+    "clear whey",
+    "hydrolysed whey protein",
+    "milk protein concentrate",
+    "casein",
+    "plant protein",
+    "sweet whey powder",
+    "lactose"
+   ],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "sans-europe-2026/unfiltered-an-insider-s-view-of#15",
+   "event": "sans-europe-2026",
+   "session": "unfiltered-an-insider-s-view-of",
+   "date": "2026-11-09",
+   "text": "Advice: do not try to be too clever with volume; buy steadily if the price works; whey will be and should be expensive; a business that cannot cope with this year's prices needs to change its model [00:16]. The three closing takeaways on the slide: \"Don't try to time the market. Keep inventory steady. Whey will be expensive.\" (photo 20)",
+   "cites": [
+    "00:16",
+    "photo 20"
+   ],
+   "themes": [
+    "whey-price-squeeze",
+    "supply-security",
+    "glp-1-nutrition",
+    "sports-nutrition-mainstream"
+   ],
+   "ingredients": [
+    "whey protein",
+    "whey protein isolate",
+    "whey protein concentrate",
+    "clear whey",
+    "hydrolysed whey protein",
+    "milk protein concentrate",
+    "casein",
+    "plant protein",
+    "sweet whey powder",
+    "lactose"
+   ],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "sans-europe-2026/unfiltered-an-insider-s-view-of#16",
    "event": "sans-europe-2026",
    "session": "unfiltered-an-insider-s-view-of",
    "date": "2026-11-09",
@@ -1146,9 +1672,10 @@
    "event": "sans-europe-2026",
    "session": "fuelling-the-female-runner-from-paper",
    "date": "2026-11-09",
-   "text": "Elite runners (men about 2:20, women about 2:40 marathon bests) ran two hours after 8 g per kg the day before and 2 g per kg at breakfast; 60 g an hour gave a crossover to fat after about 60 minutes, 90 g shifted it right, 120 g prevented it for the full two hours [00:00].",
+   "text": "Study design: 8 g per kg carbohydrate on day one, a 2 g per kg breakfast on day two, then 15 minutes at 95% of lactate threshold, 90 minutes at 94% of lactate turnpoint (simulated race pace) and 15 minutes at 95% of lactate threshold; the 60 g an hour condition was maltodextrin only, the 90 and 120 g conditions 1:1 maltodextrin and fructose [00:00] (photo 2).",
    "cites": [
-    "00:00"
+    "00:00",
+    "photo 2"
    ],
    "themes": [
     "carbohydrate-fuelling",
@@ -1169,9 +1696,12 @@
    "event": "sans-europe-2026",
    "session": "fuelling-the-female-runner-from-paper",
    "date": "2026-11-09",
-   "text": "Exogenous oxidation (carbon-13): about 1 g a minute at 60 g an hour, close to 1.3 to 1.4 at 90 g, and at 120 g some men and women oxidised between 80 and 100 percent of intake, \"some of the highest rates of oxidation ever reported\"; men and women do not differ in ability to digest and oxidise carbohydrate [00:00].",
+   "text": "Elite runners (men about 2:20, women about 2:40 marathon bests) ran two hours after 8 g per kg the day before and 2 g per kg at breakfast; 60 g an hour gave a crossover to fat after about 60 minutes, 90 g shifted it right, 120 g prevented it for the full two hours [00:00]. The slides show the crossover at about 60 to 75 minutes on 60 g in both sexes and no crossover on 120 g in either, with men's carbohydrate oxidation on 120 g holding at about 3.0 to 3.2 g a minute from 45 to 105 minutes (photo 3) (photo 4) (photo 6).",
    "cites": [
-    "00:00"
+    "00:00",
+    "photo 3",
+    "photo 4",
+    "photo 6"
    ],
    "themes": [
     "carbohydrate-fuelling",
@@ -1192,9 +1722,10 @@
    "event": "sans-europe-2026",
    "session": "fuelling-the-female-runner-from-paper",
    "date": "2026-11-09",
-   "text": "Running economy improved by between two and 3% at 120 g an hour, against Nike's 4% Vaporfly claim; he is \"pretty sure\" this is part of why running records are falling [00:00].",
+   "text": "Exogenous oxidation (carbon-13): about 1 g a minute at 60 g an hour, close to 1.3 to 1.4 at 90 g, and at 120 g some men and women oxidised between 80 and 100 percent of intake, \"some of the highest rates of oxidation ever reported\"; men and women do not differ in ability to digest and oxidise carbohydrate [00:00]. The slide's peak means, read from the chart: men about 1.0, 1.5 and 1.8 g a minute at 60, 90 and 120 g; women about 1.0, 1.45 and 1.75; seven to eight participants a group; \"120 > 90 > 60 g\" in both sexes (photo 7).",
    "cites": [
-    "00:00"
+    "00:00",
+    "photo 7"
    ],
    "themes": [
     "carbohydrate-fuelling",
@@ -1215,9 +1746,10 @@
    "event": "sans-europe-2026",
    "session": "fuelling-the-female-runner-from-paper",
    "date": "2026-11-09",
-   "text": "Women reported more gastrointestinal symptoms than men, \"which may be due to anatomical differences in colon length\"; tolerance may differ slightly, oxidation does not [00:00].",
+   "text": "Running economy improved by between two and 3% at 120 g an hour, against Nike's 4% Vaporfly claim; he is \"pretty sure\" this is part of why running records are falling [00:00]. The conclusion slide: 120 g an hour \"reduces the oxygen cost of running (i.e. improves running economy) compared with traditional CHO guidelines of 60-90 g/h\" (photo 9).",
    "cites": [
-    "00:00"
+    "00:00",
+    "photo 9"
    ],
    "themes": [
     "carbohydrate-fuelling",
@@ -1235,6 +1767,30 @@
   },
   {
    "id": "sans-europe-2026/fuelling-the-female-runner-from-paper#7",
+   "event": "sans-europe-2026",
+   "session": "fuelling-the-female-runner-from-paper",
+   "date": "2026-11-09",
+   "text": "Women reported more gastrointestinal symptoms than men, \"which may be due to anatomical differences in colon length\"; tolerance may differ slightly, oxidation does not [00:00]. The slide's wording: \"individual variations in rates of exogenous CHO oxidation and gastrointestinal symptoms warrant CHO personalisation strategies\" (photo 9).",
+   "cites": [
+    "00:00",
+    "photo 9"
+   ],
+   "themes": [
+    "carbohydrate-fuelling",
+    "female-athlete-nutrition",
+    "branded-ingredients-differentiation"
+   ],
+   "ingredients": [
+    "carbohydrate",
+    "maltodextrin",
+    "fructose",
+    "glucose"
+   ],
+   "relevance": "low",
+   "status": "summarised"
+  },
+  {
+   "id": "sans-europe-2026/fuelling-the-female-runner-from-paper#8",
    "event": "sans-europe-2026",
    "session": "fuelling-the-female-runner-from-paper",
    "date": "2026-11-09",
@@ -1257,36 +1813,13 @@
    "status": "summarised"
   },
   {
-   "id": "sans-europe-2026/fuelling-the-female-runner-from-paper#8",
-   "event": "sans-europe-2026",
-   "session": "fuelling-the-female-runner-from-paper",
-   "date": "2026-11-09",
-   "text": "SiS partnered with Nike After Dark (women's night races in seven cities) on education rather than product creation, with co-branded products by race duration; the partnership continues [00:00].",
-   "cites": [
-    "00:00"
-   ],
-   "themes": [
-    "carbohydrate-fuelling",
-    "female-athlete-nutrition",
-    "branded-ingredients-differentiation"
-   ],
-   "ingredients": [
-    "carbohydrate",
-    "maltodextrin",
-    "fructose",
-    "glucose"
-   ],
-   "relevance": "low",
-   "status": "summarised"
-  },
-  {
    "id": "sans-europe-2026/fuelling-the-female-runner-from-paper#9",
    "event": "sans-europe-2026",
    "session": "fuelling-the-female-runner-from-paper",
    "date": "2026-11-09",
-   "text": "\"The biggest barrier to fueling the female runner is not biological... it is educational\"; under-fuelling is cultural; he does not believe in day-of-cycle fuelling messages [00:00].",
+   "text": "The framework in full (Morton et al. 2026, Journal of Nutrition) plots intensity (zones 1 to 5; moderate under 2 mmol/L, heavy 2 to 4, severe over 4) against duration: under an hour, 0 g, 0 to 30 g or 30 to 60 g single source for HIT (mouth rinse, drinks, gels); one to two hours, 30 to 60 g single source, 60 to 90 g single or dual source for soccer, 90 g dual source for a half marathon (drinks, gels, chews); two to three hours, 60 to 90 g single or dual, 90 to 120 g dual, 120 g dual source for a marathon (drinks, gels, chews, bars); beyond three hours cycling stages, beyond six ultra (photo 12).",
    "cites": [
-    "00:00"
+    "photo 12"
    ],
    "themes": [
     "carbohydrate-fuelling",
@@ -1304,6 +1837,102 @@
   },
   {
    "id": "sans-europe-2026/fuelling-the-female-runner-from-paper#10",
+   "event": "sans-europe-2026",
+   "session": "fuelling-the-female-runner-from-paper",
+   "date": "2026-11-09",
+   "text": "The barriers: female marathoners \"do not know the numbers\" (psychological capability; participant 18 took her first gel at 7 or 8 miles and went by what others do) and tolerating carbohydrate during a race can be a barrier (physical capability; participant 13 aimed for about 80 g an hour, felt her stomach \"was not happy\" in the heat and skipped her last two gels); like men, female runners need to practise fuelling in training (photo 13) (photo 14) (photo 15).",
+   "cites": [
+    "photo 13",
+    "photo 14",
+    "photo 15"
+   ],
+   "themes": [
+    "carbohydrate-fuelling",
+    "female-athlete-nutrition",
+    "branded-ingredients-differentiation"
+   ],
+   "ingredients": [
+    "carbohydrate",
+    "maltodextrin",
+    "fructose",
+    "glucose"
+   ],
+   "relevance": "low",
+   "status": "summarised"
+  },
+  {
+   "id": "sans-europe-2026/fuelling-the-female-runner-from-paper#11",
+   "event": "sans-europe-2026",
+   "session": "fuelling-the-female-runner-from-paper",
+   "date": "2026-11-09",
+   "text": "SiS partnered with Nike After Dark (women's night races in seven cities) on education rather than product creation, with co-branded products by race duration; the partnership continues [00:00]. The Sydney 21K race pack sells at $40.00 (\"Fuel your night\"): eight packs of Run Fuel Endurance energy gels (3 x 60 ml), Run Hydro+ electrolyte powder (4.3 g), a Run Fuel Endurance energy chew (50 g) and Run Recovery Endurance powder (73 g) (photo 17).",
+   "cites": [
+    "00:00",
+    "photo 17"
+   ],
+   "themes": [
+    "carbohydrate-fuelling",
+    "female-athlete-nutrition",
+    "branded-ingredients-differentiation"
+   ],
+   "ingredients": [
+    "carbohydrate",
+    "maltodextrin",
+    "fructose",
+    "glucose"
+   ],
+   "relevance": "low",
+   "status": "summarised"
+  },
+  {
+   "id": "sans-europe-2026/fuelling-the-female-runner-from-paper#12",
+   "event": "sans-europe-2026",
+   "session": "fuelling-the-female-runner-from-paper",
+   "date": "2026-11-09",
+   "text": "The Nike x SiS After Dark range, \"designed for her\", laid out for 10K and half marathon: Run Fuel Isotonic gel (22 g single-source carbohydrate; before and during), Run Fuel Endurance gel (40 g dual source; during), Run Fuel Endurance chew (40 g dual source, 1:0.8 glucose to fructose; before and during), Run Hydro+ sugar-free electrolytes (350 mg sodium; before, during and after), Run Recovery (25 g single-source carbohydrate, 25 g protein including 5 g collagen; after) and Run Recovery Endurance (40 g dual-source carbohydrate, 25 g protein including 5 g collagen; after) (photo 19).",
+   "cites": [
+    "photo 19"
+   ],
+   "themes": [
+    "carbohydrate-fuelling",
+    "female-athlete-nutrition",
+    "branded-ingredients-differentiation"
+   ],
+   "ingredients": [
+    "carbohydrate",
+    "maltodextrin",
+    "fructose",
+    "glucose"
+   ],
+   "relevance": "low",
+   "status": "summarised"
+  },
+  {
+   "id": "sans-europe-2026/fuelling-the-female-runner-from-paper#13",
+   "event": "sans-europe-2026",
+   "session": "fuelling-the-female-runner-from-paper",
+   "date": "2026-11-09",
+   "text": "\"The biggest barrier to fueling the female runner is not biological... it is educational\"; under-fuelling is cultural; he does not believe in day-of-cycle fuelling messages [00:00]. The closing slide: the barrier \"is not likely a biological limitation i.e. their gut or their muscles\" but \"lack of knowledge and awareness of the guidelines\", in \"a world where under-fuelling has been prevalent\"; fuelling \"is less about hormones and tailoring to the menstrual cycle, put simply, it is about fuelling for the work required\" (photo 20).",
+   "cites": [
+    "00:00",
+    "photo 20"
+   ],
+   "themes": [
+    "carbohydrate-fuelling",
+    "female-athlete-nutrition",
+    "branded-ingredients-differentiation"
+   ],
+   "ingredients": [
+    "carbohydrate",
+    "maltodextrin",
+    "fructose",
+    "glucose"
+   ],
+   "relevance": "low",
+   "status": "summarised"
+  },
+  {
+   "id": "sans-europe-2026/fuelling-the-female-runner-from-paper#14",
    "event": "sans-europe-2026",
    "session": "fuelling-the-female-runner-from-paper",
    "date": "2026-11-09",
