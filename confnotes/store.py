@@ -36,8 +36,9 @@ THEME_REQUIRED = ["id", "name"]
 SUMMARY_HEADINGS = ["Summary", "Key takeaways", "For Vita Actives", "Quotes", "Follow-ups"]
 REPORT_HEADINGS = ["In brief", "Themes", "Sessions that mattered", "People met", "For Vita Actives", "Follow-ups", "Sources"]
 
-PAGE_MARK = re.compile(r"^--- (?:slide|page|section) \d+ ---$", re.M)
-FILE_KINDS = {".pdf": "pdf", ".pptx": "pptx", ".docx": "docx", ".txt": "text", ".md": "text"}
+PAGE_MARK = re.compile(r"^--- (?:slide|page|section|photo) \d+ ---$", re.M)
+FILE_KINDS = {".pdf": "pdf", ".pptx": "pptx", ".docx": "docx", ".txt": "text", ".md": "text",
+              ".jpg": "photo", ".jpeg": "photo", ".png": "photo", ".webp": "photo", ".heic": "photo"}
 
 
 def _yaml(path: Path) -> Dict[str, Any]:

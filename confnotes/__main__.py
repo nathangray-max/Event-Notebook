@@ -2,6 +2,7 @@
 
     check                                   the store's problems and a summary (exit 1 when there are problems)
     extract <event> [<session>] | --all     pull the text out of the presentations in files/
+    photos <event> <session>                file photos of slides small (WebP, 1600 px)
     build                                   dashboard/data/events.json
     api                                     exports/api/v1/*.json
     all                                     check, extract --all, build, api
@@ -17,7 +18,7 @@ from pathlib import Path
 
 import yaml
 
-from confnotes import DATA, ROOT, api, build, extract, store
+from confnotes import DATA, ROOT, api, build, extract, photos, store
 
 
 def _rel(path: Path) -> str:
@@ -61,6 +62,17 @@ def cmd_extract(a) -> int:
             print(f"{f.parent.parent.name}/{f.name}: {name} -> {name}.txt ({pages} pages)")
             n += 1
     print(f"{n} files extracted")
+    return 0
+
+
+def cmd_photos(a) -> int:
+    folder = DATA / "events" / a.event / "sessions" / a.session
+    if not (folder / "session.yaml").exists():
+        print(f"no session {a.event}/{a.session}"); return 2
+    done = photos.reduce_photos(folder)
+    for old, new in done.items():
+        print(f"{old} -> {new}")
+    print(f"{len(done)} photos reduced")
     return 0
 
 
@@ -134,6 +146,7 @@ def main(argv=None) -> int:
     sub = p.add_subparsers(dest="cmd", required=True)
     sub.add_parser("check").set_defaults(fn=cmd_check)
     x = sub.add_parser("extract"); x.add_argument("event", nargs="?"); x.add_argument("session", nargs="?"); x.add_argument("--all", action="store_true"); x.set_defaults(fn=cmd_extract)
+    ph = sub.add_parser("photos"); ph.add_argument("event"); ph.add_argument("session"); ph.set_defaults(fn=cmd_photos)
     sub.add_parser("build").set_defaults(fn=cmd_build)
     sub.add_parser("api").set_defaults(fn=cmd_api)
     sub.add_parser("all").set_defaults(fn=cmd_all)

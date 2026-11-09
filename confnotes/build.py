@@ -17,7 +17,7 @@ from confnotes import DATA, ROOT, store
 OUT = ROOT / "dashboard" / "data" / "events.json"
 
 # where a takeaway or quote says it comes from: [12:40], [1:02:10], (slide 7), (page 3), (notes)
-CITE_RE = re.compile(r"\[(\d{1,2}:\d{2}(?::\d{2})?)\]|\((slide|page|section) (\d+)\)|\((notes)\)", re.I)
+CITE_RE = re.compile(r"\[(\d{1,2}:\d{2}(?::\d{2})?)\]|\((slide|page|section|photo) (\d+)\)|\((notes|otter)\)", re.I)
 
 
 class StoreProblems(Exception):
@@ -33,7 +33,7 @@ def cites(text: str) -> List[str]:
         elif m.group(2):
             out.append(f"{m.group(2).lower()} {m.group(3)}")
         else:
-            out.append("notes")
+            out.append(m.group(4).lower())
     return out
 
 

@@ -3,7 +3,7 @@
   "use strict";
   var app = document.getElementById("app");
   var DATA = null, E = [], T = [], S = [];
-  var CITE = /\[(\d{1,2}:\d{2}(?::\d{2})?)\]|\((slide|page|section) (\d+)\)|\((notes)\)/gi;
+  var CITE = /\[(\d{1,2}:\d{2}(?::\d{2})?)\]|\((slide|page|section|photo) (\d+)\)|\((notes|otter)\)/gi;
   var SUMMARY_HEADINGS = ["Summary", "Key takeaways", "For Vita Actives", "Quotes", "Follow-ups"];
   var REPORT_HEADINGS = ["In brief", "Themes", "Sessions that mattered", "People met", "For Vita Actives", "Follow-ups", "Sources"];
   var STATUS_TEXT = { captured: "Originals filed; no summary yet.", summarised: "Summary drafted by Claude; waiting for a person to review it.", reviewed: "Summary read and corrected by a person." };
@@ -81,7 +81,7 @@
     var el = h("span"), last = 0, m; CITE.lastIndex = 0;
     while ((m = CITE.exec(text))) {
       add(el, text.slice(last, m.index));
-      add(el, h("span", { class: "cite", text: m[1] || (m[2] ? m[2].toLowerCase() + " " + m[3] : "notes") }));
+      add(el, h("span", { class: "cite", text: m[1] || (m[2] ? m[2].toLowerCase() + " " + m[3] : m[4].toLowerCase()) }));
       last = m.index + m[0].length;
     }
     add(el, text.slice(last));
@@ -216,12 +216,12 @@
       s.files.map(function (f) {
         var body;
         if (f.text && f.pages) {
-          var parts = f.text.split(/^--- (?:slide|page|section) (\d+) ---$/m);
+          var parts = f.text.split(/^--- (?:slide|page|section|photo) (\d+) ---$/m);
           body = h("div", null, []);
-          for (var i = 1; i < parts.length; i += 2) body.appendChild(h("div", { class: "slide" }, h("div", { class: "n", text: (f.kind === "pptx" ? "slide " : f.kind === "docx" ? "section " : "page ") + parts[i] }), h("pre", { text: parts[i + 1].trim() })));
+          for (var i = 1; i < parts.length; i += 2) body.appendChild(h("div", { class: "slide" }, h("div", { class: "n", text: (f.kind === "pptx" ? "slide " : f.kind === "docx" ? "section " : f.kind === "photo" ? "photo " : "page ") + parts[i] }), h("pre", { text: parts[i + 1].trim() })));
         } else if (f.text) body = h("pre", { class: "orig-text", text: f.text });
         else body = h("p", { class: "na", text: "No text pulled out yet (run `python -m confnotes extract`)." });
-        return h("details", { class: "orig" }, h("summary", null, h("span", { text: f.name }), h("span", { class: "meta", text: [f.kind, f.pages ? plural(f.pages, f.kind === "pptx" ? "slide" : "page") : null, Math.round(f.bytes / 1024) + " KB"].filter(Boolean).join(" · ") })), h("div", { class: "body" }, body));
+        return h("details", { class: "orig" }, h("summary", null, h("span", { text: f.name }), h("span", { class: "meta", text: [f.kind, f.pages ? plural(f.pages, f.kind === "pptx" ? "slide" : f.kind === "photo" ? "photo" : "page") : null, Math.round(f.bytes / 1024) + " KB"].filter(Boolean).join(" · ") })), h("div", { class: "body" }, body));
       }),
       s.has_transcript ? h("details", { class: "orig" }, h("summary", null, h("span", { text: "Transcript" }), h("span", { class: "meta", text: plural(s.transcript_words, "word") })), h("div", { class: "body" }, h("pre", { class: "orig-text", text: s.transcript }))) : null,
       s.has_notes ? h("details", { class: "orig" }, h("summary", null, h("span", { text: "Notes" }), h("span", { class: "meta", text: "as written in the room" })), h("div", { class: "body" }, h("pre", { class: "orig-text", text: s.notes }))) : null,

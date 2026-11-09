@@ -21,6 +21,14 @@ was and at which event. Several uploads for one talk are one session; one upload
 
 - Presentations and handouts: copy as received into `files/` (keep the file name readable; a `.pptx` stays a `.pptx`).
   Over 25 MB: keep a link in `links` instead and say so in `to_check`.
+- Photos of slides: copy into `files/`, run `python -m confnotes photos <event-id> <session-id>` (reduced WebP copies), then
+  read each photo and write `files/<name>.txt`: a first line "Transcribed by Claude from the photo; the photo is the original.",
+  then one `--- photo N ---` block per photo with the slide's text as written. Cite as `(photo 2)`.
+- Otter recordings: find the recording with the Otter tools (`otter_search` by date, `otter_fetch` by id). Write
+  `transcript.md` as: `# <title>: transcript`, a line `Source: Otter.ai recording "<title>", <url>, recorded <date> <local time>,
+  <length>. Speaker labels are Otter's.`, a blank line, then one line per speaker turn `[mm:ss] Speaker: words`, verbatim.
+  Save Otter's automatic summary as `files/otter-summary.md`, headed "Otter.ai's automatic summary, as received. Not ours."
+  Put the recording's link in `links.otter`.
 - Transcript: `transcript.md`, verbatim. A recording export (Otter, Circleback, a `.vtt` or `.srt`) is converted to lines of
   `[mm:ss] Speaker: words` and then left alone. Do not correct, trim or tidy what was said.
 - Nathan's notes: `notes.md`, verbatim, as he wrote them.

@@ -46,8 +46,17 @@ from Otter, Circleback or a phone recording is converted to markdown (speaker, t
 The `<name>.txt` beside a presentation is pulled out by `python -m confnotes extract`, slide by slide, and is regenerated
 rather than edited.
 
+**Photos of slides** go in `files/` too, as reduced copies (`python -m confnotes photos`, WebP at 1600 px: the full-size
+original stays on the phone). There is no OCR here: Claude reads each photo in the session and writes `<name>.txt` beside it,
+one `--- photo N ---` block per photo, headed "transcribed by Claude from the photo", so a takeaway can cite `(photo 2)`.
+
+**Recordings and their transcripts.** Nathan records talks with Otter. The transcript is pulled into `transcript.md` as
+lines of `[mm:ss] Speaker: words`, headed by the recording's title, link, local start time and length, and then left alone.
+Otter's own automatic summary is filed as `files/otter-summary.md`, marked as Otter's and not ours: it is material received,
+never the session's summary, and a takeaway may cite it as `(otter)` only when the transcript does not carry the point.
+
 **Derived text cites its source.** Every takeaway and every theme headline points at the passages it rests on: a quote with
-its time in the transcript (`[12:40]`), a slide number (`slide 7`) or a line in the notes. A takeaway without a passage is a
+its time in the transcript (`[12:40]`), a slide number (`slide 7`), a photo (`photo 2`) or a line in the notes. A takeaway without a passage is a
 reading, and `summary.md` says so ("my reading").
 
 ### Session record (`session.yaml`)
