@@ -1,0 +1,6 @@
+Transcribed by Claude from the photo; the photo is the original. Alan Johnstone, Nutrilution, SANS Europe, 9 Nov 2026.
+--- photo 19 ---
+Where whey protein prices go from here (slide 10, first build)
+Structurally rising but volatile. The correction is under way and may overshoot before demand pulls prices back up.
+Schematic: whey protein price against time, 2020 to beyond 2026. A straight "Macro trend: structurally rising" line with a band; the actual (Vesper) line oscillates around it ("Short term: highly volatile" at the 2023 trough), reaches a "Record high, well above trend" in 2026, then "Today: correction under way" at NOW; the expected dashed path "May overshoot below trend..." and "...then demand pulls it back up".
+History: average of EU WPC80 and WPI, Vesper (EUR/kg), monthly to Oct 2026, lightly smoothed. Trend and forward path are directional, not a forecast.
