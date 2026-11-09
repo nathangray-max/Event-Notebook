@@ -4,4 +4,3 @@
 - Dashboard: a day-by-day programme view with the sessions we missed marked (needs the programme in `event.yaml`).
 - Slides: show a slide image beside its text (needs a renderer; the artifact cannot show a PDF from the repo).
 - A `people.yaml` across events once the same speakers recur (today speakers live in each session).
-- Remedy conference: Nathan named it on 9 Nov 2026; create its event folder (`python -m confnotes new-event`) once the year, dates and organiser are known. No guess was recorded.
