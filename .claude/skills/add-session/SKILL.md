@@ -14,7 +14,7 @@ was and at which event. Several uploads for one talk are one session; one upload
 
 - Find the event: `ls data/events/`. If it does not exist, run the `new-event` skill first.
 - Search the event's sessions for the same talk (title, speaker). If it exists, add to it; never a duplicate.
-- Create it: `python -m confnotes new-session <event-id> <session-id> --title "<title as billed>" --date YYYY-MM-DD --start HH:MM --end HH:MM --format <keynote|talk|panel|workshop|fireside|pitch|roundtable|exhibition|other> --track "<room or track>"`.
+- Create it: `python -m confnotes new-session <event-id> <session-id> --title "<title as billed>" --date YYYY-MM-DD --start HH:MM --end HH:MM --format <keynote|talk|panel|workshop|fireside|breakout|pitch|roundtable|exhibition|other> --track "<room or track>"`.
   The id is the title in lower-case words joined by hyphens, shortened (`creatine-beyond-muscle`).
 
 ## 2. File the originals (never changed)

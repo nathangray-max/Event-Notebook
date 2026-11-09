@@ -56,8 +56,8 @@ reading, and `summary.md` says so ("my reading").
 |---|---|
 | `id`, `title` | the session as billed |
 | `date`, `start`, `end` | when (`YYYY-MM-DD`, `HH:MM`) |
-| `format` | `keynote`, `talk`, `panel`, `workshop`, `fireside`, `pitch`, `roundtable`, `exhibition`, `other` |
-| `track` | the programme's track or room, as billed |
+| `format` | `keynote`, `talk`, `panel`, `workshop`, `fireside`, `breakout`, `pitch`, `roundtable`, `exhibition`, `other` |
+| `track`, `room` | the programme's track (its tag, e.g. "State of the Market") and the room, as billed |
 | `speakers` | list of `{name, organisation, role}` as billed |
 | `themes` | theme ids from `data/themes.yaml` |
 | `ingredients` | ingredients and products named, in our names where we have them (CreaWin, IsoClr: Pea, Oxystorm), else as said |

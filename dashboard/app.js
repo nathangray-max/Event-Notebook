@@ -184,7 +184,7 @@
   function sessionRow(e, s) {
     return h("a", { class: "sess", href: "#session-" + e.id + "/" + s.id },
       h("div", { class: "when", text: time(s) || (s.format || "") }),
-      h("div", null, h("div", { class: "t", text: s.title }), h("div", { class: "who", text: [speakerLine(s), s.format, s.track].filter(Boolean).join(" · ") }),
+      h("div", null, h("div", { class: "t", text: s.title }), h("div", { class: "who", text: [speakerLine(s), s.format, s.track, s.room].filter(Boolean).join(" · ") }),
         h("div", { class: "chips" }, statusChip(s), relChip(s), themeChips(s.themes), s.ingredients.map(function (i) { return chip(i, "ingredient"); }))));
   }
 

@@ -22,7 +22,7 @@ ID_RE = re.compile(r"^[a-z0-9]+(-[a-z0-9]+)*$")
 DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 TIME_RE = re.compile(r"^\d{2}:\d{2}$")
 
-FORMATS = {"keynote", "talk", "panel", "workshop", "fireside", "pitch", "roundtable", "exhibition", "other"}
+FORMATS = {"keynote", "talk", "panel", "workshop", "fireside", "breakout", "pitch", "roundtable", "exhibition", "other"}
 SESSION_STATUS = {"captured", "summarised", "reviewed"}
 EVENT_STATUS = {"planned", "attending", "attended", "reported"}
 RELEVANCE = {"high", "medium", "low"}
