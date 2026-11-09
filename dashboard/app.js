@@ -127,7 +127,7 @@
       h("div", { class: "count" }, h("b", { text: E.length }), h("span", { text: "events" })),
       h("div", { class: "count" }, h("b", { text: S.length }), h("span", { text: "sessions" })),
       h("div", { class: "count" }, h("b", { text: reviewed }), h("span", { text: "summaries reviewed" })),
-      h("a", { class: "count ing", href: "#themes" }, h("b", { text: T.filter(function (t) { return t.events.length; }).length }), h("span", { text: "themes seen" })));
+      h("a", { class: "count ing", href: "#themes" }, h("b", { text: T.filter(function (t) { return t.events.length || t.sessions.length; }).length }), h("span", { text: "themes seen" })));
     var cards = E.length ? h("div", { class: "cards" }, E.map(function (e) {
       var ths = uniq(e.themes.map(function (t) { return t.theme; }));
       return h("a", { class: "card", href: "#event-" + e.id },
@@ -242,7 +242,7 @@
 
   function viewThemes() {
     setNav("themes");
-    var seen = T.filter(function (t) { return t.events.length; }), unseen = T.filter(function (t) { return !t.events.length; });
+    var seen = T.filter(function (t) { return t.events.length || t.sessions.length; }), unseen = T.filter(function (t) { return !t.events.length && !t.sessions.length; });
     function card(t) {
       var latest = t.events[t.events.length - 1];
       return h("a", { class: "card", href: "#theme-" + t.id }, h("div", { class: "card-body" },
@@ -267,7 +267,7 @@
           var s = e && e.sessions.filter(function (x) { return x.id === q.session; })[0];
           return h("blockquote", { class: "quote" }, "“" + q.quote + "”", h("span", { class: "by" }, s ? h("a", { href: "#session-" + e.id + "/" + s.id, text: s.title }) : q.session || "", q.where ? [" ", h("span", { class: "cite", text: String(q.where) })] : null));
         }) : null);
-    })) : h("div", { class: "empty", text: "Not yet seen at an event." });
+    })) : h("div", { class: "empty", text: t.sessions.length ? "Carried by " + plural(t.sessions.length, "session") + " below; this event's headline and evidence are written with the event report." : "Not yet seen at an event." });
     var sessions = t.sessions.length ? h("div", { class: "list" }, t.sessions.map(function (x) {
       var e = eventOf(x.event), s = e && e.sessions.filter(function (y) { return y.id === x.session; })[0];
       return s ? sessionRow(e, s) : null;
