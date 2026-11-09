@@ -1,3 +1,80 @@
 # The theme vocabulary: one id per theme, shared across events (docs/design.md §2, "Themes").
 # Add a theme only when no existing one fits; an event's own version of a theme is its headline in that event's themes.yaml.
-themes: []
+# First set 9 Nov 2026 from the 20 session summaries of Remedy CDMO 2026 and SANS Europe 2026.
+themes:
+- id: whey-price-squeeze
+  name: Whey price squeeze and protein reformulation
+  description: Record whey protein prices in 2026 and what brands do about them (price, pack size, blends, hybrids, portfolio shifts).
+  first_seen: sans-europe-2026
+- id: supply-security
+  name: Ingredient supply security
+  description: Structural supply limits and shocks (whey from cheese, fish oil, wild botanicals) and the move to secured or cultivated supply.
+  first_seen: remedy-cdmo-2026
+- id: novel-proteins-and-blends
+  name: Novel proteins, hybrids and blends
+  description: New protein sources (mycelium, plant, peptides) and blends (dairy plus plant, whey plus collagen) as the answer to cost and benefit.
+  first_seen: remedy-cdmo-2026
+- id: sports-nutrition-mainstream
+  name: Sports nutrition going mainstream
+  description: Protein and sports ingredients entering everyday food and drink, with the identity and value tensions that brings.
+  first_seen: sans-europe-2026
+- id: glp-1-nutrition
+  name: GLP-1 users as a nutrition market
+  description: Protein, fibre and companion products for people on GLP-1 medicines, and GLP-1 as a demand driver.
+  first_seen: remedy-cdmo-2026
+- id: longevity-positioning
+  name: Longevity and healthspan positioning
+  description: Selling ingredients and products on healthy ageing, cellular health and healthspan rather than lifespan, and the words consumers respond to.
+  first_seen: remedy-cdmo-2026
+- id: creatine-beyond-strength
+  name: Creatine beyond strength
+  description: Creatine repositioned for healthspan, cognition and women, and moved into new formats (gummies, chewables, chocolates).
+  first_seen: remedy-cdmo-2026
+- id: muscle-health-beyond-protein
+  name: Muscle health beyond protein
+  description: Ingredients claimed to support muscle in ageing or inactivity beyond protein itself (peptides, botanicals, probiotics, MSM).
+  first_seen: remedy-cdmo-2026
+- id: branded-ingredients-differentiation
+  name: Branded ingredients and science as differentiation
+  description: Branded, clinically documented ingredients and memorable naming as the way to stand out among thousands of products.
+  first_seen: remedy-cdmo-2026
+- id: outcomes-over-mechanisms
+  name: Consumer outcomes over mechanisms
+  description: Consumers and retailers buy felt benefits (sleep, joints, energy), not biomarkers or mechanisms; science has to be translated.
+  first_seen: remedy-cdmo-2026
+- id: delivery-formats
+  name: New dosage forms and delivery systems
+  description: Chewables, effervescents, fast melts, sticks, micellar and cap-in-cap systems as product differentiation and compliance aids.
+  first_seen: remedy-cdmo-2026
+- id: eu-regulation-brake
+  name: EU claims and regulation as a brake
+  description: EU health-claim and novel-food rules slowing innovation, and the workarounds (borrowed claims, emotional branding, lawyers early).
+  first_seen: remedy-cdmo-2026
+- id: marketing-compliance-social
+  name: Compliance and education in digital marketing
+  description: Influencer and social content built on education and humanised science, policed by advertising rules and reviewed for claims.
+  first_seen: sans-europe-2026
+- id: ai-in-nutraceuticals
+  name: AI in discovery, factories and marketing
+  description: AI used to find ingredients, run plants, check compliance and scale content, with a human kept in the loop.
+  first_seen: remedy-cdmo-2026
+- id: cdmo-partnership-models
+  name: Supplier and CDMO co-development
+  description: Ingredient suppliers, CDMOs and brands co-developing concepts and sharing science, and the platforms that connect them.
+  first_seen: remedy-cdmo-2026
+- id: probiotic-category-evolution
+  name: Probiotic category evolution
+  description: From CFU counts to documented strains, new indications (women's health, ageing, mental balance) and whole-ecosystem claims.
+  first_seen: remedy-cdmo-2026
+- id: carbohydrate-fuelling
+  name: Carbohydrate fuelling science
+  description: Intake rates, dual-source blends and personalisation for endurance performance.
+  first_seen: sans-europe-2026
+- id: female-athlete-nutrition
+  name: Female athlete nutrition
+  description: Evidence and products for women in sport, and the knowledge and tolerance barriers to fuelling.
+  first_seen: sans-europe-2026
+- id: hydration-electrolytes
+  name: Hydration and electrolytes
+  description: Everyday, superior and performance hydration positioning, wide sodium doses, and hydration formats as a growth category.
+  first_seen: sans-europe-2026
