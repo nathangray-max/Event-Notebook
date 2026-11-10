@@ -1,9 +1,39 @@
 {
  "schema": "confnotes.events/1",
- "built": "2026-11-09",
- "commit": "43bf5fe",
- "count": 2,
+ "built": "2026-11-10",
+ "commit": "6cb8e9c",
+ "count": 3,
  "items": [
+  {
+   "id": "nutra-healthspan-summit-2026",
+   "name": "Nutra Healthspan Summit 2026",
+   "short": "Healthspan Summit 2026",
+   "start": "2026-11-10",
+   "end": "2026-11-11",
+   "city": "London",
+   "country": "United Kingdom",
+   "venue": "Convene 133 Houndsditch",
+   "organiser": "NutraIngredients",
+   "url": "https://www.nutraingredients.com/Events/the-nutra-healthspan-summit/",
+   "status": "attending",
+   "attended_by": [
+    "Nathan"
+   ],
+   "links": {
+    "event_site": "https://www.nutrahealthspansummit.com",
+    "sans_europe_2026": "the day before, same venue: data/events/sans-europe-2026"
+   },
+   "to_check": "The programme (sessions, speakers, times) is not on the event page yet; Nathan's screenshots of the event app would give it, as for SANS Europe.",
+   "added": "2026-11-10",
+   "added_by": "Claude (from Nathan, 10 Nov 2026, and NutraIngredients' event page)",
+   "description": "NutraIngredients' second Healthspan Summit, two days on nutrition for healthy ageing and longevity, held the day after SANS Europe at the same venue. Themes on the event page: state of the market; consumer insights; mitochondrial function and ageing; women's health; diagnostics, testing and wearables; the regulatory landscape; healthcare practitioners; investors and market success; cognition and ageing.",
+   "has_report": false,
+   "sessions": [
+    "euromonitor-who-is-winning-healthspan"
+   ],
+   "themes": [],
+   "report": null
+  },
   {
    "id": "sans-europe-2026",
    "name": "Sports & Active Nutrition Summit Europe 2026",
@@ -15,7 +45,7 @@
    "venue": "Convene 133 Houndsditch",
    "organiser": "NutraIngredients",
    "url": "https://www.nutraingredients.com/Events/sports-active-nutrition-summit-europe-2026/",
-   "status": "attending",
+   "status": "attended",
    "attended_by": [
     "Nathan"
    ],
@@ -24,10 +54,10 @@
     "save_the_date": "https://www.nutraingredients.com/Article/2026/07/06/save-the-date-sports-active-nutrition-summit-europe-returns-for-2026/",
     "reasons_to_attend": "https://www.nutraingredients.com/Article/2026/09/02/top-reasons-to-attend-nutraingredients-sports-active-nutrition-summit-europe-2026/"
    },
-   "to_check": "Programme filed from Nathan's screenshots of the event app (11:39-11:40, 9 Nov): the opening before 09:05, the 10:55-11:20 slot, 15:30-16:00, and any other Affiliation Hub breakouts were not in the screenshots. Breaks (refreshments 10:25-10:55, lunch 12:25-13:15) are not filed. Whether the Nutra Healthspan Summit days (10-11 Nov) are covered as their own event.",
+   "to_check": "The opening before 09:05, the 10:55-11:20 slot, 15:30-16:00 and any other Affiliation Hub breakouts were not in Nathan's programme screenshots; the 14:00 to 15:30 talks (Mark Evans, Sharon Madigan, the Balchem slot, Thomas Hal Robson-Kanu) have no recording beyond a 35-second clip of Mark Evans; the roundtables were not recorded.",
    "added": "2026-11-09",
    "added_by": "Claude (from NutraIngredients' event pages, 9 Nov 2026)",
-   "description": "NutraIngredients' one-day sports and active nutrition conference, followed on 10 and 11 November by its Nutra Healthspan Summit at the same venue. Programme tracks: State of the Market, Fuelling Performance, Reconsidering Recovery, Weight Management; main room the Partnership Forum, breakouts in Affiliation Hubs.",
+   "description": "NutraIngredients' one-day sports and active nutrition conference, a single day (9 November 2026), followed on 10 and 11 November by its Nutra Healthspan Summit at the same venue, filed as its own event (nutra-healthspan-summit-2026). Programme tracks: State of the Market, Fuelling Performance, Reconsidering Recovery, Weight Management; main room the Partnership Forum, breakouts in Affiliation Hubs.",
    "has_report": false,
    "sessions": [
     "a-bigger-sports-nutrition-landscape-growth",

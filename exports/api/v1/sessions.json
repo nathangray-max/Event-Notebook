@@ -1,9 +1,216 @@
 {
  "schema": "confnotes.sessions/1",
- "built": "2026-11-09",
- "commit": "43bf5fe",
- "count": 30,
+ "built": "2026-11-10",
+ "commit": "6cb8e9c",
+ "count": 31,
  "items": [
+  {
+   "id": "euromonitor-who-is-winning-healthspan",
+   "event": "nutra-healthspan-summit-2026",
+   "title": "Euromonitor: who is winning in the healthspan economy",
+   "date": "2026-11-10",
+   "start": "09:24",
+   "end": "09:47",
+   "format": "talk",
+   "track": "",
+   "speakers": [
+    {
+     "name": "Nick Stene",
+     "organisation": "Euromonitor",
+     "role": "Senior global insight manager, consumer health (as introduced)"
+    }
+   ],
+   "themes": [
+    "longevity-positioning",
+    "branded-ingredients-differentiation",
+    "whey-price-squeeze"
+   ],
+   "ingredients": [
+    "protein",
+    "magnesium",
+    "\"L3 and eight\" (a magnesium form, as Otter heard it)",
+    "NAD+",
+    "spermidine",
+    "resveratrol",
+    "postbiotics",
+    "collagen"
+   ],
+   "relevance": "high",
+   "status": "summarised",
+   "summary_by": "Claude",
+   "summary_date": "2026-11-10",
+   "reviewed_by": "",
+   "reviewed_date": "",
+   "attended_by": [
+    "Nathan"
+   ],
+   "links": {
+    "otter": "https://otter.ai/u/I6bgV_HNiWcf94HGErPRO0tu7Hs"
+   },
+   "to_check": "Billed title, the speaker's name (the chair said \"Nick Steen\", the recording is titled \"Nick Stene\") and role, and the track are not confirmed as the programme is not published yet; also the currency of the 373 billion figure, the brands Otter heard as \"I am eight\" and \"ancient and brave\", and whether photos of the slides exist.",
+   "added": "2026-11-10",
+   "added_by": "Claude (from Nathan's Otter recording, 10 Nov 2026)",
+   "has_transcript": true,
+   "transcript_words": 4074,
+   "has_notes": false,
+   "has_summary": true,
+   "summary": {
+    "Summary": "Nick Stene (as titled; introduced as Nick Steen), senior global insight manager for consumer health at Euromonitor, opened the Healthspan Summit on where the money in healthspan is going and which messages earn a premium [00:00] [00:20]. He said consumer health is growing about 5%, 1.5% without inflation, and this is the first year more is spent on prevention than on treatment [00:20]. OTC and sports protein both face profit pressure (tariffs and supply; premium whey costs), so money and $8 to $9 billion of deal finance are moving to premium dietary supplements [00:20]. Specific healthspan naming earns a premium while broad messaging is diluted, and ingredients lose their premium as they become popular, as magnesium forms have and NAD+ is starting to; postbiotics are his one to watch [00:20]. His takeaways: proof, knowing each ingredient's life stage, segmenting (especially perimenopause), and designing proof for shoppers, healthcare professionals and AI shopping agents [00:20].",
+    "Key takeaways": "- Market: consumer health totals \"373 billion\" as he scopes it (currency not stated), growing about 5%, or 1.5 without inflation, half a point down; treatment has gone negative in real terms [00:20].\n- Milestone: \"the first year in which we have spent more physically on prevention than we have on treatment\", and the gap between supplements and OTC will widen [00:20].\n- OTC is hit hardest by tariffs, by dependence on active pharmaceutical ingredients from India and China, and, next, by European wastewater rules [00:20].\n- Sports protein: he has shelf data showing a 20% plus pass-through in physical pricing, 30 to 40% overall once pack shrinkage and other absorption moves are counted; the premium whey supply problem \"probably starts to get solved\" around the back end of 2027, 2028 at the earliest, with \"years of trauma\" left [00:20].\n- Money is moving to premium dietary supplements, through line extensions, brand actions and M&A; he sees \"about eight to $9 billion in motion\", some from venture capital and private equity outside health [00:20].\n- Healthspan as a funnel: the edge (SKU names directly on age and life stage, including mitochondrial) is niche, growing and earns a premium; broader healthspan wording appears on cheap and expensive products alike; protection messages (immune, antioxidant) cover about half the shelf [00:20].\n- Growth is stronger in shops than online, where trust is leaking; demographics explain about 30 to 40% of growth (people entering a new life stage, not the size of the ageing population), brand push about another third, and employers' attitudes to time off work more [00:20].\n- On the US shelf, longevity and healthy ageing grow fastest and earn a strong premium; menopause is losing its premium while 40-plus and perimenopause still earn one; prostate has lost its premium; skin peaked in 2025 and hair is next; immune has peaked but remains a workhorse [00:20].\n- Europe follows the same pattern, but mitochondrial messaging is already stronger than in the US, partly because of what the regulatory framework allows, and healthy-ageing messaging is \"a tougher sell\", some of it only online [00:20].\n- Ingredient life cycle: proof brings a premium, popularity brings scale, then price war; magnesium forms \"turned into footballs\" on price; the form Otter heard as \"L3 and eight\" still holds a premium on cognition; \"popularity is the death knell on premium\" [00:20].\n- NAD+ escaped niche last year and grew three times on the US shelf in 18 months; stacks with spermidine and resveratrol won back some premium in 2026, but it is near price war [00:20].\n- Postbiotics are growing fast, have \"really strong connections into GLP-1\" and earn one of the strongest premiums; he is watching them most closely [00:20].\n- Men do not buy into an andropause label; they respond to testosterone, performance and prostate messages [00:20].\n- A brand Otter heard as \"I am eight\" broke 100 million in year one, is on target for 220 to 230 in year two, projects 400 million in year three and raised a billion in funding on a profitable subscription model; he named it and \"ancient and brave\" as brands nailing proof [00:20].\n- Positioning that facilitates \"someone's perfect life\" lasts longer than solving a problem, which ends when it is fixed or fails; collagen can be sold either way [00:20].\n- Takeaways: lead with proof; know the ingredient's life stage and the pipeline behind it; segment and price, with women heading into perimenopause badly served; and design proof for three gatekeepers: shoppers, healthcare professionals and agentic commerce [00:20].",
+    "For Vita Actives": "His timing for relief on premium whey supply, late 2027 at the earliest, shows how long sports protein brands' margins may stay squeezed [00:20]; Alan Johnstone's new US and European capacity at SANS Europe ran to 2028 (unfiltered-an-insider-s-view-of); my reading is that this keeps the door open for IsoClr: Pea in blends through 2027. His ingredient life cycle applies to creatine: proof brings a premium and popularity erodes it [00:20]; my reading is that CreaWin's case to brands should rest on its own evidence and a clear benefit, not on creatine's popularity. Healthy-ageing customers pay for named needs and proof, and in Europe mitochondrial wording is already established [00:20]; my reading is that our healthy-ageing pitches should name the need and the evidence. His point that AI shopping agents read proof differently means our evidence files should be structured and machine-readable (my reading). Relevance high: healthy-ageing market structure and sports protein economics.",
+    "Quotes": "- \"this is the first year in which we have spent more physically on prevention than we have on treatment.\" Speaker 1 (Nick Stene) [00:20]\n- \"So the protein one probably starts to get solved in supply because it's scarcity driven around premium way around 2027 back end, 2028 earliest\" Speaker 1 (Nick Stene) [00:20]\n- \"we've got to name the need, and the more we name the need, the more we get the benefits out of this space\" Speaker 1 (Nick Stene) [00:20]\n- \"popularity is the death knell on premium.\" Speaker 1 (Nick Stene) [00:20]\n- \"But postbiotics is at this moment in time kicking ass\" Speaker 1 (Nick Stene) [00:20]\n- \"the agent looks at proof through a completely different lens to a human being.\" Speaker 1 (Nick Stene) [00:20]",
+    "Follow-ups": "- Nick Stene (Euromonitor): ask for the deck and the premium-versus-launch data for sports protein and creatine; confirm his surname and title [00:00] [00:20].\n- Identify the brands Otter heard as \"I am eight\" and \"ancient and brave\" [00:20].\n- The next speaker introduced was Emma Hudson, senior insights director; her talk is not in this recording [23:16].\n- The billed title and track, once the programme is published."
+   },
+   "takeaways": [
+    {
+     "text": "Market: consumer health totals \"373 billion\" as he scopes it (currency not stated), growing about 5%, or 1.5 without inflation, half a point down; treatment has gone negative in real terms [00:20].",
+     "cites": [
+      "00:20"
+     ]
+    },
+    {
+     "text": "Milestone: \"the first year in which we have spent more physically on prevention than we have on treatment\", and the gap between supplements and OTC will widen [00:20].",
+     "cites": [
+      "00:20"
+     ]
+    },
+    {
+     "text": "OTC is hit hardest by tariffs, by dependence on active pharmaceutical ingredients from India and China, and, next, by European wastewater rules [00:20].",
+     "cites": [
+      "00:20"
+     ]
+    },
+    {
+     "text": "Sports protein: he has shelf data showing a 20% plus pass-through in physical pricing, 30 to 40% overall once pack shrinkage and other absorption moves are counted; the premium whey supply problem \"probably starts to get solved\" around the back end of 2027, 2028 at the earliest, with \"years of trauma\" left [00:20].",
+     "cites": [
+      "00:20"
+     ]
+    },
+    {
+     "text": "Money is moving to premium dietary supplements, through line extensions, brand actions and M&A; he sees \"about eight to $9 billion in motion\", some from venture capital and private equity outside health [00:20].",
+     "cites": [
+      "00:20"
+     ]
+    },
+    {
+     "text": "Healthspan as a funnel: the edge (SKU names directly on age and life stage, including mitochondrial) is niche, growing and earns a premium; broader healthspan wording appears on cheap and expensive products alike; protection messages (immune, antioxidant) cover about half the shelf [00:20].",
+     "cites": [
+      "00:20"
+     ]
+    },
+    {
+     "text": "Growth is stronger in shops than online, where trust is leaking; demographics explain about 30 to 40% of growth (people entering a new life stage, not the size of the ageing population), brand push about another third, and employers' attitudes to time off work more [00:20].",
+     "cites": [
+      "00:20"
+     ]
+    },
+    {
+     "text": "On the US shelf, longevity and healthy ageing grow fastest and earn a strong premium; menopause is losing its premium while 40-plus and perimenopause still earn one; prostate has lost its premium; skin peaked in 2025 and hair is next; immune has peaked but remains a workhorse [00:20].",
+     "cites": [
+      "00:20"
+     ]
+    },
+    {
+     "text": "Europe follows the same pattern, but mitochondrial messaging is already stronger than in the US, partly because of what the regulatory framework allows, and healthy-ageing messaging is \"a tougher sell\", some of it only online [00:20].",
+     "cites": [
+      "00:20"
+     ]
+    },
+    {
+     "text": "Ingredient life cycle: proof brings a premium, popularity brings scale, then price war; magnesium forms \"turned into footballs\" on price; the form Otter heard as \"L3 and eight\" still holds a premium on cognition; \"popularity is the death knell on premium\" [00:20].",
+     "cites": [
+      "00:20"
+     ]
+    },
+    {
+     "text": "NAD+ escaped niche last year and grew three times on the US shelf in 18 months; stacks with spermidine and resveratrol won back some premium in 2026, but it is near price war [00:20].",
+     "cites": [
+      "00:20"
+     ]
+    },
+    {
+     "text": "Postbiotics are growing fast, have \"really strong connections into GLP-1\" and earn one of the strongest premiums; he is watching them most closely [00:20].",
+     "cites": [
+      "00:20"
+     ]
+    },
+    {
+     "text": "Men do not buy into an andropause label; they respond to testosterone, performance and prostate messages [00:20].",
+     "cites": [
+      "00:20"
+     ]
+    },
+    {
+     "text": "A brand Otter heard as \"I am eight\" broke 100 million in year one, is on target for 220 to 230 in year two, projects 400 million in year three and raised a billion in funding on a profitable subscription model; he named it and \"ancient and brave\" as brands nailing proof [00:20].",
+     "cites": [
+      "00:20"
+     ]
+    },
+    {
+     "text": "Positioning that facilitates \"someone's perfect life\" lasts longer than solving a problem, which ends when it is fixed or fails; collagen can be sold either way [00:20].",
+     "cites": [
+      "00:20"
+     ]
+    },
+    {
+     "text": "Takeaways: lead with proof; know the ingredient's life stage and the pipeline behind it; segment and price, with women heading into perimenopause badly served; and design proof for three gatekeepers: shoppers, healthcare professionals and agentic commerce [00:20].",
+     "cites": [
+      "00:20"
+     ]
+    }
+   ],
+   "quotes": [
+    {
+     "text": "\"this is the first year in which we have spent more physically on prevention than we have on treatment.\" Speaker 1 (Nick Stene) [00:20]",
+     "cites": [
+      "00:20"
+     ]
+    },
+    {
+     "text": "\"So the protein one probably starts to get solved in supply because it's scarcity driven around premium way around 2027 back end, 2028 earliest\" Speaker 1 (Nick Stene) [00:20]",
+     "cites": [
+      "00:20"
+     ]
+    },
+    {
+     "text": "\"we've got to name the need, and the more we name the need, the more we get the benefits out of this space\" Speaker 1 (Nick Stene) [00:20]",
+     "cites": [
+      "00:20"
+     ]
+    },
+    {
+     "text": "\"popularity is the death knell on premium.\" Speaker 1 (Nick Stene) [00:20]",
+     "cites": [
+      "00:20"
+     ]
+    },
+    {
+     "text": "\"But postbiotics is at this moment in time kicking ass\" Speaker 1 (Nick Stene) [00:20]",
+     "cites": [
+      "00:20"
+     ]
+    },
+    {
+     "text": "\"the agent looks at proof through a completely different lens to a human being.\" Speaker 1 (Nick Stene) [00:20]",
+     "cites": [
+      "00:20"
+     ]
+    }
+   ],
+   "followups": [
+    "Nick Stene (Euromonitor): ask for the deck and the premium-versus-launch data for sports protein and creatine; confirm his surname and title [00:00] [00:20].",
+    "Identify the brands Otter heard as \"I am eight\" and \"ancient and brave\" [00:20].",
+    "The next speaker introduced was Emma Hudson, senior insights director; her talk is not in this recording [23:16].",
+    "The billed title and track, once the programme is published."
+   ],
+   "files": [
+    {
+     "name": "otter-summary.md",
+     "kind": "text",
+     "pages": null
+    }
+   ]
+  },
   {
    "id": "a-bigger-sports-nutrition-landscape-growth",
    "event": "sans-europe-2026",
@@ -1514,36 +1721,208 @@
     {
      "name": "Ollie Marchon",
      "organisation": "Marchon",
-     "role": ""
+     "role": "Founder (as introduced)"
     },
     {
      "name": "Liam Holmes",
      "organisation": "Marchon",
-     "role": ""
+     "role": "Head of product (as introduced; Otter heard the name as \"Liam Bones\")"
     }
    ],
-   "themes": [],
-   "ingredients": [],
-   "relevance": "",
-   "status": "captured",
-   "summary_by": "",
-   "summary_date": "",
+   "themes": [
+    "sports-nutrition-mainstream",
+    "creatine-beyond-strength",
+    "delivery-formats"
+   ],
+   "ingredients": [
+    "creatine",
+    "CreaWin",
+    "protein",
+    "carbohydrate",
+    "electrolytes",
+    "multivitamin",
+    "omega",
+    "magnesium",
+    "curcumin",
+    "probiotics"
+   ],
+   "relevance": "high",
+   "status": "summarised",
+   "summary_by": "Claude",
+   "summary_date": "2026-11-10",
    "reviewed_by": "",
    "reviewed_date": "",
-   "attended_by": [],
-   "links": {},
-   "to_check": "No slides, transcript or notes filed yet; whether Nathan attended this one.",
+   "attended_by": [
+    "Nathan"
+   ],
+   "links": {
+    "otter": "https://otter.ai/u/pZI1Kf2nvFAS-7PcfNZZlCOVpH0"
+   },
+   "to_check": "Whether the head of product is Liam Holmes as billed (Otter heard \"Liam Bones\"), which of the two answered where Otter's labels run two speakers together ([19:42], [22:11]), and whether photos of any slides exist.",
    "added": "2026-11-09",
    "added_by": "Claude (from the event app's programme, screenshots from Nathan at 11:39-11:40 on 9 Nov 2026)",
-   "has_transcript": false,
-   "transcript_words": 0,
+   "has_transcript": true,
+   "transcript_words": 4826,
    "has_notes": false,
-   "has_summary": false,
-   "summary": null,
-   "takeaways": [],
-   "quotes": [],
-   "followups": [],
-   "files": []
+   "has_summary": true,
+   "summary": {
+    "Summary": "Olivia Haslam (NutraIngredients) talked with Marchon's founder Ollie Marchon and head of product Liam Holmes about what the rise of the \"everyday athlete\" means for sports nutrition [00:00]. Ollie split these consumers into three groups (inspired by, driven by, live by) and said most of their 8,000 daily app users train at 6:00 in the morning, which changes what they need [00:54]. Liam argued for \"situational\" formats, such as carbohydrate in a pre-workout for people who cannot eat at 6 a.m. [04:00]. Ollie said awareness of ingredients and supplements is high but understanding lags, so education, honest positioning and efficacious doses matter [05:29] [18:39]. They see creatine as here to stay, moving into cognition, with format and stability as the challenge for ingredient suppliers [08:24]. Their five-year bet is formats that improve compliance [22:11].",
+    "Key takeaways": "- The everyday athlete: the running boom, Hyrox (\"high rocks\" in Otter) and strength training have blurred the line between elite athletes and everyone else [00:54] [03:05].\n- Three segments: \"inspired by\" (habits, feeling better, multivitamin, omega, sleep, food first), driven by (\"The driven buy\" in Otter; measured progress, nutrient timing before, during and after training) and \"live by\" (optimisers who plan the whole 24 hours around training) [00:54].\n- Timing: most of their 8,000 daily training-app users train at 6:00 in the morning, as do most gym members; they are in a different fed state from people who trained after work before COVID [00:54].\n- Situational formats: Marchon put carbohydrate into a pre-workout (\"workout fuel\") because people training at 5 or 6 a.m. do not want to eat toast or porridge first [04:00].\n- Awareness is high, understanding lags: gym-goers talk confidently about products they saw in an ad or from influencers without knowing why, so \"education is really critical at this stage\" [05:29].\n- Creatine needed little brand communication: they rode the wave of big podcast voices on longevity, healthspan and healthy ageing, and of its \"decades of of literature\"; it builds the daily supplement ritual and mixes into squash, water or porridge [06:53].\n- Liam: creatine is \"here to stay\", the research is moving into cognition and possibly recovery, and for ingredient suppliers the challenge is format: stability in water, in gummies and in other formats [08:24].\n- Opportunity areas: gut health, immunity, sleep and recovery, as people train harder, longer and across modalities; gut health to absorb higher carbohydrate loads is \"still something that's untapped\" [09:36].\n- Discipline over hype: Ollie cited a stat of \"2005\" electrolyte brands launched last year and said marketing electrolytes as fuel in place of carbohydrate is \"a bit of a miss\"; low-sodium electrolytes to drink more water through the day are fine [11:15] [13:09].\n- Liam prefers established ingredients reaching new uses as research catches up (creatine for cognition, curcumin, certain probiotics) over \"the new shiny ingredient\" [14:05].\n- Claims: communicating the benefit is \"a regulatory nightmare\"; Marchon attaches ingredients to formats already in a routine, such as a creatine plus multivitamin or a \"Brain Health Plus multivitamin\" [15:23].\n- When Marchon surveyed its gym members, the number one struggle was still hitting their daily protein requirement; many marathon runners weeks from the race had not tried a gel [16:50].\n- Dose matters: a magnesium product for sleep without the right amount gives no benefit, and disappointed first-time buyers move on to the next trend [18:39].\n- Compliance: Amazon now sets more hoops than TikTok Shop; YouTube channels, regulators and third-party lab testing are catching up with poor practice; Science in Sport's chief science officer and advisory boards are the model [20:29] [21:13].\n- Five years out: \"formats that improve compliance\" (gummies, jellies, powders, RTDs) and convenience [22:11].\n- Ingredient supply, prices or sourcing were not discussed; the only supplier point was the creatine format challenge [08:24] (my reading).",
+    "For Vita Actives": "For CreaWin, this is a brand saying out loud what it wants from a creatine supplier: stability in water, in gummies and in new formats [08:24]. My reading is that stability data in those formats is the conversation opener with brands like Marchon. Creatine also works as the entry ritual for new supplement users and pairs with products already in a routine (creatine plus multivitamin) [06:53] [15:23]; my reading is that combination concepts are worth pitching. The top struggle among Marchon's gym members is hitting daily protein [16:50], which keeps the protein base growing; my reading is that convenient, early-morning formats are where a clear pea protein like IsoClr: Pea could fit. Early-morning training and carbohydrate in pre-workout is a pre-workout reformulation trend relevant to Oxystorm (my reading). Their point on efficacious doses means brands will want clinical dose evidence from suppliers [18:39] (my reading). Relevance high: creatine and the structure of the everyday-athlete market.",
+    "Quotes": "- \"We've seen the rise of the every athlete.\" Speaker 1 (Ollie Marchon) [00:54]\n- \"So I think whilst awareness is high, the real understanding is still is still lagging a little bit.\" Speaker 1 (Ollie Marchon) [05:29]\n- \"The challenge now is the format and being able to put it into different different products, whether that's stability in water, stability in gummies, stability in different formats.\" Speaker 2 (Liam Holmes) [08:24]\n- \"Communicating the science or the benefit is a regulatory nightmare.\" Speaker 2 (Liam Holmes) [15:23]\n- \"the number one thing unanimously was still hitting their daily protein requirement.\" Speaker 1 (Ollie Marchon) [16:50]\n- \"But I think it's formats that improve compliance.\" Speaker 2 (Liam Holmes) [22:11]",
+    "Follow-ups": "- Marchon (Ollie Marchon, Liam Holmes): a UK brand with gyms and a training app; ask which creatine formats they want stability data for and whether a creatine combination is in their plans [08:24] [15:23].\n- Check the electrolyte-launch figure Ollie quoted (\"2005\" in Otter) [11:15].\n- Confirm the head of product's surname (billed Liam Holmes, Otter \"Liam Bones\") [00:00]."
+   },
+   "takeaways": [
+    {
+     "text": "The everyday athlete: the running boom, Hyrox (\"high rocks\" in Otter) and strength training have blurred the line between elite athletes and everyone else [00:54] [03:05].",
+     "cites": [
+      "00:54",
+      "03:05"
+     ]
+    },
+    {
+     "text": "Three segments: \"inspired by\" (habits, feeling better, multivitamin, omega, sleep, food first), driven by (\"The driven buy\" in Otter; measured progress, nutrient timing before, during and after training) and \"live by\" (optimisers who plan the whole 24 hours around training) [00:54].",
+     "cites": [
+      "00:54"
+     ]
+    },
+    {
+     "text": "Timing: most of their 8,000 daily training-app users train at 6:00 in the morning, as do most gym members; they are in a different fed state from people who trained after work before COVID [00:54].",
+     "cites": [
+      "00:54"
+     ]
+    },
+    {
+     "text": "Situational formats: Marchon put carbohydrate into a pre-workout (\"workout fuel\") because people training at 5 or 6 a.m. do not want to eat toast or porridge first [04:00].",
+     "cites": [
+      "04:00"
+     ]
+    },
+    {
+     "text": "Awareness is high, understanding lags: gym-goers talk confidently about products they saw in an ad or from influencers without knowing why, so \"education is really critical at this stage\" [05:29].",
+     "cites": [
+      "05:29"
+     ]
+    },
+    {
+     "text": "Creatine needed little brand communication: they rode the wave of big podcast voices on longevity, healthspan and healthy ageing, and of its \"decades of of literature\"; it builds the daily supplement ritual and mixes into squash, water or porridge [06:53].",
+     "cites": [
+      "06:53"
+     ]
+    },
+    {
+     "text": "Liam: creatine is \"here to stay\", the research is moving into cognition and possibly recovery, and for ingredient suppliers the challenge is format: stability in water, in gummies and in other formats [08:24].",
+     "cites": [
+      "08:24"
+     ]
+    },
+    {
+     "text": "Opportunity areas: gut health, immunity, sleep and recovery, as people train harder, longer and across modalities; gut health to absorb higher carbohydrate loads is \"still something that's untapped\" [09:36].",
+     "cites": [
+      "09:36"
+     ]
+    },
+    {
+     "text": "Discipline over hype: Ollie cited a stat of \"2005\" electrolyte brands launched last year and said marketing electrolytes as fuel in place of carbohydrate is \"a bit of a miss\"; low-sodium electrolytes to drink more water through the day are fine [11:15] [13:09].",
+     "cites": [
+      "11:15",
+      "13:09"
+     ]
+    },
+    {
+     "text": "Liam prefers established ingredients reaching new uses as research catches up (creatine for cognition, curcumin, certain probiotics) over \"the new shiny ingredient\" [14:05].",
+     "cites": [
+      "14:05"
+     ]
+    },
+    {
+     "text": "Claims: communicating the benefit is \"a regulatory nightmare\"; Marchon attaches ingredients to formats already in a routine, such as a creatine plus multivitamin or a \"Brain Health Plus multivitamin\" [15:23].",
+     "cites": [
+      "15:23"
+     ]
+    },
+    {
+     "text": "When Marchon surveyed its gym members, the number one struggle was still hitting their daily protein requirement; many marathon runners weeks from the race had not tried a gel [16:50].",
+     "cites": [
+      "16:50"
+     ]
+    },
+    {
+     "text": "Dose matters: a magnesium product for sleep without the right amount gives no benefit, and disappointed first-time buyers move on to the next trend [18:39].",
+     "cites": [
+      "18:39"
+     ]
+    },
+    {
+     "text": "Compliance: Amazon now sets more hoops than TikTok Shop; YouTube channels, regulators and third-party lab testing are catching up with poor practice; Science in Sport's chief science officer and advisory boards are the model [20:29] [21:13].",
+     "cites": [
+      "20:29",
+      "21:13"
+     ]
+    },
+    {
+     "text": "Five years out: \"formats that improve compliance\" (gummies, jellies, powders, RTDs) and convenience [22:11].",
+     "cites": [
+      "22:11"
+     ]
+    },
+    {
+     "text": "Ingredient supply, prices or sourcing were not discussed; the only supplier point was the creatine format challenge [08:24] (my reading).",
+     "cites": [
+      "08:24"
+     ]
+    }
+   ],
+   "quotes": [
+    {
+     "text": "\"We've seen the rise of the every athlete.\" Speaker 1 (Ollie Marchon) [00:54]",
+     "cites": [
+      "00:54"
+     ]
+    },
+    {
+     "text": "\"So I think whilst awareness is high, the real understanding is still is still lagging a little bit.\" Speaker 1 (Ollie Marchon) [05:29]",
+     "cites": [
+      "05:29"
+     ]
+    },
+    {
+     "text": "\"The challenge now is the format and being able to put it into different different products, whether that's stability in water, stability in gummies, stability in different formats.\" Speaker 2 (Liam Holmes) [08:24]",
+     "cites": [
+      "08:24"
+     ]
+    },
+    {
+     "text": "\"Communicating the science or the benefit is a regulatory nightmare.\" Speaker 2 (Liam Holmes) [15:23]",
+     "cites": [
+      "15:23"
+     ]
+    },
+    {
+     "text": "\"the number one thing unanimously was still hitting their daily protein requirement.\" Speaker 1 (Ollie Marchon) [16:50]",
+     "cites": [
+      "16:50"
+     ]
+    },
+    {
+     "text": "\"But I think it's formats that improve compliance.\" Speaker 2 (Liam Holmes) [22:11]",
+     "cites": [
+      "22:11"
+     ]
+    }
+   ],
+   "followups": [
+    "Marchon (Ollie Marchon, Liam Holmes): a UK brand with gyms and a training app; ask which creatine formats they want stability data for and whether a creatine combination is in their plans [08:24] [15:23].",
+    "Check the electrolyte-launch figure Ollie quoted (\"2005\" in Otter) [11:15].",
+    "Confirm the head of product's surname (billed Liam Holmes, Otter \"Liam Bones\") [00:00]."
+   ],
+   "files": [
+    {
+     "name": "otter-summary.md",
+     "kind": "text",
+     "pages": null
+    }
+   ]
   },
   {
    "id": "roundtables",
@@ -1605,19 +1984,27 @@
    "reviewed_by": "",
    "reviewed_date": "",
    "attended_by": [],
-   "links": {},
-   "to_check": "No slides, transcript or notes filed yet; whether Nathan attended this one.",
+   "links": {
+    "otter": "https://otter.ai/u/czP9hEiBGV7ASrKyQI1pL4gsbTg"
+   },
+   "to_check": "Only a 35-second clip was recorded and the talk itself is not on record.",
    "added": "2026-11-09",
    "added_by": "Claude (from the event app's programme, screenshots from Nathan at 11:39-11:40 on 9 Nov 2026)",
-   "has_transcript": false,
-   "transcript_words": 0,
+   "has_transcript": true,
+   "transcript_words": 134,
    "has_notes": false,
    "has_summary": false,
    "summary": null,
    "takeaways": [],
    "quotes": [],
    "followups": [],
-   "files": []
+   "files": [
+    {
+     "name": "otter-summary.md",
+     "kind": "text",
+     "pages": null
+    }
+   ]
   },
   {
    "id": "fuel-the-frame-carbohydrate-recovery-and",
@@ -1750,28 +2137,175 @@
      "role": ""
     }
    ],
-   "themes": [],
-   "ingredients": [],
-   "relevance": "",
-   "status": "captured",
-   "summary_by": "",
-   "summary_date": "",
+   "themes": [
+    "glp-1-nutrition",
+    "sports-nutrition-mainstream"
+   ],
+   "ingredients": [
+    "protein",
+    "creatine",
+    "CreaWin"
+   ],
+   "relevance": "high",
+   "status": "summarised",
+   "summary_by": "Claude",
+   "summary_date": "2026-11-10",
    "reviewed_by": "",
    "reviewed_date": "",
-   "attended_by": [],
-   "links": {},
-   "to_check": "No slides, transcript or notes filed yet; whether Nathan attended this one.",
+   "attended_by": [
+    "Nathan"
+   ],
+   "links": {
+    "otter": "https://otter.ai/u/wvgHAxfP-V-tLHD4fpz8neQnxbw"
+   },
+   "to_check": "Morgan Griffiths' role at Lumina Intelligence, the name of the chair (Speaker 2), the source and sample of the summer survey he quoted, and whether photos of the slides exist (he pointed the room to the side-effects slide).",
    "added": "2026-11-09",
    "added_by": "Claude (from the event app's programme, screenshots from Nathan at 11:39-11:40 on 9 Nov 2026)",
-   "has_transcript": false,
-   "transcript_words": 0,
+   "has_transcript": true,
+   "transcript_words": 3606,
    "has_notes": false,
-   "has_summary": false,
-   "summary": null,
-   "takeaways": [],
-   "quotes": [],
-   "followups": [],
-   "files": []
+   "has_summary": true,
+   "summary": {
+    "Summary": "Morgan Griffiths of Lumina Intelligence argued that GLP-1, bad news for food and drink brands, is an opportunity for active nutrition [00:08]. He said 6.1% of the UK population currently take GLP-1s, 5.7% have taken them and 15.1% are considering them, about 18.4 million people, with similar current use in Italy, France, Germany and Spain [00:08]. Current users are mostly female, Gen X or Millennial and ABC1, already health-minded and willing to pay more; two thirds expect to spend the same or more on food and drink, and near 60% are likely to increase their supplement use [00:08]. He pointed to three opportunity areas: side effects, nutrition gaps such as protein and muscle loss, and lapsed users, who he said are four times more likely to regain weight according to a British Medical Association study [00:08]. Huel, Cambridge Nutrition, Portion IQ and Boots are already moving, and Lumina forecasts UK current use at around 11% by 2031 [00:08].",
+    "Key takeaways": "- UK use now: 6.1% currently taking GLP-1s, 5.7% previously, 15.1% considering; he said the considering figure jumped \"by about two thirds, a third to a half\" when the pill was introduced [00:08].\n- Together that is about 18.4 million people: everyone in the UK born since 2000, the UK's Netflix subscribers, or the 12th largest country in Europe [00:08].\n- A summer study found similar current use in Italy, France, Germany and Spain; the US is further ahead [00:08].\n- Current users (6.1%) outnumber vegans and vegetarians combined (5.7%), yet food and drink teams invest more in vegan innovation [00:08].\n- Current users are not the obesity population the drugs were designed for: 56% female, 63% Gen X or Millennial, 63% ABC1 [00:08].\n- They are health-minded: over 55% already make healthy lifestyle choices, 62% look for food with added benefits and 74% are happy to pay more for quality [00:08].\n- Spend: the most common answer was no change, the net was an increase, and two thirds expect to spend the same or more on food and drink; 90 to 95% in the UK buy the drugs privately, at \"one to 300 pounds a month\" [00:08].\n- Supplements: near 60% are likely to increase supplement use, near 90% with no change included; the list held no surprises, with creatine \"maybe slightly higher\" than expected, and he saw \"a little bit of white space\" for active nutrition [00:08].\n- Opportunity areas: lapsed users (30% worry about putting weight back on), side effects, reduced food enjoyment and access to nutrition (muscle loss concerns, difficulty consuming enough protein and nutrients), with a malnutrition risk for people who eat less without care [00:08].\n- Lapsed users: around 80% think they will keep the weight off (95% including neutral), but he cited a British Medical Association study showing people are four times more likely to regain weight lost with GLP-1 than with traditional methods [00:08].\n- Why: GLP-1 changes behaviour without the user changing behaviour; when \"you turn the tap off\", the weight comes back unless habits changed [00:08].\n- Market moves: Huel's lighter version, Cambridge Nutrition and Portion IQ ranges, and Boots' GLP-1 bays and shelf clips; putting GLP-1 on pack is \"a kind of a health claim\", so retailer support matters [00:08].\n- Forecast: Lumina's data has UK current users growing to around 11% by 2031 [00:08].\n- The talk's own recording starts at 16:05 and ends at about 16:24; the next recording (from-hype-to-proof-the-science) starts 12 seconds later, so the two do not overlap (my reading of the recording times).",
+    "For Vita Actives": "GLP-1 users are affluent, health-minded and expect to spend more on supplements, and protein and muscle loss are among their stated concerns [00:08]. My reading is that this is a direct opening for IsoClr: Pea in low-volume, high-protein products, and for CreaWin, since creatine already shows up higher than expected in what users take [00:08]. Lapsed users are his largest gap; my reading is that muscle-retention products (protein plus creatine) for people coming off the drugs are a concept to put to customers. The claims point matters: brands avoid \"GLP-1\" on pack and rely on retailer bays like Boots', so supplier support should be evidence on muscle and protein, not GLP-1 wording [00:08] (my reading). The survey covers the UK and four big EU markets, which matches our customers' markets [00:08]. Relevance high: GLP-1 nutrition and market structure.",
+    "Quotes": "- \"So, 6.1% of the UK population are currently taking GLP-1s.\" Speaker 1 (Morgan Griffiths) [00:08]\n- \"Two thirds of consumers are likely to spend the same or more when on GLP-1 than not.\" Speaker 1 (Morgan Griffiths) [00:08]\n- \"So near 60% of consumers are likely to increase their supplement usage.\" Speaker 1 (Morgan Griffiths) [00:08]\n- \"I guess creatine maybe slightly higher than than you might have thought\" Speaker 1 (Morgan Griffiths) [00:08]\n- \"GLP-1 is unique because your behavior changes, but you do not have to change your behavior.\" Speaker 1 (Morgan Griffiths) [00:08]\n- \"Our data forecasts in the UK alone, it's going to grow to around 11% by 2031.\" Speaker 1 (Morgan Griffiths) [00:08]",
+    "Follow-ups": "- Ask Morgan Griffiths (Lumina Intelligence) for the summer survey (UK, Italy, France, Germany, Spain): sample, the supplement list and the side-effects slide [00:08].\n- Find the British Medical Association study on weight regain after GLP-1 [00:08].\n- Look at the Huel light range, Cambridge Nutrition, Portion IQ and Boots' GLP-1 bays as the benchmark set [00:08]."
+   },
+   "takeaways": [
+    {
+     "text": "UK use now: 6.1% currently taking GLP-1s, 5.7% previously, 15.1% considering; he said the considering figure jumped \"by about two thirds, a third to a half\" when the pill was introduced [00:08].",
+     "cites": [
+      "00:08"
+     ]
+    },
+    {
+     "text": "Together that is about 18.4 million people: everyone in the UK born since 2000, the UK's Netflix subscribers, or the 12th largest country in Europe [00:08].",
+     "cites": [
+      "00:08"
+     ]
+    },
+    {
+     "text": "A summer study found similar current use in Italy, France, Germany and Spain; the US is further ahead [00:08].",
+     "cites": [
+      "00:08"
+     ]
+    },
+    {
+     "text": "Current users (6.1%) outnumber vegans and vegetarians combined (5.7%), yet food and drink teams invest more in vegan innovation [00:08].",
+     "cites": [
+      "00:08"
+     ]
+    },
+    {
+     "text": "Current users are not the obesity population the drugs were designed for: 56% female, 63% Gen X or Millennial, 63% ABC1 [00:08].",
+     "cites": [
+      "00:08"
+     ]
+    },
+    {
+     "text": "They are health-minded: over 55% already make healthy lifestyle choices, 62% look for food with added benefits and 74% are happy to pay more for quality [00:08].",
+     "cites": [
+      "00:08"
+     ]
+    },
+    {
+     "text": "Spend: the most common answer was no change, the net was an increase, and two thirds expect to spend the same or more on food and drink; 90 to 95% in the UK buy the drugs privately, at \"one to 300 pounds a month\" [00:08].",
+     "cites": [
+      "00:08"
+     ]
+    },
+    {
+     "text": "Supplements: near 60% are likely to increase supplement use, near 90% with no change included; the list held no surprises, with creatine \"maybe slightly higher\" than expected, and he saw \"a little bit of white space\" for active nutrition [00:08].",
+     "cites": [
+      "00:08"
+     ]
+    },
+    {
+     "text": "Opportunity areas: lapsed users (30% worry about putting weight back on), side effects, reduced food enjoyment and access to nutrition (muscle loss concerns, difficulty consuming enough protein and nutrients), with a malnutrition risk for people who eat less without care [00:08].",
+     "cites": [
+      "00:08"
+     ]
+    },
+    {
+     "text": "Lapsed users: around 80% think they will keep the weight off (95% including neutral), but he cited a British Medical Association study showing people are four times more likely to regain weight lost with GLP-1 than with traditional methods [00:08].",
+     "cites": [
+      "00:08"
+     ]
+    },
+    {
+     "text": "Why: GLP-1 changes behaviour without the user changing behaviour; when \"you turn the tap off\", the weight comes back unless habits changed [00:08].",
+     "cites": [
+      "00:08"
+     ]
+    },
+    {
+     "text": "Market moves: Huel's lighter version, Cambridge Nutrition and Portion IQ ranges, and Boots' GLP-1 bays and shelf clips; putting GLP-1 on pack is \"a kind of a health claim\", so retailer support matters [00:08].",
+     "cites": [
+      "00:08"
+     ]
+    },
+    {
+     "text": "Forecast: Lumina's data has UK current users growing to around 11% by 2031 [00:08].",
+     "cites": [
+      "00:08"
+     ]
+    },
+    {
+     "text": "The talk's own recording starts at 16:05 and ends at about 16:24; the next recording (from-hype-to-proof-the-science) starts 12 seconds later, so the two do not overlap (my reading of the recording times).",
+     "cites": []
+    }
+   ],
+   "quotes": [
+    {
+     "text": "\"So, 6.1% of the UK population are currently taking GLP-1s.\" Speaker 1 (Morgan Griffiths) [00:08]",
+     "cites": [
+      "00:08"
+     ]
+    },
+    {
+     "text": "\"Two thirds of consumers are likely to spend the same or more when on GLP-1 than not.\" Speaker 1 (Morgan Griffiths) [00:08]",
+     "cites": [
+      "00:08"
+     ]
+    },
+    {
+     "text": "\"So near 60% of consumers are likely to increase their supplement usage.\" Speaker 1 (Morgan Griffiths) [00:08]",
+     "cites": [
+      "00:08"
+     ]
+    },
+    {
+     "text": "\"I guess creatine maybe slightly higher than than you might have thought\" Speaker 1 (Morgan Griffiths) [00:08]",
+     "cites": [
+      "00:08"
+     ]
+    },
+    {
+     "text": "\"GLP-1 is unique because your behavior changes, but you do not have to change your behavior.\" Speaker 1 (Morgan Griffiths) [00:08]",
+     "cites": [
+      "00:08"
+     ]
+    },
+    {
+     "text": "\"Our data forecasts in the UK alone, it's going to grow to around 11% by 2031.\" Speaker 1 (Morgan Griffiths) [00:08]",
+     "cites": [
+      "00:08"
+     ]
+    }
+   ],
+   "followups": [
+    "Ask Morgan Griffiths (Lumina Intelligence) for the summer survey (UK, Italy, France, Germany, Spain): sample, the supplement list and the side-effects slide [00:08].",
+    "Find the British Medical Association study on weight regain after GLP-1 [00:08].",
+    "Look at the Huel light range, Cambridge Nutrition, Portion IQ and Boots' GLP-1 bays as the benchmark set [00:08]."
+   ],
+   "files": [
+    {
+     "name": "otter-summary.md",
+     "kind": "text",
+     "pages": null
+    }
+   ]
   },
   {
    "id": "train-harder-recover-smarter-race-longer",
@@ -1830,31 +2364,167 @@
     {
      "name": "Gulrez Zariwala",
      "organisation": "Centre for Nutraceuticals",
-     "role": ""
+     "role": "Founder director (as he introduced himself)"
     }
    ],
-   "themes": [],
-   "ingredients": [],
-   "relevance": "",
-   "status": "captured",
-   "summary_by": "",
-   "summary_date": "",
+   "themes": [
+    "glp-1-nutrition",
+    "muscle-health-beyond-protein",
+    "outcomes-over-mechanisms"
+   ],
+   "ingredients": [
+    "protein",
+    "whey protein isolate",
+    "potato protein",
+    "rice protein",
+    "OEA",
+    "berberine",
+    "cinnamon",
+    "bitter compounds",
+    "Redicools (standardised mulberry extract; Otter's spelling)",
+    "curcumin",
+    "fibre",
+    "probiotics",
+    "multivitamins"
+   ],
+   "relevance": "high",
+   "status": "summarised",
+   "summary_by": "Claude",
+   "summary_date": "2026-11-10",
    "reviewed_by": "",
    "reviewed_date": "",
-   "attended_by": [],
-   "links": {},
-   "to_check": "No slides, transcript or notes filed yet; whether Nathan attended this one.",
+   "attended_by": [
+    "Nathan"
+   ],
+   "links": {
+    "otter": "https://otter.ai/u/dBvLceBTr1YTpQ3D_hK0fHOy5uE"
+   },
+   "to_check": "His university (the recording starts mid-sentence on \"Of Westminster\"), the spelling of the mulberry extract and its sponsor (Otter: \"Redicools\", \"Finova\") and of the lipid molecule Otter heard as \"tripty\", the unit of the 19 and 21 food-noise reductions, and whether photos of the slides exist.",
    "added": "2026-11-09",
    "added_by": "Claude (from the event app's programme, screenshots from Nathan at 11:39-11:40 on 9 Nov 2026)",
-   "has_transcript": false,
-   "transcript_words": 0,
+   "has_transcript": true,
+   "transcript_words": 4075,
    "has_notes": false,
-   "has_summary": false,
-   "summary": null,
-   "takeaways": [],
-   "quotes": [],
-   "followups": [],
-   "files": []
+   "has_summary": true,
+   "summary": {
+    "Summary": "Gulrez Zariwala, founder director of the Centre for Nutraceuticals, reviewed what science supports supplements aimed at GLP-1 and satiety [00:15]. He explained that gut hormones (GLP-1 and PYY) signal fullness and ghrelin hunger, and that GLP-1 drugs give weight loss of \"between five to 15%\" but can cost muscle as well as fat [00:15]. Of the supplement candidates, he said proteins have \"an undisputed effect\" on GLP-1 secretion, while berberine, cinnamon and bitter compounds have modest effects and few human studies [00:15]. His centre's own trial found potato protein and whey protein isolate raised GLP-1 equally, and a new trial of a mulberry extract (Otter: \"Redicools\") found significant rises in GLP-1 and falls in appetite and \"food noise\" [00:15]. He closed by saying no natural supplement can match a drug's effect, so expectations need managing and products need scientific validation [00:15].",
+    "Key takeaways": "- The Centre for Nutraceuticals, in central London, aims to bridge industry and academia with independent research, from formulation and cell studies to human trials, sponsored or blue-sky [00:15].\n- Obesity: incidence is high at 40% in the US and 35 to 40% in parts of South America and Africa; BMI over 30 is the simple consensus definition [00:15].\n- Drug history: most obesity drugs were withdrawn; centrally acting ones such as rimonabant (\"rimonaban\" in Otter) carried neuropsychiatric risks, which turned the field to gut hormones [00:15].\n- Gut hormones: ghrelin signals hunger; GLP-1, PYY, oxyntomodulin and GIP signal fullness; he said PYY is the more potent anorexigenic hormone, but GLP-1 drugs came first for commercial and clinical reasons [00:15].\n- GLP-1 drugs give weight loss of \"between five to 15%\"; side effects include nausea and vomiting, loss of facial fat pads, collagen breakdown, and loss of body weight rather than body fat, so muscle loss \"can lead to sarcopenia\" [00:15].\n- GLP-1 is not banned in sport but is \"on the watch list\", and he said athletes have noticed reduced inflammation and more energy [00:15].\n- The supplement boom (Expo West, last year) brought \"some high-profile lawsuits\", regulatory clampdowns and lower consumer confidence [00:15].\n- Proteins: an \"undisputed effect\" on GLP-1 secretion, depending on quality and amino acid profile; a 2015 study of high protein against high carbohydrate and high fat showed a significant post-meal rise in GLP-1 and PYY [00:15].\n- Other candidates: OEA acts directly (GPR119) but degrades fast, so formulation may help; berberine's GLP-1 effects are indirect, mostly in rodents, and modest; cinnamon and bitter compounds have mechanisms but \"mild to modest\" effects and few human studies [00:15].\n- His protein appetite trial (placebo-controlled triple crossover, isocaloric breakfasts): potato protein and whey protein isolate both raised GLP-1 significantly and equally; whey protein isolate also raised GIP significantly at 60 minutes, which he called the first nutraceutical showing a similar trend to the dual drugs, \"not to the same magnitude\" [00:15].\n- The mulberry extract trial (with a UK company Otter heard as \"Finova\"; triple crossover with placebo, the extract, and a leading US GLP-1 brand's combination): a significant rise in GLP-1 at 180 minutes, a significant fall in appetite, and a significant fall in food noise over 24 hours (\"19 with one and 21 with the other\"); it finished last month, will be submitted next week, and follow-on studies are planned for 2027-28 if the partner supports them [00:15].\n- Conclusions: supplements \"may fill a gap\" for current or lapsed users, but \"There is no natural supplement solution that can match the magnitude of response\" of a drug; validated products \"increase market resilience\"; GLP-1 use creates secondary demand for probiotics, proteins, fibre and multivitamins [00:15].",
+    "For Vita Actives": "A plant protein matched whey protein isolate on GLP-1 response in his trial; that was potato protein, not pea [00:15]. My reading is that this opens a satiety angle for IsoClr: Pea, but only with our own data, and his centre runs exactly this protocol for industry partners. Muscle loss on GLP-1 drugs is his headline risk, and protein is the one supplement class he called validated on both satiety and muscle [00:15]; my reading is that protein for GLP-1 users is a pitch with science behind it, while CreaWin's place there would rest on its muscle evidence, which he did not discuss. His warning on overclaiming (lawsuits, clampdowns) fits EU claims rules: we should not let customers imply GLP-1 effects for our ingredients [00:15] (my reading). Relevance high: GLP-1 nutrition and protein.",
+    "Quotes": "- \"Proteins have an undisputed effect on GLP-1 secretion, both mechanistically, animal models, human study.\" Speaker 2 (Gulrez Zariwala) [00:15]\n- \"So a significant increase in GLP-1, increase sorry reduction in appetite and reduction in food noise.\" Speaker 2 (Gulrez Zariwala) [00:15]\n- \"There is no natural supplement solution that can match the magnitude of response which you will get with a pharmacological drug\" Speaker 2 (Gulrez Zariwala) [00:15]\n- \"products that have scientific validation increase market resilience\" Speaker 2 (Gulrez Zariwala) [00:15]",
+    "Follow-ups": "- Gulrez Zariwala (Centre for Nutraceuticals): ask about a satiety and GLP-1 trial for a clear pea protein, on the protocol of his potato protein study [00:15].\n- Find his published plant protein and whey protein isolate papers (the metabolic study and the appetite study) and watch for the mulberry extract paper, due to be submitted next week [00:15].\n- Confirm the names Otter heard as \"Redicools\", \"Finova\" and \"tripty\", and his university affiliation (the recording begins \"Of Westminster\") [00:00] [00:15]."
+   },
+   "takeaways": [
+    {
+     "text": "The Centre for Nutraceuticals, in central London, aims to bridge industry and academia with independent research, from formulation and cell studies to human trials, sponsored or blue-sky [00:15].",
+     "cites": [
+      "00:15"
+     ]
+    },
+    {
+     "text": "Obesity: incidence is high at 40% in the US and 35 to 40% in parts of South America and Africa; BMI over 30 is the simple consensus definition [00:15].",
+     "cites": [
+      "00:15"
+     ]
+    },
+    {
+     "text": "Drug history: most obesity drugs were withdrawn; centrally acting ones such as rimonabant (\"rimonaban\" in Otter) carried neuropsychiatric risks, which turned the field to gut hormones [00:15].",
+     "cites": [
+      "00:15"
+     ]
+    },
+    {
+     "text": "Gut hormones: ghrelin signals hunger; GLP-1, PYY, oxyntomodulin and GIP signal fullness; he said PYY is the more potent anorexigenic hormone, but GLP-1 drugs came first for commercial and clinical reasons [00:15].",
+     "cites": [
+      "00:15"
+     ]
+    },
+    {
+     "text": "GLP-1 drugs give weight loss of \"between five to 15%\"; side effects include nausea and vomiting, loss of facial fat pads, collagen breakdown, and loss of body weight rather than body fat, so muscle loss \"can lead to sarcopenia\" [00:15].",
+     "cites": [
+      "00:15"
+     ]
+    },
+    {
+     "text": "GLP-1 is not banned in sport but is \"on the watch list\", and he said athletes have noticed reduced inflammation and more energy [00:15].",
+     "cites": [
+      "00:15"
+     ]
+    },
+    {
+     "text": "The supplement boom (Expo West, last year) brought \"some high-profile lawsuits\", regulatory clampdowns and lower consumer confidence [00:15].",
+     "cites": [
+      "00:15"
+     ]
+    },
+    {
+     "text": "Proteins: an \"undisputed effect\" on GLP-1 secretion, depending on quality and amino acid profile; a 2015 study of high protein against high carbohydrate and high fat showed a significant post-meal rise in GLP-1 and PYY [00:15].",
+     "cites": [
+      "00:15"
+     ]
+    },
+    {
+     "text": "Other candidates: OEA acts directly (GPR119) but degrades fast, so formulation may help; berberine's GLP-1 effects are indirect, mostly in rodents, and modest; cinnamon and bitter compounds have mechanisms but \"mild to modest\" effects and few human studies [00:15].",
+     "cites": [
+      "00:15"
+     ]
+    },
+    {
+     "text": "His protein appetite trial (placebo-controlled triple crossover, isocaloric breakfasts): potato protein and whey protein isolate both raised GLP-1 significantly and equally; whey protein isolate also raised GIP significantly at 60 minutes, which he called the first nutraceutical showing a similar trend to the dual drugs, \"not to the same magnitude\" [00:15].",
+     "cites": [
+      "00:15"
+     ]
+    },
+    {
+     "text": "The mulberry extract trial (with a UK company Otter heard as \"Finova\"; triple crossover with placebo, the extract, and a leading US GLP-1 brand's combination): a significant rise in GLP-1 at 180 minutes, a significant fall in appetite, and a significant fall in food noise over 24 hours (\"19 with one and 21 with the other\"); it finished last month, will be submitted next week, and follow-on studies are planned for 2027-28 if the partner supports them [00:15].",
+     "cites": [
+      "00:15"
+     ]
+    },
+    {
+     "text": "Conclusions: supplements \"may fill a gap\" for current or lapsed users, but \"There is no natural supplement solution that can match the magnitude of response\" of a drug; validated products \"increase market resilience\"; GLP-1 use creates secondary demand for probiotics, proteins, fibre and multivitamins [00:15].",
+     "cites": [
+      "00:15"
+     ]
+    }
+   ],
+   "quotes": [
+    {
+     "text": "\"Proteins have an undisputed effect on GLP-1 secretion, both mechanistically, animal models, human study.\" Speaker 2 (Gulrez Zariwala) [00:15]",
+     "cites": [
+      "00:15"
+     ]
+    },
+    {
+     "text": "\"So a significant increase in GLP-1, increase sorry reduction in appetite and reduction in food noise.\" Speaker 2 (Gulrez Zariwala) [00:15]",
+     "cites": [
+      "00:15"
+     ]
+    },
+    {
+     "text": "\"There is no natural supplement solution that can match the magnitude of response which you will get with a pharmacological drug\" Speaker 2 (Gulrez Zariwala) [00:15]",
+     "cites": [
+      "00:15"
+     ]
+    },
+    {
+     "text": "\"products that have scientific validation increase market resilience\" Speaker 2 (Gulrez Zariwala) [00:15]",
+     "cites": [
+      "00:15"
+     ]
+    }
+   ],
+   "followups": [
+    "Gulrez Zariwala (Centre for Nutraceuticals): ask about a satiety and GLP-1 trial for a clear pea protein, on the protocol of his potato protein study [00:15].",
+    "Find his published plant protein and whey protein isolate papers (the metabolic study and the appetite study) and watch for the mulberry extract paper, due to be submitted next week [00:15].",
+    "Confirm the names Otter heard as \"Redicools\", \"Finova\" and \"tripty\", and his university affiliation (the recording begins \"Of Westminster\") [00:00] [00:15]."
+   ],
+   "files": [
+    {
+     "name": "otter-summary.md",
+     "kind": "text",
+     "pages": null
+    }
+   ]
   },
   {
    "id": "beyond-the-glp-1-boom-nutrition",
@@ -1869,41 +2539,241 @@
     {
      "name": "Brett Hamer",
      "organisation": "THG",
-     "role": ""
+     "role": "Product director, Myprotein (as introduced)"
     },
     {
      "name": "Nicholas Morgan",
      "organisation": "Nutrition Integrated",
-     "role": ""
+     "role": "Founder (as introduced, as Nick Morgan)"
     },
     {
      "name": "Ed Tooley",
      "organisation": "Ed Tooley Nutrition",
-     "role": ""
+     "role": "Performance nutritionist (as introduced)"
     }
    ],
-   "themes": [],
-   "ingredients": [],
-   "relevance": "",
-   "status": "captured",
-   "summary_by": "",
-   "summary_date": "",
+   "themes": [
+    "glp-1-nutrition",
+    "whey-price-squeeze",
+    "novel-proteins-and-blends",
+    "creatine-beyond-strength"
+   ],
+   "ingredients": [
+    "protein",
+    "whey protein",
+    "milk proteins",
+    "clear protein",
+    "plant protein",
+    "collagen",
+    "fibre",
+    "probiotics",
+    "multivitamins",
+    "creatine",
+    "CreaWin",
+    "HMB",
+    "berberine",
+    "magnesium"
+   ],
+   "relevance": "high",
+   "status": "summarised",
+   "summary_by": "Claude",
+   "summary_date": "2026-11-10",
    "reviewed_by": "",
    "reviewed_date": "",
-   "attended_by": [],
-   "links": {},
-   "to_check": "No slides, transcript or notes filed yet; whether Nathan attended this one.",
+   "attended_by": [
+    "Nathan"
+   ],
+   "links": {
+    "otter": "https://otter.ai/u/dBvLceBTr1YTpQ3D_hK0fHOy5uE"
+   },
+   "to_check": "The chair (Speaker 1) is unnamed, the product Otter heard as \"Chris\" at [40:30] is not clear, whether photos exist is not known, and the host Nikki's close of the day ([57:25] to the end: a recap and next year's dates), which is no billed session, is kept in this transcript.",
    "added": "2026-11-09",
    "added_by": "Claude (from the event app's programme, screenshots from Nathan at 11:39-11:40 on 9 Nov 2026)",
-   "has_transcript": false,
-   "transcript_words": 0,
+   "has_transcript": true,
+   "transcript_words": 7008,
    "has_notes": false,
-   "has_summary": false,
-   "summary": null,
-   "takeaways": [],
-   "quotes": [],
-   "followups": [],
-   "files": []
+   "has_summary": true,
+   "summary": {
+    "Summary": "The day's last panel brought together Nick Morgan (Nutrition Integrated), Brett Hamer (product director, Myprotein) and performance nutritionist Ed Tooley [25:19]. Brett said GLP-1 is \"turbocharging\" existing trends, with supermarkets now wanting sports nutrition across the store, and that clear protein, and clear protein plus collagen, are selling very well to this consumer [28:46] [35:09] [43:51]. On cost, he said whey doubled in price, pushing brands into milk proteins, whose prices are now rising too, while plant protein has not taken off; Nick put that down to taste [35:09] [37:08]. Nick called creatine \"almost like a tier one ingredient\" and named low-volume clear protein with fibre, and support for people coming off the drugs, as the gaps [38:42] [45:16]. Ed warned that athletes or consumers who simply eat less risk missing protein, carbohydrate and micronutrients [32:49] [34:13]. The recording ends with the host Nikki's close of the day and next year's dates [57:25].",
+    "Key takeaways": "- Nick: GLP-1 users' extra supplement buying (protein, fibre, probiotics, multivitamins) is behaviour change rather than a targeted muscle-loss purchase; protein supply challenges and prices are \"indirectly\" related to GLP-1, \"amongst other things\" [26:54].\n- Brett: these are \"accelerations of existing macro trends\"; retailers now want sports nutrition across the supermarket, not only on the health fixture, and licences such as the Müller collaboration (\"Mueller\" in Otter) have met an \"insatiable\" appetite [28:46].\n- Myprotein builds need-state bundles rather than an overtly labelled GLP-1 range, to avoid alienating other customers; bestsellers are core protein and hydration, and fibre is the interesting one [29:57].\n- Nick: few products put GLP-1 overtly on pack; it is \"right there in front of us, but it's not there at all\" [30:32].\n- Ed: GLP-1 use is not open in elite sport yet, athletes know it is on the monitoring list, and personal trainers' clients use it [31:28]; his fear is people eating less and missing key nutrients, with a risk of RED-S (\"reds\" in Otter) and deficiencies [32:49].\n- For low appetite, Ed puts protein first for muscle, then carbohydrate for fuelling and micronutrients to fill gaps [34:13].\n- Brett on price: whey at six euros a kilogram goes into everything; at 26 euros a kilogram \"your value economics completely collapsed\"; customers are more open to milk proteins, which are now \"skyrocketing\" too; whey stays resilient; clear protein is \"performing extremely well\" in retail; plant has not exploded; collagen \"is really having a moment\", especially with the clear customer [35:09].\n- Nick: plant protein's barrier is taste; whey is one of the best-tasting proteins, plant has got better but is \"never quite as good as we truly expect for the majority of people\" [37:08].\n- Creatine: Nick said it has become \"almost like a tier one ingredient\", adopted by women, ageing consumers and weight-management users, who may not know why but get \"bang for buck\" from several benefits [38:42]; Brett added that retailers now give sports nutrition far more space [39:54].\n- Myprotein's AI assistant Fuel Coach: GLP-1 users mostly ask whether a product is safe to take while on the drug, not for GLP-1 alternatives [40:30].\n- HMB: asked about rising HMB use for GLP-1 support in Brazil, Nick said there are many HMB launches, HMB pairs well with creatine, and non-protein \"muscle blends\" are growing from a relatively small base [40:51] [41:07].\n- Collagen: aesthetics and \"Ozempic face\" align collagen with GLP-1 use [41:50]; Ed uses collagen with ageing athletes as well as for injury [43:11]; Brett called clear protein plus collagen \"just a sweet spot for this this consumer\", with retail launches coming and the US responding [43:51].\n- Unmet needs: Brett would add a protein plus fibre product and a more complex fibre blend [44:38]; Nick named low-volume clear protein with fibre (citing Genius protein in America) and products for people cycling on and off [45:16]; Ed said support and education for people buying privately [46:20].\n- Nick expects routines or \"systems\" of products (AM/PM, 1-2-3) with tech and education wrapped round them to be the biggest innovation in 12 to 18 months [47:33].\n- Consumers understand less of metabolic-health claims than the industry thinks; anchor them in energy and vitality [49:16] [50:08].\n- Marketing: Myprotein is \"there to be shot at\"; retailer bays like Boots' \"GLP-1 friendly\" let it be present without GLP-1 on pack [51:57]. Nick: \"just win with protein, win with fiber\", and hydration [53:16].\n- Next disruptor: people coming off the drugs and what training they do (Brett) [55:02]; education between on and off (Ed) [56:00]; AI and faster answers (Nick) [56:07].\n- The host's close of the day (Nikki, [57:25]): a recap of SANS Europe, including that \"Polyphenols may be a big white space opportunity\", and next year's event: a two-day conference followed by the Nutra Healthspan Summit, at the Novotel London West from 7 to 10 December [57:25].",
+    "For Vita Actives": "The strongest signal for IsoClr: Pea is Brett's: clear protein is selling very well and whey's price has pushed brands into other proteins, but plant has not taken off and taste is the reason [35:09] [37:08]. My reading is that a clear pea isolate wins only if it tastes as good as clear whey, and the low-volume clear protein with fibre that Nick and Brett both named is the format to pitch it in [44:38] [45:16]. For CreaWin, creatine as a \"tier one\" ingredient across women, ageing and weight-management users, and HMB plus creatine muscle blends, give two concepts to put to brands [38:42] [41:07] (my reading). Supermarkets widening sports nutrition space means more listings for our customers and more mainstream formats [28:46] [39:54] (my reading). Milk protein prices rising after whey is a further reason a formulator may look at pea now [35:09] (my reading). Relevance high: protein, creatine and GLP-1 nutrition.",
+    "Quotes": "- \"So these trends they're not new, but GLP-1 is absolutely turbocharging them.\" Speaker 4 (Brett Hamer) [28:46]\n- \"When it's 26 euros a kilogram, your value economics completely collapsed.\" Speaker 4 (Brett Hamer) [35:09]\n- \"So, particularly in retail, our clear protein is performing extremely well.\" Speaker 4 (Brett Hamer) [35:09]\n- \"effectively it's moved into a period of where it's become almost like a tier one ingredient.\" Speaker 3 (Nick Morgan) [38:42]\n- \"However, the sort of clear protein plus collagen, I feel, is just a sweet spot for this this consumer\" Speaker 4 (Brett Hamer) [43:51]\n- \"So just win with protein, win with fiber.\" Speaker 3 (Nick Morgan) [53:16]",
+    "Follow-ups": "- Brett Hamer (Myprotein): clear protein and protein plus fibre plans; whether a clear pea or pea blend would fit their clear range [35:09] [44:38].\n- Nick Morgan (Nutrition Integrated): his tracking of GLP-1-positioned products and muscle blends [30:32] [41:07].\n- Look up Genius protein (US) as the low-volume clear protein example [45:16].\n- Next year: SANS Europe and the Nutra Healthspan Summit, Novotel London West, 7 to 10 December [57:25].\n- Who the chair (Speaker 1) was, and what Otter heard as \"Chris\" at [40:30]."
+   },
+   "takeaways": [
+    {
+     "text": "Nick: GLP-1 users' extra supplement buying (protein, fibre, probiotics, multivitamins) is behaviour change rather than a targeted muscle-loss purchase; protein supply challenges and prices are \"indirectly\" related to GLP-1, \"amongst other things\" [26:54].",
+     "cites": [
+      "26:54"
+     ]
+    },
+    {
+     "text": "Brett: these are \"accelerations of existing macro trends\"; retailers now want sports nutrition across the supermarket, not only on the health fixture, and licences such as the Müller collaboration (\"Mueller\" in Otter) have met an \"insatiable\" appetite [28:46].",
+     "cites": [
+      "28:46"
+     ]
+    },
+    {
+     "text": "Myprotein builds need-state bundles rather than an overtly labelled GLP-1 range, to avoid alienating other customers; bestsellers are core protein and hydration, and fibre is the interesting one [29:57].",
+     "cites": [
+      "29:57"
+     ]
+    },
+    {
+     "text": "Nick: few products put GLP-1 overtly on pack; it is \"right there in front of us, but it's not there at all\" [30:32].",
+     "cites": [
+      "30:32"
+     ]
+    },
+    {
+     "text": "Ed: GLP-1 use is not open in elite sport yet, athletes know it is on the monitoring list, and personal trainers' clients use it [31:28]; his fear is people eating less and missing key nutrients, with a risk of RED-S (\"reds\" in Otter) and deficiencies [32:49].",
+     "cites": [
+      "31:28",
+      "32:49"
+     ]
+    },
+    {
+     "text": "For low appetite, Ed puts protein first for muscle, then carbohydrate for fuelling and micronutrients to fill gaps [34:13].",
+     "cites": [
+      "34:13"
+     ]
+    },
+    {
+     "text": "Brett on price: whey at six euros a kilogram goes into everything; at 26 euros a kilogram \"your value economics completely collapsed\"; customers are more open to milk proteins, which are now \"skyrocketing\" too; whey stays resilient; clear protein is \"performing extremely well\" in retail; plant has not exploded; collagen \"is really having a moment\", especially with the clear customer [35:09].",
+     "cites": [
+      "35:09"
+     ]
+    },
+    {
+     "text": "Nick: plant protein's barrier is taste; whey is one of the best-tasting proteins, plant has got better but is \"never quite as good as we truly expect for the majority of people\" [37:08].",
+     "cites": [
+      "37:08"
+     ]
+    },
+    {
+     "text": "Creatine: Nick said it has become \"almost like a tier one ingredient\", adopted by women, ageing consumers and weight-management users, who may not know why but get \"bang for buck\" from several benefits [38:42]; Brett added that retailers now give sports nutrition far more space [39:54].",
+     "cites": [
+      "38:42",
+      "39:54"
+     ]
+    },
+    {
+     "text": "Myprotein's AI assistant Fuel Coach: GLP-1 users mostly ask whether a product is safe to take while on the drug, not for GLP-1 alternatives [40:30].",
+     "cites": [
+      "40:30"
+     ]
+    },
+    {
+     "text": "HMB: asked about rising HMB use for GLP-1 support in Brazil, Nick said there are many HMB launches, HMB pairs well with creatine, and non-protein \"muscle blends\" are growing from a relatively small base [40:51] [41:07].",
+     "cites": [
+      "40:51",
+      "41:07"
+     ]
+    },
+    {
+     "text": "Collagen: aesthetics and \"Ozempic face\" align collagen with GLP-1 use [41:50]; Ed uses collagen with ageing athletes as well as for injury [43:11]; Brett called clear protein plus collagen \"just a sweet spot for this this consumer\", with retail launches coming and the US responding [43:51].",
+     "cites": [
+      "41:50",
+      "43:11",
+      "43:51"
+     ]
+    },
+    {
+     "text": "Unmet needs: Brett would add a protein plus fibre product and a more complex fibre blend [44:38]; Nick named low-volume clear protein with fibre (citing Genius protein in America) and products for people cycling on and off [45:16]; Ed said support and education for people buying privately [46:20].",
+     "cites": [
+      "44:38",
+      "45:16",
+      "46:20"
+     ]
+    },
+    {
+     "text": "Nick expects routines or \"systems\" of products (AM/PM, 1-2-3) with tech and education wrapped round them to be the biggest innovation in 12 to 18 months [47:33].",
+     "cites": [
+      "47:33"
+     ]
+    },
+    {
+     "text": "Consumers understand less of metabolic-health claims than the industry thinks; anchor them in energy and vitality [49:16] [50:08].",
+     "cites": [
+      "49:16",
+      "50:08"
+     ]
+    },
+    {
+     "text": "Marketing: Myprotein is \"there to be shot at\"; retailer bays like Boots' \"GLP-1 friendly\" let it be present without GLP-1 on pack [51:57]. Nick: \"just win with protein, win with fiber\", and hydration [53:16].",
+     "cites": [
+      "51:57",
+      "53:16"
+     ]
+    },
+    {
+     "text": "Next disruptor: people coming off the drugs and what training they do (Brett) [55:02]; education between on and off (Ed) [56:00]; AI and faster answers (Nick) [56:07].",
+     "cites": [
+      "55:02",
+      "56:00",
+      "56:07"
+     ]
+    },
+    {
+     "text": "The host's close of the day (Nikki, [57:25]): a recap of SANS Europe, including that \"Polyphenols may be a big white space opportunity\", and next year's event: a two-day conference followed by the Nutra Healthspan Summit, at the Novotel London West from 7 to 10 December [57:25].",
+     "cites": [
+      "57:25",
+      "57:25"
+     ]
+    }
+   ],
+   "quotes": [
+    {
+     "text": "\"So these trends they're not new, but GLP-1 is absolutely turbocharging them.\" Speaker 4 (Brett Hamer) [28:46]",
+     "cites": [
+      "28:46"
+     ]
+    },
+    {
+     "text": "\"When it's 26 euros a kilogram, your value economics completely collapsed.\" Speaker 4 (Brett Hamer) [35:09]",
+     "cites": [
+      "35:09"
+     ]
+    },
+    {
+     "text": "\"So, particularly in retail, our clear protein is performing extremely well.\" Speaker 4 (Brett Hamer) [35:09]",
+     "cites": [
+      "35:09"
+     ]
+    },
+    {
+     "text": "\"effectively it's moved into a period of where it's become almost like a tier one ingredient.\" Speaker 3 (Nick Morgan) [38:42]",
+     "cites": [
+      "38:42"
+     ]
+    },
+    {
+     "text": "\"However, the sort of clear protein plus collagen, I feel, is just a sweet spot for this this consumer\" Speaker 4 (Brett Hamer) [43:51]",
+     "cites": [
+      "43:51"
+     ]
+    },
+    {
+     "text": "\"So just win with protein, win with fiber.\" Speaker 3 (Nick Morgan) [53:16]",
+     "cites": [
+      "53:16"
+     ]
+    }
+   ],
+   "followups": [
+    "Brett Hamer (Myprotein): clear protein and protein plus fibre plans; whether a clear pea or pea blend would fit their clear range [35:09] [44:38].",
+    "Nick Morgan (Nutrition Integrated): his tracking of GLP-1-positioned products and muscle blends [30:32] [41:07].",
+    "Look up Genius protein (US) as the low-volume clear protein example [45:16].",
+    "Next year: SANS Europe and the Nutra Healthspan Summit, Novotel London West, 7 to 10 December [57:25].",
+    "Who the chair (Speaker 1) was, and what Otter heard as \"Chris\" at [40:30]."
+   ],
+   "files": [
+    {
+     "name": "otter-summary.md",
+     "kind": "text",
+     "pages": null
+    }
+   ]
   },
   {
    "id": "nick-morgan-longevity",

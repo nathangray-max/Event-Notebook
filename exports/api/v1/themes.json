@@ -1,7 +1,7 @@
 {
  "schema": "confnotes.themes/1",
- "built": "2026-11-09",
- "commit": "43bf5fe",
+ "built": "2026-11-10",
+ "commit": "6cb8e9c",
  "count": 19,
  "items": [
   {
@@ -11,6 +11,12 @@
    "first_seen": "sans-europe-2026",
    "events": [],
    "sessions": [
+    {
+     "event": "nutra-healthspan-summit-2026",
+     "session": "euromonitor-who-is-winning-healthspan",
+     "title": "Euromonitor: who is winning in the healthspan economy",
+     "date": "2026-11-10"
+    },
     {
      "event": "sans-europe-2026",
      "session": "a-bigger-sports-nutrition-landscape-growth",
@@ -27,6 +33,12 @@
      "event": "sans-europe-2026",
      "session": "whey-collagen-the-protein-power-couple",
      "title": "Whey & Collagen: The Protein Power Couple",
+     "date": "2026-11-09"
+    },
+    {
+     "event": "sans-europe-2026",
+     "session": "beyond-the-glp-1-boom-nutrition",
+     "title": "Beyond the GLP-1 Boom: Nutrition, Innovation and the Future of Weight Management",
      "date": "2026-11-09"
     }
    ]
@@ -78,6 +90,12 @@
      "date": "2026-11-09"
     },
     {
+     "event": "sans-europe-2026",
+     "session": "beyond-the-glp-1-boom-nutrition",
+     "title": "Beyond the GLP-1 Boom: Nutrition, Innovation and the Future of Weight Management",
+     "date": "2026-11-09"
+    },
+    {
      "event": "remedy-cdmo-2026",
      "session": "protein-brewery-fermotein",
      "title": "The Protein Brewery: Fermotein, a fermented mycelium protein for active and all-in-one nutrition",
@@ -103,6 +121,18 @@
      "session": "unfiltered-an-insider-s-view-of",
      "title": "Unfiltered: An Insider's View of the Whey Protein Market",
      "date": "2026-11-09"
+    },
+    {
+     "event": "sans-europe-2026",
+     "session": "built-in-the-gym-turning-athlete",
+     "title": "Built in the gym: Turning athlete insight into sports nutrition innovation",
+     "date": "2026-11-09"
+    },
+    {
+     "event": "sans-europe-2026",
+     "session": "glp-won-market-opportunities-for-the",
+     "title": "GLP-Won - Market Opportunities for the Active Nutrition Sector",
+     "date": "2026-11-09"
     }
    ]
   },
@@ -123,6 +153,24 @@
      "event": "sans-europe-2026",
      "session": "unfiltered-an-insider-s-view-of",
      "title": "Unfiltered: An Insider's View of the Whey Protein Market",
+     "date": "2026-11-09"
+    },
+    {
+     "event": "sans-europe-2026",
+     "session": "glp-won-market-opportunities-for-the",
+     "title": "GLP-Won - Market Opportunities for the Active Nutrition Sector",
+     "date": "2026-11-09"
+    },
+    {
+     "event": "sans-europe-2026",
+     "session": "from-hype-to-proof-the-science",
+     "title": "From hype to proof: the science behind GLP-1 targeted nutritional supplements",
+     "date": "2026-11-09"
+    },
+    {
+     "event": "sans-europe-2026",
+     "session": "beyond-the-glp-1-boom-nutrition",
+     "title": "Beyond the GLP-1 Boom: Nutrition, Innovation and the Future of Weight Management",
      "date": "2026-11-09"
     },
     {
@@ -152,6 +200,12 @@
    "first_seen": "remedy-cdmo-2026",
    "events": [],
    "sessions": [
+    {
+     "event": "nutra-healthspan-summit-2026",
+     "session": "euromonitor-who-is-winning-healthspan",
+     "title": "Euromonitor: who is winning in the healthspan economy",
+     "date": "2026-11-10"
+    },
     {
      "event": "sans-europe-2026",
      "session": "a-bigger-sports-nutrition-landscape-growth",
@@ -216,6 +270,18 @@
      "date": "2026-11-09"
     },
     {
+     "event": "sans-europe-2026",
+     "session": "built-in-the-gym-turning-athlete",
+     "title": "Built in the gym: Turning athlete insight into sports nutrition innovation",
+     "date": "2026-11-09"
+    },
+    {
+     "event": "sans-europe-2026",
+     "session": "beyond-the-glp-1-boom-nutrition",
+     "title": "Beyond the GLP-1 Boom: Nutrition, Innovation and the Future of Weight Management",
+     "date": "2026-11-09"
+    },
+    {
      "event": "remedy-cdmo-2026",
      "session": "nick-morgan-longevity",
      "title": "Nick Morgan: how longevity is sold, from hallmarks to habits",
@@ -246,6 +312,12 @@
      "event": "sans-europe-2026",
      "session": "whey-collagen-the-protein-power-couple",
      "title": "Whey & Collagen: The Protein Power Couple",
+     "date": "2026-11-09"
+    },
+    {
+     "event": "sans-europe-2026",
+     "session": "from-hype-to-proof-the-science",
+     "title": "From hype to proof: the science behind GLP-1 targeted nutritional supplements",
      "date": "2026-11-09"
     },
     {
@@ -281,6 +353,12 @@
    "first_seen": "remedy-cdmo-2026",
    "events": [],
    "sessions": [
+    {
+     "event": "nutra-healthspan-summit-2026",
+     "session": "euromonitor-who-is-winning-healthspan",
+     "title": "Euromonitor: who is winning in the healthspan economy",
+     "date": "2026-11-10"
+    },
     {
      "event": "sans-europe-2026",
      "session": "a-bigger-sports-nutrition-landscape-growth",
@@ -339,6 +417,12 @@
      "date": "2026-11-09"
     },
     {
+     "event": "sans-europe-2026",
+     "session": "from-hype-to-proof-the-science",
+     "title": "From hype to proof: the science behind GLP-1 targeted nutritional supplements",
+     "date": "2026-11-09"
+    },
+    {
      "event": "remedy-cdmo-2026",
      "session": "nick-morgan-longevity",
      "title": "Nick Morgan: how longevity is sold, from hallmarks to habits",
@@ -371,6 +455,12 @@
    "first_seen": "remedy-cdmo-2026",
    "events": [],
    "sessions": [
+    {
+     "event": "sans-europe-2026",
+     "session": "built-in-the-gym-turning-athlete",
+     "title": "Built in the gym: Turning athlete insight into sports nutrition innovation",
+     "date": "2026-11-09"
+    },
     {
      "event": "remedy-cdmo-2026",
      "session": "nick-morgan-longevity",
