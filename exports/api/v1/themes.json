@@ -1,7 +1,7 @@
 {
  "schema": "confnotes.themes/1",
  "built": "2026-11-10",
- "commit": "e7053f4",
+ "commit": "ea65970",
  "count": 19,
  "items": [
   {
@@ -144,6 +144,12 @@
    "events": [],
    "sessions": [
     {
+     "event": "nutra-healthspan-summit-2026",
+     "session": "lumina-new-longevity-consumer",
+     "title": "Lumina Intelligence: the new longevity consumer",
+     "date": "2026-11-10"
+    },
+    {
      "event": "sans-europe-2026",
      "session": "a-bigger-sports-nutrition-landscape-growth",
      "title": "A Bigger Sports Nutrition Landscape: Growth, Tensions and What Comes Next",
@@ -204,6 +210,12 @@
      "event": "nutra-healthspan-summit-2026",
      "session": "euromonitor-who-is-winning-healthspan",
      "title": "Fewer products, more proof: who is winning the healthspan economy?",
+     "date": "2026-11-10"
+    },
+    {
+     "event": "nutra-healthspan-summit-2026",
+     "session": "lumina-new-longevity-consumer",
+     "title": "Lumina Intelligence: the new longevity consumer",
      "date": "2026-11-10"
     },
     {
@@ -411,6 +423,12 @@
    "events": [],
    "sessions": [
     {
+     "event": "nutra-healthspan-summit-2026",
+     "session": "lumina-new-longevity-consumer",
+     "title": "Lumina Intelligence: the new longevity consumer",
+     "date": "2026-11-10"
+    },
+    {
      "event": "sans-europe-2026",
      "session": "clicks-to-community-turning-digital-engagement",
      "title": "Clicks to Community: Turning Digital Engagement into Brand Loyalty",
@@ -554,6 +572,12 @@
    "first_seen": "remedy-cdmo-2026",
    "events": [],
    "sessions": [
+    {
+     "event": "nutra-healthspan-summit-2026",
+     "session": "lumina-new-longevity-consumer",
+     "title": "Lumina Intelligence: the new longevity consumer",
+     "date": "2026-11-10"
+    },
     {
      "event": "sans-europe-2026",
      "session": "clicks-to-community-turning-digital-engagement",

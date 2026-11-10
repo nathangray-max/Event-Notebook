@@ -1,6 +1,6 @@
 {
  "generated": {
-  "commit": "e7053f4",
+  "commit": "ea65970",
   "uncommitted_changes": false,
   "date": "2026-11-10"
  },
@@ -436,31 +436,44 @@
        "role": ""
       }
      ],
-     "themes": [],
-     "ingredients": [],
-     "relevance": "",
-     "status": "captured",
-     "summary_by": "",
-     "summary_date": "",
+     "themes": [
+      "longevity-positioning",
+      "outcomes-over-mechanisms",
+      "glp-1-nutrition",
+      "ai-in-nutraceuticals"
+     ],
+     "ingredients": [
+      "vitamins",
+      "omegas",
+      "minerals",
+      "probiotics",
+      "postbiotics"
+     ],
+     "relevance": "high",
+     "status": "summarised",
+     "summary_by": "Claude",
+     "summary_date": "2026-11-10",
      "reviewed_by": "",
      "reviewed_date": "",
      "attended_by": [
       "Nathan"
      ],
-     "links": {},
-     "to_check": "Billed title, Ewa Hudson's role, and the track are not confirmed: the programme is not published yet.",
+     "links": {
+      "otter": "https://otter.ai/u/cIf3E0sDizFN1GEBbAdmh0a8sAs"
+     },
+     "to_check": "Still unknown: the billed title, Ewa Hudson's role and the track (neither the recording nor the slides give them; the programme is not published yet), whether Otter's \"Niagara\" is Niagen and \"Novos\" is heard right, and, on photo 1, the label of the lighter bars and whether the 27% at the 50s belongs to the Retired bar.",
      "added": "2026-11-10",
      "added_by": "Claude (from Nathan's slide photos and Otter recording, 10 Nov 2026)",
-     "transcript": "",
+     "transcript": "# Lumina Intelligence: the new longevity consumer: transcript\nSource: Otter.ai recording \"Ewa Hudson - Healthspan\", https://otter.ai/u/cIf3E0sDizFN1GEBbAdmh0a8sAs, recorded 10 Nov 2026 09:47, 17m 42s. Speaker labels are Otter's.\n\n[00:04] Speaker 1: It's like too young to age, or too young not to think about it. So the time where we left the longevity conversation with the population over 60, I think, is long gone. Consumers are rewriting the rules of of aging, and my question is also: Is the industry really ready to rewrite its own rules too? So today we will talk about three things. We will actually look at the longevity aspirations and how they change over generations. We will look at what consumers want. Women is all about consumer studies, so we look at what consumers want and need and will need in the future. Finally, we will look at the scientific innovation and whether, on its own, it's simply enough to earn consumers' trust. So traditional wisdom would have us thinking that how we age is all in our genes, right? So I found this question: We ask consumers what they think about what they believe has got the greatest impact on extending health span. And while they agreed on the top priorities here, so exercise, sleep, and diet, which had the biggest impact, I found it really fascinating just to watch this one data point about genetics, because it really changed between the populations who the age of the population who answered the question. So those who are 65 plus, 39 percent of them believed genetics plays a really big role. In some countries, Italy, Saudi Arabia, that's 50%. What does it mean if it's all down to genetics? Well, there's little I can do about it, right? Yeah. So let's just move on to the topic, and now just watch how that changes if we are looking at the population 10 years younger, 10 years younger, 10 years younger, so from 39 to 31 to 26, 24, 23, and we get to 21 percent. So actually, as we age, we less and less believe in the well. The younger we are, the more we believe that genetics has got little impact, basically. So yeah, the younger you are, the less you blame your genes. That's what I wanted to say. At the same time, younger generations put more faith in supplements. Here, the bar goes in the in the other direction. Sorry. So those who are 25 to 34 plus 20 of them believe supplements have got a role to play. Now, an older generation, 19%, 17%, and those 65 plus 12%. It's much less, Right. We ask consumers: At what age did you first start thinking seriously about your health as it relates to aging? And here's just a chart showing the population who are who's already retired. So most of them, as you can see, I don't know if it works at the pointer, but most of them were in their 60s when they started thinking about seriously about aging. Now, this partially explains why you know only 12% of them believe that supplement may play a role, right? That's quite logical here. How that changes if we ask the same question to the working population and full-time employment. Well, most of them are actually in their 30s. This is quite a massive change. This is basically a generational shift that we are talking about here, and definitely healthy aging is seen as a preventative opportunity. I know we're not really allowed to talk about prevention, especially in the context of supplements. But it is what it is, right? And I do like that previous slide quite a lot. If you see the impact of genetics declining, impact of supplement pricing. I mean, it's so simple, so simple. But actually, to achieve that, how much we needed to invest in education, in science, to make really the younger generations understand that we can do so much more to help extend our health span. So I think this will be my favorite one. Now, just you know, I'm in a loop. Moving on, 52% consumers. want to age slowly and healthy, so that's fine, great. There's another 18% want to stay just as they are, perfect. But already one in four is already actively pursuing anti-aging, either preventing premature aging or reversing aging, or they would like to do that, and yeah, maybe we cannot change the chronological age, but biological age. We know we can do more about. So, I was really fascinated by the study, the U.S. Census study of 2.7 million canvas found that built behind the fastest-growing 0.1 of new verdure were actually 45 on average, and a 50-year-old was roughly 1.1 times as likely as a 30-year-old to produce an exceptional growth company. And this archetypal high-growth founder isn't the fact that they are 20 years old, probably kind of like working off their garage is changing. This is quite fascinating. So anyone here in this room who started in the corporate environment and then with time moved on to set up their own business, put your hand, raise your hand, please. I think we have quite a few people. Excellent. In the UK, that was data from 2020. In the UK, we have data from 2024, talking about huge boom and over 50-year-old entrepreneurs with startup loans providing x amount of million. This is from that British Business Bank. So I think this is really quite fascinating that we have we are very ambitious species, right? And things are changing. We have aspirations that move. I think this is the sense of purpose that is likely to to give us this life extension, David, that you are just suggesting. But it's not just that. We are pushing ourselves much more to the fire age. We have runners who took up running in their 70s, 80s, 90s, and they actually run marathons at the age of 100. I mean, before in the previous generations, this wouldn't be possible. Simply not possible, right? To run a marathon at the age of 100. I'm hoping that this industry, you know, please, who would like to run a marathon with me in 30 years' time? Just talk to me. I will arrange the date, okay? After this presentation, so what does it mean? Aging well means actually having the vitality to keep reinventing yourself. If we look at the goals, the biggest health-related concerns of as we age, right now the number one across men and women. Here you can see men on the left-hand side, women on the right-hand side, and different age brackets. It was really astonishing to see across all age brackets, energy, stamina, physical strength was number one. And yeah, I can understand that. For women, actually, mobility, joint health, and bone health is number one. Yeah, they need energy. We want to talk to them our dreams, right? We need to do our best. Weight management came next, and also chronic disease. So whatever we do as an industry, products and technologies that we develop, they definitely need to give consumers energy and physical strength, mobility, joint health, weight management, cognitive, and everyday activity support and recovery. But it's not just consumers who are challenging themselves; also companies within our field. So we have Niagara, for example, reinventing themselves from product to purpose. We have 500 studies on Niagara, I believe, and I run 100 patents. And at that point, the company moves to be a service company. They introduce IV injections, cosmetics with nano cloud. We also see them going into the pharma space. How many neutral companies are actually developing pharmaceutical products, or belief in their science strong enough to do that. That's quite a big statement too. So from purpose, from product to purpose and the platform. Now consumers are doing pretty much the same, and they do change. They are very different across all countries that we surveyed. So this survey is based on over 10,000 people in nine countries. I have here aspirations of a woman who is in her late 30s, so 35 to 44 years old. What matters to a woman in her late 30s? Mental well-being is important, but quite clearly here, sleep very very important, much more important at any other age. We have children, young children at that time, you know, various commitments. I can I can fully understand it. So anything to help with cellular energy renewal, messaging that cellular defense kind of well decline starts around the age of 30. Will definitely resonate. Now, 10 years later, what matters? Oh, it's no longer sleep. Sleep is less important. Weight management, exercising, gut health, muscle strength. So there is quite a big shift proving this Self self care movement in Italy it will be different. The previous data was for the UK and Italy. We will have actually preventative medical testing becoming much more important for those women. So in our messaging, we really need to align to the consumer in particular country to understand what they need at a particular age bracket, because many of the healthy agents and their health products, etc., they will really fit at specific stages in life more than at others. And it's all about reinvention, changing of our goals, focus on self-care, on preventative health. How about men in their 30s? Again, sleep comes up really, really highly, but also stress, exercise. Exercise much more important for men. 10 years later, we'll have quite a big change here. Healthy eating really over-indexes. Men are really into healthy eating. Suddenly, they also are much more so into supplements. So we are constantly evolving. At the same time, GLP-1 is coming in, and it also helps us create healthier consumers. Sorry about my boss. So since starting GLP-1 treatment, how your health habits have changed? I picked here on top three. So basically, people increase their interest in healthy foods, increase longevity, and also interest in preventative health. Decrease in alcohol consumption, eating and drinking out of home, and also snacking. How is that not so going to change us and what we are doing? Actually, Lumina has got the tracker of GLB1 trends, focusing on the UK in particular. So, if you'd like to know more, please please come to us. But overall, where are we right now? If we look at the movement from prevention to invention, actually one in three already take supplements to counteract natural age. 36%. It's already quite a big achievement. But personally, I would like to see this number going slightly up because we believe it can make a difference to us all. What do people take? They take the whole range of supplements. They take vitamins, omegas, minerals, probiotics, postbiotics, etc. So it does change, and it does change quite dramatically between women and men at different life stages, but as we have heard earlier, trust is the gap and is costing the industry. The first question, basically the first answer to the question, \"What's your biggest hesitation about taking longevity supplements?\" was not enough proof. So let's think about it. It's not just consumers and some of the manufacturers are reinventing themselves. We also see key brands being reinvented. From selling supplements, they are moving to managing biological aging. So this is just a screenshot from the website of Life Extension. You can see on their website that they already sell a huge number of tests that consumers can take you know do at home. Here are a few relating to aging, the biological age you know blood test for $100. The idea is you can do the test, take supplements, and then redo the test a few months later just to see makes a difference to your body. I mean, if it does make first of all, it's a huge trust from these brands in the supplements, in the ingredients that are in the products because it's often a range of ingredients. Secondly, consumers, if they really have a positive outcome after taking supplements, probably they will be your most loyal consumers, right? Because they see that they actually work. This is also a way of going around the health legislation a little bit, if you don't mind me saying, because you know we you know whatever is on the back is becoming less relevant. Also, the amount of science pumped up really behind the scene will feed all the AI tools, and we know that consumers increasingly just reach out for ChatGPT or whatever if they want advice on their, you know, personal plan or supplement or what they should take. So it's really feeding much different world and different habits. Another similar example from Novos, they are also moving from supplement brand to health intelligence company. So the health plan leaders of the next decade may not be the pure product companies themselves, but actually they are becoming those platforms that measure, manage, and optimize aging. So applied and communicated science will be definitely the number one trust creator, and we have a huge number of products on the market to support healthy aging, as part of the Nutri Ingredients Awards. Actually, I just wanted to show one slide that the health fund category is one of our most popular categories at the top at this point, where we see the biggest number of submissions. So the industry is investing heavily, and there are many, many strong scientifically supported products as such. So, just to finish everything off, ask consumers this final question: Imagine this is the year 2040. What is one wellness technology or service you hope will exist to support your health? And there were loads of answers. I like some of them. All comes as cured. A machine that makes you slim in seconds in portable lands, and you scan a headache. So I'll just say, I'll give a quote: Hope lies in dreams, and imagination, and then the courage of those who dare to make decisions, to make dreams into reality, and this is from Jonas Salk, who is the virologist best known for developing the first successful polio cancer in '55. This industry has invested a huge amount, has taken a huge amount of risk, and put a lot of work. So hats off to all of you, because this is what will make us live much healthier for much longer. So just to recap, too young to age, we discussed the generational shift, healthy aging between as a preventative opportunity. Consumers are reinventing themselves, neutral industries to support them on their stage. Who will not push? We show them you can do it. You have those people running at their age of 400. Yeah, this is a role model. It's not ideal, right? You can have your own business. Suppliers and brands are doing the same. They are reinventing themselves. Gilman is here to support us in a way, accelerating healthier behaviors and trust in the industry's the industry's biggest challenge, but also the biggest opportunity. Thank you so much.\n[17:12] Stephen Daniells (NutraIngredients): Thank you so much. And she will be around today. She will also be saying signing you up for the ever 30-year running challenge. We'll come back rolling after this. in 80s. You know what they say? You don't stop running because you get old. You get old because you stop running. So we're going to have five on stage. Need one more. And then I'd like to invite up our panelists. Very pleased. Welcome to the stage, an all-star panel\n",
      "notes": "",
      "summary": {
-      "Summary": "",
-      "Key takeaways": "",
-      "For Vita Actives": "",
-      "Quotes": "",
-      "Follow-ups": "",
-      "Key slides": "",
-      "Detail": ""
+      "Summary": "Ewa Hudson of Lumina Intelligence presented consumer research on ageing from a survey of over 10,000 people in nine countries. Her question: consumers are rewriting the rules of ageing, so is the industry ready to rewrite its own?\n\nHer first point was that the longevity consumer is no longer old. Retired people mostly began thinking seriously about ageing in their 60s; people in full-time work mostly in their 30s. Younger people blame their genes less and put more faith in supplements, and one in four is actively pursuing anti-ageing.\n\nAgeing well, she said, means having the vitality to keep reinventing yourself. She named energy, stamina and physical strength as the top concern across age brackets, and mobility, joint and bone health as first for women. Needs shift with life stage and country, and GLP-1 treatment is moving users towards healthier habits.\n\nTrust is the gap: the first answer on hesitation about longevity supplements was not enough proof. Some brands are moving from selling supplements to measuring biological ageing, as Life Extension does with blood tests taken before and after supplements. Her conclusion: applied and communicated science will be the number one trust creator, and the leaders of the next decade may be platforms that measure, manage and optimise ageing.",
+      "Key takeaways": "- Concern about ageing starts younger: retired respondents mostly began thinking seriously about it in their 60s (36% on the Retired bar), people in full-time work mostly in their 30s; she called it \"a generational shift\" [00:04] (photo 1).\n- The younger the respondent, the less they credit genetics and the more they credit supplements: genetics from 39% at 65 plus down to 21% in the youngest group; supplements from 20% at 25 to 34 down to 12% at 65 plus [00:04].\n- \"[1 in] 4 is actively pursuing [anti]-ageing\": 16% want to prevent premature ageing and 11% to reverse it, beside 52% who want to age slowly and healthily [00:04] (photo 2).\n- Energy, stamina and strength is in the top three concerns of every age band shown, for men and women; mobility, joint and bone health is in the top three of every band from 35 to 44 up for both, and from 25 to 34 for women (photo 3).\n- Trust is the gap: the first answer to \"What's your biggest hesitation about taking longevity supplements?\" was not enough proof; 36% already take supplements to counteract natural ageing [00:04].\n- Brands are moving from selling supplements to managing biological ageing: Life Extension sells ageing blood tests to take before and after supplements, and she gave Novos as \"Another similar example\" of a move \"from supplement brand to health intelligence company\" [00:04] (photo 4).",
+      "For Vita Actives": "- Energy, stamina and strength is a top-three ageing concern in every age band for both men and women (photo 3). My reading: this is the concern our sports and active nutrition ingredients (CreaWin, IsoClr: Pea, Oxystorm) sit closest to, so healthy-ageing brands are a natural audience for them, pitched within what each ingredient's own evidence supports. The slide gives an order of concerns, not percentages.\n- Working people start thinking about ageing in their 30s [00:04] (photo 1). My reading: the healthy-ageing buyer and the active adult our customers already sell to are increasingly the same person, which widens where sports ingredients can be pitched.\n- Proof is the first hesitation, and brands such as Life Extension now test before and after supplements [00:04] (photo 4). My reading: brands will ask suppliers for clinical evidence and outcomes a consumer can measure; our evidence files should be ready for that.\n- Science published behind the scenes \"will feed all the AI tools\" consumers now ask for advice [00:04]. My reading: our evidence should be public and easy for those tools to read.\n- Relevance high: consumer data on ageing, with energy and strength as the leading concern.",
+      "Quotes": "- \"...the younger you are, the less you blame your genes.\" Speaker 1 (Ewa Hudson) [00:04]\n- \"Aging well means actually having the vitality to keep reinventing yourself.\" Speaker 1 (Ewa Hudson) [00:04]\n- \"...trust is the gap and is costing the industry.\" Speaker 1 (Ewa Hudson) [00:04]\n- \"So applied and communicated science will be definitely the number one trust creator\" Speaker 1 (Ewa Hudson) [00:04]",
+      "Follow-ups": "- Ewa Hudson (Lumina Intelligence): ask for the deck, the full survey (the ninth country, the lighter series on photo 1, the 18% who want to stay as they are) and the UK GLP-1 tracker [00:04].\n- Confirm \"Niagara\" (probably Niagen) and \"Novos\" with the deck or the speaker.\n- The billed title, her role and the track, once the programme is published.",
+      "Key slides": "- (photo 1) Age at which retired respondents first thought seriously about ageing: mostly their 60s.\n- (photo 2) One in four actively pursuing anti-ageing: 52% age slowly, 16% prevent, 11% reverse.\n- (photo 3) Top three ageing concerns by age band, men and women, with energy and mobility traced through the ages.\n- (photo 4) Life Extension's ageing lab tests: from supplement brand to health intelligence company.",
+      "Detail": "- The whole talk is one Otter turn starting at [00:04], labelled Speaker 1; Stephen Daniells (NutraIngredients) thanks her at [17:12]. Neither the recording nor the slides give her billed title or role.\n- Her three parts: longevity aspirations across generations, what consumers want and need, and whether scientific innovation on its own is enough to earn consumers' trust [00:04].\n- Survey base, as she said it: over 10,000 people in nine countries [00:04]. Photo 3 names Brazil, China, France, Germany, Italy, Saudi Arabia, Spain and the UK along its foot; the ninth is cut off (photo 3).\n- What most extends healthspan: respondents agreed on exercise, sleep and diet. Genetics as a big factor: 39% at 65 plus, 50% in Italy and Saudi Arabia, then 31, 26, 24, 23 and 21% in each younger group [00:04].\n- Supplements as having a role: 20 at 25 to 34, then 19%, 17% and 12% at 65 plus; she linked the 12% to retired people starting to think about ageing in their 60s [00:04].\n- Photo 1, \"[The] new longevity consumer isn't old yet: [age]ing has shifted from a retirement concern to [a] 30-something priority\": the Retired bars read 1% (20s), 3% (30s), 10% (40s), 36% (60s) and 11% (70s); 27% is printed at the 50s, but the photo does not show whether it belongs to the Retired bar or the lighter one; 10% have not started yet (photo 1). The lighter bars have no visible label and no printed values; they are tallest for the 20s, 30s and 40s (photo 1). In the talk she compared retired people with \"the working population and full-time employment\", most of whom were in their 30s [00:04]. My reading: the lighter bars are probably that working group, but the photo does not say so.\n- Ageing goals: 52% want to age slowly and healthily, 16% to prevent premature ageing, 11% to reverse ageing (photo 2). She added \"another 18% want to stay just as they are\", which the photo does not show [00:04].\n- Ambition with age, as Otter heard it: a US Census study of 2.7 million founders found the fastest-growing 0.1% of new ventures were founded at 45 on average, and a 50-year-old was \"roughly 1.1 times as likely\" as a 30-year-old to found an exceptional-growth company; British Business Bank data for 2024 show a boom in over-50 entrepreneurs in the UK; runners who start in their 70s to 90s run marathons at 100 [00:04].\n- Photo 3, \"[Agei]ng well means having the vitality to keep [rein]venting yourself\", \"biggest health-related concerns as we age? Top 3\", concerns listed left to right (the slide does not say the order is a rank) (photo 3):\n  - Men list energy, stamina and strength first from 18 to 24 through 55 to 64; at 65 plus mobility, joint and bone health comes first, then energy, then cognitive decline.\n  - Women list emotional wellbeing first at 18 to 24 and weight first at 25 to 34; mobility, joint and bone health comes first in every band from 35 to 44 up. Cognitive decline appears at 55 to 64 and loss of independence at 65 plus.\n  - Weight appears in two men's and three women's bands; chronic diseases in three men's bands and one women's.\n- In her words, products need to give consumers \"energy and physical strength, mobility, joint health, weight management, cognitive, and everyday activity support and recovery\" [00:04].\n- Companies reinventing themselves: Otter heard \"Niagara\" (probably Niagen; to check), \"from product to purpose\", with \"500 studies\" and \"100 patents\" as heard, moving into services (IV injections, cosmetics) and into pharma [00:04].\n- Life stages, women: at 35 to 44 sleep is \"much more important at any other age\"; she said messages on cellular energy renewal, and on cellular defence declining from about 30, will resonate. Ten years later sleep matters less and weight management, exercise, gut health and muscle strength come up; in Italy preventative medical testing matters more. She said \"The previous data was for the UK and Italy\" [00:04].\n- Life stages, men: in their 30s sleep, stress and exercise; ten years later healthy eating over-indexes and they are much more into supplements [00:04].\n- GLP-1 users, top three changes: more interest in healthy foods, longevity and preventative health; less alcohol, eating and drinking out of home, and snacking. Lumina runs a GLP-1 trends tracker focused on the UK [00:04].\n- 36%, \"one in three\", already take supplements to counteract natural ageing: vitamins, omegas, minerals, probiotics, postbiotics and more, varying by sex and life stage [00:04].\n- Life Extension's ageing tests on photo 4: Phenotypic Age Project Panel blood test USD 105.00 (\"Test key aging markers and calculate biological age\"); Healthy Aging Panel (Comprehensive) USD 249.00; Healthy Aging Panel (Basic) USD 155.00; MTHFR/COMT genetic methylation cheek swab USD 149.00. The slide asks \"How do we help people understand their biology? Supplement brand -> Health intelligence company\" (photo 4). She gave the biological-age blood test as \"for $100\" [00:04].\n- Her reading of test and retest: it shows a brand's trust in its ingredients, a positive result may make the most loyal consumers, and it is \"a way of going around the health legislation a little bit\" because \"whatever is on the back is becoming less relevant\" [00:04].\n- On the slide the \"health intelligence company\" line sits under the Life Extension screenshot (photo 4); in the talk she applied the words to Novos, as heard, as \"Another similar example\" [00:04].\n- \"the health plan leaders of the next decade may not be the pure product companies themselves\", but platforms \"that measure, manage, and optimize aging\" [00:04].\n- At the NutraIngredients Awards the healthy-ageing category (Otter: \"health fund\") is among the most popular, with the most submissions [00:04].\n- She closed with consumers' hopes for wellness technology in 2040 and a quote from Jonas Salk [00:04]."
      },
      "files": [
       {
@@ -502,6 +515,14 @@
        "photos": [
         4
        ]
+      },
+      {
+       "name": "otter-summary.md",
+       "kind": "text",
+       "bytes": 2906,
+       "text": "Otter.ai's automatic summary, as received. Not ours.\n\nRecording: \"Ewa Hudson - Healthspan\", https://otter.ai/u/cIf3E0sDizFN1GEBbAdmh0a8sAs, 10 Nov 2026, 17m 42s.\n\n## Summary\n\nEwa Hudson presents insights on the generational shift in longevity aspirations and the evolving role of the healthspan industry.\n\n## Consumer Trends\n**Generational Shifts**\n* Younger populations view healthy aging as a preventative opportunity rather than a reactive one. \n* While 39% of those aged 65+ believe genetics play a major role in aging, only 21% of younger respondents share this view.\n* Interest in supplements is higher among younger cohorts; 20% of the 25–34 age group believe in their efficacy compared to only 12% of those over 65.\n* Aging well is increasingly defined by vitality and the ability to reinvent oneself, exemplified by rising numbers of entrepreneurs over age 50 and extreme athletes.\n\n**Demographic Needs**\n* **Energy and Stamina**: Identified as the top health concern for both men and women across all age brackets.\n* **Gender Specifics**: Women prioritize mobility, joint health, and bone health, while men focus heavily on exercise and healthy eating as they age.\n* **Age-Specific Drivers**: For women in their late 30s, sleep is a primary concern, whereas weight management and muscle strength become more critical ten years later.\n\n## Industry Evolution\n**Business Models**\n* Companies are transitioning from product-focused entities to purpose-driven service platforms. Examples include **Niagara**, which moved into IV injections and pharma-adjacent spaces, and **Life Extension**, which offers biological age blood tests to allow consumers to track supplement efficacy through data.\n* **Novos** is repositioning itself from a supplement brand to a \"health intelligence company.\"\n\n**Challenges and Opportunities**\n* **The Trust Gap**: The primary hesitation for consumers regarding longevity supplements is \"not enough proof,\" signaling a need for increased scientific validation.\n* **Technological Integration**: AI tools like **ChatGPT** are becoming central to how consumers seek personalized advice, necessitating that brands provide high-quality scientific data to feed these models.\n* **GLP-1 Impact**: The rise of **GLP-1** treatments is shifting consumer behaviors toward healthier food choices, increased interest in longevity, and decreased alcohol consumption.\n\nHow can companies better bridge the trust gap through applied science? How will the rise of AI-driven personal planning reshape supplement marketing?\n\n## Action items\n\n- Speaker 0 - : Arrange a date for the 30-year marathon challenge for interested participants who speak with her.\n- Stephen Daniells (NutraIngredients) - : Invite the panelists onto the stage.\n- Speaker 0 - : Arrange the date for the 30-year marathon challenge.\n- Speaker 0 - : Sign interested attendees up for the 30-year running challenge today.\n",
+       "pages": null,
+       "photos": []
       }
      ],
      "event": "nutra-healthspan-summit-2026",
@@ -511,15 +532,251 @@
       "3": "ewa-hudson-03.webp",
       "4": "ewa-hudson-04.webp"
      },
-     "key_slides": [],
-     "detail": [],
-     "takeaways": [],
-     "quotes": [],
-     "followups": [],
-     "transcript_words": 0,
-     "has_transcript": false,
+     "key_slides": [
+      {
+       "photo": 1,
+       "file": "ewa-hudson-01.webp",
+       "caption": "Age at which retired respondents first thought seriously about ageing: mostly their 60s."
+      },
+      {
+       "photo": 2,
+       "file": "ewa-hudson-02.webp",
+       "caption": "One in four actively pursuing anti-ageing: 52% age slowly, 16% prevent, 11% reverse."
+      },
+      {
+       "photo": 3,
+       "file": "ewa-hudson-03.webp",
+       "caption": "Top three ageing concerns by age band, men and women, with energy and mobility traced through the ages."
+      },
+      {
+       "photo": 4,
+       "file": "ewa-hudson-04.webp",
+       "caption": "Life Extension's ageing lab tests: from supplement brand to health intelligence company."
+      }
+     ],
+     "detail": [
+      {
+       "text": "The whole talk is one Otter turn starting at [00:04], labelled Speaker 1; Stephen Daniells (NutraIngredients) thanks her at [17:12]. Neither the recording nor the slides give her billed title or role.",
+       "cites": [
+        "00:04",
+        "17:12"
+       ]
+      },
+      {
+       "text": "Her three parts: longevity aspirations across generations, what consumers want and need, and whether scientific innovation on its own is enough to earn consumers' trust [00:04].",
+       "cites": [
+        "00:04"
+       ]
+      },
+      {
+       "text": "Survey base, as she said it: over 10,000 people in nine countries [00:04]. Photo 3 names Brazil, China, France, Germany, Italy, Saudi Arabia, Spain and the UK along its foot; the ninth is cut off (photo 3).",
+       "cites": [
+        "00:04",
+        "photo 3"
+       ]
+      },
+      {
+       "text": "What most extends healthspan: respondents agreed on exercise, sleep and diet. Genetics as a big factor: 39% at 65 plus, 50% in Italy and Saudi Arabia, then 31, 26, 24, 23 and 21% in each younger group [00:04].",
+       "cites": [
+        "00:04"
+       ]
+      },
+      {
+       "text": "Supplements as having a role: 20 at 25 to 34, then 19%, 17% and 12% at 65 plus; she linked the 12% to retired people starting to think about ageing in their 60s [00:04].",
+       "cites": [
+        "00:04"
+       ]
+      },
+      {
+       "text": "Photo 1, \"[The] new longevity consumer isn't old yet: [age]ing has shifted from a retirement concern to [a] 30-something priority\": the Retired bars read 1% (20s), 3% (30s), 10% (40s), 36% (60s) and 11% (70s); 27% is printed at the 50s, but the photo does not show whether it belongs to the Retired bar or the lighter one; 10% have not started yet (photo 1). The lighter bars have no visible label and no printed values; they are tallest for the 20s, 30s and 40s (photo 1). In the talk she compared retired people with \"the working population and full-time employment\", most of whom were in their 30s [00:04]. My reading: the lighter bars are probably that working group, but the photo does not say so.",
+       "cites": [
+        "photo 1",
+        "photo 1",
+        "00:04"
+       ]
+      },
+      {
+       "text": "Ageing goals: 52% want to age slowly and healthily, 16% to prevent premature ageing, 11% to reverse ageing (photo 2). She added \"another 18% want to stay just as they are\", which the photo does not show [00:04].",
+       "cites": [
+        "photo 2",
+        "00:04"
+       ]
+      },
+      {
+       "text": "Ambition with age, as Otter heard it: a US Census study of 2.7 million founders found the fastest-growing 0.1% of new ventures were founded at 45 on average, and a 50-year-old was \"roughly 1.1 times as likely\" as a 30-year-old to found an exceptional-growth company; British Business Bank data for 2024 show a boom in over-50 entrepreneurs in the UK; runners who start in their 70s to 90s run marathons at 100 [00:04].",
+       "cites": [
+        "00:04"
+       ]
+      },
+      {
+       "text": "Photo 3, \"[Agei]ng well means having the vitality to keep [rein]venting yourself\", \"biggest health-related concerns as we age? Top 3\", concerns listed left to right (the slide does not say the order is a rank) (photo 3):",
+       "cites": [
+        "photo 3"
+       ]
+      },
+      {
+       "text": "Men list energy, stamina and strength first from 18 to 24 through 55 to 64; at 65 plus mobility, joint and bone health comes first, then energy, then cognitive decline.",
+       "cites": []
+      },
+      {
+       "text": "Women list emotional wellbeing first at 18 to 24 and weight first at 25 to 34; mobility, joint and bone health comes first in every band from 35 to 44 up. Cognitive decline appears at 55 to 64 and loss of independence at 65 plus.",
+       "cites": []
+      },
+      {
+       "text": "Weight appears in two men's and three women's bands; chronic diseases in three men's bands and one women's.",
+       "cites": []
+      },
+      {
+       "text": "In her words, products need to give consumers \"energy and physical strength, mobility, joint health, weight management, cognitive, and everyday activity support and recovery\" [00:04].",
+       "cites": [
+        "00:04"
+       ]
+      },
+      {
+       "text": "Companies reinventing themselves: Otter heard \"Niagara\" (probably Niagen; to check), \"from product to purpose\", with \"500 studies\" and \"100 patents\" as heard, moving into services (IV injections, cosmetics) and into pharma [00:04].",
+       "cites": [
+        "00:04"
+       ]
+      },
+      {
+       "text": "Life stages, women: at 35 to 44 sleep is \"much more important at any other age\"; she said messages on cellular energy renewal, and on cellular defence declining from about 30, will resonate. Ten years later sleep matters less and weight management, exercise, gut health and muscle strength come up; in Italy preventative medical testing matters more. She said \"The previous data was for the UK and Italy\" [00:04].",
+       "cites": [
+        "00:04"
+       ]
+      },
+      {
+       "text": "Life stages, men: in their 30s sleep, stress and exercise; ten years later healthy eating over-indexes and they are much more into supplements [00:04].",
+       "cites": [
+        "00:04"
+       ]
+      },
+      {
+       "text": "GLP-1 users, top three changes: more interest in healthy foods, longevity and preventative health; less alcohol, eating and drinking out of home, and snacking. Lumina runs a GLP-1 trends tracker focused on the UK [00:04].",
+       "cites": [
+        "00:04"
+       ]
+      },
+      {
+       "text": "36%, \"one in three\", already take supplements to counteract natural ageing: vitamins, omegas, minerals, probiotics, postbiotics and more, varying by sex and life stage [00:04].",
+       "cites": [
+        "00:04"
+       ]
+      },
+      {
+       "text": "Life Extension's ageing tests on photo 4: Phenotypic Age Project Panel blood test USD 105.00 (\"Test key aging markers and calculate biological age\"); Healthy Aging Panel (Comprehensive) USD 249.00; Healthy Aging Panel (Basic) USD 155.00; MTHFR/COMT genetic methylation cheek swab USD 149.00. The slide asks \"How do we help people understand their biology? Supplement brand -> Health intelligence company\" (photo 4). She gave the biological-age blood test as \"for $100\" [00:04].",
+       "cites": [
+        "photo 4",
+        "00:04"
+       ]
+      },
+      {
+       "text": "Her reading of test and retest: it shows a brand's trust in its ingredients, a positive result may make the most loyal consumers, and it is \"a way of going around the health legislation a little bit\" because \"whatever is on the back is becoming less relevant\" [00:04].",
+       "cites": [
+        "00:04"
+       ]
+      },
+      {
+       "text": "On the slide the \"health intelligence company\" line sits under the Life Extension screenshot (photo 4); in the talk she applied the words to Novos, as heard, as \"Another similar example\" [00:04].",
+       "cites": [
+        "photo 4",
+        "00:04"
+       ]
+      },
+      {
+       "text": "\"the health plan leaders of the next decade may not be the pure product companies themselves\", but platforms \"that measure, manage, and optimize aging\" [00:04].",
+       "cites": [
+        "00:04"
+       ]
+      },
+      {
+       "text": "At the NutraIngredients Awards the healthy-ageing category (Otter: \"health fund\") is among the most popular, with the most submissions [00:04].",
+       "cites": [
+        "00:04"
+       ]
+      },
+      {
+       "text": "She closed with consumers' hopes for wellness technology in 2040 and a quote from Jonas Salk [00:04].",
+       "cites": [
+        "00:04"
+       ]
+      }
+     ],
+     "takeaways": [
+      {
+       "text": "Concern about ageing starts younger: retired respondents mostly began thinking seriously about it in their 60s (36% on the Retired bar), people in full-time work mostly in their 30s; she called it \"a generational shift\" [00:04] (photo 1).",
+       "cites": [
+        "00:04",
+        "photo 1"
+       ]
+      },
+      {
+       "text": "The younger the respondent, the less they credit genetics and the more they credit supplements: genetics from 39% at 65 plus down to 21% in the youngest group; supplements from 20% at 25 to 34 down to 12% at 65 plus [00:04].",
+       "cites": [
+        "00:04"
+       ]
+      },
+      {
+       "text": "\"[1 in] 4 is actively pursuing [anti]-ageing\": 16% want to prevent premature ageing and 11% to reverse it, beside 52% who want to age slowly and healthily [00:04] (photo 2).",
+       "cites": [
+        "00:04",
+        "photo 2"
+       ]
+      },
+      {
+       "text": "Energy, stamina and strength is in the top three concerns of every age band shown, for men and women; mobility, joint and bone health is in the top three of every band from 35 to 44 up for both, and from 25 to 34 for women (photo 3).",
+       "cites": [
+        "photo 3"
+       ]
+      },
+      {
+       "text": "Trust is the gap: the first answer to \"What's your biggest hesitation about taking longevity supplements?\" was not enough proof; 36% already take supplements to counteract natural ageing [00:04].",
+       "cites": [
+        "00:04"
+       ]
+      },
+      {
+       "text": "Brands are moving from selling supplements to managing biological ageing: Life Extension sells ageing blood tests to take before and after supplements, and she gave Novos as \"Another similar example\" of a move \"from supplement brand to health intelligence company\" [00:04] (photo 4).",
+       "cites": [
+        "00:04",
+        "photo 4"
+       ]
+      }
+     ],
+     "quotes": [
+      {
+       "text": "\"...the younger you are, the less you blame your genes.\" Speaker 1 (Ewa Hudson) [00:04]",
+       "cites": [
+        "00:04"
+       ]
+      },
+      {
+       "text": "\"Aging well means actually having the vitality to keep reinventing yourself.\" Speaker 1 (Ewa Hudson) [00:04]",
+       "cites": [
+        "00:04"
+       ]
+      },
+      {
+       "text": "\"...trust is the gap and is costing the industry.\" Speaker 1 (Ewa Hudson) [00:04]",
+       "cites": [
+        "00:04"
+       ]
+      },
+      {
+       "text": "\"So applied and communicated science will be definitely the number one trust creator\" Speaker 1 (Ewa Hudson) [00:04]",
+       "cites": [
+        "00:04"
+       ]
+      }
+     ],
+     "followups": [
+      "Ewa Hudson (Lumina Intelligence): ask for the deck, the full survey (the ninth country, the lighter series on photo 1, the 18% who want to stay as they are) and the UK GLP-1 tracker [00:04].",
+      "Confirm \"Niagara\" (probably Niagen) and \"Novos\" with the deck or the speaker.",
+      "The billed title, her role and the track, once the programme is published."
+     ],
+     "transcript_words": 2612,
+     "has_transcript": true,
      "has_notes": false,
-     "has_summary": false
+     "has_summary": true
     }
    ],
    "report_md": "",
@@ -7080,6 +7337,12 @@
    "events": [],
    "sessions": [
     {
+     "event": "nutra-healthspan-summit-2026",
+     "session": "lumina-new-longevity-consumer",
+     "title": "Lumina Intelligence: the new longevity consumer",
+     "date": "2026-11-10"
+    },
+    {
      "event": "sans-europe-2026",
      "session": "a-bigger-sports-nutrition-landscape-growth",
      "title": "A Bigger Sports Nutrition Landscape: Growth, Tensions and What Comes Next",
@@ -7140,6 +7403,12 @@
      "event": "nutra-healthspan-summit-2026",
      "session": "euromonitor-who-is-winning-healthspan",
      "title": "Fewer products, more proof: who is winning the healthspan economy?",
+     "date": "2026-11-10"
+    },
+    {
+     "event": "nutra-healthspan-summit-2026",
+     "session": "lumina-new-longevity-consumer",
+     "title": "Lumina Intelligence: the new longevity consumer",
      "date": "2026-11-10"
     },
     {
@@ -7347,6 +7616,12 @@
    "events": [],
    "sessions": [
     {
+     "event": "nutra-healthspan-summit-2026",
+     "session": "lumina-new-longevity-consumer",
+     "title": "Lumina Intelligence: the new longevity consumer",
+     "date": "2026-11-10"
+    },
+    {
      "event": "sans-europe-2026",
      "session": "clicks-to-community-turning-digital-engagement",
      "title": "Clicks to Community: Turning Digital Engagement into Brand Loyalty",
@@ -7490,6 +7765,12 @@
    "first_seen": "remedy-cdmo-2026",
    "events": [],
    "sessions": [
+    {
+     "event": "nutra-healthspan-summit-2026",
+     "session": "lumina-new-longevity-consumer",
+     "title": "Lumina Intelligence: the new longevity consumer",
+     "date": "2026-11-10"
+    },
     {
      "event": "sans-europe-2026",
      "session": "clicks-to-community-turning-digital-engagement",

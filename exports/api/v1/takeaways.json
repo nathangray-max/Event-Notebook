@@ -1,8 +1,8 @@
 {
  "schema": "confnotes.takeaways/1",
  "built": "2026-11-10",
- "commit": "e7053f4",
- "count": 143,
+ "commit": "ea65970",
+ "count": 149,
  "items": [
   {
    "id": "nutra-healthspan-summit-2026/euromonitor-who-is-winning-healthspan#1",
@@ -166,6 +166,159 @@
     "resveratrol",
     "postbiotics",
     "collagen"
+   ],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "nutra-healthspan-summit-2026/lumina-new-longevity-consumer#1",
+   "event": "nutra-healthspan-summit-2026",
+   "session": "lumina-new-longevity-consumer",
+   "date": "2026-11-10",
+   "text": "Concern about ageing starts younger: retired respondents mostly began thinking seriously about it in their 60s (36% on the Retired bar), people in full-time work mostly in their 30s; she called it \"a generational shift\" [00:04] (photo 1).",
+   "cites": [
+    "00:04",
+    "photo 1"
+   ],
+   "themes": [
+    "longevity-positioning",
+    "outcomes-over-mechanisms",
+    "glp-1-nutrition",
+    "ai-in-nutraceuticals"
+   ],
+   "ingredients": [
+    "vitamins",
+    "omegas",
+    "minerals",
+    "probiotics",
+    "postbiotics"
+   ],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "nutra-healthspan-summit-2026/lumina-new-longevity-consumer#2",
+   "event": "nutra-healthspan-summit-2026",
+   "session": "lumina-new-longevity-consumer",
+   "date": "2026-11-10",
+   "text": "The younger the respondent, the less they credit genetics and the more they credit supplements: genetics from 39% at 65 plus down to 21% in the youngest group; supplements from 20% at 25 to 34 down to 12% at 65 plus [00:04].",
+   "cites": [
+    "00:04"
+   ],
+   "themes": [
+    "longevity-positioning",
+    "outcomes-over-mechanisms",
+    "glp-1-nutrition",
+    "ai-in-nutraceuticals"
+   ],
+   "ingredients": [
+    "vitamins",
+    "omegas",
+    "minerals",
+    "probiotics",
+    "postbiotics"
+   ],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "nutra-healthspan-summit-2026/lumina-new-longevity-consumer#3",
+   "event": "nutra-healthspan-summit-2026",
+   "session": "lumina-new-longevity-consumer",
+   "date": "2026-11-10",
+   "text": "\"[1 in] 4 is actively pursuing [anti]-ageing\": 16% want to prevent premature ageing and 11% to reverse it, beside 52% who want to age slowly and healthily [00:04] (photo 2).",
+   "cites": [
+    "00:04",
+    "photo 2"
+   ],
+   "themes": [
+    "longevity-positioning",
+    "outcomes-over-mechanisms",
+    "glp-1-nutrition",
+    "ai-in-nutraceuticals"
+   ],
+   "ingredients": [
+    "vitamins",
+    "omegas",
+    "minerals",
+    "probiotics",
+    "postbiotics"
+   ],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "nutra-healthspan-summit-2026/lumina-new-longevity-consumer#4",
+   "event": "nutra-healthspan-summit-2026",
+   "session": "lumina-new-longevity-consumer",
+   "date": "2026-11-10",
+   "text": "Energy, stamina and strength is in the top three concerns of every age band shown, for men and women; mobility, joint and bone health is in the top three of every band from 35 to 44 up for both, and from 25 to 34 for women (photo 3).",
+   "cites": [
+    "photo 3"
+   ],
+   "themes": [
+    "longevity-positioning",
+    "outcomes-over-mechanisms",
+    "glp-1-nutrition",
+    "ai-in-nutraceuticals"
+   ],
+   "ingredients": [
+    "vitamins",
+    "omegas",
+    "minerals",
+    "probiotics",
+    "postbiotics"
+   ],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "nutra-healthspan-summit-2026/lumina-new-longevity-consumer#5",
+   "event": "nutra-healthspan-summit-2026",
+   "session": "lumina-new-longevity-consumer",
+   "date": "2026-11-10",
+   "text": "Trust is the gap: the first answer to \"What's your biggest hesitation about taking longevity supplements?\" was not enough proof; 36% already take supplements to counteract natural ageing [00:04].",
+   "cites": [
+    "00:04"
+   ],
+   "themes": [
+    "longevity-positioning",
+    "outcomes-over-mechanisms",
+    "glp-1-nutrition",
+    "ai-in-nutraceuticals"
+   ],
+   "ingredients": [
+    "vitamins",
+    "omegas",
+    "minerals",
+    "probiotics",
+    "postbiotics"
+   ],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "nutra-healthspan-summit-2026/lumina-new-longevity-consumer#6",
+   "event": "nutra-healthspan-summit-2026",
+   "session": "lumina-new-longevity-consumer",
+   "date": "2026-11-10",
+   "text": "Brands are moving from selling supplements to managing biological ageing: Life Extension sells ageing blood tests to take before and after supplements, and she gave Novos as \"Another similar example\" of a move \"from supplement brand to health intelligence company\" [00:04] (photo 4).",
+   "cites": [
+    "00:04",
+    "photo 4"
+   ],
+   "themes": [
+    "longevity-positioning",
+    "outcomes-over-mechanisms",
+    "glp-1-nutrition",
+    "ai-in-nutraceuticals"
+   ],
+   "ingredients": [
+    "vitamins",
+    "omegas",
+    "minerals",
+    "probiotics",
+    "postbiotics"
    ],
    "relevance": "high",
    "status": "summarised"
