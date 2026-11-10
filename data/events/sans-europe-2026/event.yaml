@@ -8,19 +8,19 @@ country: United Kingdom
 venue: Convene 133 Houndsditch
 organiser: NutraIngredients
 url: https://www.nutraingredients.com/Events/sports-active-nutrition-summit-europe-2026/
-status: attending
+status: attended
 attended_by:
 - Nathan
 links:
   supply_chain_briefing: https://claude.ai/artifact/QwVHgF3ihFf8UC22d5hcaR
   save_the_date: https://www.nutraingredients.com/Article/2026/07/06/save-the-date-sports-active-nutrition-summit-europe-returns-for-2026/
   reasons_to_attend: https://www.nutraingredients.com/Article/2026/09/02/top-reasons-to-attend-nutraingredients-sports-active-nutrition-summit-europe-2026/
-description: 'NutraIngredients'' one-day sports and active nutrition conference, followed on 10 and 11 November by its Nutra
-  Healthspan Summit at the same venue. Programme tracks: State of the Market, Fuelling Performance, Reconsidering Recovery,
-  Weight Management; main room the Partnership Forum, breakouts in Affiliation Hubs.'
-to_check: 'Programme filed from Nathan''s screenshots of the event app (11:39-11:40, 9 Nov): the opening before 09:05, the
-  10:55-11:20 slot, 15:30-16:00, and any other Affiliation Hub breakouts were not in the screenshots. Breaks (refreshments
-  10:25-10:55, lunch 12:25-13:15) are not filed. Whether the Nutra Healthspan Summit days (10-11 Nov) are covered as their
-  own event.'
+description: 'NutraIngredients'' one-day sports and active nutrition conference, a single day (9 November 2026), followed
+  on 10 and 11 November by its Nutra Healthspan Summit at the same venue, filed as its own event (nutra-healthspan-summit-2026).
+  Programme tracks: State of the Market, Fuelling Performance, Reconsidering Recovery, Weight Management; main room the Partnership
+  Forum, breakouts in Affiliation Hubs.'
+to_check: The opening before 09:05, the 10:55-11:20 slot, 15:30-16:00 and any other Affiliation Hub breakouts were not in
+  Nathan's programme screenshots; the 14:00 to 15:30 talks (Mark Evans, Sharon Madigan, the Balchem slot, Thomas Hal Robson-Kanu)
+  have no recording beyond a 35-second clip of Mark Evans; the roundtables were not recorded.
 added: 2026-11-09
 added_by: Claude (from NutraIngredients' event pages, 9 Nov 2026)

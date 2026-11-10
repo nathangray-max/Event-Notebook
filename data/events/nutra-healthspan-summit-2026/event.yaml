@@ -1,0 +1,24 @@
+id: nutra-healthspan-summit-2026
+name: Nutra Healthspan Summit 2026
+short: Healthspan Summit 2026
+start: '2026-11-10'
+end: '2026-11-11'
+city: London
+country: United Kingdom
+venue: Convene 133 Houndsditch
+organiser: NutraIngredients
+url: https://www.nutraingredients.com/Events/the-nutra-healthspan-summit/
+status: attending
+attended_by:
+- Nathan
+links:
+  event_site: https://www.nutrahealthspansummit.com
+  sans_europe_2026: 'the day before, same venue: data/events/sans-europe-2026'
+description: 'NutraIngredients'' second Healthspan Summit, two days on nutrition for healthy ageing and longevity, held the
+  day after SANS Europe at the same venue. Themes on the event page: state of the market; consumer insights; mitochondrial
+  function and ageing; women''s health; diagnostics, testing and wearables; the regulatory landscape; healthcare practitioners;
+  investors and market success; cognition and ageing.'
+to_check: The programme (sessions, speakers, times) is not on the event page yet; Nathan's screenshots of the event app would
+  give it, as for SANS Europe.
+added: '2026-11-10'
+added_by: Claude (from Nathan, 10 Nov 2026, and NutraIngredients' event page)
