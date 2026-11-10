@@ -9,17 +9,29 @@ speakers:
 - name: Ewa Hudson
   organisation: Lumina Intelligence
   role: ''
-themes: []
-ingredients: []
-relevance: ''
-status: captured
-summary_by: ''
-summary_date: ''
+themes:
+- longevity-positioning
+- outcomes-over-mechanisms
+- glp-1-nutrition
+- ai-in-nutraceuticals
+ingredients:
+- vitamins
+- omegas
+- minerals
+- probiotics
+- postbiotics
+relevance: high
+status: summarised
+summary_by: Claude
+summary_date: '2026-11-10'
 reviewed_by: ''
 reviewed_date: ''
 attended_by:
 - Nathan
-links: {}
-to_check: 'Billed title, Ewa Hudson''s role, and the track are not confirmed: the programme is not published yet.'
+links:
+  otter: https://otter.ai/u/cIf3E0sDizFN1GEBbAdmh0a8sAs
+to_check: 'Still unknown: the billed title, Ewa Hudson''s role and the track (neither the recording nor the slides give
+  them; the programme is not published yet), whether Otter''s "Niagara" is Niagen and "Novos" is heard right, and, on
+  photo 1, the label of the lighter bars and whether the 27% at the 50s belongs to the Retired bar.'
 added: '2026-11-10'
 added_by: Claude (from Nathan's slide photos and Otter recording, 10 Nov 2026)
