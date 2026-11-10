@@ -1,8 +1,8 @@
 {
  "schema": "confnotes.takeaways/1",
  "built": "2026-11-10",
- "commit": "48da494",
- "count": 149,
+ "commit": "86b82fe",
+ "count": 161,
  "items": [
   {
    "id": "nutra-healthspan-summit-2026/euromonitor-who-is-winning-healthspan#1",
@@ -321,6 +321,353 @@
     "postbiotics"
    ],
    "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "nutra-healthspan-summit-2026/from-hype-to-healthspan-building-the#1",
+   "event": "nutra-healthspan-summit-2026",
+   "session": "from-hype-to-healthspan-building-the",
+   "date": "2026-11-10",
+   "text": "Holland & Barrett created a longevity category in store over the last six months; it is \"still quite small\" but has seen \"really significant growth\", driven primarily by NAD, with spermidine less popular [02:58] [03:47].",
+   "cites": [
+    "02:58",
+    "03:47"
+   ],
+   "themes": [
+    "longevity-positioning",
+    "outcomes-over-mechanisms",
+    "creatine-beyond-strength",
+    "glp-1-nutrition",
+    "branded-ingredients-differentiation",
+    "muscle-health-beyond-protein"
+   ],
+   "ingredients": [
+    "NAD (Otter heard \"NAD\" and \"NAD Plus\")",
+    "spermidine",
+    "creatine",
+    "collagen",
+    "urolithin A (Timeline's Mitopure; Otter heard \"urethane\")",
+    "vitamin C",
+    "omega-3 (fish oil)",
+    "\"N and N from Japan\" (as Otter heard it; unclear)"
+   ],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "nutra-healthspan-summit-2026/from-hype-to-healthspan-building-the#2",
+   "event": "nutra-healthspan-summit-2026",
+   "session": "from-hype-to-healthspan-building-the",
+   "date": "2026-11-10",
+   "text": "GNC defines healthy ageing as a target demand space and is extending its condition-specific preventive nutrition brand into standalone longevity ingredients such as NAD+; Kreider said consumers need to connect it to a benefit they can feel [08:44].",
+   "cites": [
+    "08:44"
+   ],
+   "themes": [
+    "longevity-positioning",
+    "outcomes-over-mechanisms",
+    "creatine-beyond-strength",
+    "glp-1-nutrition",
+    "branded-ingredients-differentiation",
+    "muscle-health-beyond-protein"
+   ],
+   "ingredients": [
+    "NAD (Otter heard \"NAD\" and \"NAD Plus\")",
+    "spermidine",
+    "creatine",
+    "collagen",
+    "urolithin A (Timeline's Mitopure; Otter heard \"urethane\")",
+    "vitamin C",
+    "omega-3 (fish oil)",
+    "\"N and N from Japan\" (as Otter heard it; unclear)"
+   ],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "nutra-healthspan-summit-2026/from-hype-to-healthspan-building-the#3",
+   "event": "nutra-healthspan-summit-2026",
+   "session": "from-hype-to-healthspan-building-the",
+   "date": "2026-11-10",
+   "text": "Online in China, longevity is not a search term: the trigger for men is sexual vitality and for women sagging skin, followed by joints, sleep and metabolism [06:09].",
+   "cites": [
+    "06:09"
+   ],
+   "themes": [
+    "longevity-positioning",
+    "outcomes-over-mechanisms",
+    "creatine-beyond-strength",
+    "glp-1-nutrition",
+    "branded-ingredients-differentiation",
+    "muscle-health-beyond-protein"
+   ],
+   "ingredients": [
+    "NAD (Otter heard \"NAD\" and \"NAD Plus\")",
+    "spermidine",
+    "creatine",
+    "collagen",
+    "urolithin A (Timeline's Mitopure; Otter heard \"urethane\")",
+    "vitamin C",
+    "omega-3 (fish oil)",
+    "\"N and N from Japan\" (as Otter heard it; unclear)"
+   ],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "nutra-healthspan-summit-2026/from-hype-to-healthspan-building-the#4",
+   "event": "nutra-healthspan-summit-2026",
+   "session": "from-hype-to-healthspan-building-the",
+   "date": "2026-11-10",
+   "text": "GLP-1 as a gateway: Pasco sees customers entering the category because they start a GLP-1 journey and staying after they stop the medication [14:52]; Kreider sees an opportunity for products that protect muscle on that journey [15:59].",
+   "cites": [
+    "14:52",
+    "15:59"
+   ],
+   "themes": [
+    "longevity-positioning",
+    "outcomes-over-mechanisms",
+    "creatine-beyond-strength",
+    "glp-1-nutrition",
+    "branded-ingredients-differentiation",
+    "muscle-health-beyond-protein"
+   ],
+   "ingredients": [
+    "NAD (Otter heard \"NAD\" and \"NAD Plus\")",
+    "spermidine",
+    "creatine",
+    "collagen",
+    "urolithin A (Timeline's Mitopure; Otter heard \"urethane\")",
+    "vitamin C",
+    "omega-3 (fish oil)",
+    "\"N and N from Japan\" (as Otter heard it; unclear)"
+   ],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "nutra-healthspan-summit-2026/from-hype-to-healthspan-building-the#5",
+   "event": "nutra-healthspan-summit-2026",
+   "session": "from-hype-to-healthspan-building-the",
+   "date": "2026-11-10",
+   "text": "Creatine is crossing over: Kreider said people engage with healthy ageing through creatine and active nutrition, and Pasco said creatine is \"moving from a more of a sports focus into this longevity space\" [17:19] [19:15].",
+   "cites": [
+    "17:19",
+    "19:15"
+   ],
+   "themes": [
+    "longevity-positioning",
+    "outcomes-over-mechanisms",
+    "creatine-beyond-strength",
+    "glp-1-nutrition",
+    "branded-ingredients-differentiation",
+    "muscle-health-beyond-protein"
+   ],
+   "ingredients": [
+    "NAD (Otter heard \"NAD\" and \"NAD Plus\")",
+    "spermidine",
+    "creatine",
+    "collagen",
+    "urolithin A (Timeline's Mitopure; Otter heard \"urethane\")",
+    "vitamin C",
+    "omega-3 (fish oil)",
+    "\"N and N from Japan\" (as Otter heard it; unclear)"
+   ],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "nutra-healthspan-summit-2026/from-hype-to-healthspan-building-the#6",
+   "event": "nutra-healthspan-summit-2026",
+   "session": "from-hype-to-healthspan-building-the",
+   "date": "2026-11-10",
+   "text": "Proof decides the role of an ingredient: Kreider wants hero ingredients with clinical substantiation and a tangible benefit, with buzzier ingredients as background [31:12]; Wang said Chinese shoppers ask for a branded ingredient, a patent and a clinical study, and pay the premium [22:45].",
+   "cites": [
+    "31:12",
+    "22:45"
+   ],
+   "themes": [
+    "longevity-positioning",
+    "outcomes-over-mechanisms",
+    "creatine-beyond-strength",
+    "glp-1-nutrition",
+    "branded-ingredients-differentiation",
+    "muscle-health-beyond-protein"
+   ],
+   "ingredients": [
+    "NAD (Otter heard \"NAD\" and \"NAD Plus\")",
+    "spermidine",
+    "creatine",
+    "collagen",
+    "urolithin A (Timeline's Mitopure; Otter heard \"urethane\")",
+    "vitamin C",
+    "omega-3 (fish oil)",
+    "\"N and N from Japan\" (as Otter heard it; unclear)"
+   ],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "nutra-healthspan-summit-2026/jens-walter-microbiome-ageing#1",
+   "event": "nutra-healthspan-summit-2026",
+   "session": "jens-walter-microbiome-ageing",
+   "date": "2026-11-10",
+   "text": "In animal studies, rodents kept without a microbiome live almost ten months longer than normal mice, which live about 25 months; with calorie restriction the microbiome becomes beneficial and those animals live longest [00:24].",
+   "cites": [
+    "00:24"
+   ],
+   "themes": [
+    "probiotic-category-evolution",
+    "longevity-positioning"
+   ],
+   "ingredients": [
+    "bifidobacteria",
+    "Bifidobacterium adolescentis (named in Otter's summary; the transcript heard \"aldolithendis\", \"aldolcenters\")",
+    "Bifidobacterium longum (Otter heard \"longunga\")",
+    "dietary fibre",
+    "probiotics",
+    "synbiotics (Otter heard \"symbiotic\")",
+    "postbiotics",
+    "human milk oligosaccharides (Otter heard \"HFOs\")",
+    "protein (high-protein diets, animal studies)"
+   ],
+   "relevance": "medium",
+   "status": "summarised"
+  },
+  {
+   "id": "nutra-healthspan-summit-2026/jens-walter-microbiome-ageing#2",
+   "event": "nutra-healthspan-summit-2026",
+   "session": "jens-walter-microbiome-ageing",
+   "date": "2026-11-10",
+   "text": "Observational studies in humans link healthy dietary patterns to healthy ageing; one UK study found a healthy diet can extend healthier lifespan by ten years, adopted in the 40s and 50s, and \"probably\" five to six years if adopted in the 70s [00:24].",
+   "cites": [
+    "00:24"
+   ],
+   "themes": [
+    "probiotic-category-evolution",
+    "longevity-positioning"
+   ],
+   "ingredients": [
+    "bifidobacteria",
+    "Bifidobacterium adolescentis (named in Otter's summary; the transcript heard \"aldolithendis\", \"aldolcenters\")",
+    "Bifidobacterium longum (Otter heard \"longunga\")",
+    "dietary fibre",
+    "probiotics",
+    "synbiotics (Otter heard \"symbiotic\")",
+    "postbiotics",
+    "human milk oligosaccharides (Otter heard \"HFOs\")",
+    "protein (high-protein diets, animal studies)"
+   ],
+   "relevance": "medium",
+   "status": "summarised"
+  },
+  {
+   "id": "nutra-healthspan-summit-2026/jens-walter-microbiome-ageing#3",
+   "event": "nutra-healthspan-summit-2026",
+   "session": "jens-walter-microbiome-ageing",
+   "date": "2026-11-10",
+   "text": "His Cell trial of a non-industrialised, higher-fibre diet in students over three weeks raised bifidobacteria and indole-3-propionic acid, lowered faecal pH and secondary bile acids, cut LDL cholesterol by 17% and reduced blood glucose and CRP [00:24].",
+   "cites": [
+    "00:24"
+   ],
+   "themes": [
+    "probiotic-category-evolution",
+    "longevity-positioning"
+   ],
+   "ingredients": [
+    "bifidobacteria",
+    "Bifidobacterium adolescentis (named in Otter's summary; the transcript heard \"aldolithendis\", \"aldolcenters\")",
+    "Bifidobacterium longum (Otter heard \"longunga\")",
+    "dietary fibre",
+    "probiotics",
+    "synbiotics (Otter heard \"symbiotic\")",
+    "postbiotics",
+    "human milk oligosaccharides (Otter heard \"HFOs\")",
+    "protein (high-protein diets, animal studies)"
+   ],
+   "relevance": "medium",
+   "status": "summarised"
+  },
+  {
+   "id": "nutra-healthspan-summit-2026/jens-walter-microbiome-ageing#4",
+   "event": "nutra-healthspan-summit-2026",
+   "session": "jens-walter-microbiome-ageing",
+   "date": "2026-11-10",
+   "text": "Bifidobacterium adolescentis falls with age and is associated with healthy ageing (centenarians in Sardinia, slower epigenetic ageing in about 123 people); in animal studies it improved healthspan and lifespan; human trials in older people by Symbiotic Health are ongoing, with no data yet [00:24].",
+   "cites": [
+    "00:24"
+   ],
+   "themes": [
+    "probiotic-category-evolution",
+    "longevity-positioning"
+   ],
+   "ingredients": [
+    "bifidobacteria",
+    "Bifidobacterium adolescentis (named in Otter's summary; the transcript heard \"aldolithendis\", \"aldolcenters\")",
+    "Bifidobacterium longum (Otter heard \"longunga\")",
+    "dietary fibre",
+    "probiotics",
+    "synbiotics (Otter heard \"symbiotic\")",
+    "postbiotics",
+    "human milk oligosaccharides (Otter heard \"HFOs\")",
+    "protein (high-protein diets, animal studies)"
+   ],
+   "relevance": "medium",
+   "status": "summarised"
+  },
+  {
+   "id": "nutra-healthspan-summit-2026/jens-walter-microbiome-ageing#5",
+   "event": "nutra-healthspan-summit-2026",
+   "session": "jens-walter-microbiome-ageing",
+   "date": "2026-11-10",
+   "text": "His conclusion: the microbiome is a plausible contributor to healthy ageing, established in animal models; causality is hard to establish in humans and clinical trials are needed [00:24].",
+   "cites": [
+    "00:24"
+   ],
+   "themes": [
+    "probiotic-category-evolution",
+    "longevity-positioning"
+   ],
+   "ingredients": [
+    "bifidobacteria",
+    "Bifidobacterium adolescentis (named in Otter's summary; the transcript heard \"aldolithendis\", \"aldolcenters\")",
+    "Bifidobacterium longum (Otter heard \"longunga\")",
+    "dietary fibre",
+    "probiotics",
+    "synbiotics (Otter heard \"symbiotic\")",
+    "postbiotics",
+    "human milk oligosaccharides (Otter heard \"HFOs\")",
+    "protein (high-protein diets, animal studies)"
+   ],
+   "relevance": "medium",
+   "status": "summarised"
+  },
+  {
+   "id": "nutra-healthspan-summit-2026/jens-walter-microbiome-ageing#6",
+   "event": "nutra-healthspan-summit-2026",
+   "session": "jens-walter-microbiome-ageing",
+   "date": "2026-11-10",
+   "text": "He is doubtful that a postbiotic can change gut ecology or raise short-chain fatty acids, prefers probiotic bifidobacteria with fibre, and sees a possible role for postbiotics in a direct immune effect [22:01] [22:52].",
+   "cites": [
+    "22:01",
+    "22:52"
+   ],
+   "themes": [
+    "probiotic-category-evolution",
+    "longevity-positioning"
+   ],
+   "ingredients": [
+    "bifidobacteria",
+    "Bifidobacterium adolescentis (named in Otter's summary; the transcript heard \"aldolithendis\", \"aldolcenters\")",
+    "Bifidobacterium longum (Otter heard \"longunga\")",
+    "dietary fibre",
+    "probiotics",
+    "synbiotics (Otter heard \"symbiotic\")",
+    "postbiotics",
+    "human milk oligosaccharides (Otter heard \"HFOs\")",
+    "protein (high-protein diets, animal studies)"
+   ],
+   "relevance": "medium",
    "status": "summarised"
   },
   {

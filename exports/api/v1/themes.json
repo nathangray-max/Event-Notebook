@@ -1,7 +1,7 @@
 {
  "schema": "confnotes.themes/1",
  "built": "2026-11-10",
- "commit": "48da494",
+ "commit": "86b82fe",
  "count": 19,
  "items": [
   {
@@ -150,6 +150,12 @@
      "date": "2026-11-10"
     },
     {
+     "event": "nutra-healthspan-summit-2026",
+     "session": "from-hype-to-healthspan-building-the",
+     "title": "From hype to healthspan: Building the future of longevity nutrition",
+     "date": "2026-11-10"
+    },
+    {
      "event": "sans-europe-2026",
      "session": "a-bigger-sports-nutrition-landscape-growth",
      "title": "A Bigger Sports Nutrition Landscape: Growth, Tensions and What Comes Next",
@@ -219,6 +225,18 @@
      "date": "2026-11-10"
     },
     {
+     "event": "nutra-healthspan-summit-2026",
+     "session": "from-hype-to-healthspan-building-the",
+     "title": "From hype to healthspan: Building the future of longevity nutrition",
+     "date": "2026-11-10"
+    },
+    {
+     "event": "nutra-healthspan-summit-2026",
+     "session": "jens-walter-microbiome-ageing",
+     "title": "Jens Walter: the microbiome and healthy ageing",
+     "date": "2026-11-10"
+    },
+    {
      "event": "sans-europe-2026",
      "session": "a-bigger-sports-nutrition-landscape-growth",
      "title": "A Bigger Sports Nutrition Landscape: Growth, Tensions and What Comes Next",
@@ -276,6 +294,12 @@
    "events": [],
    "sessions": [
     {
+     "event": "nutra-healthspan-summit-2026",
+     "session": "from-hype-to-healthspan-building-the",
+     "title": "From hype to healthspan: Building the future of longevity nutrition",
+     "date": "2026-11-10"
+    },
+    {
      "event": "sans-europe-2026",
      "session": "a-bigger-sports-nutrition-landscape-growth",
      "title": "A Bigger Sports Nutrition Landscape: Growth, Tensions and What Comes Next",
@@ -320,6 +344,12 @@
    "first_seen": "remedy-cdmo-2026",
    "events": [],
    "sessions": [
+    {
+     "event": "nutra-healthspan-summit-2026",
+     "session": "from-hype-to-healthspan-building-the",
+     "title": "From hype to healthspan: Building the future of longevity nutrition",
+     "date": "2026-11-10"
+    },
     {
      "event": "sans-europe-2026",
      "session": "whey-collagen-the-protein-power-couple",
@@ -369,6 +399,12 @@
      "event": "nutra-healthspan-summit-2026",
      "session": "euromonitor-who-is-winning-healthspan",
      "title": "Fewer products, more proof: who is winning the healthspan economy?",
+     "date": "2026-11-10"
+    },
+    {
+     "event": "nutra-healthspan-summit-2026",
+     "session": "from-hype-to-healthspan-building-the",
+     "title": "From hype to healthspan: Building the future of longevity nutrition",
      "date": "2026-11-10"
     },
     {
@@ -426,6 +462,12 @@
      "event": "nutra-healthspan-summit-2026",
      "session": "lumina-new-longevity-consumer",
      "title": "Lumina Intelligence: the new longevity consumer",
+     "date": "2026-11-10"
+    },
+    {
+     "event": "nutra-healthspan-summit-2026",
+     "session": "from-hype-to-healthspan-building-the",
+     "title": "From hype to healthspan: Building the future of longevity nutrition",
      "date": "2026-11-10"
     },
     {
@@ -650,6 +692,12 @@
    "first_seen": "remedy-cdmo-2026",
    "events": [],
    "sessions": [
+    {
+     "event": "nutra-healthspan-summit-2026",
+     "session": "jens-walter-microbiome-ageing",
+     "title": "Jens Walter: the microbiome and healthy ageing",
+     "date": "2026-11-10"
+    },
     {
      "event": "remedy-cdmo-2026",
      "session": "hmt-probiotic-market",

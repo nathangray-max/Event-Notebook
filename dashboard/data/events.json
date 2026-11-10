@@ -1,6 +1,6 @@
 {
  "generated": {
-  "commit": "48da494",
+  "commit": "86b82fe",
   "uncommitted_changes": false,
   "date": "2026-11-10"
  },
@@ -813,12 +813,28 @@
        "role": "General Manager Europe, Taobao Tmall"
       }
      ],
-     "themes": [],
-     "ingredients": [],
-     "relevance": "",
-     "status": "captured",
-     "summary_by": "",
-     "summary_date": "",
+     "themes": [
+      "longevity-positioning",
+      "outcomes-over-mechanisms",
+      "creatine-beyond-strength",
+      "glp-1-nutrition",
+      "branded-ingredients-differentiation",
+      "muscle-health-beyond-protein"
+     ],
+     "ingredients": [
+      "NAD (Otter heard \"NAD\" and \"NAD Plus\")",
+      "spermidine",
+      "creatine",
+      "collagen",
+      "urolithin A (Timeline's Mitopure; Otter heard \"urethane\")",
+      "vitamin C",
+      "omega-3 (fish oil)",
+      "\"N and N from Japan\" (as Otter heard it; unclear)"
+     ],
+     "relevance": "high",
+     "status": "summarised",
+     "summary_by": "Claude",
+     "summary_date": "2026-11-10",
      "reviewed_by": "",
      "reviewed_date": "",
      "attended_by": [
@@ -827,22 +843,30 @@
      "links": {
       "otter": "https://otter.ai/u/df1Qw6x35bG79mcIYYgShq_O4lo"
      },
-     "to_check": "Transcript to come: Nathan's Otter recording was still running at about 10:20. The programme times are 09:55 to 10:25, but Ewa Hudson's talk ran until about 10:05 and the panel's recording began at 10:05, so the day was running late.",
+     "to_check": "Still unknown: the opening (the recording began at 10:05, after the billed 09:55 start, mid-introduction), what Otter's \"BMS\" and \"N and N from Japan\" stand for, and the name of the IPA questioner (Otter: \"George Paraskavakos\").",
      "added": "2026-11-10",
      "added_by": "Claude (from Nathan's screenshot of the event app and his photo of the speaker slide, 10 Nov 2026)",
      "room": "Partnership Forum",
-     "transcript": "",
+     "transcript": "# From hype to healthspan: Building the future of longevity nutrition: transcript\nSource: Otter.ai recording \"Healthspan Summit Panel - 10am\", https://otter.ai/u/df1Qw6x35bG79mcIYYgShq_O4lo, recorded 10 Nov 2026 10:05, 32m 51s. Speaker labels are Otter's.\n\n[00:00] Stephen Daniells (NutraIngredients): Of product innovation and science at GSC, Jennifer Wang, who is the European general manager of Alibaba Timor. We have Federico Luna, chief marketing officer for Timeline. And then, last but not least, we have Jessica Pascoe, who is the category manager, director, sorry, of Holland and Barrett. Welcome to the stage. So I wanted to start off and get a little bit bit of reaction to the two presentations we just had. So a lot of data from Nick, a lot of data from Eva. Who wants to go first? Any big surprises? Anything jump out that you want to comment on?\n[00:43] Rachel @ GNC (Rachel Kreider): I was thrilled to see it because I think this has been a huge question for for GNC as a retailer trying to figure out how best to address health span and longevity because it's sort of like you know you don't want to tell everybody well you need to do this because you're getting old that's not a very sexy message so I thought that the the findings were really compelling. Just\n[01:06] Speaker 1 (Jennifer Wang): for China, I can totally echo like I my eyes couldn't stop looking because it's exactly what we see also in our market. Just the way we reach consumers are very different from Western markets. And firstly, the international supplement have problem to enter the Chinese market with physical imagery, so most of them are online. So I would cover when we later on talk about how to reach potential customers from our side.\n[01:35] Speaker 2 (Federico Luna): You know, I thought they were excellent presentations, and I'll take the opportunity to post on an anecdote, which is about my biological age results this morning, that I'm 10.3 years younger, so it's it's a great joke aside. I think it's lingering sort of their engagement in health, and it's a really exciting time in this healthy open house that space.\n[01:57] Speaker 3 (Jessica Pasco): Well, I'm not sure if Nick has been sat in our H and B office, but I think a lot of the stuff he talked about resonated with what we're seeing, and I guess the challenges that we have as a retailer in terms of how the market is expanding much more broadly beyond more traditional retail, and how we approach that as a retailer is important. I think you know the ingredient stuff. What's coming next is always really interesting for me, especially from America and Asia. I've always got my eye on what's coming next and how we need to grow our portfolio.\n[02:34] Stephen Daniells (NutraIngredients): So we we always keep saying we people keep saying that longevity is the opportunity of the next second. Right? There's a lot of hope and hype and hype and excitement around it. A question I've got for all of you is: Is longevity actually a category, or is it kind of just an umbrella for outcomes that consumers already understand? Does your own kind of internal data show?\n[02:58] Speaker 3 (Jessica Pasco): I can touch on the Holland and Barrett. I think over the last six months we've created a longevity category in store, which is still quite small and quite focused on key ingredients. I think what we've seen is really significant growth in that, which shows that there is definitely the appetite. But I think that you know more broadly proactivity from the customer extends beyond you know ingredients that perhaps link to that longevity conversation. So you know sleeping better, getting more energy, you know focusing on strength training, for example, that's all linked to it, but it's just less of a specific longevity badge around\n[03:45] Stephen Daniells (NutraIngredients): it. Actually, labeled as longevity\n[03:47] Speaker 3 (Jessica Pasco): is yeah, and it kind of it you know a lot of the ingredients that we've talked about about NAD products focused around cellular energy, you know things like spermidine, which is probably less popular at this stage, I think it's it's primarily being driven by NAD, is what we're seeing at the moment. Okay,\n[04:10] Speaker 2 (Federico Luna): I mean, if I could just add to that, I mean, I think we have our key role to play here, right? I think there's an enormous amount of consumer confusion around the word longevity. Everyone's using it because it's the buzzy word. Timeline was founded close to 20 years ago, and we've been in this space for a very long time. And it's interesting to see the evolution. But I think you know even the presentation from today, right? We bundle in immune into longevity, right? And I think it's sometimes we oversimplify these things, and I think it actually does a disservice to the consumer because you know your generic vitamin C product, no disrespect to it, but is it is that really what we mean by longevity, right? As retailers, as brands, as as so, I think it's you know even within longevity, we see a very distinct definition for immune longevity, right? Which is different to your definition of immune boost, and we have the clinical studies to back it up. We have a clinical study, a gold standard placebo-controlled study that shows that in only four weeks, urethane rejuvenate the immune system, rewire the immune system in in a substantial, remarkable way, which is very, very different to what vitamin C product does. And so I think it's, I think longevity is absolutely a category, but I think we need to define how we articulate that to consumers, to shoppers, to influencers, to the entire ecosystem, to doctors, healthcare practitioners, and everyone else involved. So I think that's that's the missing. We're getting there. I think NAD is a great example, right? I was in Hong Kong. I was in China a couple of weeks ago, and I have to say, I think China is well ahead of us. Hong Kong is well ahead of us. I mean, walking the streets of Hong Kong, going into these retailers, they have clearly defined, articulated, and very present longevity categories. So it's it's very exciting.\n[05:59] Stephen Daniells (NutraIngredients): But Jennifer, tell us about that. Like, how how does your company define longevity, and and how do you think the consumers are responding to that, and what do they understand?\n[06:09] Speaker 1 (Jennifer Wang): Interesting, because I am also on I'm only on the digital channel, so under the Holland very slower long term partner, also GNC in China, and the the thing is, people don't search longevity online. They when they walk into one of your stores, they look at it and hmm, I I'm here to buy BMS, so I I want to get something and longevity sound very nice to my needs. And then they start to read the label. Then probably the labels are the major claims on the bottle, but it doesn't happen to the e-commerce channel. So longevity in translating the Chinese is directly long life or long living. Nobody will type that in your search words because what are you going to get? So in our situation, it's very important to find out in what situation that triggered the consumer to find your product? So your product has longevity benefits, but in what situation consumer will look for it? And we need to find the scenario that consumers think this is the topic. We also have to figure out who is going to search what, and in what scenario we will push these products to them. So the very funny that we have the so we of course study all our the key search words every day, and we found out that the trigger for men is actually the sexual vitality. That is the moment they feel that useful is being challenged, so they will search for that word. If they search anything related to sexual mortality, then actually we push them longevity products, and that's exactly what they are looking for. Women is broader. Actually, the most search is sagging skin, and it's a yeah. It's not even menopause because people don't want to feed themselves into a menopause problem group, and they're looking at in in search of words like, \"Oh, my skin is not so radiant anymore. It's kind of sagging, and it's a kind of aging problem. What should I do to the to help it?\" Of course, the younger girls already taking collagen, and collagen is for everybody's by now almost food, and but how do I make one step further? How can I have firmer skin? And there we trigger. Then it comes with a joint problem, sleep problem, and a few other borders, metabolism issues. So that's how we find our consumers. Very different from the physical channel.\n[08:40] Stephen Daniells (NutraIngredients): Yeah, Rachel. I mean, how are you seeing it play out in the U.S.?\n[08:44] Rachel @ GNC (Rachel Kreider): So we've we've defined healthy aging as a target demand space, and of course, when I hear category in the retail world, I'm thinking of like, you know, reporting and how we're categorizing our products and and all of that. And we you know we do have a healthy assortment of of healthy aging products, but I do think that as a as a category, and the way that the consumer looks at it, the way that we're activating with our own brands is, we've taken our preventive nutrition brand, and we're trying to sort of expand the scope of that. And that brand is a very condition-specific brand. So we've got a brain health product, a diabetes support heart product within that, and we're starting to expand that outward into more of the sort of standalone longevity ingredients like NAD Plus and that. But I do think that consumers need to be able to connect it to a benefit, and and that's where having having it connected to this more condition specific line, I think, is important. And I think that that's the way that the consumers are really going to connect into the space. Is when we're able to show them products that have a true benefit that they can feel. That's going to really hook them into your brands and your products longer term.\n[09:54] Stephen Daniells (NutraIngredients): So I think going back to Federico's point around kind of like how we define these things, because you just talk about healthy aging range, which for me in this industry is about healthy aging, right? That's what we're doing. Whereas if we actually talk about longevity or healthy longevity, then that's much more of those that that you know the hallmarks of aging, that cellular aging category, which is much more defined, much smaller. And then you've got health plan, and I'm not quite sure where that kind of sits because it seems to just be used interchangeably across all of this. How has anyone seen like an example of how that's really well done in terms of the definition and communicating that?\n[10:38] Speaker 2 (Federico Luna): I mean, I think at least from a brand perspective, the way we've done it is very much what you're what you're suggesting to them, which is really looking at the hallmarks of aging. You know these really mechanistic sort of biological processes that have this foundation. In fact, we felt you know we put my you know Chris was a pioneer in this, the co-founder of time, and we put mitochondria on packaging six years ago, right? And people thought we were absolutely insane. Consumers don't know what the hell the mitochondria is. They haven't heard of it since high school biology. You know, at least in the U.S. and Europe, I think we're even further behind. To be honest, and so I think part of this is you you also have to shape it. As leaders in this category, we have to shape it. Right? It's easy to look at the rearview mirror and say, well, this is. I think we have to shape, and that's what we try to do from a brand perspective, which is, you know, really look at the hallmarks of aging. Mitochondria, in our case, is one of the foundational mechanisms. Inflammation is another one, and really put that forward as sort of key cues. The other piece of it is, for us, it really is about the key pillars of longevity. We've defined, you know, four key pillars for us: mobility and muscle is a key one. Immune is an absolutely key one. Brain is another one, and obviously we also want to look great, right? And so, skin, skin and hair that fourth dimension. Now, you know, you could argue, well, why isn't heart in there? Why isn't? Why aren't all these other things in there? We we have to draw the line on what we consider sort of the core for, so that's how we've gone about it. Okay, and how do you think consumers define success when they buy longevity products? Because there's a balance between the short-term benefit that they may feel or they may not feel if the effects are subtle, and then that longer-term kind of leap of faith of you know this will help you at the end of your life span to have had a good health span you know that's that's\n[12:30] Stephen Daniells (NutraIngredients): that's a big leap of faith that we're asking people so how do I mean how do you think consumers measure success when they're looking at these products if you want any data any\n[12:39] Speaker 1 (Jennifer Wang): I actually like to hear about Thailand. Love to know. Yes, because it's for you the major message, right?\n[12:46] Speaker 2 (Federico Luna): Absolutely. I mean, I think what we found is prevention on its own is very hard to sell. Everyone, all consumers. You ask any consumer in any consumer research, you know, do you buy prevention? Absolutely, absolutely. And then the next question is, well, can you pull out your credit card and actually pay for it? And then, right? It all falls apart. Especially when\n[13:01] Speaker 1 (Jennifer Wang): economy is very much challenging. At a premium price, that's a that's a thing consumer wants to cut. So I like to help you to sell. So I want to know what is your message. So I\n[13:10] Speaker 2 (Federico Luna): think for us, it's what we found out, and I think Rachel said it earlier. Is really this combination, right? I think the we're very lucky in that you know this proprietary molecule that we have happens to do both very well, right? It has a prevention proposition, which obviously, from a regulatory standpoint, we have to be very careful about how we talk about it. But we have, you know, it's not a miracle pill, but we have clinical studies that show that in as little as four weeks, we're rewiring your immune system at a deep cellular level. We have clinical studies to show our muscles in four months for improved muscle strength, 12% versus placebo. I mean, think about that for a second. You know, how many days would you have to go to the gym consistently to get a 12% increase in muscles? And that's a lot of time in the gym, right? So these are meaningful benefits. And then there's sort of this prevention, which is less concrete in terms of flavor, but it's really part of the brand proposition, the brand mission, and that's how we. But you you need both from our perspective, and then skin. You know, skin for us has been a great great thing because skin in a way is the mirror, and it's been really interesting, even not only consumers but how the press thinks about it. You know, sitting with a press editor just last week in New York, and she was like, you know, it's really interesting that you have both. It's very unique to see a brand that has both. And she's like, what's really interesting is it's almost like it's the mirror of what's happening on the inside, and if it works for your skin, that gives me more belief that it's actually working on the inside too. So it's almost like that is the visual proof, right? Because if you think about omega three, omega three never had that. You had to buy the prevention proposition.\n[14:42] Stephen Daniells (NutraIngredients): Seeing is believing. So where does GLP-1 usage fit into this category, and particularly from you, Jess, and maybe from the US perspective as well, Rachel?\n[14:52] Speaker 3 (Jessica Pasco): I think probably what we're seeing is that GLP-1 is quite often gateway or a catalyst to a customer thinking more about proactive healthcare, so you know they might come in using GLP to manage weight, but actually it then leads into being generally more proactive in their health management and their healthcare. So you know we we see quite often that customers are entering the BMS category because they are entering a GLP-1 journey, and they're also, you know, continuing that journey after they have finished taking the medication. So I think it's not necessarily kind of linked per se to longevity, but it definitely is moving customers into a more proactive mindset.\n[15:47] Stephen Daniells (NutraIngredients): Yeah, and in the U.S., I think GNC was the first retailer that actually had a GLP-1 support category within the store. So, how are you seeing it playing out within that bigger expand space?\n[15:59] Rachel @ GNC (Rachel Kreider): So, I completely agree that it's really putting people into this preventative health mindset. I have a personal example of this happening with my my mom, who started taking a GLP-1 and like feels so good, you know, feel like just losing, just she's really sort of just starting into her journey. But I think that it really is helping people to realize that you know you don't have to go into your 70s feeling feeling terrible, and and it sort of gives you this this level of optimism. So I do think that it will open people's mind into into this idea of health span and longevity more than than perhaps it would have been otherwise. And of course, there's important opportunity there within within our industry to support that journey with with great products to make sure that you're protecting your muscle and and things like that, which are really tangible benefits that you know you can see the difference. To your point, that seeing and believing, and when you can see that your skin looks better, you're losing weight, you're you're maintaining your muscle. All these things are benefits that a consumer can can feel and see themselves. And again, I think that's really important to to our space.\n[17:10] Stephen Daniells (NutraIngredients): So, I mean, should we put muscle and physical function alongside like the cellular health aspect as kind of a core health span pillar?\n[17:19] Rachel @ GNC (Rachel Kreider): I think I think very much so, and I mean I think for us, of course, as as GNC, I'm sure nobody will be surprised to hear that you know we were very focused on that active nutrition space, and and I do think that is a real gateway into the health span longevity categories. Is is this idea of of being an aging athlete or or you know, trying to protect your muscle, you know, it's a way that people are starting to, you know, they're engaging with creatine, which which has great longevity benefits, great cognitive health benefits, great muscle maintenance for weight loss. There's so many benefits there with with an ingredient like that, that is is really driving people into this this health scan world in a tangible way.\n[18:00] Stephen Daniells (NutraIngredients): Can we talk about the hallmarks of aging just for a second? Just to go back to Federico's comment about you know they timeline put mitochondria on labels where they're going to do, but there are what 11 other hallmarks of aging that are out there. Are we seeing any of those any of that terminology creeping onto labels, and also what's kind of resonating, you know, cellular senescence. Does that mean anything to anyone? Several attrition. Does that mean anything? I mean, what are you seeing in the market? Anything else? I mean,\n[18:33] Rachel @ GNC (Rachel Kreider): I I will say that a product that really took off for us was the the Qualia Senolytic product, and all of our marketing team was like really compelled by the messaging about zombie cells, and and you know I think that that brought the the idea of cell senescence and sort of healthy cell cell senescence in that process to life for consumers in a way that that they could understand. And I mean, Mark still continues to do do really well for us based on you know cellular senescence, which I don't think a couple of years ago anybody would have ever had said those words out loud outside of you know a room like this.\n[19:12] Stephen Daniells (NutraIngredients): We love zombies. Yeah.\n[19:15] Speaker 3 (Jessica Pasco): I would say it's probably quite early for us in terms of some of those that labeling on products, I think what we're seeing, I guess, is growth in specific ingredients. I said NAD creatine is definitely, you know, moving from a more of a sports focus into this longevity space. But I think you know we're not necessarily seeing big demand for around this product.\n[19:49] Stephen Daniells (NutraIngredients): Jennifer, I mean, what differences do you see between what's happening in the West? Obviously, you're based in Europe now, and what's happening in Asia and the Asian consumer and how they approach healthy aging and longevity?\n[20:02] Speaker 1 (Jennifer Wang): I think, for instance, if we take the data from McKinsey study 2025, Chinese consumer they focus they 94% of the Chinese consumer take wellness and health active aging as the top priority, 94% of them, and they they are continuously looking for ways to sustain and to improve. Actually, the preventive idea is deep inside the Chinese mind, and further than that, they are looking for improvement. That's why we see girls of 25 years already start to take collagen. It's preventively and also improvement, and that's in their head. It's very different because compared to the same group in Europe, U.S. is quite high. It's 84 percent, but U.K. has only 79 percent. That people think health and active lifestyle is the first priority. So I would say that Chinese market is very focused on healthy aging and prostate aging population.\n[21:07] Stephen Daniells (NutraIngredients): Federica, joining data from Thailand. Obviously, you're selling globally, so you can see what works in the market.\n[21:12] Speaker 2 (Federico Luna): I would just say they're really, really smart. I I think China is an unbelievable, unbelievable market where. Yeah, I think particularly if you've got something something that has real science, something that's proprietary. I mean, what not not every Chinese consumer, but at least the ones that I you know that we we've spoken to and done research with, they really dig deeper. I think in the U.S. you can get away, and even in Europe you can get away with, you know, a nice benefit story, some cool marketing, some nice UGC, and a couple of influencers. I think in China at that premium market level, there's questions around. Well, I want to understand how this actually works. Right? How does it actually work? I want to see the studies. I mean, I was blown away. Right? I mean, these are questions that we've never or very rarely received from an American or or European consumer, and so I think, but I think it's a very tough market, super competitive, obviously a huge market, but very very tough. And I think, you know, the other thing that became obvious to me is for many years, you know, the Chinese consumer has aspired to these international brands. I mean, I didn't see one European car on the streets. Like honestly, the the Chinese products have become so good, right? And and I think the Chinese consumer is now aware of that and proud of that. And so I think if you're going to go into into China, I think you really have to have an amazing, amazing sort of that. I think you're going to struggle big time.\n[22:39] Speaker 1 (Jennifer Wang): Do you really know? Really. no. So I'm excited.\n[22:44] Speaker 2 (Federico Luna): I'm very excited about it.\n[22:45] Speaker 1 (Jennifer Wang): When people ask me every time when I talk to a supplement, talking to an ingredient or the brand, I always say, \"Oh yeah, you have branded ingredient. Do you have patent? You have clinical study?\" And people think I'm crazy. They think I am like health geek or something. No, in China they really look. So we have, if you talk to those Chinese brands that say that international production, and they sometimes put 234 active ingredient or branded ingredient into one product, and of course elevate the cost of the product like crazy. But then, even the factories call me. They say, \"Are you crazy? This is 2000 euro per kilo.\" And I say, \"Wow, that's what people pay for. They really turn around. They look at your ingredient. They want to study and they want to understand why it works.\" And that's how the the the characteristic of the market? People pay the premium; they don't mind, and they want to know how it works. It\n[23:48] Speaker 2 (Federico Luna): is literally the only retail meeting I've had in 25 years where the retailer says to me, \"Why are you selling this OT? We're the most expensive supplement in the U.S.\" I think five\n[23:59] Speaker 1 (Jennifer Wang): years ago in China, maybe a slightly more. I think it was before COVID when we first start to sell N and N from Japan. It was 500 euro to 1000 for a can for one month. Yes, and we we sold them till it become more popular. So we have to restrict ourselves for the marketing message because it's very broad. You now know this regulation has now give us some restrictions of how we can communicate longevity.\n[24:32] Stephen Daniells (NutraIngredients): Rachel, I mean, do you think feedback measurement tools like wearables and biomarkers can they convert a long-term promise into something tangible.\n[24:43] Rachel @ GNC (Rachel Kreider): I definitely think so. I was just talking with my my coworker who's here with me about his Hume Health Scale, and he he is in a competition with his wife on who has the youngest metabolic age, and they you know test themselves every month. And I think you know we're we're we're really interested in looking at like, you know, how can you move the needle on those types of tools? Again, how do we know that they're going to be benefiting somebody in the long, long term? I don't know if we can definitely say that, but I still think that it gives somebody something tangible to to work toward and to challenge themselves. And you know every day when you're taking your supplements and you're exercising and trying to eat right you know and you're seeing that it's changing a work that you believe in I think is is really powerful.\n[25:31] Stephen Daniells (NutraIngredients): Quick show of hands, who's got a wearable on?\n[25:37] Rachel @ GNC (Rachel Kreider): Wow.\n[25:38] Stephen Daniells (NutraIngredients): We do have time for questions. If anybody has questions for our four-star panel, it is a great opportunity. We have microphones. Let's do the mic.\n[25:57] Speaker 4: Thank you so much. That was a great panel, Richard. I'm very interested in hearing more about urolithin A. You mentioned a couple of those studies. I think said a couple of times, rewire the entire immune system in four weeks, right? How are you thinking about that from a regulatory standpoint? For many people in the room, we're thinking warning letter the second you say that. And and talk maybe for the audience about how difficult it is to not be considered a drug, and how you walk the line.\n[26:25] Speaker 2 (Federico Luna): Yeah, that's an excellent question, and you know something that we've we've worked on very hard for the last. Again, timeline is we did we have 12 years of research before launching the first commercial product. So it's a very unique company, a very unique story. We're truly a biotech. We call ourselves a consumer biotech because we truly see ourselves at the intersection of biotech, you know, wellness and beauty. Right, sort of that intersection of consumer and biotech. But it is a challenge. We've got a great regulatory team that keeps us safe. You know, some some subcategories are are slightly easier than others. I would say muscle is easier than immune, for example. Immune can get very tricky, right? As you talked to me about, you know, because essentially, if you think about the immune story, I mean, what are we actually talking about? Well, yeah, cancer is one of the top killers and one of the key things of why we don't have longevity, but we can't tell that story, right? And so we have to find other ways around it. But I think the you know that's that's also changing, right? I mean, look at the what's happening with peptides in the U.S. at the moment, right? So there's there's a lot of regulatory shifts happening, a lot of consumer shifts happening. But yeah, we we have the advantage of having you know, we have over 25 clinical studies, over 150 patents. It's a, it's a, we're in a very unique position. I think if you were going into these longevity spaces without the clinical studies, that's that's very dangerous and very risky from a legal and a regulatory standpoint. But we have the clinical studies to back it up. George's question. Thank you. Great panel. Great discussion. George Paraskavakos International Probiotics Association. You said something, Federico, that made me raise my eyebrows when I went to your website. You position it your urolithin as a postbiotic. It's highly purified. It's chemically synthesized. It doesn't fit the definition that you say you follow ISAP because they don't believe in metabolites and definitions. So how? I mean, there's different definitions, different interpretations. I mean, the product is molecularly identical to the natural molecule, which is a postbiotic. So you're the name of the natural molecule. I would argue. Okay. Well, we can we can chat about it. Yeah. Well, there's different definitions, but yes, 20\n[28:45] Speaker 5: papers, 14 definitions of that particular category. We started out calling it inactive organisms. We've taken on postbiotic as the word because everybody's using it, but we haven't produced a definition. We have a great paper, and the decision to learn how to manufacture that, but chemically synthesized and highly purified. We're going to chat about it. Thank you for the\n[29:10] Stephen Daniells (NutraIngredients): coffee breaker. Thank you. We have one more question.\n[29:14] Speaker 6: Thank you, Marianne. So previously ever mentioned that it's easy to sell a product when there's a problem. With longevity, health span, that's prevention is a long-term benefit. Can you tell us if there's a way to keep customers coming back and buying the product? Because it's easy to see if you have a problem, you take a product, you see a fix, it worked. You're taking a preventative product, and you don't necessarily see the benefit. You don't necessarily see the effect immediately. It might take you months or years to admit that you have benefited. How do you keep consumers hooked onto those products, or what products work best in that space?\n[30:00] Stephen Daniells (NutraIngredients): It's a $64 billion question, but.\n[30:04] Speaker 3 (Jessica Pasco): I mean, I think I think what we tend to see is that products that fit into a customer's routine and lifestyle that are easy and enjoyable to take are more sticky to the customer, and I think you know a lot of products you don't necessarily see a tangible benefit straight away. So I think you know education around that is really important. That you know communicating that to the customer and being honest with the customer that actually you know there's science behind a product, but you might not see a tangible benefit, and that changes, you know. I think skin that was really interesting to me because I think that that's a really physical expression of benefits. But we know not all product, you know, that's not all always the case. So I think that's what we tend to see customers coming back for around routine, enjoyable products. But also, we're really, you know, focused on educating the customer when they will see a benefit which is more visible than others.\n[31:12] Rachel @ GNC (Rachel Kreider): I'll jump in. I mean, I love your example of of fish oil. You know, I mean, most people aren't doing an omega-3 index test those some well and you know so so that's another type of product that has clearly had tons of longevity in the industry that you know you're not you know you're not looking in the mirror the next day and seeing that it's you know solved all your your woes but I that's where I do love the having that clinical substantiation to tangible benefits. I think is just it's of the utmost importance. We actually met with with some some people last week at the supply side. You know, we're just very mechanistically focused, and in terms of their the the level of research that this this company has done thus far. And again, you know that that can sort of serve as a if I'm formulating a product that can serve as a sort of a background ingredient that we might allude to in some digital copy. But we're certainly, I mean, in some cases we may have a standalone of something that has buzz or hype around it without tons of efficacy research in humans. But generally, that's going to serve as a background ingredient in a formulation, and you know you're really looking for your hero ingredients to have that clinical substantiation with a tangible benefit in a formulation. So eat\n[32:36] Stephen Daniells (NutraIngredients): both. All right. Well, we are out of time. Sorry, Nick. With that, oh, disappointment, all these faces.\n[32:43] Speaker 3 (Jessica Pasco): We are\n[32:45] Stephen Daniells (NutraIngredients): out of time, so please do grab our speakers. You're all sticking around. It's great. So yeah.\n",
      "notes": "",
      "summary": {
-      "Summary": "",
-      "Key takeaways": "",
-      "For Vita Actives": "",
-      "Quotes": "",
-      "Follow-ups": "",
-      "Key slides": "",
-      "Detail": ""
+      "Summary": "Stephen Daniells of NutraIngredients chaired two retailers, a brand and a marketplace: Jessica Pasco of Holland & Barrett, Rachel Kreider of GNC, Federico Luna of Timeline and Jennifer Wang of Alibaba's Taobao Tmall. His question: is longevity a real category, or an umbrella for outcomes consumers already understand?\n\nThey agreed that shoppers pay for benefits they can feel or see. Prevention alone is hard to sell, so proof and a tangible result, such as stronger muscles or better skin, matter most. They also agreed that GLP-1 medicines move people into a proactive mindset, and that creatine and muscle are a way into healthy ageing.\n\nThey differed on the category itself. Luna said longevity is absolutely a category, defined by the hallmarks of ageing and four pillars, and that bundling a generic vitamin C into it does consumers a disservice. Pasco said Holland & Barrett's new in-store longevity category is small but growing fast, driven mainly by NAD, while most proactive shopping is not badged longevity. Kreider said GNC treats healthy ageing as a demand space and links new ingredients to condition-specific products. Wang said nobody in China searches for longevity online: men search for sexual vitality and women for sagging skin, and premium shoppers ask for patents and clinical studies.",
+      "Key takeaways": "- Holland & Barrett created a longevity category in store over the last six months; it is \"still quite small\" but has seen \"really significant growth\", driven primarily by NAD, with spermidine less popular [02:58] [03:47].\n- GNC defines healthy ageing as a target demand space and is extending its condition-specific preventive nutrition brand into standalone longevity ingredients such as NAD+; Kreider said consumers need to connect it to a benefit they can feel [08:44].\n- Online in China, longevity is not a search term: the trigger for men is sexual vitality and for women sagging skin, followed by joints, sleep and metabolism [06:09].\n- GLP-1 as a gateway: Pasco sees customers entering the category because they start a GLP-1 journey and staying after they stop the medication [14:52]; Kreider sees an opportunity for products that protect muscle on that journey [15:59].\n- Creatine is crossing over: Kreider said people engage with healthy ageing through creatine and active nutrition, and Pasco said creatine is \"moving from a more of a sports focus into this longevity space\" [17:19] [19:15].\n- Proof decides the role of an ingredient: Kreider wants hero ingredients with clinical substantiation and a tangible benefit, with buzzier ingredients as background [31:12]; Wang said Chinese shoppers ask for a branded ingredient, a patent and a clinical study, and pay the premium [22:45].",
+      "For Vita Actives": "- Two major retailers, GNC and Holland & Barrett, both see creatine moving from sports into healthy ageing [17:19] [19:15]. My reading: CreaWin can be pitched to healthy-ageing ranges, on its own evidence for muscle.\n- GLP-1 users are entering the supplement aisle and staying, and muscle protection is the named need [14:52] [15:59]. My reading: protein and creatine for muscle on a GLP-1 journey are a pitch retailers already recognise.\n- Retailers want hero ingredients with clinical substantiation and a benefit the shopper can feel [08:44] [31:12]. My reading: our pitches to healthy-ageing brands should lead with a felt outcome and the study behind it, not a mechanism.\n- Chinese premium shoppers ask for branded ingredients, patents and studies, and Chinese brands combine several branded ingredients in one product [22:45]. My reading: Tmall cross-border is a channel where branded, documented ingredients earn their price.\n- Relevance high: retailer category structure for healthy ageing, creatine and GLP-1 muscle.",
+      "Quotes": "- \"...people don't search longevity online.\" Speaker 1 (Jennifer Wang) [06:09]\n- \"...I do think that consumers need to be able to connect it to a benefit\" Rachel @ GNC (Rachel Kreider) [08:44]\n- \"...prevention on its own is very hard to sell.\" Speaker 2 (Federico Luna) [12:46]\n- \"...GLP-1 is quite often gateway or a catalyst to a customer thinking more about proactive healthcare\" Speaker 3 (Jessica Pasco) [14:52]",
+      "Follow-ups": "- Rachel Kreider (GNC) and Jessica Pasco (Holland & Barrett): their healthy-ageing and longevity ranges as a home for CreaWin, and the muscle-on-GLP-1 brief [17:19] [19:15].\n- Jennifer Wang (Alibaba, Taobao Tmall): cross-border listing for branded ingredients with patents and studies [22:45].\n- Find Timeline's muscle-strength study (12% versus placebo in four months) and the McKinsey 2025 wellness study Wang cited [13:10] [20:02].\n- Confirm what Otter's \"BMS\" and \"N and N from Japan\" refer to, and the IPA questioner's name.",
+      "Key slides": "- (photo 1) The panel: Stephen Daniells (moderator) with Jessica Pasco, Rachel Kreider, Federico Luna and Jennifer Wang.",
+      "Detail": "- The recording starts at 10:05, in the middle of the moderator's introductions; the billed time was 09:55 [00:00]. Speaker labels are mapped from the transcript: Speaker 1 is Jennifer Wang (China, Alibaba, asked by name at [05:59]), Speaker 2 is Federico Luna (Timeline, [04:10]), Speaker 3 is Jessica Pasco (Holland & Barrett, [02:58]); Speakers 4, 5 and 6 are audience members. Otter heard \"Jessica Pascoe\" and \"Alibaba Timor\"; the speaker slide gives Jessica Pasco and Taobao Tmall (photo 1).\n- Otter merges some turns: Stephen Daniells's question on how consumers measure success sits at the end of Speaker 2's turn [10:38], and George's question from the International Probiotics Association sits inside Speaker 2's turn [26:25].\n- Opening reactions: Kreider found the morning's consumer findings \"really compelling\" because telling people they need something because they are getting old is \"not a very sexy message\" [00:43]; Pasco said much of what Nick Stene described resonated with Holland & Barrett [01:57].\n- Luna: Timeline was founded close to 20 years ago; immune longevity differs from an immune boost; a placebo-controlled study shows the immune system rewired \"in only four weeks\" (his words) [04:10]. China and Hong Kong are \"well ahead of us\", with clearly defined longevity categories in Hong Kong retailers [04:10].\n- Luna: Timeline put mitochondria on its packaging six years ago, when \"people thought we were absolutely insane\"; it builds on the hallmarks of ageing (mitochondria, inflammation) and four pillars: mobility and muscle, immune, brain, and skin and hair [10:38].\n- Luna: Timeline's clinical studies show improved muscle strength of \"12% versus placebo\" in four months, as he said it; skin works as \"the visual proof\" of what happens inside, which omega-3 never had [13:10].\n- Luna on regulation: muscle is easier to talk about than immune; the cancer story cannot be told; peptides show regulation shifting in the US; Timeline cites over 25 clinical studies, over 150 patents and 12 years of research before its first product [26:25]. An audience member asked how \"rewire the entire immune system in four weeks\" avoids a warning letter [25:57].\n- George from the International Probiotics Association (Otter: \"George Paraskavakos\") challenged Timeline positioning a chemically synthesised urolithin as a postbiotic; Luna answered that it is molecularly identical to the natural molecule; Speaker 5 counted 20 papers and \"14 definitions of that particular category\" [26:25] [28:45].\n- Luna on China: premium consumers \"really dig deeper\" and ask how a product works; Chinese products \"have become so good\" that a newcomer needs something outstanding [21:12]. A retailer meeting there asked why Timeline was priced as \"the most expensive supplement in the U.S.\" [23:48].\n- Wang works only on the digital channel, as a partner to Holland & Barrett and GNC in China [06:09]. Young women take collagen, which is \"by now almost food\"; the next step they search for is firmer skin [06:09] [20:02].\n- Wang, citing a McKinsey study of 2025: 94% of Chinese consumers put wellness and active ageing as the top priority, against 84% in the US and 79% in the UK [20:02].\n- Wang: Chinese brands sometimes put \"234\" (as heard) active or branded ingredients into one product; factories have called her about ingredients at \"2000 euro per kilo\" [22:45]. Before COVID she sold \"N and N from Japan\" (as heard) at 500 to 1,000 euro a can for a month; regulation in China now restricts how longevity can be communicated [23:59].\n- Kreider: GNC's preventive nutrition brand includes brain health and diabetes support products [08:44]. Qualia's senolytic product \"really took off\" for GNC on the \"zombie cells\" message, bringing cellular senescence to consumers [18:33].\n- Pasco: hallmark terms on labels are \"quite early\" for Holland & Barrett; growth is in specific ingredients [19:15].\n- The moderator said GNC was, he thought, the first retailer with a GLP-1 support category in store [15:47]. Kreider: GLP-1 gives people \"this level of optimism\" about ageing [15:59].\n- Wearables: Kreider sees value in metabolic-age tools such as a Hume Health scale as something tangible to work toward, while saying she does not know whether long-term benefit can be shown [24:43].\n- Keeping customers on preventive products: Pasco said products that fit a routine and are easy and enjoyable to take are stickier, with honest education on when a benefit will show [30:04]. Kreider gave fish oil as a long-selling product without a visible next-day effect [31:12].\n- Cross-reference: Pasco's longevity category is driven by NAD [03:47]; Nick Stene, earlier the same morning, showed NAD+ losing its price premium as it goes mainstream (euromonitor-who-is-winning-healthspan). Both are given: growth in store, a falling premium on price."
      },
      "files": [
+      {
+       "name": "otter-summary.md",
+       "kind": "text",
+       "bytes": 2645,
+       "text": "Otter.ai's automatic summary, as received. Not ours.\n\nIndustry experts discussed the evolution of the longevity and healthspan market, focusing on consumer behavior, regional differences, and product communication strategies.\n\n## Market Dynamics\n**Federico**, **Rachel**, **Jessica**, and **Jennifer** explored how longevity is transitioning from a buzzword into a structured retail category. \n**Consumer Trends**\n*   **Jessica** noted that **Holland and Barrett** has seen growth in a dedicated longevity category focused on ingredients like **NAD**.\n*   **Rachel** explained that **GNC** approaches this via \"healthy aging\" and preventive nutrition, linking products to specific conditions like brain or heart health.\n*   **Federico** emphasized that brands must move beyond generic claims to address the \"hallmarks of aging,\" such as mitochondrial health and inflammation.\n*   **Jennifer** highlighted that in China, consumers do not search for \"longevity\" directly; instead, they search for specific triggers like sexual vitality for men or sagging skin for women.\n\n## Regional Insights\nThe panel compared Western markets with the unique landscape of Asia, particularly China and Hong Kong.\n**China vs West**\n*   **Jennifer** reported that Chinese consumers are highly proactive about preventive health, with 94% prioritizing active aging.\n*   **Federico** observed that the Chinese market is extremely sophisticated; premium consumers demand deep scientific evidence, patents, and clinical studies rather than just influencer marketing.\n*   **Jennifer** noted that while physical retail is important, the Chinese market is heavily driven by digital channels where specific lifestyle scenarios trigger product discovery.\n\n## Product Strategy\nThe discussion addressed the challenges of selling long-term preventative benefits versus immediate results.\n**Tangible Benefits**\n*   **Federico** argued that \"seeing is believing,\" noting that improvements in skin health can serve as visual proof of internal cellular work.\n*   **Rachel** suggested that **GLP-1** usage acts as a catalyst, moving consumers into a more proactive, preventative health mindset regarding muscle maintenance and weight management.\n*   **Jessica** mentioned that products which fit easily into daily routines are more successful at maintaining customer loyalty when benefits are subtle.\n*   **Rachel** also noted the role of wearables and biomarkers in providing consumers with tangible data to track their metabolic age and progress.\n\nHow can brands effectively communicate complex biological processes like cellular senescence without triggering regulatory scrutiny?\n",
+       "pages": null,
+       "photos": []
+      },
       {
        "name": "panel-01.webp",
        "kind": "photo",
@@ -869,15 +893,459 @@
       "1": "panel-01.webp",
       "2": "panel-02.webp"
      },
-     "key_slides": [],
-     "detail": [],
-     "takeaways": [],
-     "quotes": [],
-     "followups": [],
-     "transcript_words": 0,
-     "has_transcript": false,
+     "key_slides": [
+      {
+       "photo": 1,
+       "file": "panel-01.webp",
+       "caption": "The panel: Stephen Daniells (moderator) with Jessica Pasco, Rachel Kreider, Federico Luna and Jennifer Wang."
+      }
+     ],
+     "detail": [
+      {
+       "text": "The recording starts at 10:05, in the middle of the moderator's introductions; the billed time was 09:55 [00:00]. Speaker labels are mapped from the transcript: Speaker 1 is Jennifer Wang (China, Alibaba, asked by name at [05:59]), Speaker 2 is Federico Luna (Timeline, [04:10]), Speaker 3 is Jessica Pasco (Holland & Barrett, [02:58]); Speakers 4, 5 and 6 are audience members. Otter heard \"Jessica Pascoe\" and \"Alibaba Timor\"; the speaker slide gives Jessica Pasco and Taobao Tmall (photo 1).",
+       "cites": [
+        "00:00",
+        "05:59",
+        "04:10",
+        "02:58",
+        "photo 1"
+       ]
+      },
+      {
+       "text": "Otter merges some turns: Stephen Daniells's question on how consumers measure success sits at the end of Speaker 2's turn [10:38], and George's question from the International Probiotics Association sits inside Speaker 2's turn [26:25].",
+       "cites": [
+        "10:38",
+        "26:25"
+       ]
+      },
+      {
+       "text": "Opening reactions: Kreider found the morning's consumer findings \"really compelling\" because telling people they need something because they are getting old is \"not a very sexy message\" [00:43]; Pasco said much of what Nick Stene described resonated with Holland & Barrett [01:57].",
+       "cites": [
+        "00:43",
+        "01:57"
+       ]
+      },
+      {
+       "text": "Luna: Timeline was founded close to 20 years ago; immune longevity differs from an immune boost; a placebo-controlled study shows the immune system rewired \"in only four weeks\" (his words) [04:10]. China and Hong Kong are \"well ahead of us\", with clearly defined longevity categories in Hong Kong retailers [04:10].",
+       "cites": [
+        "04:10",
+        "04:10"
+       ]
+      },
+      {
+       "text": "Luna: Timeline put mitochondria on its packaging six years ago, when \"people thought we were absolutely insane\"; it builds on the hallmarks of ageing (mitochondria, inflammation) and four pillars: mobility and muscle, immune, brain, and skin and hair [10:38].",
+       "cites": [
+        "10:38"
+       ]
+      },
+      {
+       "text": "Luna: Timeline's clinical studies show improved muscle strength of \"12% versus placebo\" in four months, as he said it; skin works as \"the visual proof\" of what happens inside, which omega-3 never had [13:10].",
+       "cites": [
+        "13:10"
+       ]
+      },
+      {
+       "text": "Luna on regulation: muscle is easier to talk about than immune; the cancer story cannot be told; peptides show regulation shifting in the US; Timeline cites over 25 clinical studies, over 150 patents and 12 years of research before its first product [26:25]. An audience member asked how \"rewire the entire immune system in four weeks\" avoids a warning letter [25:57].",
+       "cites": [
+        "26:25",
+        "25:57"
+       ]
+      },
+      {
+       "text": "George from the International Probiotics Association (Otter: \"George Paraskavakos\") challenged Timeline positioning a chemically synthesised urolithin as a postbiotic; Luna answered that it is molecularly identical to the natural molecule; Speaker 5 counted 20 papers and \"14 definitions of that particular category\" [26:25] [28:45].",
+       "cites": [
+        "26:25",
+        "28:45"
+       ]
+      },
+      {
+       "text": "Luna on China: premium consumers \"really dig deeper\" and ask how a product works; Chinese products \"have become so good\" that a newcomer needs something outstanding [21:12]. A retailer meeting there asked why Timeline was priced as \"the most expensive supplement in the U.S.\" [23:48].",
+       "cites": [
+        "21:12",
+        "23:48"
+       ]
+      },
+      {
+       "text": "Wang works only on the digital channel, as a partner to Holland & Barrett and GNC in China [06:09]. Young women take collagen, which is \"by now almost food\"; the next step they search for is firmer skin [06:09] [20:02].",
+       "cites": [
+        "06:09",
+        "06:09",
+        "20:02"
+       ]
+      },
+      {
+       "text": "Wang, citing a McKinsey study of 2025: 94% of Chinese consumers put wellness and active ageing as the top priority, against 84% in the US and 79% in the UK [20:02].",
+       "cites": [
+        "20:02"
+       ]
+      },
+      {
+       "text": "Wang: Chinese brands sometimes put \"234\" (as heard) active or branded ingredients into one product; factories have called her about ingredients at \"2000 euro per kilo\" [22:45]. Before COVID she sold \"N and N from Japan\" (as heard) at 500 to 1,000 euro a can for a month; regulation in China now restricts how longevity can be communicated [23:59].",
+       "cites": [
+        "22:45",
+        "23:59"
+       ]
+      },
+      {
+       "text": "Kreider: GNC's preventive nutrition brand includes brain health and diabetes support products [08:44]. Qualia's senolytic product \"really took off\" for GNC on the \"zombie cells\" message, bringing cellular senescence to consumers [18:33].",
+       "cites": [
+        "08:44",
+        "18:33"
+       ]
+      },
+      {
+       "text": "Pasco: hallmark terms on labels are \"quite early\" for Holland & Barrett; growth is in specific ingredients [19:15].",
+       "cites": [
+        "19:15"
+       ]
+      },
+      {
+       "text": "The moderator said GNC was, he thought, the first retailer with a GLP-1 support category in store [15:47]. Kreider: GLP-1 gives people \"this level of optimism\" about ageing [15:59].",
+       "cites": [
+        "15:47",
+        "15:59"
+       ]
+      },
+      {
+       "text": "Wearables: Kreider sees value in metabolic-age tools such as a Hume Health scale as something tangible to work toward, while saying she does not know whether long-term benefit can be shown [24:43].",
+       "cites": [
+        "24:43"
+       ]
+      },
+      {
+       "text": "Keeping customers on preventive products: Pasco said products that fit a routine and are easy and enjoyable to take are stickier, with honest education on when a benefit will show [30:04]. Kreider gave fish oil as a long-selling product without a visible next-day effect [31:12].",
+       "cites": [
+        "30:04",
+        "31:12"
+       ]
+      },
+      {
+       "text": "Cross-reference: Pasco's longevity category is driven by NAD [03:47]; Nick Stene, earlier the same morning, showed NAD+ losing its price premium as it goes mainstream (euromonitor-who-is-winning-healthspan). Both are given: growth in store, a falling premium on price.",
+       "cites": [
+        "03:47"
+       ]
+      }
+     ],
+     "takeaways": [
+      {
+       "text": "Holland & Barrett created a longevity category in store over the last six months; it is \"still quite small\" but has seen \"really significant growth\", driven primarily by NAD, with spermidine less popular [02:58] [03:47].",
+       "cites": [
+        "02:58",
+        "03:47"
+       ]
+      },
+      {
+       "text": "GNC defines healthy ageing as a target demand space and is extending its condition-specific preventive nutrition brand into standalone longevity ingredients such as NAD+; Kreider said consumers need to connect it to a benefit they can feel [08:44].",
+       "cites": [
+        "08:44"
+       ]
+      },
+      {
+       "text": "Online in China, longevity is not a search term: the trigger for men is sexual vitality and for women sagging skin, followed by joints, sleep and metabolism [06:09].",
+       "cites": [
+        "06:09"
+       ]
+      },
+      {
+       "text": "GLP-1 as a gateway: Pasco sees customers entering the category because they start a GLP-1 journey and staying after they stop the medication [14:52]; Kreider sees an opportunity for products that protect muscle on that journey [15:59].",
+       "cites": [
+        "14:52",
+        "15:59"
+       ]
+      },
+      {
+       "text": "Creatine is crossing over: Kreider said people engage with healthy ageing through creatine and active nutrition, and Pasco said creatine is \"moving from a more of a sports focus into this longevity space\" [17:19] [19:15].",
+       "cites": [
+        "17:19",
+        "19:15"
+       ]
+      },
+      {
+       "text": "Proof decides the role of an ingredient: Kreider wants hero ingredients with clinical substantiation and a tangible benefit, with buzzier ingredients as background [31:12]; Wang said Chinese shoppers ask for a branded ingredient, a patent and a clinical study, and pay the premium [22:45].",
+       "cites": [
+        "31:12",
+        "22:45"
+       ]
+      }
+     ],
+     "quotes": [
+      {
+       "text": "\"...people don't search longevity online.\" Speaker 1 (Jennifer Wang) [06:09]",
+       "cites": [
+        "06:09"
+       ]
+      },
+      {
+       "text": "\"...I do think that consumers need to be able to connect it to a benefit\" Rachel @ GNC (Rachel Kreider) [08:44]",
+       "cites": [
+        "08:44"
+       ]
+      },
+      {
+       "text": "\"...prevention on its own is very hard to sell.\" Speaker 2 (Federico Luna) [12:46]",
+       "cites": [
+        "12:46"
+       ]
+      },
+      {
+       "text": "\"...GLP-1 is quite often gateway or a catalyst to a customer thinking more about proactive healthcare\" Speaker 3 (Jessica Pasco) [14:52]",
+       "cites": [
+        "14:52"
+       ]
+      }
+     ],
+     "followups": [
+      "Rachel Kreider (GNC) and Jessica Pasco (Holland & Barrett): their healthy-ageing and longevity ranges as a home for CreaWin, and the muscle-on-GLP-1 brief [17:19] [19:15].",
+      "Jennifer Wang (Alibaba, Taobao Tmall): cross-border listing for branded ingredients with patents and studies [22:45].",
+      "Find Timeline's muscle-strength study (12% versus placebo in four months) and the McKinsey 2025 wellness study Wang cited [13:10] [20:02].",
+      "Confirm what Otter's \"BMS\" and \"N and N from Japan\" refer to, and the IPA questioner's name."
+     ],
+     "transcript_words": 5926,
+     "has_transcript": true,
      "has_notes": false,
-     "has_summary": false
+     "has_summary": true
+    },
+    {
+     "id": "jens-walter-microbiome-ageing",
+     "title": "Jens Walter: the microbiome and healthy ageing",
+     "date": "2026-11-10",
+     "start": "10:38",
+     "end": "11:04",
+     "format": "talk",
+     "track": "",
+     "speakers": [
+      {
+       "name": "Jens Walter",
+       "organisation": "University College Cork, APC Microbiome Ireland",
+       "role": "Professor (as introduced); co-founder of Symbiotic Health"
+      }
+     ],
+     "themes": [
+      "probiotic-category-evolution",
+      "longevity-positioning"
+     ],
+     "ingredients": [
+      "bifidobacteria",
+      "Bifidobacterium adolescentis (named in Otter's summary; the transcript heard \"aldolithendis\", \"aldolcenters\")",
+      "Bifidobacterium longum (Otter heard \"longunga\")",
+      "dietary fibre",
+      "probiotics",
+      "synbiotics (Otter heard \"symbiotic\")",
+      "postbiotics",
+      "human milk oligosaccharides (Otter heard \"HFOs\")",
+      "protein (high-protein diets, animal studies)"
+     ],
+     "relevance": "medium",
+     "status": "summarised",
+     "summary_by": "Claude",
+     "summary_date": "2026-11-10",
+     "reviewed_by": "",
+     "reviewed_date": "",
+     "attended_by": [
+      "Nathan"
+     ],
+     "links": {
+      "otter": "https://otter.ai/u/qWvuGmyhz5ZKksIa9DnOMpPD4dI"
+     },
+     "to_check": "Billed title, his affiliation and role, and the track are not confirmed (the programme is not published yet), nor the spelling of his company (Otter: \"Symbiotic Health\") or his institute (Otter: \"APC Microbiome Island\").",
+     "added": "2026-11-10",
+     "added_by": "Claude (from Nathan's Otter recording, 10 Nov 2026)",
+     "transcript": "# Jens Walter: the microbiome and healthy ageing: transcript\nSource: Otter.ai recording \"Jens Walter - Microbiome Healthspan\", https://otter.ai/u/qWvuGmyhz5ZKksIa9DnOMpPD4dI, recorded 10 Nov 2026 10:38, 25m 53s. Speaker labels are Otter's.\n\n[00:00] Stephen Daniells (NutraIngredients): Better than our next speaker. He's an absolute giant in kind of every sense of business. In the microbiome space, Professor Jens Walder, who is from University College Corp and co-founder of Symbiotic Health, he's going to talk to us about microbiome modulation through nutritional interventions to extend healthy life. Jens.\n[00:24] Speaker 1 (Jens Walter): You hear me? Yeah, perfect. Yeah, thanks for the lovely introduction. I am, in fact, I you. So I am with the. I'm. I'm from. This is an Irish accent, or at least I'm working on it. So I'm with the APC Microbiome Island, which is one of the leading microbiome institutes and University College Cork, and I'm a co-founder of Symbiotic Health. But what I'm going to talk today about is I'm really interested in diet, how diet modulate microbiomes, and I'm really interested in the basic biology behind all of this, and then what that can teach us on perhaps learning lessons to to generate the next generation of supplements for healthier aging. I think there is a tremendous potential here. So these are my disclosures. Or as mentioned, I'm the co-founder of Symbiotic Health, and I get funding through consultancy support from companies that do both pro and prebiotics, and I don't have a financial interest there, but I do research about this. So I was invited half a year ago to to talk in a session on health, Ben, and I didn't really understand why they invited me because I don't really, or I thought I wasn't working on it, but then while I prepared my talk, I realized I work on diet, microbiome, the prevention of crime. So, and I'm going to come back to this that there is very good evidence that the diet microbiome interactions actually acts throughout our entire life and then influences how we actually health age and and I'm also surrounded by some of the absolute giants in the microbiome aging field. So this is Paul O'Toole. He's this is probably the paper that started this field. This was published in Nature in 2013. Where Paul, am I off again? I can also just talk really loud because. This is again very important paper published in Nature showing how the microbiome actually changes our lifestyle. Really interesting work showing that when you get out. Carbobions, pathogens actually grow up, healthy bacteria go down, and then we have interesting mechanistic links here with inflammation, reduction in barrier function, and then what they also did in this study showing that once the elderly move into nursing homes. The microbiome goes down actually even more, and this is probably linked to the diet consumed. And already in the day, you know, Paul O'Toole and colleagues makes this argument. You know that there is a prospect for dietary modulation, and then this has become a field now, and we know now pretty well how the microbiome changes with aging. We do see certain groups that reduce certain bacterial groups that actually go up. We see also differences between healthy aging and not so healthy aging. There's some very interesting research showing, for example, that that bacteria is linked to unhealthy aging and can even predict negative outcomes. And then what comes up very very often is actually this group of bifidobacteria which are going to come back, which makes a traumatic dive actually once people are aging. And there's a whole range of beneficial attributes linked to these bifidobacteria. So what I want to do today is I would like. Oh yeah. So the limitation of all of this research is that we can't establish cause and effect. So this is some. It's a real struggle. Once people get older, once they develop actually inflammation, you know, the microbiome changes. We don't know does this make any causal contributions, and it gets especially difficult than once they have into nursing homes. So what I want to do is I want to dive into some what I think is fascinating work on animal models, showing that the microbiome makes in fact causal contribution to lifespan. Then I'm I'm going to look into some of the evidence linking diet with healthy aging. And I've in a previous presentation I was absolutely struck that 40% of men now in the 40s think healthy eating is actually important. So there is definitely a lot of evidence that you can achieve a lot with healthier eating. Then I'm going to show you some evidence that the microbiome actually mediates these effects, and finally I'm going to talk a bit about the potential or the potential micro metabolic mediators of this healthy eating, and then you know, can we use this information to use you know kind of MSI microbiome centered treatments? And I'm going to focus on bifidobacteria, but obviously this is not the only possibility here. So this is some very very old research, more than 50 years old. And what these scientists did is they compare rodents with and without a microbiome. It's a very easy experiment, but we can do this in the lab. We can have mice and rats completely without bacteria. And when you do this, and I find this still fascinating, then rodents without a microbiome get substantially older. So this is what you can see here. These are normal mice. They get around 25 month here, and if you keep them completely without a microbiome, they get almost 10 month older. This is a substantial elongation in lifespan. Has been repeated in mice, rats, and different animal species. So if you think about the microbiome, it's not necessarily good for you when it comes to actually getting old. But it gets more interesting if you then. This is another paper, also quite old, but they repeated this and they again found the negative role of the microbiome. But what they also showed is if you then calorie restrict these animals, the microbiome becomes beneficial. You can see the the actually a group here with the longest lifespan are these rodents here with a microbiome that are calorie restricted, which you can also see here. There's a lot of research around this. Very interesting research also around different diets. And for example, very interesting. There was a lot of mentioning of protein already in the session. And there's some research showing that in a lot of animal models, high protein diets actually shorten lifespan. Not sure to what degree this then translates to human. But what is clear is the microbiome makes causal contributions to how old animals are getting, and it's very, very clearly influenced by diets. Provide for me a rationale to actually look into these interactions in humans. Then, so how? What evidence do we have in humans? And here we, this is really the area of nutritional epidemiology. This is a paper published in Nature Medicine by some of the real leaders in the field, and what they did is they do, you know, observational studies in big big cohorts, looking how do different do different dietary patterns actually link to healthy aging. What they found is that the alternative, so first different healthy dietary patterns actually contribute to healthy aging. What's very interesting the the dietary pattern actually that does the least good is actually an unhealthy vegetarian dietary pattern. So this is also very important to consider that only because you come become vegetarian there is still a lot of not so good processed foods here. But the most actually convincing connection is between this healthy alternative healthy eating index and healthy eating. What what does this compose of vegetable fruits, whole grain nuts, legumes? You can see omega-3 fatty acids avoidance of industrialized and high sugar foods. So pretty much what we actually know about healthy eating. If you look at the specific foods here, everything in red here is something to be avoided. You have the trans fats, processed foods in here. You have the beneficial fruits, vegetable, whole grains. Fortunately, wine is actually green, so a small, and this is I think also from the blue zones, some recognition that small amounts of wine is actually fortunately linked to actually healthier aging. Then, a similar study was published just three years ago here from the UK, which actually repeats these findings really nicely. But what this study also showed is that by eating a healthy diet, you can extend your healthier lifespan by 10 years. So this is a finding that I think really, really struck me. And what what these scientists also emphasize is that it's in your 40s and 50s where you have to adopt this healthy eating pattern. If you adopt a healthy eating pattern in your 70s, you can still probably make five to six years of longer health span and lifespan. So, but definitely, you have to. If you think about aging, you have to start working on life. So, these are observational studies, but we also have here now. It's very recent, actually. It was just published a week or two ago. Here also a Mediterranean diet adherence from a systematic review. Some of these are intervention studies showing that Mediterranean diet is in fact linked to healthy aging outcomes. So to what degree? So this is very consistent, but to what degree is this actually linked to the microbiome? And this is something we've been working on quite extensively. So the argument that we are making is that healthy aging diets are also microbiome compatible diets. You know, so we we do now quite nicely know mechanistically what diet does to the microbiome, and I don't have time to go into the mechanisms here. But this is a review that we published a few years ago. So if you're interested, please have a have a link. But this is really very much linked around dietary fiber, biochemicals influencing beneficial metabolic processes, and then we have a lot of negative interactions between specifically processed meats, but also high animal fat that increases bacteria that drive inflammation. We have a degradation of the mucus layer, for example, then a reduction of of barrier function. So there is very very good evidence now and very well backed up in animal model that this is actually mechanistically important. But then of course there are studies that actually test this. So again this is Paulo Tour. This is an important paper that looks at Mediterranean diet and what they found in elderly. Here are 612 people. Intervention studies are very big, but the Mediterranean diet here lower bacteria associated with frailty and cognition. And of course, they do some sophisticated statistics that I don't have time to look at. But we have here links with taxa and frailty, also links to the reduction in this inflammatory aging. Nice links between short chain fatty acids, which results from bipolar fermentation, reduction of secondary bile acids, which are from carcinogenic, so they drive colon cancer. But then also what they raise is some really interesting questions around the practicality around having the elderly adopt a Mediterranean diet because it's very very difficult. And if I would, my father now is 87. If I would tell him to start eating a Mediterranean diet, he would think I'm crazy. Yeah. So, so there's definitely a real opportunity here to think about alternatives to actually make the elderly shift entire diets. So this is a study that we published in Cell, and it's now two years ago. So here we develop a what we call a non-industrialized type diet. It's actually very similar to a Mediterranean diet. It is slightly higher in dietary fiber and a bit more restricted on saturated fat. And this was not done in the elderly. This was done in in in a cohort of students. But what you can see here is that there are very very interesting changes that I think are relevant for aging. For example, we see bacterial shifts in their fecal samples, and the number one group of bacteria that increase are bifidobacteria and different species of bifidobacteria, such as the aldolithendis and bifidobacterium longunga. We also see several detrimental bacteria linked to inflammation, such as bacteria, indeed, with biophilia actually going down. We reduce the fecal pH, which we think now is very beneficial because it inhibits metabolic processes in the gut linked to colon cancer. We see then a reduction in proteolytic fermentation, again linked to colon cancer, and then very interesting in the blood of the individuals, we see this microbial metabolite indole three propionic acids go up, and there is a lot of interest around this. This is a neuroprotective antioxidant showing two very very consistent benefits, specifically in mice. And here again, similar to the Polo Two study, we see a reduction again in blood of secondary bile acids, and we have very strong evidence now that these secondary bile acids are affecting to colon cancer. So, a whole range of metabolic benefits through a diet like this, which actually is indicative of the reduction of chronic diseases. If you then look at risk markers, these individuals here lost weight or fully exactly the same amount of calories. Of course, then if you do this in the elderly, this is something you have to apply with with nuances. But again, this was done in healthy adults. We ever get a substantial reduction in blood glucose, a drop in cholesterol, LDL cholesterol by 17 percent. So these are healthy individuals just going on this diet for three weeks. They lose 17 percent cholesterol. So very very strong effects and CRP, a mark of inflammation, is also highly significant and is reduced with this diet. So I would argue again very much in line with this idea if you want to prevent diseases. And I like a lot of the language this morning already. You know that it is really much much better than to prevent chronic disease than actually treating it. Definitely, a diet like this has very very potent effects around exactly this. So, as I already mentioned, it is very very difficult to make such diet shifts. Whenever I present my my data at the APC, for what the director tells me that nobody's going to eat that stuff, and he's not even completely wrong because it is very hard for people to make changes. And then the older individuals get, and then they get in nursing home, the harder it gets. So I do think that this information here does provide a ample opportunity to look at mechanisms to change these micro diet interactions with our strategy, and this is a very nice review. Actually, you know, pointing to some of these targets, and the target that I or that we have been very interested, starting when I was a professor at the University of Nebraska, are these bifidobacteria, and why they are interested is, for example, that specifically Biblical Bacterium aldolithentus is enriched in healthy individuals, and this is data from Symbiotic Health showing this and also showing the patterns here throughout the lifespan. You can see here the Aldocentis is actually becoming quite dominant in adults, and then in early in in aging, actually it makes a substantial reduction. So it's definitely a bacterium that is decreased in age. It's also a kind of keystone species. It is linked with other bacteria, specifically through fiber fermentation. So it actually responds to dietary fiber. You saw in our study with the non-industrialized type diet, it also indicates bacteria, for example, which is a bacterium linked to unhealthy aging. So it is really a really interesting ecological amplifier of fiber effects, and I do think that there is a lot of opportunity to think about how to combine fiber supplements and actually bifidobacterium aldosterone specifically in an elderly population, and it's also you know able to ferment a whole bunch of dietary fiber, lactose, which also makes it beneficial in other aspects. How is it linked to aging? So this is a really it's an N of one study, but it's a really nice paper because it was published a few years ago, so this is the gut microbiome of the oldest individual that was living at the time, and as you can see, this individual here had almost 50% bifidobacteria. Again, an N of one, but a very interesting association. I think that was at an age of 116. So then here we have a study here in centenarians. This is in Sardinia, one of the blue zones, showing that Bifidobacterium aldolcenters is dramatically actually increased in the centenarians as compared to just healthy elderly. And then here we have a recent study again showing Bifidobacterium aldolcenters, which is associated with slower epigenetic aging in this cohort here of I think 123 individuals. So we are starting to really see evidence that this bacterium is actually linked here to healthy, you know, aging. And we also have started to have you know mechanistic studies that provide at least the potential explanation here. The other standards, for example, produces GABA, which is a neurotransmitter. We also see here papers showing that it actually amyloid sarcopenia. This is a paper of ourselves showing that this Bifidobacterium's aldosterone is IDS1 improves intestinal barrier function. And finally, high impact paper here in Nature, aging showing that B aldolithenes actually regulates catalase activity in host metabolism and improves health span and lifespan in multiple animal species. So at the moment, with symbiotic health, we have human studies ongoing in elderly populations. Unfortunately, the data wasn't ready for here to be presented, but please stay tuned. Of course, it's going to come out soon. With this, I'm fortunately still on time. But my take-home message is for today: is the microbiome is a plausible contributor to healthy aging in animal model. This is clearly established. Obviously, causality is hard to establish in humans. It is also a modifiable determinant of health and diet, I think, is very very promising here. But so far, obviously, we don't really have any direct evidence that the microbiome is mediating these these diet effects. We have very very interesting human intervention studies, and they are increasingly showing the diet microbiome interactions can be modulated with specifically healthy diet in relation to aging with important outcomes, and then dietary change is powerful. I mentioned 10 years, and if it started early enough, but it is also extremely difficult to establish, and that highlights the importance for promoting healthy dietary pattern, but also the options to develop strategies that are alternatives to diet, and then yeah, these are these complementary microbiome-targeted intervention. There is a lot going on in the research space in this area. Different scientists are doing different things. Again, bifidobacteria is one of the potentiality, but definitely clinical trials are needed to establish if these benefits are actually, you know, are they translatable into humans and into then different populations and relevance for aging. With this, these are the collaborators to our study that was published in Cell. And with this, oh yeah, if interested, I would I would like to thank you for your attention and being here. But also, we made all the recipes of this non-industrialized type diet freely available. So, if you're interested in cooking some non-industrialized type foods, you can actually download this and give it a shot. So, thank you very much for your attention. Am\n[20:46] Stephen Daniells (NutraIngredients): I up? Yeah. You want to hold on to that for a second? We have time for a couple of questions for Yanks. If anyone has one, back in the room. You are highly, highly unprofessed to this. have a question for you then. You are waiting for that one, which is around that drop in bifidobacterium that you see as people get older, and there are now people starting to look at human milk oligosaccharides because obviously they are bifidogenic in an infant. So could we? Is there potential, do you think, for them in the elderly,\n[21:22] Speaker 1 (Jens Walter): what do you think? There's definitely a potential. The question is: Is does it make sense to, you know, stimulate infant-associated species, you know, in an elderly population? So I think that the jury is completely out of this. But it's definitely so. There are already studies showing that you can, in fact, increase bifidos with HFOs in the alto, so it's definitely possible. Question is then, you know, will you see clinical benefits in the end?\n[21:46] Stephen Daniells (NutraIngredients): Okay, yes, sir.\n[21:48] Speaker 2: Hi, Chris Stamper with Kyoga. That was really fascinating. I was wondering, what do you think would happen if if you gave this bifido as a postbioperative?\n[22:01] Speaker 1 (Jens Walter): I I personally haven't thought much about postbiotics, and the reason for this is because I'm trying to modulate these metabolic and compositional afferencies that we see associated with aging. So I do think with a postbiotic, you wouldn't have any effect on the actual microbial community, you know, because it's inviable, and it wouldn't really change the ecology in the gut, and this is why I'm probably more excited about probiotic bifidobacteria, and specifically also symbiotic, so combining probiotics with fiber. That being said, you know we've heard already about postbiotic. If if you are interested in a direct effect, you know perhaps on the immune system, this postbiotic might actually offer an opportunity.\n[22:42] Speaker 2: Yeah, yeah, I agree. But in in changing the ecology of the gut, what you're trying to do is maybe increase short chain fatty acid production overall, generally.\n[22:52] Speaker 1 (Jens Walter): Yeah, but I'm not sure a postbiotic can achieve that. So I'm I'm doubtful about this in humans, at least. I'm. It's very very hard to increase short-chain fatty acids, even with extreme diet shifts. So, it's yeah, the proof is in the pudding, you know. But but I'm more doubtful. I think for short-chain fatty acid, what you need is an approach to actually increase fermentation in the gut. You know that there are short-chain fatty acids are fermented; they are the outcomes of fermentation, and I I doubt that this is achievable with a postbiotic.\n[23:23] Speaker 2: Yeah, yeah, I agree. Thanks.\n[23:26] Stephen Daniells (NutraIngredients): A quick one, George. Okay.\n[23:30] Speaker 3: Hey, so\n[23:31] Speaker 1 (Jens Walter): it's always very provocative. Great presentation. Two, two quick ones. The pH slide.\n[23:37] Stephen Daniells (NutraIngredients): One quick one.\n[23:38] Speaker 1 (Jens Walter): Well, he talked about micro. No, he talked about microbiome causality, and he has a paper on that. And he put it on his takeaway home message. What other model would you use? Like a C. elegans? Would you, you know, support that versus brodence? And then the second one is the pH fecal sample. What influenced that? Was it the bacteria? Was it the food? I didn't quite understand that. So first causality, I think we have to go to the bar or the coffee machine or something to discuss. Because as you said, we have been I've been now on three or four papers on causality, but the the the inability to really clearly establish causal interactions between the microbiome and both diseases, but also diet microbiome interactions in certain outcomes is one of the major challenges in the field. And we have a lot of models. You know, we can transplant microbiome in different animals. You mentioned C. elegans. To what degree they are good? You know, is that a question? But it's it's it's it's a heated topic in the field, so very very difficult to achieve. I also think with thinking about human studies now, because there are some really interested in in statistics and causal inference analysis, so you might be able to do it in humans, but that comes with its own bag of limitations. To your second question, I think the pH drop is clearly fiber fermentation. So when we when we give this EMI diet, we give 45 grams of fiber. Symptoms go up. People go to the toilet a bit more often. More way way more fermentation. We see short shin fatty acids go up, and then the pH actually drops. So I think it's a result of fermentation. Yeah, but it has very very interesting metabolic outcomes, most of which we think are actually beneficial. Thank you. Thank you.\n[25:21] Stephen Daniells (NutraIngredients): Okay, we're running a little bit late, but you know the content is good. Let's do it in the moment. All right, we're going to take a break now, so please try and be back in here for we say 1130. Is that okay? That's useful. And we're going to have a consumer panel, so we're going to have people that we've recruited from the general public who will come and share their insights. So if you want to ask questions, you can have a think of what questions you would love to ask them. We'll see you in 25 minutes. Thank you.\n",
+     "notes": "",
+     "summary": {
+      "Summary": "Professor Jens Walter of University College Cork and APC Microbiome Ireland, a co-founder of Symbiotic Health, asked whether the gut microbiome shapes how we age, and whether diet or supplements that target it could extend healthspan.\n\nHe started with animal studies. Germ-free rodents live longer than normal ones, but with calorie restriction the microbiome becomes beneficial, so its effect depends on diet. In humans, large observational studies link healthy eating patterns to healthy ageing; one UK study suggests a healthy diet can add about ten years of healthier life if adopted in your 40s and 50s.\n\nHis own trial in Cell put students on a high-fibre, non-industrialised diet for three weeks. Bifidobacteria rose, inflammatory bacteria fell, and LDL cholesterol dropped by 17%. Older people rarely change their whole diet, so he sees room for alternatives: Bifidobacterium adolescentis, which falls with age and is linked with healthy ageing, paired with fibre.\n\nHe kept his hedges. Causality is clearly established in animals only, there is no direct evidence yet that the microbiome mediates diet's effects in humans, and clinical trials are needed. His company's trials in older people have not reported. In questions he doubted that postbiotics can change gut ecology.",
+      "Key takeaways": "- In animal studies, rodents kept without a microbiome live almost ten months longer than normal mice, which live about 25 months; with calorie restriction the microbiome becomes beneficial and those animals live longest [00:24].\n- Observational studies in humans link healthy dietary patterns to healthy ageing; one UK study found a healthy diet can extend healthier lifespan by ten years, adopted in the 40s and 50s, and \"probably\" five to six years if adopted in the 70s [00:24].\n- His Cell trial of a non-industrialised, higher-fibre diet in students over three weeks raised bifidobacteria and indole-3-propionic acid, lowered faecal pH and secondary bile acids, cut LDL cholesterol by 17% and reduced blood glucose and CRP [00:24].\n- Bifidobacterium adolescentis falls with age and is associated with healthy ageing (centenarians in Sardinia, slower epigenetic ageing in about 123 people); in animal studies it improved healthspan and lifespan; human trials in older people by Symbiotic Health are ongoing, with no data yet [00:24].\n- His conclusion: the microbiome is a plausible contributor to healthy ageing, established in animal models; causality is hard to establish in humans and clinical trials are needed [00:24].\n- He is doubtful that a postbiotic can change gut ecology or raise short-chain fatty acids, prefers probiotic bifidobacteria with fibre, and sees a possible role for postbiotics in a direct immune effect [22:01] [22:52].",
+      "For Vita Actives": "- He sees the next healthy-ageing supplements as probiotic bifidobacteria combined with fibre, because older people rarely change their whole diet [00:24]. My reading: fibre for healthy ageing may be pitched as a partner to probiotics, within what the evidence supports, which he says is not yet proven in humans.\n- He cited animal research in which high-protein diets shorten lifespan, and said he is not sure how far it translates to humans [00:24]. My reading: brands selling protein for healthy ageing may hear this; our answer should rest on human muscle evidence.\n- Postbiotics divide the speakers: Nick Stene of Euromonitor sees them leading the ingredients queuing behind NAD+, with share up 48% and one of the strongest price premiums (euromonitor-who-is-winning-healthspan), while Walter doubts they can change gut ecology [22:01]. Both views are given.\n- Relevance medium: healthy-ageing science around fibre and probiotics; protein comes up only through animal studies.",
+      "Quotes": "- \"...the microbiome is a plausible contributor to healthy aging in animal model.\" Speaker 1 (Jens Walter) [00:24]\n- \"...we don't really have any direct evidence that the microbiome is mediating these these diet effects.\" Speaker 1 (Jens Walter) [00:24]\n- \"...by eating a healthy diet, you can extend your healthier lifespan by 10 years.\" Speaker 1 (Jens Walter) [00:24]\n- \"...I'm not sure a postbiotic can achieve that.\" Speaker 1 (Jens Walter) [22:52]",
+      "Follow-ups": "- Jens Walter: the Symbiotic Health trials in older people, when they report, and its B. adolescentis and fibre combination [00:24].\n- Find his Cell paper on the non-industrialised diet and the UK study on ten years of healthier life [00:24].\n- Confirm his billed title and affiliation, and the spelling of Symbiotic Health, once the programme is published.",
+      "Key slides": "",
+      "Detail": "- The talk is one Otter turn from [00:24] to the questions at [20:46]. Stephen Daniells introduced him as \"Professor Jens Walder\" of \"University College Corp\" and co-founder of \"Symbiotic Health\" [00:00]; he described himself as from \"APC Microbiome Island\" and University College Cork [00:24]. Otter's labels: Speaker 1 is Jens Walter; Speakers 2 and 3 are questioners. At [23:31] and [23:38] the Speaker 1 label also carries George's question before Walter's answer.\n- Disclosures: co-founder of Symbiotic Health; funding and consultancy from companies working on probiotics and prebiotics [00:24].\n- Paul O'Toole's work (a Nature paper of 2013): with age, pathogens rise and healthy bacteria fall, with links to inflammation and lower barrier function; the microbiome declines further when older people move into nursing homes, probably linked to diet [00:24].\n- Bifidobacteria make a dramatic dive with ageing; observational research cannot establish cause and effect [00:24].\n- Animal studies: the germ-free lifespan finding has been repeated in mice, rats and other species; \"in a lot of animal models, high protein diets actually shorten lifespan. Not sure to what degree this then translates to human.\" [00:24]\n- A Nature Medicine paper of large cohorts: healthy dietary patterns link to healthy ageing; an unhealthy vegetarian pattern does the least good; the alternative healthy eating index (vegetables, fruit, whole grains, nuts, legumes, omega-3, little industrialised and high-sugar food) has the most convincing link; small amounts of wine are linked to healthier ageing [00:24].\n- A systematic review published a week or two before the talk links Mediterranean diet adherence, partly from intervention studies, to healthy ageing outcomes [00:24].\n- O'Toole's Mediterranean diet study in 612 older people: lower levels of bacteria associated with frailty and cognition, links to lower inflammatory ageing, higher short-chain fatty acids and fewer secondary bile acids, which he said drive colon cancer [00:24].\n- His Cell trial, two years ago: a non-industrialised diet close to Mediterranean, slightly higher in fibre and lower in saturated fat, in students, not older people; bifidobacteria including B. adolescentis and B. longum rose; inflammatory bacteria fell; proteolytic fermentation fell; indole-3-propionic acid, a neuroprotective antioxidant with consistent benefits \"specifically in mice\", rose; participants lost weight [00:24]. The diet gives 45 grams of fibre a day, and the pH drop is \"clearly fiber fermentation\" [23:38].\n- B. adolescentis: enriched in healthy people (Symbiotic Health's data), dominant in adults and reduced in ageing; a keystone species that amplifies fibre's effects; the oldest living person at the time, aged 116, had almost 50% bifidobacteria (\"an N of one\"); it produces GABA, improved intestinal barrier function in his group's paper, and in a Nature Aging paper regulated catalase activity and improved healthspan and lifespan \"in multiple animal species\" [00:24].\n- Lumina's earlier talk came up: he recalled that \"40% of men now in the 40s think healthy eating is actually important\" [00:24]. Ewa Hudson's talk as recorded says healthy eating \"really over-indexes\" for men ten years after their 30s, without a percentage (lumina-new-longevity-consumer). Both are given.\n- Human milk oligosaccharides: studies show they can raise bifidobacteria in older people, but \"the jury is completely out\" on stimulating infant-associated species and on clinical benefit [21:22].\n- Short-chain fatty acids are \"very very hard to increase\", even with extreme diet shifts [22:52].\n- Causality: he has been on three or four papers on it; transplant models and C. elegans have limits; causal inference in humans \"comes with its own bag of limitations\" [23:38].\n- The recipes of the non-industrialised diet are free to download [00:24]."
+     },
+     "files": [
+      {
+       "name": "otter-summary.md",
+       "kind": "text",
+       "bytes": 2537,
+       "text": "Otter.ai's automatic summary, as received. Not ours.\n\nProfessor **Jens Walter** discussed the causal role of the microbiome in aging and the potential for dietary interventions to extend healthspan.\n\n## Microbiome Aging\n**Jens** highlighted research showing that the microbiome significantly influences lifespan and healthy aging.\n*   **Paul O'Toole**'s 2013 **Nature** paper demonstrated that lifestyle changes alter the microbiome, with pathogens increasing and healthy bacteria decreasing as people age.\n*   Animal models (mice and rats) show that removing the microbiome can extend lifespan, though calorie restriction makes the microbiome beneficial for longevity.\n*   In humans, a healthy eating pattern adopted in the 40s or 50s can extend healthy lifespan by up to 10 years.\n*   A decline in **Bifidobacteria**, specifically **Bifidobacterium adolescentis**, is a common marker of unhealthy aging.\n\n## Dietary Interventions\n**Jens** presented evidence regarding how specific dietary patterns modulate microbial metabolites and health outcomes.\n*   **Non-industrialized type diet**: A study published in **Cell** showed that a diet high in fiber (45g) and low in saturated fat leads to:\n    *   Increased **Bifidobacteria** (e.g., **B. adolescentis** and **B. longum**).\n    *   Reduced detrimental, pro-inflammatory bacteria.\n    *   Lower fecal pH due to increased fermentation.\n    *   Higher levels of neuroprotective **indole-3-propionic acid**.\n    *   Significant reductions in LDL cholesterol (17%), blood glucose, and CRP inflammation markers.\n*   **Mediterranean Diet**: Intervention studies link this diet to reduced frailty and improved cognition through increased short-chain fatty acids and reduced secondary bile acids.\n\n## Future Research\nThe discussion addressed several technical questions regarding the future of microbiome modulation.\n*   **Probiotics vs Postbiotics**: **Jens** expressed skepticism that **postbiotics** could effectively change gut ecology or increase short-chain fatty acid production compared to **probiotics** or **symbiotics** (combining probiotics with fiber).\n*   **Human Milk Oligosaccharides (HMOs)**: There is interest in whether **HMOs**, which are bifidogenic in infants, could be used to stimulate beneficial species in the elderly.\n*   Could **C. elegans** serve as a viable model for establishing causality compared to rodent models?\n*   Will ongoing human clinical trials for **Symbiotic Health** confirm the translatability of these microbial benefits in elderly populations?\n",
+       "pages": null,
+       "photos": []
+      }
+     ],
+     "event": "nutra-healthspan-summit-2026",
+     "photos": {},
+     "key_slides": [],
+     "detail": [
+      {
+       "text": "The talk is one Otter turn from [00:24] to the questions at [20:46]. Stephen Daniells introduced him as \"Professor Jens Walder\" of \"University College Corp\" and co-founder of \"Symbiotic Health\" [00:00]; he described himself as from \"APC Microbiome Island\" and University College Cork [00:24]. Otter's labels: Speaker 1 is Jens Walter; Speakers 2 and 3 are questioners. At [23:31] and [23:38] the Speaker 1 label also carries George's question before Walter's answer.",
+       "cites": [
+        "00:24",
+        "20:46",
+        "00:00",
+        "00:24",
+        "23:31",
+        "23:38"
+       ]
+      },
+      {
+       "text": "Disclosures: co-founder of Symbiotic Health; funding and consultancy from companies working on probiotics and prebiotics [00:24].",
+       "cites": [
+        "00:24"
+       ]
+      },
+      {
+       "text": "Paul O'Toole's work (a Nature paper of 2013): with age, pathogens rise and healthy bacteria fall, with links to inflammation and lower barrier function; the microbiome declines further when older people move into nursing homes, probably linked to diet [00:24].",
+       "cites": [
+        "00:24"
+       ]
+      },
+      {
+       "text": "Bifidobacteria make a dramatic dive with ageing; observational research cannot establish cause and effect [00:24].",
+       "cites": [
+        "00:24"
+       ]
+      },
+      {
+       "text": "Animal studies: the germ-free lifespan finding has been repeated in mice, rats and other species; \"in a lot of animal models, high protein diets actually shorten lifespan. Not sure to what degree this then translates to human.\" [00:24]",
+       "cites": [
+        "00:24"
+       ]
+      },
+      {
+       "text": "A Nature Medicine paper of large cohorts: healthy dietary patterns link to healthy ageing; an unhealthy vegetarian pattern does the least good; the alternative healthy eating index (vegetables, fruit, whole grains, nuts, legumes, omega-3, little industrialised and high-sugar food) has the most convincing link; small amounts of wine are linked to healthier ageing [00:24].",
+       "cites": [
+        "00:24"
+       ]
+      },
+      {
+       "text": "A systematic review published a week or two before the talk links Mediterranean diet adherence, partly from intervention studies, to healthy ageing outcomes [00:24].",
+       "cites": [
+        "00:24"
+       ]
+      },
+      {
+       "text": "O'Toole's Mediterranean diet study in 612 older people: lower levels of bacteria associated with frailty and cognition, links to lower inflammatory ageing, higher short-chain fatty acids and fewer secondary bile acids, which he said drive colon cancer [00:24].",
+       "cites": [
+        "00:24"
+       ]
+      },
+      {
+       "text": "His Cell trial, two years ago: a non-industrialised diet close to Mediterranean, slightly higher in fibre and lower in saturated fat, in students, not older people; bifidobacteria including B. adolescentis and B. longum rose; inflammatory bacteria fell; proteolytic fermentation fell; indole-3-propionic acid, a neuroprotective antioxidant with consistent benefits \"specifically in mice\", rose; participants lost weight [00:24]. The diet gives 45 grams of fibre a day, and the pH drop is \"clearly fiber fermentation\" [23:38].",
+       "cites": [
+        "00:24",
+        "23:38"
+       ]
+      },
+      {
+       "text": "B. adolescentis: enriched in healthy people (Symbiotic Health's data), dominant in adults and reduced in ageing; a keystone species that amplifies fibre's effects; the oldest living person at the time, aged 116, had almost 50% bifidobacteria (\"an N of one\"); it produces GABA, improved intestinal barrier function in his group's paper, and in a Nature Aging paper regulated catalase activity and improved healthspan and lifespan \"in multiple animal species\" [00:24].",
+       "cites": [
+        "00:24"
+       ]
+      },
+      {
+       "text": "Lumina's earlier talk came up: he recalled that \"40% of men now in the 40s think healthy eating is actually important\" [00:24]. Ewa Hudson's talk as recorded says healthy eating \"really over-indexes\" for men ten years after their 30s, without a percentage (lumina-new-longevity-consumer). Both are given.",
+       "cites": [
+        "00:24"
+       ]
+      },
+      {
+       "text": "Human milk oligosaccharides: studies show they can raise bifidobacteria in older people, but \"the jury is completely out\" on stimulating infant-associated species and on clinical benefit [21:22].",
+       "cites": [
+        "21:22"
+       ]
+      },
+      {
+       "text": "Short-chain fatty acids are \"very very hard to increase\", even with extreme diet shifts [22:52].",
+       "cites": [
+        "22:52"
+       ]
+      },
+      {
+       "text": "Causality: he has been on three or four papers on it; transplant models and C. elegans have limits; causal inference in humans \"comes with its own bag of limitations\" [23:38].",
+       "cites": [
+        "23:38"
+       ]
+      },
+      {
+       "text": "The recipes of the non-industrialised diet are free to download [00:24].",
+       "cites": [
+        "00:24"
+       ]
+      }
+     ],
+     "takeaways": [
+      {
+       "text": "In animal studies, rodents kept without a microbiome live almost ten months longer than normal mice, which live about 25 months; with calorie restriction the microbiome becomes beneficial and those animals live longest [00:24].",
+       "cites": [
+        "00:24"
+       ]
+      },
+      {
+       "text": "Observational studies in humans link healthy dietary patterns to healthy ageing; one UK study found a healthy diet can extend healthier lifespan by ten years, adopted in the 40s and 50s, and \"probably\" five to six years if adopted in the 70s [00:24].",
+       "cites": [
+        "00:24"
+       ]
+      },
+      {
+       "text": "His Cell trial of a non-industrialised, higher-fibre diet in students over three weeks raised bifidobacteria and indole-3-propionic acid, lowered faecal pH and secondary bile acids, cut LDL cholesterol by 17% and reduced blood glucose and CRP [00:24].",
+       "cites": [
+        "00:24"
+       ]
+      },
+      {
+       "text": "Bifidobacterium adolescentis falls with age and is associated with healthy ageing (centenarians in Sardinia, slower epigenetic ageing in about 123 people); in animal studies it improved healthspan and lifespan; human trials in older people by Symbiotic Health are ongoing, with no data yet [00:24].",
+       "cites": [
+        "00:24"
+       ]
+      },
+      {
+       "text": "His conclusion: the microbiome is a plausible contributor to healthy ageing, established in animal models; causality is hard to establish in humans and clinical trials are needed [00:24].",
+       "cites": [
+        "00:24"
+       ]
+      },
+      {
+       "text": "He is doubtful that a postbiotic can change gut ecology or raise short-chain fatty acids, prefers probiotic bifidobacteria with fibre, and sees a possible role for postbiotics in a direct immune effect [22:01] [22:52].",
+       "cites": [
+        "22:01",
+        "22:52"
+       ]
+      }
+     ],
+     "quotes": [
+      {
+       "text": "\"...the microbiome is a plausible contributor to healthy aging in animal model.\" Speaker 1 (Jens Walter) [00:24]",
+       "cites": [
+        "00:24"
+       ]
+      },
+      {
+       "text": "\"...we don't really have any direct evidence that the microbiome is mediating these these diet effects.\" Speaker 1 (Jens Walter) [00:24]",
+       "cites": [
+        "00:24"
+       ]
+      },
+      {
+       "text": "\"...by eating a healthy diet, you can extend your healthier lifespan by 10 years.\" Speaker 1 (Jens Walter) [00:24]",
+       "cites": [
+        "00:24"
+       ]
+      },
+      {
+       "text": "\"...I'm not sure a postbiotic can achieve that.\" Speaker 1 (Jens Walter) [22:52]",
+       "cites": [
+        "22:52"
+       ]
+      }
+     ],
+     "followups": [
+      "Jens Walter: the Symbiotic Health trials in older people, when they report, and its B. adolescentis and fibre combination [00:24].",
+      "Find his Cell paper on the non-industrialised diet and the UK study on ten years of healthier life [00:24].",
+      "Confirm his billed title and affiliation, and the spelling of Symbiotic Health, once the programme is published."
+     ],
+     "transcript_words": 4245,
+     "has_transcript": true,
+     "has_notes": false,
+     "has_summary": true
     }
    ],
    "report_md": "",
@@ -7445,6 +7913,12 @@
      "date": "2026-11-10"
     },
     {
+     "event": "nutra-healthspan-summit-2026",
+     "session": "from-hype-to-healthspan-building-the",
+     "title": "From hype to healthspan: Building the future of longevity nutrition",
+     "date": "2026-11-10"
+    },
+    {
      "event": "sans-europe-2026",
      "session": "a-bigger-sports-nutrition-landscape-growth",
      "title": "A Bigger Sports Nutrition Landscape: Growth, Tensions and What Comes Next",
@@ -7514,6 +7988,18 @@
      "date": "2026-11-10"
     },
     {
+     "event": "nutra-healthspan-summit-2026",
+     "session": "from-hype-to-healthspan-building-the",
+     "title": "From hype to healthspan: Building the future of longevity nutrition",
+     "date": "2026-11-10"
+    },
+    {
+     "event": "nutra-healthspan-summit-2026",
+     "session": "jens-walter-microbiome-ageing",
+     "title": "Jens Walter: the microbiome and healthy ageing",
+     "date": "2026-11-10"
+    },
+    {
      "event": "sans-europe-2026",
      "session": "a-bigger-sports-nutrition-landscape-growth",
      "title": "A Bigger Sports Nutrition Landscape: Growth, Tensions and What Comes Next",
@@ -7571,6 +8057,12 @@
    "events": [],
    "sessions": [
     {
+     "event": "nutra-healthspan-summit-2026",
+     "session": "from-hype-to-healthspan-building-the",
+     "title": "From hype to healthspan: Building the future of longevity nutrition",
+     "date": "2026-11-10"
+    },
+    {
      "event": "sans-europe-2026",
      "session": "a-bigger-sports-nutrition-landscape-growth",
      "title": "A Bigger Sports Nutrition Landscape: Growth, Tensions and What Comes Next",
@@ -7615,6 +8107,12 @@
    "first_seen": "remedy-cdmo-2026",
    "events": [],
    "sessions": [
+    {
+     "event": "nutra-healthspan-summit-2026",
+     "session": "from-hype-to-healthspan-building-the",
+     "title": "From hype to healthspan: Building the future of longevity nutrition",
+     "date": "2026-11-10"
+    },
     {
      "event": "sans-europe-2026",
      "session": "whey-collagen-the-protein-power-couple",
@@ -7664,6 +8162,12 @@
      "event": "nutra-healthspan-summit-2026",
      "session": "euromonitor-who-is-winning-healthspan",
      "title": "Fewer products, more proof: who is winning the healthspan economy?",
+     "date": "2026-11-10"
+    },
+    {
+     "event": "nutra-healthspan-summit-2026",
+     "session": "from-hype-to-healthspan-building-the",
+     "title": "From hype to healthspan: Building the future of longevity nutrition",
      "date": "2026-11-10"
     },
     {
@@ -7721,6 +8225,12 @@
      "event": "nutra-healthspan-summit-2026",
      "session": "lumina-new-longevity-consumer",
      "title": "Lumina Intelligence: the new longevity consumer",
+     "date": "2026-11-10"
+    },
+    {
+     "event": "nutra-healthspan-summit-2026",
+     "session": "from-hype-to-healthspan-building-the",
+     "title": "From hype to healthspan: Building the future of longevity nutrition",
      "date": "2026-11-10"
     },
     {
@@ -7945,6 +8455,12 @@
    "first_seen": "remedy-cdmo-2026",
    "events": [],
    "sessions": [
+    {
+     "event": "nutra-healthspan-summit-2026",
+     "session": "jens-walter-microbiome-ageing",
+     "title": "Jens Walter: the microbiome and healthy ageing",
+     "date": "2026-11-10"
+    },
     {
      "event": "remedy-cdmo-2026",
      "session": "hmt-probiotic-market",

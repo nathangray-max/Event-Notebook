@@ -1,8 +1,8 @@
 {
  "schema": "confnotes.sessions/1",
  "built": "2026-11-10",
- "commit": "48da494",
- "count": 33,
+ "commit": "86b82fe",
+ "count": 34,
  "items": [
   {
    "id": "euromonitor-who-is-winning-healthspan",
@@ -693,12 +693,28 @@
      "role": "General Manager Europe, Taobao Tmall"
     }
    ],
-   "themes": [],
-   "ingredients": [],
-   "relevance": "",
-   "status": "captured",
-   "summary_by": "",
-   "summary_date": "",
+   "themes": [
+    "longevity-positioning",
+    "outcomes-over-mechanisms",
+    "creatine-beyond-strength",
+    "glp-1-nutrition",
+    "branded-ingredients-differentiation",
+    "muscle-health-beyond-protein"
+   ],
+   "ingredients": [
+    "NAD (Otter heard \"NAD\" and \"NAD Plus\")",
+    "spermidine",
+    "creatine",
+    "collagen",
+    "urolithin A (Timeline's Mitopure; Otter heard \"urethane\")",
+    "vitamin C",
+    "omega-3 (fish oil)",
+    "\"N and N from Japan\" (as Otter heard it; unclear)"
+   ],
+   "relevance": "high",
+   "status": "summarised",
+   "summary_by": "Claude",
+   "summary_date": "2026-11-10",
    "reviewed_by": "",
    "reviewed_date": "",
    "attended_by": [
@@ -707,20 +723,235 @@
    "links": {
     "otter": "https://otter.ai/u/df1Qw6x35bG79mcIYYgShq_O4lo"
    },
-   "to_check": "Transcript to come: Nathan's Otter recording was still running at about 10:20. The programme times are 09:55 to 10:25, but Ewa Hudson's talk ran until about 10:05 and the panel's recording began at 10:05, so the day was running late.",
+   "to_check": "Still unknown: the opening (the recording began at 10:05, after the billed 09:55 start, mid-introduction), what Otter's \"BMS\" and \"N and N from Japan\" stand for, and the name of the IPA questioner (Otter: \"George Paraskavakos\").",
    "added": "2026-11-10",
    "added_by": "Claude (from Nathan's screenshot of the event app and his photo of the speaker slide, 10 Nov 2026)",
-   "has_transcript": false,
-   "transcript_words": 0,
+   "has_transcript": true,
+   "transcript_words": 5926,
    "has_notes": false,
-   "has_summary": false,
-   "summary": null,
-   "takeaways": [],
-   "quotes": [],
-   "followups": [],
-   "key_slides": [],
-   "detail": [],
+   "has_summary": true,
+   "summary": {
+    "Summary": "Stephen Daniells of NutraIngredients chaired two retailers, a brand and a marketplace: Jessica Pasco of Holland & Barrett, Rachel Kreider of GNC, Federico Luna of Timeline and Jennifer Wang of Alibaba's Taobao Tmall. His question: is longevity a real category, or an umbrella for outcomes consumers already understand?\n\nThey agreed that shoppers pay for benefits they can feel or see. Prevention alone is hard to sell, so proof and a tangible result, such as stronger muscles or better skin, matter most. They also agreed that GLP-1 medicines move people into a proactive mindset, and that creatine and muscle are a way into healthy ageing.\n\nThey differed on the category itself. Luna said longevity is absolutely a category, defined by the hallmarks of ageing and four pillars, and that bundling a generic vitamin C into it does consumers a disservice. Pasco said Holland & Barrett's new in-store longevity category is small but growing fast, driven mainly by NAD, while most proactive shopping is not badged longevity. Kreider said GNC treats healthy ageing as a demand space and links new ingredients to condition-specific products. Wang said nobody in China searches for longevity online: men search for sexual vitality and women for sagging skin, and premium shoppers ask for patents and clinical studies.",
+    "Key takeaways": "- Holland & Barrett created a longevity category in store over the last six months; it is \"still quite small\" but has seen \"really significant growth\", driven primarily by NAD, with spermidine less popular [02:58] [03:47].\n- GNC defines healthy ageing as a target demand space and is extending its condition-specific preventive nutrition brand into standalone longevity ingredients such as NAD+; Kreider said consumers need to connect it to a benefit they can feel [08:44].\n- Online in China, longevity is not a search term: the trigger for men is sexual vitality and for women sagging skin, followed by joints, sleep and metabolism [06:09].\n- GLP-1 as a gateway: Pasco sees customers entering the category because they start a GLP-1 journey and staying after they stop the medication [14:52]; Kreider sees an opportunity for products that protect muscle on that journey [15:59].\n- Creatine is crossing over: Kreider said people engage with healthy ageing through creatine and active nutrition, and Pasco said creatine is \"moving from a more of a sports focus into this longevity space\" [17:19] [19:15].\n- Proof decides the role of an ingredient: Kreider wants hero ingredients with clinical substantiation and a tangible benefit, with buzzier ingredients as background [31:12]; Wang said Chinese shoppers ask for a branded ingredient, a patent and a clinical study, and pay the premium [22:45].",
+    "For Vita Actives": "- Two major retailers, GNC and Holland & Barrett, both see creatine moving from sports into healthy ageing [17:19] [19:15]. My reading: CreaWin can be pitched to healthy-ageing ranges, on its own evidence for muscle.\n- GLP-1 users are entering the supplement aisle and staying, and muscle protection is the named need [14:52] [15:59]. My reading: protein and creatine for muscle on a GLP-1 journey are a pitch retailers already recognise.\n- Retailers want hero ingredients with clinical substantiation and a benefit the shopper can feel [08:44] [31:12]. My reading: our pitches to healthy-ageing brands should lead with a felt outcome and the study behind it, not a mechanism.\n- Chinese premium shoppers ask for branded ingredients, patents and studies, and Chinese brands combine several branded ingredients in one product [22:45]. My reading: Tmall cross-border is a channel where branded, documented ingredients earn their price.\n- Relevance high: retailer category structure for healthy ageing, creatine and GLP-1 muscle.",
+    "Quotes": "- \"...people don't search longevity online.\" Speaker 1 (Jennifer Wang) [06:09]\n- \"...I do think that consumers need to be able to connect it to a benefit\" Rachel @ GNC (Rachel Kreider) [08:44]\n- \"...prevention on its own is very hard to sell.\" Speaker 2 (Federico Luna) [12:46]\n- \"...GLP-1 is quite often gateway or a catalyst to a customer thinking more about proactive healthcare\" Speaker 3 (Jessica Pasco) [14:52]",
+    "Follow-ups": "- Rachel Kreider (GNC) and Jessica Pasco (Holland & Barrett): their healthy-ageing and longevity ranges as a home for CreaWin, and the muscle-on-GLP-1 brief [17:19] [19:15].\n- Jennifer Wang (Alibaba, Taobao Tmall): cross-border listing for branded ingredients with patents and studies [22:45].\n- Find Timeline's muscle-strength study (12% versus placebo in four months) and the McKinsey 2025 wellness study Wang cited [13:10] [20:02].\n- Confirm what Otter's \"BMS\" and \"N and N from Japan\" refer to, and the IPA questioner's name.",
+    "Key slides": "- (photo 1) The panel: Stephen Daniells (moderator) with Jessica Pasco, Rachel Kreider, Federico Luna and Jennifer Wang.",
+    "Detail": "- The recording starts at 10:05, in the middle of the moderator's introductions; the billed time was 09:55 [00:00]. Speaker labels are mapped from the transcript: Speaker 1 is Jennifer Wang (China, Alibaba, asked by name at [05:59]), Speaker 2 is Federico Luna (Timeline, [04:10]), Speaker 3 is Jessica Pasco (Holland & Barrett, [02:58]); Speakers 4, 5 and 6 are audience members. Otter heard \"Jessica Pascoe\" and \"Alibaba Timor\"; the speaker slide gives Jessica Pasco and Taobao Tmall (photo 1).\n- Otter merges some turns: Stephen Daniells's question on how consumers measure success sits at the end of Speaker 2's turn [10:38], and George's question from the International Probiotics Association sits inside Speaker 2's turn [26:25].\n- Opening reactions: Kreider found the morning's consumer findings \"really compelling\" because telling people they need something because they are getting old is \"not a very sexy message\" [00:43]; Pasco said much of what Nick Stene described resonated with Holland & Barrett [01:57].\n- Luna: Timeline was founded close to 20 years ago; immune longevity differs from an immune boost; a placebo-controlled study shows the immune system rewired \"in only four weeks\" (his words) [04:10]. China and Hong Kong are \"well ahead of us\", with clearly defined longevity categories in Hong Kong retailers [04:10].\n- Luna: Timeline put mitochondria on its packaging six years ago, when \"people thought we were absolutely insane\"; it builds on the hallmarks of ageing (mitochondria, inflammation) and four pillars: mobility and muscle, immune, brain, and skin and hair [10:38].\n- Luna: Timeline's clinical studies show improved muscle strength of \"12% versus placebo\" in four months, as he said it; skin works as \"the visual proof\" of what happens inside, which omega-3 never had [13:10].\n- Luna on regulation: muscle is easier to talk about than immune; the cancer story cannot be told; peptides show regulation shifting in the US; Timeline cites over 25 clinical studies, over 150 patents and 12 years of research before its first product [26:25]. An audience member asked how \"rewire the entire immune system in four weeks\" avoids a warning letter [25:57].\n- George from the International Probiotics Association (Otter: \"George Paraskavakos\") challenged Timeline positioning a chemically synthesised urolithin as a postbiotic; Luna answered that it is molecularly identical to the natural molecule; Speaker 5 counted 20 papers and \"14 definitions of that particular category\" [26:25] [28:45].\n- Luna on China: premium consumers \"really dig deeper\" and ask how a product works; Chinese products \"have become so good\" that a newcomer needs something outstanding [21:12]. A retailer meeting there asked why Timeline was priced as \"the most expensive supplement in the U.S.\" [23:48].\n- Wang works only on the digital channel, as a partner to Holland & Barrett and GNC in China [06:09]. Young women take collagen, which is \"by now almost food\"; the next step they search for is firmer skin [06:09] [20:02].\n- Wang, citing a McKinsey study of 2025: 94% of Chinese consumers put wellness and active ageing as the top priority, against 84% in the US and 79% in the UK [20:02].\n- Wang: Chinese brands sometimes put \"234\" (as heard) active or branded ingredients into one product; factories have called her about ingredients at \"2000 euro per kilo\" [22:45]. Before COVID she sold \"N and N from Japan\" (as heard) at 500 to 1,000 euro a can for a month; regulation in China now restricts how longevity can be communicated [23:59].\n- Kreider: GNC's preventive nutrition brand includes brain health and diabetes support products [08:44]. Qualia's senolytic product \"really took off\" for GNC on the \"zombie cells\" message, bringing cellular senescence to consumers [18:33].\n- Pasco: hallmark terms on labels are \"quite early\" for Holland & Barrett; growth is in specific ingredients [19:15].\n- The moderator said GNC was, he thought, the first retailer with a GLP-1 support category in store [15:47]. Kreider: GLP-1 gives people \"this level of optimism\" about ageing [15:59].\n- Wearables: Kreider sees value in metabolic-age tools such as a Hume Health scale as something tangible to work toward, while saying she does not know whether long-term benefit can be shown [24:43].\n- Keeping customers on preventive products: Pasco said products that fit a routine and are easy and enjoyable to take are stickier, with honest education on when a benefit will show [30:04]. Kreider gave fish oil as a long-selling product without a visible next-day effect [31:12].\n- Cross-reference: Pasco's longevity category is driven by NAD [03:47]; Nick Stene, earlier the same morning, showed NAD+ losing its price premium as it goes mainstream (euromonitor-who-is-winning-healthspan). Both are given: growth in store, a falling premium on price."
+   },
+   "takeaways": [
+    {
+     "text": "Holland & Barrett created a longevity category in store over the last six months; it is \"still quite small\" but has seen \"really significant growth\", driven primarily by NAD, with spermidine less popular [02:58] [03:47].",
+     "cites": [
+      "02:58",
+      "03:47"
+     ]
+    },
+    {
+     "text": "GNC defines healthy ageing as a target demand space and is extending its condition-specific preventive nutrition brand into standalone longevity ingredients such as NAD+; Kreider said consumers need to connect it to a benefit they can feel [08:44].",
+     "cites": [
+      "08:44"
+     ]
+    },
+    {
+     "text": "Online in China, longevity is not a search term: the trigger for men is sexual vitality and for women sagging skin, followed by joints, sleep and metabolism [06:09].",
+     "cites": [
+      "06:09"
+     ]
+    },
+    {
+     "text": "GLP-1 as a gateway: Pasco sees customers entering the category because they start a GLP-1 journey and staying after they stop the medication [14:52]; Kreider sees an opportunity for products that protect muscle on that journey [15:59].",
+     "cites": [
+      "14:52",
+      "15:59"
+     ]
+    },
+    {
+     "text": "Creatine is crossing over: Kreider said people engage with healthy ageing through creatine and active nutrition, and Pasco said creatine is \"moving from a more of a sports focus into this longevity space\" [17:19] [19:15].",
+     "cites": [
+      "17:19",
+      "19:15"
+     ]
+    },
+    {
+     "text": "Proof decides the role of an ingredient: Kreider wants hero ingredients with clinical substantiation and a tangible benefit, with buzzier ingredients as background [31:12]; Wang said Chinese shoppers ask for a branded ingredient, a patent and a clinical study, and pay the premium [22:45].",
+     "cites": [
+      "31:12",
+      "22:45"
+     ]
+    }
+   ],
+   "quotes": [
+    {
+     "text": "\"...people don't search longevity online.\" Speaker 1 (Jennifer Wang) [06:09]",
+     "cites": [
+      "06:09"
+     ]
+    },
+    {
+     "text": "\"...I do think that consumers need to be able to connect it to a benefit\" Rachel @ GNC (Rachel Kreider) [08:44]",
+     "cites": [
+      "08:44"
+     ]
+    },
+    {
+     "text": "\"...prevention on its own is very hard to sell.\" Speaker 2 (Federico Luna) [12:46]",
+     "cites": [
+      "12:46"
+     ]
+    },
+    {
+     "text": "\"...GLP-1 is quite often gateway or a catalyst to a customer thinking more about proactive healthcare\" Speaker 3 (Jessica Pasco) [14:52]",
+     "cites": [
+      "14:52"
+     ]
+    }
+   ],
+   "followups": [
+    "Rachel Kreider (GNC) and Jessica Pasco (Holland & Barrett): their healthy-ageing and longevity ranges as a home for CreaWin, and the muscle-on-GLP-1 brief [17:19] [19:15].",
+    "Jennifer Wang (Alibaba, Taobao Tmall): cross-border listing for branded ingredients with patents and studies [22:45].",
+    "Find Timeline's muscle-strength study (12% versus placebo in four months) and the McKinsey 2025 wellness study Wang cited [13:10] [20:02].",
+    "Confirm what Otter's \"BMS\" and \"N and N from Japan\" refer to, and the IPA questioner's name."
+   ],
+   "key_slides": [
+    {
+     "photo": 1,
+     "file": "panel-01.webp",
+     "caption": "The panel: Stephen Daniells (moderator) with Jessica Pasco, Rachel Kreider, Federico Luna and Jennifer Wang."
+    }
+   ],
+   "detail": [
+    {
+     "text": "The recording starts at 10:05, in the middle of the moderator's introductions; the billed time was 09:55 [00:00]. Speaker labels are mapped from the transcript: Speaker 1 is Jennifer Wang (China, Alibaba, asked by name at [05:59]), Speaker 2 is Federico Luna (Timeline, [04:10]), Speaker 3 is Jessica Pasco (Holland & Barrett, [02:58]); Speakers 4, 5 and 6 are audience members. Otter heard \"Jessica Pascoe\" and \"Alibaba Timor\"; the speaker slide gives Jessica Pasco and Taobao Tmall (photo 1).",
+     "cites": [
+      "00:00",
+      "05:59",
+      "04:10",
+      "02:58",
+      "photo 1"
+     ]
+    },
+    {
+     "text": "Otter merges some turns: Stephen Daniells's question on how consumers measure success sits at the end of Speaker 2's turn [10:38], and George's question from the International Probiotics Association sits inside Speaker 2's turn [26:25].",
+     "cites": [
+      "10:38",
+      "26:25"
+     ]
+    },
+    {
+     "text": "Opening reactions: Kreider found the morning's consumer findings \"really compelling\" because telling people they need something because they are getting old is \"not a very sexy message\" [00:43]; Pasco said much of what Nick Stene described resonated with Holland & Barrett [01:57].",
+     "cites": [
+      "00:43",
+      "01:57"
+     ]
+    },
+    {
+     "text": "Luna: Timeline was founded close to 20 years ago; immune longevity differs from an immune boost; a placebo-controlled study shows the immune system rewired \"in only four weeks\" (his words) [04:10]. China and Hong Kong are \"well ahead of us\", with clearly defined longevity categories in Hong Kong retailers [04:10].",
+     "cites": [
+      "04:10",
+      "04:10"
+     ]
+    },
+    {
+     "text": "Luna: Timeline put mitochondria on its packaging six years ago, when \"people thought we were absolutely insane\"; it builds on the hallmarks of ageing (mitochondria, inflammation) and four pillars: mobility and muscle, immune, brain, and skin and hair [10:38].",
+     "cites": [
+      "10:38"
+     ]
+    },
+    {
+     "text": "Luna: Timeline's clinical studies show improved muscle strength of \"12% versus placebo\" in four months, as he said it; skin works as \"the visual proof\" of what happens inside, which omega-3 never had [13:10].",
+     "cites": [
+      "13:10"
+     ]
+    },
+    {
+     "text": "Luna on regulation: muscle is easier to talk about than immune; the cancer story cannot be told; peptides show regulation shifting in the US; Timeline cites over 25 clinical studies, over 150 patents and 12 years of research before its first product [26:25]. An audience member asked how \"rewire the entire immune system in four weeks\" avoids a warning letter [25:57].",
+     "cites": [
+      "26:25",
+      "25:57"
+     ]
+    },
+    {
+     "text": "George from the International Probiotics Association (Otter: \"George Paraskavakos\") challenged Timeline positioning a chemically synthesised urolithin as a postbiotic; Luna answered that it is molecularly identical to the natural molecule; Speaker 5 counted 20 papers and \"14 definitions of that particular category\" [26:25] [28:45].",
+     "cites": [
+      "26:25",
+      "28:45"
+     ]
+    },
+    {
+     "text": "Luna on China: premium consumers \"really dig deeper\" and ask how a product works; Chinese products \"have become so good\" that a newcomer needs something outstanding [21:12]. A retailer meeting there asked why Timeline was priced as \"the most expensive supplement in the U.S.\" [23:48].",
+     "cites": [
+      "21:12",
+      "23:48"
+     ]
+    },
+    {
+     "text": "Wang works only on the digital channel, as a partner to Holland & Barrett and GNC in China [06:09]. Young women take collagen, which is \"by now almost food\"; the next step they search for is firmer skin [06:09] [20:02].",
+     "cites": [
+      "06:09",
+      "06:09",
+      "20:02"
+     ]
+    },
+    {
+     "text": "Wang, citing a McKinsey study of 2025: 94% of Chinese consumers put wellness and active ageing as the top priority, against 84% in the US and 79% in the UK [20:02].",
+     "cites": [
+      "20:02"
+     ]
+    },
+    {
+     "text": "Wang: Chinese brands sometimes put \"234\" (as heard) active or branded ingredients into one product; factories have called her about ingredients at \"2000 euro per kilo\" [22:45]. Before COVID she sold \"N and N from Japan\" (as heard) at 500 to 1,000 euro a can for a month; regulation in China now restricts how longevity can be communicated [23:59].",
+     "cites": [
+      "22:45",
+      "23:59"
+     ]
+    },
+    {
+     "text": "Kreider: GNC's preventive nutrition brand includes brain health and diabetes support products [08:44]. Qualia's senolytic product \"really took off\" for GNC on the \"zombie cells\" message, bringing cellular senescence to consumers [18:33].",
+     "cites": [
+      "08:44",
+      "18:33"
+     ]
+    },
+    {
+     "text": "Pasco: hallmark terms on labels are \"quite early\" for Holland & Barrett; growth is in specific ingredients [19:15].",
+     "cites": [
+      "19:15"
+     ]
+    },
+    {
+     "text": "The moderator said GNC was, he thought, the first retailer with a GLP-1 support category in store [15:47]. Kreider: GLP-1 gives people \"this level of optimism\" about ageing [15:59].",
+     "cites": [
+      "15:47",
+      "15:59"
+     ]
+    },
+    {
+     "text": "Wearables: Kreider sees value in metabolic-age tools such as a Hume Health scale as something tangible to work toward, while saying she does not know whether long-term benefit can be shown [24:43].",
+     "cites": [
+      "24:43"
+     ]
+    },
+    {
+     "text": "Keeping customers on preventive products: Pasco said products that fit a routine and are easy and enjoyable to take are stickier, with honest education on when a benefit will show [30:04]. Kreider gave fish oil as a long-selling product without a visible next-day effect [31:12].",
+     "cites": [
+      "30:04",
+      "31:12"
+     ]
+    },
+    {
+     "text": "Cross-reference: Pasco's longevity category is driven by NAD [03:47]; Nick Stene, earlier the same morning, showed NAD+ losing its price premium as it goes mainstream (euromonitor-who-is-winning-healthspan). Both are given: growth in store, a falling premium on price.",
+     "cites": [
+      "03:47"
+     ]
+    }
+   ],
    "files": [
+    {
+     "name": "otter-summary.md",
+     "kind": "text",
+     "pages": null
+    },
     {
      "name": "panel-01.webp",
      "kind": "photo",
@@ -730,6 +961,242 @@
      "name": "panel-02.webp",
      "kind": "photo",
      "pages": 1
+    }
+   ]
+  },
+  {
+   "id": "jens-walter-microbiome-ageing",
+   "event": "nutra-healthspan-summit-2026",
+   "title": "Jens Walter: the microbiome and healthy ageing",
+   "date": "2026-11-10",
+   "start": "10:38",
+   "end": "11:04",
+   "format": "talk",
+   "track": "",
+   "speakers": [
+    {
+     "name": "Jens Walter",
+     "organisation": "University College Cork, APC Microbiome Ireland",
+     "role": "Professor (as introduced); co-founder of Symbiotic Health"
+    }
+   ],
+   "themes": [
+    "probiotic-category-evolution",
+    "longevity-positioning"
+   ],
+   "ingredients": [
+    "bifidobacteria",
+    "Bifidobacterium adolescentis (named in Otter's summary; the transcript heard \"aldolithendis\", \"aldolcenters\")",
+    "Bifidobacterium longum (Otter heard \"longunga\")",
+    "dietary fibre",
+    "probiotics",
+    "synbiotics (Otter heard \"symbiotic\")",
+    "postbiotics",
+    "human milk oligosaccharides (Otter heard \"HFOs\")",
+    "protein (high-protein diets, animal studies)"
+   ],
+   "relevance": "medium",
+   "status": "summarised",
+   "summary_by": "Claude",
+   "summary_date": "2026-11-10",
+   "reviewed_by": "",
+   "reviewed_date": "",
+   "attended_by": [
+    "Nathan"
+   ],
+   "links": {
+    "otter": "https://otter.ai/u/qWvuGmyhz5ZKksIa9DnOMpPD4dI"
+   },
+   "to_check": "Billed title, his affiliation and role, and the track are not confirmed (the programme is not published yet), nor the spelling of his company (Otter: \"Symbiotic Health\") or his institute (Otter: \"APC Microbiome Island\").",
+   "added": "2026-11-10",
+   "added_by": "Claude (from Nathan's Otter recording, 10 Nov 2026)",
+   "has_transcript": true,
+   "transcript_words": 4245,
+   "has_notes": false,
+   "has_summary": true,
+   "summary": {
+    "Summary": "Professor Jens Walter of University College Cork and APC Microbiome Ireland, a co-founder of Symbiotic Health, asked whether the gut microbiome shapes how we age, and whether diet or supplements that target it could extend healthspan.\n\nHe started with animal studies. Germ-free rodents live longer than normal ones, but with calorie restriction the microbiome becomes beneficial, so its effect depends on diet. In humans, large observational studies link healthy eating patterns to healthy ageing; one UK study suggests a healthy diet can add about ten years of healthier life if adopted in your 40s and 50s.\n\nHis own trial in Cell put students on a high-fibre, non-industrialised diet for three weeks. Bifidobacteria rose, inflammatory bacteria fell, and LDL cholesterol dropped by 17%. Older people rarely change their whole diet, so he sees room for alternatives: Bifidobacterium adolescentis, which falls with age and is linked with healthy ageing, paired with fibre.\n\nHe kept his hedges. Causality is clearly established in animals only, there is no direct evidence yet that the microbiome mediates diet's effects in humans, and clinical trials are needed. His company's trials in older people have not reported. In questions he doubted that postbiotics can change gut ecology.",
+    "Key takeaways": "- In animal studies, rodents kept without a microbiome live almost ten months longer than normal mice, which live about 25 months; with calorie restriction the microbiome becomes beneficial and those animals live longest [00:24].\n- Observational studies in humans link healthy dietary patterns to healthy ageing; one UK study found a healthy diet can extend healthier lifespan by ten years, adopted in the 40s and 50s, and \"probably\" five to six years if adopted in the 70s [00:24].\n- His Cell trial of a non-industrialised, higher-fibre diet in students over three weeks raised bifidobacteria and indole-3-propionic acid, lowered faecal pH and secondary bile acids, cut LDL cholesterol by 17% and reduced blood glucose and CRP [00:24].\n- Bifidobacterium adolescentis falls with age and is associated with healthy ageing (centenarians in Sardinia, slower epigenetic ageing in about 123 people); in animal studies it improved healthspan and lifespan; human trials in older people by Symbiotic Health are ongoing, with no data yet [00:24].\n- His conclusion: the microbiome is a plausible contributor to healthy ageing, established in animal models; causality is hard to establish in humans and clinical trials are needed [00:24].\n- He is doubtful that a postbiotic can change gut ecology or raise short-chain fatty acids, prefers probiotic bifidobacteria with fibre, and sees a possible role for postbiotics in a direct immune effect [22:01] [22:52].",
+    "For Vita Actives": "- He sees the next healthy-ageing supplements as probiotic bifidobacteria combined with fibre, because older people rarely change their whole diet [00:24]. My reading: fibre for healthy ageing may be pitched as a partner to probiotics, within what the evidence supports, which he says is not yet proven in humans.\n- He cited animal research in which high-protein diets shorten lifespan, and said he is not sure how far it translates to humans [00:24]. My reading: brands selling protein for healthy ageing may hear this; our answer should rest on human muscle evidence.\n- Postbiotics divide the speakers: Nick Stene of Euromonitor sees them leading the ingredients queuing behind NAD+, with share up 48% and one of the strongest price premiums (euromonitor-who-is-winning-healthspan), while Walter doubts they can change gut ecology [22:01]. Both views are given.\n- Relevance medium: healthy-ageing science around fibre and probiotics; protein comes up only through animal studies.",
+    "Quotes": "- \"...the microbiome is a plausible contributor to healthy aging in animal model.\" Speaker 1 (Jens Walter) [00:24]\n- \"...we don't really have any direct evidence that the microbiome is mediating these these diet effects.\" Speaker 1 (Jens Walter) [00:24]\n- \"...by eating a healthy diet, you can extend your healthier lifespan by 10 years.\" Speaker 1 (Jens Walter) [00:24]\n- \"...I'm not sure a postbiotic can achieve that.\" Speaker 1 (Jens Walter) [22:52]",
+    "Follow-ups": "- Jens Walter: the Symbiotic Health trials in older people, when they report, and its B. adolescentis and fibre combination [00:24].\n- Find his Cell paper on the non-industrialised diet and the UK study on ten years of healthier life [00:24].\n- Confirm his billed title and affiliation, and the spelling of Symbiotic Health, once the programme is published.",
+    "Key slides": "",
+    "Detail": "- The talk is one Otter turn from [00:24] to the questions at [20:46]. Stephen Daniells introduced him as \"Professor Jens Walder\" of \"University College Corp\" and co-founder of \"Symbiotic Health\" [00:00]; he described himself as from \"APC Microbiome Island\" and University College Cork [00:24]. Otter's labels: Speaker 1 is Jens Walter; Speakers 2 and 3 are questioners. At [23:31] and [23:38] the Speaker 1 label also carries George's question before Walter's answer.\n- Disclosures: co-founder of Symbiotic Health; funding and consultancy from companies working on probiotics and prebiotics [00:24].\n- Paul O'Toole's work (a Nature paper of 2013): with age, pathogens rise and healthy bacteria fall, with links to inflammation and lower barrier function; the microbiome declines further when older people move into nursing homes, probably linked to diet [00:24].\n- Bifidobacteria make a dramatic dive with ageing; observational research cannot establish cause and effect [00:24].\n- Animal studies: the germ-free lifespan finding has been repeated in mice, rats and other species; \"in a lot of animal models, high protein diets actually shorten lifespan. Not sure to what degree this then translates to human.\" [00:24]\n- A Nature Medicine paper of large cohorts: healthy dietary patterns link to healthy ageing; an unhealthy vegetarian pattern does the least good; the alternative healthy eating index (vegetables, fruit, whole grains, nuts, legumes, omega-3, little industrialised and high-sugar food) has the most convincing link; small amounts of wine are linked to healthier ageing [00:24].\n- A systematic review published a week or two before the talk links Mediterranean diet adherence, partly from intervention studies, to healthy ageing outcomes [00:24].\n- O'Toole's Mediterranean diet study in 612 older people: lower levels of bacteria associated with frailty and cognition, links to lower inflammatory ageing, higher short-chain fatty acids and fewer secondary bile acids, which he said drive colon cancer [00:24].\n- His Cell trial, two years ago: a non-industrialised diet close to Mediterranean, slightly higher in fibre and lower in saturated fat, in students, not older people; bifidobacteria including B. adolescentis and B. longum rose; inflammatory bacteria fell; proteolytic fermentation fell; indole-3-propionic acid, a neuroprotective antioxidant with consistent benefits \"specifically in mice\", rose; participants lost weight [00:24]. The diet gives 45 grams of fibre a day, and the pH drop is \"clearly fiber fermentation\" [23:38].\n- B. adolescentis: enriched in healthy people (Symbiotic Health's data), dominant in adults and reduced in ageing; a keystone species that amplifies fibre's effects; the oldest living person at the time, aged 116, had almost 50% bifidobacteria (\"an N of one\"); it produces GABA, improved intestinal barrier function in his group's paper, and in a Nature Aging paper regulated catalase activity and improved healthspan and lifespan \"in multiple animal species\" [00:24].\n- Lumina's earlier talk came up: he recalled that \"40% of men now in the 40s think healthy eating is actually important\" [00:24]. Ewa Hudson's talk as recorded says healthy eating \"really over-indexes\" for men ten years after their 30s, without a percentage (lumina-new-longevity-consumer). Both are given.\n- Human milk oligosaccharides: studies show they can raise bifidobacteria in older people, but \"the jury is completely out\" on stimulating infant-associated species and on clinical benefit [21:22].\n- Short-chain fatty acids are \"very very hard to increase\", even with extreme diet shifts [22:52].\n- Causality: he has been on three or four papers on it; transplant models and C. elegans have limits; causal inference in humans \"comes with its own bag of limitations\" [23:38].\n- The recipes of the non-industrialised diet are free to download [00:24]."
+   },
+   "takeaways": [
+    {
+     "text": "In animal studies, rodents kept without a microbiome live almost ten months longer than normal mice, which live about 25 months; with calorie restriction the microbiome becomes beneficial and those animals live longest [00:24].",
+     "cites": [
+      "00:24"
+     ]
+    },
+    {
+     "text": "Observational studies in humans link healthy dietary patterns to healthy ageing; one UK study found a healthy diet can extend healthier lifespan by ten years, adopted in the 40s and 50s, and \"probably\" five to six years if adopted in the 70s [00:24].",
+     "cites": [
+      "00:24"
+     ]
+    },
+    {
+     "text": "His Cell trial of a non-industrialised, higher-fibre diet in students over three weeks raised bifidobacteria and indole-3-propionic acid, lowered faecal pH and secondary bile acids, cut LDL cholesterol by 17% and reduced blood glucose and CRP [00:24].",
+     "cites": [
+      "00:24"
+     ]
+    },
+    {
+     "text": "Bifidobacterium adolescentis falls with age and is associated with healthy ageing (centenarians in Sardinia, slower epigenetic ageing in about 123 people); in animal studies it improved healthspan and lifespan; human trials in older people by Symbiotic Health are ongoing, with no data yet [00:24].",
+     "cites": [
+      "00:24"
+     ]
+    },
+    {
+     "text": "His conclusion: the microbiome is a plausible contributor to healthy ageing, established in animal models; causality is hard to establish in humans and clinical trials are needed [00:24].",
+     "cites": [
+      "00:24"
+     ]
+    },
+    {
+     "text": "He is doubtful that a postbiotic can change gut ecology or raise short-chain fatty acids, prefers probiotic bifidobacteria with fibre, and sees a possible role for postbiotics in a direct immune effect [22:01] [22:52].",
+     "cites": [
+      "22:01",
+      "22:52"
+     ]
+    }
+   ],
+   "quotes": [
+    {
+     "text": "\"...the microbiome is a plausible contributor to healthy aging in animal model.\" Speaker 1 (Jens Walter) [00:24]",
+     "cites": [
+      "00:24"
+     ]
+    },
+    {
+     "text": "\"...we don't really have any direct evidence that the microbiome is mediating these these diet effects.\" Speaker 1 (Jens Walter) [00:24]",
+     "cites": [
+      "00:24"
+     ]
+    },
+    {
+     "text": "\"...by eating a healthy diet, you can extend your healthier lifespan by 10 years.\" Speaker 1 (Jens Walter) [00:24]",
+     "cites": [
+      "00:24"
+     ]
+    },
+    {
+     "text": "\"...I'm not sure a postbiotic can achieve that.\" Speaker 1 (Jens Walter) [22:52]",
+     "cites": [
+      "22:52"
+     ]
+    }
+   ],
+   "followups": [
+    "Jens Walter: the Symbiotic Health trials in older people, when they report, and its B. adolescentis and fibre combination [00:24].",
+    "Find his Cell paper on the non-industrialised diet and the UK study on ten years of healthier life [00:24].",
+    "Confirm his billed title and affiliation, and the spelling of Symbiotic Health, once the programme is published."
+   ],
+   "key_slides": [],
+   "detail": [
+    {
+     "text": "The talk is one Otter turn from [00:24] to the questions at [20:46]. Stephen Daniells introduced him as \"Professor Jens Walder\" of \"University College Corp\" and co-founder of \"Symbiotic Health\" [00:00]; he described himself as from \"APC Microbiome Island\" and University College Cork [00:24]. Otter's labels: Speaker 1 is Jens Walter; Speakers 2 and 3 are questioners. At [23:31] and [23:38] the Speaker 1 label also carries George's question before Walter's answer.",
+     "cites": [
+      "00:24",
+      "20:46",
+      "00:00",
+      "00:24",
+      "23:31",
+      "23:38"
+     ]
+    },
+    {
+     "text": "Disclosures: co-founder of Symbiotic Health; funding and consultancy from companies working on probiotics and prebiotics [00:24].",
+     "cites": [
+      "00:24"
+     ]
+    },
+    {
+     "text": "Paul O'Toole's work (a Nature paper of 2013): with age, pathogens rise and healthy bacteria fall, with links to inflammation and lower barrier function; the microbiome declines further when older people move into nursing homes, probably linked to diet [00:24].",
+     "cites": [
+      "00:24"
+     ]
+    },
+    {
+     "text": "Bifidobacteria make a dramatic dive with ageing; observational research cannot establish cause and effect [00:24].",
+     "cites": [
+      "00:24"
+     ]
+    },
+    {
+     "text": "Animal studies: the germ-free lifespan finding has been repeated in mice, rats and other species; \"in a lot of animal models, high protein diets actually shorten lifespan. Not sure to what degree this then translates to human.\" [00:24]",
+     "cites": [
+      "00:24"
+     ]
+    },
+    {
+     "text": "A Nature Medicine paper of large cohorts: healthy dietary patterns link to healthy ageing; an unhealthy vegetarian pattern does the least good; the alternative healthy eating index (vegetables, fruit, whole grains, nuts, legumes, omega-3, little industrialised and high-sugar food) has the most convincing link; small amounts of wine are linked to healthier ageing [00:24].",
+     "cites": [
+      "00:24"
+     ]
+    },
+    {
+     "text": "A systematic review published a week or two before the talk links Mediterranean diet adherence, partly from intervention studies, to healthy ageing outcomes [00:24].",
+     "cites": [
+      "00:24"
+     ]
+    },
+    {
+     "text": "O'Toole's Mediterranean diet study in 612 older people: lower levels of bacteria associated with frailty and cognition, links to lower inflammatory ageing, higher short-chain fatty acids and fewer secondary bile acids, which he said drive colon cancer [00:24].",
+     "cites": [
+      "00:24"
+     ]
+    },
+    {
+     "text": "His Cell trial, two years ago: a non-industrialised diet close to Mediterranean, slightly higher in fibre and lower in saturated fat, in students, not older people; bifidobacteria including B. adolescentis and B. longum rose; inflammatory bacteria fell; proteolytic fermentation fell; indole-3-propionic acid, a neuroprotective antioxidant with consistent benefits \"specifically in mice\", rose; participants lost weight [00:24]. The diet gives 45 grams of fibre a day, and the pH drop is \"clearly fiber fermentation\" [23:38].",
+     "cites": [
+      "00:24",
+      "23:38"
+     ]
+    },
+    {
+     "text": "B. adolescentis: enriched in healthy people (Symbiotic Health's data), dominant in adults and reduced in ageing; a keystone species that amplifies fibre's effects; the oldest living person at the time, aged 116, had almost 50% bifidobacteria (\"an N of one\"); it produces GABA, improved intestinal barrier function in his group's paper, and in a Nature Aging paper regulated catalase activity and improved healthspan and lifespan \"in multiple animal species\" [00:24].",
+     "cites": [
+      "00:24"
+     ]
+    },
+    {
+     "text": "Lumina's earlier talk came up: he recalled that \"40% of men now in the 40s think healthy eating is actually important\" [00:24]. Ewa Hudson's talk as recorded says healthy eating \"really over-indexes\" for men ten years after their 30s, without a percentage (lumina-new-longevity-consumer). Both are given.",
+     "cites": [
+      "00:24"
+     ]
+    },
+    {
+     "text": "Human milk oligosaccharides: studies show they can raise bifidobacteria in older people, but \"the jury is completely out\" on stimulating infant-associated species and on clinical benefit [21:22].",
+     "cites": [
+      "21:22"
+     ]
+    },
+    {
+     "text": "Short-chain fatty acids are \"very very hard to increase\", even with extreme diet shifts [22:52].",
+     "cites": [
+      "22:52"
+     ]
+    },
+    {
+     "text": "Causality: he has been on three or four papers on it; transplant models and C. elegans have limits; causal inference in humans \"comes with its own bag of limitations\" [23:38].",
+     "cites": [
+      "23:38"
+     ]
+    },
+    {
+     "text": "The recipes of the non-industrialised diet are free to download [00:24].",
+     "cites": [
+      "00:24"
+     ]
+    }
+   ],
+   "files": [
+    {
+     "name": "otter-summary.md",
+     "kind": "text",
+     "pages": null
     }
    ]
   },
