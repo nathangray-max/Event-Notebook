@@ -24,8 +24,10 @@ def test_fixture_is_clean_and_loads():
     assert [s["id"] for s in e["sessions"]] == ["clear-protein-panel", "creatine-beyond-muscle"]  # folder order; the build sorts by time
     s = [x for x in e["sessions"] if x["id"] == "creatine-beyond-muscle"][0]
     assert "[12:40]" in s["transcript"] and s["notes"].startswith("Nathan's notes")
-    assert list(s["summary"])[1:] == store.SUMMARY_HEADINGS
-    assert [f["name"] for f in s["files"]] == ["deck.pptx", "handout.pdf"]
+    assert [h for h in list(s["summary"])[1:] if h in store.SUMMARY_HEADINGS] == store.SUMMARY_HEADINGS
+    assert "Key slides" in s["summary"] and "Detail" in s["summary"]
+    assert [f["name"] for f in s["files"]] == ["deck.pptx", "handout.pdf", "photo-01.webp"]
+    assert store.photo_index(s["files"]) == {1: "photo-01.webp"}
     assert s["files"][0]["pages"] == 3 and "[notes]" in s["files"][0]["text"]
     assert s["files"][1]["pages"] == 2 and "Handout page two" in s["files"][1]["text"]
     assert list(e["report"])[1:] == store.REPORT_HEADINGS
@@ -45,7 +47,7 @@ def test_sections_and_bullets():
 
 def test_summary_line():
     assert store.summary(store.load(FIXTURE)) == (
-        "1 events (1 reported), 2 sessions (1 captured, 0 summarised, 1 reviewed), 2 files, 1 transcripts, 3 themes, 1 things to check")
+        "1 events (1 reported), 2 sessions (1 captured, 0 summarised, 1 reviewed), 3 files, 1 transcripts, 3 themes, 1 things to check")
 
 
 def test_unknown_theme_and_bad_values(fixture_copy):
@@ -133,3 +135,24 @@ def test_broken_yaml_is_one_problem(fixture_copy):
     (fixture_copy / EV / "event.yaml").write_text("id: [unclosed")
     probs = store.problems(fixture_copy)
     assert len(probs) == 1 and probs[0].startswith("cannot load")
+
+
+def test_summary_format(fixture_copy):
+    p = fixture_copy / SESS / "summary.md"
+    base = p.read_text()
+    # a Summary that is a list of cited figures, not prose
+    p.write_text(base.replace("not for lifting.", "not for lifting [12:40]. " + "word " * 230))
+    probs = store.problems(fixture_copy)
+    assert any("Summary carries cites" in x for x in probs)
+    assert any("keep it under 220" in x for x in probs)
+    # too many takeaways
+    p.write_text(base.replace("## Key slides", "- a\n- b\n- c\n\n## Key slides"))
+    assert any("7 key takeaways" in x for x in store.problems(fixture_copy))
+    # a key slide that is not one of the session's photos, and one without a photo number
+    p.write_text(base.replace("- (photo 1) The 2024 trial", "- (photo 9) A slide we do not have\n- The 2024 trial"))
+    probs = store.problems(fixture_copy)
+    assert any("key slide photo 9 is not among" in x for x in probs)
+    assert any("must start '(photo N)'" in x for x in probs)
+    # Key slides and Detail are optional
+    p.write_text(base.split("## Key slides")[0] + "## For Vita Actives" + base.split("## For Vita Actives")[1].split("## Detail")[0] + "## Follow-ups" + base.split("## Follow-ups")[1])
+    assert store.problems(fixture_copy) == []

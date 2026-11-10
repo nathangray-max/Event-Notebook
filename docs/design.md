@@ -46,7 +46,7 @@ from Otter, Circleback or a phone recording is converted to markdown (speaker, t
 The `<name>.txt` beside a presentation is pulled out by `python -m confnotes extract`, slide by slide, and is regenerated
 rather than edited.
 
-**Photos of slides** go in `files/` too, as reduced copies (`python -m confnotes photos`, WebP at 1600 px: the full-size
+**Photos of slides** go in `files/` too, as reduced copies (published beside the dashboard as `slides/<event>/<session>/<file>`) (`python -m confnotes photos`, WebP at 1600 px: the full-size
 original stays on the phone). There is no OCR here: Claude reads each photo in the session and writes `<name>.txt` beside it,
 one `--- photo N ---` block per photo, headed "transcribed by Claude from the photo", so a takeaway can cite `(photo 2)`.
 
@@ -81,16 +81,23 @@ reading, and `summary.md` says so ("my reading").
 
 ### Summary (`summary.md`)
 
-Fixed headings, so the build can read each part:
+A summary reads as a summary: someone who reads only its first section knows what the talk said. Everything else is
+there to check it or go deeper (Nathan, 10 Nov 2026). Headings, in order; Key slides and Detail are optional:
 
 ```
 # <session title>
-## Summary            three to six sentences: what was argued, with the evidence the speaker gave
-## Key takeaways      bullets; each ends with its source: [12:40], (slide 7), (notes)
-## For Vita Actives   what it means for our range, customers or pitches; "my reading" where it is a reading
-## Quotes             verbatim, with speaker and time or slide
-## Follow-ups         people to contact, papers to find, questions left open (these become Cortex tasks only when Nathan says so)
+## Summary            2-4 short paragraphs of prose, under 220 words: who spoke, the question, the argument in the
+                      speaker's order, the conclusion. Two or three figures at most. No cites.
+## Key takeaways      3-6 bullets, one finding each; each ends with its source: [12:40], (photo 7), (slide 7), (notes)
+## Key slides         up to 4 photos that carry the argument: "- (photo 7) one-line caption" (shown as images)
+## For Vita Actives   2-5 bullets on what it means for our range, customers or pitches; "my reading" where it is one
+## Quotes             2-4, verbatim, exact substrings of the transcript or a slide's text
+## Detail             every other figure and point worth keeping, as cited bullets (folded on the dashboard)
+## Follow-ups         people to contact, papers to find, questions left open (Cortex tasks only when Nathan says so)
 ```
+
+`python -m confnotes check` enforces the shape: Summary under 220 words with no cites, at most six takeaways, at most four
+key slides, each naming one of the session's photos. A photo cite anywhere opens the photo on the dashboard.
 
 ### Themes
 

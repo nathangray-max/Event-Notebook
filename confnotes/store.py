@@ -34,8 +34,16 @@ THEME_REQUIRED = ["id", "name"]
 
 # summary.md headings, in order; the build reads each part by heading
 SUMMARY_HEADINGS = ["Summary", "Key takeaways", "For Vita Actives", "Quotes", "Follow-ups"]
+# optional headings: slides that carry the argument, and everything else worth keeping (Nathan, 10 Nov 2026)
+OPTIONAL_SUMMARY_HEADINGS = ["Key slides", "Detail"]
+SUMMARY_MAX_WORDS = 220        # the Summary section reads as prose, not a list of figures
+TAKEAWAYS_MAX = 6
+KEY_SLIDES_MAX = 4
+CITE_IN_PROSE = re.compile(r"\[\d{1,2}:\d{2}(?::\d{2})?\]|\((?:slide|page|section|photo) \d+\)|\((?:notes|otter)\)")
+KEY_SLIDE_RE = re.compile(r"^\(photo (\d+)\)\s*(.+)$")
 REPORT_HEADINGS = ["In brief", "Themes", "Sessions that mattered", "People met", "For Vita Actives", "Follow-ups", "Sources"]
 
+PHOTO_MARK = re.compile(r"^--- photo (\d+) ---$", re.M)
 PAGE_MARK = re.compile(r"^--- (?:slide|page|section|photo) \d+ ---$", re.M)
 FILE_KINDS = {".pdf": "pdf", ".pptx": "pptx", ".docx": "docx", ".txt": "text", ".md": "text",
               ".jpg": "photo", ".jpeg": "photo", ".png": "photo", ".webp": "photo", ".heic": "photo"}
@@ -90,13 +98,49 @@ def _files(folder: Path) -> List[Dict[str, Any]]:
         if p.suffix.lower() == ".txt" and p.name[:-4] in names:
             continue  # the extracted text of another file: read with that file
         kind = FILE_KINDS.get(p.suffix.lower(), "other")
-        rec: Dict[str, Any] = {"name": p.name, "kind": kind, "bytes": p.stat().st_size, "text": None, "pages": None}
+        rec: Dict[str, Any] = {"name": p.name, "kind": kind, "bytes": p.stat().st_size, "text": None, "pages": None, "photos": []}
         if kind == "text":
             rec["text"] = _text(p)
         elif (folder / (p.name + ".txt")).exists():
             rec["text"] = _text(folder / (p.name + ".txt"))
             rec["pages"] = len(PAGE_MARK.findall(rec["text"])) or None
+            if kind == "photo":
+                rec["photos"] = [int(n) for n in PHOTO_MARK.findall(rec["text"])]
         out.append(rec)
+    return out
+
+
+def photo_index(files: List[Dict[str, Any]]) -> Dict[int, str]:
+    """Photo number -> file name, from the `--- photo N ---` marker in each photo's transcribed text."""
+    out: Dict[int, str] = {}
+    for f in files:
+        for n in f.get("photos") or []:
+            out.setdefault(n, f["name"])
+    return out
+
+
+def summary_problems(where: str, sections: Dict[str, str], photos: Dict[int, str]) -> List[str]:
+    """The summary format (docs/design.md, "Summary"): prose Summary, few takeaways, key slides that exist."""
+    out: List[str] = []
+    summ = sections.get("Summary", "")
+    words = len(summ.split())
+    if words > SUMMARY_MAX_WORDS:
+        out.append(f"{where}/summary.md: Summary is {words} words; keep it under {SUMMARY_MAX_WORDS} and move figures to Detail")
+    if CITE_IN_PROSE.search(summ):
+        out.append(f"{where}/summary.md: Summary carries cites; it is prose, the cites belong in Key takeaways and Detail")
+    n = len(bullets(sections.get("Key takeaways", "")))
+    if n > TAKEAWAYS_MAX:
+        out.append(f"{where}/summary.md: {n} key takeaways; keep at most {TAKEAWAYS_MAX} and move the rest to Detail")
+    if "Key slides" in sections:
+        slides = bullets(sections["Key slides"])
+        if len(slides) > KEY_SLIDES_MAX:
+            out.append(f"{where}/summary.md: {len(slides)} key slides; keep at most {KEY_SLIDES_MAX}")
+        for b in slides:
+            m = KEY_SLIDE_RE.match(b)
+            if not m:
+                out.append(f"{where}/summary.md: key slide '{b[:40]}' must start '(photo N)' then a caption")
+            elif int(m.group(1)) not in photos:
+                out.append(f"{where}/summary.md: key slide photo {m.group(1)} is not among this session's photos")
     return out
 
 
@@ -247,6 +291,7 @@ def problems(root: str | Path = DATA) -> List[str]:
                     out.append(f"{sw}/summary.md: missing headings {missing}")
                 if not s["summary_md"].lstrip().startswith("# "):
                     out.append(f"{sw}/summary.md: must start with '# <title>'")
+                out.extend(summary_problems(sw, s["summary"], photo_index(s["files"])))
                 if s.get("status") == "captured":
                     out.append(f"{sw}: has a summary but status is 'captured'")
                 if not s.get("summary_by"):

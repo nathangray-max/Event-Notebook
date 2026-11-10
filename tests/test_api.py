@@ -22,7 +22,9 @@ def test_contracts(tmp_path):
     s = se["items"][0]
     assert s["event"] == "example-summit-2025" and s["speakers"][0]["name"] == "Dr A. Example"
     assert "transcript" not in s and s["has_transcript"] and s["transcript_words"] > 0
-    assert s["files"] == [{"name": "deck.pptx", "kind": "pptx", "pages": 3}, {"name": "handout.pdf", "kind": "pdf", "pages": 2}]
+    assert s["files"] == [{"name": "deck.pptx", "kind": "pptx", "pages": 3}, {"name": "handout.pdf", "kind": "pdf", "pages": 2},
+                          {"name": "photo-01.webp", "kind": "photo", "pages": 1}]
+    assert s["key_slides"][0]["file"] == "photo-01.webp" and len(s["detail"]) == 2
     assert s["summary"]["Key takeaways"] and se["items"][1]["summary"] is None
     tk = json.loads((out / "takeaways.json").read_text())
     assert tk["count"] == 4

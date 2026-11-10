@@ -201,3 +201,21 @@ mark { background: var(--warn-wash); color: inherit; padding: 0 1px; border-radi
 .brief { background: var(--accent-wash); border: 1px solid transparent; border-radius: var(--r-panel); padding: 14px 18px; }
 .brief h3 { color: var(--accent); margin-bottom: 6px; }
 .ing-list { display: flex; flex-wrap: wrap; gap: 6px; }
+
+/* slide photos: key slides, cites that open a photo, the photo beside its text */
+button.cite { border: 0; cursor: pointer; font: inherit; font-family: var(--font-mono); font-size: var(--fs-12); }
+button.cite.photo { text-decoration: underline; text-underline-offset: 2px; }
+.slides { display: grid; gap: 12px; grid-template-columns: repeat(auto-fill, minmax(min(100%, 320px), 1fr)); }
+.keyslide { margin: 0; min-width: 0; }
+.keyslide figcaption { font-size: var(--fs-13); color: var(--ink-2); margin-top: 6px; }
+.slide-open { display: block; width: 100%; padding: 0; border: 1px solid var(--line); border-radius: var(--r-ctl); background: var(--surface-2); cursor: zoom-in; overflow: hidden; }
+.slide-open img, .photo-orig img { display: block; width: 100%; height: auto; }
+.photo-orig { display: grid; gap: 12px; grid-template-columns: minmax(0, 1fr); }
+@media (min-width: 800px) { .photo-orig { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); align-items: start; } }
+.photo-orig img { border: 1px solid var(--line); border-radius: var(--r-ctl); }
+.noimg { padding: 16px; font-size: var(--fs-13); color: var(--ink-3); background: var(--surface-2); border-radius: var(--r-ctl); }
+.lightbox { position: fixed; inset: 0; z-index: 50; background: rgba(0, 0, 0, .72); display: flex; align-items: center; justify-content: center; padding: 16px; }
+.lightbox-inner { background: var(--surface); border-radius: var(--r-panel); max-width: min(1100px, 100%); max-height: 100%; overflow: auto; padding: 12px; display: flex; flex-direction: column; gap: 10px; }
+.lightbox-inner img { width: 100%; height: auto; border-radius: var(--r-ctl); }
+.lightbox-head { display: flex; justify-content: space-between; align-items: center; gap: 12px; }
+details.detail summary { font-family: var(--font-display); }

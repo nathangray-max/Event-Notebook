@@ -25,10 +25,15 @@ from confnotes import build
 build.build(Path(${JSON.stringify(path.join(root, "data/events.json"))}), Path("tests/fixture"), stamp={"commit": "fixture", "date": "2025-03-06", "uncommitted_changes": False})
 `], { cwd: repo, stdio: "inherit" });
 
-const types = { ".html": "text/html", ".js": "text/javascript", ".css": "text/css", ".json": "application/json" };
+const types = { ".html": "text/html", ".js": "text/javascript", ".css": "text/css", ".json": "application/json", ".webp": "image/webp" };
+const fixture = path.join(repo, "tests/fixture/events");
 const server = http.createServer((req, res) => {
-  const f = path.join(root, decodeURIComponent(req.url.split("?")[0]).replace(/^\/$/, "/index.html"));
-  if (!f.startsWith(root) || !fs.existsSync(f)) { res.writeHead(404); return res.end("not found"); }
+  const u = decodeURIComponent(req.url.split("?")[0]);
+  // slides/<event>/<session>/<file> is published beside the page from data/events/<event>/sessions/<session>/files/<file>
+  const sm = /^\/slides\/([^/]+)\/([^/]+)\/([^/]+)$/.exec(u);
+  const f = sm ? path.join(fixture, sm[1], "sessions", sm[2], "files", sm[3]) : path.join(root, u.replace(/^\/$/, "/index.html"));
+  if (sm && !f.startsWith(fixture)) { res.writeHead(404); return res.end("not found"); }
+  if ((!sm && !f.startsWith(root)) || !fs.existsSync(f)) { res.writeHead(404); return res.end("not found"); }
   res.writeHead(200, { "content-type": types[path.extname(f)] || "application/octet-stream" });
   res.end(fs.readFileSync(f));
 }).listen(0);
@@ -81,12 +86,24 @@ for (const [label, width, height] of [["desktop", 1280, 900], ["phone", 390, 844
     ok((await page.locator(".takeaways").first().locator("li").count()) === reviewed.takeaways.length, `${tag} session: ${reviewed.takeaways.length} takeaways`);
     ok((await page.locator(".takeaways .cite").count()) >= reviewed.takeaways.filter((t) => t.cites.length).length, `${tag} session: cites shown as chips`);
     ok((await page.locator(".takeaways .reading").count()) === reviewed.takeaways.filter((t) => !t.cites.length).length, `${tag} session: uncited takeaways marked as a reading`);
-    ok((await page.locator("details.orig").count()) === reviewed.files.length + 2, `${tag} session: ${reviewed.files.length} files + transcript + notes as originals`);
+    ok((await page.locator("details.orig:not(.detail)").count()) === reviewed.files.length + 2, `${tag} session: ${reviewed.files.length} files + transcript + notes as originals`);
     const slides = await page.locator(".slide").count();
     ok(slides === reviewed.files.reduce((n, f) => n + (f.pages || 0), 0), `${tag} session: ${slides} slides/pages of extracted text`);
     const st = await text();
     ok(st.includes(reviewed.quotes[0].text.split('"')[1]), `${tag} session: quote verbatim`);
     ok(st.includes("reviewed by Nathan"), `${tag} session: review stamp`);
+    // summary is prose: no cite chips in it; key slides show the photo; Detail is folded; a photo cite opens the slide
+    ok((await page.locator(".panel").filter({ hasText: "Summary" }).first().locator(".cite").count()) === 0, `${tag} session: Summary carries no cites`);
+    ok((await page.locator(".keyslide").count()) === reviewed.key_slides.length, `${tag} session: ${reviewed.key_slides.length} key slide(s)`);
+    await page.locator(".keyslide img").first().scrollIntoViewIfNeeded();
+    await page.waitForFunction(() => { const i = document.querySelector(".keyslide img"); return i && i.complete && i.naturalWidth > 0; }, null, { timeout: 5000 }).catch(() => {});
+    ok(await page.evaluate(() => { const i = document.querySelector(".keyslide img"); return !!i && i.naturalWidth > 0; }), `${tag} session: key slide image loads`);
+    ok((await page.locator("details.detail").count()) === 1 && (await page.locator("details.detail li").count()) === reviewed.detail.length, `${tag} session: Detail folded with ${reviewed.detail.length} points`);
+    await page.locator("details.detail summary").click();
+    await page.locator("details.detail button.cite.photo").first().click();
+    ok((await page.locator(".lightbox img").count()) === 1 && (await page.locator(".lightbox pre").innerText()).includes("n = 120"), `${tag} session: photo cite opens the slide with its text`);
+    await page.keyboard.press("Escape");
+    ok((await page.locator(".lightbox").count()) === 0, `${tag} session: Escape closes the slide`);
     ok(!/whey/i.test(st.replace(/clear whey isolate/gi, "")), `${tag} session: fixture text as written`);
     await common("session"); await shot("session");
     // open the transcript

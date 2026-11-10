@@ -43,24 +43,31 @@ named (our names where we have them: CreaWin, `"IsoClr: Pea"` (quoted: a colon i
 
 ## 4. Draft `summary.md`
 
-Only from the originals in the folder. Fixed headings, in this order, each present even when short:
+Only from the originals in the folder. A summary must read as a summary (Nathan, 10 Nov 2026). Model:
+`data/events/sans-europe-2026/sessions/unfiltered-an-insider-s-view-of/summary.md`. Headings in this order (Key slides
+and Detail are optional):
 
 ```
 # <title>
-## Summary          three to six sentences: what was argued and the evidence the speaker gave
-## Key takeaways    bullets; each ends with its passage: [12:40] (transcript time), (slide 7), (page 3), (notes)
-## For Vita Actives what it means for our range, customers or pitches; write "my reading" where it is one
-## Quotes           verbatim, with speaker and time or slide
+## Summary          2-4 short paragraphs of prose, under 220 words: who spoke, the question, the argument in their
+                    order, the conclusion. Two or three figures at most. No cites, no "my reading".
+## Key takeaways    3-6 bullets, the most important findings; each ends with its passage: [12:40], (photo 7), (slide 7), (notes)
+## Key slides       only when files/ holds slide photos: up to 4, "- (photo N) one-line caption", the slides that carry the argument
+## For Vita Actives 2-5 bullets: what it means for our range, customers or pitches; "my reading" where it is one
+## Quotes           2-4, verbatim; each an exact substring of the transcript or a slide's text ("..." where it starts mid-sentence)
+## Detail           every other figure and point worth keeping, cited bullets
 ## Follow-ups       people to contact, papers to find, open questions
 ```
 
 Rules:
-- Every takeaway cites a passage. A takeaway without one is a reading and says "my reading". The build marks uncited takeaways.
+- Every takeaway and Detail bullet cites a passage. One without a passage is a reading and says "my reading".
 - Health claims and figures are the speaker's, with the speaker's hedge kept ("may" never becomes "will"; "in one trial" stays).
   Never add a claim the speaker did not make, and never upgrade one.
-- Quotes are word for word from the transcript or slide. If there is no transcript, quote the slide, not your memory.
+- Check every quote is an exact substring of its source with a script before finishing.
+- When slide photos arrive after the summary was written, revise it: exact slide figures replace approximate spoken ones
+  (cite both), new points go to Detail, the best slides become Key slides.
 - Whey is never named in text a leader reads (Market Intelligence decision); describe the format or category instead.
-- Whey market (prices, supply, capacity, timing): record what the speaker said in Summary and Key takeaways, but base
+- Whey market (prices, supply, capacity, timing): record what the speaker said in Key takeaways or Detail, but base
   "For Vita Actives" readings only on Alan Johnstone's account at SANS Europe 2026 (`sans-europe-2026/unfiltered-an-insider-s-view-of`),
   Nathan's reference (decision 10 Nov 2026). A conflicting figure from another speaker is noted, never adopted.
 - Short sentences, British English, no method talk.
@@ -68,20 +75,4 @@ Rules:
 Set in `session.yaml`: `status: summarised`, `summary_by: Claude`, `summary_date: <today>`, `relevance` (high, medium, low:
 how much it matters to Vita Actives, with one reason in the "For Vita Actives" section).
 
-## 5. Themes
-
-Read `data/themes.yaml`. Put the ids of the themes the session carried in `session.yaml` `themes`. Add a theme to the
-vocabulary only when none fits: `id`, `name`, `description` (one sentence), `first_seen: <event-id>`. Prefer one broader
-theme over two narrow ones; the event's own version of a theme goes in the event's `themes.yaml` later (`event-report`).
-
-## 6. Check, build, commit
-
-`python -m confnotes check` (must print no problems), `python -m confnotes build`, `python -m confnotes api`,
-`python -m pytest -q`. Commit the session folder, `data/themes.yaml` if changed, `dashboard/data/events.json` and
-`exports/api/v1/` with the usual trailer, and push.
-
-## 7. Reply
-
-Three lines: the session filed (event, title, what originals), the three strongest takeaways with their cites, what is still to
-check. Then: "Say 'reviewed' when you have read it and I will mark it so." Set `status: reviewed`, `reviewed_by: Nathan`,
-`reviewed_date` only on his word, after applying any corrections he gives.
+ leader reads (Market Intelligence decision); describe the format or category instead.

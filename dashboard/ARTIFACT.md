@@ -3,8 +3,9 @@
 Private claude.ai artifact: https://claude.ai/artifact/UpL7V3Ly6oexgCAZBnDGUk
 
 Publish from a commit, never the working tree: `git archive <commit> dashboard` into a scratch folder,
-publish `index.html` to the URL above with `app.js`, `styles.css` (text/css) and `data/events.json` in the files map.
-Leave out `test/` and this file. Slide photos are not published: the dashboard shows each slide's transcribed text.
+publish `index.html` to the URL above with `app.js`, `styles.css` (text/css) and `data/events.json` in the files map, plus
+every slide photo: `python -m confnotes publish-files` prints their map (`slides/<event>/<session>/<file>` to its source).
+Leave out `test/` and this file.
 
 | Version | Date | Commit | What changed |
 |---|---|---|---|

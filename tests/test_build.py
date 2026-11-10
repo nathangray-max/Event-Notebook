@@ -27,11 +27,16 @@ def test_fixture_build(tmp_path):
     assert [t["cites"] for t in s["takeaways"]] == [["12:40"], ["18:05"], ["slide 3"], []]
     assert s["quotes"][0]["text"].startswith('"The strength story is told.')
     assert s["followups"] == ["Ask Dr Example for the 2024 trial paper (notes)."]
+    assert s["photos"] == {"1": "photo-01.webp"}
+    assert s["key_slides"] == [{"photo": 1, "file": "photo-01.webp", "caption": "The 2024 trial: 120 older women, 12 weeks, 5 g a day."}]
+    assert [d["cites"] for d in s["detail"]] == [["photo 1"], ["00:00"]]
+    assert "[" not in s["summary"]["Summary"] and s["summary"]["Detail"].startswith("- The trial")
     assert s["has_transcript"] and s["transcript_words"] > 20 and s["has_notes"] and s["has_summary"]
     assert "summary_md" not in s and "_path" not in s
     assert s["files"][0]["pages"] == 3 and "--- slide 3 ---" in s["files"][0]["text"]
     c = e["sessions"][1]
     assert not c["has_summary"] and c["takeaways"] == [] and c["summary"]["Summary"] == ""
+    assert c["key_slides"] == [] and c["detail"] == [] and c["photos"] == {}
     themes = {t["id"]: t for t in d["themes"]}
     assert themes["creatine-beyond-muscle"]["events"][0]["headline"].startswith("Two of five talks")
     assert themes["creatine-beyond-muscle"]["sessions"] == [{"event": "example-summit-2025", "session": "creatine-beyond-muscle", "title": "Creatine beyond muscle", "date": "2025-03-04"}]

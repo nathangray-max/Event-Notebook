@@ -12,5 +12,6 @@ def fixture_copy(tmp_path):
     dst = tmp_path / "data"
     shutil.copytree(FIXTURE, dst)
     for p in dst.rglob("files/*.txt"):
-        p.unlink()
+        if not p.name.endswith(".webp.txt"):  # a photo's text is transcribed, not extracted: it stays
+            p.unlink()
     return dst

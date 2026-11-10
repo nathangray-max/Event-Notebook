@@ -77,11 +77,43 @@
     return h("div", { class: "md", html: out.join("") });
   }
   // a takeaway or quote: its text with every source it names ([12:40], (slide 7), (notes)) as a chip
-  function cited(text, cites) {
+  // a slide photo, as published beside the page: slides/<event>/<session>/<file>
+  function slideSrc(s, file) { return "slides/" + s.event + "/" + s.id + "/" + file; }
+  function photoText(s, n) {
+    var f = s.files.filter(function (x) { return x.name === s.photos[String(n)]; })[0];
+    if (!f || !f.text) return "";
+    var parts = f.text.split(/^--- photo (\d+) ---$/m);
+    for (var i = 1; i < parts.length; i += 2) if (parts[i] === String(n)) return parts[i + 1].trim();
+    return "";
+  }
+  function slideImg(s, file, alt) {
+    var img = h("img", { src: slideSrc(s, file), alt: alt, loading: "lazy" });
+    img.addEventListener("error", function () { if (img.parentNode) img.replaceWith(h("div", { class: "noimg", text: "Image not available here; the slide's text is below." })); });
+    return img;
+  }
+  // open one slide photo over the page, with its transcribed text; Escape or a click outside closes it
+  function openSlide(s, n) {
+    var file = s.photos && s.photos[String(n)];
+    if (!file) return;
+    var close = function () { box.remove(); document.removeEventListener("keydown", onKey); };
+    var onKey = function (ev) { if (ev.key === "Escape") close(); };
+    var box = h("div", { class: "lightbox", role: "dialog", "aria-modal": "true", "aria-label": "Photo " + n, onclick: function (ev) { if (ev.target === box) close(); } },
+      h("div", { class: "lightbox-inner" },
+        h("div", { class: "lightbox-head" }, h("span", { class: "eyebrow", text: "Photo " + n + " · " + file }), h("button", { class: "btn", type: "button", onclick: close, text: "Close" })),
+        slideImg(s, file, "Photo " + n),
+        h("pre", { class: "orig-text small", text: photoText(s, n) })));
+    document.body.appendChild(box);
+    document.addEventListener("keydown", onKey);
+    box.querySelector("button").focus();
+  }
+  function cited(text, cites, s) {
     var el = h("span"), last = 0, m; CITE.lastIndex = 0;
     while ((m = CITE.exec(text))) {
       add(el, text.slice(last, m.index));
-      add(el, h("span", { class: "cite", text: m[1] || (m[2] ? m[2].toLowerCase() + " " + m[3] : m[4].toLowerCase()) }));
+      var label = m[1] || (m[2] ? m[2].toLowerCase() + " " + m[3] : m[4].toLowerCase());
+      if (s && m[2] && m[2].toLowerCase() === "photo" && s.photos && s.photos[m[3]]) {
+        (function (n) { add(el, h("button", { class: "cite photo", type: "button", title: "Show photo " + n, onclick: function () { openSlide(s, n); }, text: label })); })(m[3]);
+      } else add(el, h("span", { class: "cite", text: label }));
       last = m.index + m[0].length;
     }
     add(el, text.slice(last));
@@ -205,10 +237,16 @@
     if (s.has_summary) {
       summary = h("div", { class: "stack" },
         h("div", { class: "panel" }, h("h3", { text: "Summary" }), md(s.summary["Summary"])),
-        h("div", { class: "panel" }, h("h3", { text: "Key takeaways" }), s.takeaways.length ? h("ul", { class: "takeaways" }, s.takeaways.map(function (t) { return h("li", null, cited(t.text, t.cites)); })) : h("p", { class: "na", text: "None written." })),
+        h("div", { class: "panel" }, h("h3", { text: "Key takeaways" }), s.takeaways.length ? h("ul", { class: "takeaways" }, s.takeaways.map(function (t) { return h("li", null, cited(t.text, t.cites, s)); })) : h("p", { class: "na", text: "None written." })),
+        s.key_slides.length ? h("div", { class: "panel" }, h("h3", { text: "Key slides" }), h("div", { class: "slides" }, s.key_slides.map(function (k) {
+          return h("figure", { class: "keyslide" }, h("button", { class: "slide-open", type: "button", title: "Open photo " + k.photo, onclick: function () { openSlide(s, k.photo); } }, slideImg(s, k.file, "Photo " + k.photo + ": " + k.caption)),
+            h("figcaption", null, h("span", { class: "cite", text: "photo " + k.photo }), " ", k.caption));
+        }))) : null,
         h("div", { class: "panel" }, h("h3", { text: "For Vita Actives" }), md(s.summary["For Vita Actives"])),
-        h("div", { class: "panel" }, h("h3", { text: "Quotes" }), s.quotes.length ? s.quotes.map(function (q) { return h("blockquote", { class: "quote" }, cited(q.text, q.cites)); }) : h("p", { class: "na", text: "None recorded." })),
-        h("div", { class: "panel" }, h("h3", { text: "Follow-ups" }), s.followups.length ? h("ul", { class: "takeaways" }, s.followups.map(function (f) { return h("li", null, cited(f, ["x"])); })) : h("p", { class: "na", text: "None." })));
+        h("div", { class: "panel" }, h("h3", { text: "Quotes" }), s.quotes.length ? s.quotes.map(function (q) { return h("blockquote", { class: "quote" }, cited(q.text, q.cites, s)); }) : h("p", { class: "na", text: "None recorded." })),
+        s.detail.length ? h("details", { class: "orig detail" }, h("summary", null, h("span", { text: "Detail" }), h("span", { class: "meta", text: plural(s.detail.length, "more point") + ", with sources" })),
+          h("div", { class: "body" }, h("ul", { class: "takeaways" }, s.detail.map(function (t) { return h("li", null, cited(t.text, t.cites, s)); })))) : null,
+        h("div", { class: "panel" }, h("h3", { text: "Follow-ups" }), s.followups.length ? h("ul", { class: "takeaways" }, s.followups.map(function (f) { return h("li", null, cited(f, ["x"], s)); })) : h("p", { class: "na", text: "None." })));
     } else {
       summary = h("div", { class: "empty", text: "No summary yet. The originals below are what we have; ask Claude to draft the summary from them." });
     }
@@ -221,6 +259,7 @@
           for (var i = 1; i < parts.length; i += 2) body.appendChild(h("div", { class: "slide" }, h("div", { class: "n", text: (f.kind === "pptx" ? "slide " : f.kind === "docx" ? "section " : f.kind === "photo" ? "photo " : "page ") + parts[i] }), h("pre", { text: parts[i + 1].trim() })));
         } else if (f.text) body = h("pre", { class: "orig-text", text: f.text });
         else body = h("p", { class: "na", text: "No text pulled out yet (run `python -m confnotes extract`)." });
+        if (f.kind === "photo") body = h("div", { class: "photo-orig" }, slideImg(s, f.name, f.name), body);
         return h("details", { class: "orig" }, h("summary", null, h("span", { text: f.name }), h("span", { class: "meta", text: [f.kind, f.pages ? plural(f.pages, f.kind === "pptx" ? "slide" : f.kind === "photo" ? "photo" : "page") : null, Math.round(f.bytes / 1024) + " KB"].filter(Boolean).join(" · ") })), h("div", { class: "body" }, body));
       }),
       s.has_transcript ? h("details", { class: "orig" }, h("summary", null, h("span", { text: "Transcript" }), h("span", { class: "meta", text: plural(s.transcript_words, "word") })), h("div", { class: "body" }, h("pre", { class: "orig-text", text: s.transcript }))) : null,

@@ -62,7 +62,15 @@ def session_record(s: Dict[str, Any], event_id: str) -> Dict[str, Any]:
     out["links"] = dict(s.get("links") or {})
     out["to_check"] = (s.get("to_check") or "").strip()
     summ = s.get("summary") or {}
-    out["summary"] = {h: summ.get(h, "") for h in store.SUMMARY_HEADINGS}
+    out["summary"] = {h: summ.get(h, "") for h in store.SUMMARY_HEADINGS + store.OPTIONAL_SUMMARY_HEADINGS}
+    photos = store.photo_index(s["files"])
+    out["photos"] = {str(n): name for n, name in sorted(photos.items())}
+    out["key_slides"] = []
+    for b in store.bullets(summ.get("Key slides", "")):
+        m = store.KEY_SLIDE_RE.match(b)
+        if m and int(m.group(1)) in photos:
+            out["key_slides"].append({"photo": int(m.group(1)), "file": photos[int(m.group(1))], "caption": m.group(2).strip()})
+    out["detail"] = [{"text": t, "cites": cites(t)} for t in store.bullets(summ.get("Detail", ""))]
     out["takeaways"] = [{"text": t, "cites": cites(t)} for t in store.bullets(summ.get("Key takeaways", ""))]
     out["quotes"] = [{"text": t, "cites": cites(t)} for t in store.bullets(summ.get("Quotes", ""))]
     out["followups"] = store.bullets(summ.get("Follow-ups", ""))

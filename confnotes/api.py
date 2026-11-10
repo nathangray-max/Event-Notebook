@@ -42,6 +42,8 @@ def contracts(data: Dict[str, Any], built: str, commit: str) -> Dict[str, Dict[s
             se["takeaways"] = s["takeaways"]
             se["quotes"] = s["quotes"]
             se["followups"] = s["followups"]
+            se["key_slides"] = s["key_slides"]
+            se["detail"] = s["detail"]
             se["files"] = [{"name": f["name"], "kind": f["kind"], "pages": f["pages"]} for f in s["files"]]
             sessions.append(se)
             for i, t in enumerate(s["takeaways"], start=1):

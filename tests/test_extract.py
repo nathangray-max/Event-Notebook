@@ -10,7 +10,7 @@ SESS = "events/example-summit-2025/sessions/creatine-beyond-muscle"
 
 def test_pptx_and_pdf(fixture_copy):
     folder = fixture_copy / SESS
-    before = {p.name: hashlib.sha256(p.read_bytes()).hexdigest() for p in (folder / "files").iterdir()}
+    before = {p.name: hashlib.sha256(p.read_bytes()).hexdigest() for p in (folder / "files").iterdir() if not p.name.endswith(".txt")}
     done = extract.extract_session(folder)
     assert done == {"deck.pptx": 3, "handout.pdf": 2}
     deck = (folder / "files/deck.pptx.txt").read_text()
@@ -22,7 +22,7 @@ def test_pptx_and_pdf(fixture_copy):
     after = {p.name: hashlib.sha256(p.read_bytes()).hexdigest() for p in (folder / "files").iterdir() if not p.name.endswith(".txt")}
     assert after == before  # originals never change
     s = store.load_session(folder)
-    assert [(f["name"], f["pages"]) for f in s["files"]] == [("deck.pptx", 3), ("handout.pdf", 2)]
+    assert [(f["name"], f["pages"]) for f in s["files"]] == [("deck.pptx", 3), ("handout.pdf", 2), ("photo-01.webp", 1)]
 
 
 def test_docx_sections(tmp_path):

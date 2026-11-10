@@ -4,6 +4,7 @@
     extract <event> [<session>] | --all     pull the text out of the presentations in files/
     photos <event> <session>                file photos of slides small (WebP, 1600 px)
     build                                   dashboard/data/events.json
+    publish-files                           the slide photos' files map for publishing the dashboard
     api                                     exports/api/v1/*.json
     all                                     check, extract --all, build, api
     new-event <event-id> --name "..." [--start YYYY-MM-DD --end YYYY-MM-DD --city ... --organiser ... --url ...]
@@ -73,6 +74,19 @@ def cmd_photos(a) -> int:
     for old, new in done.items():
         print(f"{old} -> {new}")
     print(f"{len(done)} photos reduced")
+    return 0
+
+
+def cmd_publish_files(_a) -> int:
+    """The artifact's files map for the slide photos: published path -> source path (dashboard/ARTIFACT.md)."""
+    import json
+    m = {}
+    for e in store.load()["events"]:
+        for s in e["sessions"]:
+            for f in s["files"]:
+                if f["kind"] == "photo":
+                    m[f"slides/{e['id']}/{s['id']}/{f['name']}"] = _rel(Path(s["_path"]) / "files" / f["name"])
+    print(json.dumps(m, indent=1))
     return 0
 
 
@@ -148,6 +162,7 @@ def main(argv=None) -> int:
     x = sub.add_parser("extract"); x.add_argument("event", nargs="?"); x.add_argument("session", nargs="?"); x.add_argument("--all", action="store_true"); x.set_defaults(fn=cmd_extract)
     ph = sub.add_parser("photos"); ph.add_argument("event"); ph.add_argument("session"); ph.set_defaults(fn=cmd_photos)
     sub.add_parser("build").set_defaults(fn=cmd_build)
+    sub.add_parser("publish-files").set_defaults(fn=cmd_publish_files)
     sub.add_parser("api").set_defaults(fn=cmd_api)
     sub.add_parser("all").set_defaults(fn=cmd_all)
     ne = sub.add_parser("new-event"); ne.add_argument("event"); ne.add_argument("--name", required=True)

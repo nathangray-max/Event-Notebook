@@ -18,6 +18,8 @@ reads it through `exports/api/v1/` (docs/api.md), never its files; this tool rea
 - **Internal: not for sharing.** Speakers' slides are their copyright.
 - **Develop on `main`** of `nathangray-max/Event-Notebook`, this tool's own repo since 10 Nov 2026 (it began as a folder
   of `nathangray-max/sandbox`; the history came with it). Push before a session ends.
+- **Summaries read as summaries**: a prose Summary under 220 words with no cites, at most six takeaways, up to four
+  Key slides as photos, the rest in Detail (skill `add-session`, step 4).
 - Run `python -m confnotes check` and `python -m pytest -q` before every commit; `node dashboard/test/smoke.mjs` after a
   dashboard change.
 
@@ -29,6 +31,7 @@ reads it through `exports/api/v1/` (docs/api.md), never its files; this tool rea
 | `python -m confnotes extract <event> [<session>]` / `--all` | pull the text out of presentations into `files/<name>.txt` |
 | `python -m confnotes build` | `dashboard/data/events.json` (refused while the store has problems) |
 | `python -m confnotes api` | `exports/api/v1/*.json` |
+| `python -m confnotes publish-files` | the slide photos' files map for publishing the dashboard (`dashboard/ARTIFACT.md`) |
 | `python -m confnotes all` | check, extract, build, api |
 | `python -m confnotes new-event <id> --name ...` / `new-session <event> <id> --title ...` | scaffold a record |
 | `python -m pytest -q` · `node dashboard/test/smoke.mjs` | tests · the dashboard in a browser on the synthetic fixture |

@@ -28,3 +28,12 @@ def test_new_event_and_session(tmp_path, monkeypatch):
     assert cli.main(["new-event", "test-summit-2026", "--name", "again"]) == 1
     assert cli.main(["new-session", "test-summit-2026", "opening-keynote", "--title", "again"]) == 1
     assert cli.main(["new-session", "no-event-2026", "x", "--title", "x"]) == 1
+
+
+def test_publish_files_lists_every_photo(capsys):
+    import json
+    assert cli.main(["publish-files"]) == 0
+    m = json.loads(capsys.readouterr().out)
+    for k, v in m.items():
+        assert k.startswith("slides/") and k.endswith(".webp") and v.endswith(k.split("/")[-1])
+        assert (ROOT / v).exists()
