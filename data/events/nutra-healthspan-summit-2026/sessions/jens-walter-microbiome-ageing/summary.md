@@ -1,7 +1,7 @@
-# Jens Walter: the microbiome and healthy ageing
+# Synbiotic Health Presentation
 
 ## Summary
-Professor Jens Walter of University College Cork and APC Microbiome Ireland, a co-founder of Symbiotic Health, asked whether the gut microbiome shapes how we age, and whether diet or supplements that target it could extend healthspan.
+Professor Jens Walter of University College Cork and APC Microbiome Ireland, a co-founder of Synbiotic Health, asked whether the gut microbiome shapes how we age, and whether diet or supplements that target it could extend healthspan.
 
 He started with animal studies. Germ-free rodents live longer than normal ones, but with calorie restriction the microbiome becomes beneficial, so its effect depends on diet. In humans, large observational studies link healthy eating patterns to healthy ageing; one UK study suggests a healthy diet can add about ten years of healthier life if adopted in your 40s and 50s.
 
@@ -13,7 +13,7 @@ He kept his hedges. Causality is clearly established in animals only, there is n
 - In animal studies, rodents kept without a microbiome live almost ten months longer than normal mice, which live about 25 months; with calorie restriction the microbiome becomes beneficial and those animals live longest [00:24].
 - Observational studies in humans link healthy dietary patterns to healthy ageing; one UK study found a healthy diet can extend healthier lifespan by ten years, adopted in the 40s and 50s, and "probably" five to six years if adopted in the 70s [00:24].
 - His Cell trial of a non-industrialised, higher-fibre diet in students over three weeks raised bifidobacteria and indole-3-propionic acid, lowered faecal pH and secondary bile acids, cut LDL cholesterol by 17% and reduced blood glucose and CRP [00:24].
-- Bifidobacterium adolescentis falls with age and is associated with healthy ageing (centenarians in Sardinia, slower epigenetic ageing in about 123 people); in animal studies it improved healthspan and lifespan; human trials in older people by Symbiotic Health are ongoing, with no data yet [00:24].
+- Bifidobacterium adolescentis falls with age and is associated with healthy ageing (centenarians in Sardinia, slower epigenetic ageing in about 123 people); in animal studies it improved healthspan and lifespan; human trials in older people by Synbiotic Health are ongoing, with no data yet [00:24].
 - His conclusion: the microbiome is a plausible contributor to healthy ageing, established in animal models; causality is hard to establish in humans and clinical trials are needed [00:24].
 - He is doubtful that a postbiotic can change gut ecology or raise short-chain fatty acids, prefers probiotic bifidobacteria with fibre, and sees a possible role for postbiotics in a direct immune effect [22:01] [22:52].
 
@@ -31,7 +31,7 @@ He kept his hedges. Causality is clearly established in animals only, there is n
 
 ## Detail
 - The talk is one Otter turn from [00:24] to the questions at [20:46]. Stephen Daniells introduced him as "Professor Jens Walder" of "University College Corp" and co-founder of "Symbiotic Health" [00:00]; he described himself as from "APC Microbiome Island" and University College Cork [00:24]. Otter's labels: Speaker 1 is Jens Walter; Speakers 2 and 3 are questioners. At [23:31] and [23:38] the Speaker 1 label also carries George's question before Walter's answer.
-- Disclosures: co-founder of Symbiotic Health; funding and consultancy from companies working on probiotics and prebiotics [00:24].
+- Disclosures: co-founder of Synbiotic Health; funding and consultancy from companies working on probiotics and prebiotics [00:24].
 - Paul O'Toole's work (a Nature paper of 2013): with age, pathogens rise and healthy bacteria fall, with links to inflammation and lower barrier function; the microbiome declines further when older people move into nursing homes, probably linked to diet [00:24].
 - Bifidobacteria make a dramatic dive with ageing; observational research cannot establish cause and effect [00:24].
 - Animal studies: the germ-free lifespan finding has been repeated in mice, rats and other species; "in a lot of animal models, high protein diets actually shorten lifespan. Not sure to what degree this then translates to human." [00:24]
@@ -39,7 +39,7 @@ He kept his hedges. Causality is clearly established in animals only, there is n
 - A systematic review published a week or two before the talk links Mediterranean diet adherence, partly from intervention studies, to healthy ageing outcomes [00:24].
 - O'Toole's Mediterranean diet study in 612 older people: lower levels of bacteria associated with frailty and cognition, links to lower inflammatory ageing, higher short-chain fatty acids and fewer secondary bile acids, which he said drive colon cancer [00:24].
 - His Cell trial, two years ago: a non-industrialised diet close to Mediterranean, slightly higher in fibre and lower in saturated fat, in students, not older people; bifidobacteria including B. adolescentis and B. longum rose; inflammatory bacteria fell; proteolytic fermentation fell; indole-3-propionic acid, a neuroprotective antioxidant with consistent benefits "specifically in mice", rose; participants lost weight [00:24]. The diet gives 45 grams of fibre a day, and the pH drop is "clearly fiber fermentation" [23:38].
-- B. adolescentis: enriched in healthy people (Symbiotic Health's data), dominant in adults and reduced in ageing; a keystone species that amplifies fibre's effects; the oldest living person at the time, aged 116, had almost 50% bifidobacteria ("an N of one"); it produces GABA, improved intestinal barrier function in his group's paper, and in a Nature Aging paper regulated catalase activity and improved healthspan and lifespan "in multiple animal species" [00:24].
+- B. adolescentis: enriched in healthy people (Synbiotic Health's data), dominant in adults and reduced in ageing; a keystone species that amplifies fibre's effects; the oldest living person at the time, aged 116, had almost 50% bifidobacteria ("an N of one"); it produces GABA, improved intestinal barrier function in his group's paper, and in a Nature Aging paper regulated catalase activity and improved healthspan and lifespan "in multiple animal species" [00:24].
 - Lumina's earlier talk came up: he recalled that "40% of men now in the 40s think healthy eating is actually important" [00:24]. Ewa Hudson's talk as recorded says healthy eating "really over-indexes" for men ten years after their 30s, without a percentage (lumina-new-longevity-consumer). Both are given.
 - Human milk oligosaccharides: studies show they can raise bifidobacteria in older people, but "the jury is completely out" on stimulating infant-associated species and on clinical benefit [21:22].
 - Short-chain fatty acids are "very very hard to increase", even with extreme diet shifts [22:52].
@@ -47,6 +47,6 @@ He kept his hedges. Causality is clearly established in animals only, there is n
 - The recipes of the non-industrialised diet are free to download [00:24].
 
 ## Follow-ups
-- Jens Walter: the Symbiotic Health trials in older people, when they report, and its B. adolescentis and fibre combination [00:24].
+- Jens Walter: the Synbiotic Health trials in older people, when they report, and its B. adolescentis and fibre combination [00:24].
 - Find his Cell paper on the non-industrialised diet and the UK study on ten years of healthier life [00:24].
-- Confirm his billed title and affiliation, and the spelling of Symbiotic Health, once the programme is published.
+- Confirm his affiliation as introduced (University College Cork, APC Microbiome Ireland).

@@ -1,4 +1,4 @@
-# Lumina Intelligence: the new longevity consumer
+# Too Young to Age? The New Consumer Rules of Longevity
 
 ## Summary
 Ewa Hudson of Lumina Intelligence presented consumer research on ageing from a survey of over 10,000 people in nine countries. Her question: consumers are rewriting the rules of ageing, so is the industry ready to rewrite its own?
