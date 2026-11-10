@@ -9,20 +9,32 @@ room: Partnership Forum
 speakers:
 - name: Ollie Marchon
   organisation: Marchon
-  role: ''
+  role: Founder (as introduced)
 - name: Liam Holmes
   organisation: Marchon
-  role: ''
-themes: []
-ingredients: []
-relevance: ''
-status: captured
-summary_by: ''
-summary_date: ''
+  role: Head of product (as introduced; Otter heard the name as "Liam Bones")
+themes: [sports-nutrition-mainstream, creatine-beyond-strength, delivery-formats]
+ingredients:
+- creatine
+- CreaWin
+- protein
+- carbohydrate
+- electrolytes
+- multivitamin
+- omega
+- magnesium
+- curcumin
+- probiotics
+relevance: high
+status: summarised
+summary_by: Claude
+summary_date: '2026-11-10'
 reviewed_by: ''
 reviewed_date: ''
-attended_by: []
-links: {}
-to_check: No slides, transcript or notes filed yet; whether Nathan attended this one.
+attended_by: [Nathan]
+links:
+  otter: https://otter.ai/u/pZI1Kf2nvFAS-7PcfNZZlCOVpH0
+to_check: Whether the head of product is Liam Holmes as billed (Otter heard "Liam Bones"), which of the two answered where Otter's
+  labels run two speakers together ([19:42], [22:11]), and whether photos of any slides exist.
 added: '2026-11-09'
 added_by: Claude (from the event app's programme, screenshots from Nathan at 11:39-11:40 on 9 Nov 2026)

@@ -9,23 +9,40 @@ room: Partnership Forum
 speakers:
 - name: Brett Hamer
   organisation: THG
-  role: ''
+  role: Product director, Myprotein (as introduced)
 - name: Nicholas Morgan
   organisation: Nutrition Integrated
-  role: ''
+  role: Founder (as introduced, as Nick Morgan)
 - name: Ed Tooley
   organisation: Ed Tooley Nutrition
-  role: ''
-themes: []
-ingredients: []
-relevance: ''
-status: captured
-summary_by: ''
-summary_date: ''
+  role: Performance nutritionist (as introduced)
+themes: [glp-1-nutrition, whey-price-squeeze, novel-proteins-and-blends, creatine-beyond-strength]
+ingredients:
+- protein
+- whey protein
+- milk proteins
+- clear protein
+- plant protein
+- collagen
+- fibre
+- probiotics
+- multivitamins
+- creatine
+- CreaWin
+- HMB
+- berberine
+- magnesium
+relevance: high
+status: summarised
+summary_by: Claude
+summary_date: '2026-11-10'
 reviewed_by: ''
 reviewed_date: ''
-attended_by: []
-links: {}
-to_check: No slides, transcript or notes filed yet; whether Nathan attended this one.
+attended_by: [Nathan]
+links:
+  otter: https://otter.ai/u/dBvLceBTr1YTpQ3D_hK0fHOy5uE
+to_check: 'The chair (Speaker 1) is unnamed, the product Otter heard as "Chris" at [40:30] is not clear, whether photos exist is
+  not known, and the host Nikki''s close of the day ([57:25] to the end: a recap and next year''s dates), which is no billed
+  session, is kept in this transcript.'
 added: '2026-11-09'
 added_by: Claude (from the event app's programme, screenshots from Nathan at 11:39-11:40 on 9 Nov 2026)

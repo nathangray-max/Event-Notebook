@@ -20,7 +20,8 @@ summary_date: ''
 reviewed_by: ''
 reviewed_date: ''
 attended_by: []
-links: {}
-to_check: No slides, transcript or notes filed yet; whether Nathan attended this one.
+links:
+  otter: https://otter.ai/u/czP9hEiBGV7ASrKyQI1pL4gsbTg
+to_check: Only a 35-second clip was recorded and the talk itself is not on record.
 added: '2026-11-09'
 added_by: Claude (from the event app's programme, screenshots from Nathan at 11:39-11:40 on 9 Nov 2026)

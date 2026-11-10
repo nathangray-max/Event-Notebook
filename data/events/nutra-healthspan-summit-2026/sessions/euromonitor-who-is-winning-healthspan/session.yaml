@@ -1,21 +1,35 @@
 id: euromonitor-who-is-winning-healthspan
 title: 'Euromonitor: who is winning in the healthspan economy'
 date: '2026-11-10'
-start: 09:24
-end: 09:47
+start: '09:24'
+end: '09:47'
 format: talk
 track: ''
-speakers: []
-themes: []
-ingredients: []
-relevance: ''
-status: captured
-summary_by: ''
-summary_date: ''
+speakers:
+- name: Nick Stene
+  organisation: Euromonitor
+  role: Senior global insight manager, consumer health (as introduced)
+themes: [longevity-positioning, branded-ingredients-differentiation, whey-price-squeeze]
+ingredients:
+- protein
+- magnesium
+- '"L3 and eight" (a magnesium form, as Otter heard it)'
+- NAD+
+- spermidine
+- resveratrol
+- postbiotics
+- collagen
+relevance: high
+status: summarised
+summary_by: Claude
+summary_date: '2026-11-10'
 reviewed_by: ''
 reviewed_date: ''
-attended_by: []
-links: {}
-to_check: 'Billed title, speaker''s full name and role, and the track are not confirmed: the programme is not published yet.'
+attended_by: [Nathan]
+links:
+  otter: https://otter.ai/u/I6bgV_HNiWcf94HGErPRO0tu7Hs
+to_check: 'Billed title, the speaker''s name (the chair said "Nick Steen", the recording is titled "Nick Stene") and role, and the
+  track are not confirmed as the programme is not published yet; also the currency of the 373 billion figure, the brands Otter
+  heard as "I am eight" and "ancient and brave", and whether photos of the slides exist.'
 added: '2026-11-10'
 added_by: Claude (from Nathan's Otter recording, 10 Nov 2026)

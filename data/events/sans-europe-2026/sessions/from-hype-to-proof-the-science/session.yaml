@@ -9,17 +9,33 @@ room: Partnership Forum
 speakers:
 - name: Gulrez Zariwala
   organisation: Centre for Nutraceuticals
-  role: ''
-themes: []
-ingredients: []
-relevance: ''
-status: captured
-summary_by: ''
-summary_date: ''
+  role: Founder director (as he introduced himself)
+themes: [glp-1-nutrition, muscle-health-beyond-protein, outcomes-over-mechanisms]
+ingredients:
+- protein
+- whey protein isolate
+- potato protein
+- rice protein
+- OEA
+- berberine
+- cinnamon
+- bitter compounds
+- Redicools (standardised mulberry extract; Otter's spelling)
+- curcumin
+- fibre
+- probiotics
+- multivitamins
+relevance: high
+status: summarised
+summary_by: Claude
+summary_date: '2026-11-10'
 reviewed_by: ''
 reviewed_date: ''
-attended_by: []
-links: {}
-to_check: No slides, transcript or notes filed yet; whether Nathan attended this one.
+attended_by: [Nathan]
+links:
+  otter: https://otter.ai/u/dBvLceBTr1YTpQ3D_hK0fHOy5uE
+to_check: 'His university (the recording starts mid-sentence on "Of Westminster"), the spelling of the mulberry extract and its
+  sponsor (Otter: "Redicools", "Finova") and of the lipid molecule Otter heard as "tripty", the unit of the 19 and 21 food-noise
+  reductions, and whether photos of the slides exist.'
 added: '2026-11-09'
 added_by: Claude (from the event app's programme, screenshots from Nathan at 11:39-11:40 on 9 Nov 2026)

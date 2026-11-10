@@ -10,16 +10,21 @@ speakers:
 - name: Morgan Griffiths
   organisation: Lumina Intelligence
   role: ''
-themes: []
-ingredients: []
-relevance: ''
-status: captured
-summary_by: ''
-summary_date: ''
+themes: [glp-1-nutrition, sports-nutrition-mainstream]
+ingredients:
+- protein
+- creatine
+- CreaWin
+relevance: high
+status: summarised
+summary_by: Claude
+summary_date: '2026-11-10'
 reviewed_by: ''
 reviewed_date: ''
-attended_by: []
-links: {}
-to_check: No slides, transcript or notes filed yet; whether Nathan attended this one.
+attended_by: [Nathan]
+links:
+  otter: https://otter.ai/u/wvgHAxfP-V-tLHD4fpz8neQnxbw
+to_check: Morgan Griffiths' role at Lumina Intelligence, the name of the chair (Speaker 2), the source and sample of the summer
+  survey he quoted, and whether photos of the slides exist (he pointed the room to the side-effects slide).
 added: '2026-11-09'
 added_by: Claude (from the event app's programme, screenshots from Nathan at 11:39-11:40 on 9 Nov 2026)
