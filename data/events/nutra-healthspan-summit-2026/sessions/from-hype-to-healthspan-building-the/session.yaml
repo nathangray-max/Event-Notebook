@@ -21,20 +21,33 @@ speakers:
 - name: Jennifer Wang
   organisation: Alibaba Group
   role: General Manager Europe, Taobao Tmall
-themes: []
-ingredients: []
-relevance: ''
-status: captured
-summary_by: ''
-summary_date: ''
+themes:
+- longevity-positioning
+- outcomes-over-mechanisms
+- creatine-beyond-strength
+- glp-1-nutrition
+- branded-ingredients-differentiation
+- muscle-health-beyond-protein
+ingredients:
+- NAD (Otter heard "NAD" and "NAD Plus")
+- spermidine
+- creatine
+- collagen
+- urolithin A (Timeline's Mitopure; Otter heard "urethane")
+- vitamin C
+- omega-3 (fish oil)
+- '"N and N from Japan" (as Otter heard it; unclear)'
+relevance: high
+status: summarised
+summary_by: Claude
+summary_date: '2026-11-10'
 reviewed_by: ''
 reviewed_date: ''
 attended_by:
 - Nathan
 links:
   otter: https://otter.ai/u/df1Qw6x35bG79mcIYYgShq_O4lo
-to_check: 'Transcript to come: Nathan''s Otter recording was still running at about 10:20. The programme times are 09:55 to
-  10:25, but Ewa Hudson''s talk ran until about 10:05 and the panel''s recording began at 10:05, so the day was running late.'
+to_check: 'Still unknown: the opening (the recording began at 10:05, after the billed 09:55 start, mid-introduction), what Otter''s "BMS" and "N and N from Japan" stand for, and the name of the IPA questioner (Otter: "George Paraskavakos").'
 added: '2026-11-10'
 added_by: Claude (from Nathan's screenshot of the event app and his photo of the speaker slide, 10 Nov 2026)
 room: Partnership Forum
