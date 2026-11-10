@@ -14,3 +14,4 @@ Leave out `test/` and this file.
 | 3 | 2026-11-10 | 4ab2f9b (data from e7053f4) | Summaries that read as summaries (Nathan): a prose summary, up to six takeaways, key slides as photos, the rest under Detail. 86 slide photos published under `slides/`; photo cites open the slide. Nick Stene's slides and IM8, Ancient + Brave settled. |
 | 4 | 2026-11-10 | 2a30fe8 | Data only: Ewa Hudson (Lumina Intelligence) summarised. |
 | 5 | 2026-11-10 | 6850ec3 | Data only, plus the panel's two photos: all speakers' perspectives restored (Nathan's clarification); the 'From hype to healthspan' panel added, transcript to come. |
+| 6 | 2026-11-10 | cf6f1f6 | Data only: the 'From hype to healthspan' panel and Jens Walter's microbiome talk summarised. |
