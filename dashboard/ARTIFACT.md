@@ -16,3 +16,4 @@ Leave out `test/` and this file.
 | 5 | 2026-11-10 | 6850ec3 | Data only, plus the panel's two photos: all speakers' perspectives restored (Nathan's clarification); the 'From hype to healthspan' panel added, transcript to come. |
 | 6 | 2026-11-10 | cf6f1f6 | Data only: the 'From hype to healthspan' panel and Jens Walter's microbiome talk summarised. |
 | 7 | 2026-11-10 | 7290664 | Healthspan day 1 complete from the agenda: billed titles, the afternoon's four sessions with ALT's slides, unrecorded sessions as placeholders. |
+| 8 | 2026-11-10 | c49e6db | Data only: the consumer insights panel summarised. |
