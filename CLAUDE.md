@@ -50,4 +50,4 @@ reads it through `exports/api/v1/` (docs/api.md), never its files; this tool rea
 
 `dashboard/` is static (plain JS, no build, no storage). Its only data is `dashboard/data/events.json`. The smoke test builds
 the synthetic fixture (`tests/fixture/`, invented, nothing in it was said by anyone) into a temporary copy, so it never
-depends on the real store. Publishing the artifact is the main session's step (`dashboard/ARTIFACT.md`, once published).
+depends on the real store. Published as a private artifact; how and which versions: `dashboard/ARTIFACT.md`.
