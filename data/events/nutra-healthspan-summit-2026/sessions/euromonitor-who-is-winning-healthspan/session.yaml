@@ -1,19 +1,22 @@
 id: euromonitor-who-is-winning-healthspan
-title: 'Euromonitor: who is winning in the healthspan economy'
+title: 'Fewer products, more proof: who is winning the healthspan economy?'
 date: '2026-11-10'
-start: '09:24'
-end: '09:47'
+start: 09:24
+end: 09:47
 format: talk
 track: ''
 speakers:
 - name: Nick Stene
-  organisation: Euromonitor
-  role: Senior global insight manager, consumer health (as introduced)
-themes: [longevity-positioning, branded-ingredients-differentiation, whey-price-squeeze]
+  organisation: Euromonitor International
+  role: Senior Global Insight Manager, Consumer Health
+themes:
+- longevity-positioning
+- branded-ingredients-differentiation
+- whey-price-squeeze
 ingredients:
 - protein
 - magnesium
-- '"L3 and eight" (a magnesium form, as Otter heard it)'
+- L-threonate (magnesium; Otter heard "L3 and eight")
 - NAD+
 - spermidine
 - resveratrol
@@ -25,11 +28,12 @@ summary_by: Claude
 summary_date: '2026-11-10'
 reviewed_by: ''
 reviewed_date: ''
-attended_by: [Nathan]
+attended_by:
+- Nathan
 links:
   otter: https://otter.ai/u/I6bgV_HNiWcf94HGErPRO0tu7Hs
-to_check: 'Billed title, the speaker''s name (the chair said "Nick Steen", the recording is titled "Nick Stene") and role, and the
-  track are not confirmed as the programme is not published yet; also the currency of the 373 billion figure, the brands Otter
-  heard as "I am eight" and "ancient and brave", and whether photos of the slides exist.'
+to_check: 'Track and room are not confirmed (the programme is not published yet). Settled from the slides and Nathan''s note:
+  the title and the speaker (photo 1); Otter''s "I am eight" is IM8 (photo 7, notes), "ancient and brave" is Ancient + Brave
+  (notes), "L3 and eight" is L-threonate (photo 3).'
 added: '2026-11-10'
 added_by: Claude (from Nathan's Otter recording, 10 Nov 2026)
