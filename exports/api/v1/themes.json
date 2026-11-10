@@ -1,7 +1,7 @@
 {
  "schema": "confnotes.themes/1",
  "built": "2026-11-10",
- "commit": "8bf40b9",
+ "commit": "bb540bf",
  "count": 19,
  "items": [
   {
@@ -77,6 +77,12 @@
    "first_seen": "remedy-cdmo-2026",
    "events": [],
    "sessions": [
+    {
+     "event": "nutra-healthspan-summit-2026",
+     "session": "consumer-insights-straight-from-the-horse",
+     "title": "Consumer Insights - Straight from the Horse's Mouth",
+     "date": "2026-11-10"
+    },
     {
      "event": "sans-europe-2026",
      "session": "a-bigger-sports-nutrition-landscape-growth",
@@ -240,6 +246,12 @@
      "event": "nutra-healthspan-summit-2026",
      "session": "jens-walter-microbiome-ageing",
      "title": "Synbiotic Health Presentation",
+     "date": "2026-11-10"
+    },
+    {
+     "event": "nutra-healthspan-summit-2026",
+     "session": "consumer-insights-straight-from-the-horse",
+     "title": "Consumer Insights - Straight from the Horse's Mouth",
      "date": "2026-11-10"
     },
     {
@@ -421,6 +433,12 @@
     },
     {
      "event": "nutra-healthspan-summit-2026",
+     "session": "consumer-insights-straight-from-the-horse",
+     "title": "Consumer Insights - Straight from the Horse's Mouth",
+     "date": "2026-11-10"
+    },
+    {
+     "event": "nutra-healthspan-summit-2026",
      "session": "absorbed-or-assumed-why-pharmacokinetic",
      "title": "Absorbed or Assumed? Why Pharmacokinetic Testing Matters",
      "date": "2026-11-10"
@@ -492,6 +510,12 @@
      "event": "nutra-healthspan-summit-2026",
      "session": "from-hype-to-healthspan-building-the",
      "title": "From hype to healthspan: Building the future of longevity nutrition",
+     "date": "2026-11-10"
+    },
+    {
+     "event": "nutra-healthspan-summit-2026",
+     "session": "consumer-insights-straight-from-the-horse",
+     "title": "Consumer Insights - Straight from the Horse's Mouth",
      "date": "2026-11-10"
     },
     {
@@ -637,6 +661,12 @@
    "sessions": [
     {
      "event": "nutra-healthspan-summit-2026",
+     "session": "consumer-insights-straight-from-the-horse",
+     "title": "Consumer Insights - Straight from the Horse's Mouth",
+     "date": "2026-11-10"
+    },
+    {
+     "event": "nutra-healthspan-summit-2026",
      "session": "ai-driven-personalization-at-scale",
      "title": "AI-Driven Personalization at Scale: Turning Wellness Complexity into Clear Guidance",
      "date": "2026-11-10"
@@ -660,6 +690,12 @@
      "event": "nutra-healthspan-summit-2026",
      "session": "lumina-new-longevity-consumer",
      "title": "Too Young to Age? The New Consumer Rules of Longevity",
+     "date": "2026-11-10"
+    },
+    {
+     "event": "nutra-healthspan-summit-2026",
+     "session": "consumer-insights-straight-from-the-horse",
+     "title": "Consumer Insights - Straight from the Horse's Mouth",
      "date": "2026-11-10"
     },
     {
