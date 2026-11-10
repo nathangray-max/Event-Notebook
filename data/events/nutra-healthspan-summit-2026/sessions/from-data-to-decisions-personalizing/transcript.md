@@ -1,5 +1,5 @@
-# Panel: AI and personalisation: transcript
-Source: Otter.ai recording "AI and personalisation", https://otter.ai/u/-k4hALOw3AUx3ekDXa4rcKg3HJw, recorded 10 Nov 2026 16:40, 1h 6m. This session is from [33:02] to the end of the recording, including the closing of the day from [1:05:01]. Speaker labels are Otter's.
+# From Data to Decisions: Personalizing Longevity: transcript
+Source: Otter.ai recording "AI and personalisation", https://otter.ai/u/-k4hALOw3AUx3ekDXa4rcKg3HJw, recorded 10 Nov 2026 16:40, 1h 6m. This session is from [33:02] to the end of the recording, including the Chair's Closing Remarks from [1:05:01]. Speaker labels are Otter's.
 
 [33:02] Speaker 1: have 16 seconds to go, so the park driving. So we're now going to go into our panel discussion. So you can hang around. And I'm also going to be joined by. So joined again by Dr. Ernie Manna, who spoke to you before about porn, and also Jack Chen, who is the co-founder and CEO of Radical Science. Welcome everyone. Great welcome. Thanks, Mel. Thank you all for joining us today in the last session of the day, and we've got a really interesting discussion up ahead. As I kind of mentioned before, we've got this perfect kind of like product cycle journey using AI, where we've got AI for discovery, AI for clinical validation, and then AI. We should switch our locations. Yeah, maybe you
 [34:00] Stephen Daniells (NutraIngredients): should. No, don't worry. There we go.

@@ -1,4 +1,4 @@
-# ALT: AMBROSIA, AI for ingredient discovery: transcript
+# Artificial Intelligence to Rapidly Develop, Improve and Expand Use of Natural Ingredients: transcript
 Source: Otter.ai recording "AI and personalisation", https://otter.ai/u/-k4hALOw3AUx3ekDXa4rcKg3HJw, recorded 10 Nov 2026 16:40, 1h 6m. This session is from [17:21] to [33:02] of the recording. Speaker labels are Otter's.
 
 [17:21] Speaker 1: so much, OHAD. We're actually to hold. We're going to hold questions until the panel, if that's okay. Lovely. Thank you so much. Thank you. Okay, I would now like to welcome to the stage Dr. Paul Spandwalo. Hopefully, I pronounced that quickly. Co-founder and CSO of Applied Laboratory Technologies, and Paul's going to explain how we can use autonomous AI engines to fast-track ingredient discovery.

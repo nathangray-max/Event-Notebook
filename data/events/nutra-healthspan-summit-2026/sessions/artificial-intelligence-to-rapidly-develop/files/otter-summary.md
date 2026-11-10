@@ -1,6 +1,6 @@
 Otter.ai's automatic summary, as received. Not ours.
 
-It covers the whole recording "AI and personalisation" (Ohad Manor's talk, Paul Spagnuolo's talk and the panel), not only this session. Otter's "Jack" and "Radical Science" are Jeff Chen and Radicle Science.
+It covers the whole recording "AI and personalisation" (Ohad Manor's talk, Paul Spagnuolo's talk and the panel), not only this session (the recording holds three billed sessions). Otter's "Jack" and "Radical Science" are Jeff Chen and Radicle Science.
 
 This meeting explores the use of AI to accelerate ingredient discovery, validate clinical trials, and personalize consumer wellness products.
 

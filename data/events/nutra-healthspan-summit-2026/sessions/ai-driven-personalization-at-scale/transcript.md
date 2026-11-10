@@ -1,4 +1,4 @@
-# Thorne: Taya, an AI adviser for personalised supplements: transcript
+# AI-Driven Personalization at Scale: Turning Wellness Complexity into Clear Guidance: transcript
 Source: Otter.ai recording "AI and personalisation", https://otter.ai/u/-k4hALOw3AUx3ekDXa4rcKg3HJw, recorded 10 Nov 2026 16:40, 1h 6m. This session is from [00:00] to [17:21] of the recording. Speaker labels are Otter's.
 
 [00:00] Speaker 1: A presentation on personalization. So up first, we have Dr. Ohad Manna, Vice President of Computational Precision Health at Thorn, and he's going to talk about how AI-driven personalization can help consumers make sense of a crowded wellness landscape. All
