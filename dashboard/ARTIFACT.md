@@ -2,7 +2,7 @@
 
 Private claude.ai artifact: https://claude.ai/artifact/UpL7V3Ly6oexgCAZBnDGUk
 
-Publish from a commit, never the working tree: `git archive <commit> conference-notes/dashboard` into a scratch folder,
+Publish from a commit, never the working tree: `git archive <commit> dashboard` into a scratch folder,
 publish `index.html` to the URL above with `app.js`, `styles.css` (text/css) and `data/events.json` in the files map.
 Leave out `test/` and this file. Slide photos are not published: the dashboard shows each slide's transcribed text.
 

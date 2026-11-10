@@ -1,5 +1,7 @@
 # Conference Notes
 
+Repository: `nathangray-max/Event-Notebook` (private). The tool and its dashboard are called Conference Notes.
+
 Vita Actives' record of **what we learn at conferences**: the presentations and transcripts as received, a summary and the
 takeaways of every session, the themes running through an event and across years, and one report per event. Part of the
 Vita Actives tool suite beside Cortex (meetings, projects, tasks), Market Intelligence (`nathangray-max/VA-Analysis`),
@@ -10,7 +12,7 @@ ProductDB and the Black Book. Cortex reads it through the Suite API (`exports/ap
 - `confnotes/`: the loader and checks (`store.py`), text extraction from PDF, PPTX and DOCX (`extract.py`), the dashboard
   build (`build.py`), the Suite API export (`api.py`) and the command line (`python -m confnotes`).
 - `.claude/skills/`: how material becomes a record: `new-event`, `add-session`, `event-report`.
-- `docs/design.md`: what it holds and why. `docs/api.md`: the contracts. `docs/build_plan.md`: phases and the move to its own repo.
+- `docs/design.md`: what it holds and why. `docs/api.md`: the contracts. `docs/build_plan.md`: phases.
 
 Filing a talk: drop the slides, the transcript or your notes into a Claude session and say which talk and which event it was.
 Claude files the originals untouched, pulls the text out of the slides, drafts the summary with every takeaway citing its

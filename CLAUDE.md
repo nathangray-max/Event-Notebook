@@ -16,8 +16,8 @@ reads it through `exports/api/v1/` (docs/api.md), never its files; this tool rea
 - **Ids never change**; theme ids are shared across events (`data/themes.yaml`). Add a theme only when none fits.
 - **Never hand-edit generated files**: `dashboard/data/`, `exports/api/v1/`, `files/*.txt`. Regenerate.
 - **Internal: not for sharing.** Speakers' slides are their copyright.
-- **Develop on `main`** once this is its own repo (today: the `conference-notes/` folder of `nathangray-max/sandbox`);
-  push before a session ends.
+- **Develop on `main`** of `nathangray-max/Event-Notebook`, this tool's own repo since 10 Nov 2026 (it began as a folder
+  of `nathangray-max/sandbox`; the history came with it). Push before a session ends.
 - Run `python -m confnotes check` and `python -m pytest -q` before every commit; `node dashboard/test/smoke.mjs` after a
   dashboard change.
 
@@ -42,7 +42,7 @@ reads it through `exports/api/v1/` (docs/api.md), never its files; this tool rea
 | The themes and report of an event | skill `event-report` |
 | What the store holds and why, the rules | `docs/design.md` |
 | What other tools read | `docs/api.md` |
-| What is built next, moving to its own repo | `docs/build_plan.md` |
+| What is built next | `docs/build_plan.md` |
 | Nathan's decisions | `docs/decisions.csv` |
 | Open small findings | `docs/backlog.md` |
 
