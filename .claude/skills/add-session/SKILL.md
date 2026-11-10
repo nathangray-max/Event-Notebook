@@ -60,6 +60,9 @@ Rules:
   Never add a claim the speaker did not make, and never upgrade one.
 - Quotes are word for word from the transcript or slide. If there is no transcript, quote the slide, not your memory.
 - Whey is never named in text a leader reads (Market Intelligence decision); describe the format or category instead.
+- Whey market (prices, supply, capacity, timing): record what the speaker said in Summary and Key takeaways, but base
+  "For Vita Actives" readings only on Alan Johnstone's account at SANS Europe 2026 (`sans-europe-2026/unfiltered-an-insider-s-view-of`),
+  Nathan's reference (decision 10 Nov 2026). A conflicting figure from another speaker is noted, never adopted.
 - Short sentences, British English, no method talk.
 
 Set in `session.yaml`: `status: summarised`, `summary_by: Claude`, `summary_date: <today>`, `relevance` (high, medium, low:

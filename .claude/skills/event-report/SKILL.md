@@ -6,7 +6,8 @@ description: Write a conference's themes (themes.yaml) and event report (report.
 # Event report
 
 Design: `docs/design.md` (§2 "Themes" and "Event report"). Leader text rules: short exact sentences, no method talk, sources at
-the end, the speaker's hedges kept, whey never named.
+the end, the speaker's hedges kept, whey never named. Whey market statements in a report come from Alan Johnstone's account
+(SANS Europe 2026) only, Nathan's reference (decision 10 Nov 2026); other speakers' whey figures stay in their sessions.
 
 ## 1. Read everything
 
