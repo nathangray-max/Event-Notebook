@@ -1,16 +1,51 @@
 {
  "schema": "confnotes.sessions/1",
  "built": "2026-11-10",
- "commit": "86b82fe",
- "count": 34,
+ "commit": "8bf40b9",
+ "count": 45,
  "items": [
+  {
+   "id": "the-challenge-and-opportunity-of-our",
+   "event": "nutra-healthspan-summit-2026",
+   "title": "The Challenge and Opportunity of Our Ageing Population",
+   "date": "2026-11-10",
+   "start": "09:05",
+   "end": "09:20",
+   "format": "talk",
+   "track": "",
+   "speakers": [],
+   "themes": [],
+   "ingredients": [],
+   "relevance": "",
+   "status": "captured",
+   "summary_by": "",
+   "summary_date": "",
+   "reviewed_by": "",
+   "reviewed_date": "",
+   "attended_by": [],
+   "links": {},
+   "to_check": "Speakers are not on the agenda; no recording, slides or notes filed; whether Nathan attended.",
+   "added": "2026-11-10",
+   "added_by": "Claude (from the printed agenda, Nathan's photo, 10 Nov 2026)",
+   "has_transcript": false,
+   "transcript_words": 0,
+   "has_notes": false,
+   "has_summary": false,
+   "summary": null,
+   "takeaways": [],
+   "quotes": [],
+   "followups": [],
+   "key_slides": [],
+   "detail": [],
+   "files": []
+  },
   {
    "id": "euromonitor-who-is-winning-healthspan",
    "event": "nutra-healthspan-summit-2026",
    "title": "Fewer products, more proof: who is winning the healthspan economy?",
    "date": "2026-11-10",
-   "start": "09:24",
-   "end": "09:47",
+   "start": "09:20",
+   "end": "09:40",
    "format": "talk",
    "track": "",
    "speakers": [
@@ -47,7 +82,7 @@
    "links": {
     "otter": "https://otter.ai/u/I6bgV_HNiWcf94HGErPRO0tu7Hs"
    },
-   "to_check": "Track and room are not confirmed (the programme is not published yet). Settled from the slides and Nathan's note: the title and the speaker (photo 1); Otter's \"I am eight\" is IM8 (photo 7, notes), \"ancient and brave\" is Ancient + Brave (notes), \"L3 and eight\" is L-threonate (photo 3).",
+   "to_check": "Room not on the agenda. Billed 09:20 to 09:40 on the printed agenda (Nathan's photo, 10 Nov 2026); his recording ran 09:24 to 09:47, as the day ran late.",
    "added": "2026-11-10",
    "added_by": "Claude (from Nathan's Otter recording, 10 Nov 2026)",
    "has_transcript": true,
@@ -334,10 +369,10 @@
   {
    "id": "lumina-new-longevity-consumer",
    "event": "nutra-healthspan-summit-2026",
-   "title": "Lumina Intelligence: the new longevity consumer",
+   "title": "Too Young to Age? The New Consumer Rules of Longevity",
    "date": "2026-11-10",
-   "start": "09:47",
-   "end": "10:05",
+   "start": "09:40",
+   "end": "09:55",
    "format": "talk",
    "track": "",
    "speakers": [
@@ -372,7 +407,7 @@
    "links": {
     "otter": "https://otter.ai/u/cIf3E0sDizFN1GEBbAdmh0a8sAs"
    },
-   "to_check": "Still unknown: the billed title, Ewa Hudson's role and the track (neither the recording nor the slides give them; the programme is not published yet), whether Otter's \"Niagara\" is Niagen and \"Novos\" is heard right, and, on photo 1, the label of the lighter bars and whether the 27% at the 50s belongs to the Retired bar.",
+   "to_check": "Ewa Hudson's role at Lumina Intelligence and the room are not confirmed. Title and slot (09:40 to 09:55) from the printed agenda (Nathan's photo, 10 Nov 2026); her recording ran 09:47 to 10:05. Otter's \"Niagara\" is probably Niagen; the 27% bar on photo 1 is not clearly on the Retired series.",
    "added": "2026-11-10",
    "added_by": "Claude (from Nathan's slide photos and Otter recording, 10 Nov 2026)",
    "has_transcript": true,
@@ -967,17 +1002,17 @@
   {
    "id": "jens-walter-microbiome-ageing",
    "event": "nutra-healthspan-summit-2026",
-   "title": "Jens Walter: the microbiome and healthy ageing",
+   "title": "Synbiotic Health Presentation",
    "date": "2026-11-10",
-   "start": "10:38",
-   "end": "11:04",
+   "start": "10:25",
+   "end": "10:45",
    "format": "talk",
    "track": "",
    "speakers": [
     {
      "name": "Jens Walter",
      "organisation": "University College Cork, APC Microbiome Ireland",
-     "role": "Professor (as introduced); co-founder of Symbiotic Health"
+     "role": "Professor (as introduced); co-founder of Synbiotic Health"
     }
    ],
    "themes": [
@@ -1007,7 +1042,7 @@
    "links": {
     "otter": "https://otter.ai/u/qWvuGmyhz5ZKksIa9DnOMpPD4dI"
    },
-   "to_check": "Billed title, his affiliation and role, and the track are not confirmed (the programme is not published yet), nor the spelling of his company (Otter: \"Symbiotic Health\") or his institute (Otter: \"APC Microbiome Island\").",
+   "to_check": "Title and slot (10:25 to 10:45) from the printed agenda (Nathan's photo, 10 Nov 2026); his recording ran 10:38 to 11:04. The agenda spells the company Synbiotic Health (Otter: \"Symbiotic Health\"). His institute is filed as APC Microbiome Ireland (Otter: \"APC Microbiome Island\"); his role is as introduced.",
    "added": "2026-11-10",
    "added_by": "Claude (from Nathan's Otter recording, 10 Nov 2026)",
    "has_transcript": true,
@@ -1015,13 +1050,13 @@
    "has_notes": false,
    "has_summary": true,
    "summary": {
-    "Summary": "Professor Jens Walter of University College Cork and APC Microbiome Ireland, a co-founder of Symbiotic Health, asked whether the gut microbiome shapes how we age, and whether diet or supplements that target it could extend healthspan.\n\nHe started with animal studies. Germ-free rodents live longer than normal ones, but with calorie restriction the microbiome becomes beneficial, so its effect depends on diet. In humans, large observational studies link healthy eating patterns to healthy ageing; one UK study suggests a healthy diet can add about ten years of healthier life if adopted in your 40s and 50s.\n\nHis own trial in Cell put students on a high-fibre, non-industrialised diet for three weeks. Bifidobacteria rose, inflammatory bacteria fell, and LDL cholesterol dropped by 17%. Older people rarely change their whole diet, so he sees room for alternatives: Bifidobacterium adolescentis, which falls with age and is linked with healthy ageing, paired with fibre.\n\nHe kept his hedges. Causality is clearly established in animals only, there is no direct evidence yet that the microbiome mediates diet's effects in humans, and clinical trials are needed. His company's trials in older people have not reported. In questions he doubted that postbiotics can change gut ecology.",
-    "Key takeaways": "- In animal studies, rodents kept without a microbiome live almost ten months longer than normal mice, which live about 25 months; with calorie restriction the microbiome becomes beneficial and those animals live longest [00:24].\n- Observational studies in humans link healthy dietary patterns to healthy ageing; one UK study found a healthy diet can extend healthier lifespan by ten years, adopted in the 40s and 50s, and \"probably\" five to six years if adopted in the 70s [00:24].\n- His Cell trial of a non-industrialised, higher-fibre diet in students over three weeks raised bifidobacteria and indole-3-propionic acid, lowered faecal pH and secondary bile acids, cut LDL cholesterol by 17% and reduced blood glucose and CRP [00:24].\n- Bifidobacterium adolescentis falls with age and is associated with healthy ageing (centenarians in Sardinia, slower epigenetic ageing in about 123 people); in animal studies it improved healthspan and lifespan; human trials in older people by Symbiotic Health are ongoing, with no data yet [00:24].\n- His conclusion: the microbiome is a plausible contributor to healthy ageing, established in animal models; causality is hard to establish in humans and clinical trials are needed [00:24].\n- He is doubtful that a postbiotic can change gut ecology or raise short-chain fatty acids, prefers probiotic bifidobacteria with fibre, and sees a possible role for postbiotics in a direct immune effect [22:01] [22:52].",
+    "Summary": "Professor Jens Walter of University College Cork and APC Microbiome Ireland, a co-founder of Synbiotic Health, asked whether the gut microbiome shapes how we age, and whether diet or supplements that target it could extend healthspan.\n\nHe started with animal studies. Germ-free rodents live longer than normal ones, but with calorie restriction the microbiome becomes beneficial, so its effect depends on diet. In humans, large observational studies link healthy eating patterns to healthy ageing; one UK study suggests a healthy diet can add about ten years of healthier life if adopted in your 40s and 50s.\n\nHis own trial in Cell put students on a high-fibre, non-industrialised diet for three weeks. Bifidobacteria rose, inflammatory bacteria fell, and LDL cholesterol dropped by 17%. Older people rarely change their whole diet, so he sees room for alternatives: Bifidobacterium adolescentis, which falls with age and is linked with healthy ageing, paired with fibre.\n\nHe kept his hedges. Causality is clearly established in animals only, there is no direct evidence yet that the microbiome mediates diet's effects in humans, and clinical trials are needed. His company's trials in older people have not reported. In questions he doubted that postbiotics can change gut ecology.",
+    "Key takeaways": "- In animal studies, rodents kept without a microbiome live almost ten months longer than normal mice, which live about 25 months; with calorie restriction the microbiome becomes beneficial and those animals live longest [00:24].\n- Observational studies in humans link healthy dietary patterns to healthy ageing; one UK study found a healthy diet can extend healthier lifespan by ten years, adopted in the 40s and 50s, and \"probably\" five to six years if adopted in the 70s [00:24].\n- His Cell trial of a non-industrialised, higher-fibre diet in students over three weeks raised bifidobacteria and indole-3-propionic acid, lowered faecal pH and secondary bile acids, cut LDL cholesterol by 17% and reduced blood glucose and CRP [00:24].\n- Bifidobacterium adolescentis falls with age and is associated with healthy ageing (centenarians in Sardinia, slower epigenetic ageing in about 123 people); in animal studies it improved healthspan and lifespan; human trials in older people by Synbiotic Health are ongoing, with no data yet [00:24].\n- His conclusion: the microbiome is a plausible contributor to healthy ageing, established in animal models; causality is hard to establish in humans and clinical trials are needed [00:24].\n- He is doubtful that a postbiotic can change gut ecology or raise short-chain fatty acids, prefers probiotic bifidobacteria with fibre, and sees a possible role for postbiotics in a direct immune effect [22:01] [22:52].",
     "For Vita Actives": "- He sees the next healthy-ageing supplements as probiotic bifidobacteria combined with fibre, because older people rarely change their whole diet [00:24]. My reading: fibre for healthy ageing may be pitched as a partner to probiotics, within what the evidence supports, which he says is not yet proven in humans.\n- He cited animal research in which high-protein diets shorten lifespan, and said he is not sure how far it translates to humans [00:24]. My reading: brands selling protein for healthy ageing may hear this; our answer should rest on human muscle evidence.\n- Postbiotics divide the speakers: Nick Stene of Euromonitor sees them leading the ingredients queuing behind NAD+, with share up 48% and one of the strongest price premiums (euromonitor-who-is-winning-healthspan), while Walter doubts they can change gut ecology [22:01]. Both views are given.\n- Relevance medium: healthy-ageing science around fibre and probiotics; protein comes up only through animal studies.",
     "Quotes": "- \"...the microbiome is a plausible contributor to healthy aging in animal model.\" Speaker 1 (Jens Walter) [00:24]\n- \"...we don't really have any direct evidence that the microbiome is mediating these these diet effects.\" Speaker 1 (Jens Walter) [00:24]\n- \"...by eating a healthy diet, you can extend your healthier lifespan by 10 years.\" Speaker 1 (Jens Walter) [00:24]\n- \"...I'm not sure a postbiotic can achieve that.\" Speaker 1 (Jens Walter) [22:52]",
-    "Follow-ups": "- Jens Walter: the Symbiotic Health trials in older people, when they report, and its B. adolescentis and fibre combination [00:24].\n- Find his Cell paper on the non-industrialised diet and the UK study on ten years of healthier life [00:24].\n- Confirm his billed title and affiliation, and the spelling of Symbiotic Health, once the programme is published.",
+    "Follow-ups": "- Jens Walter: the Synbiotic Health trials in older people, when they report, and its B. adolescentis and fibre combination [00:24].\n- Find his Cell paper on the non-industrialised diet and the UK study on ten years of healthier life [00:24].\n- Confirm his affiliation as introduced (University College Cork, APC Microbiome Ireland).",
     "Key slides": "",
-    "Detail": "- The talk is one Otter turn from [00:24] to the questions at [20:46]. Stephen Daniells introduced him as \"Professor Jens Walder\" of \"University College Corp\" and co-founder of \"Symbiotic Health\" [00:00]; he described himself as from \"APC Microbiome Island\" and University College Cork [00:24]. Otter's labels: Speaker 1 is Jens Walter; Speakers 2 and 3 are questioners. At [23:31] and [23:38] the Speaker 1 label also carries George's question before Walter's answer.\n- Disclosures: co-founder of Symbiotic Health; funding and consultancy from companies working on probiotics and prebiotics [00:24].\n- Paul O'Toole's work (a Nature paper of 2013): with age, pathogens rise and healthy bacteria fall, with links to inflammation and lower barrier function; the microbiome declines further when older people move into nursing homes, probably linked to diet [00:24].\n- Bifidobacteria make a dramatic dive with ageing; observational research cannot establish cause and effect [00:24].\n- Animal studies: the germ-free lifespan finding has been repeated in mice, rats and other species; \"in a lot of animal models, high protein diets actually shorten lifespan. Not sure to what degree this then translates to human.\" [00:24]\n- A Nature Medicine paper of large cohorts: healthy dietary patterns link to healthy ageing; an unhealthy vegetarian pattern does the least good; the alternative healthy eating index (vegetables, fruit, whole grains, nuts, legumes, omega-3, little industrialised and high-sugar food) has the most convincing link; small amounts of wine are linked to healthier ageing [00:24].\n- A systematic review published a week or two before the talk links Mediterranean diet adherence, partly from intervention studies, to healthy ageing outcomes [00:24].\n- O'Toole's Mediterranean diet study in 612 older people: lower levels of bacteria associated with frailty and cognition, links to lower inflammatory ageing, higher short-chain fatty acids and fewer secondary bile acids, which he said drive colon cancer [00:24].\n- His Cell trial, two years ago: a non-industrialised diet close to Mediterranean, slightly higher in fibre and lower in saturated fat, in students, not older people; bifidobacteria including B. adolescentis and B. longum rose; inflammatory bacteria fell; proteolytic fermentation fell; indole-3-propionic acid, a neuroprotective antioxidant with consistent benefits \"specifically in mice\", rose; participants lost weight [00:24]. The diet gives 45 grams of fibre a day, and the pH drop is \"clearly fiber fermentation\" [23:38].\n- B. adolescentis: enriched in healthy people (Symbiotic Health's data), dominant in adults and reduced in ageing; a keystone species that amplifies fibre's effects; the oldest living person at the time, aged 116, had almost 50% bifidobacteria (\"an N of one\"); it produces GABA, improved intestinal barrier function in his group's paper, and in a Nature Aging paper regulated catalase activity and improved healthspan and lifespan \"in multiple animal species\" [00:24].\n- Lumina's earlier talk came up: he recalled that \"40% of men now in the 40s think healthy eating is actually important\" [00:24]. Ewa Hudson's talk as recorded says healthy eating \"really over-indexes\" for men ten years after their 30s, without a percentage (lumina-new-longevity-consumer). Both are given.\n- Human milk oligosaccharides: studies show they can raise bifidobacteria in older people, but \"the jury is completely out\" on stimulating infant-associated species and on clinical benefit [21:22].\n- Short-chain fatty acids are \"very very hard to increase\", even with extreme diet shifts [22:52].\n- Causality: he has been on three or four papers on it; transplant models and C. elegans have limits; causal inference in humans \"comes with its own bag of limitations\" [23:38].\n- The recipes of the non-industrialised diet are free to download [00:24]."
+    "Detail": "- The talk is one Otter turn from [00:24] to the questions at [20:46]. Stephen Daniells introduced him as \"Professor Jens Walder\" of \"University College Corp\" and co-founder of \"Symbiotic Health\" [00:00]; he described himself as from \"APC Microbiome Island\" and University College Cork [00:24]. Otter's labels: Speaker 1 is Jens Walter; Speakers 2 and 3 are questioners. At [23:31] and [23:38] the Speaker 1 label also carries George's question before Walter's answer.\n- Disclosures: co-founder of Synbiotic Health; funding and consultancy from companies working on probiotics and prebiotics [00:24].\n- Paul O'Toole's work (a Nature paper of 2013): with age, pathogens rise and healthy bacteria fall, with links to inflammation and lower barrier function; the microbiome declines further when older people move into nursing homes, probably linked to diet [00:24].\n- Bifidobacteria make a dramatic dive with ageing; observational research cannot establish cause and effect [00:24].\n- Animal studies: the germ-free lifespan finding has been repeated in mice, rats and other species; \"in a lot of animal models, high protein diets actually shorten lifespan. Not sure to what degree this then translates to human.\" [00:24]\n- A Nature Medicine paper of large cohorts: healthy dietary patterns link to healthy ageing; an unhealthy vegetarian pattern does the least good; the alternative healthy eating index (vegetables, fruit, whole grains, nuts, legumes, omega-3, little industrialised and high-sugar food) has the most convincing link; small amounts of wine are linked to healthier ageing [00:24].\n- A systematic review published a week or two before the talk links Mediterranean diet adherence, partly from intervention studies, to healthy ageing outcomes [00:24].\n- O'Toole's Mediterranean diet study in 612 older people: lower levels of bacteria associated with frailty and cognition, links to lower inflammatory ageing, higher short-chain fatty acids and fewer secondary bile acids, which he said drive colon cancer [00:24].\n- His Cell trial, two years ago: a non-industrialised diet close to Mediterranean, slightly higher in fibre and lower in saturated fat, in students, not older people; bifidobacteria including B. adolescentis and B. longum rose; inflammatory bacteria fell; proteolytic fermentation fell; indole-3-propionic acid, a neuroprotective antioxidant with consistent benefits \"specifically in mice\", rose; participants lost weight [00:24]. The diet gives 45 grams of fibre a day, and the pH drop is \"clearly fiber fermentation\" [23:38].\n- B. adolescentis: enriched in healthy people (Synbiotic Health's data), dominant in adults and reduced in ageing; a keystone species that amplifies fibre's effects; the oldest living person at the time, aged 116, had almost 50% bifidobacteria (\"an N of one\"); it produces GABA, improved intestinal barrier function in his group's paper, and in a Nature Aging paper regulated catalase activity and improved healthspan and lifespan \"in multiple animal species\" [00:24].\n- Lumina's earlier talk came up: he recalled that \"40% of men now in the 40s think healthy eating is actually important\" [00:24]. Ewa Hudson's talk as recorded says healthy eating \"really over-indexes\" for men ten years after their 30s, without a percentage (lumina-new-longevity-consumer). Both are given.\n- Human milk oligosaccharides: studies show they can raise bifidobacteria in older people, but \"the jury is completely out\" on stimulating infant-associated species and on clinical benefit [21:22].\n- Short-chain fatty acids are \"very very hard to increase\", even with extreme diet shifts [22:52].\n- Causality: he has been on three or four papers on it; transplant models and C. elegans have limits; causal inference in humans \"comes with its own bag of limitations\" [23:38].\n- The recipes of the non-industrialised diet are free to download [00:24]."
    },
    "takeaways": [
     {
@@ -1043,7 +1078,7 @@
      ]
     },
     {
-     "text": "Bifidobacterium adolescentis falls with age and is associated with healthy ageing (centenarians in Sardinia, slower epigenetic ageing in about 123 people); in animal studies it improved healthspan and lifespan; human trials in older people by Symbiotic Health are ongoing, with no data yet [00:24].",
+     "text": "Bifidobacterium adolescentis falls with age and is associated with healthy ageing (centenarians in Sardinia, slower epigenetic ageing in about 123 people); in animal studies it improved healthspan and lifespan; human trials in older people by Synbiotic Health are ongoing, with no data yet [00:24].",
      "cites": [
       "00:24"
      ]
@@ -1089,9 +1124,9 @@
     }
    ],
    "followups": [
-    "Jens Walter: the Symbiotic Health trials in older people, when they report, and its B. adolescentis and fibre combination [00:24].",
+    "Jens Walter: the Synbiotic Health trials in older people, when they report, and its B. adolescentis and fibre combination [00:24].",
     "Find his Cell paper on the non-industrialised diet and the UK study on ten years of healthier life [00:24].",
-    "Confirm his billed title and affiliation, and the spelling of Symbiotic Health, once the programme is published."
+    "Confirm his affiliation as introduced (University College Cork, APC Microbiome Ireland)."
    ],
    "key_slides": [],
    "detail": [
@@ -1107,7 +1142,7 @@
      ]
     },
     {
-     "text": "Disclosures: co-founder of Symbiotic Health; funding and consultancy from companies working on probiotics and prebiotics [00:24].",
+     "text": "Disclosures: co-founder of Synbiotic Health; funding and consultancy from companies working on probiotics and prebiotics [00:24].",
      "cites": [
       "00:24"
      ]
@@ -1156,7 +1191,7 @@
      ]
     },
     {
-     "text": "B. adolescentis: enriched in healthy people (Symbiotic Health's data), dominant in adults and reduced in ageing; a keystone species that amplifies fibre's effects; the oldest living person at the time, aged 116, had almost 50% bifidobacteria (\"an N of one\"); it produces GABA, improved intestinal barrier function in his group's paper, and in a Nature Aging paper regulated catalase activity and improved healthspan and lifespan \"in multiple animal species\" [00:24].",
+     "text": "B. adolescentis: enriched in healthy people (Synbiotic Health's data), dominant in adults and reduced in ageing; a keystone species that amplifies fibre's effects; the oldest living person at the time, aged 116, had almost 50% bifidobacteria (\"an N of one\"); it produces GABA, improved intestinal barrier function in his group's paper, and in a Nature Aging paper regulated catalase activity and improved healthspan and lifespan \"in multiple animal species\" [00:24].",
      "cites": [
       "00:24"
      ]
@@ -1193,6 +1228,1098 @@
     }
    ],
    "files": [
+    {
+     "name": "otter-summary.md",
+     "kind": "text",
+     "pages": null
+    }
+   ]
+  },
+  {
+   "id": "consumer-insights-straight-from-the-horse",
+   "event": "nutra-healthspan-summit-2026",
+   "title": "Consumer Insights - Straight from the Horse's Mouth",
+   "date": "2026-11-10",
+   "start": "11:15",
+   "end": "12:00",
+   "format": "panel",
+   "track": "",
+   "speakers": [],
+   "themes": [],
+   "ingredients": [],
+   "relevance": "",
+   "status": "captured",
+   "summary_by": "",
+   "summary_date": "",
+   "reviewed_by": "",
+   "reviewed_date": "",
+   "attended_by": [],
+   "links": {},
+   "to_check": "Speakers are not on the agenda; no recording, slides or notes filed; whether Nathan attended.",
+   "added": "2026-11-10",
+   "added_by": "Claude (from the printed agenda, Nathan's photo, 10 Nov 2026)",
+   "has_transcript": false,
+   "transcript_words": 0,
+   "has_notes": false,
+   "has_summary": false,
+   "summary": null,
+   "takeaways": [],
+   "quotes": [],
+   "followups": [],
+   "key_slides": [],
+   "detail": [],
+   "files": []
+  },
+  {
+   "id": "nutrition-to-improve-mitochondrial-functions",
+   "event": "nutra-healthspan-summit-2026",
+   "title": "Nutrition to Improve Mitochondrial Functions During Ageing",
+   "date": "2026-11-10",
+   "start": "12:00",
+   "end": "12:20",
+   "format": "talk",
+   "track": "",
+   "speakers": [],
+   "themes": [],
+   "ingredients": [],
+   "relevance": "",
+   "status": "captured",
+   "summary_by": "",
+   "summary_date": "",
+   "reviewed_by": "",
+   "reviewed_date": "",
+   "attended_by": [],
+   "links": {},
+   "to_check": "Speakers are not on the agenda; no recording, slides or notes filed; whether Nathan attended.",
+   "added": "2026-11-10",
+   "added_by": "Claude (from the printed agenda, Nathan's photo, 10 Nov 2026)",
+   "has_transcript": false,
+   "transcript_words": 0,
+   "has_notes": false,
+   "has_summary": false,
+   "summary": null,
+   "takeaways": [],
+   "quotes": [],
+   "followups": [],
+   "key_slides": [],
+   "detail": [],
+   "files": []
+  },
+  {
+   "id": "uthever-nmn-nad-metabolism-sleep-health",
+   "event": "nutra-healthspan-summit-2026",
+   "title": "Mitochondrial Function and Ageing / Advancing Human Clinical Research: UTHEVER NMN from NAD+ Metabolism to Sleep Health",
+   "date": "2026-11-10",
+   "start": "12:20",
+   "end": "12:40",
+   "format": "talk",
+   "track": "",
+   "speakers": [],
+   "themes": [],
+   "ingredients": [],
+   "relevance": "",
+   "status": "captured",
+   "summary_by": "",
+   "summary_date": "",
+   "reviewed_by": "",
+   "reviewed_date": "",
+   "attended_by": [],
+   "links": {},
+   "to_check": "Speakers are not on the agenda; no recording, slides or notes filed; whether Nathan attended.",
+   "added": "2026-11-10",
+   "added_by": "Claude (from the printed agenda, Nathan's photo, 10 Nov 2026)",
+   "has_transcript": false,
+   "transcript_words": 0,
+   "has_notes": false,
+   "has_summary": false,
+   "summary": null,
+   "takeaways": [],
+   "quotes": [],
+   "followups": [],
+   "key_slides": [],
+   "detail": [],
+   "files": []
+  },
+  {
+   "id": "mitochondrial-nutrition-next-frontier-ageing",
+   "event": "nutra-healthspan-summit-2026",
+   "title": "Mitochondrial Nutrition and the Next Frontier of Ageing Science",
+   "date": "2026-11-10",
+   "start": "12:40",
+   "end": "13:05",
+   "format": "panel",
+   "track": "",
+   "speakers": [],
+   "themes": [],
+   "ingredients": [],
+   "relevance": "",
+   "status": "captured",
+   "summary_by": "",
+   "summary_date": "",
+   "reviewed_by": "",
+   "reviewed_date": "",
+   "attended_by": [],
+   "links": {},
+   "to_check": "Speakers are not on the agenda; no recording, slides or notes filed; whether Nathan attended.",
+   "added": "2026-11-10",
+   "added_by": "Claude (from the printed agenda, Nathan's photo, 10 Nov 2026)",
+   "has_transcript": false,
+   "transcript_words": 0,
+   "has_notes": false,
+   "has_summary": false,
+   "summary": null,
+   "takeaways": [],
+   "quotes": [],
+   "followups": [],
+   "key_slides": [],
+   "detail": [],
+   "files": []
+  },
+  {
+   "id": "roundtable-discussions",
+   "event": "nutra-healthspan-summit-2026",
+   "title": "Roundtable Discussions",
+   "date": "2026-11-10",
+   "start": "14:05",
+   "end": "14:50",
+   "format": "roundtable",
+   "track": "",
+   "speakers": [],
+   "themes": [],
+   "ingredients": [],
+   "relevance": "",
+   "status": "captured",
+   "summary_by": "",
+   "summary_date": "",
+   "reviewed_by": "",
+   "reviewed_date": "",
+   "attended_by": [],
+   "links": {},
+   "to_check": "Speakers are not on the agenda; no recording, slides or notes filed; whether Nathan attended.",
+   "added": "2026-11-10",
+   "added_by": "Claude (from the printed agenda, Nathan's photo, 10 Nov 2026)",
+   "has_transcript": false,
+   "transcript_words": 0,
+   "has_notes": false,
+   "has_summary": false,
+   "summary": null,
+   "takeaways": [],
+   "quotes": [],
+   "followups": [],
+   "key_slides": [],
+   "detail": [],
+   "files": []
+  },
+  {
+   "id": "healthspan-innovators",
+   "event": "nutra-healthspan-summit-2026",
+   "title": "Healthspan Innovators",
+   "date": "2026-11-10",
+   "start": "14:50",
+   "end": "15:35",
+   "format": "pitch",
+   "track": "",
+   "speakers": [],
+   "themes": [],
+   "ingredients": [],
+   "relevance": "",
+   "status": "captured",
+   "summary_by": "",
+   "summary_date": "",
+   "reviewed_by": "",
+   "reviewed_date": "",
+   "attended_by": [],
+   "links": {},
+   "to_check": "Speakers are not on the agenda; no recording, slides or notes filed; whether Nathan attended.",
+   "added": "2026-11-10",
+   "added_by": "Claude (from the printed agenda, Nathan's photo, 10 Nov 2026)",
+   "has_transcript": false,
+   "transcript_words": 0,
+   "has_notes": false,
+   "has_summary": false,
+   "summary": null,
+   "takeaways": [],
+   "quotes": [],
+   "followups": [],
+   "key_slides": [],
+   "detail": [],
+   "files": []
+  },
+  {
+   "id": "absorbed-or-assumed-why-pharmacokinetic",
+   "event": "nutra-healthspan-summit-2026",
+   "title": "Absorbed or Assumed? Why Pharmacokinetic Testing Matters",
+   "date": "2026-11-10",
+   "start": "16:15",
+   "end": "16:35",
+   "format": "talk",
+   "track": "",
+   "speakers": [
+    {
+     "name": "Amanda Rao",
+     "organisation": "",
+     "role": ""
+    }
+   ],
+   "themes": [
+    "glp-1-nutrition",
+    "longevity-positioning",
+    "branded-ingredients-differentiation"
+   ],
+   "ingredients": [
+    "iron",
+    "vitamin D"
+   ],
+   "relevance": "high",
+   "status": "summarised",
+   "summary_by": "Claude",
+   "summary_date": "2026-11-10",
+   "reviewed_by": "",
+   "reviewed_date": "",
+   "attended_by": [
+    "Nathan"
+   ],
+   "links": {
+    "otter": "https://otter.ai/u/lMJxOAVyscIUi1NAaYM5fY7OhrM"
+   },
+   "to_check": "The recording starts at 16:33, against the billed 16:15-16:35 (the day ran late), so it holds only the last four and a half minutes of the talk and one audience question; Amanda Rao's organisation and role are not in the recording, and Otter's \"using Australian gems\" is unclear.",
+   "added": "2026-11-10",
+   "added_by": "Claude (from Nathan's Otter recording, and from the printed agenda (Nathan's photo, 10 Nov 2026))",
+   "has_transcript": true,
+   "transcript_words": 1033,
+   "has_notes": false,
+   "has_summary": true,
+   "summary": {
+    "Summary": "The recording holds only the last four and a half minutes of Amanda Rao's talk on pharmacokinetic testing, then one audience question. Her argument, in the part recorded: absorption studies are run on the wrong people, in the wrong conditions.\n\nA typical pharmacokinetic study is done on a 25-year-old, while longevity products are typically sold to older women on several medications. GLP-1 medicines slow food through the gut, and studies with paracetamol show lower absorption in people taking them, so they belong in absorption studies. Studies should look at responders and at high and low absorbers, and test products as people take them: with food and coffee, with missed doses and other medications, not fasted and as a single dose.\n\nShe sees research moving from single ingredients to whole formulas, and home blood tests making it easy to track blood levels in long-term trials. AI models that predict exposure need good studies to learn from.\n\nAsked about dose, she said a five-dose pharmacokinetic study early on is easier and cheaper than five doses in a long-term trial, and that the industry may need lower doses taken for longer.",
+    "Key takeaways": "- In the studies she cited, people on GLP-1 medicines absorbed paracetamol 15 to 50 percent less; absorption studies that leave them out are \"not you know, collecting the right data\" [00:00].\n- Study populations do not match buyers: a typical pharmacokinetic study is on a 25-year-old, while longevity products are typically sold to 65-year-old women on three medications, with low oestrogen and a history of antibiotics [00:00].\n- Look at responders and at high and low absorbers, not only at a rise in the blood: \"did 90% of people get that?\" [00:00].\n- Test products as they are taken: most pharmacokinetic studies are fasted and single-dose, while real users eat, drink coffee, miss doses and stack medications [00:00].\n- Long-term trials should measure blood levels as well as outcomes, now that home tests are easy; some nutrients, such as iron and vitamin D, need longer studies [00:00].\n- On dose, a five-dose pharmacokinetic study early is \"easier and honestly cheaper\" than five doses in a long-term study; she suggested lower doses for longer [05:14].",
+    "For Vita Actives": "- Relevance high: this is how absorption evidence for ingredients will be designed and judged, and GLP-1 users are named as a population that absorbs differently [00:00].\n- My reading: bioavailability claims for enhanced-absorption forms may be challenged where the study used young, fasted adults; the populations in our studies are worth checking before a pitch to a healthy-ageing brand [00:00].\n- My reading: products pitched for muscle on a GLP-1 journey (protein, CreaWin) may in time need absorption data in GLP-1 users before brands rely on them [00:00].\n- My reading: a multi-dose pharmacokinetic study is a cheap way to set the dose of a new ingredient before an efficacy trial [05:14].",
+    "Quotes": "- \"So two people, one capsule, different blood levels.\" Speaker 1 (Amanda Rao) [00:00]\n- \"Your typical PK studies done on a 25-year-old.\" Speaker 1 (Amanda Rao) [00:00]\n- \"And as we know, real life is messier than the clinic.\" Speaker 1 (Amanda Rao) [00:00]\n- \"But maybe we need 10 times less for a longer period of time.\" Speaker 1 (Amanda Rao) [05:14]",
+    "Follow-ups": "- Find Amanda Rao's organisation, role and slides (the event offers shared presentations through its post-event survey).\n- Find the studies on paracetamol absorption in people taking GLP-1 medicines that she cited.\n- Check the study populations behind our absorption claims against her points: age, sex, medication, fed or fasted.",
+    "Key slides": "",
+    "Detail": "- Billed 16:15 to 16:35; the recording starts at 16:33, mid-sentence (\"Ones that we all we all know and love\"), and she closes with \"And I think I'm out of time\" [00:00]. The start of the talk, her organisation and her slides are not in the folder. Otter merges her talk into one turn, so every point from it cites [00:00].\n- Factors she named that change blood levels from one capsule: kidney, liver and hormone changes, medication, genetics, gut microbiome, body composition and BMI, and baseline nutrient status [00:00].\n- Sample size: she asked whether a study's sample represents the population the product is for, and answered \"probably not\" [00:00].\n- Finished products: the industry has seen many single-ingredient studies and is moving to how ingredients work together in a whole formula [00:00].\n- Home testing: a finger-prick test from a supermarket can show iron deficiency, so long-term studies should add blood concentrations as they go [00:00].\n- Methods named: models that predict exposure, stable isotope tracers (Otter: \"traces\"), and steady-state studies as well as single-point studies [00:00].\n- Otter's \"using Australian gems\" in the GLP-1 passage is unclear [00:00].\n- The question came from an audience member (Speaker 4): the dose is often set from 90-day toxicology work, not efficacy; can dose response go into pharmacokinetic studies [04:58]? She said yes; with absorption enhancers the aim is that people feel better, or at least that it gets in without long-term side effects; \"it's great to have six times or 10 times more\", but lower doses may be needed [05:14].\n- The chair (Speaker 3) then moved to wearables, AI and healthspan [06:12], filed as ai-driven-personalization-at-scale."
+   },
+   "takeaways": [
+    {
+     "text": "In the studies she cited, people on GLP-1 medicines absorbed paracetamol 15 to 50 percent less; absorption studies that leave them out are \"not you know, collecting the right data\" [00:00].",
+     "cites": [
+      "00:00"
+     ]
+    },
+    {
+     "text": "Study populations do not match buyers: a typical pharmacokinetic study is on a 25-year-old, while longevity products are typically sold to 65-year-old women on three medications, with low oestrogen and a history of antibiotics [00:00].",
+     "cites": [
+      "00:00"
+     ]
+    },
+    {
+     "text": "Look at responders and at high and low absorbers, not only at a rise in the blood: \"did 90% of people get that?\" [00:00].",
+     "cites": [
+      "00:00"
+     ]
+    },
+    {
+     "text": "Test products as they are taken: most pharmacokinetic studies are fasted and single-dose, while real users eat, drink coffee, miss doses and stack medications [00:00].",
+     "cites": [
+      "00:00"
+     ]
+    },
+    {
+     "text": "Long-term trials should measure blood levels as well as outcomes, now that home tests are easy; some nutrients, such as iron and vitamin D, need longer studies [00:00].",
+     "cites": [
+      "00:00"
+     ]
+    },
+    {
+     "text": "On dose, a five-dose pharmacokinetic study early is \"easier and honestly cheaper\" than five doses in a long-term study; she suggested lower doses for longer [05:14].",
+     "cites": [
+      "05:14"
+     ]
+    }
+   ],
+   "quotes": [
+    {
+     "text": "\"So two people, one capsule, different blood levels.\" Speaker 1 (Amanda Rao) [00:00]",
+     "cites": [
+      "00:00"
+     ]
+    },
+    {
+     "text": "\"Your typical PK studies done on a 25-year-old.\" Speaker 1 (Amanda Rao) [00:00]",
+     "cites": [
+      "00:00"
+     ]
+    },
+    {
+     "text": "\"And as we know, real life is messier than the clinic.\" Speaker 1 (Amanda Rao) [00:00]",
+     "cites": [
+      "00:00"
+     ]
+    },
+    {
+     "text": "\"But maybe we need 10 times less for a longer period of time.\" Speaker 1 (Amanda Rao) [05:14]",
+     "cites": [
+      "05:14"
+     ]
+    }
+   ],
+   "followups": [
+    "Find Amanda Rao's organisation, role and slides (the event offers shared presentations through its post-event survey).",
+    "Find the studies on paracetamol absorption in people taking GLP-1 medicines that she cited.",
+    "Check the study populations behind our absorption claims against her points: age, sex, medication, fed or fasted."
+   ],
+   "key_slides": [],
+   "detail": [
+    {
+     "text": "Billed 16:15 to 16:35; the recording starts at 16:33, mid-sentence (\"Ones that we all we all know and love\"), and she closes with \"And I think I'm out of time\" [00:00]. The start of the talk, her organisation and her slides are not in the folder. Otter merges her talk into one turn, so every point from it cites [00:00].",
+     "cites": [
+      "00:00",
+      "00:00"
+     ]
+    },
+    {
+     "text": "Factors she named that change blood levels from one capsule: kidney, liver and hormone changes, medication, genetics, gut microbiome, body composition and BMI, and baseline nutrient status [00:00].",
+     "cites": [
+      "00:00"
+     ]
+    },
+    {
+     "text": "Sample size: she asked whether a study's sample represents the population the product is for, and answered \"probably not\" [00:00].",
+     "cites": [
+      "00:00"
+     ]
+    },
+    {
+     "text": "Finished products: the industry has seen many single-ingredient studies and is moving to how ingredients work together in a whole formula [00:00].",
+     "cites": [
+      "00:00"
+     ]
+    },
+    {
+     "text": "Home testing: a finger-prick test from a supermarket can show iron deficiency, so long-term studies should add blood concentrations as they go [00:00].",
+     "cites": [
+      "00:00"
+     ]
+    },
+    {
+     "text": "Methods named: models that predict exposure, stable isotope tracers (Otter: \"traces\"), and steady-state studies as well as single-point studies [00:00].",
+     "cites": [
+      "00:00"
+     ]
+    },
+    {
+     "text": "Otter's \"using Australian gems\" in the GLP-1 passage is unclear [00:00].",
+     "cites": [
+      "00:00"
+     ]
+    },
+    {
+     "text": "The question came from an audience member (Speaker 4): the dose is often set from 90-day toxicology work, not efficacy; can dose response go into pharmacokinetic studies [04:58]? She said yes; with absorption enhancers the aim is that people feel better, or at least that it gets in without long-term side effects; \"it's great to have six times or 10 times more\", but lower doses may be needed [05:14].",
+     "cites": [
+      "04:58",
+      "05:14"
+     ]
+    },
+    {
+     "text": "The chair (Speaker 3) then moved to wearables, AI and healthspan [06:12], filed as ai-driven-personalization-at-scale.",
+     "cites": [
+      "06:12"
+     ]
+    }
+   ],
+   "files": [
+    {
+     "name": "otter-summary.md",
+     "kind": "text",
+     "pages": null
+    }
+   ]
+  },
+  {
+   "id": "ai-driven-personalization-at-scale",
+   "event": "nutra-healthspan-summit-2026",
+   "title": "AI-Driven Personalization at Scale: Turning Wellness Complexity into Clear Guidance",
+   "date": "2026-11-10",
+   "start": "16:35",
+   "end": "16:55",
+   "format": "talk",
+   "track": "",
+   "speakers": [
+    {
+     "name": "Ohad Manor",
+     "organisation": "Thorne",
+     "role": "Vice President, Computational Precision Health"
+    }
+   ],
+   "themes": [
+    "ai-in-nutraceuticals",
+    "marketing-compliance-social",
+    "outcomes-over-mechanisms"
+   ],
+   "ingredients": [
+    "magnesium (citrate, glycinate, bisglycinate, threonate; Otter also heard \"L-3-on-8\")"
+   ],
+   "relevance": "medium",
+   "status": "summarised",
+   "summary_by": "Claude",
+   "summary_date": "2026-11-10",
+   "reviewed_by": "",
+   "reviewed_date": "",
+   "attended_by": [
+    "Nathan"
+   ],
+   "links": {
+    "otter": "https://otter.ai/u/-k4hALOw3AUx3ekDXa4rcKg3HJw"
+   },
+   "to_check": "Recorded 16:40-16:57 against the billed 16:35-16:55 (the day ran late). Otter's \"Ohad Manna\" and \"Thorn\" are Ohad Manor and Thorne (speaker slide, filed with the panel); the adviser's name is spelt Taya as Otter most often heard it (also \"Kaya\", \"Tya\", \"Tyre\"); Manor gave Thorne's range as both \"over 250 products or SKUs\" and \"over 200 different products\".",
+   "added": "2026-11-10",
+   "added_by": "Claude (from Nathan's Otter recording, and from the printed agenda (Nathan's photo, 10 Nov 2026))",
+   "has_transcript": true,
+   "transcript_words": 3326,
+   "has_notes": false,
+   "has_summary": true,
+   "summary": {
+    "Summary": "Ohad Manor, Vice President of Computational Precision Health at Thorne, argued that supplement shoppers suffer from too much information, not too little. His example was Lena, 47, sleeping badly and wondering about perimenopause, faced with AI answers, social media and influencers.\n\nPersonalisation is the answer, he said, but also a double-edged sword: people differ, and so do ingredients, claims and formulations. Thorne has over 250 products, so even its own shoppers struggle to choose. He sees AI as the engine that can personalise at scale, provided it is data-driven, dynamic and educational rather than a black box.\n\nThorne's answer is Taya, an AI adviser launched in July last year. It works only from Thorne's own products, claims, science and articles, without web access. It asks follow-up questions, narrows its recommendations, adds lifestyle advice and shares articles. By Thorne's count it held over 300,000 conversations in its first year. Manor said it ignores bestsellers and promotions.\n\nHe closed by urging supplement companies to build similar tools. Otherwise people go to ChatGPT, which does not know a company's products as its own medical and ingredient teams do.",
+    "Key takeaways": "- Thorne's own survey, as Manor gave it: roughly 40% of consumers use AI for health questions, and two out of three would use an AI tool they trusted to make decisions [00:23].\n- Taya is a closed system: built on foundation models, but without internet access and limited to Thorne's products, ingredients, claims and science and over 1,000 articles [00:23].\n- Thorne's first-year figures for Taya, as Manor gave them: over 300,000 conversations, over 650,000 messages, over 1.2 million product and lifestyle recommendations, over 135,000 articles shared, and about 92% thumbs up [00:23].\n- In his Lena example, Taya narrowed eight recommendations to two products, explained the ingredients and gave a daily routine with lifestyle tips [00:23].\n- Taya recommends almost the whole portfolio, not the same five products; its top topics in year one were heart health and sports nutrition, then cognition and focus, bone and joint, and metabolism [00:23].\n- His call to brands: build such tools, because ChatGPT \"doesn't know everything about your products the way you know them\" [00:23].",
+    "For Vita Actives": "- An AI adviser on a brand's site answers only from that brand's claims and science [00:23]. My reading: the evidence and approved wording we give customers for our ingredients may end up in the knowledge base such a tool reads, so it should be clear and claim-safe.\n- Shoppers find ingredient forms confusing; Manor named citrate, glycinate, bisglycinate and threonate forms of magnesium [00:23]. My reading: form-specific evidence is what lets a tool like this choose one product over another.\n- Relevance medium: consumer-facing AI at a brand; it touches our ingredients only through the claims and evidence brands feed it.",
+    "Quotes": "- \"So the problem is not, you know, too little information. It's too much information.\" Speaker 2 (Ohad Manor) [00:23]\n- \"She doesn't care about bestsellers.\" Speaker 2 (Ohad Manor) [00:23]\n- \"Otherwise, people are going to ChatGPT, which is great.\" Speaker 2 (Ohad Manor) [00:23]",
+    "Follow-ups": "- Ohad Manor (Thorne): what ingredient evidence and claims Taya reads, and whether suppliers' data goes in.\n- See the panel (from-data-to-decisions-personalizing) for Taya's limits, monitoring and conversion tracking.",
+    "Key slides": "",
+    "Detail": "- Billed 16:35 to 16:55; recorded 16:40 to 16:57. The chair (Speaker 1) introduced him as \"Dr. Ohad Manna\" of \"Thorn\" [00:00]. Otter merges his talk into one turn, so every point from it cites [00:23].\n- Thorne's survey also found that two of three US consumers believe supplements can help them [00:23].\n- Choice overload at Thorne: a search for sleep shows 17 products, and 27 products contain magnesium [00:23].\n- Range size: he said both \"over 250 products or SKUs\" and \"over 200 different products\" [00:23].\n- What he wants from recommendations: data-driven (different people get different answers), dynamic over time, and educational and interactive, unlike past yes-or-no questionnaires [00:23].\n- Thorne's articles are written by its medical team, some with the Mayo Clinic [00:23].\n- Taya launched in July last year; Manor ran the first-year analysis in August; Thorne keeps updating it to the newest frontier models [00:23].\n- He asked the morning's consumer panel whether they use and trust AI [00:23].\n- He invited questions at the end [00:23]; the chair held them for the panel, filed as from-data-to-decisions-personalizing."
+   },
+   "takeaways": [
+    {
+     "text": "Thorne's own survey, as Manor gave it: roughly 40% of consumers use AI for health questions, and two out of three would use an AI tool they trusted to make decisions [00:23].",
+     "cites": [
+      "00:23"
+     ]
+    },
+    {
+     "text": "Taya is a closed system: built on foundation models, but without internet access and limited to Thorne's products, ingredients, claims and science and over 1,000 articles [00:23].",
+     "cites": [
+      "00:23"
+     ]
+    },
+    {
+     "text": "Thorne's first-year figures for Taya, as Manor gave them: over 300,000 conversations, over 650,000 messages, over 1.2 million product and lifestyle recommendations, over 135,000 articles shared, and about 92% thumbs up [00:23].",
+     "cites": [
+      "00:23"
+     ]
+    },
+    {
+     "text": "In his Lena example, Taya narrowed eight recommendations to two products, explained the ingredients and gave a daily routine with lifestyle tips [00:23].",
+     "cites": [
+      "00:23"
+     ]
+    },
+    {
+     "text": "Taya recommends almost the whole portfolio, not the same five products; its top topics in year one were heart health and sports nutrition, then cognition and focus, bone and joint, and metabolism [00:23].",
+     "cites": [
+      "00:23"
+     ]
+    },
+    {
+     "text": "His call to brands: build such tools, because ChatGPT \"doesn't know everything about your products the way you know them\" [00:23].",
+     "cites": [
+      "00:23"
+     ]
+    }
+   ],
+   "quotes": [
+    {
+     "text": "\"So the problem is not, you know, too little information. It's too much information.\" Speaker 2 (Ohad Manor) [00:23]",
+     "cites": [
+      "00:23"
+     ]
+    },
+    {
+     "text": "\"She doesn't care about bestsellers.\" Speaker 2 (Ohad Manor) [00:23]",
+     "cites": [
+      "00:23"
+     ]
+    },
+    {
+     "text": "\"Otherwise, people are going to ChatGPT, which is great.\" Speaker 2 (Ohad Manor) [00:23]",
+     "cites": [
+      "00:23"
+     ]
+    }
+   ],
+   "followups": [
+    "Ohad Manor (Thorne): what ingredient evidence and claims Taya reads, and whether suppliers' data goes in.",
+    "See the panel (from-data-to-decisions-personalizing) for Taya's limits, monitoring and conversion tracking."
+   ],
+   "key_slides": [],
+   "detail": [
+    {
+     "text": "Billed 16:35 to 16:55; recorded 16:40 to 16:57. The chair (Speaker 1) introduced him as \"Dr. Ohad Manna\" of \"Thorn\" [00:00]. Otter merges his talk into one turn, so every point from it cites [00:23].",
+     "cites": [
+      "00:00",
+      "00:23"
+     ]
+    },
+    {
+     "text": "Thorne's survey also found that two of three US consumers believe supplements can help them [00:23].",
+     "cites": [
+      "00:23"
+     ]
+    },
+    {
+     "text": "Choice overload at Thorne: a search for sleep shows 17 products, and 27 products contain magnesium [00:23].",
+     "cites": [
+      "00:23"
+     ]
+    },
+    {
+     "text": "Range size: he said both \"over 250 products or SKUs\" and \"over 200 different products\" [00:23].",
+     "cites": [
+      "00:23"
+     ]
+    },
+    {
+     "text": "What he wants from recommendations: data-driven (different people get different answers), dynamic over time, and educational and interactive, unlike past yes-or-no questionnaires [00:23].",
+     "cites": [
+      "00:23"
+     ]
+    },
+    {
+     "text": "Thorne's articles are written by its medical team, some with the Mayo Clinic [00:23].",
+     "cites": [
+      "00:23"
+     ]
+    },
+    {
+     "text": "Taya launched in July last year; Manor ran the first-year analysis in August; Thorne keeps updating it to the newest frontier models [00:23].",
+     "cites": [
+      "00:23"
+     ]
+    },
+    {
+     "text": "He asked the morning's consumer panel whether they use and trust AI [00:23].",
+     "cites": [
+      "00:23"
+     ]
+    },
+    {
+     "text": "He invited questions at the end [00:23]; the chair held them for the panel, filed as from-data-to-decisions-personalizing.",
+     "cites": [
+      "00:23"
+     ]
+    }
+   ],
+   "files": [
+    {
+     "name": "otter-summary.md",
+     "kind": "text",
+     "pages": null
+    }
+   ]
+  },
+  {
+   "id": "artificial-intelligence-to-rapidly-develop",
+   "event": "nutra-healthspan-summit-2026",
+   "title": "Artificial Intelligence to Rapidly Develop, Improve and Expand Use of Natural Ingredients",
+   "date": "2026-11-10",
+   "start": "16:55",
+   "end": "17:10",
+   "format": "talk",
+   "track": "",
+   "speakers": [
+    {
+     "name": "Paul Spagnuolo",
+     "organisation": "ALT (Applied Laboratory Technologies Ltd.)",
+     "role": "Professor and CSO"
+    }
+   ],
+   "themes": [
+    "ai-in-nutraceuticals",
+    "branded-ingredients-differentiation",
+    "cdmo-partnership-models"
+   ],
+   "ingredients": [
+    "avocatin B (from avocado; Otter heard \"avocat and B\"; ALT's product metavo)",
+    "Menofelis (Finzelberg's Siberian rhubarb extract, on ALT's slide)"
+   ],
+   "relevance": "high",
+   "status": "summarised",
+   "summary_by": "Claude",
+   "summary_date": "2026-11-10",
+   "reviewed_by": "",
+   "reviewed_date": "",
+   "attended_by": [
+    "Nathan"
+   ],
+   "links": {
+    "otter": "https://otter.ai/u/-k4hALOw3AUx3ekDXa4rcKg3HJw"
+   },
+   "to_check": "Recorded 16:57-17:13 against the billed 16:55-17:10 (the day ran late). The photos are slides 14, 15, 16 and 21 only. Otter's \"Spandwalo\", \"asia\" and \"Embroidery\" are taken as Spagnuolo and AMBROSIA from the slides; the chair introduced him as co-founder and CSO, the speaker slide as Professor and CSO.",
+   "added": "2026-11-10",
+   "added_by": "Claude (from Nathan's Otter recording and photos, and from the printed agenda (Nathan's photo, 10 Nov 2026))",
+   "has_transcript": true,
+   "transcript_words": 3042,
+   "has_notes": false,
+   "has_summary": true,
+   "summary": {
+    "Summary": "Paul Spagnuolo, a food science professor at the University of Guelph and co-founder and Chief Scientific Officer of Applied Laboratory Technologies (ALT), declared his conflict of interest and explained why he built an AI tool for ingredient discovery.\n\nFor 20 years his lab has applied pharmaceutical drug discovery to food molecules, taking two products, one from avocado, from discovery to clinical trial and market. That path is long, costly and mostly fails, and the claim at the end covers only the indication studied.\n\nAMBROSIA, an agentic AI platform built with a computational biologist, aims to shorten the discovery and validation stages. As a retroactive test they gave it the avocado molecule. He said it reached in one day the target and use his lab had taken 10 years and millions of dollars to find. ALT's slide claims the stages shrink from years to days and from millions to thousands.\n\nHe said researchers still have to validate in the lab. Finzelberg was the first partner: in less than a week AMBROSIA pointed to how its extract works, which matched Finzelberg's own research. ALT now works business to business, helping companies understand their ingredients and find new markets for them.",
+    "Key takeaways": "- ALT's slide claims AMBROSIA cuts discovery and validation from \"5-10 years\" and millions of dollars to \"5-10 days\" and thousands (photo 1); Spagnuolo said it took AMBROSIA one day to reach what took his lab 10 years [20:14].\n- In ALT's retroactive test on avocatin B, AMBROSIA analysed 1,284 crystal structures and found 361 potential gene targets, 99 at high confidence, with lipid metabolism and PPAR signalling among the primary pathways (photo 2); Spagnuolo said it pointed to acyl-CoA dehydrogenase and fatty acid oxidation [20:14].\n- A claim covers only what was studied: a phase two result on cardiometabolic function \"that's our claim\", not inflammation or longevity [20:14]. ALT pitches AMBROSIA as a way to find new markets for existing ingredients (photo 3) [30:28].\n- AI does not replace the lab: \"you still need to flip the switch\", with researchers doing the validation [20:14].\n- Finzelberg, the first partner, received an answer on its extract in less than a week that matched its own research [30:28]; ALT's slide quotes Finzelberg on Menofelis, its Siberian rhubarb extract for menopause, and AMBROSIA's \"multi-target profiles\" (photo 4).",
+    "For Vita Actives": "- Relevance high: AI tools that propose mechanisms and new uses change how ingredient evidence is generated, and how fast a supplier can reposition a botanical (photo 3) [30:28].\n- A botanical extract supplier, Finzelberg, already uses AMBROSIA to find which compounds in its extract are active and what to study next [30:28]. My reading: a competitor can now get a mechanism map and a study plan for a botanical in days; we should know whether such maps exist for ingredients in our range.\n- Spagnuolo was clear that a prediction is not evidence: lab validation and trials are still needed, and a claim covers only the indication studied [20:14]. My reading: an AI target profile could guide a study plan for one of our ingredients, but it supports no claim on its own.",
+    "Quotes": "- \"...you still need to flip the switch.\" Speaker 4 (Paul Spagnuolo) [20:14]\n- \"It took my lab 10 years to go from understanding the discovery of a molecule to its applications as a fatty acid oxidation inhibitor\" Speaker 4 (Paul Spagnuolo) [20:14]\n- \"We're talking about one specific application.\" Speaker 4 (Paul Spagnuolo) [20:14]\n- \"Identify new markets for existing ingredients\" ALT's slide (photo 3)",
+    "Follow-ups": "- Paul Spagnuolo (ALT): what an AMBROSIA run costs and whether it could profile botanicals in our range.\n- Find the avocatin B phase two trial behind metavo.\n- Finzelberg's Menofelis analysis, as an example of what AMBROSIA's output looks like.",
+    "Key slides": "- (photo 1) ALT's claim: discovery and validation cut from 5-10 years and millions to 5-10 days and thousands.\n- (photo 2) AMBROSIA's target profile for avocatin B: 361 potential gene targets, lipid metabolism and PPAR signalling.\n- (photo 3) ALT's list of AMBROSIA's benefits, including new markets for existing ingredients.\n- (photo 4) Finzelberg's statement on AMBROSIA and its Menofelis extract.",
+    "Detail": "- Billed 16:55 to 17:10; recorded 16:57 to 17:13. The chair (Speaker 1) introduced him as \"Dr. Paul Spandwalo\", co-founder and CSO of Applied Laboratory Technologies [17:21]. Otter heard the platform as \"asia\", \"Embroidery\" and \"Ambrosia\" [20:14]; the slides spell AMBROSIA, \"Agentic Multi Modal Biology & Research Operations System for Intelligent Analysis\" (photo 1).\n- Background: undergraduate and master's degrees in food science at Guelph, physiology at the University of Waterloo, drug pharmacology at the Princess Margaret cancer centre (Otter: \"Prince's Margaret Hospital\"); now also acting associate vice-president of research at Guelph [18:02].\n- His lab: about 15 molecules discovered and validated (cancer, diabetes, some Alzheimer's work), over 70 publications, multiple patents, and \"a couple of approved products\", some on Amazon [20:14]. Over 50 products worked on, of which 15 were new molecules; many failed and were never published [20:14].\n- The avocado molecule (avocatin B; Otter: \"avocat and B\") has completed a phase two trial; he said the product \"has been shown in multiple participants to be able to decrease cholesterol, improve GLP-1 status\", and that the study did not reach longevity or mitochondrial function [20:14]. The commercial product on the slide is metavo (photo 1).\n- He publishes in high-impact journals because a paper elsewhere could be published \"tomorrow\" for a few thousand dollars [20:14].\n- Formulation work includes a human simulated gastrointestinal system and pharmacokinetic studies [20:14].\n- AMBROSIA took about six months to build, with a computational biologist [20:14].\n- Avocatin B profile, as on ALT's slide: primary targets the FABP family, PPAR delta and alpha and GST-A1; selectivity \"100% human targets, 27.4% high-confidence\"; 107 lipid metabolism targets across 12 protein families (photo 2).\n- ALT's listed benefits: less time from discovery to market, a higher success rate in validation research, lower cost, new markets for existing ingredients, and defining the bioactivity within an extract (photo 3).\n- Finzelberg's text on the slide says AMBROSIA \"accelerates the development of effective botanical solutions\" and, for Menofelis, identified multi-target profiles across hormone signalling, inflammation and detoxification (photo 4).\n- ALT was spun out less than a year ago, after Finzelberg asked at a conference in Europe in November last year what it would cost to use; it now works with \"a couple other companies\" [30:28]. He called it B2B rather than B2C [30:28].\n- He ran 16 seconds over [30:28]."
+   },
+   "takeaways": [
+    {
+     "text": "ALT's slide claims AMBROSIA cuts discovery and validation from \"5-10 years\" and millions of dollars to \"5-10 days\" and thousands (photo 1); Spagnuolo said it took AMBROSIA one day to reach what took his lab 10 years [20:14].",
+     "cites": [
+      "photo 1",
+      "20:14"
+     ]
+    },
+    {
+     "text": "In ALT's retroactive test on avocatin B, AMBROSIA analysed 1,284 crystal structures and found 361 potential gene targets, 99 at high confidence, with lipid metabolism and PPAR signalling among the primary pathways (photo 2); Spagnuolo said it pointed to acyl-CoA dehydrogenase and fatty acid oxidation [20:14].",
+     "cites": [
+      "photo 2",
+      "20:14"
+     ]
+    },
+    {
+     "text": "A claim covers only what was studied: a phase two result on cardiometabolic function \"that's our claim\", not inflammation or longevity [20:14]. ALT pitches AMBROSIA as a way to find new markets for existing ingredients (photo 3) [30:28].",
+     "cites": [
+      "20:14",
+      "photo 3",
+      "30:28"
+     ]
+    },
+    {
+     "text": "AI does not replace the lab: \"you still need to flip the switch\", with researchers doing the validation [20:14].",
+     "cites": [
+      "20:14"
+     ]
+    },
+    {
+     "text": "Finzelberg, the first partner, received an answer on its extract in less than a week that matched its own research [30:28]; ALT's slide quotes Finzelberg on Menofelis, its Siberian rhubarb extract for menopause, and AMBROSIA's \"multi-target profiles\" (photo 4).",
+     "cites": [
+      "30:28",
+      "photo 4"
+     ]
+    }
+   ],
+   "quotes": [
+    {
+     "text": "\"...you still need to flip the switch.\" Speaker 4 (Paul Spagnuolo) [20:14]",
+     "cites": [
+      "20:14"
+     ]
+    },
+    {
+     "text": "\"It took my lab 10 years to go from understanding the discovery of a molecule to its applications as a fatty acid oxidation inhibitor\" Speaker 4 (Paul Spagnuolo) [20:14]",
+     "cites": [
+      "20:14"
+     ]
+    },
+    {
+     "text": "\"We're talking about one specific application.\" Speaker 4 (Paul Spagnuolo) [20:14]",
+     "cites": [
+      "20:14"
+     ]
+    },
+    {
+     "text": "\"Identify new markets for existing ingredients\" ALT's slide (photo 3)",
+     "cites": [
+      "photo 3"
+     ]
+    }
+   ],
+   "followups": [
+    "Paul Spagnuolo (ALT): what an AMBROSIA run costs and whether it could profile botanicals in our range.",
+    "Find the avocatin B phase two trial behind metavo.",
+    "Finzelberg's Menofelis analysis, as an example of what AMBROSIA's output looks like."
+   ],
+   "key_slides": [
+    {
+     "photo": 1,
+     "file": "paul-spagnuolo-01.webp",
+     "caption": "ALT's claim: discovery and validation cut from 5-10 years and millions to 5-10 days and thousands."
+    },
+    {
+     "photo": 2,
+     "file": "paul-spagnuolo-02.webp",
+     "caption": "AMBROSIA's target profile for avocatin B: 361 potential gene targets, lipid metabolism and PPAR signalling."
+    },
+    {
+     "photo": 3,
+     "file": "paul-spagnuolo-03.webp",
+     "caption": "ALT's list of AMBROSIA's benefits, including new markets for existing ingredients."
+    },
+    {
+     "photo": 4,
+     "file": "paul-spagnuolo-04.webp",
+     "caption": "Finzelberg's statement on AMBROSIA and its Menofelis extract."
+    }
+   ],
+   "detail": [
+    {
+     "text": "Billed 16:55 to 17:10; recorded 16:57 to 17:13. The chair (Speaker 1) introduced him as \"Dr. Paul Spandwalo\", co-founder and CSO of Applied Laboratory Technologies [17:21]. Otter heard the platform as \"asia\", \"Embroidery\" and \"Ambrosia\" [20:14]; the slides spell AMBROSIA, \"Agentic Multi Modal Biology & Research Operations System for Intelligent Analysis\" (photo 1).",
+     "cites": [
+      "17:21",
+      "20:14",
+      "photo 1"
+     ]
+    },
+    {
+     "text": "Background: undergraduate and master's degrees in food science at Guelph, physiology at the University of Waterloo, drug pharmacology at the Princess Margaret cancer centre (Otter: \"Prince's Margaret Hospital\"); now also acting associate vice-president of research at Guelph [18:02].",
+     "cites": [
+      "18:02"
+     ]
+    },
+    {
+     "text": "His lab: about 15 molecules discovered and validated (cancer, diabetes, some Alzheimer's work), over 70 publications, multiple patents, and \"a couple of approved products\", some on Amazon [20:14]. Over 50 products worked on, of which 15 were new molecules; many failed and were never published [20:14].",
+     "cites": [
+      "20:14",
+      "20:14"
+     ]
+    },
+    {
+     "text": "The avocado molecule (avocatin B; Otter: \"avocat and B\") has completed a phase two trial; he said the product \"has been shown in multiple participants to be able to decrease cholesterol, improve GLP-1 status\", and that the study did not reach longevity or mitochondrial function [20:14]. The commercial product on the slide is metavo (photo 1).",
+     "cites": [
+      "20:14",
+      "photo 1"
+     ]
+    },
+    {
+     "text": "He publishes in high-impact journals because a paper elsewhere could be published \"tomorrow\" for a few thousand dollars [20:14].",
+     "cites": [
+      "20:14"
+     ]
+    },
+    {
+     "text": "Formulation work includes a human simulated gastrointestinal system and pharmacokinetic studies [20:14].",
+     "cites": [
+      "20:14"
+     ]
+    },
+    {
+     "text": "AMBROSIA took about six months to build, with a computational biologist [20:14].",
+     "cites": [
+      "20:14"
+     ]
+    },
+    {
+     "text": "Avocatin B profile, as on ALT's slide: primary targets the FABP family, PPAR delta and alpha and GST-A1; selectivity \"100% human targets, 27.4% high-confidence\"; 107 lipid metabolism targets across 12 protein families (photo 2).",
+     "cites": [
+      "photo 2"
+     ]
+    },
+    {
+     "text": "ALT's listed benefits: less time from discovery to market, a higher success rate in validation research, lower cost, new markets for existing ingredients, and defining the bioactivity within an extract (photo 3).",
+     "cites": [
+      "photo 3"
+     ]
+    },
+    {
+     "text": "Finzelberg's text on the slide says AMBROSIA \"accelerates the development of effective botanical solutions\" and, for Menofelis, identified multi-target profiles across hormone signalling, inflammation and detoxification (photo 4).",
+     "cites": [
+      "photo 4"
+     ]
+    },
+    {
+     "text": "ALT was spun out less than a year ago, after Finzelberg asked at a conference in Europe in November last year what it would cost to use; it now works with \"a couple other companies\" [30:28]. He called it B2B rather than B2C [30:28].",
+     "cites": [
+      "30:28",
+      "30:28"
+     ]
+    },
+    {
+     "text": "He ran 16 seconds over [30:28].",
+     "cites": [
+      "30:28"
+     ]
+    }
+   ],
+   "files": [
+    {
+     "name": "otter-summary.md",
+     "kind": "text",
+     "pages": null
+    },
+    {
+     "name": "paul-spagnuolo-01.webp",
+     "kind": "photo",
+     "pages": 1
+    },
+    {
+     "name": "paul-spagnuolo-02.webp",
+     "kind": "photo",
+     "pages": 1
+    },
+    {
+     "name": "paul-spagnuolo-03.webp",
+     "kind": "photo",
+     "pages": 1
+    },
+    {
+     "name": "paul-spagnuolo-04.webp",
+     "kind": "photo",
+     "pages": 1
+    }
+   ]
+  },
+  {
+   "id": "from-data-to-decisions-personalizing",
+   "event": "nutra-healthspan-summit-2026",
+   "title": "From Data to Decisions: Personalizing Longevity",
+   "date": "2026-11-10",
+   "start": "17:10",
+   "end": "17:45",
+   "format": "panel",
+   "track": "",
+   "speakers": [
+    {
+     "name": "Lauren Nicolle",
+     "organisation": "NutraIngredients+",
+     "role": "Deputy Editor (moderator)"
+    },
+    {
+     "name": "Ohad Manor",
+     "organisation": "Thorne",
+     "role": "Vice President, Computational Precision Health"
+    },
+    {
+     "name": "Paul Spagnuolo",
+     "organisation": "ALT (Applied Laboratory Technologies Ltd.)",
+     "role": "Professor and CSO"
+    },
+    {
+     "name": "Jeff Chen",
+     "organisation": "Radicle Science",
+     "role": "Co-founder & CEO"
+    },
+    {
+     "name": "Stephen Daniells",
+     "organisation": "NutraIngredients",
+     "role": "Global Editor-in-Chief (Chair's Closing Remarks)"
+    }
+   ],
+   "themes": [
+    "ai-in-nutraceuticals",
+    "outcomes-over-mechanisms"
+   ],
+   "ingredients": [],
+   "relevance": "high",
+   "status": "summarised",
+   "summary_by": "Claude",
+   "summary_date": "2026-11-10",
+   "reviewed_by": "",
+   "reviewed_date": "",
+   "attended_by": [
+    "Nathan"
+   ],
+   "links": {
+    "otter": "https://otter.ai/u/-k4hALOw3AUx3ekDXa4rcKg3HJw"
+   },
+   "to_check": "Recorded 17:13-17:46 against the billed 17:10-17:45 (the day ran late). The Chair's Closing Remarks (billed 17:45, Stephen Daniells) are kept here, from [1:05:01]. Jeff Chen gave no separate talk in the recording: he introduced Radicle Science inside the panel [34:11]. Unclear as heard: \"cardiomyopaths\" and \"dual microbiome\" in Chen's 6,000-person study, and the names Daniells listed for the next day.",
+   "added": "2026-11-10",
+   "added_by": "Claude (from Nathan's Otter recording and photos, and from the printed agenda (Nathan's photo, 10 Nov 2026))",
+   "has_transcript": true,
+   "transcript_words": 6775,
+   "has_notes": false,
+   "has_summary": true,
+   "summary": {
+    "Summary": "Lauren Nicolle of NutraIngredients+ chaired the last session of the day, framed as AI across the product cycle: discovery with Paul Spagnuolo of ALT, clinical validation with Jeff Chen of Radicle Science, and the consumer with Ohad Manor of Thorne.\n\nChen described Radicle's decentralised, in-house trials, run at home at a scale site studies cannot reach. On hallucinations, Spagnuolo said they happen all the time and ALT keeps its tool inside the scientific literature. Manor said Taya is a closed system and every message is monitored. Chen said narrow knowledge bases and checking agents cut the risk.\n\nChen argued that home tests, wearables and phones now let trials collect data sites never could, and that machine learning is needed to read it. He wants biomarkers, wearables and surveys combined rather than one trusted alone. Manor said Taya has limits: complicated cases need a healthcare provider, and shoppers should ask who built a tool and on what data.\n\nAll three saw true personalisation as some way off. Spagnuolo pointed to genetics and lifestyle, Chen to precision groups first and trial and error over time, Manor to levels of personalisation. Asked about small studies, Chen called for scale and real-world diversity. Stephen Daniells then closed the day.",
+    "Key takeaways": "- Chen said Radicle Science has put about 100,000 people through double-blind, randomised, placebo-controlled trials in about six years, and is running a US-government-funded mental health trial of 6,000 people with one shared placebo and 19 treatment arms [34:11].\n- Guardrails against hallucination: ALT keeps AMBROSIA from going outside the literature [36:40]; Thorne monitors and scores every Taya message and sends flagged ones to regulatory and medical [37:43]; Chen said narrow knowledge bases and checking agents cut the risk [39:03].\n- Chen: home kits, wearables and phones let decentralised trials collect data sites cannot; agents can automate the \"multi-100-step process\" of a trial, and machine learning is needed to read the data [39:58]. Biomarkers, wearables and surveys each show one part, so he wants them combined [43:09].\n- Small studies: an audience member said many industry studies are pilots of 45-50 or 100 people [58:46]; Spagnuolo said nutraceutical trials run to tens or hundreds, against tens of thousands in pharma [59:13]; Chen said the FDA and NIH are shifting funding toward decentralised approaches [59:31].\n- Spagnuolo called for publishing what did not work, since \"There's no journal of unpublishable results\" [53:38].\n- Chen sees a new chance for brands to show consumers, with their own data, that a product delivers its promise [1:02:46].",
+    "For Vita Actives": "- Relevance high: how ingredient evidence will be generated and judged. Large decentralised trials, run at home, can test many products head to head in parallel [34:11] [59:31]. My reading: a brand could test our ingredient against competitors' in one trial; Radicle is worth a call on cost and design.\n- Pilot studies of a few dozen people were challenged from the floor and by the panel [58:46] [59:13]. My reading: the small studies behind many ingredient claims may carry less weight as larger, real-world trials become common.\n- Chen's point that consumers can see a product work in their own wearable data [1:02:46]. My reading: felt outcomes such as sleep or strength, measured at home, could become part of how brands using our ingredients sell them.\n- Spagnuolo's call for negative results [53:38]. My reading: worth knowing which of our ingredients' unpublished studies a brand or regulator might ask about.",
+    "Quotes": "- \"...so hallucinations all the time.\" Speaker 4 (Paul Spagnuolo) [36:40]\n- \"We put about 100,000 people through double-blind, randomized, placebo-controlled trials.\" Speaker 7 (Jeff Chen) [34:11]\n- \"There's no journal of unpublishable results, right?\" Speaker 4 (Paul Spagnuolo) [53:38]\n- \"...you can construct a beautiful trial that's just not real world\" Speaker 7 (Jeff Chen) [59:31]",
+    "Follow-ups": "- Jeff Chen (Radicle Science): cost and design of a decentralised trial for one of our ingredients, including head-to-head arms.\n- Fill in the post-event survey to get the presentations [1:05:01].\n- Find out who the \"creatine OG\" on the next day's programme is [1:05:01]; relevant to CreaWin.",
+    "Key slides": "- (photo 1) The speaker slide: Lauren Nicolle (moderator) with Ohad Manor, Paul Spagnuolo and Jeff Chen.",
+    "Detail": "- Billed 17:10 to 17:45, with the Chair's Closing Remarks at 17:45; recorded 17:13 to 17:46. Speaker labels: Speaker 1 is Lauren Nicolle, Speaker 2 Ohad Manor, Speaker 4 Paul Spagnuolo, Speaker 7 Jeff Chen; Speaker 3 at [58:46], Speaker 8 and Speaker 9 are audience members; Speakers 5 and 6 are fragments. Otter heard \"Dr. Ernie Manna\", \"porn\", \"Jack Chen\" and \"Radical Science\" [33:02]; the speaker slide gives Ohad Manor, Thorne, Jeff Chen and Radicle Science (photo 1).\n- Jeff Chen gave no separate talk in the recording; he introduced Radicle inside the panel [34:11]. Its platform runs what it calls reflexive trials, which get smarter the more trials it runs; it holds several patents and does recruitment, biostatistics, medical writing and safety monitoring in house [34:11].\n- The 6,000-person study measures, as Otter heard them, \"cardiomyopaths, metabolomics, dual microbiome, continuous glucose monitoring, all in home\" [34:11].\n- Spagnuolo: AI could replace graduate students in making some decisions quickly; its limit is that validation in the lab, and even a clinical trial, are still needed [35:55]. Building the guardrails took the most time [36:40].\n- Manor: Taya could have been built in a day by connecting it to ChatGPT, which \"would defeat the whole purpose\"; validation simulated thousands of conversations [37:43].\n- Chen: a dried blood spot card in the post gives dozens of standard biochemistry panels; phones can take vital signs from a face scan and run cognitive tests [39:58]. He said agentic AI is the newer use, machine learning the original one [39:58].\n- Manor on Taya's limits: it knows only what users tell it; people on many medications, pregnant or with a complicated chronic condition should consult a healthcare provider [45:08]. Shoppers should ask who built a tool, on what data, and whether it can explain its answers [47:08].\n- Chen: the stated public position of OpenAI and Anthropic is that paid or sponsored content does not go into model training or chat answers; he called healthcare the \"golden goose\" for AI companies [48:37].\n- Spagnuolo on personalisation: coffee was once said to raise and later to lower heart-attack risk, until caffeine metabolism explained the difference; wide individual responses sit behind meta-analysis averages [50:44].\n- Chen: start with precision, fitting people into \"a cluster or a segment\", then reach personalisation by trial and error, which is also an engagement, upsell and subscription opportunity; a static product for everyone \"that's going to go away\" [52:18].\n- Manor: Taya is text-only for now; wearables, blood markers and questionnaires are being worked on [54:31]. Logged-in users can ask for more lifestyle or more product advice, and choose between two voices [1:03:57] [1:04:28].\n- Audience question on reading and buying: Thorne tracks whether a session ends in a purchase but cannot see Amazon purchases; many conversations are two or three messages [57:40].\n- Manor measures engagement and learning first as a scientist; conversion matters to the business. He sees Taya becoming proactive, for example reading declining sleep from a wearable and checking after a month whether a product worked [1:01:05].\n- Chen: Radicle rewards trial participants with their own data rather than payment [1:02:46].\n- Chair's Closing Remarks, Stephen Daniells [1:05:01]: presentations that speakers allow will be shared after the post-event survey; a women's health breakfast briefing at 7:30 the next morning; the main programme at 9:00 with \"Ancient and Brave\"; names for the next day as Otter heard them, including \"the creatine OG\"."
+   },
+   "takeaways": [
+    {
+     "text": "Chen said Radicle Science has put about 100,000 people through double-blind, randomised, placebo-controlled trials in about six years, and is running a US-government-funded mental health trial of 6,000 people with one shared placebo and 19 treatment arms [34:11].",
+     "cites": [
+      "34:11"
+     ]
+    },
+    {
+     "text": "Guardrails against hallucination: ALT keeps AMBROSIA from going outside the literature [36:40]; Thorne monitors and scores every Taya message and sends flagged ones to regulatory and medical [37:43]; Chen said narrow knowledge bases and checking agents cut the risk [39:03].",
+     "cites": [
+      "36:40",
+      "37:43",
+      "39:03"
+     ]
+    },
+    {
+     "text": "Chen: home kits, wearables and phones let decentralised trials collect data sites cannot; agents can automate the \"multi-100-step process\" of a trial, and machine learning is needed to read the data [39:58]. Biomarkers, wearables and surveys each show one part, so he wants them combined [43:09].",
+     "cites": [
+      "39:58",
+      "43:09"
+     ]
+    },
+    {
+     "text": "Small studies: an audience member said many industry studies are pilots of 45-50 or 100 people [58:46]; Spagnuolo said nutraceutical trials run to tens or hundreds, against tens of thousands in pharma [59:13]; Chen said the FDA and NIH are shifting funding toward decentralised approaches [59:31].",
+     "cites": [
+      "58:46",
+      "59:13",
+      "59:31"
+     ]
+    },
+    {
+     "text": "Spagnuolo called for publishing what did not work, since \"There's no journal of unpublishable results\" [53:38].",
+     "cites": [
+      "53:38"
+     ]
+    },
+    {
+     "text": "Chen sees a new chance for brands to show consumers, with their own data, that a product delivers its promise [1:02:46].",
+     "cites": [
+      "1:02:46"
+     ]
+    }
+   ],
+   "quotes": [
+    {
+     "text": "\"...so hallucinations all the time.\" Speaker 4 (Paul Spagnuolo) [36:40]",
+     "cites": [
+      "36:40"
+     ]
+    },
+    {
+     "text": "\"We put about 100,000 people through double-blind, randomized, placebo-controlled trials.\" Speaker 7 (Jeff Chen) [34:11]",
+     "cites": [
+      "34:11"
+     ]
+    },
+    {
+     "text": "\"There's no journal of unpublishable results, right?\" Speaker 4 (Paul Spagnuolo) [53:38]",
+     "cites": [
+      "53:38"
+     ]
+    },
+    {
+     "text": "\"...you can construct a beautiful trial that's just not real world\" Speaker 7 (Jeff Chen) [59:31]",
+     "cites": [
+      "59:31"
+     ]
+    }
+   ],
+   "followups": [
+    "Jeff Chen (Radicle Science): cost and design of a decentralised trial for one of our ingredients, including head-to-head arms.",
+    "Fill in the post-event survey to get the presentations [1:05:01].",
+    "Find out who the \"creatine OG\" on the next day's programme is [1:05:01]; relevant to CreaWin."
+   ],
+   "key_slides": [
+    {
+     "photo": 1,
+     "file": "ai-panel-01.webp",
+     "caption": "The speaker slide: Lauren Nicolle (moderator) with Ohad Manor, Paul Spagnuolo and Jeff Chen."
+    }
+   ],
+   "detail": [
+    {
+     "text": "Billed 17:10 to 17:45, with the Chair's Closing Remarks at 17:45; recorded 17:13 to 17:46. Speaker labels: Speaker 1 is Lauren Nicolle, Speaker 2 Ohad Manor, Speaker 4 Paul Spagnuolo, Speaker 7 Jeff Chen; Speaker 3 at [58:46], Speaker 8 and Speaker 9 are audience members; Speakers 5 and 6 are fragments. Otter heard \"Dr. Ernie Manna\", \"porn\", \"Jack Chen\" and \"Radical Science\" [33:02]; the speaker slide gives Ohad Manor, Thorne, Jeff Chen and Radicle Science (photo 1).",
+     "cites": [
+      "58:46",
+      "33:02",
+      "photo 1"
+     ]
+    },
+    {
+     "text": "Jeff Chen gave no separate talk in the recording; he introduced Radicle inside the panel [34:11]. Its platform runs what it calls reflexive trials, which get smarter the more trials it runs; it holds several patents and does recruitment, biostatistics, medical writing and safety monitoring in house [34:11].",
+     "cites": [
+      "34:11",
+      "34:11"
+     ]
+    },
+    {
+     "text": "The 6,000-person study measures, as Otter heard them, \"cardiomyopaths, metabolomics, dual microbiome, continuous glucose monitoring, all in home\" [34:11].",
+     "cites": [
+      "34:11"
+     ]
+    },
+    {
+     "text": "Spagnuolo: AI could replace graduate students in making some decisions quickly; its limit is that validation in the lab, and even a clinical trial, are still needed [35:55]. Building the guardrails took the most time [36:40].",
+     "cites": [
+      "35:55",
+      "36:40"
+     ]
+    },
+    {
+     "text": "Manor: Taya could have been built in a day by connecting it to ChatGPT, which \"would defeat the whole purpose\"; validation simulated thousands of conversations [37:43].",
+     "cites": [
+      "37:43"
+     ]
+    },
+    {
+     "text": "Chen: a dried blood spot card in the post gives dozens of standard biochemistry panels; phones can take vital signs from a face scan and run cognitive tests [39:58]. He said agentic AI is the newer use, machine learning the original one [39:58].",
+     "cites": [
+      "39:58",
+      "39:58"
+     ]
+    },
+    {
+     "text": "Manor on Taya's limits: it knows only what users tell it; people on many medications, pregnant or with a complicated chronic condition should consult a healthcare provider [45:08]. Shoppers should ask who built a tool, on what data, and whether it can explain its answers [47:08].",
+     "cites": [
+      "45:08",
+      "47:08"
+     ]
+    },
+    {
+     "text": "Chen: the stated public position of OpenAI and Anthropic is that paid or sponsored content does not go into model training or chat answers; he called healthcare the \"golden goose\" for AI companies [48:37].",
+     "cites": [
+      "48:37"
+     ]
+    },
+    {
+     "text": "Spagnuolo on personalisation: coffee was once said to raise and later to lower heart-attack risk, until caffeine metabolism explained the difference; wide individual responses sit behind meta-analysis averages [50:44].",
+     "cites": [
+      "50:44"
+     ]
+    },
+    {
+     "text": "Chen: start with precision, fitting people into \"a cluster or a segment\", then reach personalisation by trial and error, which is also an engagement, upsell and subscription opportunity; a static product for everyone \"that's going to go away\" [52:18].",
+     "cites": [
+      "52:18"
+     ]
+    },
+    {
+     "text": "Manor: Taya is text-only for now; wearables, blood markers and questionnaires are being worked on [54:31]. Logged-in users can ask for more lifestyle or more product advice, and choose between two voices [1:03:57] [1:04:28].",
+     "cites": [
+      "54:31",
+      "1:03:57",
+      "1:04:28"
+     ]
+    },
+    {
+     "text": "Audience question on reading and buying: Thorne tracks whether a session ends in a purchase but cannot see Amazon purchases; many conversations are two or three messages [57:40].",
+     "cites": [
+      "57:40"
+     ]
+    },
+    {
+     "text": "Manor measures engagement and learning first as a scientist; conversion matters to the business. He sees Taya becoming proactive, for example reading declining sleep from a wearable and checking after a month whether a product worked [1:01:05].",
+     "cites": [
+      "1:01:05"
+     ]
+    },
+    {
+     "text": "Chen: Radicle rewards trial participants with their own data rather than payment [1:02:46].",
+     "cites": [
+      "1:02:46"
+     ]
+    },
+    {
+     "text": "Chair's Closing Remarks, Stephen Daniells [1:05:01]: presentations that speakers allow will be shared after the post-event survey; a women's health breakfast briefing at 7:30 the next morning; the main programme at 9:00 with \"Ancient and Brave\"; names for the next day as Otter heard them, including \"the creatine OG\".",
+     "cites": [
+      "1:05:01"
+     ]
+    }
+   ],
+   "files": [
+    {
+     "name": "ai-panel-01.webp",
+     "kind": "photo",
+     "pages": 1
+    },
     {
      "name": "otter-summary.md",
      "kind": "text",

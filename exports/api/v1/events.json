@@ -1,7 +1,7 @@
 {
  "schema": "confnotes.events/1",
  "built": "2026-11-10",
- "commit": "86b82fe",
+ "commit": "8bf40b9",
  "count": 3,
  "items": [
   {
@@ -23,16 +23,27 @@
     "event_site": "https://www.nutrahealthspansummit.com",
     "sans_europe_2026": "the day before, same venue: data/events/sans-europe-2026"
    },
-   "to_check": "The programme (sessions, speakers, times) is not on the event page yet; Nathan's screenshots of the event app would give it, as for SANS Europe.",
+   "to_check": "Day 1 programme from the printed agenda (Nathan's photo, 10 Nov 2026); day 2 (11 Nov) not yet seen. Day 1 sessions with no recording or photos are filed as captured: whether Nathan attended them, and any notes. The day ran 10 to 20 minutes late against the agenda.",
    "added": "2026-11-10",
    "added_by": "Claude (from Nathan, 10 Nov 2026, and NutraIngredients' event page)",
    "description": "NutraIngredients' second Healthspan Summit, two days on nutrition for healthy ageing and longevity, held the day after SANS Europe at the same venue. Themes on the event page: state of the market; consumer insights; mitochondrial function and ageing; women's health; diagnostics, testing and wearables; the regulatory landscape; healthcare practitioners; investors and market success; cognition and ageing.",
    "has_report": false,
    "sessions": [
+    "the-challenge-and-opportunity-of-our",
     "euromonitor-who-is-winning-healthspan",
     "lumina-new-longevity-consumer",
     "from-hype-to-healthspan-building-the",
-    "jens-walter-microbiome-ageing"
+    "jens-walter-microbiome-ageing",
+    "consumer-insights-straight-from-the-horse",
+    "nutrition-to-improve-mitochondrial-functions",
+    "uthever-nmn-nad-metabolism-sleep-health",
+    "mitochondrial-nutrition-next-frontier-ageing",
+    "roundtable-discussions",
+    "healthspan-innovators",
+    "absorbed-or-assumed-why-pharmacokinetic",
+    "ai-driven-personalization-at-scale",
+    "artificial-intelligence-to-rapidly-develop",
+    "from-data-to-decisions-personalizing"
    ],
    "themes": [],
    "report": null

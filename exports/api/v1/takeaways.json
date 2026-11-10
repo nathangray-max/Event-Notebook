@@ -1,8 +1,8 @@
 {
  "schema": "confnotes.takeaways/1",
  "built": "2026-11-10",
- "commit": "86b82fe",
- "count": 161,
+ "commit": "8bf40b9",
+ "count": 184,
  "items": [
   {
    "id": "nutra-healthspan-summit-2026/euromonitor-who-is-winning-healthspan#1",
@@ -593,7 +593,7 @@
    "event": "nutra-healthspan-summit-2026",
    "session": "jens-walter-microbiome-ageing",
    "date": "2026-11-10",
-   "text": "Bifidobacterium adolescentis falls with age and is associated with healthy ageing (centenarians in Sardinia, slower epigenetic ageing in about 123 people); in animal studies it improved healthspan and lifespan; human trials in older people by Symbiotic Health are ongoing, with no data yet [00:24].",
+   "text": "Bifidobacterium adolescentis falls with age and is associated with healthy ageing (centenarians in Sardinia, slower epigenetic ageing in about 123 people); in animal studies it improved healthspan and lifespan; human trials in older people by Synbiotic Health are ongoing, with no data yet [00:24].",
    "cites": [
     "00:24"
    ],
@@ -668,6 +668,469 @@
     "protein (high-protein diets, animal studies)"
    ],
    "relevance": "medium",
+   "status": "summarised"
+  },
+  {
+   "id": "nutra-healthspan-summit-2026/absorbed-or-assumed-why-pharmacokinetic#1",
+   "event": "nutra-healthspan-summit-2026",
+   "session": "absorbed-or-assumed-why-pharmacokinetic",
+   "date": "2026-11-10",
+   "text": "In the studies she cited, people on GLP-1 medicines absorbed paracetamol 15 to 50 percent less; absorption studies that leave them out are \"not you know, collecting the right data\" [00:00].",
+   "cites": [
+    "00:00"
+   ],
+   "themes": [
+    "glp-1-nutrition",
+    "longevity-positioning",
+    "branded-ingredients-differentiation"
+   ],
+   "ingredients": [
+    "iron",
+    "vitamin D"
+   ],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "nutra-healthspan-summit-2026/absorbed-or-assumed-why-pharmacokinetic#2",
+   "event": "nutra-healthspan-summit-2026",
+   "session": "absorbed-or-assumed-why-pharmacokinetic",
+   "date": "2026-11-10",
+   "text": "Study populations do not match buyers: a typical pharmacokinetic study is on a 25-year-old, while longevity products are typically sold to 65-year-old women on three medications, with low oestrogen and a history of antibiotics [00:00].",
+   "cites": [
+    "00:00"
+   ],
+   "themes": [
+    "glp-1-nutrition",
+    "longevity-positioning",
+    "branded-ingredients-differentiation"
+   ],
+   "ingredients": [
+    "iron",
+    "vitamin D"
+   ],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "nutra-healthspan-summit-2026/absorbed-or-assumed-why-pharmacokinetic#3",
+   "event": "nutra-healthspan-summit-2026",
+   "session": "absorbed-or-assumed-why-pharmacokinetic",
+   "date": "2026-11-10",
+   "text": "Look at responders and at high and low absorbers, not only at a rise in the blood: \"did 90% of people get that?\" [00:00].",
+   "cites": [
+    "00:00"
+   ],
+   "themes": [
+    "glp-1-nutrition",
+    "longevity-positioning",
+    "branded-ingredients-differentiation"
+   ],
+   "ingredients": [
+    "iron",
+    "vitamin D"
+   ],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "nutra-healthspan-summit-2026/absorbed-or-assumed-why-pharmacokinetic#4",
+   "event": "nutra-healthspan-summit-2026",
+   "session": "absorbed-or-assumed-why-pharmacokinetic",
+   "date": "2026-11-10",
+   "text": "Test products as they are taken: most pharmacokinetic studies are fasted and single-dose, while real users eat, drink coffee, miss doses and stack medications [00:00].",
+   "cites": [
+    "00:00"
+   ],
+   "themes": [
+    "glp-1-nutrition",
+    "longevity-positioning",
+    "branded-ingredients-differentiation"
+   ],
+   "ingredients": [
+    "iron",
+    "vitamin D"
+   ],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "nutra-healthspan-summit-2026/absorbed-or-assumed-why-pharmacokinetic#5",
+   "event": "nutra-healthspan-summit-2026",
+   "session": "absorbed-or-assumed-why-pharmacokinetic",
+   "date": "2026-11-10",
+   "text": "Long-term trials should measure blood levels as well as outcomes, now that home tests are easy; some nutrients, such as iron and vitamin D, need longer studies [00:00].",
+   "cites": [
+    "00:00"
+   ],
+   "themes": [
+    "glp-1-nutrition",
+    "longevity-positioning",
+    "branded-ingredients-differentiation"
+   ],
+   "ingredients": [
+    "iron",
+    "vitamin D"
+   ],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "nutra-healthspan-summit-2026/absorbed-or-assumed-why-pharmacokinetic#6",
+   "event": "nutra-healthspan-summit-2026",
+   "session": "absorbed-or-assumed-why-pharmacokinetic",
+   "date": "2026-11-10",
+   "text": "On dose, a five-dose pharmacokinetic study early is \"easier and honestly cheaper\" than five doses in a long-term study; she suggested lower doses for longer [05:14].",
+   "cites": [
+    "05:14"
+   ],
+   "themes": [
+    "glp-1-nutrition",
+    "longevity-positioning",
+    "branded-ingredients-differentiation"
+   ],
+   "ingredients": [
+    "iron",
+    "vitamin D"
+   ],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "nutra-healthspan-summit-2026/ai-driven-personalization-at-scale#1",
+   "event": "nutra-healthspan-summit-2026",
+   "session": "ai-driven-personalization-at-scale",
+   "date": "2026-11-10",
+   "text": "Thorne's own survey, as Manor gave it: roughly 40% of consumers use AI for health questions, and two out of three would use an AI tool they trusted to make decisions [00:23].",
+   "cites": [
+    "00:23"
+   ],
+   "themes": [
+    "ai-in-nutraceuticals",
+    "marketing-compliance-social",
+    "outcomes-over-mechanisms"
+   ],
+   "ingredients": [
+    "magnesium (citrate, glycinate, bisglycinate, threonate; Otter also heard \"L-3-on-8\")"
+   ],
+   "relevance": "medium",
+   "status": "summarised"
+  },
+  {
+   "id": "nutra-healthspan-summit-2026/ai-driven-personalization-at-scale#2",
+   "event": "nutra-healthspan-summit-2026",
+   "session": "ai-driven-personalization-at-scale",
+   "date": "2026-11-10",
+   "text": "Taya is a closed system: built on foundation models, but without internet access and limited to Thorne's products, ingredients, claims and science and over 1,000 articles [00:23].",
+   "cites": [
+    "00:23"
+   ],
+   "themes": [
+    "ai-in-nutraceuticals",
+    "marketing-compliance-social",
+    "outcomes-over-mechanisms"
+   ],
+   "ingredients": [
+    "magnesium (citrate, glycinate, bisglycinate, threonate; Otter also heard \"L-3-on-8\")"
+   ],
+   "relevance": "medium",
+   "status": "summarised"
+  },
+  {
+   "id": "nutra-healthspan-summit-2026/ai-driven-personalization-at-scale#3",
+   "event": "nutra-healthspan-summit-2026",
+   "session": "ai-driven-personalization-at-scale",
+   "date": "2026-11-10",
+   "text": "Thorne's first-year figures for Taya, as Manor gave them: over 300,000 conversations, over 650,000 messages, over 1.2 million product and lifestyle recommendations, over 135,000 articles shared, and about 92% thumbs up [00:23].",
+   "cites": [
+    "00:23"
+   ],
+   "themes": [
+    "ai-in-nutraceuticals",
+    "marketing-compliance-social",
+    "outcomes-over-mechanisms"
+   ],
+   "ingredients": [
+    "magnesium (citrate, glycinate, bisglycinate, threonate; Otter also heard \"L-3-on-8\")"
+   ],
+   "relevance": "medium",
+   "status": "summarised"
+  },
+  {
+   "id": "nutra-healthspan-summit-2026/ai-driven-personalization-at-scale#4",
+   "event": "nutra-healthspan-summit-2026",
+   "session": "ai-driven-personalization-at-scale",
+   "date": "2026-11-10",
+   "text": "In his Lena example, Taya narrowed eight recommendations to two products, explained the ingredients and gave a daily routine with lifestyle tips [00:23].",
+   "cites": [
+    "00:23"
+   ],
+   "themes": [
+    "ai-in-nutraceuticals",
+    "marketing-compliance-social",
+    "outcomes-over-mechanisms"
+   ],
+   "ingredients": [
+    "magnesium (citrate, glycinate, bisglycinate, threonate; Otter also heard \"L-3-on-8\")"
+   ],
+   "relevance": "medium",
+   "status": "summarised"
+  },
+  {
+   "id": "nutra-healthspan-summit-2026/ai-driven-personalization-at-scale#5",
+   "event": "nutra-healthspan-summit-2026",
+   "session": "ai-driven-personalization-at-scale",
+   "date": "2026-11-10",
+   "text": "Taya recommends almost the whole portfolio, not the same five products; its top topics in year one were heart health and sports nutrition, then cognition and focus, bone and joint, and metabolism [00:23].",
+   "cites": [
+    "00:23"
+   ],
+   "themes": [
+    "ai-in-nutraceuticals",
+    "marketing-compliance-social",
+    "outcomes-over-mechanisms"
+   ],
+   "ingredients": [
+    "magnesium (citrate, glycinate, bisglycinate, threonate; Otter also heard \"L-3-on-8\")"
+   ],
+   "relevance": "medium",
+   "status": "summarised"
+  },
+  {
+   "id": "nutra-healthspan-summit-2026/ai-driven-personalization-at-scale#6",
+   "event": "nutra-healthspan-summit-2026",
+   "session": "ai-driven-personalization-at-scale",
+   "date": "2026-11-10",
+   "text": "His call to brands: build such tools, because ChatGPT \"doesn't know everything about your products the way you know them\" [00:23].",
+   "cites": [
+    "00:23"
+   ],
+   "themes": [
+    "ai-in-nutraceuticals",
+    "marketing-compliance-social",
+    "outcomes-over-mechanisms"
+   ],
+   "ingredients": [
+    "magnesium (citrate, glycinate, bisglycinate, threonate; Otter also heard \"L-3-on-8\")"
+   ],
+   "relevance": "medium",
+   "status": "summarised"
+  },
+  {
+   "id": "nutra-healthspan-summit-2026/artificial-intelligence-to-rapidly-develop#1",
+   "event": "nutra-healthspan-summit-2026",
+   "session": "artificial-intelligence-to-rapidly-develop",
+   "date": "2026-11-10",
+   "text": "ALT's slide claims AMBROSIA cuts discovery and validation from \"5-10 years\" and millions of dollars to \"5-10 days\" and thousands (photo 1); Spagnuolo said it took AMBROSIA one day to reach what took his lab 10 years [20:14].",
+   "cites": [
+    "photo 1",
+    "20:14"
+   ],
+   "themes": [
+    "ai-in-nutraceuticals",
+    "branded-ingredients-differentiation",
+    "cdmo-partnership-models"
+   ],
+   "ingredients": [
+    "avocatin B (from avocado; Otter heard \"avocat and B\"; ALT's product metavo)",
+    "Menofelis (Finzelberg's Siberian rhubarb extract, on ALT's slide)"
+   ],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "nutra-healthspan-summit-2026/artificial-intelligence-to-rapidly-develop#2",
+   "event": "nutra-healthspan-summit-2026",
+   "session": "artificial-intelligence-to-rapidly-develop",
+   "date": "2026-11-10",
+   "text": "In ALT's retroactive test on avocatin B, AMBROSIA analysed 1,284 crystal structures and found 361 potential gene targets, 99 at high confidence, with lipid metabolism and PPAR signalling among the primary pathways (photo 2); Spagnuolo said it pointed to acyl-CoA dehydrogenase and fatty acid oxidation [20:14].",
+   "cites": [
+    "photo 2",
+    "20:14"
+   ],
+   "themes": [
+    "ai-in-nutraceuticals",
+    "branded-ingredients-differentiation",
+    "cdmo-partnership-models"
+   ],
+   "ingredients": [
+    "avocatin B (from avocado; Otter heard \"avocat and B\"; ALT's product metavo)",
+    "Menofelis (Finzelberg's Siberian rhubarb extract, on ALT's slide)"
+   ],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "nutra-healthspan-summit-2026/artificial-intelligence-to-rapidly-develop#3",
+   "event": "nutra-healthspan-summit-2026",
+   "session": "artificial-intelligence-to-rapidly-develop",
+   "date": "2026-11-10",
+   "text": "A claim covers only what was studied: a phase two result on cardiometabolic function \"that's our claim\", not inflammation or longevity [20:14]. ALT pitches AMBROSIA as a way to find new markets for existing ingredients (photo 3) [30:28].",
+   "cites": [
+    "20:14",
+    "photo 3",
+    "30:28"
+   ],
+   "themes": [
+    "ai-in-nutraceuticals",
+    "branded-ingredients-differentiation",
+    "cdmo-partnership-models"
+   ],
+   "ingredients": [
+    "avocatin B (from avocado; Otter heard \"avocat and B\"; ALT's product metavo)",
+    "Menofelis (Finzelberg's Siberian rhubarb extract, on ALT's slide)"
+   ],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "nutra-healthspan-summit-2026/artificial-intelligence-to-rapidly-develop#4",
+   "event": "nutra-healthspan-summit-2026",
+   "session": "artificial-intelligence-to-rapidly-develop",
+   "date": "2026-11-10",
+   "text": "AI does not replace the lab: \"you still need to flip the switch\", with researchers doing the validation [20:14].",
+   "cites": [
+    "20:14"
+   ],
+   "themes": [
+    "ai-in-nutraceuticals",
+    "branded-ingredients-differentiation",
+    "cdmo-partnership-models"
+   ],
+   "ingredients": [
+    "avocatin B (from avocado; Otter heard \"avocat and B\"; ALT's product metavo)",
+    "Menofelis (Finzelberg's Siberian rhubarb extract, on ALT's slide)"
+   ],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "nutra-healthspan-summit-2026/artificial-intelligence-to-rapidly-develop#5",
+   "event": "nutra-healthspan-summit-2026",
+   "session": "artificial-intelligence-to-rapidly-develop",
+   "date": "2026-11-10",
+   "text": "Finzelberg, the first partner, received an answer on its extract in less than a week that matched its own research [30:28]; ALT's slide quotes Finzelberg on Menofelis, its Siberian rhubarb extract for menopause, and AMBROSIA's \"multi-target profiles\" (photo 4).",
+   "cites": [
+    "30:28",
+    "photo 4"
+   ],
+   "themes": [
+    "ai-in-nutraceuticals",
+    "branded-ingredients-differentiation",
+    "cdmo-partnership-models"
+   ],
+   "ingredients": [
+    "avocatin B (from avocado; Otter heard \"avocat and B\"; ALT's product metavo)",
+    "Menofelis (Finzelberg's Siberian rhubarb extract, on ALT's slide)"
+   ],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "nutra-healthspan-summit-2026/from-data-to-decisions-personalizing#1",
+   "event": "nutra-healthspan-summit-2026",
+   "session": "from-data-to-decisions-personalizing",
+   "date": "2026-11-10",
+   "text": "Chen said Radicle Science has put about 100,000 people through double-blind, randomised, placebo-controlled trials in about six years, and is running a US-government-funded mental health trial of 6,000 people with one shared placebo and 19 treatment arms [34:11].",
+   "cites": [
+    "34:11"
+   ],
+   "themes": [
+    "ai-in-nutraceuticals",
+    "outcomes-over-mechanisms"
+   ],
+   "ingredients": [],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "nutra-healthspan-summit-2026/from-data-to-decisions-personalizing#2",
+   "event": "nutra-healthspan-summit-2026",
+   "session": "from-data-to-decisions-personalizing",
+   "date": "2026-11-10",
+   "text": "Guardrails against hallucination: ALT keeps AMBROSIA from going outside the literature [36:40]; Thorne monitors and scores every Taya message and sends flagged ones to regulatory and medical [37:43]; Chen said narrow knowledge bases and checking agents cut the risk [39:03].",
+   "cites": [
+    "36:40",
+    "37:43",
+    "39:03"
+   ],
+   "themes": [
+    "ai-in-nutraceuticals",
+    "outcomes-over-mechanisms"
+   ],
+   "ingredients": [],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "nutra-healthspan-summit-2026/from-data-to-decisions-personalizing#3",
+   "event": "nutra-healthspan-summit-2026",
+   "session": "from-data-to-decisions-personalizing",
+   "date": "2026-11-10",
+   "text": "Chen: home kits, wearables and phones let decentralised trials collect data sites cannot; agents can automate the \"multi-100-step process\" of a trial, and machine learning is needed to read the data [39:58]. Biomarkers, wearables and surveys each show one part, so he wants them combined [43:09].",
+   "cites": [
+    "39:58",
+    "43:09"
+   ],
+   "themes": [
+    "ai-in-nutraceuticals",
+    "outcomes-over-mechanisms"
+   ],
+   "ingredients": [],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "nutra-healthspan-summit-2026/from-data-to-decisions-personalizing#4",
+   "event": "nutra-healthspan-summit-2026",
+   "session": "from-data-to-decisions-personalizing",
+   "date": "2026-11-10",
+   "text": "Small studies: an audience member said many industry studies are pilots of 45-50 or 100 people [58:46]; Spagnuolo said nutraceutical trials run to tens or hundreds, against tens of thousands in pharma [59:13]; Chen said the FDA and NIH are shifting funding toward decentralised approaches [59:31].",
+   "cites": [
+    "58:46",
+    "59:13",
+    "59:31"
+   ],
+   "themes": [
+    "ai-in-nutraceuticals",
+    "outcomes-over-mechanisms"
+   ],
+   "ingredients": [],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "nutra-healthspan-summit-2026/from-data-to-decisions-personalizing#5",
+   "event": "nutra-healthspan-summit-2026",
+   "session": "from-data-to-decisions-personalizing",
+   "date": "2026-11-10",
+   "text": "Spagnuolo called for publishing what did not work, since \"There's no journal of unpublishable results\" [53:38].",
+   "cites": [
+    "53:38"
+   ],
+   "themes": [
+    "ai-in-nutraceuticals",
+    "outcomes-over-mechanisms"
+   ],
+   "ingredients": [],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "nutra-healthspan-summit-2026/from-data-to-decisions-personalizing#6",
+   "event": "nutra-healthspan-summit-2026",
+   "session": "from-data-to-decisions-personalizing",
+   "date": "2026-11-10",
+   "text": "Chen sees a new chance for brands to show consumers, with their own data, that a product delivers its promise [1:02:46].",
+   "cites": [
+    "1:02:46"
+   ],
+   "themes": [
+    "ai-in-nutraceuticals",
+    "outcomes-over-mechanisms"
+   ],
+   "ingredients": [],
+   "relevance": "high",
    "status": "summarised"
   },
   {
