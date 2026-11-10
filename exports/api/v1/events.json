@@ -1,7 +1,7 @@
 {
  "schema": "confnotes.events/1",
  "built": "2026-11-10",
- "commit": "662ee25",
+ "commit": "e7053f4",
  "count": 3,
  "items": [
   {
@@ -29,7 +29,8 @@
    "description": "NutraIngredients' second Healthspan Summit, two days on nutrition for healthy ageing and longevity, held the day after SANS Europe at the same venue. Themes on the event page: state of the market; consumer insights; mitochondrial function and ageing; women's health; diagnostics, testing and wearables; the regulatory landscape; healthcare practitioners; investors and market success; cognition and ageing.",
    "has_report": false,
    "sessions": [
-    "euromonitor-who-is-winning-healthspan"
+    "euromonitor-who-is-winning-healthspan",
+    "lumina-new-longevity-consumer"
    ],
    "themes": [],
    "report": null
