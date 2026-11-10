@@ -1,0 +1,4 @@
+# Is the Juice Worth the Squeeze? Polyphenols in Performance and Recovery: transcript
+Source: Otter.ai recording "Mark Evans - SNS", https://otter.ai/u/czP9hEiBGV7ASrKyQI1pL4gsbTg, recorded 9 Nov 2026 14:04, 35s. Speaker labels are Otter's.
+
+[00:00] Speaker 1: Case in point, my wife is an athlete herself, and as I was putting together this this presentation, you know, she was asking a lot of questions about it yesterday. She was like, "What's it about again?" And I was like, "Polyphenols." And she goes, "Oh, is that those things that all the influencers tell me to inject into my ass?" And I was like, "No, I think I think those are peptides." She's like, "Okay, are they different? Yeah, they're like a bit different." And then she texted me this morning saying, "Go look at the the polypeptide presentation
