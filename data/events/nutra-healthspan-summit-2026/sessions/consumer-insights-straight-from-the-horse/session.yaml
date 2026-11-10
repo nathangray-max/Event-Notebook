@@ -5,17 +5,74 @@ start: '11:15'
 end: '12:00'
 format: panel
 track: ''
-speakers: []
-themes: []
-ingredients: []
-relevance: ''
-status: captured
-summary_by: ''
-summary_date: ''
+speakers:
+- name: Stephen Daniells
+  organisation: NutraIngredients
+  role: Global Editor-in-Chief (moderator)
+- name: Robert
+  organisation: consumer panellist
+  role: panellist, age 38
+- name: Matt
+  organisation: consumer panellist
+  role: panellist, age 27
+- name: Mike
+  organisation: consumer panellist
+  role: panellist, age 51
+- name: Michelle
+  organisation: consumer panellist
+  role: panellist, age 64
+- name: Rahav
+  organisation: consumer panellist
+  role: panellist, age 25
+- name: Donella
+  organisation: consumer panellist
+  role: panellist, age 51
+- name: Nadine
+  organisation: consumer panellist
+  role: panellist, age 46
+- name: Kane
+  organisation: consumer panellist
+  role: panellist, age not given
+themes:
+- outcomes-over-mechanisms
+- branded-ingredients-differentiation
+- marketing-compliance-social
+- ai-in-nutraceuticals
+- longevity-positioning
+- novel-proteins-and-blends
+ingredients:
+- amla (Indian gooseberry)
+- vitamin D
+- vitamin C
+- multivitamin
+- magnesium
+- ashwagandha (Otter heard "Schwandanga")
+- iron
+- cod liver oil
+- creatine
+- protein powder
+- collagen
+- matcha
+- black sesame seeds
+- raw ginger
+- omega-3
+- adaptogens
+- nicotinamide riboside
+- spermidine
+- resveratrol
+- probiotics
+- postbiotics
+- mycoprotein (mycelium)
+relevance: high
+status: summarised
+summary_by: Claude
+summary_date: '2026-11-10'
 reviewed_by: ''
 reviewed_date: ''
-attended_by: []
-links: {}
-to_check: Speakers are not on the agenda; no recording, slides or notes filed; whether Nathan attended.
+attended_by:
+- Nathan
+links:
+  otter: https://otter.ai/u/_jNVL-d3crk2KNfsZLWRZBolG-w
+to_check: 'Still unknown: when the recording was made (an audio import; Otter''s 10:32 Pacific start is the upload time), the opening (the recording begins mid-way through the moderator''s introduction), Kane''s age (not given), the room or track, and the show-of-hands results on the science terms (not audible).'
 added: '2026-11-10'
 added_by: Claude (from the printed agenda, Nathan's photo, 10 Nov 2026)
