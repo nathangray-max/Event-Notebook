@@ -18,7 +18,7 @@ The recording ends with the host's close of the day.
 - Ed: people who simply eat less risk missing key nutrients, with a risk of RED-S and deficiencies; for low appetite he puts protein first, then carbohydrate, then micronutrients [32:49], [34:13].
 
 ## For Vita Actives
-- For IsoClr: Pea, the strongest signal is that clear protein is selling very well while plant has not taken off, and taste is the reason [35:09], [37:08]. My reading: a clear pea isolate wins only if it tastes as good as clear whey.
+- For IsoClr: Pea, the strongest signal is that clear protein is selling very well while plant has not taken off, and taste is the reason [35:09], [37:08]. My reading: a clear pea isolate wins only if it tastes as good as clear whey. Brett also said milk protein prices are rising after whey, a further reason a formulator may look at pea now [35:09] (my reading).
 - Low-volume clear protein with fibre, named by both Nick and Brett, is the format to pitch it in [44:38], [45:16] (my reading).
 - For CreaWin, creatine as a "tier one" ingredient across women, ageing and weight-management users, and HMB plus creatine muscle blends, give two concepts to put to brands [38:42], [41:07] (my reading).
 - Supermarkets widening sports nutrition space means more listings for our customers and more mainstream formats [28:46], [39:54] (my reading).

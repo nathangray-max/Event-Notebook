@@ -28,7 +28,6 @@ His advice was plain. Do not try to time the bottom. Keep buying steadily if tod
 - He also set the bar. Mainstream consumers care about taste and texture, not source [00:16]. My reading: a clear pea isolate has to win on taste and clarity before it wins on supply.
 - Clear whey is almost all WPI, where supply is tightest (photo 9). My reading: a clear pea isolate is positioned exactly there.
 - Brands have just reformulated and are reviewing protein blends while WPC80 falls (photo 18). My reading: now is the time to be in front of formulators, before WPC80 settles.
-- Our whey market view rests on this talk (Nathan, 10 Nov 2026).
 
 ## Quotes
 - "...certainly the more mainstream you get with protein products, the less people care about the protein source. I think what people always care about is taste and texture. And whey protein is delicious." Speaker 2 (Alan Johnstone) [00:16]

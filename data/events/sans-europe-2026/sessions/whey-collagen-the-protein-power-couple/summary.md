@@ -22,7 +22,7 @@ The recording ends as she invites the room to Rousselot's roundtables.
 - We have no head-to-head of this kind for pea; that is the gap (my reading).
 - Her collagen supply story (four animal sources, little volatility) is the kind of supply-security argument a plant protein can make more strongly (my reading).
 - Nick Morgan named whey plus collagen clear drinks earlier; a clear pea plus collagen format is a possible combination rather than a competition (my reading).
-- The health claims here come from Rousselot's own studies, with her hedges; none are ours. Relevance high: protein blends.
+- The health claims here come from Rousselot's own studies, with her hedges; none are ours. Relevance high: protein blends and whey pricing.
 
 ## Quotes
 - "So people should no longer ask when will whey prices go down, but what can we do to work around this?" Speaker unknown (Tess Plaquet) [00:10]
@@ -43,5 +43,6 @@ The recording ends as she invites the room to Rousselot's roundtables.
 
 ## Follow-ups
 - Ask Rousselot for the published papers behind the five Peptan studies (whey against whey plus Peptan; soreness; endotoxins; knee; sleep) and the whey plus collagen launch data [00:10].
+- Her WPC80 price (5.7k a tonne in 2023 to almost 32k in 2026, currency not given) differs from Alan Johnstone's Vesper series (WPC80 about €5/kg in 2023 and €27.00/kg on 25 August 2026, unfiltered-an-insider-s-view-of): ask Rousselot for the source and currency, and note both views until it is clear [00:10].
 - Confirm the speaker's name spelling (programme: Tess Plaquet; introduced as "Tess Plackett") [00:10].
 - Question for us: what head-to-head data would show a pea isolate replacing part of the whey without loss of performance? (my reading).

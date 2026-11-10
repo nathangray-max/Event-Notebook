@@ -24,7 +24,7 @@ His conclusion: lead with proof, know where each ingredient is in its life cycle
 - (photo 7) IM8: fastest year-one growth, guidance, and the four reasons it wins.
 
 ## For Vita Actives
-- His whey supply timing is recorded in Detail as he said it, but our whey market view rests on Alan Johnstone's account at SANS Europe (unfiltered-an-insider-s-view-of), not on this talk (Nathan, 10 Nov 2026).
+- He expects premium whey supply to start being solved around the back end of 2027, 2028 at the earliest, and sees sports protein brands passing on 20% or more on shelf, 30 to 40% with smaller packs [00:20]. Alan Johnstone at SANS Europe expects whey to stay structurally expensive, with announced capacity running to 2028 (unfiltered-an-insider-s-view-of). My reading: both views point to protein margins staying tight through 2027, which keeps blends and alternatives such as IsoClr: Pea on brands' agendas.
 - His ingredient life cycle applies to creatine: proof brings a premium and popularity erodes it [00:20] (photo 3). My reading: CreaWin's case to brands should rest on its own evidence and a clear benefit, not on creatine's popularity.
 - Healthy-ageing customers pay for named needs and proof, and in Europe mitochondrial wording is already established [00:20]. My reading: our healthy-ageing pitches should name the need and the evidence.
 - AI shopping agents read proof differently [00:20]. My reading: our evidence files should be structured and machine-readable.
@@ -59,5 +59,5 @@ His conclusion: lead with proof, know where each ingredient is in its life cycle
 
 ## Follow-ups
 - Nick Stene (Euromonitor): ask for the deck and the premium-versus-launch data for sports protein and creatine [00:20].
-- The next speaker introduced was Emma Hudson, senior insights director; her talk is not in this recording [23:16].
+- The next speaker, introduced as "Emma Hudson, senior insights director" in Otter's transcript, was Ewa Hudson of Lumina Intelligence; her talk is filed as lumina-new-longevity-consumer [23:16].
 - The track, once the programme is published.

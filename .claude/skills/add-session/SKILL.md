@@ -67,9 +67,9 @@ Rules:
 - When slide photos arrive after the summary was written, revise it: exact slide figures replace approximate spoken ones
   (cite both), new points go to Detail, the best slides become Key slides.
 - Whey is never named in text a leader reads (Market Intelligence decision); describe the format or category instead.
-- Whey market (prices, supply, capacity, timing): record what the speaker said in Key takeaways or Detail, but base
-  "For Vita Actives" readings only on Alan Johnstone's account at SANS Europe 2026 (`sans-europe-2026/unfiltered-an-insider-s-view-of`),
-  Nathan's reference (decision 10 Nov 2026). A conflicting figure from another speaker is noted, never adopted.
+- Every speaker's data is a valid perspective (Nathan, 10 Nov 2026). Where speakers' figures differ (whey prices, market
+  sizes), give both with their sources and say they differ; never drop one or pick one silently. A briefing Nathan scopes to
+  one talk uses that talk's figures.
 - Short sentences, British English, no method talk.
 
 Set in `session.yaml`: `status: summarised`, `summary_by: Claude`, `summary_date: <today>`, `relevance` (high, medium, low:
