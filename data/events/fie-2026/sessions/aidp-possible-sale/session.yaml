@@ -6,19 +6,23 @@ end: ''
 format: conversation
 track: ''
 speakers: []
-themes: []
-ingredients: []
+themes:
+- branded-ingredients-differentiation
+- longevity-positioning
+ingredients:
+- Magtein (magnesium L-threonate)
+- galactooligosaccharides (GOS)
 relevance: high
-status: captured
+status: summarised
 confidential: true
-summary_by: ''
-summary_date: ''
+summary_by: Claude
+summary_date: '2026-11-17'
 reviewed_by: ''
 reviewed_date: ''
 attended_by:
 - Nathan
 links: {}
 to_check: Who said AIDP will be for sale (the note does not say); the currency of the revenue figure (US revenue, so probably
-  dollars); desk research in progress.
+  dollars); who owns AIDP and ThreoTech now.
 added: '2026-11-17'
 added_by: Claude (from Nathan's note, 17 Nov 2026)
