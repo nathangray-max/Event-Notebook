@@ -19,3 +19,4 @@ Leave out `test/` and this file.
 | 8 | 2026-11-10 | c49e6db | Data only: the consumer insights panel summarised. |
 | 9 | 2026-11-17 | 769bd88 | Data only: FiE 2026 created; three confidential side conversations (Clasado, AIDP, Fairfield Nutech), AIDP summarised with desk research. |
 | 10 | 2026-11-17 | 59bcded | Data only: Clasado summarised with desk research (confidential). |
+| 11 | 2026-11-17 | 8a16b25 | Data only: Fairfield Nutech (most likely Fayrefield Nutratek) summarised with desk research (confidential). |
