@@ -22,11 +22,11 @@ leads:
   summary: US branded-ingredient company (owner of Magtein magnesium L-threonate, run by sister company ThreoTech) expected to be for sale within two years after its founder died in 2026; probably too big for Vita Actives alone (Nathan).
   added: '2026-11-17'
 - id: fairfield-nutech
-  company: Fairfield Nutech (name as dictated)
+  company: Fairfield Nutech (as dictated; most likely Fayrefield Nutratek Ltd, Crewe)
   kinds: [acquisition, partner]
   status: researching
   confidential: true
   sources:
   - {event: fie-2026, session: fairfield-nutech-exit-plan}
-  summary: Specialist protein house with interesting technologies; its head, Jordan, spoke of a two to three year exit plan.
+  summary: Dairy-protein and sports-ingredient house (clear whey, hydrolysates, application systems; exclusive UK and Western Europe distributor of Jenerise creatine), set up 2025 and 75% owned by the UK and Danish Fayrefield groups; Jordan, who runs it, spoke of a two to three year exit plan.
   added: '2026-11-17'
