@@ -6,24 +6,27 @@ end: ''
 format: conversation
 track: ''
 speakers:
-- name: Clasado's CEO (name not given; the note reads "the CEO pair")
+- name: Per Rehné
   organisation: Clasado
   role: CEO
-themes: []
+themes:
+- branded-ingredients-differentiation
+- probiotic-category-evolution
+- eu-regulation-brake
 ingredients:
 - Bimuno
 - galactooligosaccharides (GOS)
 relevance: high
-status: captured
+status: summarised
 confidential: true
-summary_by: ''
-summary_date: ''
+summary_by: Claude
+summary_date: '2026-11-17'
 reviewed_by: ''
 reviewed_date: ''
 attended_by:
 - Nathan
 links: {}
-to_check: The CEO's name (the dictated note reads "the CEO pair"); the currency of the sales and price figures; desk research
-  on the company is in progress.
+to_check: The CEO's name (the dictated note reads "the CEO pair"; Per Rehné is Clasado's CEO on Companies House, to confirm);
+  the currency of the sales and price figures; whether the price assumes the parent loan is written off.
 added: '2026-11-17'
 added_by: Claude (from Nathan's note, 17 Nov 2026)
