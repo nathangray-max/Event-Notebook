@@ -32,11 +32,12 @@ def contracts(data: Dict[str, Any], built: str, commit: str) -> Dict[str, Dict[s
     events, sessions, takeaways = [], [], []
     for e in data["events"]:
         ev = _pick(e, EVENT_KEYS)
-        ev["sessions"] = [s["id"] for s in e["sessions"]]
+        public = [s for s in e["sessions"] if not s.get("confidential")]  # confidential sessions stay out of the API
+        ev["sessions"] = [s["id"] for s in public]
         ev["themes"] = [{"theme": t.get("theme"), "headline": t.get("headline"), "strength": t.get("strength")} for t in e["themes"]]
         ev["report"] = e["report"] if e["has_report"] else None
         events.append(ev)
-        for s in e["sessions"]:
+        for s in public:
             se = _pick(s, SESSION_KEYS)
             se["summary"] = s["summary"] if s["has_summary"] else None
             se["takeaways"] = s["takeaways"]
@@ -50,7 +51,14 @@ def contracts(data: Dict[str, Any], built: str, commit: str) -> Dict[str, Dict[s
                 takeaways.append({"id": f"{e['id']}/{s['id']}#{i}", "event": e["id"], "session": s["id"], "date": s.get("date"),
                                   "text": t["text"], "cites": t["cites"], "themes": s["themes"], "ingredients": s["ingredients"],
                                   "relevance": s.get("relevance"), "status": s.get("status")})
-    themes = [dict(t) for t in data["themes"]]
+    hidden = {(e["id"], s["id"]) for e in data["events"] for s in e["sessions"] if s.get("confidential")}
+    themes = []
+    for t in data["themes"]:
+        t = dict(t)
+        t["sessions"] = [x for x in t.get("sessions", []) if (x["event"], x["session"]) not in hidden]
+        t["events"] = [dict(ev, evidence=[q for q in ev.get("evidence", []) if (ev["event"], q.get("session")) not in hidden])
+                       for ev in t.get("events", [])]
+        themes.append(t)
     return {
         "events.json": {"schema": f"confnotes.events/{VERSION}", **head, "count": len(events), "items": events},
         "sessions.json": {"schema": f"confnotes.sessions/{VERSION}", **head, "count": len(sessions), "items": sessions},

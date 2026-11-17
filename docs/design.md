@@ -65,7 +65,8 @@ reading, and `summary.md` says so ("my reading").
 |---|---|
 | `id`, `title` | the session as billed |
 | `date`, `start`, `end` | when (`YYYY-MM-DD`, `HH:MM`) |
-| `format` | `keynote`, `talk`, `panel`, `workshop`, `fireside`, `breakout`, `pitch`, `roundtable`, `exhibition`, `other` |
+| `format` | `keynote`, `talk`, `panel`, `workshop`, `fireside`, `breakout`, `pitch`, `roundtable`, `exhibition`, `conversation` (a side conversation Nathan had at the event, from his notes), `other` |
+| `confidential` | `true` for what was said in confidence (deal talk, private plans): shown on the private dashboard with a confidential label, never exported through the Suite API |
 | `track`, `room` | the programme's track (its tag, e.g. "State of the Market") and the room, as billed |
 | `speakers` | list of `{name, organisation, role}` as billed |
 | `themes` | theme ids from `data/themes.yaml` |
@@ -93,6 +94,7 @@ there to check it or go deeper (Nathan, 10 Nov 2026). Headings, in order; Key sl
 ## For Vita Actives   2-5 bullets on what it means for our range, customers or pitches; "my reading" where it is one
 ## Quotes             2-4, verbatim, exact substrings of the transcript or a slide's text
 ## Detail             every other figure and point worth keeping, as cited bullets (folded on the dashboard)
+## Research           optional: desk research with linked public sources, for conversations about a company
 ## Follow-ups         people to contact, papers to find, questions left open (Cortex tasks only when Nathan says so)
 ```
 

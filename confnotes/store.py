@@ -22,7 +22,7 @@ ID_RE = re.compile(r"^[a-z0-9]+(-[a-z0-9]+)*$")
 DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 TIME_RE = re.compile(r"^\d{2}:\d{2}$")
 
-FORMATS = {"keynote", "talk", "panel", "workshop", "fireside", "breakout", "pitch", "roundtable", "exhibition", "other"}
+FORMATS = {"keynote", "talk", "panel", "workshop", "fireside", "breakout", "pitch", "roundtable", "exhibition", "conversation", "other"}
 SESSION_STATUS = {"captured", "summarised", "reviewed"}
 EVENT_STATUS = {"planned", "attending", "attended", "reported"}
 RELEVANCE = {"high", "medium", "low"}
@@ -35,7 +35,7 @@ THEME_REQUIRED = ["id", "name"]
 # summary.md headings, in order; the build reads each part by heading
 SUMMARY_HEADINGS = ["Summary", "Key takeaways", "For Vita Actives", "Quotes", "Follow-ups"]
 # optional headings: slides that carry the argument, and everything else worth keeping (Nathan, 10 Nov 2026)
-OPTIONAL_SUMMARY_HEADINGS = ["Key slides", "Detail"]
+OPTIONAL_SUMMARY_HEADINGS = ["Key slides", "Detail", "Research"]  # Research: desk research with linked sources (conversations)
 SUMMARY_MAX_WORDS = 220        # the Summary section reads as prose, not a list of figures
 TAKEAWAYS_MAX = 6
 KEY_SLIDES_MAX = 4
@@ -279,6 +279,8 @@ def problems(root: str | Path = DATA) -> List[str]:
             for t in s.get("themes") or []:
                 if isinstance(t, str) and t not in theme_ids:
                     out.append(f"{sw}: theme '{t}' is not in data/themes.yaml")
+            if s.get("confidential") not in (None, "", True, False):
+                out.append(f"{sw}: confidential must be true or false")
             for sp in s.get("speakers") or []:
                 if not isinstance(sp, dict) or not sp.get("name"):
                     out.append(f"{sw}: a speaker has no name")

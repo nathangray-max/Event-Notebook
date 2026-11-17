@@ -219,3 +219,4 @@ button.cite.photo { text-decoration: underline; text-underline-offset: 2px; }
 .lightbox-inner img { width: 100%; height: auto; border-radius: var(--r-ctl); }
 .lightbox-head { display: flex; justify-content: space-between; align-items: center; gap: 12px; }
 details.detail summary { font-family: var(--font-display); }
+.chip.conf { background: var(--bad); color: #fff; border-color: transparent; font-weight: 600; }

@@ -217,7 +217,7 @@
     return h("a", { class: "sess", href: "#session-" + e.id + "/" + s.id },
       h("div", { class: "when", text: time(s) || (s.format || "") }),
       h("div", null, h("div", { class: "t", text: s.title }), h("div", { class: "who", text: [speakerLine(s), s.format, s.track, s.room].filter(Boolean).join(" · ") }),
-        h("div", { class: "chips" }, statusChip(s), relChip(s), themeChips(s.themes), s.ingredients.map(function (i) { return chip(i, "ingredient"); }))));
+        h("div", { class: "chips" }, s.confidential ? chip("confidential", "conf") : null, statusChip(s), relChip(s), themeChips(s.themes), s.ingredients.map(function (i) { return chip(i, "ingredient"); }))));
   }
 
   function viewSession(eid, sid) {
@@ -244,6 +244,7 @@
         }))) : null,
         h("div", { class: "panel" }, h("h3", { text: "For Vita Actives" }), md(s.summary["For Vita Actives"])),
         h("div", { class: "panel" }, h("h3", { text: "Quotes" }), s.quotes.length ? s.quotes.map(function (q) { return h("blockquote", { class: "quote" }, cited(q.text, q.cites, s)); }) : h("p", { class: "na", text: "None recorded." })),
+        s.summary["Research"] ? h("div", { class: "panel" }, h("h3", { text: "Research" }), md(s.summary["Research"])) : null,
         s.detail.length ? h("details", { class: "orig detail" }, h("summary", null, h("span", { text: "Detail" }), h("span", { class: "meta", text: plural(s.detail.length, "more point") + ", with sources" })),
           h("div", { class: "body" }, h("ul", { class: "takeaways" }, s.detail.map(function (t) { return h("li", null, cited(t.text, t.cites, s)); })))) : null,
         h("div", { class: "panel" }, h("h3", { text: "Follow-ups" }), s.followups.length ? h("ul", { class: "takeaways" }, s.followups.map(function (f) { return h("li", null, cited(f, ["x"], s)); })) : h("p", { class: "na", text: "None." })));

@@ -71,6 +71,7 @@ def session_record(s: Dict[str, Any], event_id: str) -> Dict[str, Any]:
         if m and int(m.group(1)) in photos:
             out["key_slides"].append({"photo": int(m.group(1)), "file": photos[int(m.group(1))], "caption": m.group(2).strip()})
     out["detail"] = [{"text": t, "cites": cites(t)} for t in store.bullets(summ.get("Detail", ""))]
+    out["confidential"] = bool(s.get("confidential"))
     out["takeaways"] = [{"text": t, "cites": cites(t)} for t in store.bullets(summ.get("Key takeaways", ""))]
     out["quotes"] = [{"text": t, "cites": cites(t)} for t in store.bullets(summ.get("Quotes", ""))]
     out["followups"] = store.bullets(summ.get("Follow-ups", ""))

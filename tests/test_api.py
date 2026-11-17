@@ -43,3 +43,20 @@ def test_contracts(tmp_path):
 def test_real_store_exports(tmp_path):
     m = api.write(tmp_path / "v1")
     assert m["contracts"]["events.json"]["count"] >= 1
+
+
+def test_confidential_sessions_stay_out_of_the_api(fixture_copy, tmp_path):
+    import yaml
+    p = fixture_copy / "events/example-summit-2025/sessions/creatine-beyond-muscle/session.yaml"
+    d = yaml.safe_load(p.read_text()); d["confidential"] = True; d["format"] = "conversation"
+    p.write_text(yaml.safe_dump(d, sort_keys=False))
+    out = tmp_path / "v1"
+    api.write(out, fixture_copy, stamp=STAMP)
+    se = json.loads((out / "sessions.json").read_text())
+    assert [s["id"] for s in se["items"]] == ["clear-protein-panel"]
+    ev = json.loads((out / "events.json").read_text())
+    assert ev["items"][0]["sessions"] == ["clear-protein-panel"]
+    tk = json.loads((out / "takeaways.json").read_text())
+    assert all(t["session"] != "creatine-beyond-muscle" for t in tk["items"])
+    th = json.loads((out / "themes.json").read_text())
+    assert "creatine-beyond-muscle" not in json.dumps([t["sessions"] for t in th["items"]])
