@@ -1,9 +1,34 @@
 {
  "schema": "confnotes.events/1",
- "built": "2026-11-10",
- "commit": "bb540bf",
- "count": 3,
+ "built": "2026-11-17",
+ "commit": "eca96c4",
+ "count": 4,
  "items": [
+  {
+   "id": "fie-2026",
+   "name": "Food ingredients Europe 2026",
+   "short": "FiE 2026",
+   "start": "2026-11-17",
+   "end": "2026-11-19",
+   "city": "Frankfurt",
+   "country": "Germany",
+   "venue": "Messe Frankfurt",
+   "organiser": "Informa Markets",
+   "url": "https://www.figlobal.com/europe/",
+   "status": "attending",
+   "attended_by": [
+    "Nathan"
+   ],
+   "links": {},
+   "to_check": "Who else attended for Vita Actives; the programme, if Nathan attends talks; Fi Europe runs alongside Hi Europe.",
+   "added": "2026-11-17",
+   "added_by": "Claude (from Nathan's note, 17 Nov 2026, and the Fi Europe site)",
+   "description": "Food ingredients Europe, Messe Frankfurt, 17 to 19 November 2026. Day 1: Nathan's side conversations about three companies that may come up for sale, filed as confidential conversations.",
+   "has_report": false,
+   "sessions": [],
+   "themes": [],
+   "report": null
+  },
   {
    "id": "nutra-healthspan-summit-2026",
    "name": "Nutra Healthspan Summit 2026",

@@ -1,28 +1,28 @@
 {
  "schema": "confnotes.manifest/1",
- "built": "2026-11-10",
- "commit": "bb540bf",
+ "built": "2026-11-17",
+ "commit": "eca96c4",
  "uncommitted_changes": false,
  "contracts": {
   "events.json": {
    "schema": "confnotes.events/1",
-   "count": 3,
-   "sha256": "b35f08c3265a885acd333a493c0bca8bea7cb8947bc3ef13d643ed6404791774"
+   "count": 4,
+   "sha256": "f108f8be2bee5307a7beaa9f268204d2738e2f52cf39f6b5ebf891d3c43ec730"
   },
   "sessions.json": {
    "schema": "confnotes.sessions/1",
    "count": 45,
-   "sha256": "3f36e9975c131f7b7baded1fd57990a08b694063fd43af8ba19c2788bce3cdd6"
+   "sha256": "011b97289def6d5e4f63283e26a0a784b41c76615ffb12d7b9921a3172ef0925"
   },
   "themes.json": {
    "schema": "confnotes.themes/1",
    "count": 19,
-   "sha256": "a0c0be1c1f5d1c6feb03638145857a6adfb73354260878dcafd4081ec66c9100"
+   "sha256": "5e07ea4b312d4a3eace8104925e369a31a208b82adb48ef87a3effbbed585774"
   },
   "takeaways.json": {
    "schema": "confnotes.takeaways/1",
    "count": 190,
-   "sha256": "47f2b9ff799b3ade189aeeec95cbf65656cb4a71b36b62957734815f03e9c4ad"
+   "sha256": "d776b13a29b89049f450e795c42769838030df09acdc68931fbaf11b197b054c"
   }
  },
  "rules": [
