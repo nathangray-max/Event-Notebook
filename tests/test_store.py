@@ -156,3 +156,20 @@ def test_summary_format(fixture_copy):
     # Key slides and Detail are optional
     p.write_text(base.split("## Key slides")[0] + "## For Vita Actives" + base.split("## For Vita Actives")[1].split("## Detail")[0] + "## Follow-ups" + base.split("## Follow-ups")[1])
     assert store.problems(fixture_copy) == []
+
+
+def test_leads_register(fixture_copy):
+    (fixture_copy / "leads.yaml").write_text(
+        "leads:\n"
+        "- {id: good-co, company: Good Co, kinds: [partner], status: heard, added: '2025-03-06',\n"
+        "   sources: [{event: example-summit-2025, session: creatine-beyond-muscle}]}\n"
+        "- {id: Bad Co, company: Bad, kinds: [friend], status: maybe, added: 6 March,\n"
+        "   sources: [{event: example-summit-2025, session: no-such-talk}]}\n")
+    probs = [p for p in store.problems(fixture_copy) if p.startswith("leads.yaml")]
+    assert not any("good-co" in p for p in probs)
+    assert any("kind 'friend'" in p for p in probs)
+    assert any("status 'maybe'" in p for p in probs)
+    assert any("no-such-talk is not a session" in p for p in probs)
+    assert any("lower-case words" in p for p in probs)
+    assert any("added '6 March'" in p for p in probs)
+    assert len(store.load_leads(fixture_copy)) == 2

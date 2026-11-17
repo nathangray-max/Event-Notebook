@@ -194,6 +194,40 @@ def _allowed(out: List[str], where: str, rec: Dict[str, Any], field: str, allowe
         out.append(f"{where}: {field} '{v}' not in {sorted(allowed)}")
 
 
+LEAD_KINDS = {"acquisition", "partner", "supplier", "customer"}
+LEAD_STATUS = {"heard", "researching", "in discussion", "parked", "passed"}
+
+
+def load_leads(root: str | Path = DATA) -> List[Dict[str, Any]]:
+    """data/leads.yaml: companies to follow up from the shows (possible acquisitions, partners, suppliers)."""
+    p = Path(root) / "leads.yaml"
+    return (_yaml(p).get("leads") or []) if p.exists() else []
+
+
+def lead_problems(root: str | Path, sessions: set) -> List[str]:
+    out: List[str] = []
+    seen = set()
+    for i, l in enumerate(load_leads(root)):
+        where = f"leads.yaml ({l.get('id') or f'#{i + 1}'})"
+        for f in ("id", "company", "kinds", "status", "sources", "added"):
+            if l.get(f) in (None, "", []):
+                out.append(f"{where}: {f} is blank")
+        if l.get("id") in seen:
+            out.append(f"{where}: duplicate id")
+        seen.add(l.get("id"))
+        if l.get("id") and not ID_RE.match(str(l["id"])):
+            out.append(f"{where}: id must be lower-case words joined by hyphens")
+        for k in l.get("kinds") or []:
+            if k not in LEAD_KINDS:
+                out.append(f"{where}: kind '{k}' not in {sorted(LEAD_KINDS)}")
+        _allowed(out, where, l, "status", LEAD_STATUS)
+        _date(out, where, l, "added")
+        for src in l.get("sources") or []:
+            if (src.get("event"), src.get("session")) not in sessions:
+                out.append(f"{where}: source {src.get('event')}/{src.get('session')} is not a session in the store")
+    return out
+
+
 def problems(root: str | Path = DATA) -> List[str]:
     """What is wrong with the store.  Empty when clean."""
     out: List[str] = []
@@ -304,6 +338,7 @@ def problems(root: str | Path = DATA) -> List[str]:
                 out.append(f"{sw}: reviewed needs reviewed_by and reviewed_date")
             if s.get("reviewed_by") and s.get("status") != "reviewed":
                 out.append(f"{sw}: reviewed_by set but status is '{s.get('status')}'")
+    out.extend(lead_problems(root, session_ids))
     return out
 
 

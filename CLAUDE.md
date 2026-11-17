@@ -46,6 +46,7 @@ reads it through `exports/api/v1/` (docs/api.md), never its files; this tool rea
 | What the store holds and why, the rules | `docs/design.md` |
 | What other tools read | `docs/api.md` |
 | What is built next | `docs/build_plan.md` |
+| Companies to follow up (possible acquisitions, partners) for the cross-show roundup | `data/leads.yaml` |
 | Nathan's decisions | `docs/decisions.csv` |
 | Open small findings | `docs/backlog.md` |
 

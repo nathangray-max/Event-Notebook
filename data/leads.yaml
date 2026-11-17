@@ -1,0 +1,32 @@
+# Companies worth following up from the shows: possible acquisitions, partners and suppliers (Nathan, 17 Nov 2026).
+# The source for the cross-show roundup after FiE 2026. Each lead points at the sessions or conversations it comes from.
+# kinds: acquisition, partner, supplier, customer. status: heard, researching, in discussion, parked, passed.
+# confidential: true keeps a lead out of anything that leaves the repo (the Suite API never carries leads).
+leads:
+- id: clasado
+  company: Clasado (Bimuno GOS)
+  kinds: [acquisition]
+  status: researching
+  confidential: true
+  sources:
+  - {event: fie-2026, session: clasado-bimuno-gos}
+  summary: Prebiotic GOS company Nathan was told may be sold; growth potential he rates highly.
+  added: '2026-11-17'
+- id: aidp
+  company: AIDP
+  kinds: [acquisition]
+  status: researching
+  confidential: true
+  sources:
+  - {event: fie-2026, session: aidp-possible-sale}
+  summary: Large US ingredient supplier expected to be for sale within two years; probably too big for Vita Actives alone (Nathan).
+  added: '2026-11-17'
+- id: fairfield-nutech
+  company: Fairfield Nutech (name as dictated)
+  kinds: [acquisition, partner]
+  status: researching
+  confidential: true
+  sources:
+  - {event: fie-2026, session: fairfield-nutech-exit-plan}
+  summary: Specialist protein house with interesting technologies; its head, Jordan, spoke of a two to three year exit plan.
+  added: '2026-11-17'
