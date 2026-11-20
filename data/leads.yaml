@@ -30,3 +30,184 @@ leads:
   - {event: fie-2026, session: fairfield-nutech-exit-plan}
   summary: Dairy-protein and sports-ingredient house (clear whey, hydrolysates, application systems; exclusive UK and Western Europe distributor of Jenerise creatine), set up 2025 and 75% owned by the UK and Danish Fayrefield groups; Jordan, who runs it, spoke of a two to three year exit plan.
   added: '2026-11-17'
+# From the sweep of every session summary, 20 Nov 2026 (Claude). Public talks, so not confidential; readings are marked.
+- id: tantus
+  company: Tantus (Polish CDMO)
+  kinds: [customer, partner]
+  status: heard
+  confidential: false
+  sources:
+  - {event: remedy-cdmo-2026, session: tantus-longevity-concepts}
+  - {event: remedy-cdmo-2026, session: solabia-launches}
+  - {event: remedy-cdmo-2026, session: nuritas-peptistrong}
+  summary: Co-developing a three-gram creatine chewable with an ingredient supplier and prefers suppliers who bring science and formulation help; my reading, the most direct CreaWin prospect from the shows.
+  added: '2026-11-20'
+- id: favea
+  company: Favea (CDMO)
+  kinds: [customer]
+  status: heard
+  confidential: false
+  sources:
+  - {event: remedy-cdmo-2026, session: spi-pharma-nordic-biotic}
+  - {event: remedy-cdmo-2026, session: novosol-optimsm}
+  summary: CDMO shown making chewables and cap-in-cap products with SPI Pharma's platforms; my reading, a contact for CreaWin chewable and effervescent formats.
+  added: '2026-11-20'
+- id: marchon
+  company: Marchon (UK brand with gyms and an app)
+  kinds: [customer]
+  status: heard
+  confidential: false
+  sources:
+  - {event: sans-europe-2026, session: built-in-the-gym-turning-athlete}
+  summary: Asked creatine suppliers for stability in water, gummies and new formats, and plans creatine combinations; my reading, a CreaWin and IsoClr Pea prospect.
+  added: '2026-11-20'
+- id: myprotein-thg
+  company: Myprotein (THG)
+  kinds: [customer]
+  status: heard
+  confidential: false
+  sources:
+  - {event: sans-europe-2026, session: beyond-the-glp-1-boom-nutrition}
+  summary: Brett Hamer said clear protein sells very well and plant has not taken off on taste; low-volume clear protein with fibre is a format he named; my reading, a home for a clear pea.
+  added: '2026-11-20'
+- id: holland-barrett
+  company: Holland & Barrett
+  kinds: [customer]
+  status: heard
+  confidential: false
+  sources:
+  - {event: remedy-cdmo-2026, session: alex-glover-holland-barrett}
+  - {event: remedy-cdmo-2026, session: panel-evidence-regulation-ai}
+  - {event: nutra-healthspan-summit-2026, session: from-hype-to-healthspan-building-the}
+  summary: Its formulation lead briefs on customer outcome plus timescale and takes creatine daily; its buyer sees creatine moving into healthy ageing; my reading, a route for CreaWin into healthy-ageing ranges.
+  added: '2026-11-20'
+- id: gnc
+  company: GNC
+  kinds: [customer]
+  status: heard
+  confidential: false
+  sources:
+  - {event: nutra-healthspan-summit-2026, session: from-hype-to-healthspan-building-the}
+  summary: Rachel Kreider sees creatine moving from sports into healthy ageing and muscle protection as the GLP-1 need.
+  added: '2026-11-20'
+- id: alibaba-tmall
+  company: Alibaba (Taobao Tmall cross-border)
+  kinds: [customer]
+  status: heard
+  confidential: false
+  sources:
+  - {event: nutra-healthspan-summit-2026, session: from-hype-to-healthspan-building-the}
+  summary: Chinese premium shoppers ask for branded ingredients with patents and studies; my reading, a channel where documented ingredients earn their price.
+  added: '2026-11-20'
+- id: science-in-sport
+  company: Science in Sport
+  kinds: [customer]
+  status: heard
+  confidential: false
+  sources:
+  - {event: sans-europe-2026, session: fuelling-the-female-runner-from-paper}
+  summary: Builds products on its own trials and expects suppliers to bring trial data; the Nike x SiS recovery drinks carry 25 g protein in a clear format (my reading, a clear pea fit).
+  added: '2026-11-20'
+- id: nuritas
+  company: Nuritas (PeptiStrong)
+  kinds: [partner]
+  status: heard
+  confidential: false
+  sources:
+  - {event: remedy-cdmo-2026, session: nuritas-peptistrong}
+  summary: Sells PeptiStrong as an add-on to protein and creatine, not a replacement; my reading, a stacking partner for CreaWin and IsoClr Pea in recovery formulas.
+  added: '2026-11-20'
+- id: martin-bauer
+  company: Martin Bauer (Rhosera)
+  kinds: [partner]
+  status: heard
+  confidential: false
+  sources:
+  - {event: remedy-cdmo-2026, session: martin-bauer-rhosera}
+  summary: Rhosera is pitched as helping ageing muscle use the protein it gets, tested with protein in both arms; my reading, a "protein plus an enabler" stacking partner.
+  added: '2026-11-20'
+- id: sacco-system
+  company: Sacco System
+  kinds: [partner]
+  status: heard
+  confidential: false
+  sources:
+  - {event: remedy-cdmo-2026, session: sacco-probiotics}
+  summary: Probiotic maker and CDMO pitching Symbio for healthy ageing with a muscle-mass argument; my reading, a possible "muscle plus gut" co-formulation with CreaWin.
+  added: '2026-11-20'
+- id: rousselot
+  company: Rousselot (Peptan)
+  kinds: [partner]
+  status: heard
+  confidential: false
+  sources:
+  - {event: sans-europe-2026, session: whey-collagen-the-protein-power-couple}
+  summary: Competes for the same "replace part of the whey" slot with a whey plus collagen head-to-head; my reading, a clear pea plus collagen format could be a combination rather than a contest.
+  added: '2026-11-20'
+- id: protein-brewery
+  company: The Protein Brewery (Fermotein)
+  kinds: [partner]
+  status: heard
+  confidential: false
+  sources:
+  - {event: remedy-cdmo-2026, session: protein-brewery-fermotein}
+  - {event: nutra-healthspan-summit-2026, session: consumer-insights-straight-from-the-horse}
+  summary: EFSA-approved fermented mycelium protein for all-in-one nutrition, backed by Novo Holdings; competes for the non-animal protein brief and was named as a possible protein-blend contact (my reading, from the talks only).
+  added: '2026-11-20'
+- id: radicle-science
+  company: Radicle Science
+  kinds: [partner]
+  status: heard
+  confidential: false
+  sources:
+  - {event: nutra-healthspan-summit-2026, session: from-data-to-decisions-personalizing}
+  summary: Runs large decentralised at-home trials that can test products head to head; my reading, worth a call on cost and design for one of our ingredients.
+  added: '2026-11-20'
+- id: centre-for-nutraceuticals
+  company: Centre for Nutraceuticals (Gulrez Zariwala)
+  kinds: [partner]
+  status: heard
+  confidential: false
+  sources:
+  - {event: sans-europe-2026, session: from-hype-to-proof-the-science}
+  summary: Ran a trial in which a potato protein matched whey isolate on GLP-1 response and runs the protocol for industry; my reading, a route to satiety data for IsoClr Pea.
+  added: '2026-11-20'
+- id: alt-ambrosia
+  company: ALT, Applied Laboratory Technologies (AMBROSIA)
+  kinds: [partner]
+  status: heard
+  confidential: false
+  sources:
+  - {event: nutra-healthspan-summit-2026, session: artificial-intelligence-to-rapidly-develop}
+  summary: AI platform that maps a botanical's active compounds and proposes studies, already used by Finzelberg; supports no claim on its own.
+  added: '2026-11-20'
+- id: nutrilution
+  company: Nutrilution (Alan Johnstone)
+  kinds: [partner]
+  status: heard
+  confidential: false
+  sources:
+  - {event: sans-europe-2026, session: unfiltered-an-insider-s-view-of}
+  summary: Whey market insider who invited conversations on sourcing strategy and holds price series and capacity lists.
+  added: '2026-11-20'
+- id: market-data-providers
+  company: Nutrition Integrated, Lumina Intelligence and Euromonitor (market data)
+  kinds: [partner]
+  status: heard
+  confidential: false
+  sources:
+  - {event: sans-europe-2026, session: a-bigger-sports-nutrition-landscape-growth}
+  - {event: sans-europe-2026, session: glp-won-market-opportunities-for-the}
+  - {event: nutra-healthspan-summit-2026, session: lumina-new-longevity-consumer}
+  - {event: nutra-healthspan-summit-2026, session: euromonitor-who-is-winning-healthspan}
+  summary: Decks and data asked for in the follow-ups (branded-creatine penetration, GLP-1 surveys, premium-versus-launch data).
+  added: '2026-11-20'
+- id: 2waves
+  company: 2waves (supplier-CDMO platform)
+  kinds: [partner]
+  status: heard
+  confidential: false
+  sources:
+  - {event: remedy-cdmo-2026, session: 2waves-platform}
+  summary: Platform putting Polish CDMOs' ingredient inquiries in front of verified suppliers; my reading, worth registering early as a creatine and pea protein supplier.
+  added: '2026-11-20'
