@@ -5,17 +5,32 @@ start: '12:20'
 end: '12:40'
 format: talk
 track: ''
-speakers: []
-themes: []
-ingredients: []
-relevance: ''
-status: captured
-summary_by: ''
-summary_date: ''
+speakers:
+- name: Colin Selman
+  organisation: University of Glasgow; EffePharm
+  role: Professor of Biogerontology, Head of School of Molecular Biosciences
+- name: JianJun Yu
+  organisation: EffePharm (UTHEVER NMN)
+  role: ''
+themes:
+- longevity-positioning
+- branded-ingredients-differentiation
+- outcomes-over-mechanisms
+- eu-regulation-brake
+ingredients:
+- NMN (nicotinamide mononucleotide; UTHEVER, EffePharm)
+- NAD+
+relevance: medium
+status: summarised
+summary_by: Claude
+summary_date: '2026-11-23'
 reviewed_by: ''
 reviewed_date: ''
 attended_by: []
 links: {}
-to_check: Speakers are not on the agenda; no recording, slides or notes filed; whether Nathan attended.
+to_check: 'No recording; slides only. One deck holds two talks: the printed agenda, as filed, lists both titles in one 12:20
+  to 12:40 slot, while the deck''s file name splits it "12.20 Colin / 12.30 JianJun Yu"; whether they were billed as one slot
+  or two. JianJun Yu is named only in that file name; his organisation (presumed EffePharm, whose slides he gave) and role are
+  not on the slides. Whether Nathan attended.'
 added: '2026-11-10'
 added_by: Claude (from the printed agenda, Nathan's photo, 10 Nov 2026)
