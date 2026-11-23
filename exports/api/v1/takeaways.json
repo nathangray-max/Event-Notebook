@@ -1,8 +1,8 @@
 {
  "schema": "confnotes.takeaways/1",
- "built": "2026-11-17",
- "commit": "7e4601b",
- "count": 190,
+ "built": "2026-11-23",
+ "commit": "0774895",
+ "count": 196,
  "items": [
   {
    "id": "nutra-healthspan-summit-2026/euromonitor-who-is-winning-healthspan#1",
@@ -2987,12 +2987,145 @@
    "status": "summarised"
   },
   {
+   "id": "remedy-cdmo-2026/aker-biomarine-krill-peakspan#1",
+   "event": "remedy-cdmo-2026",
+   "session": "aker-biomarine-krill-peakspan",
+   "date": "",
+   "text": "The frame: lifespan is how long we live, healthspan how long we avoid disease, \"Peakspan\" how long we stay close to our personal best; consumers rank mobility, staying active and an active mind as the top three aspects of healthy ageing (Innova survey, 11 countries) (slide 4).",
+   "cites": [
+    "slide 4"
+   ],
+   "themes": [
+    "longevity-positioning",
+    "muscle-health-beyond-protein",
+    "branded-ingredients-differentiation",
+    "supply-security"
+   ],
+   "ingredients": [
+    "krill oil (Superba Krill, Superba2, Superba Boost)",
+    "omega-3 (EPA, DHA)"
+   ],
+   "relevance": "medium",
+   "status": "summarised"
+  },
+  {
+   "id": "remedy-cdmo-2026/aker-biomarine-krill-peakspan#2",
+   "event": "remedy-cdmo-2026",
+   "session": "aker-biomarine-krill-peakspan",
+   "date": "",
+   "text": "Muscle: in a six-month randomised, double-blind trial of 102 adults aged 65+ on 4 g a day (University of Glasgow), knee extension strength rose 9%, grip strength 11% and muscle thickness 3.5% against placebo (slide 7).",
+   "cites": [
+    "slide 7"
+   ],
+   "themes": [
+    "longevity-positioning",
+    "muscle-health-beyond-protein",
+    "branded-ingredients-differentiation",
+    "supply-security"
+   ],
+   "ingredients": [
+    "krill oil (Superba Krill, Superba2, Superba Boost)",
+    "omega-3 (EPA, DHA)"
+   ],
+   "relevance": "medium",
+   "status": "summarised"
+  },
+  {
+   "id": "remedy-cdmo-2026/aker-biomarine-krill-peakspan#3",
+   "event": "remedy-cdmo-2026",
+   "session": "aker-biomarine-krill-peakspan",
+   "date": "",
+   "text": "Weight loss: in a 12-week trial (52 randomised, 41 completed, BMI over 25, alternate-day fasting), both groups lost about 4.5 kg, but 96% of the weight lost was fat on krill oil against 73% on placebo; fat-free mass fell 0.2 kg against 1.2 kg (slide 9).",
+   "cites": [
+    "slide 9"
+   ],
+   "themes": [
+    "longevity-positioning",
+    "muscle-health-beyond-protein",
+    "branded-ingredients-differentiation",
+    "supply-security"
+   ],
+   "ingredients": [
+    "krill oil (Superba Krill, Superba2, Superba Boost)",
+    "omega-3 (EPA, DHA)"
+   ],
+   "relevance": "medium",
+   "status": "summarised"
+  },
+  {
+   "id": "remedy-cdmo-2026/aker-biomarine-krill-peakspan#4",
+   "event": "remedy-cdmo-2026",
+   "session": "aker-biomarine-krill-peakspan",
+   "date": "",
+   "text": "Joints: knee pain fell 18% against 13% on placebo (p=0.04) in 235 adults aged 40 to 65 with mild-to-moderate knee osteoarthritis; the deck cites a TGA assessed-listed knee claim in Australia (slide 8).",
+   "cites": [
+    "slide 8"
+   ],
+   "themes": [
+    "longevity-positioning",
+    "muscle-health-beyond-protein",
+    "branded-ingredients-differentiation",
+    "supply-security"
+   ],
+   "ingredients": [
+    "krill oil (Superba Krill, Superba2, Superba Boost)",
+    "omega-3 (EPA, DHA)"
+   ],
+   "relevance": "medium",
+   "status": "summarised"
+  },
+  {
+   "id": "remedy-cdmo-2026/aker-biomarine-krill-peakspan#5",
+   "event": "remedy-cdmo-2026",
+   "session": "aker-biomarine-krill-peakspan",
+   "date": "",
+   "text": "Supply: Aker's own projection has fish oil demand overtaking supply from about 2027, with a gap of 0.16 million tonnes by 2031 and aquaculture taking most of the demand (slide 13).",
+   "cites": [
+    "slide 13"
+   ],
+   "themes": [
+    "longevity-positioning",
+    "muscle-health-beyond-protein",
+    "branded-ingredients-differentiation",
+    "supply-security"
+   ],
+   "ingredients": [
+    "krill oil (Superba Krill, Superba2, Superba Boost)",
+    "omega-3 (EPA, DHA)"
+   ],
+   "relevance": "medium",
+   "status": "summarised"
+  },
+  {
+   "id": "remedy-cdmo-2026/aker-biomarine-krill-peakspan#6",
+   "event": "remedy-cdmo-2026",
+   "session": "aker-biomarine-krill-peakspan",
+   "date": "",
+   "text": "The three concepts (Peak, Renew, Strength) run on two products, Superba2 and Superba Boost, and are \"positioning directions, not approved on-pack claims\" (slide 12).",
+   "cites": [
+    "slide 12"
+   ],
+   "themes": [
+    "longevity-positioning",
+    "muscle-health-beyond-protein",
+    "branded-ingredients-differentiation",
+    "supply-security"
+   ],
+   "ingredients": [
+    "krill oil (Superba Krill, Superba2, Superba Boost)",
+    "omega-3 (EPA, DHA)"
+   ],
+   "relevance": "medium",
+   "status": "summarised"
+  },
+  {
    "id": "remedy-cdmo-2026/nick-morgan-longevity#1",
    "event": "remedy-cdmo-2026",
    "session": "nick-morgan-longevity",
    "date": "2026-10-22",
-   "text": "Consumers buy \"energy and vitality\" and \"cellular health\"; the hallmarks of ageing are \"for this people in this room\" [00:00].",
+   "text": "On 265 product pages assessed, energy and vitality is the most common message (83.8%), while the hallmarks of ageing are named on 9.1% and placed in lead copy on 4.2% (slide 5); spoken as about 300 products, 9% and 4% [00:00].",
    "cites": [
+    "slide 5",
     "00:00"
    ],
    "themes": [
@@ -3007,9 +3140,13 @@
     "coenzyme Q10",
     "ubiquinol",
     "spermidine",
-    "NAD"
+    "NAD",
+    "curcumin",
+    "nicotinamide riboside",
+    "NMN",
+    "citicoline"
    ],
-   "relevance": "medium",
+   "relevance": "high",
    "status": "summarised"
   },
   {
@@ -3017,8 +3154,9 @@
    "event": "remedy-cdmo-2026",
    "session": "nick-morgan-longevity",
    "date": "2026-10-22",
-   "text": "Of about 300 products coded, 9% refer to the hallmarks and only 4%, he thinks, put them in lead copy [00:00].",
+   "text": "Price: median price per serving in capsules and tablets is €0.47 for creatine (518 products) against €1.35 for longevity (194) and €1.36 for NAD (28), read from the chart (slide 7); spoken as \"around about 50 cents\" for creatine [00:00].",
    "cites": [
+    "slide 7",
     "00:00"
    ],
    "themes": [
@@ -3033,9 +3171,13 @@
     "coenzyme Q10",
     "ubiquinol",
     "spermidine",
-    "NAD"
+    "NAD",
+    "curcumin",
+    "nicotinamide riboside",
+    "NMN",
+    "citicoline"
    ],
-   "relevance": "medium",
+   "relevance": "high",
    "status": "summarised"
   },
   {
@@ -3043,9 +3185,9 @@
    "event": "remedy-cdmo-2026",
    "session": "nick-morgan-longevity",
    "date": "2026-10-22",
-   "text": "\"You don't sell one product in 2026\": brands sell a routine of about three products, and an ingredient is sold on how it fits the customer's product system [00:00].",
+   "text": "MitoQ Longevity Creatine Complex, 5 g creatine with citicoline, sells at €1.60 a serving, 3.41 times the creatine median, positioned for \"muscle, mind and cellular energy\" (slide 7).",
    "cites": [
-    "00:00"
+    "slide 7"
    ],
    "themes": [
     "longevity-positioning",
@@ -3059,9 +3201,13 @@
     "coenzyme Q10",
     "ubiquinol",
     "spermidine",
-    "NAD"
+    "NAD",
+    "curcumin",
+    "nicotinamide riboside",
+    "NMN",
+    "citicoline"
    ],
-   "relevance": "medium",
+   "relevance": "high",
    "status": "summarised"
   },
   {
@@ -3069,8 +3215,9 @@
    "event": "remedy-cdmo-2026",
    "session": "nick-morgan-longevity",
    "date": "2026-10-22",
-   "text": "Longevity products are among the most expensive per serve; the creatine median is about 50 cents a serve, and the same ingredient labelled longevity can be \"a hell of a lot more expensive\" [00:00].",
+   "text": "\"You don't sell one product in 2026\": Cellaro Core is three products, one system (morning, evening, a monthly two-day reset) (slide 6) [00:00].",
    "cites": [
+    "slide 6",
     "00:00"
    ],
    "themes": [
@@ -3085,9 +3232,13 @@
     "coenzyme Q10",
     "ubiquinol",
     "spermidine",
-    "NAD"
+    "NAD",
+    "curcumin",
+    "nicotinamide riboside",
+    "NMN",
+    "citicoline"
    ],
-   "relevance": "medium",
+   "relevance": "high",
    "status": "summarised"
   },
   {
@@ -3095,8 +3246,9 @@
    "event": "remedy-cdmo-2026",
    "session": "nick-morgan-longevity",
    "date": "2026-10-22",
-   "text": "Longevity is shifting into sports nutrition (Centenarian, linked to Sergio Ramos), and cellular claims are entering hydration [00:00].",
+   "text": "Longevity 2.0: precision and convenient formats (a spermidine pen, an NAD+ liquid, longevity chocolate), hydration with a cellular-health story (DryWater), and longevity as a performance story (Centenarian Road) (slide 8) [00:00].",
    "cites": [
+    "slide 8",
     "00:00"
    ],
    "themes": [
@@ -3111,9 +3263,13 @@
     "coenzyme Q10",
     "ubiquinol",
     "spermidine",
-    "NAD"
+    "NAD",
+    "curcumin",
+    "nicotinamide riboside",
+    "NMN",
+    "citicoline"
    ],
-   "relevance": "medium",
+   "relevance": "high",
    "status": "summarised"
   },
   {

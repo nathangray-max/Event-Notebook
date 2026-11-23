@@ -1,8 +1,8 @@
 {
  "schema": "confnotes.sessions/1",
- "built": "2026-11-17",
- "commit": "7e4601b",
- "count": 45,
+ "built": "2026-11-23",
+ "commit": "0774895",
+ "count": 46,
  "items": [
   {
    "id": "the-challenge-and-opportunity-of-our",
@@ -5479,9 +5479,192 @@
    ]
   },
   {
+   "id": "aker-biomarine-krill-peakspan",
+   "event": "remedy-cdmo-2026",
+   "title": "From Longevity to Peakspan: The Role of Krill Oil in Healthy Aging",
+   "date": "",
+   "start": "",
+   "end": "",
+   "format": "talk",
+   "track": "",
+   "speakers": [
+    {
+     "name": "Not named on the slides",
+     "organisation": "Aker BioMarine (Superba Krill)",
+     "role": ""
+    }
+   ],
+   "themes": [
+    "longevity-positioning",
+    "muscle-health-beyond-protein",
+    "branded-ingredients-differentiation",
+    "supply-security"
+   ],
+   "ingredients": [
+    "krill oil (Superba Krill, Superba2, Superba Boost)",
+    "omega-3 (EPA, DHA)"
+   ],
+   "relevance": "medium",
+   "status": "summarised",
+   "summary_by": "Claude",
+   "summary_date": "2026-11-23",
+   "reviewed_by": "",
+   "reviewed_date": "",
+   "attended_by": [],
+   "links": {},
+   "to_check": "The speaker (the deck names none; its file name carries the initials MJ; my reading, probably Matt, called \"Max\", who spoke on the fish oil shortage and \"my presentation earlier\" in the closing panel), the date and time, and whether Nathan saw the talk; slides only, no recording.",
+   "added": "2026-11-23",
+   "added_by": "Claude (from Nathan's upload, 23 Nov 2026)",
+   "has_transcript": false,
+   "transcript_words": 0,
+   "has_notes": false,
+   "has_summary": true,
+   "summary": {
+    "Summary": "Aker BioMarine pitched its Superba Krill oil to Remedy's contract manufacturers as an ingredient for healthy ageing. Its frame is \"Peakspan\": not how long we live, or how long we avoid disease, but how long we stay close to our personal best. Consumers put it in plainer words: maintaining mobility, keeping physically active and keeping an active mind.\n\nThe deck opens on the market. Europe's longevity supplement market is put at $0.50 billion in 2025, rising to $1.23 billion by 2035. It then names seven areas that come under pressure with age, from muscle and joints to heart and skin, and gives trial evidence for krill oil in five of them.\n\nThe muscle evidence leads: in 102 adults over 65 taking 4 g a day for six months, strength rose against placebo. A weight-loss trial showed more of the weight lost coming from fat and less from muscle. Knee pain, triglycerides and skin follow.\n\nIt closes with three product concepts built on two of its ingredients, labelled as positioning directions, not approved claims, and a projection that fish oil supply falls short of demand from 2027.",
+    "Key takeaways": "- The frame: lifespan is how long we live, healthspan how long we avoid disease, \"Peakspan\" how long we stay close to our personal best; consumers rank mobility, staying active and an active mind as the top three aspects of healthy ageing (Innova survey, 11 countries) (slide 4).\n- Muscle: in a six-month randomised, double-blind trial of 102 adults aged 65+ on 4 g a day (University of Glasgow), knee extension strength rose 9%, grip strength 11% and muscle thickness 3.5% against placebo (slide 7).\n- Weight loss: in a 12-week trial (52 randomised, 41 completed, BMI over 25, alternate-day fasting), both groups lost about 4.5 kg, but 96% of the weight lost was fat on krill oil against 73% on placebo; fat-free mass fell 0.2 kg against 1.2 kg (slide 9).\n- Joints: knee pain fell 18% against 13% on placebo (p=0.04) in 235 adults aged 40 to 65 with mild-to-moderate knee osteoarthritis; the deck cites a TGA assessed-listed knee claim in Australia (slide 8).\n- Supply: Aker's own projection has fish oil demand overtaking supply from about 2027, with a gap of 0.16 million tonnes by 2031 and aquaculture taking most of the demand (slide 13).\n- The three concepts (Peak, Renew, Strength) run on two products, Superba2 and Superba Boost, and are \"positioning directions, not approved on-pack claims\" (slide 12).",
+    "For Vita Actives": "- Relevance medium: krill oil is outside our range, but it is pitched on strength in over-65s and on keeping muscle during weight loss, the same healthy-ageing muscle brief as CreaWin and IsoClr: Pea (slide 7) (slide 9).\n- My reading: a stacking partner rather than a rival; its \"Strength\" concept (muscle and mobility) could sit beside creatine or protein in one routine (slide 12).\n- My reading: the only EU-authorised claim the deck cites is for EPA and DHA and the heart (slide 10); the rest rests on trials, the same position our ingredients are in when pitched for healthy ageing.\n- The fish oil projection matches the panel's warning that aquaculture is buying up supply and shelves will feel it by next summer (panel-evidence-regulation-ai). My reading: supply continuity is a selling point buyers are listening for now.",
+    "Quotes": "- \"How long we stay close to our personal best.\" (slide 4)\n- \"Maintaining strength matters only if people can keep moving\" (slide 8)\n- \"Concepts are positioning directions, not approved on-pack claims.\" (slide 12)",
+    "Follow-ups": "- Confirm the speaker, the date and whether Nathan attended (the panel's Matt, \"Max\", is the likely speaker).\n- Ask Aker BioMarine whether krill oil has been tested with creatine or protein, and for the papers behind slides 7 to 9.\n- Ask for the source and update of the fish oil projection, and Aker's view of krill supply against it.",
+    "Key slides": "",
+    "Detail": "- Market (Future Market Insights 2025): EU longevity supplements $0.50 billion in 2025 to $1.23 billion in 2035, 9.4% a year, 146% in total; largest markets Germany, France, the UK and the Netherlands. The slide warns this definition is narrower than NBJ's US \"Healthy Aging\" category (slide 3).\n- Other figures on the market slide: 60% of consumers in the UK, Germany, the US and China rate healthy ageing a top or very important priority (McKinsey 2025, n over 9,000); 22% of the world aged 60 or over by 2050 (WHO); \"cellular health\" claims up 135% across 32 countries in the first half of 2024 (Euromonitor) (slide 3).\n- The seven areas: cellular health, muscle, joints, heart, metabolism, skin, and brain and eyes. Muscle: 3 to 5% of muscle mass is lost every decade from the 40s, and strength declines faster than mass; osteoarthritis and chronic pain are the main reasons adults over 55 stop being active (slide 5).\n- Muscle trial: Alkhedhairi et al., Clinical Nutrition 2022. The grip gain is described as comparable to the difference across a 10-year age gap (65 against 55) (slide 7).\n- Joints: Stonehouse et al., American Journal of Clinical Nutrition 2022; in the high-CRP subgroup knee pain fell 27% against 7% (p<0.001). A 12-week pilot in 40 adults over 60 with hip, knee or lower-back pain (Superba Boost, 4 g a day) showed improvement in 67% against 40%; the slide calls it a feasibility study, not powered for efficacy (Tamargo et al., 2026) (slide 8).\n- Weight loss: Alblaji et al., Obesity 2025. Grip strength fell 0.2 kg against 0.9 kg, chair-rise performance improved against no change, and the omega-3 index rose from 5.5% to 8.2% against 5.5% to 5.3%; blood pressure, TNF-alpha and CRP also improved against placebo (slide 9).\n- Heart: in 520 adults with severe hypertriglyceridaemia at 164 centres, 4 g a day for 26 weeks lowered triglycerides 33.5% against 20.8% on placebo, and 37.4% against 16.1% in those already on statins, without raising LDL (Mozaffarian et al., JAMA Network Open 2022); two meta-analyses cited (slide 10).\n- Skin: Superba Boost at 1 g and 2 g improved hydration, barrier function and elasticity against placebo, dose-dependently (Handeland and Wakeman, Journal of Cosmetic Dermatology 2024) (slide 11).\n- Fish oil model assumptions: aquaculture demand and supplement demand each growing 3% a year, pet food 4%, and a 5% shortfall in each El Niño dip (2023, 2026, 2029). The slide is marked \"Confidential\" by Aker (slide 13).\n- Slide 2 is blank in the PDF, probably a video in the original.",
+    "Research": ""
+   },
+   "takeaways": [
+    {
+     "text": "The frame: lifespan is how long we live, healthspan how long we avoid disease, \"Peakspan\" how long we stay close to our personal best; consumers rank mobility, staying active and an active mind as the top three aspects of healthy ageing (Innova survey, 11 countries) (slide 4).",
+     "cites": [
+      "slide 4"
+     ]
+    },
+    {
+     "text": "Muscle: in a six-month randomised, double-blind trial of 102 adults aged 65+ on 4 g a day (University of Glasgow), knee extension strength rose 9%, grip strength 11% and muscle thickness 3.5% against placebo (slide 7).",
+     "cites": [
+      "slide 7"
+     ]
+    },
+    {
+     "text": "Weight loss: in a 12-week trial (52 randomised, 41 completed, BMI over 25, alternate-day fasting), both groups lost about 4.5 kg, but 96% of the weight lost was fat on krill oil against 73% on placebo; fat-free mass fell 0.2 kg against 1.2 kg (slide 9).",
+     "cites": [
+      "slide 9"
+     ]
+    },
+    {
+     "text": "Joints: knee pain fell 18% against 13% on placebo (p=0.04) in 235 adults aged 40 to 65 with mild-to-moderate knee osteoarthritis; the deck cites a TGA assessed-listed knee claim in Australia (slide 8).",
+     "cites": [
+      "slide 8"
+     ]
+    },
+    {
+     "text": "Supply: Aker's own projection has fish oil demand overtaking supply from about 2027, with a gap of 0.16 million tonnes by 2031 and aquaculture taking most of the demand (slide 13).",
+     "cites": [
+      "slide 13"
+     ]
+    },
+    {
+     "text": "The three concepts (Peak, Renew, Strength) run on two products, Superba2 and Superba Boost, and are \"positioning directions, not approved on-pack claims\" (slide 12).",
+     "cites": [
+      "slide 12"
+     ]
+    }
+   ],
+   "quotes": [
+    {
+     "text": "\"How long we stay close to our personal best.\" (slide 4)",
+     "cites": [
+      "slide 4"
+     ]
+    },
+    {
+     "text": "\"Maintaining strength matters only if people can keep moving\" (slide 8)",
+     "cites": [
+      "slide 8"
+     ]
+    },
+    {
+     "text": "\"Concepts are positioning directions, not approved on-pack claims.\" (slide 12)",
+     "cites": [
+      "slide 12"
+     ]
+    }
+   ],
+   "followups": [
+    "Confirm the speaker, the date and whether Nathan attended (the panel's Matt, \"Max\", is the likely speaker).",
+    "Ask Aker BioMarine whether krill oil has been tested with creatine or protein, and for the papers behind slides 7 to 9.",
+    "Ask for the source and update of the fish oil projection, and Aker's view of krill supply against it."
+   ],
+   "key_slides": [],
+   "detail": [
+    {
+     "text": "Market (Future Market Insights 2025): EU longevity supplements $0.50 billion in 2025 to $1.23 billion in 2035, 9.4% a year, 146% in total; largest markets Germany, France, the UK and the Netherlands. The slide warns this definition is narrower than NBJ's US \"Healthy Aging\" category (slide 3).",
+     "cites": [
+      "slide 3"
+     ]
+    },
+    {
+     "text": "Other figures on the market slide: 60% of consumers in the UK, Germany, the US and China rate healthy ageing a top or very important priority (McKinsey 2025, n over 9,000); 22% of the world aged 60 or over by 2050 (WHO); \"cellular health\" claims up 135% across 32 countries in the first half of 2024 (Euromonitor) (slide 3).",
+     "cites": [
+      "slide 3"
+     ]
+    },
+    {
+     "text": "The seven areas: cellular health, muscle, joints, heart, metabolism, skin, and brain and eyes. Muscle: 3 to 5% of muscle mass is lost every decade from the 40s, and strength declines faster than mass; osteoarthritis and chronic pain are the main reasons adults over 55 stop being active (slide 5).",
+     "cites": [
+      "slide 5"
+     ]
+    },
+    {
+     "text": "Muscle trial: Alkhedhairi et al., Clinical Nutrition 2022. The grip gain is described as comparable to the difference across a 10-year age gap (65 against 55) (slide 7).",
+     "cites": [
+      "slide 7"
+     ]
+    },
+    {
+     "text": "Joints: Stonehouse et al., American Journal of Clinical Nutrition 2022; in the high-CRP subgroup knee pain fell 27% against 7% (p<0.001). A 12-week pilot in 40 adults over 60 with hip, knee or lower-back pain (Superba Boost, 4 g a day) showed improvement in 67% against 40%; the slide calls it a feasibility study, not powered for efficacy (Tamargo et al., 2026) (slide 8).",
+     "cites": [
+      "slide 8"
+     ]
+    },
+    {
+     "text": "Weight loss: Alblaji et al., Obesity 2025. Grip strength fell 0.2 kg against 0.9 kg, chair-rise performance improved against no change, and the omega-3 index rose from 5.5% to 8.2% against 5.5% to 5.3%; blood pressure, TNF-alpha and CRP also improved against placebo (slide 9).",
+     "cites": [
+      "slide 9"
+     ]
+    },
+    {
+     "text": "Heart: in 520 adults with severe hypertriglyceridaemia at 164 centres, 4 g a day for 26 weeks lowered triglycerides 33.5% against 20.8% on placebo, and 37.4% against 16.1% in those already on statins, without raising LDL (Mozaffarian et al., JAMA Network Open 2022); two meta-analyses cited (slide 10).",
+     "cites": [
+      "slide 10"
+     ]
+    },
+    {
+     "text": "Skin: Superba Boost at 1 g and 2 g improved hydration, barrier function and elasticity against placebo, dose-dependently (Handeland and Wakeman, Journal of Cosmetic Dermatology 2024) (slide 11).",
+     "cites": [
+      "slide 11"
+     ]
+    },
+    {
+     "text": "Fish oil model assumptions: aquaculture demand and supplement demand each growing 3% a year, pet food 4%, and a 5% shortfall in each El Niño dip (2023, 2026, 2029). The slide is marked \"Confidential\" by Aker (slide 13).",
+     "cites": [
+      "slide 13"
+     ]
+    },
+    {
+     "text": "Slide 2 is blank in the PDF, probably a video in the original.",
+     "cites": []
+    }
+   ],
+   "files": [
+    {
+     "name": "From_Longevity_to_Peakspan_Remedy_Poland_2026_1_MJ.pdf",
+     "kind": "pdf",
+     "pages": 14
+    }
+   ]
+  },
+  {
    "id": "nick-morgan-longevity",
    "event": "remedy-cdmo-2026",
-   "title": "Nick Morgan: how longevity is sold, from hallmarks to habits",
+   "title": "Healthy Ageing Reimagined",
    "date": "2026-10-22",
    "start": "11:50",
    "end": "11:56",
@@ -5506,12 +5689,16 @@
     "coenzyme Q10",
     "ubiquinol",
     "spermidine",
-    "NAD"
+    "NAD",
+    "curcumin",
+    "nicotinamide riboside",
+    "NMN",
+    "citicoline"
    ],
-   "relevance": "medium",
+   "relevance": "high",
    "status": "summarised",
    "summary_by": "Claude",
-   "summary_date": "2026-11-09",
+   "summary_date": "2026-11-23",
    "reviewed_by": "",
    "reviewed_date": "",
    "attended_by": [
@@ -5520,7 +5707,7 @@
    "links": {
     "otter": "https://otter.ai/u/e7RrbCs2RWPnhgDD_ew_dnFqZNc"
    },
-   "to_check": "The recording holds only the last six minutes of the talk, so the billed title, the speaker's organisation and role (Nutrition Integrated is not said in the recording), the five points he refers back to, and the room are unconfirmed.",
+   "to_check": "The recording holds only the last six minutes; the slides (added 23 Nov 2026) give the billed title and the five parts. His role and the room are unconfirmed.",
    "added": "2026-11-09",
    "added_by": "Claude (from Nathan's Otter recordings, 9 Nov 2026)",
    "has_transcript": true,
@@ -5528,43 +5715,47 @@
    "has_notes": false,
    "has_summary": true,
    "summary": {
-    "Summary": "The recording catches the last six minutes of Nick Morgan's talk on the longevity consumer. His question was how brands actually sell longevity, and his answer was: not through the science.\n\nLongevity now sits inside women's health, menopause and sports nutrition. Consumers connect with \"energy and vitality\" and \"cellular health\", not the hallmarks of ageing; in about 300 products he coded, only 9% refer to the hallmarks at all. Brands sell a routine of about three products, not one, so an ingredient is sold on how it fits the customer's product system.\n\nLongevity is also one of the most expensive categories per serve. His example was creatine: a median of about 50 cents a serve on the sports shelf, and far more with longevity on the front of the pack. A good story can turn an existing ingredient into a premium one.\n\nHe closed on where the category is going. Capsules dominate today, but formats are widening into liquids, chocolate, gummies and drinks, cellular claims are entering hydration, and longevity is moving into sports nutrition. His advice was to keep up, because what brands say today will change within months.",
-    "Key takeaways": "- Consumers buy \"energy and vitality\" and \"cellular health\"; the hallmarks of ageing are \"for this people in this room\" [00:00].\n- Of about 300 products coded, 9% refer to the hallmarks and only 4%, he thinks, put them in lead copy [00:00].\n- \"You don't sell one product in 2026\": brands sell a routine of about three products, and an ingredient is sold on how it fits the customer's product system [00:00].\n- Longevity products are among the most expensive per serve; the creatine median is about 50 cents a serve, and the same ingredient labelled longevity can be \"a hell of a lot more expensive\" [00:00].\n- Longevity is shifting into sports nutrition (Centenarian, linked to Sergio Ramos), and cellular claims are entering hydration [00:00].",
-    "For Vita Actives": "- The price gap is the clearest point for us: creatine at about 50 cents a serve against longevity products that are far more expensive [00:00]. My reading: a CreaWin pitch to brands building a longevity or healthy-ageing line, priced above the sports shelf, is open. He calls creatine \"a daily essential\" for himself [00:00].\n- His shift of longevity into sports nutrition and hydration is the direction our customers are already travelling [00:00]. My reading: an AM/PM routine from a sports brand may carry creatine and protein as its daily pillars.\n- Brands speak of \"cellular health\" and \"energy and vitality\", not hallmarks [00:00]. My reading: collateral for ageing-focused customers should use their words.\n- Relevance medium: the talk is about longevity positioning, with one direct creatine point.",
-    "Quotes": "- \"So actually, the hallmarks of aging is for this people in this room. Most consumers couldn't get two hoots, except for the very small few.\" Speaker 1 [00:00]\n- \"But what's really interesting is you don't sell one product in 2026. That would be a crazy thing to do.\" Speaker 1 [00:00]\n- \"The average for creatine median per serve is around about 50 cents, right? It's maybe a little bit lower, but you can take an existing ingredient, call it longevity, and actually be a hell of a lot more expensive.\" Speaker 1 [00:00]\n- \"...we're also seeing a massive shift to sports nutrition. And this is Sergio Ramos. For those of you that know your footballers, he's linked to a brand called Centenarian\" Speaker 1 [00:00]",
-    "Follow-ups": "- Ask Nick Morgan for the slides: the price-per-serve chart and the \"five things\" given before the recording starts.\n- Look at Solero's three-product routine and Centenarian's range.\n- Ask how his product coding (about 300 products) defines the longevity shelf, and whether creatine products labelled longevity are in it.",
+    "Summary": "Nick Morgan of Nutrition Integrated talked through how longevity is sold, from his own database of products. The recording catches only his last six minutes; his slides give the whole talk in five parts.\n\nHealthy ageing, healthspan and longevity are different things: function and wellbeing, years in good health, and years of life. Brands either try to alter the biology of ageing, optimise how people feel as they age, or fit longevity to one group such as ageing athletes or women through menopause. On the page they sell energy and vitality, not science: the hallmarks of ageing appear on only one product page in eleven.\n\nBrands sell a system, not a product: Cellaro's three products for morning, evening and a monthly reset. And longevity is one of the most expensive categories per serving. Creatine sells at a median of €0.47 a serving in capsules and tablets, while MitoQ's longevity creatine sells at €1.60, more than three times as much.\n\nHe closed on where the category is going: new formats, longevity claims moving into hydration, and longevity told as a performance story through sports nutrition.",
+    "Key takeaways": "- On 265 product pages assessed, energy and vitality is the most common message (83.8%), while the hallmarks of ageing are named on 9.1% and placed in lead copy on 4.2% (slide 5); spoken as about 300 products, 9% and 4% [00:00].\n- Price: median price per serving in capsules and tablets is €0.47 for creatine (518 products) against €1.35 for longevity (194) and €1.36 for NAD (28), read from the chart (slide 7); spoken as \"around about 50 cents\" for creatine [00:00].\n- MitoQ Longevity Creatine Complex, 5 g creatine with citicoline, sells at €1.60 a serving, 3.41 times the creatine median, positioned for \"muscle, mind and cellular energy\" (slide 7).\n- \"You don't sell one product in 2026\": Cellaro Core is three products, one system (morning, evening, a monthly two-day reset) (slide 6) [00:00].\n- Longevity 2.0: precision and convenient formats (a spermidine pen, an NAD+ liquid, longevity chocolate), hydration with a cellular-health story (DryWater), and longevity as a performance story (Centenarian Road) (slide 8) [00:00].",
+    "For Vita Actives": "- Relevance high: the clearest price signal for CreaWin from any show. A creatine product sold as longevity takes €1.60 a serving against a creatine median of €0.47 (slide 7). My reading: CreaWin pitched to brands building a longevity or healthy-ageing line sits in \"premium longevity territory\", not on the sports shelf.\n- Muscle blends are the most expensive category on his chart at €1.44 a serving (slide 7). My reading: creatine and protein inside a muscle-and-mobility blend for ageing is where the margin is.\n- Muscle and mobility appear on only 40.8% of longevity pages and in lead copy on 11.7% (slide 5). My reading: room for a brand to lead on muscle with age, which is where CreaWin and IsoClr: Pea fit.\n- Brands speak of energy, vitality and cellular health, not hallmarks (slide 5). My reading: collateral for ageing-focused customers should use their words.",
+    "Quotes": "- \"So actually, the hallmarks of aging is for this people in this room. Most consumers couldn't get two hoots, except for the very small few.\" Speaker 1 [00:00]\n- \"But what's really interesting is you don't sell one product in 2026. That would be a crazy thing to do.\" Speaker 1 [00:00]\n- \"The average for creatine median per serve is around about 50 cents, right? It's maybe a little bit lower, but you can take an existing ingredient, call it longevity, and actually be a hell of a lot more expensive.\" Speaker 1 [00:00]\n- \"Performance today. Capability for life.\" (slide 8)",
+    "Follow-ups": "- Ask Nick Morgan whether creatine products labelled longevity sit in his longevity set, and for the creatine price split by positioning.\n- Look at MitoQ Longevity Creatine Complex, Cellaro Core and Centenarian Road as benchmarks for a CreaWin longevity concept.",
     "Key slides": "",
-    "Detail": "- Longevity sits inside women's health, beauty (ageing and wrinkles), menopause as a distinct life phase, and sports nutrition as \"a conduit to living better\" [00:00].\n- \"Cellular health\" appears everywhere and has almost become a surrogate for longevity; very few brands talk about all the hallmarks of ageing [00:00].\n- Among the ingredients on the longevity shelf (another 300 products) he named resveratrol, CoQ10, ubiquinol and spermidine [00:00].\n- Solero's routine: an AM, a PM, and a third product taken for two days every month as a reset; the brand does talk about the hallmarks, with \"three products, one simple routine\" [00:00].\n- The price chart was price per serve, normalised in euros across several categories, with longevity among the most expensive [00:00].\n- Formats: 70% of longevity products are capsules, but liquids, chocolate, gummies and drinks are arriving, including an energy drink with NAD and a spermidine injection pen [00:00].\n- Centenarian is \"all about real longevity, backed by science, delivered through sports nutrition\" [00:00].",
+    "Detail": "- The deck is dated Remedy, Gdansk, 22 Oct 2026, and its data come from Nutrition Integrated's own product dataset covering longevity and adjacent categories such as protein, creatine, HMB and beauty (slide 1) (slide 2).\n- Five parts: grounding the conversation; to alter or optimise ageing; selling support, not products; the cost to be healthy; Longevity 2.0 (slide 2).\n- Definitions: healthy ageing is developing and maintaining functional ability; healthspan the period free from chronic disease, disability or substantial functional impairment; longevity the number of life years (slide 3).\n- Three approaches: altering the ageing process (cellular and mitochondrial health, senescence); optimising the ageing experience (muscle and mobility, cognition, energy, sleep, gut, metabolic health, beauty, immunity); personalising the age focus (ageing athletes, women through menopause and later life, beauty longevity) (slide 4).\n- Messages on the 265 pages, mentioned and in lead copy: longevity 72.5% and 44.9%; cellular health 65.7% and 34.3%; NAD+ 57.4% and 40.8%; cognition 57.0% and 21.9%; skin and beauty 35.8% and 9.1%; all hallmarks covered 2.3% and 1.1%. 44.5% use both \"longevity\" and \"healthy ageing\" (slide 5).\n- Top ingredients in longevity blends (336 products), read from the chart: curcumin 38.4%, vitamin B1 26.8%, NAD 25.6%, vitamin C 22.0%, nicotinamide riboside 19.9%, fisetin 19.3%, black pepper 18.2%, vitamin B12 16.7%; NMN, zinc and calcium 14.6% each; spermidine 14.0%; quercetin and CoQ10 13.7%; resveratrol 13.4% (slide 6).\n- Other medians per serving, read from the chart: lactoferrin €1.05, NMN €1.01, beauty €0.98, brain €0.91, multivitamin €0.49, collagen €0.44, magnesium €0.31, zinc €0.13 (slide 7). MitoQ is US$54 for 30 servings, converted at €1 = US$1.1234 (ECB, 21 Oct 2026); the slide notes a powder blend benchmarked against capsules and tablets (slide 7).\n- Otter's \"Solero\" is Cellaro on the slide (slide 6) [00:00]; the same brand appears in his SANS deck (a-bigger-sports-nutrition-landscape-growth).\n- Formats: 70% of longevity products are capsules, with liquids, chocolate, gummies and drinks arriving [00:00].\n- Longevity sits inside women's health, beauty, menopause and sports nutrition, \"a conduit to living better\" [00:00].",
     "Research": ""
    },
    "takeaways": [
     {
-     "text": "Consumers buy \"energy and vitality\" and \"cellular health\"; the hallmarks of ageing are \"for this people in this room\" [00:00].",
+     "text": "On 265 product pages assessed, energy and vitality is the most common message (83.8%), while the hallmarks of ageing are named on 9.1% and placed in lead copy on 4.2% (slide 5); spoken as about 300 products, 9% and 4% [00:00].",
      "cites": [
+      "slide 5",
       "00:00"
      ]
     },
     {
-     "text": "Of about 300 products coded, 9% refer to the hallmarks and only 4%, he thinks, put them in lead copy [00:00].",
+     "text": "Price: median price per serving in capsules and tablets is €0.47 for creatine (518 products) against €1.35 for longevity (194) and €1.36 for NAD (28), read from the chart (slide 7); spoken as \"around about 50 cents\" for creatine [00:00].",
      "cites": [
+      "slide 7",
       "00:00"
      ]
     },
     {
-     "text": "\"You don't sell one product in 2026\": brands sell a routine of about three products, and an ingredient is sold on how it fits the customer's product system [00:00].",
+     "text": "MitoQ Longevity Creatine Complex, 5 g creatine with citicoline, sells at €1.60 a serving, 3.41 times the creatine median, positioned for \"muscle, mind and cellular energy\" (slide 7).",
      "cites": [
+      "slide 7"
+     ]
+    },
+    {
+     "text": "\"You don't sell one product in 2026\": Cellaro Core is three products, one system (morning, evening, a monthly two-day reset) (slide 6) [00:00].",
+     "cites": [
+      "slide 6",
       "00:00"
      ]
     },
     {
-     "text": "Longevity products are among the most expensive per serve; the creatine median is about 50 cents a serve, and the same ingredient labelled longevity can be \"a hell of a lot more expensive\" [00:00].",
+     "text": "Longevity 2.0: precision and convenient formats (a spermidine pen, an NAD+ liquid, longevity chocolate), hydration with a cellular-health story (DryWater), and longevity as a performance story (Centenarian Road) (slide 8) [00:00].",
      "cites": [
-      "00:00"
-     ]
-    },
-    {
-     "text": "Longevity is shifting into sports nutrition (Centenarian, linked to Sergio Ramos), and cellular claims are entering hydration [00:00].",
-     "cites": [
+      "slide 8",
       "00:00"
      ]
     }
@@ -5589,63 +5780,88 @@
      ]
     },
     {
-     "text": "\"...we're also seeing a massive shift to sports nutrition. And this is Sergio Ramos. For those of you that know your footballers, he's linked to a brand called Centenarian\" Speaker 1 [00:00]",
+     "text": "\"Performance today. Capability for life.\" (slide 8)",
      "cites": [
-      "00:00"
+      "slide 8"
      ]
     }
    ],
    "followups": [
-    "Ask Nick Morgan for the slides: the price-per-serve chart and the \"five things\" given before the recording starts.",
-    "Look at Solero's three-product routine and Centenarian's range.",
-    "Ask how his product coding (about 300 products) defines the longevity shelf, and whether creatine products labelled longevity are in it."
+    "Ask Nick Morgan whether creatine products labelled longevity sit in his longevity set, and for the creatine price split by positioning.",
+    "Look at MitoQ Longevity Creatine Complex, Cellaro Core and Centenarian Road as benchmarks for a CreaWin longevity concept."
    ],
    "key_slides": [],
    "detail": [
     {
-     "text": "Longevity sits inside women's health, beauty (ageing and wrinkles), menopause as a distinct life phase, and sports nutrition as \"a conduit to living better\" [00:00].",
+     "text": "The deck is dated Remedy, Gdansk, 22 Oct 2026, and its data come from Nutrition Integrated's own product dataset covering longevity and adjacent categories such as protein, creatine, HMB and beauty (slide 1) (slide 2).",
+     "cites": [
+      "slide 1",
+      "slide 2"
+     ]
+    },
+    {
+     "text": "Five parts: grounding the conversation; to alter or optimise ageing; selling support, not products; the cost to be healthy; Longevity 2.0 (slide 2).",
+     "cites": [
+      "slide 2"
+     ]
+    },
+    {
+     "text": "Definitions: healthy ageing is developing and maintaining functional ability; healthspan the period free from chronic disease, disability or substantial functional impairment; longevity the number of life years (slide 3).",
+     "cites": [
+      "slide 3"
+     ]
+    },
+    {
+     "text": "Three approaches: altering the ageing process (cellular and mitochondrial health, senescence); optimising the ageing experience (muscle and mobility, cognition, energy, sleep, gut, metabolic health, beauty, immunity); personalising the age focus (ageing athletes, women through menopause and later life, beauty longevity) (slide 4).",
+     "cites": [
+      "slide 4"
+     ]
+    },
+    {
+     "text": "Messages on the 265 pages, mentioned and in lead copy: longevity 72.5% and 44.9%; cellular health 65.7% and 34.3%; NAD+ 57.4% and 40.8%; cognition 57.0% and 21.9%; skin and beauty 35.8% and 9.1%; all hallmarks covered 2.3% and 1.1%. 44.5% use both \"longevity\" and \"healthy ageing\" (slide 5).",
+     "cites": [
+      "slide 5"
+     ]
+    },
+    {
+     "text": "Top ingredients in longevity blends (336 products), read from the chart: curcumin 38.4%, vitamin B1 26.8%, NAD 25.6%, vitamin C 22.0%, nicotinamide riboside 19.9%, fisetin 19.3%, black pepper 18.2%, vitamin B12 16.7%; NMN, zinc and calcium 14.6% each; spermidine 14.0%; quercetin and CoQ10 13.7%; resveratrol 13.4% (slide 6).",
+     "cites": [
+      "slide 6"
+     ]
+    },
+    {
+     "text": "Other medians per serving, read from the chart: lactoferrin €1.05, NMN €1.01, beauty €0.98, brain €0.91, multivitamin €0.49, collagen €0.44, magnesium €0.31, zinc €0.13 (slide 7). MitoQ is US$54 for 30 servings, converted at €1 = US$1.1234 (ECB, 21 Oct 2026); the slide notes a powder blend benchmarked against capsules and tablets (slide 7).",
+     "cites": [
+      "slide 7",
+      "slide 7"
+     ]
+    },
+    {
+     "text": "Otter's \"Solero\" is Cellaro on the slide (slide 6) [00:00]; the same brand appears in his SANS deck (a-bigger-sports-nutrition-landscape-growth).",
+     "cites": [
+      "slide 6",
+      "00:00"
+     ]
+    },
+    {
+     "text": "Formats: 70% of longevity products are capsules, with liquids, chocolate, gummies and drinks arriving [00:00].",
      "cites": [
       "00:00"
      ]
     },
     {
-     "text": "\"Cellular health\" appears everywhere and has almost become a surrogate for longevity; very few brands talk about all the hallmarks of ageing [00:00].",
-     "cites": [
-      "00:00"
-     ]
-    },
-    {
-     "text": "Among the ingredients on the longevity shelf (another 300 products) he named resveratrol, CoQ10, ubiquinol and spermidine [00:00].",
-     "cites": [
-      "00:00"
-     ]
-    },
-    {
-     "text": "Solero's routine: an AM, a PM, and a third product taken for two days every month as a reset; the brand does talk about the hallmarks, with \"three products, one simple routine\" [00:00].",
-     "cites": [
-      "00:00"
-     ]
-    },
-    {
-     "text": "The price chart was price per serve, normalised in euros across several categories, with longevity among the most expensive [00:00].",
-     "cites": [
-      "00:00"
-     ]
-    },
-    {
-     "text": "Formats: 70% of longevity products are capsules, but liquids, chocolate, gummies and drinks are arriving, including an energy drink with NAD and a spermidine injection pen [00:00].",
-     "cites": [
-      "00:00"
-     ]
-    },
-    {
-     "text": "Centenarian is \"all about real longevity, backed by science, delivered through sports nutrition\" [00:00].",
+     "text": "Longevity sits inside women's health, beauty, menopause and sports nutrition, \"a conduit to living better\" [00:00].",
      "cites": [
       "00:00"
      ]
     }
    ],
    "files": [
+    {
+     "name": "nutrition-integrated-healthy-ageing-reimagined.pdf",
+     "kind": "pdf",
+     "pages": 10
+    },
     {
      "name": "otter-summary.md",
      "kind": "text",

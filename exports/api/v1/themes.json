@@ -1,7 +1,7 @@
 {
  "schema": "confnotes.themes/1",
- "built": "2026-11-17",
- "commit": "7e4601b",
+ "built": "2026-11-23",
+ "commit": "0774895",
  "count": 19,
  "items": [
   {
@@ -55,6 +55,12 @@
      "session": "unfiltered-an-insider-s-view-of",
      "title": "Unfiltered: An Insider's View of the Whey Protein Market",
      "date": "2026-11-09"
+    },
+    {
+     "event": "remedy-cdmo-2026",
+     "session": "aker-biomarine-krill-peakspan",
+     "title": "From Longevity to Peakspan: The Role of Krill Oil in Healthy Aging",
+     "date": ""
     },
     {
      "event": "remedy-cdmo-2026",
@@ -268,8 +274,14 @@
     },
     {
      "event": "remedy-cdmo-2026",
+     "session": "aker-biomarine-krill-peakspan",
+     "title": "From Longevity to Peakspan: The Role of Krill Oil in Healthy Aging",
+     "date": ""
+    },
+    {
+     "event": "remedy-cdmo-2026",
      "session": "nick-morgan-longevity",
-     "title": "Nick Morgan: how longevity is sold, from hallmarks to habits",
+     "title": "Healthy Ageing Reimagined",
      "date": "2026-10-22"
     },
     {
@@ -344,7 +356,7 @@
     {
      "event": "remedy-cdmo-2026",
      "session": "nick-morgan-longevity",
-     "title": "Nick Morgan: how longevity is sold, from hallmarks to habits",
+     "title": "Healthy Ageing Reimagined",
      "date": "2026-10-22"
     },
     {
@@ -385,6 +397,12 @@
      "session": "from-hype-to-proof-the-science",
      "title": "From hype to proof: the science behind GLP-1 targeted nutritional supplements",
      "date": "2026-11-09"
+    },
+    {
+     "event": "remedy-cdmo-2026",
+     "session": "aker-biomarine-krill-peakspan",
+     "title": "From Longevity to Peakspan: The Role of Krill Oil in Healthy Aging",
+     "date": ""
     },
     {
      "event": "remedy-cdmo-2026",
@@ -460,6 +478,12 @@
      "session": "fuelling-the-female-runner-from-paper",
      "title": "Fuelling the female runner: from paper to podium to partnerships",
      "date": "2026-11-09"
+    },
+    {
+     "event": "remedy-cdmo-2026",
+     "session": "aker-biomarine-krill-peakspan",
+     "title": "From Longevity to Peakspan: The Role of Krill Oil in Healthy Aging",
+     "date": ""
     },
     {
      "event": "remedy-cdmo-2026",
@@ -545,7 +569,7 @@
     {
      "event": "remedy-cdmo-2026",
      "session": "nick-morgan-longevity",
-     "title": "Nick Morgan: how longevity is sold, from hallmarks to habits",
+     "title": "Healthy Ageing Reimagined",
      "date": "2026-10-22"
     },
     {
@@ -584,7 +608,7 @@
     {
      "event": "remedy-cdmo-2026",
      "session": "nick-morgan-longevity",
-     "title": "Nick Morgan: how longevity is sold, from hallmarks to habits",
+     "title": "Healthy Ageing Reimagined",
      "date": "2026-10-22"
     },
     {
