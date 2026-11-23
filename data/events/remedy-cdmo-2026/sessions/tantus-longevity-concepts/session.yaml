@@ -1,31 +1,35 @@
 id: tantus-longevity-concepts
-title: 'Tantus: longevity in action, from a trend to a product'
+title: Longevity - from a trend to a product
 date: '2026-10-22'
 start: '15:11'
 end: '15:18'
 format: talk
 track: ''
 speakers:
-- name: Victoria
+- name: Mateusz Korgul
   organisation: Tantus
-  role: Sales and business development manager; certified herbalist
-- name: Mateus Kollu
+  role: Clinical dietician and business development manager
+- name: Victoria Lesiovski
   organisation: Tantus
-  role: Clinical dietitian and business development manager (surname as transcribed; the host said "Matthias Korgol")
+  role: Certified herbalist; sales and business development
 themes: [longevity-positioning, creatine-beyond-strength, cdmo-partnership-models, delivery-formats]
 ingredients:
 - creatine
-- hesperidin (hesperidin-based ingredient)
+- WATTS'UP (Solabia citrus bioflavonoid; spoken as hesperidin-based)
+- VitaCholine (choline)
+- Kaneka Ubiquinol
+- B vitamins
+- PeptiStrong (Nuritas plant peptides)
 relevance: high
 status: summarised
 summary_by: Claude
-summary_date: '2026-11-09'
+summary_date: '2026-11-23'
 reviewed_by: ''
 reviewed_date: ''
 attended_by:
 - Nathan
 links:
   otter: https://otter.ai/u/OYrH7X1nX2KoUmyAm7nhqedGwTk
-to_check: 'The title is the host''s introduction ("longevity in action, from a trend to a product") not a printed programme; Victoria''s surname, the spelling of Mateus''s name (transcribed "Mateus Kollu", introduced as "Matthias Korgol") and the room are unconfirmed; the recording stops after the first of three product concepts.'
+to_check: 'The slides (added 23 Nov 2026) settle the title, the names and the three concepts. Still open: the room, whose creatine is in the chewable (the slides say only "3 g Creatine") and how many tablets make the dose; the recording stops after the first concept.'
 added: '2026-11-09'
 added_by: Claude (from Nathan's Otter recordings, 9 Nov 2026)

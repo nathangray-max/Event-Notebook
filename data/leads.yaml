@@ -40,7 +40,7 @@ leads:
   - {event: remedy-cdmo-2026, session: tantus-longevity-concepts}
   - {event: remedy-cdmo-2026, session: solabia-launches}
   - {event: remedy-cdmo-2026, session: nuritas-peptistrong}
-  summary: Co-developing a three-gram creatine chewable with an ingredient supplier and prefers suppliers who bring science and formulation help; my reading, the most direct CreaWin prospect from the shows.
+  summary: Polish CDMO (Mateusz Korgul, Victoria Lesiovski) showing three concepts at Remedy, a 3 g creatine chewable with 400 mg WATTS'UP, an Anti-Age capsule with Kaneka Ubiquinol, and a PeptiStrong tablet with Nuritas and Vivatis; whose creatine is in the chewable is not on the slides; my reading, the most direct CreaWin prospect from the shows.
   added: '2026-11-20'
 - id: favea
   company: Favea (CDMO)
@@ -50,7 +50,8 @@ leads:
   sources:
   - {event: remedy-cdmo-2026, session: spi-pharma-nordic-biotic}
   - {event: remedy-cdmo-2026, session: novosol-optimsm}
-  summary: CDMO shown making chewables and cap-in-cap products with SPI Pharma's platforms; my reading, a contact for CreaWin chewable and effervescent formats.
+  - {event: remedy-cdmo-2026, session: favea-ai-mental-shift}
+  summary: Czech CDMO (CEO Martina Pavlová) making chewable and effervescent tablets, capsules and cap-in-cap (COMBICAPS, used for Aquanova's NeuroFlex PD); my reading, a contact for CreaWin chewable and effervescent formats.
   added: '2026-11-20'
 - id: marchon
   company: Marchon (UK brand with gyms and an app)
@@ -118,7 +119,7 @@ leads:
   summary: Sells PeptiStrong as an add-on to protein and creatine, not a replacement; my reading, a stacking partner for CreaWin and IsoClr Pea in recovery formulas.
   added: '2026-11-20'
 - id: martin-bauer
-  company: Martin Bauer (Rhosera)
+  company: MartinBauer Nutraceuticals (RhoSera, Dr Ralf Spreemann)
   kinds: [partner]
   status: heard
   confidential: false
@@ -133,7 +134,7 @@ leads:
   confidential: false
   sources:
   - {event: remedy-cdmo-2026, session: sacco-probiotics}
-  summary: Probiotic maker and CDMO pitching Symbio for healthy ageing with a muscle-mass argument; my reading, a possible "muscle plus gut" co-formulation with CreaWin.
+  summary: Probiotic maker and CDMO pitching SYNBIO for healthy ageing with a muscle-mass argument; lists sport among its ten therapeutic areas; my reading, a possible "muscle plus gut" co-formulation with CreaWin.
   added: '2026-11-20'
 - id: rousselot
   company: Rousselot (Peptan)
@@ -220,4 +221,42 @@ leads:
   - {event: remedy-cdmo-2026, session: aker-biomarine-krill-peakspan}
   - {event: remedy-cdmo-2026, session: panel-evidence-regulation-ai}
   summary: Pitches krill oil for strength in over-65s and muscle kept during weight loss, with a "Strength" muscle-and-mobility concept; warns of a fish oil shortfall from 2027; my reading, a stacking partner for CreaWin or IsoClr Pea.
+  added: '2026-11-23'
+- id: spi-pharma
+  company: SPI Pharma (ABF Ingredients)
+  kinds: [partner]
+  status: heard
+  confidential: false
+  sources:
+  - {event: remedy-cdmo-2026, session: spi-pharma-nordic-biotic}
+  summary: Delivery platforms for chewables, effervescents and fast-melts (Compressol ProTab, Effer-Soda 12, Advantol 300); "looking to expand in the nutra market" with fully formulated delivery systems; my reading, a route to a CreaWin chew or effervescent stick.
+  added: '2026-11-23'
+- id: vivatis-pharma
+  company: Vivatis Pharma
+  kinds: [customer, partner]
+  status: heard
+  confidential: false
+  sources:
+  - {event: remedy-cdmo-2026, session: nuritas-peptistrong}
+  - {event: remedy-cdmo-2026, session: tantus-longevity-concepts}
+  summary: Central and eastern European distributor and formulator for Nuritas; co-developed the PeptiStrong tablet with Tantus; my reading, a CEE route for active-nutrition ingredients.
+  added: '2026-11-23'
+- id: hmt
+  company: HMT, Healthy Marketing Team (branding agency)
+  kinds: [partner]
+  status: heard
+  confidential: false
+  sources:
+  - {event: remedy-cdmo-2026, session: hmt-probiotic-market}
+  summary: Branding agency for food and supplements since 2007; its Suntheanine case shows ingredient branding to consumers; my reading, a possible partner for branding our ingredients.
+  added: '2026-11-23'
+- id: kaneka
+  company: Kaneka (Ubiquinol)
+  kinds: [partner]
+  status: heard
+  confidential: false
+  sources:
+  - {event: remedy-cdmo-2026, session: kaneka-ubiquinol}
+  - {event: remedy-cdmo-2026, session: tantus-longevity-concepts}
+  summary: Pushes ubiquinol into sport and energy (16 studies, a stabilised grade for bars, shots, sticks and gels); already in Tantus's Anti-Age concept; my reading, low priority, an energy combination with CreaWin.
   added: '2026-11-23'
