@@ -1,0 +1,273 @@
+--- page 1 ---
+Is the Juice Worth the
+Squeeze?
+Polyphenols in Active Nutrition
+Mark Evans PhD
+Senior Scientist, Holland & Barrett
+Active Nutrition Summit 2026
+
+--- page 2 ---
+Quick quiz
+Dose and timing for three of the most familiar ingredients in sports nutrition
+Ingredient Dose Timing / duration
+Protein ? ?~0.3 g/kg per meal (20–40 g)
+~1.6 g/kg/day for muscle gain Spread across the day, every 3–4 h
+Creatine ? ?3–5 g/day
+(or load 20 g/day for 5–7 days)
+Daily and ongoing; ~4 weeks to saturate
+muscle without loading
+Caffeine ? ?3–6 mg/kg body mass ~60 min before exercise
+Morton et al. (2018) Br J Sports Med; Jäger et al. (2017) JISSN, protein position stand; Kreider et al. (2017) JISSN, creatin e position stand; Guest et al. (2021) JISSN, caffeine position stand
+
+--- page 3 ---
+Now try polyphenols
+General guidance from fruit-derived polyphenol studies
+Goal Dose Timing / duration
+Performance (acute) ? ?~300 mg polyphenols 1–2 h before exercise
+Performance (chronic) ? ?Similar dose 1–6 weeks; no clear advantage over acute
+Recovery ? ?>1000 mg polyphenols/day At least 3 days before and after hard exercise
+e.g. Montmorency cherry ? ?600 mg, twice daily At least 3 days before and during recovery
+e.g. Pomegranate ? ?~620 mg, twice daily 7 days before and after
+mg of what?
+Bowtell & Kelly (2019) Fruit-derived polyphenol supplementation for athlete recovery and performance. Sports Med 49(Suppl 1):S3 –S23. Supplement sponsored by the Gatorade Sports Science Institute.
+
+--- page 4 ---
+Polyphenols are not one thing
+Several thousand compounds, grouped into four classes by chemical structure
+Flavonoids
+INCLUDES
+Anthocyanins
+Flavan-3-ols
+Flavonols (quercetin)
+Flavanones
+FOUND IN
+Berries, cherries, cocoa, tea,
+apples, citrus
+Best AN evidence
+Phenolic acids
+INCLUDES
+Hydroxycinnamic acids
+Hydroxybenzoic acids
+FOUND IN
+Coffee, cherries,
+pomegranate, berries, whole
+grains
+Stilbenes
+INCLUDES
+Resveratrol
+FOUND IN
+Grapes, red wine, peanuts
+Lignans
+INCLUDES
+Plant lignans, converted by
+gut bacteria
+FOUND IN
+Flaxseed, sesame, whole
+grains
+In the plant they drive growth, colour and UV protection. Curcuminoids (turmeric) don’t sit neatly in any of the four classes.
+Howatson & Clifford (2026) Exp Physiol, doi:10.1113/EP093724; Ciupei et al. (2024)
+
+--- page 5 ---
+In the tub/research: what does 300 mg mean?
+The same number on a label can describe very different doses
+Total polyphenols
+The whole extract, all compounds added together
+A subclass
+e.g. anthocyanins
+A single compound
+e.g. quercetin
+Why the numbers don’t travel
+1 Method
+Quick “total phenolics” tests also react with vitamin C and other
+compounds, so can overstate content
+2 Source and processing
+Variety, harvest and processing change the blend, e.g. cherry
+juice vs powder
+3 Batch to batch
+Content varies between batches, so each batch should be
+tested
+4 Standardisation
+“Standardised to X%” only helps if it says X% of what.
+Three questions for any polyphenol ingredient:  Which compound?  How much?  Measured how?
+Bowtell & Kelly (2019) Sports Med 49(Suppl 1):S3–S23; Howatson & Clifford (2026) Exp Physiol
+
+--- page 6 ---
+How they work: more than antioxidants
+Not just
+antioxidants
+Levels in the blood are far lower
+than the body’s own antioxidants,
+so polyphenols can’t mop up free
+radicals directly.
+Instead, they act as signals that
+switch on the body’s own
+defences.
+Helps with In humans
+1 Switches on the body’s own defences
+Activates Nrf2 to raise antioxidant enzymes
+Recovery Limited
+2 Increases blood flow
+Boosts nitric oxide, widening blood vessels
+Performance Consistent
+3 Builds mitochondria
+Signals the cell to grow more energy factories
+Endurance Mostly animal
+4 Shifts fuel towards fat
+More fat used during longer, steady exercise
+Endurance Inconsistent
+5 Calms inflammation
+Dampens NF-κB, a master switch for inflammation
+Recovery Mostly lab
+Howatson & Clifford (2026) Exp Physiol, doi:10.1113/EP093724; Bowtell & Kelly (2019) Sports Med 49(Suppl 1):S3– S23
+
+--- page 7 ---
+What we know: the big four
+Source Main polyphenols Performance Recovery
+Cherries Anthocyanins  ·  Hydroxycinnamic
+acids  ·  Flavonols + ++
+Blackcurrants Anthocyanins  ·  Hydroxycinnamic
+acids  ·  Flavonols ++ –
+Pomegranate Anthocyanins  ·  Hydroxybenzoic
+acids  ·  Hydroxycinnamic acids + –
+Turmeric Curcuminoids – +
+++ strongest evidence    + equivocal, some evidence of benefit    – inadequate evidence so far
+3 of 4
+share anthocyanins as a main
+polyphenol
+Strongest evidence
+Performance: blackcurrant
+Recovery: cherry
+Adapted from Howatson & Clifford (2026), Figure 2. (Poly)phenols: mechanisms of action and efficacy of contemporary supplements for exercise recovery and performance. Exp Physiol,
+doi:10.1113/EP093724. CC BY licence; redrawn and recoloured.
+
+--- page 8 ---
+Ones to watch
+Cocoa flavanols
+Flavonoids · flavan-3-ols
+WHY IT’S INTERESTING
+Improves blood vessel function (meta-
+analysis, 42 studies)
+One of very few polyphenols with an
+authorised health claim (blood vessel
+elasticity)
+WHAT’S MISSING
+900 mg before a time trial: no gain in
+trained cyclists
+Strong vascular, weak sport
+Blueberry
+Flavonoids · anthocyanins
+WHY IT’S INTERESTING
+Improves blood vessel function within about
+1 hour (0.3–1.9 g polyphenols)
+6 weeks of daily blueberries reduced
+oxidative stress after a 2.5 h run
+WHAT’S MISSING
+Few studies measuring performance or
+recovery directly
+Early: promising signals
+Quercetin
+Flavonoids · flavonol
+WHY IT’S INTERESTING
+A single compound, so the dose is easy to
+define
+Boosted endurance and mitochondria in
+mice
+WHAT’S MISSING
+Human effects small and inconsistent
+Mechanism data mostly from animals
+Early: mostly animal data
+Bowtell & Kelly (2019) Sports Med 49(Suppl 1):S3–S23; Howatson & Clifford (2026) Exp Physiol; EU Register of nutrition and health claims
+
+--- page 9 ---
+An untapped resource …
+Strong signals in several health
+areas, and almost no consumer
+understanding yet.
+The first to explain them well could
+lead well beyond sport.
+Active nutrition
+Performance and recovery
+Heart and circulation
+First-ever flavan-3-ol intake guideline (2022)
+Cocoa flavanol claim
+Brain and healthy ageing
+Wild blueberry improved vascular function
+and cognition in older adults
+Gut health
+Most polyphenols reach the colon and
+interact with gut bacteria
+Crowe-White et al. (2022) Adv Nutr 13(6):2070–83; Wood et al. (2023) Am J Clin Nutr 117(6):1306–19; Bowtell & Kelly (2019)
+
+--- page 10 ---
+What good looks like
+Better evidence, and better ways to get polyphenols where they need to go
+Evidence that moves the field
+✓ Standardised extract: which compound, and how much
+✓ Total polyphenol dose and dose of primary anothocyanins
+✓ Trained athletes and women, not just recreational men
+✓ Blood levels measured alongside outcomes
+✓ Performance and strength recovery, not just biomarkers
+✓ Pre-registered, independent and properly powered
+Howatson & Clifford (2026) Exp Physiol; Bowtell & Kelly (2019) Sports Med 49(Suppl 1):S3–S23
+
+--- page 11 ---
+Lessons from beyond polyphenols
+Two ingredients that built awareness by teaching people how to use them
+Dietary nitrate (beetroot)
+•  University research from around 2009 showed nitrate
+improved endurance efficiency
+•  Products standardised to a nitrate dose in a small shot
+•  The message became a usage rule: one shot, 2–3 hours before
+and/or for 1 week prior to competition.
+Lesson: Make the dose and timing the message
+Nomio (broccoli sprout extract)
+•  Sulforaphane is not a polyphenol, but the same Nrf2 story
+•  Built through endurance athletes and influencers explaining
+how and when to use it
+•  High awareness in its target audience from a smaller evidence
+base
+Lesson: Let credible users do the teaching
+Neither led with mechanism. Both gave people a simple rule and a reason to trust it.
+University of Exeter (e.g. Bailey et al., 2009, J Appl Physiol). Nomio cited as a communication example only.
+
+--- page 12 ---
+Green shoots
+Brands are starting to talk about polyphenols and anthocyanins
+Insert brand example 2
+A layered message?
+FRONT OF PACK  →  awareness
+“Rich in polyphenols”
+BACK OF PACK  →  credibility
+“X mg anthocyanins per serving, standardised and
+batch tested”
+Will consumers learn the word “anthocyanins”?
+Brand examples shown for illustration only; no endorsement implied.
+
+--- page 13 ---
+So, is the juice worth the squeeze?
+For some polyphenols, yes. Now the industry needs to prove it, and explain it.
+Reasonably settled
+•  Cherry for recovery: >1000 mg/day,
+at least 3 days before and after
+•  Blackcurrant for performance: ~300
+mg, 1–2 h before endurance or
+repeated sprints
+Still open
+•  What reaches the blood, and what
+does the work, does it matter?
+•  Optimal dose for each source
+•  Women, older athletes and
+resistance training trials are needed.
+Three asks
+1 Standardise and declare
+Which compound, and how much.
+2 Fund the right trials
+Trained athletes, women, blood levels, real
+outcomes
+3 Communicate dose and timing
+Give people a rule they can follow
+Sources: Bowtell & Kelly (2019) Sports Med 49(Suppl 1):S3–S23; Howatson & Clifford (2026) Exp Physiol
+
+--- page 14 ---
+Thank you
+Questions?
