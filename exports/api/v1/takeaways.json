@@ -1,8 +1,8 @@
 {
  "schema": "confnotes.takeaways/1",
  "built": "2026-11-23",
- "commit": "fb0726d",
- "count": 212,
+ "commit": "eebf58a",
+ "count": 230,
  "items": [
   {
    "id": "nutra-healthspan-summit-2026/euromonitor-who-is-winning-healthspan#1",
@@ -1656,10 +1656,11 @@
    "event": "sans-europe-2026",
    "session": "unfiltered-an-insider-s-view-of",
    "date": "2026-11-09",
-   "text": "The core constraint: cheese production grows about 1.5% a year, while whey protein demand grows over 10%. He called it the most important conclusion of the talk [00:16] (photo 7).",
+   "text": "The core constraint: cheese production grows about 1.5% a year, while whey protein demand grows over 10%. He called it the most important conclusion of the talk [00:16] (photo 7) (slide 5).",
    "cites": [
     "00:16",
-    "photo 7"
+    "photo 7",
+    "slide 5"
    ],
    "themes": [
     "whey-price-squeeze",
@@ -1687,9 +1688,10 @@
    "event": "sans-europe-2026",
    "session": "unfiltered-an-insider-s-view-of",
    "date": "2026-11-09",
-   "text": "Producers chose isolate. Over five years WPI grew 15.0% a year and WPC80 1.5%; clear WPI is now about a quarter of all isolate (photo 9).",
+   "text": "Producers chose isolate. Over five years WPI grew 15.0% a year and WPC80 1.5%; clear WPI is now about a quarter of all isolate (photo 9) (slide 8).",
    "cites": [
-    "photo 9"
+    "photo 9",
+    "slide 8"
    ],
    "themes": [
     "whey-price-squeeze",
@@ -1717,9 +1719,10 @@
    "event": "sans-europe-2026",
    "session": "unfiltered-an-insider-s-view-of",
    "date": "2026-11-09",
-   "text": "Between 25 August and 4 November 2026, WPC80 fell 40.7% to €16.00/kg and WPI 20.3% to €25.50/kg, while MPC85 rose 13.5% to €15.80/kg (photo 18).",
+   "text": "Between 25 August and 4 November 2026, WPC80 fell 40.7% to €16.00/kg and WPI 20.3% to €25.50/kg, while MPC85 rose 13.5% to €15.80/kg (photo 18) (slide 12).",
    "cites": [
-    "photo 18"
+    "photo 18",
+    "slide 12"
    ],
    "themes": [
     "whey-price-squeeze",
@@ -1747,10 +1750,11 @@
    "event": "sans-europe-2026",
    "session": "unfiltered-an-insider-s-view-of",
    "date": "2026-11-09",
-   "text": "New capacity will not close the gap: he forecast WPI at 7 to 11% a year and WPC80 at 4 to 7% to 2030, and both cannot reach the top of their range [00:16] (photo 11).",
+   "text": "New capacity will not close the gap: he forecast WPI at 7 to 11% a year and WPC80 at 4 to 7% to 2030, and both cannot reach the top of their range [00:16] (photo 11) (slide 9).",
    "cites": [
     "00:16",
-    "photo 11"
+    "photo 11",
+    "slide 9"
    ],
    "themes": [
     "whey-price-squeeze",
@@ -1808,9 +1812,10 @@
    "event": "sans-europe-2026",
    "session": "unfiltered-an-insider-s-view-of",
    "date": "2026-11-09",
-   "text": "For buyers: \"Don't try to time the market. Keep inventory steady. Whey will be expensive.\" (photo 20)",
+   "text": "For buyers: \"Don't try to time the market. Keep inventory steady. Whey will be expensive.\" (photo 20) (slide 13)",
    "cites": [
-    "photo 20"
+    "photo 20",
+    "slide 13"
    ],
    "themes": [
     "whey-price-squeeze",
@@ -1980,6 +1985,182 @@
    "status": "summarised"
   },
   {
+   "id": "sans-europe-2026/fuelling-female-performance#1",
+   "event": "sans-europe-2026",
+   "session": "fuelling-female-performance",
+   "date": "2026-11-09",
+   "text": "The evidence gap: of 5,261 publications with 12,511,386 participants, 63% studied males and females, 31% males only and 6% females only (Cowley et al., 2021) (slide 4).",
+   "cites": [
+    "slide 4"
+   ],
+   "themes": [
+    "female-athlete-nutrition",
+    "creatine-beyond-strength",
+    "branded-ingredients-differentiation"
+   ],
+   "ingredients": [
+    "creatine",
+    "protein",
+    "carbohydrate",
+    "collagen (marine collagen, on packs shown)",
+    "myo-inositol",
+    "DIM",
+    "vitex",
+    "ashwagandha",
+    "vitamin D",
+    "calcium"
+   ],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "sans-europe-2026/fuelling-female-performance#2",
+   "event": "sans-europe-2026",
+   "session": "fuelling-female-performance",
+   "date": "2026-11-09",
+   "text": "Even when women are included, 14% of performance supplement studies defined menstrual status and about 0.5% verified it with best-practice methods; female participation rose from about 39% (2011-13) to about 44% (2021-23) (Smith et al., 2022; Ose et al., 2025) (slide 6).",
+   "cites": [
+    "slide 6"
+   ],
+   "themes": [
+    "female-athlete-nutrition",
+    "creatine-beyond-strength",
+    "branded-ingredients-differentiation"
+   ],
+   "ingredients": [
+    "creatine",
+    "protein",
+    "carbohydrate",
+    "collagen (marine collagen, on packs shown)",
+    "myo-inositol",
+    "DIM",
+    "vitex",
+    "ashwagandha",
+    "vitamin D",
+    "calcium"
+   ],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "sans-europe-2026/fuelling-female-performance#3",
+   "event": "sans-europe-2026",
+   "session": "fuelling-female-performance",
+   "date": "2026-11-09",
+   "text": "The cycle and performance: 13 of 16 studies found no effect on anaerobic performance and 14 of 22 none on aerobic performance; no influence of phase on strength or training adaptations, \"BUT motivation could be impactful\" (Carmichael et al., 2021; Colenso-Semple et al., 2023). A review found the evidence does not warrant general guidance on changing exercise across the cycle (McNulty et al., 2020) (slide 15) (slide 16).",
+   "cites": [
+    "slide 15",
+    "slide 16"
+   ],
+   "themes": [
+    "female-athlete-nutrition",
+    "creatine-beyond-strength",
+    "branded-ingredients-differentiation"
+   ],
+   "ingredients": [
+    "creatine",
+    "protein",
+    "carbohydrate",
+    "collagen (marine collagen, on packs shown)",
+    "myo-inositol",
+    "DIM",
+    "vitex",
+    "ashwagandha",
+    "vitamin D",
+    "calcium"
+   ],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "sans-europe-2026/fuelling-female-performance#4",
+   "event": "sans-europe-2026",
+   "session": "fuelling-female-performance",
+   "date": "2026-11-09",
+   "text": "Nutrition: carbohydrate targets are per kg of body mass and apply to both sexes, with no evidence for phase-specific targets; energy intake tends to rise about 170 kcal a day in the luteal phase. The primary focus is adequate energy intake and optimal energy availability (ISSN position stand, Sims et al., 2023) (slide 18) (slide 19).",
+   "cites": [
+    "slide 18",
+    "slide 19"
+   ],
+   "themes": [
+    "female-athlete-nutrition",
+    "creatine-beyond-strength",
+    "branded-ingredients-differentiation"
+   ],
+   "ingredients": [
+    "creatine",
+    "protein",
+    "carbohydrate",
+    "collagen (marine collagen, on packs shown)",
+    "myo-inositol",
+    "DIM",
+    "vitex",
+    "ashwagandha",
+    "vitamin D",
+    "calcium"
+   ],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "sans-europe-2026/fuelling-female-performance#5",
+   "event": "sans-europe-2026",
+   "session": "fuelling-female-performance",
+   "date": "2026-11-09",
+   "text": "Protein: high-quality protein as close to the start and/or end of exercise as possible at 0.3-0.4 g/kg body weight, aiming for the upper end in the luteal phase \"due to the catabolic actions of progesterone\" (Sims et al., 2023) (slide 20).",
+   "cites": [
+    "slide 20"
+   ],
+   "themes": [
+    "female-athlete-nutrition",
+    "creatine-beyond-strength",
+    "branded-ingredients-differentiation"
+   ],
+   "ingredients": [
+    "creatine",
+    "protein",
+    "carbohydrate",
+    "collagen (marine collagen, on packs shown)",
+    "myo-inositol",
+    "DIM",
+    "vitex",
+    "ashwagandha",
+    "vitamin D",
+    "calcium"
+   ],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "sans-europe-2026/fuelling-female-performance#6",
+   "event": "sans-europe-2026",
+   "session": "fuelling-female-performance",
+   "date": "2026-11-09",
+   "text": "Building better products: include only ingredients with evidence for the outcome claimed, \"e.g. creatine 3–5 g/day alongside strength training for midlife muscle and strength\"; use trial doses, list every dose, batch-test for athletes (e.g. Informed Sport); use authorised claims; co-design with women and fund female-specific studies (slide 23).",
+   "cites": [
+    "slide 23"
+   ],
+   "themes": [
+    "female-athlete-nutrition",
+    "creatine-beyond-strength",
+    "branded-ingredients-differentiation"
+   ],
+   "ingredients": [
+    "creatine",
+    "protein",
+    "carbohydrate",
+    "collagen (marine collagen, on packs shown)",
+    "myo-inositol",
+    "DIM",
+    "vitex",
+    "ashwagandha",
+    "vitamin D",
+    "calcium"
+   ],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
    "id": "sans-europe-2026/fuelling-the-female-runner-from-paper#1",
    "event": "sans-europe-2026",
    "session": "fuelling-the-female-runner-from-paper",
@@ -2128,9 +2309,10 @@
    "event": "sans-europe-2026",
    "session": "whey-collagen-the-protein-power-couple",
    "date": "2026-11-09",
-   "text": "Brands have three responses to whey costs: raise the price, shrinkflation, or smarter formulation with protein blends, which she called the most elegant and a way to stand out on shelf [00:10].",
+   "text": "Brands have three responses to whey costs: raise the price, shrinkflation, or smarter formulation with protein blends, which she called the most elegant and a way to stand out on shelf [00:10] (slide 5).",
    "cites": [
-    "00:10"
+    "00:10",
+    "slide 5"
    ],
    "themes": [
     "whey-price-squeeze",
@@ -2145,7 +2327,9 @@
     "hydroxyproline",
     "glycine",
     "proline",
-    "vitamin C"
+    "vitamin C",
+    "whey protein isolate",
+    "Nextida GC"
    ],
    "relevance": "high",
    "status": "summarised"
@@ -2155,9 +2339,10 @@
    "event": "sans-europe-2026",
    "session": "whey-collagen-the-protein-power-couple",
    "date": "2026-11-09",
-   "text": "Launches combining whey and collagen are growing at almost 17.5 percent a year; a 10 g collagen plus 10 g whey product was her example [00:10].",
+   "text": "Launches combining whey and collagen grew at 17.44% a year from 2023 to 2026 to date, led by snacks, cereals and energy bars (39.7%) and nutritional and meal replacement drinks (36.4%); her example, Optimum Nutrition's clear whey isolate with collagen, has 10 g of each [00:10] (slide 6).",
    "cites": [
-    "00:10"
+    "00:10",
+    "slide 6"
    ],
    "themes": [
     "whey-price-squeeze",
@@ -2172,7 +2357,9 @@
     "hydroxyproline",
     "glycine",
     "proline",
-    "vitamin C"
+    "vitamin C",
+    "whey protein isolate",
+    "Nextida GC"
    ],
    "relevance": "high",
    "status": "summarised"
@@ -2199,7 +2386,9 @@
     "hydroxyproline",
     "glycine",
     "proline",
-    "vitamin C"
+    "vitamin C",
+    "whey protein isolate",
+    "Nextida GC"
    ],
    "relevance": "high",
    "status": "summarised"
@@ -2209,9 +2398,10 @@
    "event": "sans-europe-2026",
    "session": "whey-collagen-the-protein-power-couple",
    "date": "2026-11-09",
-   "text": "Whey and collagen are \"no competitors\": whey for muscle, Peptan (rich in hydroxyproline, glycine and proline) for ligaments, tendons, joints and bone [00:10].",
+   "text": "Whey and collagen are \"no competitors\": whey for muscle, Peptan (rich in hydroxyproline, glycine and proline) for ligaments, tendons, joints and bone [00:10] (slide 8).",
    "cites": [
-    "00:10"
+    "00:10",
+    "slide 8"
    ],
    "themes": [
     "whey-price-squeeze",
@@ -2226,7 +2416,9 @@
     "hydroxyproline",
     "glycine",
     "proline",
-    "vitamin C"
+    "vitamin C",
+    "whey protein isolate",
+    "Nextida GC"
    ],
    "relevance": "high",
    "status": "summarised"
@@ -2236,9 +2428,10 @@
    "event": "sans-europe-2026",
    "session": "whey-collagen-the-protein-power-couple",
    "date": "2026-11-09",
-   "text": "In 22 men over three weeks of training, 25 g whey plus 20 g Peptan gave the same recovery and performance as 45 g whey [00:10].",
+   "text": "In 22 men over three weeks of training, 25 g whey plus 20 g Peptan a day gave the same recovery and performance as 45 g whey; the slide says such blends \"may provide broader support across the musculoskeletal system\" [00:10] (slide 9).",
    "cites": [
-    "00:10"
+    "00:10",
+    "slide 9"
    ],
    "themes": [
     "whey-price-squeeze",
@@ -2253,7 +2446,9 @@
     "hydroxyproline",
     "glycine",
     "proline",
-    "vitamin C"
+    "vitamin C",
+    "whey protein isolate",
+    "Nextida GC"
    ],
    "relevance": "high",
    "status": "summarised"
@@ -2263,9 +2458,10 @@
    "event": "sans-europe-2026",
    "session": "whey-collagen-the-protein-power-couple",
    "date": "2026-11-09",
-   "text": "20 g Peptan with vitamin C for seven days gave 28% less muscle soreness and 13% faster muscle recovery than placebo after 150 jumps [00:10].",
+   "text": "2 × 10 g Peptan a day with vitamin C, for a week before 150 drop jumps and two days after, gave 28% less muscle soreness and 13% faster muscle recovery than placebo; the slide marks the soreness result as a likely benefit and the recovery result as significant [00:10] (slide 10).",
    "cites": [
-    "00:10"
+    "00:10",
+    "slide 10"
    ],
    "themes": [
     "whey-price-squeeze",
@@ -2280,7 +2476,9 @@
     "hydroxyproline",
     "glycine",
     "proline",
-    "vitamin C"
+    "vitamin C",
+    "whey protein isolate",
+    "Nextida GC"
    ],
    "relevance": "high",
    "status": "summarised"
@@ -2461,12 +2659,352 @@
    "status": "summarised"
   },
   {
+   "id": "sans-europe-2026/is-the-juice-worth-the-squeeze#1",
+   "event": "sans-europe-2026",
+   "session": "is-the-juice-worth-the-squeeze",
+   "date": "2026-11-09",
+   "text": "The dose problem: guidance from fruit-polyphenol studies is about 300 mg 1 to 2 hours before exercise for performance and over 1,000 mg a day for at least 3 days around hard exercise for recovery, but the slide asks \"mg of what?\" (slide 3). A label figure can mean total polyphenols, a subclass or one compound; his three questions for any ingredient are which compound, how much and measured how (slide 5).",
+   "cites": [
+    "slide 3",
+    "slide 5"
+   ],
+   "themes": [
+    "outcomes-over-mechanisms",
+    "branded-ingredients-differentiation",
+    "marketing-compliance-social"
+   ],
+   "ingredients": [
+    "polyphenols",
+    "anthocyanins",
+    "Montmorency cherry",
+    "New Zealand blackcurrant",
+    "pomegranate",
+    "turmeric (curcuminoids)",
+    "cocoa flavanols",
+    "blueberry",
+    "quercetin",
+    "dietary nitrate (beetroot)",
+    "sulforaphane (Nomio, broccoli sprout extract)",
+    "protein",
+    "creatine",
+    "caffeine"
+   ],
+   "relevance": "medium",
+   "status": "summarised"
+  },
+  {
+   "id": "sans-europe-2026/is-the-juice-worth-the-squeeze#2",
+   "event": "sans-europe-2026",
+   "session": "is-the-juice-worth-the-squeeze",
+   "date": "2026-11-09",
+   "text": "Mechanism: blood levels are too low for polyphenols to act as direct antioxidants; they act as signals. Of five mechanisms, only increased blood flow (nitric oxide) is rated \"consistent\" in humans; the others are rated limited, mostly animal, inconsistent or mostly lab (slide 6).",
+   "cites": [
+    "slide 6"
+   ],
+   "themes": [
+    "outcomes-over-mechanisms",
+    "branded-ingredients-differentiation",
+    "marketing-compliance-social"
+   ],
+   "ingredients": [
+    "polyphenols",
+    "anthocyanins",
+    "Montmorency cherry",
+    "New Zealand blackcurrant",
+    "pomegranate",
+    "turmeric (curcuminoids)",
+    "cocoa flavanols",
+    "blueberry",
+    "quercetin",
+    "dietary nitrate (beetroot)",
+    "sulforaphane (Nomio, broccoli sprout extract)",
+    "protein",
+    "creatine",
+    "caffeine"
+   ],
+   "relevance": "medium",
+   "status": "summarised"
+  },
+  {
+   "id": "sans-europe-2026/is-the-juice-worth-the-squeeze#3",
+   "event": "sans-europe-2026",
+   "session": "is-the-juice-worth-the-squeeze",
+   "date": "2026-11-09",
+   "text": "The big four: blackcurrant has the strongest evidence for performance and cherry for recovery; pomegranate (performance) and turmeric (recovery) are equivocal; 3 of the 4 share anthocyanins as a main polyphenol (slide 7).",
+   "cites": [
+    "slide 7"
+   ],
+   "themes": [
+    "outcomes-over-mechanisms",
+    "branded-ingredients-differentiation",
+    "marketing-compliance-social"
+   ],
+   "ingredients": [
+    "polyphenols",
+    "anthocyanins",
+    "Montmorency cherry",
+    "New Zealand blackcurrant",
+    "pomegranate",
+    "turmeric (curcuminoids)",
+    "cocoa flavanols",
+    "blueberry",
+    "quercetin",
+    "dietary nitrate (beetroot)",
+    "sulforaphane (Nomio, broccoli sprout extract)",
+    "protein",
+    "creatine",
+    "caffeine"
+   ],
+   "relevance": "medium",
+   "status": "summarised"
+  },
+  {
+   "id": "sans-europe-2026/is-the-juice-worth-the-squeeze#4",
+   "event": "sans-europe-2026",
+   "session": "is-the-juice-worth-the-squeeze",
+   "date": "2026-11-09",
+   "text": "The lesson from nitrate and Nomio: make the dose and timing the message, and let credible users do the teaching. Beetroot nitrate became \"one shot, 2–3 hours before and/or for 1 week prior to competition\" (slide 11).",
+   "cites": [
+    "slide 11"
+   ],
+   "themes": [
+    "outcomes-over-mechanisms",
+    "branded-ingredients-differentiation",
+    "marketing-compliance-social"
+   ],
+   "ingredients": [
+    "polyphenols",
+    "anthocyanins",
+    "Montmorency cherry",
+    "New Zealand blackcurrant",
+    "pomegranate",
+    "turmeric (curcuminoids)",
+    "cocoa flavanols",
+    "blueberry",
+    "quercetin",
+    "dietary nitrate (beetroot)",
+    "sulforaphane (Nomio, broccoli sprout extract)",
+    "protein",
+    "creatine",
+    "caffeine"
+   ],
+   "relevance": "medium",
+   "status": "summarised"
+  },
+  {
+   "id": "sans-europe-2026/is-the-juice-worth-the-squeeze#5",
+   "event": "sans-europe-2026",
+   "session": "is-the-juice-worth-the-squeeze",
+   "date": "2026-11-09",
+   "text": "A layered label: \"Rich in polyphenols\" on the front for awareness, \"X mg anthocyanins per serving, standardised and batch tested\" on the back for credibility (slide 12).",
+   "cites": [
+    "slide 12"
+   ],
+   "themes": [
+    "outcomes-over-mechanisms",
+    "branded-ingredients-differentiation",
+    "marketing-compliance-social"
+   ],
+   "ingredients": [
+    "polyphenols",
+    "anthocyanins",
+    "Montmorency cherry",
+    "New Zealand blackcurrant",
+    "pomegranate",
+    "turmeric (curcuminoids)",
+    "cocoa flavanols",
+    "blueberry",
+    "quercetin",
+    "dietary nitrate (beetroot)",
+    "sulforaphane (Nomio, broccoli sprout extract)",
+    "protein",
+    "creatine",
+    "caffeine"
+   ],
+   "relevance": "medium",
+   "status": "summarised"
+  },
+  {
+   "id": "sans-europe-2026/is-the-juice-worth-the-squeeze#6",
+   "event": "sans-europe-2026",
+   "session": "is-the-juice-worth-the-squeeze",
+   "date": "2026-11-09",
+   "text": "His three asks of the industry: standardise and declare, fund the right trials (trained athletes, women, blood levels, real outcomes) and communicate dose and timing (slide 13).",
+   "cites": [
+    "slide 13"
+   ],
+   "themes": [
+    "outcomes-over-mechanisms",
+    "branded-ingredients-differentiation",
+    "marketing-compliance-social"
+   ],
+   "ingredients": [
+    "polyphenols",
+    "anthocyanins",
+    "Montmorency cherry",
+    "New Zealand blackcurrant",
+    "pomegranate",
+    "turmeric (curcuminoids)",
+    "cocoa flavanols",
+    "blueberry",
+    "quercetin",
+    "dietary nitrate (beetroot)",
+    "sulforaphane (Nomio, broccoli sprout extract)",
+    "protein",
+    "creatine",
+    "caffeine"
+   ],
+   "relevance": "medium",
+   "status": "summarised"
+  },
+  {
+   "id": "sans-europe-2026/fuel-the-frame-carbohydrate-recovery-and#1",
+   "event": "sans-europe-2026",
+   "session": "fuel-the-frame-carbohydrate-recovery-and",
+   "date": "2026-11-09",
+   "text": "Carbohydrate is \"a Signal, Not Just a Substrate\": its availability is \"an electrical green light\" telling the body it is metabolically safe to invest in bone remodelling, iron handling and endocrine function (slide 3) (slide 4).",
+   "cites": [
+    "slide 3",
+    "slide 4"
+   ],
+   "themes": [
+    "carbohydrate-fuelling",
+    "female-athlete-nutrition"
+   ],
+   "ingredients": [
+    "carbohydrate",
+    "glucose",
+    "fructose",
+    "protein",
+    "iron"
+   ],
+   "relevance": "medium",
+   "status": "summarised"
+  },
+  {
+   "id": "sans-europe-2026/fuel-the-frame-carbohydrate-recovery-and#2",
+   "event": "sans-europe-2026",
+   "session": "fuel-the-frame-carbohydrate-recovery-and",
+   "date": "2026-11-09",
+   "text": "Quick against quiet costs: a glycogen deficit shows as a flat session and heavy legs, usually fixed within a day of good fuelling; bone, iron and hormones give no immediate signal, and by the time a bone stress injury, low ferritin or menstrual dysfunction appears the debt has been building for weeks (slide 5).",
+   "cites": [
+    "slide 5"
+   ],
+   "themes": [
+    "carbohydrate-fuelling",
+    "female-athlete-nutrition"
+   ],
+   "ingredients": [
+    "carbohydrate",
+    "glucose",
+    "fructose",
+    "protein",
+    "iron"
+   ],
+   "relevance": "medium",
+   "status": "summarised"
+  },
+  {
+   "id": "sans-europe-2026/fuel-the-frame-carbohydrate-recovery-and#3",
+   "event": "sans-europe-2026",
+   "session": "fuel-the-frame-carbohydrate-recovery-and",
+   "date": "2026-11-09",
+   "text": "Bone markers: carbohydrate during running significantly reduces the acute rise in the resorption marker CTX, and carbohydrate with protein after exercise alters bone turnover markers favourably; about 3.5 weeks of a ketogenic diet in race walkers raised resorption and suppressed formation, with incomplete recovery once carbohydrate was restored. The slide notes these are acute responses over hours, mostly in men (Sale et al., 2015) (slide 8).",
+   "cites": [
+    "slide 8"
+   ],
+   "themes": [
+    "carbohydrate-fuelling",
+    "female-athlete-nutrition"
+   ],
+   "ingredients": [
+    "carbohydrate",
+    "glucose",
+    "fructose",
+    "protein",
+    "iron"
+   ],
+   "relevance": "medium",
+   "status": "summarised"
+  },
+  {
+   "id": "sans-europe-2026/fuel-the-frame-carbohydrate-recovery-and#4",
+   "event": "sans-europe-2026",
+   "session": "fuel-the-frame-carbohydrate-recovery-and",
+   "date": "2026-11-09",
+   "text": "The hidden risk zone: short-term carbohydrate restriction suppresses bone formation more than low energy availability does, so energy intake alone will not flag bone risk and practitioners must screen for carbohydrate availability (Heikura et al., 2020; Fensham et al., 2022) (slide 10).",
+   "cites": [
+    "slide 10"
+   ],
+   "themes": [
+    "carbohydrate-fuelling",
+    "female-athlete-nutrition"
+   ],
+   "ingredients": [
+    "carbohydrate",
+    "glucose",
+    "fructose",
+    "protein",
+    "iron"
+   ],
+   "relevance": "medium",
+   "status": "summarised"
+  },
+  {
+   "id": "sans-europe-2026/fuel-the-frame-carbohydrate-recovery-and#5",
+   "event": "sans-europe-2026",
+   "session": "fuel-the-frame-carbohydrate-recovery-and",
+   "date": "2026-11-09",
+   "text": "Timing: even with an identical daily total, within-day energy deficiency is linked to unfavourable hormonal profiles in female and male athletes (Fahrenholtz et al., 2018); \"Daily totals cannot save a back-loaded schedule\" (slide 12) (slide 20).",
+   "cites": [
+    "slide 12",
+    "slide 20"
+   ],
+   "themes": [
+    "carbohydrate-fuelling",
+    "female-athlete-nutrition"
+   ],
+   "ingredients": [
+    "carbohydrate",
+    "glucose",
+    "fructose",
+    "protein",
+    "iron"
+   ],
+   "relevance": "medium",
+   "status": "summarised"
+  },
+  {
+   "id": "sans-europe-2026/fuel-the-frame-carbohydrate-recovery-and#6",
+   "event": "sans-europe-2026",
+   "session": "fuel-the-frame-carbohydrate-recovery-and",
+   "date": "2026-11-09",
+   "text": "Iron: a hard endurance session triggers an IL-6 spike and hepcidin rises over 3-6 hours; low carbohydrate availability amplifies this, \"functionally blocking iron absorption\", so iron-rich meals and supplements should be timed around carbohydrate-restored windows (slide 13).",
+   "cites": [
+    "slide 13"
+   ],
+   "themes": [
+    "carbohydrate-fuelling",
+    "female-athlete-nutrition"
+   ],
+   "ingredients": [
+    "carbohydrate",
+    "glucose",
+    "fructose",
+    "protein",
+    "iron"
+   ],
+   "relevance": "medium",
+   "status": "summarised"
+  },
+  {
    "id": "sans-europe-2026/glp-won-market-opportunities-for-the#1",
    "event": "sans-europe-2026",
    "session": "glp-won-market-opportunities-for-the",
    "date": "2026-11-09",
-   "text": "In the UK, 6.1% currently take GLP-1s, 5.7% have taken them and 15.1% are considering them: together about 18.4 million people [00:08].",
+   "text": "In the UK, 6.1% currently use GLP-1s, 5.7% have used them and 15.1% are considering them: almost 27% of the population, c.18.4 million people (slide 8) [00:08].",
    "cites": [
+    "slide 8",
     "00:08"
    ],
    "themes": [
@@ -2476,7 +3014,16 @@
    "ingredients": [
     "protein",
     "creatine",
-    "CreaWin"
+    "CreaWin",
+    "vitamin D",
+    "multivitamins",
+    "fibre",
+    "probiotics",
+    "omega-3",
+    "prebiotics",
+    "HMB",
+    "postbiotics",
+    "berberine"
    ],
    "relevance": "high",
    "status": "summarised"
@@ -2486,9 +3033,10 @@
    "event": "sans-europe-2026",
    "session": "glp-won-market-opportunities-for-the",
    "date": "2026-11-09",
-   "text": "Current users are not the obesity population the drugs were designed for: 56% female, 63% Gen X or Millennial, 63% ABC1, and 74% happy to pay more for quality [00:08].",
+   "text": "Current UK users are not the obesity population the drugs were designed for: 56% female, 63% Gen X or Millennial, 63% ABC1 (slide 10), and 74% happy to pay more for quality against a 70% average (slide 11).",
    "cites": [
-    "00:08"
+    "slide 10",
+    "slide 11"
    ],
    "themes": [
     "glp-1-nutrition",
@@ -2497,7 +3045,16 @@
    "ingredients": [
     "protein",
     "creatine",
-    "CreaWin"
+    "CreaWin",
+    "vitamin D",
+    "multivitamins",
+    "fibre",
+    "probiotics",
+    "omega-3",
+    "prebiotics",
+    "HMB",
+    "postbiotics",
+    "berberine"
    ],
    "relevance": "high",
    "status": "summarised"
@@ -2507,8 +3064,9 @@
    "event": "sans-europe-2026",
    "session": "glp-won-market-opportunities-for-the",
    "date": "2026-11-09",
-   "text": "Two thirds expect to spend the same or more on food and drink, and near 60% are likely to increase their supplement use; creatine was \"maybe slightly higher\" than expected [00:08].",
+   "text": "Among European current users (n=352), 57% increased their supplement use, 88% including no change. Proteins lead at 51%; creatine is at 27%, above HMB at 15% (slide 13). He had said \"near 60%\" and \"near 90%\", and creatine was \"maybe slightly higher\" than expected [00:08].",
    "cites": [
+    "slide 13",
     "00:08"
    ],
    "themes": [
@@ -2518,7 +3076,16 @@
    "ingredients": [
     "protein",
     "creatine",
-    "CreaWin"
+    "CreaWin",
+    "vitamin D",
+    "multivitamins",
+    "fibre",
+    "probiotics",
+    "omega-3",
+    "prebiotics",
+    "HMB",
+    "postbiotics",
+    "berberine"
    ],
    "relevance": "high",
    "status": "summarised"
@@ -2528,9 +3095,9 @@
    "event": "sans-europe-2026",
    "session": "glp-won-market-opportunities-for-the",
    "date": "2026-11-09",
-   "text": "The openings are side effects, nutrition gaps (muscle loss, difficulty eating enough protein and nutrients) and lapsed users, with a malnutrition risk for people who eat less without care [00:08].",
+   "text": "The most common challenges on the drugs: fear of weight regain 30%, side effects 29%, cost 29%, reduced food enjoyment 27%, maintaining nutrition 22%, muscle loss concerns 22% and difficulty consuming enough protein 19% (slide 14).",
    "cites": [
-    "00:08"
+    "slide 14"
    ],
    "themes": [
     "glp-1-nutrition",
@@ -2539,7 +3106,16 @@
    "ingredients": [
     "protein",
     "creatine",
-    "CreaWin"
+    "CreaWin",
+    "vitamin D",
+    "multivitamins",
+    "fibre",
+    "probiotics",
+    "omega-3",
+    "prebiotics",
+    "HMB",
+    "postbiotics",
+    "berberine"
    ],
    "relevance": "high",
    "status": "summarised"
@@ -2549,10 +3125,8 @@
    "event": "sans-europe-2026",
    "session": "glp-won-market-opportunities-for-the",
    "date": "2026-11-09",
-   "text": "He cited a British Medical Association study: people are four times more likely to regain weight lost with GLP-1 than weight lost by traditional methods [00:08].",
-   "cites": [
-    "00:08"
-   ],
+   "text": "78% of users are confident of keeping the weight off (94% including neutral), yet the BMJ study on his slide found regain almost four times faster after stopping the drugs than after diet and physical activity changes (slide 15, read from the slide image).",
+   "cites": [],
    "themes": [
     "glp-1-nutrition",
     "sports-nutrition-mainstream"
@@ -2560,7 +3134,16 @@
    "ingredients": [
     "protein",
     "creatine",
-    "CreaWin"
+    "CreaWin",
+    "vitamin D",
+    "multivitamins",
+    "fibre",
+    "probiotics",
+    "omega-3",
+    "prebiotics",
+    "HMB",
+    "postbiotics",
+    "berberine"
    ],
    "relevance": "high",
    "status": "summarised"
@@ -2570,9 +3153,10 @@
    "event": "sans-europe-2026",
    "session": "glp-won-market-opportunities-for-the",
    "date": "2026-11-09",
-   "text": "Putting GLP-1 on pack is \"a kind of a health claim\", so retailer support such as Boots' GLP-1 bays matters [00:08].",
+   "text": "Putting GLP-1 on pack is \"a kind of a health claim\", so retailer support such as Boots' GLP-1 bays matters [00:08] (slide 17).",
    "cites": [
-    "00:08"
+    "00:08",
+    "slide 17"
    ],
    "themes": [
     "glp-1-nutrition",
@@ -2581,7 +3165,16 @@
    "ingredients": [
     "protein",
     "creatine",
-    "CreaWin"
+    "CreaWin",
+    "vitamin D",
+    "multivitamins",
+    "fibre",
+    "probiotics",
+    "omega-3",
+    "prebiotics",
+    "HMB",
+    "postbiotics",
+    "berberine"
    ],
    "relevance": "high",
    "status": "summarised"
@@ -2591,9 +3184,10 @@
    "event": "sans-europe-2026",
    "session": "from-hype-to-proof-the-science",
    "date": "2026-11-09",
-   "text": "GLP-1 drugs give weight loss of \"between five to 15%\", but users lose body weight rather than only body fat, and muscle loss \"can lead to sarcopenia\" [00:15].",
+   "text": "GLP-1 drugs give weight loss of \"between five to 15%\" [00:15]; his table gives 3.6% for liraglutide, 11.4% for semaglutide and 15.0% for tirzepatide (slide 17).",
    "cites": [
-    "00:15"
+    "00:15",
+    "slide 17"
    ],
    "themes": [
     "glp-1-nutrition",
@@ -2605,11 +3199,12 @@
     "whey protein isolate",
     "potato protein",
     "rice protein",
-    "OEA",
+    "OEA (TRPTI)",
     "berberine",
     "cinnamon",
     "bitter compounds",
-    "Redicools (standardised mulberry extract; Otter's spelling)",
+    "quercetin",
+    "Reducose (mulberry leaf extract, Phynova)",
     "curcumin",
     "fibre",
     "probiotics",
@@ -2623,8 +3218,9 @@
    "event": "sans-europe-2026",
    "session": "from-hype-to-proof-the-science",
    "date": "2026-11-09",
-   "text": "The GLP-1 supplement boom brought \"some high-profile lawsuits\", regulatory clampdowns and lower consumer confidence [00:15].",
+   "text": "Up to 50% of users have GI symptoms and about 40% of the weight reduction comes from lean body mass (slide 20). He said muscle loss \"can lead to sarcopenia\" [00:15]; his slide lists sarcopenia with \"insufficient evidence\" (slide 20, read from the slide image).",
    "cites": [
+    "slide 20",
     "00:15"
    ],
    "themes": [
@@ -2637,11 +3233,12 @@
     "whey protein isolate",
     "potato protein",
     "rice protein",
-    "OEA",
+    "OEA (TRPTI)",
     "berberine",
     "cinnamon",
     "bitter compounds",
-    "Redicools (standardised mulberry extract; Otter's spelling)",
+    "quercetin",
+    "Reducose (mulberry leaf extract, Phynova)",
     "curcumin",
     "fibre",
     "probiotics",
@@ -2655,9 +3252,10 @@
    "event": "sans-europe-2026",
    "session": "from-hype-to-proof-the-science",
    "date": "2026-11-09",
-   "text": "Proteins have an \"undisputed effect\" on GLP-1 secretion, depending on quality and amino acid profile [00:15].",
+   "text": "Proteins have an \"undisputed effect\" on GLP-1 secretion; high-protein meals trigger GLP-1 and PYY, and the effect depends on the amino acid profile, such as leucine [00:15] (slide 23).",
    "cites": [
-    "00:15"
+    "00:15",
+    "slide 23"
    ],
    "themes": [
     "glp-1-nutrition",
@@ -2669,11 +3267,12 @@
     "whey protein isolate",
     "potato protein",
     "rice protein",
-    "OEA",
+    "OEA (TRPTI)",
     "berberine",
     "cinnamon",
     "bitter compounds",
-    "Redicools (standardised mulberry extract; Otter's spelling)",
+    "quercetin",
+    "Reducose (mulberry leaf extract, Phynova)",
     "curcumin",
     "fibre",
     "probiotics",
@@ -2687,9 +3286,11 @@
    "event": "sans-europe-2026",
    "session": "from-hype-to-proof-the-science",
    "date": "2026-11-09",
-   "text": "Berberine, cinnamon and bitter compounds have mechanisms but \"mild to modest\" effects and few human studies [00:15].",
+   "text": "Berberine, cinnamon and bitter compounds have mechanisms but \"mild to modest\" effects and few human studies; berberine \"does not directly bind to or activate GLP-1 receptors\" [00:15] (slide 25) (slide 26).",
    "cites": [
-    "00:15"
+    "00:15",
+    "slide 25",
+    "slide 26"
    ],
    "themes": [
     "glp-1-nutrition",
@@ -2701,11 +3302,12 @@
     "whey protein isolate",
     "potato protein",
     "rice protein",
-    "OEA",
+    "OEA (TRPTI)",
     "berberine",
     "cinnamon",
     "bitter compounds",
-    "Redicools (standardised mulberry extract; Otter's spelling)",
+    "quercetin",
+    "Reducose (mulberry leaf extract, Phynova)",
     "curcumin",
     "fibre",
     "probiotics",
@@ -2719,9 +3321,10 @@
    "event": "sans-europe-2026",
    "session": "from-hype-to-proof-the-science",
    "date": "2026-11-09",
-   "text": "In his centre's appetite trial, potato protein and whey protein isolate raised GLP-1 significantly and equally [00:15].",
+   "text": "In his centre's APPETITE trial (12 participants; porridge alone, with potato protein or with whey protein), both proteins gave a comparable, significant increase in GLP-1 secretion (slide 28) (slide 30).",
    "cites": [
-    "00:15"
+    "slide 28",
+    "slide 30"
    ],
    "themes": [
     "glp-1-nutrition",
@@ -2733,11 +3336,12 @@
     "whey protein isolate",
     "potato protein",
     "rice protein",
-    "OEA",
+    "OEA (TRPTI)",
     "berberine",
     "cinnamon",
     "bitter compounds",
-    "Redicools (standardised mulberry extract; Otter's spelling)",
+    "quercetin",
+    "Reducose (mulberry leaf extract, Phynova)",
     "curcumin",
     "fibre",
     "probiotics",
@@ -2751,9 +3355,10 @@
    "event": "sans-europe-2026",
    "session": "from-hype-to-proof-the-science",
    "date": "2026-11-09",
-   "text": "A mulberry extract significantly raised GLP-1 at 180 minutes and significantly reduced appetite and food noise; the paper is due to be submitted next week [00:15].",
+   "text": "In the SATISPHY trial of Reducose (40 participants), post-meal GLP-1 rose 140% and appetite fell 23% against placebo, with \"a marked reduction in appetite as well as food noise\"; both trials are unpublished, manuscripts in progress (slide 31) (slide 33).",
    "cites": [
-    "00:15"
+    "slide 31",
+    "slide 33"
    ],
    "themes": [
     "glp-1-nutrition",
@@ -2765,11 +3370,12 @@
     "whey protein isolate",
     "potato protein",
     "rice protein",
-    "OEA",
+    "OEA (TRPTI)",
     "berberine",
     "cinnamon",
     "bitter compounds",
-    "Redicools (standardised mulberry extract; Otter's spelling)",
+    "quercetin",
+    "Reducose (mulberry leaf extract, Phynova)",
     "curcumin",
     "fibre",
     "probiotics",

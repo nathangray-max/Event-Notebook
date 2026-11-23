@@ -1,8 +1,8 @@
 {
  "schema": "confnotes.sessions/1",
  "built": "2026-11-23",
- "commit": "fb0726d",
- "count": 48,
+ "commit": "eebf58a",
+ "count": 49,
  "items": [
   {
    "id": "the-challenge-and-opportunity-of-our",
@@ -3160,7 +3160,7 @@
    "relevance": "high",
    "status": "summarised",
    "summary_by": "Claude",
-   "summary_date": "2026-11-09",
+   "summary_date": "2026-11-23",
    "reviewed_by": "",
    "reviewed_date": "",
    "attended_by": [
@@ -3169,7 +3169,7 @@
    "links": {
     "otter": "https://otter.ai/u/3wuSdbgu4ue-m20dOaERZG2gsKY"
    },
-   "to_check": "His first employer, which Otter heard as \"Sarawak International\"; the price source behind the euro per kilogram figures; the chair (Speaker 1) is unnamed by Otter.",
+   "to_check": "His first employer, which Otter heard as \"Sarawak International\"; the chair (Speaker 1) is unnamed by Otter.",
    "added": "2026-11-09",
    "added_by": "Claude (from the event app's programme, screenshots from Nathan at 11:39-11:40 on 9 Nov 2026)",
    "has_transcript": true,
@@ -3178,39 +3178,43 @@
    "has_summary": true,
    "summary": {
     "Summary": "Alan Johnstone, who has spent most of the last decades selling whey protein, most recently at Arla Foods Ingredients, and now runs Nutrilution, explained why whey prices hit records this year and what buyers should do about it.\n\nHis answer starts with milk. Whey protein comes from cheese, and cheese production grows only about one and a half percent a year, while demand for whey protein grows by 10% or more: sports nutrition, GLP-1 users, protein in everyday food, and clear whey. Filtration plants are expensive and take years to build, and producers have put the whey they have into isolate, so concentrate was short when brands had just switched to it.\n\nPrices then swing further than supply and demand alone would explain, because buyers stock up when prices rise and wait when they fall. That is happening now: concentrate is falling fast, isolate is correcting, and the proteins brands moved into are rising.\n\nHis advice was plain. Do not try to time the bottom. Keep buying steadily if today's price lets you make money. And accept that whey will stay expensive, because the supply limit is structural.",
-    "Key takeaways": "- The core constraint: cheese production grows about 1.5% a year, while whey protein demand grows over 10%. He called it the most important conclusion of the talk [00:16] (photo 7).\n- Producers chose isolate. Over five years WPI grew 15.0% a year and WPC80 1.5%; clear WPI is now about a quarter of all isolate (photo 9).\n- Between 25 August and 4 November 2026, WPC80 fell 40.7% to €16.00/kg and WPI 20.3% to €25.50/kg, while MPC85 rose 13.5% to €15.80/kg (photo 18).\n- New capacity will not close the gap: he forecast WPI at 7 to 11% a year and WPC80 at 4 to 7% to 2030, and both cannot reach the top of their range [00:16] (photo 11).\n- Mainstream buyers choose on taste and texture, not protein source, and whey is the easiest protein to make taste good [00:16].\n- For buyers: \"Don't try to time the market. Keep inventory steady. Whey will be expensive.\" (photo 20)",
+    "Key takeaways": "- The core constraint: cheese production grows about 1.5% a year, while whey protein demand grows over 10%. He called it the most important conclusion of the talk [00:16] (photo 7) (slide 5).\n- Producers chose isolate. Over five years WPI grew 15.0% a year and WPC80 1.5%; clear WPI is now about a quarter of all isolate (photo 9) (slide 8).\n- Between 25 August and 4 November 2026, WPC80 fell 40.7% to €16.00/kg and WPI 20.3% to €25.50/kg, while MPC85 rose 13.5% to €15.80/kg (photo 18) (slide 12).\n- New capacity will not close the gap: he forecast WPI at 7 to 11% a year and WPC80 at 4 to 7% to 2030, and both cannot reach the top of their range [00:16] (photo 11) (slide 9).\n- Mainstream buyers choose on taste and texture, not protein source, and whey is the easiest protein to make taste good [00:16].\n- For buyers: \"Don't try to time the market. Keep inventory steady. Whey will be expensive.\" (photo 20) (slide 13)",
     "For Vita Actives": "- The structural case for non-dairy protein comes from a whey insider: supply is capped by cheese and he expects whey to stay expensive [00:16]. My reading: this is the opening for IsoClr: Pea.\n- He also set the bar. Mainstream consumers care about taste and texture, not source [00:16]. My reading: a clear pea isolate has to win on taste and clarity before it wins on supply.\n- Clear whey is almost all WPI, where supply is tightest (photo 9). My reading: a clear pea isolate is positioned exactly there.\n- Brands have just reformulated and are reviewing protein blends while WPC80 falls (photo 18). My reading: now is the time to be in front of formulators, before WPC80 settles.",
     "Quotes": "- \"...certainly the more mainstream you get with protein products, the less people care about the protein source. I think what people always care about is taste and texture. And whey protein is delicious.\" Speaker 2 (Alan Johnstone) [00:16]\n- \"...if WPI is growing 11% a year, then WPC 80 has to be more like four because there's not enough whey.\" Speaker 2 (Alan Johnstone) [00:16]\n- \"So over the last few weeks, WPC80 has been falling pretty hard. WPI still expensive, but definitely correcting.\" Speaker 2 (Alan Johnstone) [00:16]\n- \"...whey protein will be expensive. It should be expensive. It's the best protein source for so many uses. It's got a structural supply restriction, and the amount of protein is not really going away.\" Speaker 2 (Alan Johnstone) [00:16]",
-    "Follow-ups": "- Talk to Alan Johnstone (Nutrilution) about his price series and the capacity lists; he invited conversations on sourcing strategy [00:16].\n- His price series is Vesper's; check whether we have access, or want it (photo 2).\n- Check the Euromonitor figure he cited for sports nutrition growth, 10% a year; his slide says 8 to 10% [00:16] (photo 3).",
+    "Follow-ups": "- Talk to Alan Johnstone (Nutrilution) about his price series and the capacity lists; he invited conversations on sourcing strategy [00:16] (slide 14).\n- His price series is Vesper's; check whether we have access, or want it (slide 2).\n- Check the Euromonitor figure he cited for sports nutrition growth, 10% a year; his slide says 8 to 10% and names its source only as the global sports nutrition market, 2024 [00:16] (slide 3).",
     "Key slides": "- (photo 7) Supply bottlenecks: cheese production +1.5% a year against whey protein demand of 10%+.\n- (photo 9) Five years of supply growth: WPI the growth engine, clear WPI a quarter of all isolate.\n- (photo 18) The last ten weeks: WPC80 and WPI falling while MPC85 rises to meet WPC80.\n- (photo 20) Where prices go from here, with his three takeaways for buyers.",
-    "Detail": "- Prices this year: WPI went from around €7/kg in 2023 to over €30/kg; WPC80 held around €12/kg, then rose to €28/kg in about six weeks. WPC80 was the bigger risk for brands because they had already moved their sourcing into it [00:16].\n- The price chart (Vesper, EU monthly, December 2019 to October 2026): WPC80 about €5/kg in 2020 and 2023, peaking about €12 in 2022 and about €26 to 27 in mid 2026; WPI about €8 in 2020, €18 in 2022, €7 in 2023 and about €31 in mid 2026. The slide headline: \"Record highs this summer (WPC80 up roughly 6x since 2020, WPI near €32/kg), now correcting\" (photo 2).\n- Demand drivers: traditional sports nutrition at 10% a year on Euromonitor, which he thinks underestimates it; GLP-1 users as new demand; protein going mainstream (Starbucks, Papa John's, Dunkin'); and clear whey, which barely existed five years ago and is almost all whey [00:16].\n- The demand slide: the 2024 global sports nutrition market splits 48% protein powders, 26% protein bars, 17% non-protein and 9% protein RTD, growing 8 to 10% a year; clear whey SKUs are up 35% a year; 12% of US adults take a GLP-1 medication, with protein spend up 20% (KFF 2025, BCG 2026) (photo 3).\n- Milk by weight: water 87.3%, lactose 4.7%, fat 3.9%, casein 2.8%, minerals 0.7%, whey protein 0.6% [00:16] (photo 4).\n- The route from milk: cheese keeps the casein and fat; liquid whey goes through ultrafiltration and drying to WPC (35 to 80% protein), microfiltration or ion exchange to WPI (90% or more), then acidification or hydrolysis to clear or hydrolysed WPI. Sweet whey powder (about 12% protein), permeate, lactose, demineralised whey (D70, D90 for infant nutrition) and whey cream are the other outlets for the same whey [00:16] (photo 4).\n- Three bottlenecks: factories (\"CAPEX intensive, less flexible than people expect, takes years to start commercial production\"), liquid whey, and by-products, \"a major influencer of producer value\"; WPI makers must also sell a fatty protein stream [00:16] (photo 6) (photo 7).\n- Global production: WPC80 334,000 t in 2020 and 360,000 t in 2025; WPI 80,494 t and 161,800 t; total 414,494 t and 521,800 t, up 26% (4.7% a year). Clear WPI was 40,450 t in 2025, which he said is the top of the estimate range; standard WPI grew 8.6% a year, below the category [00:16] (photo 8) (photo 9).\n- Announced US capacity (McCully Consulting, approximate): 24,400 t of WPC80 and 7,500 t of WPI in 2026, 41,600 t and 20,300 t in 2027, 45,900 t and 22,900 t in 2028. UK, EU and Oceania: FrieslandCampina (WPI), Fonterra (speciality) and Polmlek (WPC, WPI) in 2026; Tirlán (WPC, WPI, clear) and Liprovit (WPI) in 2027; Arla's mozzarella plant in 2028. He said the European list is incomplete [00:16] (photo 11).\n- The buying cycle, using COVID as the example: longer lead times, more stock, rising demand, buyers competing, rising prices and an incentive to buy early; then the reverse, with the 2022 peak as logistics freed up and buyers destocked, and the 2023 trough as buyers waited with stocks too low [00:16] (photo 13) (photo 14) (photo 15).\n- Now: new US plants planned three or four years ago are commissioning; isolate, WPC35 and sweet whey powder are better uses of whey, so WPC80 output should fall; substitutes (MPC85, MPI, caseins, plant proteins) are rising, and WPC80 and milk protein \"should never meet\" [00:16].\n- Weekly Vesper prices, 25 August to 4 November 2026: WPC80 €27.00 to €16.00; WPI €32.00 to €25.50; MPC85 €13.92 to €15.80 (photo 16) (photo 18).\n- Forces for the next move. WPC80, up: strong other derivatives, rising alternatives, long-term protein demand; down: high inventories, powerful momentum, demand destruction. WPI, up: smaller share of brand costs, healthy inventories on both sides, harder to replace; down: demand destruction, production increases due (photo 16).\n- Where prices go: \"structurally rising but volatile\"; the correction \"may overshoot below trend\" before demand pulls prices back up. The slide says the trend and forward path are \"directional, not a forecast\" (photo 19).\n- He quoted Keynes, that markets can stay irrational longer than you can stay solvent, so WPC80 and MPC85 touching does not mean they part at once, \"but it can't go on forever\" [00:16].\n- Nutrilution sells niche, higher-value ingredients and advises buyers on whey and dairy protein sourcing, including cross-continental supply chains [00:16].",
+    "Detail": "- His full deck arrived after the talk (files/alan-johnstone-whey-market-deck.pdf, 14 pages). Slide numbers here are the file's pages; the slides print their own numbers, which run behind from page 6 because some slides have a page per build. The deck confirms every labelled figure read from the photos; only the chart readings below moved.\n- Prices this year, as he said them: WPI went from around €7/kg in 2023 to over €30/kg; WPC80 held around €12/kg, then rose to €28/kg in about six weeks. WPC80 was the bigger risk for brands because they had already moved their sourcing into it [00:16].\n- His monthly chart differs from the spoken WPC80 figures. It peaks at about €27.4/kg in June and July 2026, not €28, and the rise from about €12.5 in November 2025 takes about seven months, steepest from about €17.7 in March to €25.4 in May; all read from the chart (slide 2). The WPI figures agree: a low of about €7.4 in June 2023 and a peak of about €31.8 in August 2026, read from the chart (slide 2).\n- The monthly chart (Vesper VPI, EU monthly prices in €/kg, December 2019 to October 2026), read from the chart: WPC80 between €4.5 and €5.6 through 2020, a peak of about €12.2 in April 2022, a low of about €4.7 in May 2023, about €12 through 2025, the 2026 peak of about €27.4, and about €18.9 in October 2026; WPI about €8 in early 2020, a peak of about €18.0 in spring 2022, the 2023 low of about €7.4, about €22 in March 2025, the 2026 peak of about €31.8, and about €28.1 in October 2026 (slide 2). The photo reading had put the 2026 peaks at about €26 to 27 (WPC80) and €31 (WPI), and the October points at about €18 and €27 (photo 2). The slide headline: \"Record highs this summer (WPC80 up roughly 6x since 2020, WPI near €32/kg), now correcting\" (photo 2) (slide 2).\n- Another speaker's view of the same price: Tess Plaquet (Rousselot, whey-collagen-the-protein-power-couple) showed WPC80 at US$5.7k a tonne in June 2023 and US$31.7k in June 2026 (US$5.70 and US$31.70 a kilogram), with Mintel and Vesper as her slide's sources. His series is Vesper's EU price in euros a kilogram: about €5.2 in June 2023 and €27.4 in June 2026, read from the chart (slide 2), and €27.00 in the week of 25 August 2026 (slide 12). The two differ in currency and unit; both show close to a sixfold rise.\n- Demand drivers: traditional sports nutrition at 10% a year on Euromonitor, which he thinks underestimates it; GLP-1 users as new demand; protein going mainstream (Starbucks, Papa John's, Dunkin'); and clear whey, which barely existed five years ago and is almost all whey [00:16].\n- The demand slide: the 2024 global sports nutrition market splits 48% protein powders, 26% protein bars, 17% non-protein and 9% protein RTD, growing 8 to 10% a year; clear whey SKUs are up 35% a year; 12% of US adults take a GLP-1 medication, with protein spend up 20% (KFF 2025, BCG 2026) (photo 3) (slide 3).\n- Milk by weight: water 87.3%, lactose 4.7%, fat 3.9%, casein 2.8%, minerals 0.7%, whey protein 0.6% [00:16] (photo 4) (slide 4).\n- The route from milk: cheese keeps the casein and fat; liquid whey goes through ultrafiltration and drying to WPC (35 to 80% protein), microfiltration or ion exchange to WPI (90% or more), then acidification or hydrolysis to clear or hydrolysed WPI. Sweet whey powder (about 12% protein), permeate, lactose, demineralised whey (D70, D90 for infant nutrition) and whey cream are the other outlets for the same whey [00:16] (photo 4) (slide 4).\n- Three bottlenecks: factories (\"CAPEX intensive, less flexible than people expect, takes years to start commercial production\"), liquid whey, and by-products, \"a major influencer of producer value\". Making WPC80 leaves permeate and lactose, which are easy to sell; WPI makers must also sell a fatty protein stream, shown on the slide as whey cream (Procream or WFC) [00:16] (photo 6) (photo 7) (slide 5) (slide 6).\n- Global production: WPC80 334,000 t in 2020 and 360,000 t in 2025; WPI 80,494 t and 161,800 t (40,450 t clear, 121,350 t standard); total 414,494 t and 521,800 t, up 26% (4.7% a year). Clear WPI at 40,450 t is, he said, the top of the estimate range; standard WPI grew 8.6% a year, below the category [00:16] (photo 8) (photo 9) (slide 7) (slide 8).\n- Announced US capacity (McCully Consulting, approximate; WPC80 converted from million pounds): 24,400 t of WPC80 and 7,500 t of WPI in 2026, 41,600 t and 20,300 t in 2027, 45,900 t and 22,900 t in 2028; each block on the chart is one company. UK, EU and Oceania: FrieslandCampina (WPI), Fonterra (speciality) and Polmlek (WPC, WPI) in 2026; Tirlán (WPC, WPI, clear) and Liprovit (WPI) in 2027; Arla's mozzarella plant in 2028. He said the European list is incomplete [00:16] (photo 11) (slide 9).\n- The buying cycle, using COVID as the example: longer lead times, more stock, rising demand, buyers competing, rising prices and an incentive to buy early; then the reverse, with the 2022 peak as logistics freed up and buyers destocked, and the 2023 trough as buyers waited with stocks too low [00:16] (photo 13) (photo 14) (photo 15) (slide 10) (slide 11).\n- Now: new US plants planned three or four years ago are commissioning; isolate, WPC35 and sweet whey powder are better uses of whey, so WPC80 output should fall; substitutes (MPC85, MPI, caseins, plant proteins) are rising, and WPC80 and milk protein \"should never meet\" [00:16].\n- Weekly Vesper prices, 25 August to 4 November 2026: WPC80 €27.00 to €16.00; WPI €32.00 to €25.50; MPC85 €13.92 to €15.80. On 4 November WPC80 was still €0.20 above MPC85 (photo 16) (photo 18) (slide 12). Read from the chart, WPC80 held about €27 for two weeks, then fell every week, to about €19 by 14 October; MPC85 was about €16 from 7 October (slide 12).\n- Forces for the next move. WPC80, up: strong other derivatives, rising alternatives, long-term protein demand; down: high inventories, powerful momentum, demand destruction. WPI, up: smaller share of brand costs, healthy inventories on both sides, harder to replace; down: demand destruction, production increases due (photo 16) (slide 12).\n- Where prices go: \"structurally rising but volatile\"; the correction \"may overshoot below trend\" before demand pulls prices back up. The slide's line is the average of EU WPC80 and WPI (Vesper, monthly to October 2026, lightly smoothed), and it says the trend and forward path are \"directional, not a forecast\" (photo 19) (slide 13).\n- He quoted Keynes, that markets can stay irrational longer than you can stay solvent, so WPC80 and MPC85 touching does not mean they part at once, \"but it can't go on forever\" [00:16].\n- Nutrilution sells niche, higher-value ingredients and advises buyers on whey and dairy protein sourcing, including cross-continental supply chains [00:16]. Contact on the closing slide: alan@nutrilution.com (slide 14).",
     "Research": ""
    },
    "takeaways": [
     {
-     "text": "The core constraint: cheese production grows about 1.5% a year, while whey protein demand grows over 10%. He called it the most important conclusion of the talk [00:16] (photo 7).",
+     "text": "The core constraint: cheese production grows about 1.5% a year, while whey protein demand grows over 10%. He called it the most important conclusion of the talk [00:16] (photo 7) (slide 5).",
      "cites": [
       "00:16",
-      "photo 7"
+      "photo 7",
+      "slide 5"
      ]
     },
     {
-     "text": "Producers chose isolate. Over five years WPI grew 15.0% a year and WPC80 1.5%; clear WPI is now about a quarter of all isolate (photo 9).",
+     "text": "Producers chose isolate. Over five years WPI grew 15.0% a year and WPC80 1.5%; clear WPI is now about a quarter of all isolate (photo 9) (slide 8).",
      "cites": [
-      "photo 9"
+      "photo 9",
+      "slide 8"
      ]
     },
     {
-     "text": "Between 25 August and 4 November 2026, WPC80 fell 40.7% to €16.00/kg and WPI 20.3% to €25.50/kg, while MPC85 rose 13.5% to €15.80/kg (photo 18).",
+     "text": "Between 25 August and 4 November 2026, WPC80 fell 40.7% to €16.00/kg and WPI 20.3% to €25.50/kg, while MPC85 rose 13.5% to €15.80/kg (photo 18) (slide 12).",
      "cites": [
-      "photo 18"
+      "photo 18",
+      "slide 12"
      ]
     },
     {
-     "text": "New capacity will not close the gap: he forecast WPI at 7 to 11% a year and WPC80 at 4 to 7% to 2030, and both cannot reach the top of their range [00:16] (photo 11).",
+     "text": "New capacity will not close the gap: he forecast WPI at 7 to 11% a year and WPC80 at 4 to 7% to 2030, and both cannot reach the top of their range [00:16] (photo 11) (slide 9).",
      "cites": [
       "00:16",
-      "photo 11"
+      "photo 11",
+      "slide 9"
      ]
     },
     {
@@ -3220,9 +3224,10 @@
      ]
     },
     {
-     "text": "For buyers: \"Don't try to time the market. Keep inventory steady. Whey will be expensive.\" (photo 20)",
+     "text": "For buyers: \"Don't try to time the market. Keep inventory steady. Whey will be expensive.\" (photo 20) (slide 13)",
      "cites": [
-      "photo 20"
+      "photo 20",
+      "slide 13"
      ]
     }
    ],
@@ -3253,9 +3258,9 @@
     }
    ],
    "followups": [
-    "Talk to Alan Johnstone (Nutrilution) about his price series and the capacity lists; he invited conversations on sourcing strategy [00:16].",
-    "His price series is Vesper's; check whether we have access, or want it (photo 2).",
-    "Check the Euromonitor figure he cited for sports nutrition growth, 10% a year; his slide says 8 to 10% [00:16] (photo 3)."
+    "Talk to Alan Johnstone (Nutrilution) about his price series and the capacity lists; he invited conversations on sourcing strategy [00:16] (slide 14).",
+    "His price series is Vesper's; check whether we have access, or want it (slide 2).",
+    "Check the Euromonitor figure he cited for sports nutrition growth, 10% a year; his slide says 8 to 10% and names its source only as the global sports nutrition market, 2024 [00:16] (slide 3)."
    ],
    "key_slides": [
     {
@@ -3281,15 +3286,36 @@
    ],
    "detail": [
     {
-     "text": "Prices this year: WPI went from around €7/kg in 2023 to over €30/kg; WPC80 held around €12/kg, then rose to €28/kg in about six weeks. WPC80 was the bigger risk for brands because they had already moved their sourcing into it [00:16].",
+     "text": "His full deck arrived after the talk (files/alan-johnstone-whey-market-deck.pdf, 14 pages). Slide numbers here are the file's pages; the slides print their own numbers, which run behind from page 6 because some slides have a page per build. The deck confirms every labelled figure read from the photos; only the chart readings below moved.",
+     "cites": []
+    },
+    {
+     "text": "Prices this year, as he said them: WPI went from around €7/kg in 2023 to over €30/kg; WPC80 held around €12/kg, then rose to €28/kg in about six weeks. WPC80 was the bigger risk for brands because they had already moved their sourcing into it [00:16].",
      "cites": [
       "00:16"
      ]
     },
     {
-     "text": "The price chart (Vesper, EU monthly, December 2019 to October 2026): WPC80 about €5/kg in 2020 and 2023, peaking about €12 in 2022 and about €26 to 27 in mid 2026; WPI about €8 in 2020, €18 in 2022, €7 in 2023 and about €31 in mid 2026. The slide headline: \"Record highs this summer (WPC80 up roughly 6x since 2020, WPI near €32/kg), now correcting\" (photo 2).",
+     "text": "His monthly chart differs from the spoken WPC80 figures. It peaks at about €27.4/kg in June and July 2026, not €28, and the rise from about €12.5 in November 2025 takes about seven months, steepest from about €17.7 in March to €25.4 in May; all read from the chart (slide 2). The WPI figures agree: a low of about €7.4 in June 2023 and a peak of about €31.8 in August 2026, read from the chart (slide 2).",
      "cites": [
-      "photo 2"
+      "slide 2",
+      "slide 2"
+     ]
+    },
+    {
+     "text": "The monthly chart (Vesper VPI, EU monthly prices in €/kg, December 2019 to October 2026), read from the chart: WPC80 between €4.5 and €5.6 through 2020, a peak of about €12.2 in April 2022, a low of about €4.7 in May 2023, about €12 through 2025, the 2026 peak of about €27.4, and about €18.9 in October 2026; WPI about €8 in early 2020, a peak of about €18.0 in spring 2022, the 2023 low of about €7.4, about €22 in March 2025, the 2026 peak of about €31.8, and about €28.1 in October 2026 (slide 2). The photo reading had put the 2026 peaks at about €26 to 27 (WPC80) and €31 (WPI), and the October points at about €18 and €27 (photo 2). The slide headline: \"Record highs this summer (WPC80 up roughly 6x since 2020, WPI near €32/kg), now correcting\" (photo 2) (slide 2).",
+     "cites": [
+      "slide 2",
+      "photo 2",
+      "photo 2",
+      "slide 2"
+     ]
+    },
+    {
+     "text": "Another speaker's view of the same price: Tess Plaquet (Rousselot, whey-collagen-the-protein-power-couple) showed WPC80 at US$5.7k a tonne in June 2023 and US$31.7k in June 2026 (US$5.70 and US$31.70 a kilogram), with Mintel and Vesper as her slide's sources. His series is Vesper's EU price in euros a kilogram: about €5.2 in June 2023 and €27.4 in June 2026, read from the chart (slide 2), and €27.00 in the week of 25 August 2026 (slide 12). The two differ in currency and unit; both show close to a sixfold rise.",
+     "cites": [
+      "slide 2",
+      "slide 12"
      ]
     },
     {
@@ -3299,55 +3325,65 @@
      ]
     },
     {
-     "text": "The demand slide: the 2024 global sports nutrition market splits 48% protein powders, 26% protein bars, 17% non-protein and 9% protein RTD, growing 8 to 10% a year; clear whey SKUs are up 35% a year; 12% of US adults take a GLP-1 medication, with protein spend up 20% (KFF 2025, BCG 2026) (photo 3).",
+     "text": "The demand slide: the 2024 global sports nutrition market splits 48% protein powders, 26% protein bars, 17% non-protein and 9% protein RTD, growing 8 to 10% a year; clear whey SKUs are up 35% a year; 12% of US adults take a GLP-1 medication, with protein spend up 20% (KFF 2025, BCG 2026) (photo 3) (slide 3).",
      "cites": [
-      "photo 3"
+      "photo 3",
+      "slide 3"
      ]
     },
     {
-     "text": "Milk by weight: water 87.3%, lactose 4.7%, fat 3.9%, casein 2.8%, minerals 0.7%, whey protein 0.6% [00:16] (photo 4).",
-     "cites": [
-      "00:16",
-      "photo 4"
-     ]
-    },
-    {
-     "text": "The route from milk: cheese keeps the casein and fat; liquid whey goes through ultrafiltration and drying to WPC (35 to 80% protein), microfiltration or ion exchange to WPI (90% or more), then acidification or hydrolysis to clear or hydrolysed WPI. Sweet whey powder (about 12% protein), permeate, lactose, demineralised whey (D70, D90 for infant nutrition) and whey cream are the other outlets for the same whey [00:16] (photo 4).",
+     "text": "Milk by weight: water 87.3%, lactose 4.7%, fat 3.9%, casein 2.8%, minerals 0.7%, whey protein 0.6% [00:16] (photo 4) (slide 4).",
      "cites": [
       "00:16",
-      "photo 4"
+      "photo 4",
+      "slide 4"
      ]
     },
     {
-     "text": "Three bottlenecks: factories (\"CAPEX intensive, less flexible than people expect, takes years to start commercial production\"), liquid whey, and by-products, \"a major influencer of producer value\"; WPI makers must also sell a fatty protein stream [00:16] (photo 6) (photo 7).",
+     "text": "The route from milk: cheese keeps the casein and fat; liquid whey goes through ultrafiltration and drying to WPC (35 to 80% protein), microfiltration or ion exchange to WPI (90% or more), then acidification or hydrolysis to clear or hydrolysed WPI. Sweet whey powder (about 12% protein), permeate, lactose, demineralised whey (D70, D90 for infant nutrition) and whey cream are the other outlets for the same whey [00:16] (photo 4) (slide 4).",
+     "cites": [
+      "00:16",
+      "photo 4",
+      "slide 4"
+     ]
+    },
+    {
+     "text": "Three bottlenecks: factories (\"CAPEX intensive, less flexible than people expect, takes years to start commercial production\"), liquid whey, and by-products, \"a major influencer of producer value\". Making WPC80 leaves permeate and lactose, which are easy to sell; WPI makers must also sell a fatty protein stream, shown on the slide as whey cream (Procream or WFC) [00:16] (photo 6) (photo 7) (slide 5) (slide 6).",
      "cites": [
       "00:16",
       "photo 6",
-      "photo 7"
+      "photo 7",
+      "slide 5",
+      "slide 6"
      ]
     },
     {
-     "text": "Global production: WPC80 334,000 t in 2020 and 360,000 t in 2025; WPI 80,494 t and 161,800 t; total 414,494 t and 521,800 t, up 26% (4.7% a year). Clear WPI was 40,450 t in 2025, which he said is the top of the estimate range; standard WPI grew 8.6% a year, below the category [00:16] (photo 8) (photo 9).",
+     "text": "Global production: WPC80 334,000 t in 2020 and 360,000 t in 2025; WPI 80,494 t and 161,800 t (40,450 t clear, 121,350 t standard); total 414,494 t and 521,800 t, up 26% (4.7% a year). Clear WPI at 40,450 t is, he said, the top of the estimate range; standard WPI grew 8.6% a year, below the category [00:16] (photo 8) (photo 9) (slide 7) (slide 8).",
      "cites": [
       "00:16",
       "photo 8",
-      "photo 9"
+      "photo 9",
+      "slide 7",
+      "slide 8"
      ]
     },
     {
-     "text": "Announced US capacity (McCully Consulting, approximate): 24,400 t of WPC80 and 7,500 t of WPI in 2026, 41,600 t and 20,300 t in 2027, 45,900 t and 22,900 t in 2028. UK, EU and Oceania: FrieslandCampina (WPI), Fonterra (speciality) and Polmlek (WPC, WPI) in 2026; Tirlán (WPC, WPI, clear) and Liprovit (WPI) in 2027; Arla's mozzarella plant in 2028. He said the European list is incomplete [00:16] (photo 11).",
+     "text": "Announced US capacity (McCully Consulting, approximate; WPC80 converted from million pounds): 24,400 t of WPC80 and 7,500 t of WPI in 2026, 41,600 t and 20,300 t in 2027, 45,900 t and 22,900 t in 2028; each block on the chart is one company. UK, EU and Oceania: FrieslandCampina (WPI), Fonterra (speciality) and Polmlek (WPC, WPI) in 2026; Tirlán (WPC, WPI, clear) and Liprovit (WPI) in 2027; Arla's mozzarella plant in 2028. He said the European list is incomplete [00:16] (photo 11) (slide 9).",
      "cites": [
       "00:16",
-      "photo 11"
+      "photo 11",
+      "slide 9"
      ]
     },
     {
-     "text": "The buying cycle, using COVID as the example: longer lead times, more stock, rising demand, buyers competing, rising prices and an incentive to buy early; then the reverse, with the 2022 peak as logistics freed up and buyers destocked, and the 2023 trough as buyers waited with stocks too low [00:16] (photo 13) (photo 14) (photo 15).",
+     "text": "The buying cycle, using COVID as the example: longer lead times, more stock, rising demand, buyers competing, rising prices and an incentive to buy early; then the reverse, with the 2022 peak as logistics freed up and buyers destocked, and the 2023 trough as buyers waited with stocks too low [00:16] (photo 13) (photo 14) (photo 15) (slide 10) (slide 11).",
      "cites": [
       "00:16",
       "photo 13",
       "photo 14",
-      "photo 15"
+      "photo 15",
+      "slide 10",
+      "slide 11"
      ]
     },
     {
@@ -3357,22 +3393,26 @@
      ]
     },
     {
-     "text": "Weekly Vesper prices, 25 August to 4 November 2026: WPC80 €27.00 to €16.00; WPI €32.00 to €25.50; MPC85 €13.92 to €15.80 (photo 16) (photo 18).",
+     "text": "Weekly Vesper prices, 25 August to 4 November 2026: WPC80 €27.00 to €16.00; WPI €32.00 to €25.50; MPC85 €13.92 to €15.80. On 4 November WPC80 was still €0.20 above MPC85 (photo 16) (photo 18) (slide 12). Read from the chart, WPC80 held about €27 for two weeks, then fell every week, to about €19 by 14 October; MPC85 was about €16 from 7 October (slide 12).",
      "cites": [
       "photo 16",
-      "photo 18"
+      "photo 18",
+      "slide 12",
+      "slide 12"
      ]
     },
     {
-     "text": "Forces for the next move. WPC80, up: strong other derivatives, rising alternatives, long-term protein demand; down: high inventories, powerful momentum, demand destruction. WPI, up: smaller share of brand costs, healthy inventories on both sides, harder to replace; down: demand destruction, production increases due (photo 16).",
+     "text": "Forces for the next move. WPC80, up: strong other derivatives, rising alternatives, long-term protein demand; down: high inventories, powerful momentum, demand destruction. WPI, up: smaller share of brand costs, healthy inventories on both sides, harder to replace; down: demand destruction, production increases due (photo 16) (slide 12).",
      "cites": [
-      "photo 16"
+      "photo 16",
+      "slide 12"
      ]
     },
     {
-     "text": "Where prices go: \"structurally rising but volatile\"; the correction \"may overshoot below trend\" before demand pulls prices back up. The slide says the trend and forward path are \"directional, not a forecast\" (photo 19).",
+     "text": "Where prices go: \"structurally rising but volatile\"; the correction \"may overshoot below trend\" before demand pulls prices back up. The slide's line is the average of EU WPC80 and WPI (Vesper, monthly to October 2026, lightly smoothed), and it says the trend and forward path are \"directional, not a forecast\" (photo 19) (slide 13).",
      "cites": [
-      "photo 19"
+      "photo 19",
+      "slide 13"
      ]
     },
     {
@@ -3382,9 +3422,10 @@
      ]
     },
     {
-     "text": "Nutrilution sells niche, higher-value ingredients and advises buyers on whey and dairy protein sourcing, including cross-continental supply chains [00:16].",
+     "text": "Nutrilution sells niche, higher-value ingredients and advises buyers on whey and dairy protein sourcing, including cross-continental supply chains [00:16]. Contact on the closing slide: alan@nutrilution.com (slide 14).",
      "cites": [
-      "00:16"
+      "00:16",
+      "slide 14"
      ]
     }
    ],
@@ -3488,6 +3529,11 @@
      "name": "alan-johnstone-20.webp",
      "kind": "photo",
      "pages": 1
+    },
+    {
+     "name": "alan-johnstone-whey-market-deck.pdf",
+     "kind": "pdf",
+     "pages": 14
     },
     {
      "name": "otter-summary.md",
@@ -3729,6 +3775,249 @@
      "name": "otter-summary.md",
      "kind": "text",
      "pages": null
+    }
+   ]
+  },
+  {
+   "id": "fuelling-female-performance",
+   "event": "sans-europe-2026",
+   "title": "Fuelling female performance: Separating Science from Myth in Women's Sports Nutrition",
+   "date": "2026-11-09",
+   "start": "10:55",
+   "end": "",
+   "format": "talk",
+   "track": "",
+   "speakers": [
+    {
+     "name": "Emily Jevons",
+     "organisation": "Emily Jevons Nutrition (ejn.)",
+     "role": "Registered Nutritionist (BSc, PhD, RNutr)"
+    }
+   ],
+   "themes": [
+    "female-athlete-nutrition",
+    "creatine-beyond-strength",
+    "branded-ingredients-differentiation"
+   ],
+   "ingredients": [
+    "creatine",
+    "protein",
+    "carbohydrate",
+    "collagen (marine collagen, on packs shown)",
+    "myo-inositol",
+    "DIM",
+    "vitex",
+    "ashwagandha",
+    "vitamin D",
+    "calcium"
+   ],
+   "relevance": "high",
+   "status": "summarised",
+   "summary_by": "Claude",
+   "summary_date": "2026-11-23",
+   "reviewed_by": "",
+   "reviewed_date": "",
+   "attended_by": [
+    "Nathan"
+   ],
+   "links": {},
+   "to_check": "The end time, track and room (the 10:55 slot was not in Nathan's programme screenshots); her organisation and role as billed (the deck gives only her name, post-nominals, \"Registered Nutritionist\" and the ejn. brand); the title as billed in the programme (this one is the deck's). Slides only, no recording.",
+   "added": "2026-11-23",
+   "added_by": "Claude (from Nathan's upload, 23 Nov 2026)",
+   "has_transcript": false,
+   "transcript_words": 0,
+   "has_notes": false,
+   "has_summary": true,
+   "summary": {
+    "Summary": "Dr Emily Jevons, a registered nutritionist who specialises in sports nutrition, nutrition education and disordered eating, asked how much of women's sports nutrition is science and how much is myth.\n\nShe began with the evidence base. Only 6% of sport and exercise science publications study women alone. Even when women are included, their hormonal status is rarely verified properly. Women are not one population either: adolescents, contraceptive users, pregnant and postpartum women and women in menopause all differ, and the last groups are almost absent from research.\n\nOn the menstrual cycle she was clear. Most studies find no effect of cycle phase on performance; effects are small and individual variation is large. Popular advice to train hard early in the cycle and switch to pilates later is not backed by the evidence. Carbohydrate needs follow the training session, not the phase. Energy availability comes first; in theory, protein needs may rise in the luteal phase.\n\nShe then turned to the women's health aisle, where demand is outpacing evidence, and asked whether it is pink washing or progress. Her answer for industry: use ingredients with evidence for the outcome claimed, at trial doses, fully disclosed and batch-tested; claim honestly; design with women; and fund female-specific trials, publishing null results too.",
+    "Key takeaways": "- The evidence gap: of 5,261 publications with 12,511,386 participants, 63% studied males and females, 31% males only and 6% females only (Cowley et al., 2021) (slide 4).\n- Even when women are included, 14% of performance supplement studies defined menstrual status and about 0.5% verified it with best-practice methods; female participation rose from about 39% (2011-13) to about 44% (2021-23) (Smith et al., 2022; Ose et al., 2025) (slide 6).\n- The cycle and performance: 13 of 16 studies found no effect on anaerobic performance and 14 of 22 none on aerobic performance; no influence of phase on strength or training adaptations, \"BUT motivation could be impactful\" (Carmichael et al., 2021; Colenso-Semple et al., 2023). A review found the evidence does not warrant general guidance on changing exercise across the cycle (McNulty et al., 2020) (slide 15) (slide 16).\n- Nutrition: carbohydrate targets are per kg of body mass and apply to both sexes, with no evidence for phase-specific targets; energy intake tends to rise about 170 kcal a day in the luteal phase. The primary focus is adequate energy intake and optimal energy availability (ISSN position stand, Sims et al., 2023) (slide 18) (slide 19).\n- Protein: high-quality protein as close to the start and/or end of exercise as possible at 0.3-0.4 g/kg body weight, aiming for the upper end in the luteal phase \"due to the catabolic actions of progesterone\" (Sims et al., 2023) (slide 20).\n- Building better products: include only ingredients with evidence for the outcome claimed, \"e.g. creatine 3–5 g/day alongside strength training for midlife muscle and strength\"; use trial doses, list every dose, batch-test for athletes (e.g. Informed Sport); use authorised claims; co-design with women and fund female-specific studies (slide 23).",
+    "For Vita Actives": "- Relevance high: her one named example of an evidence-based ingredient for women was creatine, 3-5 g a day alongside strength training for midlife muscle and strength (slide 23). My reading: this is the CreaWin case for women in a nutritionist's own words, and it rests on trials, so our material should lead with trial doses and references.\n- Women's creatine products are already on the shelf. Her slides show Zooki Creatine+ for Women (5 g creatine, \"extra support for energy, cognition and hormonal balance\") and Marchon Women's Formula (5 g creatine, 4 g myo-inositol, 8 g marine collagen), read from the pack shots, under \"Cycle syncing, myth or evidence based?\" and \"Pink washing or progress?\"; she gave no verdict on each product (slide 11) (slide 21). My reading: \"hormonal balance\" is the kind of claim she warns against (slide 23); a brand that wants her kind of approval needs trial-dose creatine and honest claims, which is where CreaWin should sit.\n- Protein: 0.3-0.4 g/kg around exercise (slide 20). My reading: about 18-24 g a serving for a 60 kg woman, a dose a clear pea protein drink (IsoClr: Pea) can carry.\n- Her industry list asks for female-specific trials with verified menstrual status, research on the product not just the ingredient, and published null results (slide 24). My reading: a CreaWin study in active women designed that way would answer her directly, and she asks for nutritionists to be involved \"from day one\" (slide 23).\n- James Morton (SiS) said the same at 11:20: fuel for the work, not the menstrual cycle (fuelling-the-female-runner-from-paper). SiS is among the logos on her \"Who am I?\" slide (slide 2).",
+    "Quotes": "- \"Hormones treated as noise: the cycle was seen as a confounder to avoid rather than a variable to study.\" (slide 5)\n- \"Carbohydrate needs are driven by the training session, not the cycle phase.\" (slide 18)\n- \"Demand is outpacing evidence\" (slide 22)\n- \"Women's products should be built on evidence, not trends.\" (slide 25)",
+    "Follow-ups": "- Confirm the end time, track, her organisation and role as billed, and the programme title.\n- Talk to Emily Jevons (contact details on slides 1 and 26) about what a CreaWin study in active or midlife women should look like; she named creatine 3-5 g a day as her evidence-based example (slide 23).\n- Find the papers: Cowley et al. 2021, Smith et al. 2022, Ose et al. 2025, McNulty et al. 2020, Carmichael et al. 2021, Colenso-Semple et al. 2023, the ISSN female athlete position stand (Sims et al. 2023) and the UCL 2026 review of menopause supplements.\n- Find out who supplies the creatine in Zooki Creatine+ for Women and Marchon Women's Formula (slide 11) (slide 21).",
+    "Key slides": "",
+    "Detail": "- Why research leaned on men: the \"70 kg male\" became the reference participant; hormones were treated as noise; testing women properly means verifying phase with hormone measures across several phases; contraception variety makes uniform groups harder; product claims were built on male evidence, \"This is where industry can now lead\" (slide 5).\n- Women aren't one population: adolescents; menstruating women with a natural cycle; women on hormonal contraception, which suppresses endogenous hormones and may be used to manage conditions such as endometriosis; pregnancy and postpartum, a one to two year period; peri- and menopause, diagnosed retrospectively after 12 months without menstruation. \"Lots of individual variation across all phases\" (slide 7). The hormone curves across the lifespan are marked \"Illustrative – not to scale\" (slide 8).\n- About 50% of elite athletes use hormonal contraception (Martin et al. 2018); 77% of non-users report negative cycle symptoms, mostly on days 1-2 of bleeding; peri- and postmenopausal athletes are almost absent from research; adolescents, pregnancy and postpartum have even less data; findings in one group can't simply be applied to another (slide 9).\n- She asked the room \"Who is your target audience?\" before the cycle-syncing section (slide 10). The cycle-syncing slide also shows an SiS Run Fuel gel and Fast and Female (slide 11).\n- Physiology: the 28-day cycle is an average, not a rule; the follicular phase is the more variable; the luteal phase lasts about 12-15 days after ovulation; the LH surge is not exactly day 14; stress, sleep, body weight, training load and life context all affect the pattern (slide 12). \"Every woman will experience the menstrual cycle differently\" (slide 13).\n- Proposed mechanisms. Muscle activation: in theory oestrogen raises excitability and progesterone \"may lower strength outcomes in the luteal phase\". Muscle and tendon stiffness: oestrogen may change collagen synthesis, but \"Most research states this increase is not great enough to have an effect\". Thermoregulation: a sufficient warm-up nulled any luteal advantage; higher body temperature could hurt endurance. Metabolism: trends disappear at higher intensities or when fed; exercise intensity and nutrition status appear \"to be more influential than menstrual cycle phase\" (slide 14).\n- One study found peak power higher in the ovulatory phase, but motivation to train was also greatest then; intermittent endurance is more likely to be affected than continuous endurance (slide 15).\n- What social media says (crossed out on the slide): train hard early, pilates and walking later. What the review says: performance \"might be reduced by a small amount\" in the early phase, with large personal differences (McNulty et al., 2020) (slide 16). Her conclusion: a personalised approach based on each woman's response (slide 17).\n- Resting metabolic rate may rise slightly in the luteal phase, but studies are inconsistent and mostly low quality; combined pill users do not show these fluctuations (slide 18).\n- Protein: oestrogen is anabolic and progesterone catabolic, so in theory an athletic woman might need more protein in the luteal phase, but rising metabolic rate and appetite are already likely to raise her intake (slide 20).\n- The women's health aisle: UK menopause supplements projected to grow from £42m (2020) to £100m by 2028 (GenM/Kantar); Holland & Barrett women's health sales up 22% year on year; a UCL 2026 review found half of UK menopause supplements had no vitamin D and only 24% contained calcium; \"hormone balance\" stacks (DIM, inositol, vitex, ashwagandha) are booming online (slide 22).\n- Packs on the \"Pink washing or progress?\" slide, read from the pack shots: Wassen Prime Protect 50+ Women, Hairburst Womens 35+ Hair Vitamins (with added collagen), Viviscal, Swedish Collagen Collagen Deluxe (12,500 mg hydrolysed marine collagen), Novomins Women's Bio-Balance Gummies and Zooki Creatine+ for Women (slide 21).\n- The four rules in full: Justify (no trending \"oestrogen balance\" ingredients without evidence in active women); Dose and Disclose (no proprietary blends at token doses, untested for banned substances); Claim honestly (no \"balances your hormones\" or \"cycle-synced\" without trials; say what isn't yet known); Co-design (not \"a pink tub on the same formula\") (slide 23).\n- What industry can do: fund female-specific trials rather than adding women to male designs; verify menstrual status with best-practice methods, not day-counting; educate on who the product is for; research the product, not just the ingredient; publish null results (slide 24).\n- Take-home messages: more high-quality research across the lifespan; cycle effects small, individual variation large, energy availability first; products built on evidence; industry can fund, design and report better research (slide 25).\n- Her \"Who am I?\" slide carries logos including SiS, British Cycling, IRONMAN, Swim with Jazz, Feisty Women's Performance, fuel/HQ, David Lloyd Clubs, Fast and Female, Team Picnic PostNL and the University of Chester; it does not say what each relationship is (slide 2).",
+    "Research": ""
+   },
+   "takeaways": [
+    {
+     "text": "The evidence gap: of 5,261 publications with 12,511,386 participants, 63% studied males and females, 31% males only and 6% females only (Cowley et al., 2021) (slide 4).",
+     "cites": [
+      "slide 4"
+     ]
+    },
+    {
+     "text": "Even when women are included, 14% of performance supplement studies defined menstrual status and about 0.5% verified it with best-practice methods; female participation rose from about 39% (2011-13) to about 44% (2021-23) (Smith et al., 2022; Ose et al., 2025) (slide 6).",
+     "cites": [
+      "slide 6"
+     ]
+    },
+    {
+     "text": "The cycle and performance: 13 of 16 studies found no effect on anaerobic performance and 14 of 22 none on aerobic performance; no influence of phase on strength or training adaptations, \"BUT motivation could be impactful\" (Carmichael et al., 2021; Colenso-Semple et al., 2023). A review found the evidence does not warrant general guidance on changing exercise across the cycle (McNulty et al., 2020) (slide 15) (slide 16).",
+     "cites": [
+      "slide 15",
+      "slide 16"
+     ]
+    },
+    {
+     "text": "Nutrition: carbohydrate targets are per kg of body mass and apply to both sexes, with no evidence for phase-specific targets; energy intake tends to rise about 170 kcal a day in the luteal phase. The primary focus is adequate energy intake and optimal energy availability (ISSN position stand, Sims et al., 2023) (slide 18) (slide 19).",
+     "cites": [
+      "slide 18",
+      "slide 19"
+     ]
+    },
+    {
+     "text": "Protein: high-quality protein as close to the start and/or end of exercise as possible at 0.3-0.4 g/kg body weight, aiming for the upper end in the luteal phase \"due to the catabolic actions of progesterone\" (Sims et al., 2023) (slide 20).",
+     "cites": [
+      "slide 20"
+     ]
+    },
+    {
+     "text": "Building better products: include only ingredients with evidence for the outcome claimed, \"e.g. creatine 3–5 g/day alongside strength training for midlife muscle and strength\"; use trial doses, list every dose, batch-test for athletes (e.g. Informed Sport); use authorised claims; co-design with women and fund female-specific studies (slide 23).",
+     "cites": [
+      "slide 23"
+     ]
+    }
+   ],
+   "quotes": [
+    {
+     "text": "\"Hormones treated as noise: the cycle was seen as a confounder to avoid rather than a variable to study.\" (slide 5)",
+     "cites": [
+      "slide 5"
+     ]
+    },
+    {
+     "text": "\"Carbohydrate needs are driven by the training session, not the cycle phase.\" (slide 18)",
+     "cites": [
+      "slide 18"
+     ]
+    },
+    {
+     "text": "\"Demand is outpacing evidence\" (slide 22)",
+     "cites": [
+      "slide 22"
+     ]
+    },
+    {
+     "text": "\"Women's products should be built on evidence, not trends.\" (slide 25)",
+     "cites": [
+      "slide 25"
+     ]
+    }
+   ],
+   "followups": [
+    "Confirm the end time, track, her organisation and role as billed, and the programme title.",
+    "Talk to Emily Jevons (contact details on slides 1 and 26) about what a CreaWin study in active or midlife women should look like; she named creatine 3-5 g a day as her evidence-based example (slide 23).",
+    "Find the papers: Cowley et al. 2021, Smith et al. 2022, Ose et al. 2025, McNulty et al. 2020, Carmichael et al. 2021, Colenso-Semple et al. 2023, the ISSN female athlete position stand (Sims et al. 2023) and the UCL 2026 review of menopause supplements.",
+    "Find out who supplies the creatine in Zooki Creatine+ for Women and Marchon Women's Formula (slide 11) (slide 21)."
+   ],
+   "key_slides": [],
+   "detail": [
+    {
+     "text": "Why research leaned on men: the \"70 kg male\" became the reference participant; hormones were treated as noise; testing women properly means verifying phase with hormone measures across several phases; contraception variety makes uniform groups harder; product claims were built on male evidence, \"This is where industry can now lead\" (slide 5).",
+     "cites": [
+      "slide 5"
+     ]
+    },
+    {
+     "text": "Women aren't one population: adolescents; menstruating women with a natural cycle; women on hormonal contraception, which suppresses endogenous hormones and may be used to manage conditions such as endometriosis; pregnancy and postpartum, a one to two year period; peri- and menopause, diagnosed retrospectively after 12 months without menstruation. \"Lots of individual variation across all phases\" (slide 7). The hormone curves across the lifespan are marked \"Illustrative – not to scale\" (slide 8).",
+     "cites": [
+      "slide 7",
+      "slide 8"
+     ]
+    },
+    {
+     "text": "About 50% of elite athletes use hormonal contraception (Martin et al. 2018); 77% of non-users report negative cycle symptoms, mostly on days 1-2 of bleeding; peri- and postmenopausal athletes are almost absent from research; adolescents, pregnancy and postpartum have even less data; findings in one group can't simply be applied to another (slide 9).",
+     "cites": [
+      "slide 9"
+     ]
+    },
+    {
+     "text": "She asked the room \"Who is your target audience?\" before the cycle-syncing section (slide 10). The cycle-syncing slide also shows an SiS Run Fuel gel and Fast and Female (slide 11).",
+     "cites": [
+      "slide 10",
+      "slide 11"
+     ]
+    },
+    {
+     "text": "Physiology: the 28-day cycle is an average, not a rule; the follicular phase is the more variable; the luteal phase lasts about 12-15 days after ovulation; the LH surge is not exactly day 14; stress, sleep, body weight, training load and life context all affect the pattern (slide 12). \"Every woman will experience the menstrual cycle differently\" (slide 13).",
+     "cites": [
+      "slide 12",
+      "slide 13"
+     ]
+    },
+    {
+     "text": "Proposed mechanisms. Muscle activation: in theory oestrogen raises excitability and progesterone \"may lower strength outcomes in the luteal phase\". Muscle and tendon stiffness: oestrogen may change collagen synthesis, but \"Most research states this increase is not great enough to have an effect\". Thermoregulation: a sufficient warm-up nulled any luteal advantage; higher body temperature could hurt endurance. Metabolism: trends disappear at higher intensities or when fed; exercise intensity and nutrition status appear \"to be more influential than menstrual cycle phase\" (slide 14).",
+     "cites": [
+      "slide 14"
+     ]
+    },
+    {
+     "text": "One study found peak power higher in the ovulatory phase, but motivation to train was also greatest then; intermittent endurance is more likely to be affected than continuous endurance (slide 15).",
+     "cites": [
+      "slide 15"
+     ]
+    },
+    {
+     "text": "What social media says (crossed out on the slide): train hard early, pilates and walking later. What the review says: performance \"might be reduced by a small amount\" in the early phase, with large personal differences (McNulty et al., 2020) (slide 16). Her conclusion: a personalised approach based on each woman's response (slide 17).",
+     "cites": [
+      "slide 16",
+      "slide 17"
+     ]
+    },
+    {
+     "text": "Resting metabolic rate may rise slightly in the luteal phase, but studies are inconsistent and mostly low quality; combined pill users do not show these fluctuations (slide 18).",
+     "cites": [
+      "slide 18"
+     ]
+    },
+    {
+     "text": "Protein: oestrogen is anabolic and progesterone catabolic, so in theory an athletic woman might need more protein in the luteal phase, but rising metabolic rate and appetite are already likely to raise her intake (slide 20).",
+     "cites": [
+      "slide 20"
+     ]
+    },
+    {
+     "text": "The women's health aisle: UK menopause supplements projected to grow from £42m (2020) to £100m by 2028 (GenM/Kantar); Holland & Barrett women's health sales up 22% year on year; a UCL 2026 review found half of UK menopause supplements had no vitamin D and only 24% contained calcium; \"hormone balance\" stacks (DIM, inositol, vitex, ashwagandha) are booming online (slide 22).",
+     "cites": [
+      "slide 22"
+     ]
+    },
+    {
+     "text": "Packs on the \"Pink washing or progress?\" slide, read from the pack shots: Wassen Prime Protect 50+ Women, Hairburst Womens 35+ Hair Vitamins (with added collagen), Viviscal, Swedish Collagen Collagen Deluxe (12,500 mg hydrolysed marine collagen), Novomins Women's Bio-Balance Gummies and Zooki Creatine+ for Women (slide 21).",
+     "cites": [
+      "slide 21"
+     ]
+    },
+    {
+     "text": "The four rules in full: Justify (no trending \"oestrogen balance\" ingredients without evidence in active women); Dose and Disclose (no proprietary blends at token doses, untested for banned substances); Claim honestly (no \"balances your hormones\" or \"cycle-synced\" without trials; say what isn't yet known); Co-design (not \"a pink tub on the same formula\") (slide 23).",
+     "cites": [
+      "slide 23"
+     ]
+    },
+    {
+     "text": "What industry can do: fund female-specific trials rather than adding women to male designs; verify menstrual status with best-practice methods, not day-counting; educate on who the product is for; research the product, not just the ingredient; publish null results (slide 24).",
+     "cites": [
+      "slide 24"
+     ]
+    },
+    {
+     "text": "Take-home messages: more high-quality research across the lifespan; cycle effects small, individual variation large, energy availability first; products built on evidence; industry can fund, design and report better research (slide 25).",
+     "cites": [
+      "slide 25"
+     ]
+    },
+    {
+     "text": "Her \"Who am I?\" slide carries logos including SiS, British Cycling, IRONMAN, Swim with Jazz, Feisty Women's Performance, fuel/HQ, David Lloyd Clubs, Fast and Female, Team Picnic PostNL and the University of Chester; it does not say what each relationship is (slide 2).",
+     "cites": [
+      "slide 2"
+     ]
+    }
+   ],
+   "files": [
+    {
+     "name": "emily-jevons-fuelling-female-performance.pdf",
+     "kind": "pdf",
+     "pages": 26
     }
    ]
   },
@@ -4138,12 +4427,14 @@
     "hydroxyproline",
     "glycine",
     "proline",
-    "vitamin C"
+    "vitamin C",
+    "whey protein isolate",
+    "Nextida GC"
    ],
    "relevance": "high",
    "status": "summarised",
    "summary_by": "Claude",
-   "summary_date": "2026-11-09",
+   "summary_date": "2026-11-23",
    "reviewed_by": "",
    "reviewed_date": "",
    "attended_by": [
@@ -4152,7 +4443,7 @@
    "links": {
     "otter": "https://otter.ai/u/2-a4DWLvb-1Z5tHqsJEsHdBFRaM"
    },
-   "to_check": "Sponsored slot (Rousselot by Darling Ingredients logo on the programme). Otter produced no summary and labelled the speaker \"Speaker unknown\"; the recording ends mid-sentence in her closing invitation to the roundtables, so any Q&A is missing; Otter heard her name as \"Staske\" and Olivia Haslam introduced her as \"Tess Plackett\", so the spelling is unconfirmed; the currency of the \"5.7 k\" to \"almost 32 k\" a tonne WPC80 figure was not said; whether photos of the slides exist (the launch, price and study charts were on slides).",
+   "to_check": "Sponsored slot (Rousselot by Darling Ingredients logo on the programme). Otter produced no summary and labelled the speaker \"Speaker unknown\"; the recording ends mid-sentence in her closing invitation to the roundtables, so any Q&A is missing; which market the US dollar WPC80 price on slide 3 is for.",
    "added": "2026-11-09",
    "added_by": "Claude (from the event app's programme, screenshots from Nathan at 11:39-11:40 on 9 Nov 2026)",
    "has_transcript": true,
@@ -4160,26 +4451,28 @@
    "has_notes": false,
    "has_summary": true,
    "summary": {
-    "Summary": "Tess Plaquet, technical sport manager at Rousselot, argued that brands should stop asking when whey prices will fall and work around them by blending whey with collagen.\n\nShe began with the market. Whey launches keep growing, and she said the forces behind whey prices, from GLP-1 users and China to whey being a cheese by-product and rising energy and labour costs, mean high prices are here to stay. Brands can raise prices, shrink packs or reformulate; she called smarter formulation with protein blends the most elegant answer. Launches combining whey and collagen are growing at almost 17.5% a year, and collagen comes from four animal sources with far steadier prices.\n\nShe then made the case that the two proteins complement rather than compete: whey builds and repairs muscle, while Rousselot's Peptan collagen peptides support tendons, joints and bone. Her evidence was Rousselot's own studies. The central one gave 22 men either 45 g of whey or 25 g of whey plus 20 g of Peptan for three weeks of training, and recovery and performance were similar in both groups. Studies of Peptan on its own reported less muscle soreness, fewer blood endotoxins after a run, better knee comfort and better sleep.\n\nThe recording ends as she invites the room to Rousselot's roundtables.",
-    "Key takeaways": "- Brands have three responses to whey costs: raise the price, shrinkflation, or smarter formulation with protein blends, which she called the most elegant and a way to stand out on shelf [00:10].\n- Launches combining whey and collagen are growing at almost 17.5 percent a year; a 10 g collagen plus 10 g whey product was her example [00:10].\n- Collagen supply is spread across bovine, porcine, chicken and fish, and its historical prices fluctuate far less than whey's [00:10].\n- Whey and collagen are \"no competitors\": whey for muscle, Peptan (rich in hydroxyproline, glycine and proline) for ligaments, tendons, joints and bone [00:10].\n- In 22 men over three weeks of training, 25 g whey plus 20 g Peptan gave the same recovery and performance as 45 g whey [00:10].\n- 20 g Peptan with vitamin C for seven days gave 28% less muscle soreness and 13% faster muscle recovery than placebo after 150 jumps [00:10].",
+    "Summary": "Tess Plaquet, technical sport manager at Rousselot, argued that brands should stop asking when whey prices will fall and work around them by blending whey with collagen.\n\nShe began with the market. Whey launches keep growing, and she said the forces behind whey prices, from GLP-1 users and China to whey being a cheese by-product and rising energy and labour costs, mean high prices are here to stay. Brands can raise prices, shrink packs or reformulate; she called smarter formulation with protein blends the most elegant answer. Launches combining whey and collagen are growing at 17.44% a year, and collagen comes from four animal sources with far steadier prices.\n\nShe then made the case that the two proteins complement rather than compete: whey builds and repairs muscle, while Rousselot's Peptan collagen peptides support tendons, joints and bone. Her evidence was Rousselot's own studies. The central one gave 22 men either 45 g of whey or 25 g of whey plus 20 g of Peptan for three weeks of training, and recovery and performance were similar in both groups. Studies of Peptan on its own reported less muscle soreness, fewer blood endotoxins after a run, better knee comfort and better sleep.\n\nThe recording ends as she invites the room to Rousselot's roundtables.",
+    "Key takeaways": "- Brands have three responses to whey costs: raise the price, shrinkflation, or smarter formulation with protein blends, which she called the most elegant and a way to stand out on shelf [00:10] (slide 5).\n- Launches combining whey and collagen grew at 17.44% a year from 2023 to 2026 to date, led by snacks, cereals and energy bars (39.7%) and nutritional and meal replacement drinks (36.4%); her example, Optimum Nutrition's clear whey isolate with collagen, has 10 g of each [00:10] (slide 6).\n- Collagen supply is spread across bovine, porcine, chicken and fish, and its historical prices fluctuate far less than whey's [00:10].\n- Whey and collagen are \"no competitors\": whey for muscle, Peptan (rich in hydroxyproline, glycine and proline) for ligaments, tendons, joints and bone [00:10] (slide 8).\n- In 22 men over three weeks of training, 25 g whey plus 20 g Peptan a day gave the same recovery and performance as 45 g whey; the slide says such blends \"may provide broader support across the musculoskeletal system\" [00:10] (slide 9).\n- 2 × 10 g Peptan a day with vitamin C, for a week before 150 drop jumps and two days after, gave 28% less muscle soreness and 13% faster muscle recovery than placebo; the slide marks the soreness result as a likely benefit and the recovery result as significant [00:10] (slide 10).",
     "For Vita Actives": "- Rousselot sells into the same brand problem we do, with a different answer: replace part of the whey with collagen, backed by a head-to-head showing no loss of recovery or performance at 25 g whey plus 20 g Peptan [00:10]. My reading: IsoClr: Pea competes for the same \"smarter formulation\" slot in a brand's protein review, and our pitch should match hers in form: the supply argument first, then evidence that a blend performs.\n- We have no head-to-head of this kind for pea; that is the gap (my reading).\n- Her collagen supply story (four animal sources, little volatility) is the kind of supply-security argument a plant protein can make more strongly (my reading).\n- Nick Morgan named whey plus collagen clear drinks earlier; a clear pea plus collagen format is a possible combination rather than a competition (my reading).\n- The health claims here come from Rousselot's own studies, with her hedges; none are ours. Relevance high: protein blends and whey pricing.",
     "Quotes": "- \"So people should no longer ask when will whey prices go down, but what can we do to work around this?\" Speaker unknown (Tess Plaquet) [00:10]\n- \"...there are more and more launches of products combining whey and collagen, so steady increase over the last couple of years, and yeah, actually an average growth rate of 17.5 percent almost.\" Speaker unknown (Tess Plaquet) [00:10]\n- \"...these two are no competitors; these two already complementary, and when you add in both, you can have extra additional health benefits.\" Speaker unknown (Tess Plaquet) [00:10]\n- \"So actually, the athletes, the recovery was the same, the performance was the same, but you also have more support in your movement system...\" Speaker unknown (Tess Plaquet) [00:10]",
-    "Follow-ups": "- Ask Rousselot for the published papers behind the five Peptan studies (whey against whey plus Peptan; soreness; endotoxins; knee; sleep) and the whey plus collagen launch data [00:10].\n- Her WPC80 price (5.7k a tonne in 2023 to almost 32k in 2026, currency not given) differs from Alan Johnstone's Vesper series (WPC80 about €5/kg in 2023 and €27.00/kg on 25 August 2026, unfiltered-an-insider-s-view-of): ask Rousselot for the source and currency, and note both views until it is clear [00:10].\n- Confirm the speaker's name spelling (programme: Tess Plaquet; introduced as \"Tess Plackett\") [00:10].\n- Question for us: what head-to-head data would show a pea isolate replacing part of the whey without loss of performance? (my reading).",
+    "Follow-ups": "- Find the papers the deck cites: Robberechts et al. 2023 (IJSNEM), Clifford et al. 2019, Taylor et al. 2022, Jiang et al. 2014 and Thomas et al. 2023. Slide 10 gives Clifford et al. the DOI that slide 8 gives Aussieker et al. 2025, so check which paper the soreness figures come from (slide 8) (slide 10).\n- Ask Rousselot which market the WPC80 price on slide 3 is for (slide 3).\n- Question for us: what head-to-head data would show a pea isolate replacing part of the whey without loss of performance? (my reading).",
     "Key slides": "",
-    "Detail": "- What she said about whey: launches of whey food and beverage supplements have grown steadily for two years at seven and a half percent a year; the biggest price rise was in 24 to 25, \"with a growth rate of 8.7\"; and \"in 2023 the price of a ton of whey protein concentrate of 80% was 5.7 k, whereas in 2026 it's almost 32 k. So really, in just three years' time, it's almost a sixfold\" [00:10].\n- Her drivers, which she said mean \"those prices will be here to stay\": demand from active lifestyle consumers, GLP-1 users advised to take extra protein, and China; whey is a by-product of cheese and cannot be scaled easily; gas, electricity, labour, filtration costs, tariffs, geopolitics and climate push the same way [00:10].\n- Whey is a complete protein rich in BCAAs, for muscle building and repair. Peptan is hydrolysed collagen, rich in hydroxyproline (unique to animal-derived collagen and, she said, linked to holistic health benefits), glycine and proline [00:10].\n- The head-to-head: 22 men, 45 g whey against 25 g whey plus 20 g Peptan, three weeks of training, measured on jump height and creatine kinase; no difference between groups at the end [00:10].\n- Soreness: 24 men, 20 g Peptan with vitamin C or placebo for seven days, then 150 jumps [00:10].\n- Endotoxins: 10 g Peptan for seven days, then 45 minutes before a 70-minute run; endotoxins were the same as without exercise, while on placebo they rose. Her hedge: \"...it's really an indication that taking in peptan could lessen the amount of endotoxins in your blood and could reduce your digestive discomfort\" [00:10].\n- Knees: women with mild knee discomfort, 8 g a day for six months; significant improvement in discomfort and function at three months, and further at six [00:10].\n- Sleep: 15 g a day, polysomnography on night seven; awakenings fell from around 30 to 22, subjective sleep improved, and the Peptan group scored 100% on a Stroop test against a weaker placebo group [00:10].\n- Rousselot offers roundtables on application advantages and help incorporating collagen [00:10].",
+    "Detail": "- Her deck arrived after the talk (files/rousselot-whey-collagen-deck.pdf, 23 pages). Slides 17 to 23 come after the closing \"Thank you\" slide and are not in the recording (see the last bullet).\n- Whey launches: food and beverage supplement launches featuring whey grew 7.53% a year from 2023 to 2025 (she said seven and a half percent), from about 18,600 in 2023 to about 19,800 in 2024 and 21,600 in 2025, read from the chart [00:10] (slide 3).\n- The \"8.7\" she gave as the biggest growth yet is, on the slide, the 2024 to 2025 rise of +8.73% in the average price of those launches: US$3.17 per 100 g in 2023, US$3.32 in 2024, US$3.61 in 2025 and US$3.78 in 2026 to date [00:10] (slide 3).\n- WPC80 price: she said \"in 2023 the price of a ton of whey protein concentrate of 80% was 5.7 k, whereas in 2026 it's almost 32 k. So really, in just three years' time, it's almost a sixfold\" [00:10]. The slide gives US$5.7k a tonne in June 2023 and US$31.7k in June 2026; the slide's sources are Mintel and Vesper, and it does not say which market the price is for (slide 3).\n- Another speaker's view of the same price: Alan Johnstone (Nutrilution, unfiltered-an-insider-s-view-of) used Vesper's EU price in euros a kilogram: WPC80 about €5.2 in June 2023 and €27.4 in June 2026, read from his chart, and €27.00 in the week of 25 August 2026. Hers is in US dollars a tonne (US$5.70 and US$31.70 a kilogram). The two differ in currency and unit; both show close to a sixfold rise.\n- Her drivers, which she said mean \"those prices will be here to stay\": demand from active lifestyle consumers, GLP-1 users advised to take extra protein, and China; whey is a by-product of cheese and cannot be scaled easily; gas, electricity, labour, filtration costs, tariffs, geopolitics and climate push the same way [00:10]. The slide groups them as supply and demand imbalance, rising production and operational costs, and global economic and environmental factors, citing The Guardian, Rabobank, ScienceInsights and New Hope Network (slide 4).\n- Whey and collagen launches by year, read from the chart: about 320 in 2023, 320 in 2024, 420 in 2025 and 520 in 2026 to date. The chart's sources are Mintel, Holland & Barrett, ON, David and Rousselot (slide 6).\n- Whey is a complete protein rich in BCAAs, for muscle building and repair. Peptan is hydrolysed collagen, rich in hydroxyproline (unique to animal-derived collagen and, she said, linked to holistic health benefits), glycine and proline [00:10]. The slide adds that whey lacks hydroxyproline and Peptan lacks tryptophan (slide 8).\n- The head-to-head (Robberechts et al., 2023, IJSNEM): randomised, double-blind, parallel; 22 healthy, active men; 45 g whey against 25 g whey plus 20 g Peptan a day; three weeks of training; jump height and creatine kinase measured; no difference between groups at the end [00:10] (slide 9).\n- Soreness (Clifford et al., 2019): 24 men, 2 × 10 g Peptan or maltodextrin placebo with vitamin C from day -7 to day 2, with doses 40 minutes before and straight after 150 drop jumps on day 0; soreness and muscle power at 48 hours. She described it as seven days of 20 g [00:10] (slide 10).\n- Endotoxins (Taylor et al., 2022): randomised, double-blind, cross-over; 20 men; 10 g Peptan or flavoured water for seven days, the last dose 45 minutes before a 70-minute run; endotoxins were the same as without exercise, while on placebo they rose. Her hedge: \"...it's really an indication that taking in peptan could lessen the amount of endotoxins in your blood and could reduce your digestive discomfort\" [00:10]. The slide: \"Peptan could lessen the increase of blood endotoxin levels, a known cause of inflammation\" (slide 11).\n- Knees (Jiang et al., 2014): randomised, placebo-controlled; women with mild knee discomfort, 8 g a day for six months; joint discomfort (WOMAC) fell 10% at three months and 24% at six, and joint function (Lysholm) rose 4% and 7%, the chart marks each change p < 0.001 [00:10] (slide 12).\n- Sleep (Thomas et al., 2023): randomised, double-blind, cross-over; 13 men; 15 g an hour before bed for seven days; polysomnography on night seven. The slide gives a 30% reduction in awakenings; on the chart they fell from about 30 to about 21, read from the chart, where she said \"around 30 to 22, something like that\". On the Stroop test the Peptan group scored about 1.00 against about 0.97 for control, read from the chart; she said the Peptan group \"performed perfectly, 100%\" [00:10] (slide 13).\n- Rousselot offers roundtables on application advantages and help incorporating collagen [00:10] (slide 15).\n- Slides after the close: Nextida GC, which Rousselot says was \"specifically developed to target post-meal glucose spikes & boost GLP-1 secretion\". Two double-blind, placebo-controlled trials (pilot 2024: 16 people, 5 g or 10 g; confirmation 2026: 30 people, 10 g; each taken 30 minutes before a carbohydrate-rich meal). Citing the 2026 study, for 10 g against placebo the slides give a 37% lower glucose spike, a 47% lower glucose peak, 82% more total GLP-1 exposure, a 53% higher GLP-1 response, a 70% higher GIP response and a lower post-meal insulin response. A 2026 Ipsos consumer study for Rousselot in the US (5 g twice a day for six weeks, N = 181) found 80% felt fuller for longer and 55% reported weight loss; the slide says this \"does not constitute a consumer-facing claim\" (slide 17) (slide 19) (slide 20) (slide 21) (slide 22) (slide 23).",
     "Research": ""
    },
    "takeaways": [
     {
-     "text": "Brands have three responses to whey costs: raise the price, shrinkflation, or smarter formulation with protein blends, which she called the most elegant and a way to stand out on shelf [00:10].",
+     "text": "Brands have three responses to whey costs: raise the price, shrinkflation, or smarter formulation with protein blends, which she called the most elegant and a way to stand out on shelf [00:10] (slide 5).",
      "cites": [
-      "00:10"
+      "00:10",
+      "slide 5"
      ]
     },
     {
-     "text": "Launches combining whey and collagen are growing at almost 17.5 percent a year; a 10 g collagen plus 10 g whey product was her example [00:10].",
+     "text": "Launches combining whey and collagen grew at 17.44% a year from 2023 to 2026 to date, led by snacks, cereals and energy bars (39.7%) and nutritional and meal replacement drinks (36.4%); her example, Optimum Nutrition's clear whey isolate with collagen, has 10 g of each [00:10] (slide 6).",
      "cites": [
-      "00:10"
+      "00:10",
+      "slide 6"
      ]
     },
     {
@@ -4189,21 +4482,24 @@
      ]
     },
     {
-     "text": "Whey and collagen are \"no competitors\": whey for muscle, Peptan (rich in hydroxyproline, glycine and proline) for ligaments, tendons, joints and bone [00:10].",
+     "text": "Whey and collagen are \"no competitors\": whey for muscle, Peptan (rich in hydroxyproline, glycine and proline) for ligaments, tendons, joints and bone [00:10] (slide 8).",
      "cites": [
-      "00:10"
+      "00:10",
+      "slide 8"
      ]
     },
     {
-     "text": "In 22 men over three weeks of training, 25 g whey plus 20 g Peptan gave the same recovery and performance as 45 g whey [00:10].",
+     "text": "In 22 men over three weeks of training, 25 g whey plus 20 g Peptan a day gave the same recovery and performance as 45 g whey; the slide says such blends \"may provide broader support across the musculoskeletal system\" [00:10] (slide 9).",
      "cites": [
-      "00:10"
+      "00:10",
+      "slide 9"
      ]
     },
     {
-     "text": "20 g Peptan with vitamin C for seven days gave 28% less muscle soreness and 13% faster muscle recovery than placebo after 150 jumps [00:10].",
+     "text": "2 × 10 g Peptan a day with vitamin C, for a week before 150 drop jumps and two days after, gave 28% less muscle soreness and 13% faster muscle recovery than placebo; the slide marks the soreness result as a likely benefit and the recovery result as significant [00:10] (slide 10).",
      "cites": [
-      "00:10"
+      "00:10",
+      "slide 10"
      ]
     }
    ],
@@ -4234,65 +4530,112 @@
     }
    ],
    "followups": [
-    "Ask Rousselot for the published papers behind the five Peptan studies (whey against whey plus Peptan; soreness; endotoxins; knee; sleep) and the whey plus collagen launch data [00:10].",
-    "Her WPC80 price (5.7k a tonne in 2023 to almost 32k in 2026, currency not given) differs from Alan Johnstone's Vesper series (WPC80 about €5/kg in 2023 and €27.00/kg on 25 August 2026, unfiltered-an-insider-s-view-of): ask Rousselot for the source and currency, and note both views until it is clear [00:10].",
-    "Confirm the speaker's name spelling (programme: Tess Plaquet; introduced as \"Tess Plackett\") [00:10].",
+    "Find the papers the deck cites: Robberechts et al. 2023 (IJSNEM), Clifford et al. 2019, Taylor et al. 2022, Jiang et al. 2014 and Thomas et al. 2023. Slide 10 gives Clifford et al. the DOI that slide 8 gives Aussieker et al. 2025, so check which paper the soreness figures come from (slide 8) (slide 10).",
+    "Ask Rousselot which market the WPC80 price on slide 3 is for (slide 3).",
     "Question for us: what head-to-head data would show a pea isolate replacing part of the whey without loss of performance? (my reading)."
    ],
    "key_slides": [],
    "detail": [
     {
-     "text": "What she said about whey: launches of whey food and beverage supplements have grown steadily for two years at seven and a half percent a year; the biggest price rise was in 24 to 25, \"with a growth rate of 8.7\"; and \"in 2023 the price of a ton of whey protein concentrate of 80% was 5.7 k, whereas in 2026 it's almost 32 k. So really, in just three years' time, it's almost a sixfold\" [00:10].",
+     "text": "Her deck arrived after the talk (files/rousselot-whey-collagen-deck.pdf, 23 pages). Slides 17 to 23 come after the closing \"Thank you\" slide and are not in the recording (see the last bullet).",
+     "cites": []
+    },
+    {
+     "text": "Whey launches: food and beverage supplement launches featuring whey grew 7.53% a year from 2023 to 2025 (she said seven and a half percent), from about 18,600 in 2023 to about 19,800 in 2024 and 21,600 in 2025, read from the chart [00:10] (slide 3).",
      "cites": [
-      "00:10"
+      "00:10",
+      "slide 3"
      ]
     },
     {
-     "text": "Her drivers, which she said mean \"those prices will be here to stay\": demand from active lifestyle consumers, GLP-1 users advised to take extra protein, and China; whey is a by-product of cheese and cannot be scaled easily; gas, electricity, labour, filtration costs, tariffs, geopolitics and climate push the same way [00:10].",
+     "text": "The \"8.7\" she gave as the biggest growth yet is, on the slide, the 2024 to 2025 rise of +8.73% in the average price of those launches: US$3.17 per 100 g in 2023, US$3.32 in 2024, US$3.61 in 2025 and US$3.78 in 2026 to date [00:10] (slide 3).",
      "cites": [
-      "00:10"
+      "00:10",
+      "slide 3"
      ]
     },
     {
-     "text": "Whey is a complete protein rich in BCAAs, for muscle building and repair. Peptan is hydrolysed collagen, rich in hydroxyproline (unique to animal-derived collagen and, she said, linked to holistic health benefits), glycine and proline [00:10].",
+     "text": "WPC80 price: she said \"in 2023 the price of a ton of whey protein concentrate of 80% was 5.7 k, whereas in 2026 it's almost 32 k. So really, in just three years' time, it's almost a sixfold\" [00:10]. The slide gives US$5.7k a tonne in June 2023 and US$31.7k in June 2026; the slide's sources are Mintel and Vesper, and it does not say which market the price is for (slide 3).",
      "cites": [
-      "00:10"
+      "00:10",
+      "slide 3"
      ]
     },
     {
-     "text": "The head-to-head: 22 men, 45 g whey against 25 g whey plus 20 g Peptan, three weeks of training, measured on jump height and creatine kinase; no difference between groups at the end [00:10].",
+     "text": "Another speaker's view of the same price: Alan Johnstone (Nutrilution, unfiltered-an-insider-s-view-of) used Vesper's EU price in euros a kilogram: WPC80 about €5.2 in June 2023 and €27.4 in June 2026, read from his chart, and €27.00 in the week of 25 August 2026. Hers is in US dollars a tonne (US$5.70 and US$31.70 a kilogram). The two differ in currency and unit; both show close to a sixfold rise.",
+     "cites": []
+    },
+    {
+     "text": "Her drivers, which she said mean \"those prices will be here to stay\": demand from active lifestyle consumers, GLP-1 users advised to take extra protein, and China; whey is a by-product of cheese and cannot be scaled easily; gas, electricity, labour, filtration costs, tariffs, geopolitics and climate push the same way [00:10]. The slide groups them as supply and demand imbalance, rising production and operational costs, and global economic and environmental factors, citing The Guardian, Rabobank, ScienceInsights and New Hope Network (slide 4).",
      "cites": [
-      "00:10"
+      "00:10",
+      "slide 4"
      ]
     },
     {
-     "text": "Soreness: 24 men, 20 g Peptan with vitamin C or placebo for seven days, then 150 jumps [00:10].",
+     "text": "Whey and collagen launches by year, read from the chart: about 320 in 2023, 320 in 2024, 420 in 2025 and 520 in 2026 to date. The chart's sources are Mintel, Holland & Barrett, ON, David and Rousselot (slide 6).",
      "cites": [
-      "00:10"
+      "slide 6"
      ]
     },
     {
-     "text": "Endotoxins: 10 g Peptan for seven days, then 45 minutes before a 70-minute run; endotoxins were the same as without exercise, while on placebo they rose. Her hedge: \"...it's really an indication that taking in peptan could lessen the amount of endotoxins in your blood and could reduce your digestive discomfort\" [00:10].",
+     "text": "Whey is a complete protein rich in BCAAs, for muscle building and repair. Peptan is hydrolysed collagen, rich in hydroxyproline (unique to animal-derived collagen and, she said, linked to holistic health benefits), glycine and proline [00:10]. The slide adds that whey lacks hydroxyproline and Peptan lacks tryptophan (slide 8).",
      "cites": [
-      "00:10"
+      "00:10",
+      "slide 8"
      ]
     },
     {
-     "text": "Knees: women with mild knee discomfort, 8 g a day for six months; significant improvement in discomfort and function at three months, and further at six [00:10].",
+     "text": "The head-to-head (Robberechts et al., 2023, IJSNEM): randomised, double-blind, parallel; 22 healthy, active men; 45 g whey against 25 g whey plus 20 g Peptan a day; three weeks of training; jump height and creatine kinase measured; no difference between groups at the end [00:10] (slide 9).",
      "cites": [
-      "00:10"
+      "00:10",
+      "slide 9"
      ]
     },
     {
-     "text": "Sleep: 15 g a day, polysomnography on night seven; awakenings fell from around 30 to 22, subjective sleep improved, and the Peptan group scored 100% on a Stroop test against a weaker placebo group [00:10].",
+     "text": "Soreness (Clifford et al., 2019): 24 men, 2 × 10 g Peptan or maltodextrin placebo with vitamin C from day -7 to day 2, with doses 40 minutes before and straight after 150 drop jumps on day 0; soreness and muscle power at 48 hours. She described it as seven days of 20 g [00:10] (slide 10).",
      "cites": [
-      "00:10"
+      "00:10",
+      "slide 10"
      ]
     },
     {
-     "text": "Rousselot offers roundtables on application advantages and help incorporating collagen [00:10].",
+     "text": "Endotoxins (Taylor et al., 2022): randomised, double-blind, cross-over; 20 men; 10 g Peptan or flavoured water for seven days, the last dose 45 minutes before a 70-minute run; endotoxins were the same as without exercise, while on placebo they rose. Her hedge: \"...it's really an indication that taking in peptan could lessen the amount of endotoxins in your blood and could reduce your digestive discomfort\" [00:10]. The slide: \"Peptan could lessen the increase of blood endotoxin levels, a known cause of inflammation\" (slide 11).",
      "cites": [
-      "00:10"
+      "00:10",
+      "slide 11"
+     ]
+    },
+    {
+     "text": "Knees (Jiang et al., 2014): randomised, placebo-controlled; women with mild knee discomfort, 8 g a day for six months; joint discomfort (WOMAC) fell 10% at three months and 24% at six, and joint function (Lysholm) rose 4% and 7%, the chart marks each change p < 0.001 [00:10] (slide 12).",
+     "cites": [
+      "00:10",
+      "slide 12"
+     ]
+    },
+    {
+     "text": "Sleep (Thomas et al., 2023): randomised, double-blind, cross-over; 13 men; 15 g an hour before bed for seven days; polysomnography on night seven. The slide gives a 30% reduction in awakenings; on the chart they fell from about 30 to about 21, read from the chart, where she said \"around 30 to 22, something like that\". On the Stroop test the Peptan group scored about 1.00 against about 0.97 for control, read from the chart; she said the Peptan group \"performed perfectly, 100%\" [00:10] (slide 13).",
+     "cites": [
+      "00:10",
+      "slide 13"
+     ]
+    },
+    {
+     "text": "Rousselot offers roundtables on application advantages and help incorporating collagen [00:10] (slide 15).",
+     "cites": [
+      "00:10",
+      "slide 15"
+     ]
+    },
+    {
+     "text": "Slides after the close: Nextida GC, which Rousselot says was \"specifically developed to target post-meal glucose spikes & boost GLP-1 secretion\". Two double-blind, placebo-controlled trials (pilot 2024: 16 people, 5 g or 10 g; confirmation 2026: 30 people, 10 g; each taken 30 minutes before a carbohydrate-rich meal). Citing the 2026 study, for 10 g against placebo the slides give a 37% lower glucose spike, a 47% lower glucose peak, 82% more total GLP-1 exposure, a 53% higher GLP-1 response, a 70% higher GIP response and a lower post-meal insulin response. A 2026 Ipsos consumer study for Rousselot in the US (5 g twice a day for six weeks, N = 181) found 80% felt fuller for longer and 55% reported weight loss; the slide says this \"does not constitute a consumer-facing claim\" (slide 17) (slide 19) (slide 20) (slide 21) (slide 22) (slide 23).",
+     "cites": [
+      "slide 17",
+      "slide 19",
+      "slide 20",
+      "slide 21",
+      "slide 22",
+      "slide 23"
      ]
     }
    ],
@@ -4301,6 +4644,11 @@
      "name": "otter-summary.md",
      "kind": "text",
      "pages": null
+    },
+    {
+     "name": "rousselot-whey-collagen-deck.pdf",
+     "kind": "pdf",
+     "pages": 23
     }
    ]
   },
@@ -4582,37 +4930,209 @@
     {
      "name": "Mark Evans",
      "organisation": "Holland & Barrett",
-     "role": ""
+     "role": "Senior Scientist"
     }
    ],
-   "themes": [],
-   "ingredients": [
-    "polyphenols"
+   "themes": [
+    "outcomes-over-mechanisms",
+    "branded-ingredients-differentiation",
+    "marketing-compliance-social"
    ],
-   "relevance": "",
-   "status": "captured",
-   "summary_by": "",
-   "summary_date": "",
+   "ingredients": [
+    "polyphenols",
+    "anthocyanins",
+    "Montmorency cherry",
+    "New Zealand blackcurrant",
+    "pomegranate",
+    "turmeric (curcuminoids)",
+    "cocoa flavanols",
+    "blueberry",
+    "quercetin",
+    "dietary nitrate (beetroot)",
+    "sulforaphane (Nomio, broccoli sprout extract)",
+    "protein",
+    "creatine",
+    "caffeine"
+   ],
+   "relevance": "medium",
+   "status": "summarised",
+   "summary_by": "Claude",
+   "summary_date": "2026-11-23",
    "reviewed_by": "",
    "reviewed_date": "",
    "attended_by": [],
    "links": {
     "otter": "https://otter.ai/u/czP9hEiBGV7ASrKyQI1pL4gsbTg"
    },
-   "to_check": "Only a 35-second clip was recorded and the talk itself is not on record.",
+   "to_check": "Only a 35-second clip of the talk was recorded, so what he said beyond the slides is not on record; the deck is titled \"Polyphenols in Active Nutrition\" and its slide 12 still carries the hidden text \"Insert brand example 2\", so it may be a draft rather than the version shown; and whether Nathan attended this talk.",
    "added": "2026-11-09",
    "added_by": "Claude (from the event app's programme, screenshots from Nathan at 11:39-11:40 on 9 Nov 2026)",
    "has_transcript": true,
    "transcript_words": 134,
    "has_notes": false,
-   "has_summary": false,
-   "summary": null,
-   "takeaways": [],
-   "quotes": [],
-   "followups": [],
+   "has_summary": true,
+   "summary": {
+    "Summary": "Mark Evans, a senior scientist at Holland & Barrett, asked whether polyphenols earn their place in sports nutrition. He began with a quiz. Protein, creatine and caffeine each have a known dose and timing. Polyphenols have general guidance too, but it leaves a question: milligrams of what?\n\nPolyphenols are several thousand compounds, not one thing. The same figure on a label can mean a whole extract, a subclass or a single compound. They work less as antioxidants than as signals. Of the five ways they act, only raising blood flow through nitric oxide shows up consistently in people. Of the four best-studied sources, blackcurrant has the strongest evidence for performance and cherry for recovery.\n\nHis lesson came from outside polyphenols. Beetroot nitrate and a broccoli sprout extract built awareness by teaching a simple rule of use, not a mechanism. Brands are starting to name anthocyanins, and he asked whether consumers will learn the word.\n\nHis answer: for some polyphenols, yes. Cherry at over 1,000 mg a day for recovery and blackcurrant at about 300 mg before exercise are reasonably settled. The industry now has to standardise and declare what is in the product, fund better trials and communicate dose and timing.",
+    "Key takeaways": "- The dose problem: guidance from fruit-polyphenol studies is about 300 mg 1 to 2 hours before exercise for performance and over 1,000 mg a day for at least 3 days around hard exercise for recovery, but the slide asks \"mg of what?\" (slide 3). A label figure can mean total polyphenols, a subclass or one compound; his three questions for any ingredient are which compound, how much and measured how (slide 5).\n- Mechanism: blood levels are too low for polyphenols to act as direct antioxidants; they act as signals. Of five mechanisms, only increased blood flow (nitric oxide) is rated \"consistent\" in humans; the others are rated limited, mostly animal, inconsistent or mostly lab (slide 6).\n- The big four: blackcurrant has the strongest evidence for performance and cherry for recovery; pomegranate (performance) and turmeric (recovery) are equivocal; 3 of the 4 share anthocyanins as a main polyphenol (slide 7).\n- The lesson from nitrate and Nomio: make the dose and timing the message, and let credible users do the teaching. Beetroot nitrate became \"one shot, 2–3 hours before and/or for 1 week prior to competition\" (slide 11).\n- A layered label: \"Rich in polyphenols\" on the front for awareness, \"X mg anthocyanins per serving, standardised and batch tested\" on the back for credibility (slide 12).\n- His three asks of the industry: standardise and declare, fund the right trials (trained athletes, women, blood levels, real outcomes) and communicate dose and timing (slide 13).",
+    "For Vita Actives": "- Relevance medium: polyphenols are outside our range, but a Holland & Barrett scientist set out how he judges a sports ingredient: a declared, standardised dose, the right trials and a simple rule of use (slide 5) (slide 13). My reading: that is the bar CreaWin, IsoClr: Pea and Oxystorm will be held to at that retailer.\n- Oxystorm: his model of success is dietary nitrate, sold as a standardised dose with a timing rule (slide 11), and the one polyphenol effect he rates consistent in humans is blood flow through nitric oxide (slide 6). My reading: lead Oxystorm, a nitrate-rich amaranth extract, with its nitrate dose and when to take it, not its mechanism.\n- Stacking for pre-workout: blackcurrant's performance guidance is about 300 mg 1 to 2 hours before exercise (slide 13); nitrate's rule is 2 to 3 hours before (slide 11). My reading: an anthocyanin plus Oxystorm pre-workout fits one timing window, but no trial of the pair was shown.\n- CreaWin and recovery: creatine is his example of an ingredient with a clear dose and timing, 3 to 5 g a day, daily and ongoing (slide 2). Cherry for recovery is over 1,000 mg a day for at least 3 days before and after hard exercise (slide 13). My reading: a daily recovery formula with CreaWin and tart cherry fits one routine; again, no combined evidence was shown.",
+    "Quotes": "- \"mg of what?\" (slide 3)\n- \"Strong vascular, weak sport\" (slide 8)\n- \"Neither led with mechanism. Both gave people a simple rule and a reason to trust it.\" (slide 11)\n- \"For some polyphenols, yes. Now the industry needs to prove it, and explain it.\" (slide 13)",
+    "Follow-ups": "- Read Howatson and Clifford (2026), Experimental Physiology, doi:10.1113/EP093724, the review behind most of the deck, and Bowtell and Kelly (2019), Sports Medicine 49(Suppl 1):S3–S23.\n- Ask Mark Evans what Holland & Barrett expects a supplier to declare for a standardised sports ingredient, and whether nitrate products are judged the same way.\n- Ask for the final deck: the file has a placeholder for a second brand example on slide 12.\n- Confirm whether Nathan attended and what was said in questions; only a 35-second clip was recorded.",
+    "Key slides": "",
+    "Detail": "- The quiz's reference doses: protein about 0.3 g/kg per meal (20 to 40 g) and about 1.6 g/kg a day for muscle gain, every 3 to 4 hours; creatine 3 to 5 g a day (or 20 g a day for 5 to 7 days to load), about 4 weeks to saturate muscle without loading; caffeine 3 to 6 mg/kg about 60 minutes before exercise (slide 2).\n- Worked examples of the guidance: Montmorency cherry 600 mg twice daily for at least 3 days before and during recovery; pomegranate about 620 mg twice daily for 7 days before and after. Chronic dosing over 1 to 6 weeks showed no clear advantage over a single acute dose for performance. The source review (Bowtell and Kelly, 2019) appeared in a supplement sponsored by the Gatorade Sports Science Institute (slide 3).\n- The four classes: flavonoids (anthocyanins, flavan-3-ols, flavonols such as quercetin, flavanones; the best active-nutrition evidence), phenolic acids, stilbenes (resveratrol) and lignans. Curcuminoids from turmeric do not sit neatly in any class (slide 4).\n- Why label figures do not travel: quick \"total phenolics\" tests also react with vitamin C and can overstate content; variety, harvest and processing change the blend (cherry juice against powder); content varies by batch, so each batch should be tested; \"standardised to X%\" only helps if it says X% of what (slide 5).\n- The five mechanisms by benefit: Nrf2 defences (recovery, limited in humans), blood flow (performance, consistent), new mitochondria (endurance, mostly animal), a shift towards fat as fuel (endurance, inconsistent), calming NF-κB inflammation (recovery, mostly lab) (slide 6).\n- Ones to watch: cocoa flavanols improve blood vessel function (meta-analysis of 42 studies) and hold one of very few authorised polyphenol health claims, but 900 mg before a time trial gave no gain in trained cyclists; blueberry improves blood vessel function within about an hour at 0.3 to 1.9 g polyphenols, and 6 weeks of daily blueberries reduced oxidative stress after a 2.5-hour run, but few studies measure performance (\"early: promising signals\"); quercetin is easy to dose but human effects are small and inconsistent (\"early: mostly animal data\") (slide 8).\n- Beyond sport, he sees strong signals and almost no consumer understanding: the first flavan-3-ol intake guideline (2022) and the cocoa flavanol claim for the heart; wild blueberry improved vascular function and cognition in older adults; most polyphenols reach the colon and interact with gut bacteria. The first to explain them well could lead well beyond sport (slide 9).\n- What good evidence looks like: a standardised extract, total polyphenol and primary anthocyanin doses, trained athletes and women rather than recreational men, blood levels measured with outcomes, performance and strength recovery rather than biomarkers, and pre-registered, independent, properly powered trials (slide 10).\n- Still open: what reaches the blood and does the work, the best dose for each source, and trials in women, older athletes and resistance training (slide 13).\n- Nitrate history: University of Exeter research from around 2009 showed nitrate improved endurance efficiency, and products were standardised to a nitrate dose in a small shot. Nomio's sulforaphane is not a polyphenol but tells the same Nrf2 story; it built high awareness in its audience through endurance athletes and influencers, from a smaller evidence base. The slide cites Nomio as a communication example only (slide 11).\n- Brand examples, read from the images: an AMACX cherry juice, a 500 ml ready-to-drink \"improved formula\" with 125 mg anthocyanins and 30 g carbohydrate at a 2:1 ratio; and a Flycarb \"case study\" post claiming a 5 km time trial 2.7% faster (2.8% in its body text), 37 seconds quicker, after a week of daily New Zealand blackcurrant (300 mg anthocyanins), with a comment imagining stacking Flycarb, ITC and anthocyanins. The slide shows them for illustration only, with no endorsement implied (slide 12).\n- The 35-second clip on record is an anecdote: his wife, an athlete, confused polyphenols with the peptides influencers promote [00:00].",
+    "Research": ""
+   },
+   "takeaways": [
+    {
+     "text": "The dose problem: guidance from fruit-polyphenol studies is about 300 mg 1 to 2 hours before exercise for performance and over 1,000 mg a day for at least 3 days around hard exercise for recovery, but the slide asks \"mg of what?\" (slide 3). A label figure can mean total polyphenols, a subclass or one compound; his three questions for any ingredient are which compound, how much and measured how (slide 5).",
+     "cites": [
+      "slide 3",
+      "slide 5"
+     ]
+    },
+    {
+     "text": "Mechanism: blood levels are too low for polyphenols to act as direct antioxidants; they act as signals. Of five mechanisms, only increased blood flow (nitric oxide) is rated \"consistent\" in humans; the others are rated limited, mostly animal, inconsistent or mostly lab (slide 6).",
+     "cites": [
+      "slide 6"
+     ]
+    },
+    {
+     "text": "The big four: blackcurrant has the strongest evidence for performance and cherry for recovery; pomegranate (performance) and turmeric (recovery) are equivocal; 3 of the 4 share anthocyanins as a main polyphenol (slide 7).",
+     "cites": [
+      "slide 7"
+     ]
+    },
+    {
+     "text": "The lesson from nitrate and Nomio: make the dose and timing the message, and let credible users do the teaching. Beetroot nitrate became \"one shot, 2–3 hours before and/or for 1 week prior to competition\" (slide 11).",
+     "cites": [
+      "slide 11"
+     ]
+    },
+    {
+     "text": "A layered label: \"Rich in polyphenols\" on the front for awareness, \"X mg anthocyanins per serving, standardised and batch tested\" on the back for credibility (slide 12).",
+     "cites": [
+      "slide 12"
+     ]
+    },
+    {
+     "text": "His three asks of the industry: standardise and declare, fund the right trials (trained athletes, women, blood levels, real outcomes) and communicate dose and timing (slide 13).",
+     "cites": [
+      "slide 13"
+     ]
+    }
+   ],
+   "quotes": [
+    {
+     "text": "\"mg of what?\" (slide 3)",
+     "cites": [
+      "slide 3"
+     ]
+    },
+    {
+     "text": "\"Strong vascular, weak sport\" (slide 8)",
+     "cites": [
+      "slide 8"
+     ]
+    },
+    {
+     "text": "\"Neither led with mechanism. Both gave people a simple rule and a reason to trust it.\" (slide 11)",
+     "cites": [
+      "slide 11"
+     ]
+    },
+    {
+     "text": "\"For some polyphenols, yes. Now the industry needs to prove it, and explain it.\" (slide 13)",
+     "cites": [
+      "slide 13"
+     ]
+    }
+   ],
+   "followups": [
+    "Read Howatson and Clifford (2026), Experimental Physiology, doi:10.1113/EP093724, the review behind most of the deck, and Bowtell and Kelly (2019), Sports Medicine 49(Suppl 1):S3–S23.",
+    "Ask Mark Evans what Holland & Barrett expects a supplier to declare for a standardised sports ingredient, and whether nitrate products are judged the same way.",
+    "Ask for the final deck: the file has a placeholder for a second brand example on slide 12.",
+    "Confirm whether Nathan attended and what was said in questions; only a 35-second clip was recorded."
+   ],
    "key_slides": [],
-   "detail": [],
+   "detail": [
+    {
+     "text": "The quiz's reference doses: protein about 0.3 g/kg per meal (20 to 40 g) and about 1.6 g/kg a day for muscle gain, every 3 to 4 hours; creatine 3 to 5 g a day (or 20 g a day for 5 to 7 days to load), about 4 weeks to saturate muscle without loading; caffeine 3 to 6 mg/kg about 60 minutes before exercise (slide 2).",
+     "cites": [
+      "slide 2"
+     ]
+    },
+    {
+     "text": "Worked examples of the guidance: Montmorency cherry 600 mg twice daily for at least 3 days before and during recovery; pomegranate about 620 mg twice daily for 7 days before and after. Chronic dosing over 1 to 6 weeks showed no clear advantage over a single acute dose for performance. The source review (Bowtell and Kelly, 2019) appeared in a supplement sponsored by the Gatorade Sports Science Institute (slide 3).",
+     "cites": [
+      "slide 3"
+     ]
+    },
+    {
+     "text": "The four classes: flavonoids (anthocyanins, flavan-3-ols, flavonols such as quercetin, flavanones; the best active-nutrition evidence), phenolic acids, stilbenes (resveratrol) and lignans. Curcuminoids from turmeric do not sit neatly in any class (slide 4).",
+     "cites": [
+      "slide 4"
+     ]
+    },
+    {
+     "text": "Why label figures do not travel: quick \"total phenolics\" tests also react with vitamin C and can overstate content; variety, harvest and processing change the blend (cherry juice against powder); content varies by batch, so each batch should be tested; \"standardised to X%\" only helps if it says X% of what (slide 5).",
+     "cites": [
+      "slide 5"
+     ]
+    },
+    {
+     "text": "The five mechanisms by benefit: Nrf2 defences (recovery, limited in humans), blood flow (performance, consistent), new mitochondria (endurance, mostly animal), a shift towards fat as fuel (endurance, inconsistent), calming NF-κB inflammation (recovery, mostly lab) (slide 6).",
+     "cites": [
+      "slide 6"
+     ]
+    },
+    {
+     "text": "Ones to watch: cocoa flavanols improve blood vessel function (meta-analysis of 42 studies) and hold one of very few authorised polyphenol health claims, but 900 mg before a time trial gave no gain in trained cyclists; blueberry improves blood vessel function within about an hour at 0.3 to 1.9 g polyphenols, and 6 weeks of daily blueberries reduced oxidative stress after a 2.5-hour run, but few studies measure performance (\"early: promising signals\"); quercetin is easy to dose but human effects are small and inconsistent (\"early: mostly animal data\") (slide 8).",
+     "cites": [
+      "slide 8"
+     ]
+    },
+    {
+     "text": "Beyond sport, he sees strong signals and almost no consumer understanding: the first flavan-3-ol intake guideline (2022) and the cocoa flavanol claim for the heart; wild blueberry improved vascular function and cognition in older adults; most polyphenols reach the colon and interact with gut bacteria. The first to explain them well could lead well beyond sport (slide 9).",
+     "cites": [
+      "slide 9"
+     ]
+    },
+    {
+     "text": "What good evidence looks like: a standardised extract, total polyphenol and primary anthocyanin doses, trained athletes and women rather than recreational men, blood levels measured with outcomes, performance and strength recovery rather than biomarkers, and pre-registered, independent, properly powered trials (slide 10).",
+     "cites": [
+      "slide 10"
+     ]
+    },
+    {
+     "text": "Still open: what reaches the blood and does the work, the best dose for each source, and trials in women, older athletes and resistance training (slide 13).",
+     "cites": [
+      "slide 13"
+     ]
+    },
+    {
+     "text": "Nitrate history: University of Exeter research from around 2009 showed nitrate improved endurance efficiency, and products were standardised to a nitrate dose in a small shot. Nomio's sulforaphane is not a polyphenol but tells the same Nrf2 story; it built high awareness in its audience through endurance athletes and influencers, from a smaller evidence base. The slide cites Nomio as a communication example only (slide 11).",
+     "cites": [
+      "slide 11"
+     ]
+    },
+    {
+     "text": "Brand examples, read from the images: an AMACX cherry juice, a 500 ml ready-to-drink \"improved formula\" with 125 mg anthocyanins and 30 g carbohydrate at a 2:1 ratio; and a Flycarb \"case study\" post claiming a 5 km time trial 2.7% faster (2.8% in its body text), 37 seconds quicker, after a week of daily New Zealand blackcurrant (300 mg anthocyanins), with a comment imagining stacking Flycarb, ITC and anthocyanins. The slide shows them for illustration only, with no endorsement implied (slide 12).",
+     "cites": [
+      "slide 12"
+     ]
+    },
+    {
+     "text": "The 35-second clip on record is an anecdote: his wife, an athlete, confused polyphenols with the peptides influencers promote [00:00].",
+     "cites": [
+      "00:00"
+     ]
+    }
+   ],
    "files": [
+    {
+     "name": "mark-evans-polyphenols-performance-recovery.pdf",
+     "kind": "pdf",
+     "pages": 14
+    },
     {
      "name": "otter-summary.md",
      "kind": "text",
@@ -4636,32 +5156,210 @@
      "role": ""
     }
    ],
-   "themes": [],
-   "ingredients": [
-    "carbohydrate"
+   "themes": [
+    "carbohydrate-fuelling",
+    "female-athlete-nutrition"
    ],
-   "relevance": "",
-   "status": "captured",
-   "summary_by": "",
-   "summary_date": "",
+   "ingredients": [
+    "carbohydrate",
+    "glucose",
+    "fructose",
+    "protein",
+    "iron"
+   ],
+   "relevance": "medium",
+   "status": "summarised",
+   "summary_by": "Claude",
+   "summary_date": "2026-11-23",
    "reviewed_by": "",
    "reviewed_date": "",
-   "attended_by": [],
+   "attended_by": [
+    "Nathan"
+   ],
    "links": {},
-   "to_check": "No slides, transcript or notes filed yet; whether Nathan attended this one.",
+   "to_check": "Her role (the deck gives only \"PhD, RD, FFSEM\"); the organisation's exact name (the programme says Sports Ireland Institute, the deck only an instituteofsport.ie address; my reading, Sport Ireland Institute). Slides only, no recording; most slides are images, so their text was read from the images.",
    "added": "2026-11-09",
    "added_by": "Claude (from the event app's programme, screenshots from Nathan at 11:39-11:40 on 9 Nov 2026)",
    "has_transcript": false,
    "transcript_words": 0,
    "has_notes": false,
-   "has_summary": false,
-   "summary": null,
-   "takeaways": [],
-   "quotes": [],
-   "followups": [],
+   "has_summary": true,
+   "summary": {
+    "Summary": "Dr Sharon Madigan (PhD, RD, FFSEM) started from the slide everyone knows: 1 to 1.2 g of carbohydrate per kg per hour for rapid recovery in the first four hours after exercise. That is correct, she said, but nowhere near the whole story.\n\nHer case is that carbohydrate is a signal, not just fuel. When it is available, the body treats it as safe to invest in bone, iron handling, hormones, immunity and sleep. When it is short, those are switched off to protect muscle output. A glycogen debt shows up as heavy legs the next day. The other costs build silently for weeks, until they appear as a bone stress injury, low ferritin or menstrual dysfunction.\n\nBone, the forgotten tissue, responds to every session in the same window used to fuel muscle. Carbohydrate during running blunts a marker of bone breakdown, and enough energy overall can still leave bone at risk if carbohydrate is low. Back-loading food into the evening, training low and cutting weight carry the same hidden costs, and low carbohydrate also amplifies the hormone that blocks iron absorption after exercise.\n\nShe closed on the limits. Most bone-marker studies are in men and measure hours or weeks, not fractures, and the dose and timing that protect bone are not yet defined.",
+    "Key takeaways": "- Carbohydrate is \"a Signal, Not Just a Substrate\": its availability is \"an electrical green light\" telling the body it is metabolically safe to invest in bone remodelling, iron handling and endocrine function (slide 3) (slide 4).\n- Quick against quiet costs: a glycogen deficit shows as a flat session and heavy legs, usually fixed within a day of good fuelling; bone, iron and hormones give no immediate signal, and by the time a bone stress injury, low ferritin or menstrual dysfunction appears the debt has been building for weeks (slide 5).\n- Bone markers: carbohydrate during running significantly reduces the acute rise in the resorption marker CTX, and carbohydrate with protein after exercise alters bone turnover markers favourably; about 3.5 weeks of a ketogenic diet in race walkers raised resorption and suppressed formation, with incomplete recovery once carbohydrate was restored. The slide notes these are acute responses over hours, mostly in men (Sale et al., 2015) (slide 8).\n- The hidden risk zone: short-term carbohydrate restriction suppresses bone formation more than low energy availability does, so energy intake alone will not flag bone risk and practitioners must screen for carbohydrate availability (Heikura et al., 2020; Fensham et al., 2022) (slide 10).\n- Timing: even with an identical daily total, within-day energy deficiency is linked to unfavourable hormonal profiles in female and male athletes (Fahrenholtz et al., 2018); \"Daily totals cannot save a back-loaded schedule\" (slide 12) (slide 20).\n- Iron: a hard endurance session triggers an IL-6 spike and hepcidin rises over 3-6 hours; low carbohydrate availability amplifies this, \"functionally blocking iron absorption\", so iron-rich meals and supplements should be timed around carbohydrate-restored windows (slide 13).",
+    "For Vita Actives": "- Relevance medium: none of our ingredients was named, but the recovery window she redefines includes carbohydrate with protein, which she shows altering bone turnover markers favourably after exercise (slide 8). My reading: a carbohydrate-plus-clear-protein recovery drink (IsoClr: Pea) has a bone and recovery story beyond muscle, but only as education; her own caveat is that the data are acute markers, mostly in men (slide 8) (slide 19).\n- Women's needs: the quiet costs she names (bone stress injury, low ferritin, menstrual dysfunction) are female-athlete concerns, and she lists athletes with low energy availability or menstrual dysfunction among the absolute contraindications for low-carbohydrate protocols (slide 5) (slide 16). My reading: products for active women should not lean on low-carb positioning.\n- Two speakers, two emphases. Emily Jevons put adequate energy intake first (ISSN position stand) (fuelling-female-performance); Madigan argues that adequate overall energy \"is insufficient to protect the system\" if carbohydrate availability is chronically restricted (slide 9). My reading: the views add up rather than conflict.\n- James Morton's figures (up to 120 g of carbohydrate an hour) are for fuelling during exercise (fuelling-the-female-runner-from-paper); Madigan's 1-1.2 g/kg/h is for recovery after it (slide 2). Different windows, not different advice.\n- Creatine and collagen were not mentioned.",
+    "Quotes": "- \"Most bone-marker studies are in men; menstrual status adds complexity.\" (slide 19)\n- \"We measure markers over hours and weeks, not fractures over years.\" (slide 19)\n- \"How much carbohydrate, and when, is needed to protect bone isn't yet defined.\" (slide 19)",
+    "Follow-ups": "- Confirm her role and the institute's exact name (slide 21 gives an instituteofsport.ie address).\n- Find the papers: Sale et al. 2015 and the Townsend paper on slide 8, Heikura et al. 2020, Fensham et al. 2022, Lodge et al. 2023, Fahrenholtz et al. 2018.\n- Open question: has anyone tested carbohydrate with a plant protein, rather than the protein in the slide 8 studies, on bone turnover markers after exercise, and in women?",
+    "Key slides": "",
+    "Detail": "- The deck's subtitle: \"Clinical Insights on Carbohydrates as a Systemic Survival Signal\" (slide 1). Every slide except 19 is an image; the text below is read from the slide images.\n- The traditional view treats carbohydrate as \"gas in the tank\" to refill muscle glycogen when the next session is close (slide 2). Her paradigm shift: from substrate to signal (\"Governor of systemic safety\"); from muscle and liver to bone, endocrine, immune and iron handling; from flat sessions tomorrow to stress injuries and hormonal dysfunction next month; from daily totals to intra-day timing (slide 4).\n- Glycogen: under 8 hours to the next session, start early and feed often, speed being the main variable; over 24 hours, total carbohydrate over the day matters more than precise timing. Glucose-fructose blends restore liver glycogen more effectively than glucose alone (Burke et al., 2011; Fuchs et al., 2019) (slide 6).\n- \"Bone responds to every single session\": exercise shifts bone turnover in the hours afterwards, the same window used to fuel muscle (slide 7).\n- On slide 8, β-CTX reflects existing bone being broken down and P1NP new bone being laid down; the footnote's second reference is cut off after \"Townse\" (slide 8).\n- The blind spot: low energy availability is measured to prevent the Female Athlete Triad and RED-S, but low carbohydrate availability is a compounding variable. Read from the chart: the low-energy bar is mostly carbohydrate, the low-carb high-fat bar is tall with a thin carbohydrate layer; the bars carry no values (slide 9).\n- Lodge et al. (2023) note that low carbohydrate availability \"operates as an independent risk factor\" within RED-S, overlapping on glycogen stores, bone health (stress injuries), menstrual function and immunity (slide 11).\n- Within-day fuelling, read from the chart: targeted fuelling spreads intake across the day with short deficits; back-loaded fuelling eats little around training and catches up in the evening, with long, deep deficits. The curves are illustrative, without values (slide 12).\n- The switchboard: when carbohydrate drops, power stays with heart, lungs and muscle output, and is cut to bone formation, iron handling, hormonal reproduction and immune defence; this also drives immune disturbance in heavy blocks and disrupts sleep onset and quality (slide 14).\n- Her diagnostic matrix rates targeted fuelling optimal or protected on every line; back-loaded fuelling sub-optimal, with P1NP suppressed, β-CTX elevated and hormones and iron disrupted; train-low variable or compromised, with P1NP highly suppressed and β-CTX highly elevated (slide 15).\n- Train low \"heavily suppresses bone formation and increases injury risk without consistent performance benefits in elite racing\"; repeated weight cuts mean repeated exposure to low carbohydrate availability over a season. Absolute contraindications for low-carbohydrate protocols: adolescent athletes, athletes with low energy availability or menstrual dysfunction, and athletes with a history of bone stress injuries (slide 16).\n- Two more quiet costs: carbohydrate availability influences immune disturbance after prolonged heavy exercise (high risk in heavy blocks, major competitions and travel; Walsh, 2019), and evening carbohydrate influences sleep onset and quality (high risk with late training and evening competitions; Halson, 2014) (slide 17).\n- Making weight: carbohydrate is cut before the weigh-in to reduce glycogen, water and gut content, followed by a panicked refeed limited by gut tolerance (slide 18).\n- Where evidence runs thin: female athletes (mostly male bone-marker studies), adolescents (peak bone mass being built, little direct data), outcomes (markers, not fractures) and dose and timing (slide 19).\n- Her four pillars: protect more than glycogen; fuel recovery early to avoid the within-day deficit; treat low carbohydrate availability as an independent bone-health risk even when calories look adequate; periodise with intent and keep adolescent, low-energy and previously injured athletes off train-low protocols (slide 20).",
+    "Research": ""
+   },
+   "takeaways": [
+    {
+     "text": "Carbohydrate is \"a Signal, Not Just a Substrate\": its availability is \"an electrical green light\" telling the body it is metabolically safe to invest in bone remodelling, iron handling and endocrine function (slide 3) (slide 4).",
+     "cites": [
+      "slide 3",
+      "slide 4"
+     ]
+    },
+    {
+     "text": "Quick against quiet costs: a glycogen deficit shows as a flat session and heavy legs, usually fixed within a day of good fuelling; bone, iron and hormones give no immediate signal, and by the time a bone stress injury, low ferritin or menstrual dysfunction appears the debt has been building for weeks (slide 5).",
+     "cites": [
+      "slide 5"
+     ]
+    },
+    {
+     "text": "Bone markers: carbohydrate during running significantly reduces the acute rise in the resorption marker CTX, and carbohydrate with protein after exercise alters bone turnover markers favourably; about 3.5 weeks of a ketogenic diet in race walkers raised resorption and suppressed formation, with incomplete recovery once carbohydrate was restored. The slide notes these are acute responses over hours, mostly in men (Sale et al., 2015) (slide 8).",
+     "cites": [
+      "slide 8"
+     ]
+    },
+    {
+     "text": "The hidden risk zone: short-term carbohydrate restriction suppresses bone formation more than low energy availability does, so energy intake alone will not flag bone risk and practitioners must screen for carbohydrate availability (Heikura et al., 2020; Fensham et al., 2022) (slide 10).",
+     "cites": [
+      "slide 10"
+     ]
+    },
+    {
+     "text": "Timing: even with an identical daily total, within-day energy deficiency is linked to unfavourable hormonal profiles in female and male athletes (Fahrenholtz et al., 2018); \"Daily totals cannot save a back-loaded schedule\" (slide 12) (slide 20).",
+     "cites": [
+      "slide 12",
+      "slide 20"
+     ]
+    },
+    {
+     "text": "Iron: a hard endurance session triggers an IL-6 spike and hepcidin rises over 3-6 hours; low carbohydrate availability amplifies this, \"functionally blocking iron absorption\", so iron-rich meals and supplements should be timed around carbohydrate-restored windows (slide 13).",
+     "cites": [
+      "slide 13"
+     ]
+    }
+   ],
+   "quotes": [
+    {
+     "text": "\"Most bone-marker studies are in men; menstrual status adds complexity.\" (slide 19)",
+     "cites": [
+      "slide 19"
+     ]
+    },
+    {
+     "text": "\"We measure markers over hours and weeks, not fractures over years.\" (slide 19)",
+     "cites": [
+      "slide 19"
+     ]
+    },
+    {
+     "text": "\"How much carbohydrate, and when, is needed to protect bone isn't yet defined.\" (slide 19)",
+     "cites": [
+      "slide 19"
+     ]
+    }
+   ],
+   "followups": [
+    "Confirm her role and the institute's exact name (slide 21 gives an instituteofsport.ie address).",
+    "Find the papers: Sale et al. 2015 and the Townsend paper on slide 8, Heikura et al. 2020, Fensham et al. 2022, Lodge et al. 2023, Fahrenholtz et al. 2018.",
+    "Open question: has anyone tested carbohydrate with a plant protein, rather than the protein in the slide 8 studies, on bone turnover markers after exercise, and in women?"
+   ],
    "key_slides": [],
-   "detail": [],
-   "files": []
+   "detail": [
+    {
+     "text": "The deck's subtitle: \"Clinical Insights on Carbohydrates as a Systemic Survival Signal\" (slide 1). Every slide except 19 is an image; the text below is read from the slide images.",
+     "cites": [
+      "slide 1"
+     ]
+    },
+    {
+     "text": "The traditional view treats carbohydrate as \"gas in the tank\" to refill muscle glycogen when the next session is close (slide 2). Her paradigm shift: from substrate to signal (\"Governor of systemic safety\"); from muscle and liver to bone, endocrine, immune and iron handling; from flat sessions tomorrow to stress injuries and hormonal dysfunction next month; from daily totals to intra-day timing (slide 4).",
+     "cites": [
+      "slide 2",
+      "slide 4"
+     ]
+    },
+    {
+     "text": "Glycogen: under 8 hours to the next session, start early and feed often, speed being the main variable; over 24 hours, total carbohydrate over the day matters more than precise timing. Glucose-fructose blends restore liver glycogen more effectively than glucose alone (Burke et al., 2011; Fuchs et al., 2019) (slide 6).",
+     "cites": [
+      "slide 6"
+     ]
+    },
+    {
+     "text": "\"Bone responds to every single session\": exercise shifts bone turnover in the hours afterwards, the same window used to fuel muscle (slide 7).",
+     "cites": [
+      "slide 7"
+     ]
+    },
+    {
+     "text": "On slide 8, β-CTX reflects existing bone being broken down and P1NP new bone being laid down; the footnote's second reference is cut off after \"Townse\" (slide 8).",
+     "cites": [
+      "slide 8"
+     ]
+    },
+    {
+     "text": "The blind spot: low energy availability is measured to prevent the Female Athlete Triad and RED-S, but low carbohydrate availability is a compounding variable. Read from the chart: the low-energy bar is mostly carbohydrate, the low-carb high-fat bar is tall with a thin carbohydrate layer; the bars carry no values (slide 9).",
+     "cites": [
+      "slide 9"
+     ]
+    },
+    {
+     "text": "Lodge et al. (2023) note that low carbohydrate availability \"operates as an independent risk factor\" within RED-S, overlapping on glycogen stores, bone health (stress injuries), menstrual function and immunity (slide 11).",
+     "cites": [
+      "slide 11"
+     ]
+    },
+    {
+     "text": "Within-day fuelling, read from the chart: targeted fuelling spreads intake across the day with short deficits; back-loaded fuelling eats little around training and catches up in the evening, with long, deep deficits. The curves are illustrative, without values (slide 12).",
+     "cites": [
+      "slide 12"
+     ]
+    },
+    {
+     "text": "The switchboard: when carbohydrate drops, power stays with heart, lungs and muscle output, and is cut to bone formation, iron handling, hormonal reproduction and immune defence; this also drives immune disturbance in heavy blocks and disrupts sleep onset and quality (slide 14).",
+     "cites": [
+      "slide 14"
+     ]
+    },
+    {
+     "text": "Her diagnostic matrix rates targeted fuelling optimal or protected on every line; back-loaded fuelling sub-optimal, with P1NP suppressed, β-CTX elevated and hormones and iron disrupted; train-low variable or compromised, with P1NP highly suppressed and β-CTX highly elevated (slide 15).",
+     "cites": [
+      "slide 15"
+     ]
+    },
+    {
+     "text": "Train low \"heavily suppresses bone formation and increases injury risk without consistent performance benefits in elite racing\"; repeated weight cuts mean repeated exposure to low carbohydrate availability over a season. Absolute contraindications for low-carbohydrate protocols: adolescent athletes, athletes with low energy availability or menstrual dysfunction, and athletes with a history of bone stress injuries (slide 16).",
+     "cites": [
+      "slide 16"
+     ]
+    },
+    {
+     "text": "Two more quiet costs: carbohydrate availability influences immune disturbance after prolonged heavy exercise (high risk in heavy blocks, major competitions and travel; Walsh, 2019), and evening carbohydrate influences sleep onset and quality (high risk with late training and evening competitions; Halson, 2014) (slide 17).",
+     "cites": [
+      "slide 17"
+     ]
+    },
+    {
+     "text": "Making weight: carbohydrate is cut before the weigh-in to reduce glycogen, water and gut content, followed by a panicked refeed limited by gut tolerance (slide 18).",
+     "cites": [
+      "slide 18"
+     ]
+    },
+    {
+     "text": "Where evidence runs thin: female athletes (mostly male bone-marker studies), adolescents (peak bone mass being built, little direct data), outcomes (markers, not fractures) and dose and timing (slide 19).",
+     "cites": [
+      "slide 19"
+     ]
+    },
+    {
+     "text": "Her four pillars: protect more than glycogen; fuel recovery early to avoid the within-day deficit; treat low carbohydrate availability as an independent bone-health risk even when calories look adequate; periodise with intent and keep adolescent, low-energy and previously injured athletes off train-low protocols (slide 20).",
+     "cites": [
+      "slide 20"
+     ]
+    }
+   ],
+   "files": [
+    {
+     "name": "sharon-madigan-fuel-the-frame.pdf",
+     "kind": "pdf",
+     "pages": 21
+    }
+   ]
   },
   {
    "id": "advancing-sports-and-muscle-health-insights",
@@ -4754,7 +5452,7 @@
     {
      "name": "Morgan Griffiths",
      "organisation": "Lumina Intelligence",
-     "role": ""
+     "role": "Commercial Lead"
     }
    ],
    "themes": [
@@ -4764,12 +5462,21 @@
    "ingredients": [
     "protein",
     "creatine",
-    "CreaWin"
+    "CreaWin",
+    "vitamin D",
+    "multivitamins",
+    "fibre",
+    "probiotics",
+    "omega-3",
+    "prebiotics",
+    "HMB",
+    "postbiotics",
+    "berberine"
    ],
    "relevance": "high",
    "status": "summarised",
    "summary_by": "Claude",
-   "summary_date": "2026-11-10",
+   "summary_date": "2026-11-23",
    "reviewed_by": "",
    "reviewed_date": "",
    "attended_by": [
@@ -4778,7 +5485,7 @@
    "links": {
     "otter": "https://otter.ai/u/wvgHAxfP-V-tLHD4fpz8neQnxbw"
    },
-   "to_check": "Morgan Griffiths' role at Lumina Intelligence, the name of the chair (Speaker 2), the source and sample of the summer survey he quoted, and whether photos of the slides exist (he pointed the room to the side-effects slide).",
+   "to_check": "The name of the chair (Speaker 2); which countries make up the European sample of 352 (the deck says only \"Europe\"); what question slide 16 asked (it repeats slide 14's subtitle); the basis of the 11% by 2031 forecast, which is spoken only, not in the deck.",
    "added": "2026-11-09",
    "added_by": "Claude (from the event app's programme, screenshots from Nathan at 11:39-11:40 on 9 Nov 2026)",
    "has_transcript": true,
@@ -4786,60 +5493,56 @@
    "has_notes": false,
    "has_summary": true,
    "summary": {
-    "Summary": "Morgan Griffiths of Lumina Intelligence argued that GLP-1 drugs, bad news for many food and drink brands, are an opportunity for active nutrition.\n\nHe started with scale. In the UK, 6.1% of people are taking a GLP-1 now, and with past users and those considering it the total is about 18.4 million people. Use is similar in Italy, France, Germany and Spain.\n\nHe then described the users. They are not the obesity population the drugs were designed for: most are women, Gen X or Millennial and better off. They are already health-minded and willing to pay more for quality. Most expect to spend the same or more on food and drink, and near 60% expect to take more supplements, with creatine higher on the list than he expected.\n\nHe saw three openings: side effects, nutrition gaps such as protein intake and muscle loss, and lapsed users, who risk regaining the weight because the drug changed their behaviour without them changing their habits. Huel, Cambridge Nutrition, Portion IQ and Boots are already moving, and Lumina forecasts UK use at around 11% by 2031.",
-    "Key takeaways": "- In the UK, 6.1% currently take GLP-1s, 5.7% have taken them and 15.1% are considering them: together about 18.4 million people [00:08].\n- Current users are not the obesity population the drugs were designed for: 56% female, 63% Gen X or Millennial, 63% ABC1, and 74% happy to pay more for quality [00:08].\n- Two thirds expect to spend the same or more on food and drink, and near 60% are likely to increase their supplement use; creatine was \"maybe slightly higher\" than expected [00:08].\n- The openings are side effects, nutrition gaps (muscle loss, difficulty eating enough protein and nutrients) and lapsed users, with a malnutrition risk for people who eat less without care [00:08].\n- He cited a British Medical Association study: people are four times more likely to regain weight lost with GLP-1 than weight lost by traditional methods [00:08].\n- Putting GLP-1 on pack is \"a kind of a health claim\", so retailer support such as Boots' GLP-1 bays matters [00:08].",
-    "For Vita Actives": "- GLP-1 users are affluent, health-minded and expect to spend more on supplements, and protein and muscle loss are among their concerns [00:08]. My reading: a direct opening for IsoClr: Pea in low-volume, high-protein products, and for CreaWin, since creatine already ranks higher than expected among what users take.\n- Lapsed users are his largest gap [00:08]. My reading: muscle-retention products (protein plus creatine) for people coming off the drugs are a concept to put to customers.\n- Brands avoid \"GLP-1\" on pack and rely on retailer bays like Boots' [00:08]. My reading: supplier support should be evidence on muscle and protein, not GLP-1 wording.\n- The survey covers the UK and four big EU markets, which match our customers' markets [00:08].\n- Relevance high: GLP-1 nutrition and market structure.",
-    "Quotes": "- \"So near 60% of consumers are likely to increase their supplement usage.\" Speaker 1 (Morgan Griffiths) [00:08]\n- \"I guess creatine maybe slightly higher than than you might have thought\" Speaker 1 (Morgan Griffiths) [00:08]\n- \"GLP-1 is unique because your behavior changes, but you do not have to change your behavior.\" Speaker 1 (Morgan Griffiths) [00:08]\n- \"Our data forecasts in the UK alone, it's going to grow to around 11% by 2031.\" Speaker 1 (Morgan Griffiths) [00:08]",
-    "Follow-ups": "- Ask Morgan Griffiths (Lumina Intelligence) for the summer survey (UK, Italy, France, Germany, Spain): sample, the supplement list and the side-effects slide [00:08].\n- Find the British Medical Association study on weight regain after GLP-1 [00:08].\n- Look at the Huel light range, Cambridge Nutrition, Portion IQ and Boots' GLP-1 bays as the benchmark set [00:08].",
+    "Summary": "Morgan Griffiths, Commercial Lead at Lumina Intelligence, argued that GLP-1 drugs, bad news for many food and drink brands, are an opportunity for active nutrition.\n\nHe started with scale. In the UK, almost 27% of people, about 18.4 million, are taking, have taken or are considering a GLP-1. A summer survey found similar use in Italy, France, Germany and Spain.\n\nHe then described the users. They are not the obesity population the drugs were designed for: most are women, Gen X or Millennial and better off. They are already health-minded and happy to pay more for quality. Most European users spend the same or more on food and drink, and most have increased their supplement use. Proteins lead their supplement list; creatine ranked higher than he expected.\n\nHe saw three openings: side effects, access to nutrition (protein, nutrients, muscle loss) and lapsed users. Users are confident of keeping the weight off, but a BMJ study he showed found weight returns almost four times faster after the drugs than after diet and exercise. Huel, Cambridge Nutrition's PortionIQ and Boots are already moving, and Lumina forecasts that UK use will keep growing to 2031.",
+    "Key takeaways": "- In the UK, 6.1% currently use GLP-1s, 5.7% have used them and 15.1% are considering them: almost 27% of the population, c.18.4 million people (slide 8) [00:08].\n- Current UK users are not the obesity population the drugs were designed for: 56% female, 63% Gen X or Millennial, 63% ABC1 (slide 10), and 74% happy to pay more for quality against a 70% average (slide 11).\n- Among European current users (n=352), 57% increased their supplement use, 88% including no change. Proteins lead at 51%; creatine is at 27%, above HMB at 15% (slide 13). He had said \"near 60%\" and \"near 90%\", and creatine was \"maybe slightly higher\" than expected [00:08].\n- The most common challenges on the drugs: fear of weight regain 30%, side effects 29%, cost 29%, reduced food enjoyment 27%, maintaining nutrition 22%, muscle loss concerns 22% and difficulty consuming enough protein 19% (slide 14).\n- 78% of users are confident of keeping the weight off (94% including neutral), yet the BMJ study on his slide found regain almost four times faster after stopping the drugs than after diet and physical activity changes (slide 15, read from the slide image).\n- Putting GLP-1 on pack is \"a kind of a health claim\", so retailer support such as Boots' GLP-1 bays matters [00:08] (slide 17).",
+    "For Vita Actives": "- Proteins top European GLP-1 users' supplement list at 51%, and 27% take creatine (slide 13). My reading: a direct opening for IsoClr: Pea in low-volume, high-protein products, and for CreaWin.\n- Muscle loss concerns (22%) and difficulty consuming enough protein (19%) sit in Lumina's \"access to nutrition\" group, and lapsed users are a group of their own (slide 14). My reading: muscle-retention products (protein plus creatine) for people coming off the drugs are a concept to put to customers.\n- His benchmark set leads on protein: Huel lite at 25 g, PortionIQ at 20 g and 21 g, and a Myprotein clear protein in Boots' GLP-1 display (slide 17, read from the slide image). My reading: a clear protein already sits on the GLP-1 shelf, which fits IsoClr: Pea's clear format.\n- He said brands are careful with GLP-1 wording on pack and lean on retailer support [00:08]. My reading: supplier support should be evidence on muscle and protein, not GLP-1 wording.\n- The European data cover our customers' markets (slide 12) [00:08]. Relevance high: GLP-1 nutrition and market structure.",
+    "Quotes": "- \"I guess creatine maybe slightly higher than than you might have thought\" Speaker 1 (Morgan Griffiths) [00:08]\n- \"GLP-1 is unique because your behavior changes, but you do not have to change your behavior.\" Speaker 1 (Morgan Griffiths) [00:08]\n- \"Our data forecasts in the UK alone, it's going to grow to around 11% by 2031.\" Speaker 1 (Morgan Griffiths) [00:08]\n- \"Will you spot the impact before your competitors?\" (slide 18)",
+    "Follow-ups": "- Ask Morgan Griffiths (Commercial Lead, Lumina Intelligence) which countries make up the European sample of 352, what question slide 16 asked, and for the GLP-1 Navigator sample data (slide 12) (slide 16) (slide 19).\n- Read the BMJ study behind the press release on weight regain (slide 15).\n- Look at Huel lite, PortionIQ and Boots' GLP-1 display as the benchmark set, and at which proteins they use (slide 17).",
     "Key slides": "",
-    "Detail": "- \"So, 6.1% of the UK population are currently taking GLP-1s.\" The considering figure (15.1%) jumped \"by about two thirds, a third to a half\" when the pill was introduced [00:08].\n- The 18.4 million compared: everyone in the UK born since 2000, the UK's Netflix subscribers, or the 12th largest country in Europe [00:08].\n- A summer study found similar current use in Italy, France, Germany and Spain; the US is further ahead [00:08].\n- Current users (6.1%) outnumber vegans and vegetarians combined (5.7%), yet food and drink teams invest more in vegan innovation [00:08].\n- Health-minded: over 55% already make healthy lifestyle choices and 62% look for food with added benefits [00:08].\n- Spend: the most common answer was no change, the net was an increase: \"Two thirds of consumers are likely to spend the same or more when on GLP-1 than not.\" 90 to 95% in the UK buy the drugs privately, at \"one to 300 pounds a month\" [00:08].\n- Supplements: near 90% will use the same or more, with no change included; the list held no surprises apart from creatine, and he saw \"a little bit of white space\" for active nutrition [00:08].\n- Lapsed users: 30% worry about putting weight back on; around 80% think they will keep it off (95% including neutral). Reduced enjoyment of food is another concern [00:08].\n- Why weight returns: GLP-1 changes behaviour without the user changing behaviour; when \"you turn the tap off\", the weight comes back unless habits changed [00:08].\n- Market moves: Huel's lighter version, Cambridge Nutrition and Portion IQ ranges, and Boots' GLP-1 bays and shelf clips [00:08].\n- The talk's recording starts at 16:05 and ends at about 16:24; the next recording (from-hype-to-proof-the-science) starts 12 seconds later, so the two do not overlap (my reading of the recording times).",
+    "Detail": "- The deck is titled \"GLP-Won\", with the subtitle \"The opportunities for the European nutrition & supplements industry\" (slide 1).\n- The context charts: UK population from 50.6 million in 1950 to 68.4 million (Macrotrends); UK adults living with obesity from 5.8% to 27.4% (WHO Global Health Observatory, BMI 30 or over); UK food, drink and catering spend from £54.5bn in 1985 to £328.5bn in 2025 (Defra) (slide 2) (slide 3) (slide 4). He spoke of a calories line [00:08]; the deck's second line is the obesity rate (slide 5).\n- The US chart (Gallup National Health and Well-Being Index, published 28 October 2025) runs from 26.5 in 2009 to a peak of 39.9 in 2022 and 37.0 in 2025, with 2021 circled beside a Wegovy pen (slide 6) (slide 7, read from the chart). He called it US obesity prevalence and said semaglutide had \"a pretty much kind of immediate impact\" [00:08]. The slides do not label the measure.\n- Sources: the UK figures come from Lumina's GLP-1 Navigator and GLP-1 Out of Home Tracking, 24 weeks ending 5 July 2026 (slide 8). The European figures come from Lumina's Global Longevity Study, Europe GLP-1 current users, n=352 (slide 12). The deck does not name the countries; he said the summer study covered Italy, France, Germany and Spain, with the US further ahead [00:08].\n- The 18.4 million equals everyone born since 2000, the UK's Netflix subscribers, or the 12th largest country in Europe, larger than the Netherlands, Belgium, Sweden, Greece, Portugal or Czechia (slide 8). The considering figure jumped \"by about two thirds, a third to a half\" when the pill was introduced [00:08].\n- Current users (6.1%) outnumber vegans and vegetarians combined (5.7%), yet food and drink teams invest more in vegan innovation (slide 9) [00:08].\n- Health-minded: 55% make healthy lifestyle choices (51% average) and 62% look for food with added benefits (52% average) (slide 11). He said \"over 55%\" [00:08].\n- Spend on food and drink since starting treatment: decreased significantly 9.1%, decreased somewhat 23.0%, no change 28.1%, increased somewhat 26.1%, increased significantly 13.6%; net increase 39.6%, net decrease 31.1%. 52% said spending on premium and higher quality food had increased (slide 12). He put the net increase at \"around 30 40%\" and same-or-more at two thirds [00:08]; the bars sum to 67.8% (my sum).\n- 90 to 95% in the UK buy the drugs privately, at \"one to 300 pounds a month\" [00:08].\n- The full supplement list: proteins 51%, vitamin D 50%, multivitamins 48%, fibre 46%, probiotics 37%, omega-3 32%, creatine 27%, prebiotics 20%, anti-inflammatories 15%, HMB 15%, postbiotics 10%, none 4%, other 1% (slide 13). He said these answer \"what supplements they're taking\", held no surprises apart from creatine, and left \"a little bit of white space\" for active nutrition [00:08].\n- The side-effects slide he pointed the room to: nausea 27%, constipation 25%, mood changes 22%, fatigue or low energy 22%, diarrhoea 18%, headaches 18%, dizziness 15%, acid reflux or heartburn 14%, bloating or abdominal pain 14% (\"boating\" on the slide), vomiting 13%, loss of muscle or strength 12%, vision change 7%, other 1% (slide 14) [00:08].\n- The other challenges: long-term sustainability 19%, difficulty consuming enough nutrients 16%, social stigma 12%, access or prescription issues 12%, none 12%. Lumina groups them as lapsed users (fear of regain), side effects (side effects, reduced food enjoyment) and access to nutrition (maintaining nutrition, muscle loss, protein, nutrients); cost is not grouped (slide 14).\n- He saw a malnutrition risk for people who eat less without care, since most buy privately [00:08].\n- Keeping weight off: 78% are confident, 94% including neutral (slide 15); he said around 80% and 95% [00:08], so the spoken and slide figures differ slightly. Their methods: exercise 59%, reducing snacks, sugar or alcohol 45%, increasing protein through everyday foods 35%, meal planning or coaching 33%, eating more whole foods 33%, a calorie-restricted diet 30%, tracking calories or macros 29% (slide 15).\n- The weight-regain study is a BMJ press release, \"Stopping weight loss drugs linked to weight regain and reversal of heart health markers\": average regain 0.4 kg a month, all weight lost likely regained in under two years, and regain almost four times faster than after diet and physical activity changes, whatever the amount lost (slide 15, read from the slide image). He attributed it to the British Medical Association and said people are \"four times more likely\" to regain [00:08]; the slide says The BMJ and four times faster, so the two differ.\n- Why weight returns: GLP-1 changes behaviour without the user changing behaviour; when \"you turn the tap off\", the weight comes back unless habits changed. Users go out more, to bars, pubs and restaurants [00:08].\n- \"Perhaps this presents the biggest unexplored opportunity?\": vitamins and minerals 52%, protein supplements or products 38%, probiotics 36%, fibre supplements 36%, functional foods or drinks 33%, berberine or dihydroberberine 11%, none 6%, other 1% (slide 16). The slide repeats slide 14's subtitle and does not say what was asked; he spoke here of lapsed users and of too little signposting for people coming off the drugs [00:08].\n- Current innovation: Huel lite (banana, strawberry, chocolate; 25 g protein, 2 g sugar); Cambridge Nutrition's PortionIQ, with \"GLP-1 Support\" on pack (vegetable soup with 20 g protein, a mixed berry shake with 21 g, electrolytes); and a Boots display, \"Are you or someone you know on a GLP1 journey?\", with Myprotein clear protein, Wellthy by Boots, Humantra electrolytes, L'Oréal Elvive and Boots Good Gut (slide 17, read from the slide image). PortionIQ is Cambridge Nutrition's range, not a separate brand (slide 17).\n- He also mentioned Boots' shelf clips on hair and skin issues for people on GLP-1 [00:08].\n- The 11% by 2031 forecast for UK current users was spoken; it is not in the deck [00:08].\n- Lumina sells the data as the GLP-1 Navigator, with sample data behind a QR code; his contact is on the slide (slide 19). Before Lumina he worked at Nesta, a health innovation charity, and has followed GLP-1 for about six years [00:08].\n- The talk's recording starts at 16:05 and ends at about 16:24; the next recording (from-hype-to-proof-the-science) starts 12 seconds later, so the two do not overlap (my reading of the recording times).",
     "Research": ""
    },
    "takeaways": [
     {
-     "text": "In the UK, 6.1% currently take GLP-1s, 5.7% have taken them and 15.1% are considering them: together about 18.4 million people [00:08].",
+     "text": "In the UK, 6.1% currently use GLP-1s, 5.7% have used them and 15.1% are considering them: almost 27% of the population, c.18.4 million people (slide 8) [00:08].",
      "cites": [
+      "slide 8",
       "00:08"
      ]
     },
     {
-     "text": "Current users are not the obesity population the drugs were designed for: 56% female, 63% Gen X or Millennial, 63% ABC1, and 74% happy to pay more for quality [00:08].",
+     "text": "Current UK users are not the obesity population the drugs were designed for: 56% female, 63% Gen X or Millennial, 63% ABC1 (slide 10), and 74% happy to pay more for quality against a 70% average (slide 11).",
      "cites": [
+      "slide 10",
+      "slide 11"
+     ]
+    },
+    {
+     "text": "Among European current users (n=352), 57% increased their supplement use, 88% including no change. Proteins lead at 51%; creatine is at 27%, above HMB at 15% (slide 13). He had said \"near 60%\" and \"near 90%\", and creatine was \"maybe slightly higher\" than expected [00:08].",
+     "cites": [
+      "slide 13",
       "00:08"
      ]
     },
     {
-     "text": "Two thirds expect to spend the same or more on food and drink, and near 60% are likely to increase their supplement use; creatine was \"maybe slightly higher\" than expected [00:08].",
+     "text": "The most common challenges on the drugs: fear of weight regain 30%, side effects 29%, cost 29%, reduced food enjoyment 27%, maintaining nutrition 22%, muscle loss concerns 22% and difficulty consuming enough protein 19% (slide 14).",
      "cites": [
-      "00:08"
+      "slide 14"
      ]
     },
     {
-     "text": "The openings are side effects, nutrition gaps (muscle loss, difficulty eating enough protein and nutrients) and lapsed users, with a malnutrition risk for people who eat less without care [00:08].",
-     "cites": [
-      "00:08"
-     ]
+     "text": "78% of users are confident of keeping the weight off (94% including neutral), yet the BMJ study on his slide found regain almost four times faster after stopping the drugs than after diet and physical activity changes (slide 15, read from the slide image).",
+     "cites": []
     },
     {
-     "text": "He cited a British Medical Association study: people are four times more likely to regain weight lost with GLP-1 than weight lost by traditional methods [00:08].",
+     "text": "Putting GLP-1 on pack is \"a kind of a health claim\", so retailer support such as Boots' GLP-1 bays matters [00:08] (slide 17).",
      "cites": [
-      "00:08"
-     ]
-    },
-    {
-     "text": "Putting GLP-1 on pack is \"a kind of a health claim\", so retailer support such as Boots' GLP-1 bays matters [00:08].",
-     "cites": [
-      "00:08"
+      "00:08",
+      "slide 17"
      ]
     }
    ],
    "quotes": [
-    {
-     "text": "\"So near 60% of consumers are likely to increase their supplement usage.\" Speaker 1 (Morgan Griffiths) [00:08]",
-     "cites": [
-      "00:08"
-     ]
-    },
     {
      "text": "\"I guess creatine maybe slightly higher than than you might have thought\" Speaker 1 (Morgan Griffiths) [00:08]",
      "cites": [
@@ -4857,72 +5560,161 @@
      "cites": [
       "00:08"
      ]
+    },
+    {
+     "text": "\"Will you spot the impact before your competitors?\" (slide 18)",
+     "cites": [
+      "slide 18"
+     ]
     }
    ],
    "followups": [
-    "Ask Morgan Griffiths (Lumina Intelligence) for the summer survey (UK, Italy, France, Germany, Spain): sample, the supplement list and the side-effects slide [00:08].",
-    "Find the British Medical Association study on weight regain after GLP-1 [00:08].",
-    "Look at the Huel light range, Cambridge Nutrition, Portion IQ and Boots' GLP-1 bays as the benchmark set [00:08]."
+    "Ask Morgan Griffiths (Commercial Lead, Lumina Intelligence) which countries make up the European sample of 352, what question slide 16 asked, and for the GLP-1 Navigator sample data (slide 12) (slide 16) (slide 19).",
+    "Read the BMJ study behind the press release on weight regain (slide 15).",
+    "Look at Huel lite, PortionIQ and Boots' GLP-1 display as the benchmark set, and at which proteins they use (slide 17)."
    ],
    "key_slides": [],
    "detail": [
     {
-     "text": "\"So, 6.1% of the UK population are currently taking GLP-1s.\" The considering figure (15.1%) jumped \"by about two thirds, a third to a half\" when the pill was introduced [00:08].",
+     "text": "The deck is titled \"GLP-Won\", with the subtitle \"The opportunities for the European nutrition & supplements industry\" (slide 1).",
+     "cites": [
+      "slide 1"
+     ]
+    },
+    {
+     "text": "The context charts: UK population from 50.6 million in 1950 to 68.4 million (Macrotrends); UK adults living with obesity from 5.8% to 27.4% (WHO Global Health Observatory, BMI 30 or over); UK food, drink and catering spend from £54.5bn in 1985 to £328.5bn in 2025 (Defra) (slide 2) (slide 3) (slide 4). He spoke of a calories line [00:08]; the deck's second line is the obesity rate (slide 5).",
+     "cites": [
+      "slide 2",
+      "slide 3",
+      "slide 4",
+      "00:08",
+      "slide 5"
+     ]
+    },
+    {
+     "text": "The US chart (Gallup National Health and Well-Being Index, published 28 October 2025) runs from 26.5 in 2009 to a peak of 39.9 in 2022 and 37.0 in 2025, with 2021 circled beside a Wegovy pen (slide 6) (slide 7, read from the chart). He called it US obesity prevalence and said semaglutide had \"a pretty much kind of immediate impact\" [00:08]. The slides do not label the measure.",
+     "cites": [
+      "slide 6",
+      "00:08"
+     ]
+    },
+    {
+     "text": "Sources: the UK figures come from Lumina's GLP-1 Navigator and GLP-1 Out of Home Tracking, 24 weeks ending 5 July 2026 (slide 8). The European figures come from Lumina's Global Longevity Study, Europe GLP-1 current users, n=352 (slide 12). The deck does not name the countries; he said the summer study covered Italy, France, Germany and Spain, with the US further ahead [00:08].",
+     "cites": [
+      "slide 8",
+      "slide 12",
+      "00:08"
+     ]
+    },
+    {
+     "text": "The 18.4 million equals everyone born since 2000, the UK's Netflix subscribers, or the 12th largest country in Europe, larger than the Netherlands, Belgium, Sweden, Greece, Portugal or Czechia (slide 8). The considering figure jumped \"by about two thirds, a third to a half\" when the pill was introduced [00:08].",
+     "cites": [
+      "slide 8",
+      "00:08"
+     ]
+    },
+    {
+     "text": "Current users (6.1%) outnumber vegans and vegetarians combined (5.7%), yet food and drink teams invest more in vegan innovation (slide 9) [00:08].",
+     "cites": [
+      "slide 9",
+      "00:08"
+     ]
+    },
+    {
+     "text": "Health-minded: 55% make healthy lifestyle choices (51% average) and 62% look for food with added benefits (52% average) (slide 11). He said \"over 55%\" [00:08].",
+     "cites": [
+      "slide 11",
+      "00:08"
+     ]
+    },
+    {
+     "text": "Spend on food and drink since starting treatment: decreased significantly 9.1%, decreased somewhat 23.0%, no change 28.1%, increased somewhat 26.1%, increased significantly 13.6%; net increase 39.6%, net decrease 31.1%. 52% said spending on premium and higher quality food had increased (slide 12). He put the net increase at \"around 30 40%\" and same-or-more at two thirds [00:08]; the bars sum to 67.8% (my sum).",
+     "cites": [
+      "slide 12",
+      "00:08"
+     ]
+    },
+    {
+     "text": "90 to 95% in the UK buy the drugs privately, at \"one to 300 pounds a month\" [00:08].",
      "cites": [
       "00:08"
      ]
     },
     {
-     "text": "The 18.4 million compared: everyone in the UK born since 2000, the UK's Netflix subscribers, or the 12th largest country in Europe [00:08].",
+     "text": "The full supplement list: proteins 51%, vitamin D 50%, multivitamins 48%, fibre 46%, probiotics 37%, omega-3 32%, creatine 27%, prebiotics 20%, anti-inflammatories 15%, HMB 15%, postbiotics 10%, none 4%, other 1% (slide 13). He said these answer \"what supplements they're taking\", held no surprises apart from creatine, and left \"a little bit of white space\" for active nutrition [00:08].",
+     "cites": [
+      "slide 13",
+      "00:08"
+     ]
+    },
+    {
+     "text": "The side-effects slide he pointed the room to: nausea 27%, constipation 25%, mood changes 22%, fatigue or low energy 22%, diarrhoea 18%, headaches 18%, dizziness 15%, acid reflux or heartburn 14%, bloating or abdominal pain 14% (\"boating\" on the slide), vomiting 13%, loss of muscle or strength 12%, vision change 7%, other 1% (slide 14) [00:08].",
+     "cites": [
+      "slide 14",
+      "00:08"
+     ]
+    },
+    {
+     "text": "The other challenges: long-term sustainability 19%, difficulty consuming enough nutrients 16%, social stigma 12%, access or prescription issues 12%, none 12%. Lumina groups them as lapsed users (fear of regain), side effects (side effects, reduced food enjoyment) and access to nutrition (maintaining nutrition, muscle loss, protein, nutrients); cost is not grouped (slide 14).",
+     "cites": [
+      "slide 14"
+     ]
+    },
+    {
+     "text": "He saw a malnutrition risk for people who eat less without care, since most buy privately [00:08].",
      "cites": [
       "00:08"
      ]
     },
     {
-     "text": "A summer study found similar current use in Italy, France, Germany and Spain; the US is further ahead [00:08].",
+     "text": "Keeping weight off: 78% are confident, 94% including neutral (slide 15); he said around 80% and 95% [00:08], so the spoken and slide figures differ slightly. Their methods: exercise 59%, reducing snacks, sugar or alcohol 45%, increasing protein through everyday foods 35%, meal planning or coaching 33%, eating more whole foods 33%, a calorie-restricted diet 30%, tracking calories or macros 29% (slide 15).",
+     "cites": [
+      "slide 15",
+      "00:08",
+      "slide 15"
+     ]
+    },
+    {
+     "text": "The weight-regain study is a BMJ press release, \"Stopping weight loss drugs linked to weight regain and reversal of heart health markers\": average regain 0.4 kg a month, all weight lost likely regained in under two years, and regain almost four times faster than after diet and physical activity changes, whatever the amount lost (slide 15, read from the slide image). He attributed it to the British Medical Association and said people are \"four times more likely\" to regain [00:08]; the slide says The BMJ and four times faster, so the two differ.",
      "cites": [
       "00:08"
      ]
     },
     {
-     "text": "Current users (6.1%) outnumber vegans and vegetarians combined (5.7%), yet food and drink teams invest more in vegan innovation [00:08].",
+     "text": "Why weight returns: GLP-1 changes behaviour without the user changing behaviour; when \"you turn the tap off\", the weight comes back unless habits changed. Users go out more, to bars, pubs and restaurants [00:08].",
      "cites": [
       "00:08"
      ]
     },
     {
-     "text": "Health-minded: over 55% already make healthy lifestyle choices and 62% look for food with added benefits [00:08].",
+     "text": "\"Perhaps this presents the biggest unexplored opportunity?\": vitamins and minerals 52%, protein supplements or products 38%, probiotics 36%, fibre supplements 36%, functional foods or drinks 33%, berberine or dihydroberberine 11%, none 6%, other 1% (slide 16). The slide repeats slide 14's subtitle and does not say what was asked; he spoke here of lapsed users and of too little signposting for people coming off the drugs [00:08].",
+     "cites": [
+      "slide 16",
+      "00:08"
+     ]
+    },
+    {
+     "text": "Current innovation: Huel lite (banana, strawberry, chocolate; 25 g protein, 2 g sugar); Cambridge Nutrition's PortionIQ, with \"GLP-1 Support\" on pack (vegetable soup with 20 g protein, a mixed berry shake with 21 g, electrolytes); and a Boots display, \"Are you or someone you know on a GLP1 journey?\", with Myprotein clear protein, Wellthy by Boots, Humantra electrolytes, L'Oréal Elvive and Boots Good Gut (slide 17, read from the slide image). PortionIQ is Cambridge Nutrition's range, not a separate brand (slide 17).",
+     "cites": [
+      "slide 17"
+     ]
+    },
+    {
+     "text": "He also mentioned Boots' shelf clips on hair and skin issues for people on GLP-1 [00:08].",
      "cites": [
       "00:08"
      ]
     },
     {
-     "text": "Spend: the most common answer was no change, the net was an increase: \"Two thirds of consumers are likely to spend the same or more when on GLP-1 than not.\" 90 to 95% in the UK buy the drugs privately, at \"one to 300 pounds a month\" [00:08].",
+     "text": "The 11% by 2031 forecast for UK current users was spoken; it is not in the deck [00:08].",
      "cites": [
       "00:08"
      ]
     },
     {
-     "text": "Supplements: near 90% will use the same or more, with no change included; the list held no surprises apart from creatine, and he saw \"a little bit of white space\" for active nutrition [00:08].",
+     "text": "Lumina sells the data as the GLP-1 Navigator, with sample data behind a QR code; his contact is on the slide (slide 19). Before Lumina he worked at Nesta, a health innovation charity, and has followed GLP-1 for about six years [00:08].",
      "cites": [
-      "00:08"
-     ]
-    },
-    {
-     "text": "Lapsed users: 30% worry about putting weight back on; around 80% think they will keep it off (95% including neutral). Reduced enjoyment of food is another concern [00:08].",
-     "cites": [
-      "00:08"
-     ]
-    },
-    {
-     "text": "Why weight returns: GLP-1 changes behaviour without the user changing behaviour; when \"you turn the tap off\", the weight comes back unless habits changed [00:08].",
-     "cites": [
-      "00:08"
-     ]
-    },
-    {
-     "text": "Market moves: Huel's lighter version, Cambridge Nutrition and Portion IQ ranges, and Boots' GLP-1 bays and shelf clips [00:08].",
-     "cites": [
+      "slide 19",
       "00:08"
      ]
     },
@@ -4932,6 +5724,11 @@
     }
    ],
    "files": [
+    {
+     "name": "lumina-glp-won-deck.pdf",
+     "kind": "pdf",
+     "pages": 19
+    },
     {
      "name": "otter-summary.md",
      "kind": "text",
@@ -4997,8 +5794,8 @@
    "speakers": [
     {
      "name": "Gulrez Zariwala",
-     "organisation": "Centre for Nutraceuticals",
-     "role": "Founder director (as he introduced himself)"
+     "organisation": "Centre for Nutraceuticals, University of Westminster",
+     "role": "Director and Founder; Professor of Translational Physiology"
     }
    ],
    "themes": [
@@ -5011,11 +5808,12 @@
     "whey protein isolate",
     "potato protein",
     "rice protein",
-    "OEA",
+    "OEA (TRPTI)",
     "berberine",
     "cinnamon",
     "bitter compounds",
-    "Redicools (standardised mulberry extract; Otter's spelling)",
+    "quercetin",
+    "Reducose (mulberry leaf extract, Phynova)",
     "curcumin",
     "fibre",
     "probiotics",
@@ -5024,7 +5822,7 @@
    "relevance": "high",
    "status": "summarised",
    "summary_by": "Claude",
-   "summary_date": "2026-11-10",
+   "summary_date": "2026-11-23",
    "reviewed_by": "",
    "reviewed_date": "",
    "attended_by": [
@@ -5033,7 +5831,7 @@
    "links": {
     "otter": "https://otter.ai/u/dBvLceBTr1YTpQ3D_hK0fHOy5uE"
    },
-   "to_check": "His university (the recording starts mid-sentence on \"Of Westminster\"), the spelling of the mulberry extract and its sponsor (Otter: \"Redicools\", \"Finova\") and of the lipid molecule Otter heard as \"tripty\", the unit of the 19 and 21 food-noise reductions, and whether photos of the slides exist.",
+   "to_check": "The unit of the 19 and 21 food-noise reductions; which SATISPHY arm and time point the deck's +140% GLP-1 and -23% appetite refer to; the name of the chair (Speaker 1).",
    "added": "2026-11-09",
    "added_by": "Claude (from the event app's programme, screenshots from Nathan at 11:39-11:40 on 9 Nov 2026)",
    "has_transcript": true,
@@ -5041,62 +5839,63 @@
    "has_notes": false,
    "has_summary": true,
    "summary": {
-    "Summary": "Gulrez Zariwala, founder director of the Centre for Nutraceuticals, asked which supplements aimed at GLP-1 and appetite have science behind them.\n\nHe began with the biology. Gut hormones such as GLP-1 and PYY signal fullness, and ghrelin signals hunger. Earlier obesity drugs that acted on the brain carried psychiatric risks, which turned the field to gut hormones. GLP-1 drugs give weight loss of five to 15%, but some of what is lost is muscle.\n\nThe boom in GLP-1 supplements, he said, has brought lawsuits, regulatory clampdowns and lower consumer confidence. He then went through the candidates. Proteins have an undisputed effect on GLP-1 release. Berberine, cinnamon and bitter compounds have plausible mechanisms but modest effects and few human studies. His centre's own trials found that potato protein raised GLP-1 as much as whey protein isolate, and that a mulberry extract raised GLP-1 and reduced appetite and food noise.\n\nHis conclusion: supplements may fill a gap for current or lapsed users, but none can match a drug, so expectations need managing. Products with scientific validation increase market resilience, and GLP-1 use creates demand for proteins, fibre, probiotics and multivitamins.",
-    "Key takeaways": "- GLP-1 drugs give weight loss of \"between five to 15%\", but users lose body weight rather than only body fat, and muscle loss \"can lead to sarcopenia\" [00:15].\n- The GLP-1 supplement boom brought \"some high-profile lawsuits\", regulatory clampdowns and lower consumer confidence [00:15].\n- Proteins have an \"undisputed effect\" on GLP-1 secretion, depending on quality and amino acid profile [00:15].\n- Berberine, cinnamon and bitter compounds have mechanisms but \"mild to modest\" effects and few human studies [00:15].\n- In his centre's appetite trial, potato protein and whey protein isolate raised GLP-1 significantly and equally [00:15].\n- A mulberry extract significantly raised GLP-1 at 180 minutes and significantly reduced appetite and food noise; the paper is due to be submitted next week [00:15].",
-    "For Vita Actives": "- A plant protein matched whey protein isolate on GLP-1 response in his trial; that was potato protein, not pea [00:15]. My reading: this opens a satiety angle for IsoClr: Pea, but only with our own data, and his centre runs exactly this protocol for industry partners.\n- Muscle loss on GLP-1 drugs is his headline risk, and protein is the one supplement class he called validated on both satiety and muscle [00:15]. My reading: protein for GLP-1 users is a pitch with science behind it; CreaWin's place there would rest on its muscle evidence, which he did not discuss.\n- His warning on overclaiming (lawsuits, clampdowns) fits EU claims rules [00:15]. My reading: we should not let customers imply GLP-1 effects for our ingredients.\n- Relevance high: GLP-1 nutrition and protein.",
-    "Quotes": "- \"Proteins have an undisputed effect on GLP-1 secretion, both mechanistically, animal models, human study.\" Speaker 2 (Gulrez Zariwala) [00:15]\n- \"So a significant increase in GLP-1, increase sorry reduction in appetite and reduction in food noise.\" Speaker 2 (Gulrez Zariwala) [00:15]\n- \"There is no natural supplement solution that can match the magnitude of response which you will get with a pharmacological drug...\" Speaker 2 (Gulrez Zariwala) [00:15]\n- \"...products that have scientific validation increase market resilience...\" Speaker 2 (Gulrez Zariwala) [00:15]",
-    "Follow-ups": "- Gulrez Zariwala (Centre for Nutraceuticals): ask about a satiety and GLP-1 trial for a clear pea protein, on the protocol of his potato protein study [00:15].\n- Find his published plant protein and whey protein isolate papers (the metabolic study and the appetite study) and watch for the mulberry extract paper, due to be submitted next week [00:15].\n- Confirm the names Otter heard as \"Redicools\", \"Finova\" and \"tripty\", and his university affiliation (the recording begins \"Of Westminster\") [00:00], [00:15].",
+    "Summary": "Professor Gulrez Zariwala, founder and director of the Centre for Nutraceuticals at the University of Westminster, asked which supplements aimed at GLP-1 and appetite have science behind them.\n\nHe began with the biology. Gut hormones such as GLP-1 and PYY signal fullness, and ghrelin signals hunger. Earlier obesity drugs that acted on the brain carried psychiatric risks, which turned the field to gut hormones. GLP-1 drugs bring dramatic weight loss, but about 40% of the weight lost is lean body mass.\n\nThe boom in GLP-1 supplements, he said, has brought lawsuits, regulatory clampdowns and lower consumer confidence. He then went through the candidates. Proteins have an undisputed effect on GLP-1 release. Berberine, cinnamon and bitter compounds have plausible mechanisms but modest effects and few human studies. His centre's own trials, both still unpublished, found that potato protein raised GLP-1 comparably to whey protein isolate, and that Phynova's mulberry leaf extract, Reducose, raised post-meal GLP-1 by 140% and cut appetite by 23% against placebo.\n\nHis conclusion: supplements may fill a gap for current or lapsed users, but none can match a drug, so expectations need managing. Products with strong scientific substantiation stand out, and GLP-1 use creates demand for micronutrients, protein, fibre and probiotics.",
+    "Key takeaways": "- GLP-1 drugs give weight loss of \"between five to 15%\" [00:15]; his table gives 3.6% for liraglutide, 11.4% for semaglutide and 15.0% for tirzepatide (slide 17).\n- Up to 50% of users have GI symptoms and about 40% of the weight reduction comes from lean body mass (slide 20). He said muscle loss \"can lead to sarcopenia\" [00:15]; his slide lists sarcopenia with \"insufficient evidence\" (slide 20, read from the slide image).\n- Proteins have an \"undisputed effect\" on GLP-1 secretion; high-protein meals trigger GLP-1 and PYY, and the effect depends on the amino acid profile, such as leucine [00:15] (slide 23).\n- Berberine, cinnamon and bitter compounds have mechanisms but \"mild to modest\" effects and few human studies; berberine \"does not directly bind to or activate GLP-1 receptors\" [00:15] (slide 25) (slide 26).\n- In his centre's APPETITE trial (12 participants; porridge alone, with potato protein or with whey protein), both proteins gave a comparable, significant increase in GLP-1 secretion (slide 28) (slide 30).\n- In the SATISPHY trial of Reducose (40 participants), post-meal GLP-1 rose 140% and appetite fell 23% against placebo, with \"a marked reduction in appetite as well as food noise\"; both trials are unpublished, manuscripts in progress (slide 31) (slide 33).",
+    "For Vita Actives": "- A plant protein matched whey protein isolate on GLP-1 in his trial; that was potato protein, not pea, and whey raised GIP more than potato did (slide 30). My reading: this opens a satiety angle for IsoClr: Pea, but only with our own data, and his centre runs exactly this protocol for industry partners [00:15].\n- Lean mass is about 40% of the weight lost on the drugs (slide 20), and protein is the one supplement class he called validated on both satiety and muscle [00:15]. My reading: protein for GLP-1 users is a pitch with science behind it; CreaWin's place there would rest on its muscle evidence, which he did not discuss.\n- His protein slide shows Applied Nutrition's \"GLP1 Friendly\" range, including Complete Protein and an Energy + Creatine product (slide 23, read from the slide image). My reading: a UK sports brand already pairs protein and creatine with GLP-1 positioning; worth a look as a customer.\n- His warning on overclaiming (lawsuits, clampdowns, an FDA warning letter) fits EU claims rules [00:15] (slide 22). My reading: we should not let customers imply GLP-1 effects for our ingredients.\n- Relevance high: GLP-1 nutrition and protein.",
+    "Quotes": "- \"Proteins have an undisputed effect on GLP-1 secretion, both mechanistically, animal models, human study.\" Speaker 2 (Gulrez Zariwala) [00:15]\n- \"There is no natural supplement solution that can match the magnitude of response which you will get with a pharmacological drug...\" Speaker 2 (Gulrez Zariwala) [00:15]\n- \"...products that have scientific validation increase market resilience...\" Speaker 2 (Gulrez Zariwala) [00:15]\n- \"Comparable, significant increase in GLP-1 secretion following protein supplementation\" (slide 30)",
+    "Follow-ups": "- Gulrez Zariwala (Centre for Nutraceuticals, University of Westminster): ask about a satiety and GLP-1 trial for a clear pea protein on the APPETITE protocol, and which potato protein that trial used (slide 1) (slide 28) [00:15].\n- Read Tiekou Lorinczova et al. (2021) and watch for the APPETITE and SATISPHY papers, both in progress (slide 27) (slide 30) (slide 33).\n- Look at Applied Nutrition's \"GLP1 Friendly\" range, including its Energy + Creatine product (slide 23).",
     "Key slides": "",
-    "Detail": "- The Centre for Nutraceuticals, in central London, aims to bridge industry and academia with independent research, from formulation and cell studies to human trials, sponsored or blue-sky [00:15].\n- Obesity: incidence is high at 40% in the US and 35 to 40% in parts of South America and Africa; BMI over 30 is the simple consensus definition [00:15].\n- Drug history: most obesity drugs were withdrawn; centrally acting ones such as rimonabant (\"rimonaban\" in Otter) carried neuropsychiatric risks, which turned the field to gut hormones [00:15].\n- Gut hormones: ghrelin signals hunger; GLP-1, PYY, oxyntomodulin and GIP signal fullness. He said PYY is the more potent anorexigenic hormone, but GLP-1 drugs came first for commercial and clinical reasons [00:15].\n- Other side effects of GLP-1 drugs: nausea and vomiting, loss of facial fat pads and collagen breakdown [00:15].\n- GLP-1 is not banned in sport but is \"on the watch list\", and he said athletes have noticed reduced inflammation and more energy [00:15].\n- The supplement boom he dated to Expo West last year [00:15].\n- Proteins: a 2015 study of high protein against high carbohydrate and high fat meals showed a significant post-meal rise in GLP-1 and PYY [00:15].\n- OEA acts directly (GPR119) but degrades fast, so formulation may help; berberine's GLP-1 effects are indirect, mostly in rodents, and modest [00:15].\n- His first protein work was a metabolic study comparing plant proteins (potato and rice) with whey protein isolate [00:15].\n- The appetite trial was a placebo-controlled triple crossover with isocaloric breakfasts. Whey protein isolate also raised GIP significantly at 60 minutes, which he called the first nutraceutical showing a similar trend to the dual drugs, \"not to the same magnitude\" [00:15].\n- The mulberry extract trial (Otter: \"Redicools\", with a UK company Otter heard as \"Finova\") was a triple crossover with placebo, the extract, and a leading US GLP-1 brand's combination. Food noise fell over 24 hours (\"19 with one and 21 with the other\"). It finished last month; follow-on studies are planned for 2027-28 if the partner supports them [00:15].\n- Conclusions: supplements \"may fill a gap\" for current or lapsed users, but expectations need managing; validated products \"increase market resilience\"; GLP-1 use creates secondary demand for probiotics, proteins, fibre and multivitamins [00:15].",
+    "Detail": "- He is Prof M. Gulrez Zariwala, Director and Founder of the Centre for Nutraceuticals and Professor of Translational Physiology at the University of Westminster (slide 1). The centre is at 115 New Cavendish Street, London (slide 29), on the fourth floor of the building by the BT Tower (Otter: \"BD Tower\") [00:15] (slide 2).\n- The centre aims to bridge industry and academia and to be a source of trustworthy, scientifically validated information (slide 2). Its model runs from formulation through cell studies (Caco-2, MIN-6, SH-SY5Y) to clinical studies, including head-to-head comparisons (slide 4). Its counts: 6 funded projects, 2 products developed, 7 clinical trials, 6 pipeline contract or collaborative projects, 30+ publications, 25+ student placements (slide 7, read from the slide image).\n- Partner logos include Phynova, Gencor, Avebe, Agropur, GNC, Nelsons, Pharmako, Axonova, Issa Group and several universities and governments (slide 6, read from the slide image). The deck does not say whose potato protein APPETITE used; Avebe makes potato protein (my reading).\n- His papers on the research slide are mostly on iron, curcumin and nanocarriers, plus a mouth-rinse study in runners (slide 5, read from the slide image).\n- Obesity: he put US incidence at 40% and parts of South America and Africa at 35 to 40% [00:15]; the map uses WHO 2022 data (slide 8). Obesity is a BMI of 30 or more (slide 9).\n- Treatments: diet is the most desirable but often unsustainable; bariatric surgery gives durable loss of about 25% to 30%; drugs are long-term, often lifelong, and usually prescribed at a BMI of 27 or more (slide 10).\n- Drug history: most obesity drugs were withdrawn; rimonabant (\"rimonaban\" in Otter) was withdrawn in Europe in 2009 for suicidal thoughts and depression (slide 11). In one year of trial data, psychiatric disorders affected 6.7% on 20 mg against 3.2% on placebo (slide 12, read from the slide image).\n- Gut hormones: ghrelin signals hunger; GLP-1, PYY, oxyntomodulin, GIP and cholecystokinin signal fullness (slide 14). He said PYY is the more potent anorexigenic hormone, but GLP-1 drugs came first for commercial and clinical reasons [00:15]. GLP-1 is rapidly degraded by DPP-4 (slide 15).\n- Exendin-4 came from Gila monster venom; exenatide (Byetta, Amylin) was its synthetic, injectable version (slide 16). Otter heard \"BioTuff\" and \"Emilin\". The chart notes GLP-1 drug sales of $22 billion in 2022 (slide 16, read from the chart).\n- Consumerisation: online weight-loss services advertise \"Less Strict Than NHS Criteria\", a qualifying BMI from 25 and plans from £64 for the first month (slide 18, read from the slide image). He cited digital pharmacies, cosmetic pressures and lower costs [00:15].\n- Sport: GLP-1 drugs found to reduce inflammation, micro-dosing to lose weight and enhance performance, and a WADA monitoring programme; he said they are not banned but on the watch list [00:15] (slide 19).\n- His slide puts protein at about 50%, multivitamins about 50% and probiotics about 30% among supplements taken with or after the drugs, citing Lumina Intelligence (slide 19). Lumina's own deck in the 16:00 talk (glp-won-market-opportunities-for-the) gives proteins 51%, multivitamins 48% and probiotics 37%; the two differ on probiotics.\n- Other side effects: nausea and vomiting, loss of facial fat pads and collagen breakdown [00:15], shown as \"Ozempic face\" (slide 20, read from the slide image).\n- The boom: Expo West photos of a \"GLP-1 Companion\" supplement, Metabolaid's \"GLP-1 Inducer\", \"GLP-1 friendly vegan chicken & waffles\" and a \"GLP-1 Boost\" stand (slide 21, read from the slide image). He dated it to Expo West last year [00:15].\n- Substantiation: press headlines \"As weight-loss drug users turn to dietary supplements, doctors and regulators raise flags\" (20 October 2026) and \"Unverified GLP-1-Related Claims Flood Food, Supplement Markets\" (13 July 2026), and an FDA warning letter (Veronvy, 10 December 2024) (slide 22, read from the slide image). He spoke of \"some high-profile lawsuits\" [00:15]; the slide shows no lawsuit.\n- Proteins: a 2015 study of high protein against high carbohydrate and high fat meals showed a significant post-meal rise in GLP-1 and PYY [00:15]. The slide's charts show both hormones highest after the protein meal (slide 23, read from the chart); its reference is incomplete.\n- OEA is an agonist of PPAR-α and binds GPR-119 on L-cells. Formulated OEA, TRPTI™ (Otter: \"tripty\"), was \"shown to enhance meal-stimulated total GLP-1 and GIP in a dose-dependent manner\" (slide 24). On the chart, the 300 mg line rises above placebo after breakfast and before lunch, and the 150 mg line stays below zero (slide 24, read from the chart). Reference: doi.org/10.3389/fendo.2026.1879799.\n- Berberine works mainly through AMPK; low oral bioavailability means high doses, such as 500 mg three times a day. Cinnamon has a mild effect through the gut's TRPA1 receptors (\"trip A1\" in Otter) (slide 25).\n- Bitter compounds such as quercetin and berberine \"may increase GLP-1 secretion\" through bitter taste receptors (TAS2Rs) in the gut (slide 26).\n- His earlier paper: Tiekou Lorinczova et al. (2021), Nutrients 13(7), doi.org/10.3390/nu13072157, comparing whey, rice and potato protein isolates (slide 27). Its abstract, on the slide: nine healthy men, single-blind triple crossover; whey raised insulin more than potato at 30 minutes; no significant difference in average appetite; both plant proteins gave a lower insulin response and better glucose maintenance than whey (slide 27, read from the slide image). He called it \"quite a complex quadruple crossover study\" [00:15]; the abstract says triple crossover, so the two differ.\n- APPETITE design: 12 participants; porridge alone or with potato or whey protein; overnight fast; blood samples, appetite and palatability scales; an ad libitum lunch; ethics ETH2223-1377 (slide 28). It recruited healthy men aged 18 to 50, paid £100 (slide 29, read from the slide image). He said the breakfasts were isocaloric and isovolumic, blood was drawn every 30 minutes, and it was an unfunded PhD project [00:15].\n- APPETITE results: whey was above control at 120 and 180 minutes and potato at 180 minutes (p ≤ 0.05). On GIP, whey was above potato at 30 minutes (p ≤ 0.05) and at 60 and 120 minutes (p ≤ 0.01) (slide 30, read from the chart). He said whey raised GIP significantly at 60 minutes, the first nutraceutical with a similar trend to the dual drugs, \"not to the same magnitude\" [00:15]; the slide's GIP marks compare whey with potato, not with control.\n- SATISPHY design: 40 participants (12 men, 28 women; mean age 31.2, BMI 24.6); placebo, mulberry leaf extract, and mulberry leaf extract with a citrus-fruit supplement; appetite scales to 180 minutes, blood from 15 to 180 minutes, and a food noise questionnaire 24 hours later; ethics ETH2526-0070 (slide 31) (slide 32, read from the slide image). He described the third arm as Reducose with two other compounds, from \"one of the leading U.S. GLP-1 brands\" [00:15]. Otter heard Reducose as \"Redicools\" and Phynova as \"Finova\".\n- SATISPHY results: \"MLE supplementation improves glycaemic response and significantly enhances post-meal GLP-1 secretion\"; +140% and -23% against placebo (slide 33). The slide does not say which arm or time point. He said GLP-1 rose significantly at 180 minutes and food noise fell over 24 hours, \"19 with one and 21 with the other\" [00:15]; the deck gives no food noise figure.\n- The study finished last month and was due to be submitted the following week; two follow-on studies are planned for 2027-28 if the partner supports them [00:15].\n- Conclusions slide: \"Nutraceutical approaches may provide safer alternatives for specific populations\"; \"No supplement product can provide the magnitude of response seen with GLP-1 drugs\"; GLP-1 use creates demand for companion products (slide 34). Spoken, supplements \"may fill a gap\" for current or lapsed users [00:15].\n- No slide is marked Confidential. The title slide is marked \"©University of Westminster 2026\", and the two trial results are marked \"Unpublished data – manuscript in progress\" (slide 1) (slide 30) (slide 33).",
     "Research": ""
    },
    "takeaways": [
     {
-     "text": "GLP-1 drugs give weight loss of \"between five to 15%\", but users lose body weight rather than only body fat, and muscle loss \"can lead to sarcopenia\" [00:15].",
+     "text": "GLP-1 drugs give weight loss of \"between five to 15%\" [00:15]; his table gives 3.6% for liraglutide, 11.4% for semaglutide and 15.0% for tirzepatide (slide 17).",
      "cites": [
+      "00:15",
+      "slide 17"
+     ]
+    },
+    {
+     "text": "Up to 50% of users have GI symptoms and about 40% of the weight reduction comes from lean body mass (slide 20). He said muscle loss \"can lead to sarcopenia\" [00:15]; his slide lists sarcopenia with \"insufficient evidence\" (slide 20, read from the slide image).",
+     "cites": [
+      "slide 20",
       "00:15"
      ]
     },
     {
-     "text": "The GLP-1 supplement boom brought \"some high-profile lawsuits\", regulatory clampdowns and lower consumer confidence [00:15].",
+     "text": "Proteins have an \"undisputed effect\" on GLP-1 secretion; high-protein meals trigger GLP-1 and PYY, and the effect depends on the amino acid profile, such as leucine [00:15] (slide 23).",
      "cites": [
-      "00:15"
+      "00:15",
+      "slide 23"
      ]
     },
     {
-     "text": "Proteins have an \"undisputed effect\" on GLP-1 secretion, depending on quality and amino acid profile [00:15].",
+     "text": "Berberine, cinnamon and bitter compounds have mechanisms but \"mild to modest\" effects and few human studies; berberine \"does not directly bind to or activate GLP-1 receptors\" [00:15] (slide 25) (slide 26).",
      "cites": [
-      "00:15"
+      "00:15",
+      "slide 25",
+      "slide 26"
      ]
     },
     {
-     "text": "Berberine, cinnamon and bitter compounds have mechanisms but \"mild to modest\" effects and few human studies [00:15].",
+     "text": "In his centre's APPETITE trial (12 participants; porridge alone, with potato protein or with whey protein), both proteins gave a comparable, significant increase in GLP-1 secretion (slide 28) (slide 30).",
      "cites": [
-      "00:15"
+      "slide 28",
+      "slide 30"
      ]
     },
     {
-     "text": "In his centre's appetite trial, potato protein and whey protein isolate raised GLP-1 significantly and equally [00:15].",
+     "text": "In the SATISPHY trial of Reducose (40 participants), post-meal GLP-1 rose 140% and appetite fell 23% against placebo, with \"a marked reduction in appetite as well as food noise\"; both trials are unpublished, manuscripts in progress (slide 31) (slide 33).",
      "cites": [
-      "00:15"
-     ]
-    },
-    {
-     "text": "A mulberry extract significantly raised GLP-1 at 180 minutes and significantly reduced appetite and food noise; the paper is due to be submitted next week [00:15].",
-     "cites": [
-      "00:15"
+      "slide 31",
+      "slide 33"
      ]
     }
    ],
    "quotes": [
     {
      "text": "\"Proteins have an undisputed effect on GLP-1 secretion, both mechanistically, animal models, human study.\" Speaker 2 (Gulrez Zariwala) [00:15]",
-     "cites": [
-      "00:15"
-     ]
-    },
-    {
-     "text": "\"So a significant increase in GLP-1, increase sorry reduction in appetite and reduction in food noise.\" Speaker 2 (Gulrez Zariwala) [00:15]",
      "cites": [
       "00:15"
      ]
@@ -5112,91 +5911,193 @@
      "cites": [
       "00:15"
      ]
+    },
+    {
+     "text": "\"Comparable, significant increase in GLP-1 secretion following protein supplementation\" (slide 30)",
+     "cites": [
+      "slide 30"
+     ]
     }
    ],
    "followups": [
-    "Gulrez Zariwala (Centre for Nutraceuticals): ask about a satiety and GLP-1 trial for a clear pea protein, on the protocol of his potato protein study [00:15].",
-    "Find his published plant protein and whey protein isolate papers (the metabolic study and the appetite study) and watch for the mulberry extract paper, due to be submitted next week [00:15].",
-    "Confirm the names Otter heard as \"Redicools\", \"Finova\" and \"tripty\", and his university affiliation (the recording begins \"Of Westminster\") [00:00], [00:15]."
+    "Gulrez Zariwala (Centre for Nutraceuticals, University of Westminster): ask about a satiety and GLP-1 trial for a clear pea protein on the APPETITE protocol, and which potato protein that trial used (slide 1) (slide 28) [00:15].",
+    "Read Tiekou Lorinczova et al. (2021) and watch for the APPETITE and SATISPHY papers, both in progress (slide 27) (slide 30) (slide 33).",
+    "Look at Applied Nutrition's \"GLP1 Friendly\" range, including its Energy + Creatine product (slide 23)."
    ],
    "key_slides": [],
    "detail": [
     {
-     "text": "The Centre for Nutraceuticals, in central London, aims to bridge industry and academia with independent research, from formulation and cell studies to human trials, sponsored or blue-sky [00:15].",
+     "text": "He is Prof M. Gulrez Zariwala, Director and Founder of the Centre for Nutraceuticals and Professor of Translational Physiology at the University of Westminster (slide 1). The centre is at 115 New Cavendish Street, London (slide 29), on the fourth floor of the building by the BT Tower (Otter: \"BD Tower\") [00:15] (slide 2).",
+     "cites": [
+      "slide 1",
+      "slide 29",
+      "00:15",
+      "slide 2"
+     ]
+    },
+    {
+     "text": "The centre aims to bridge industry and academia and to be a source of trustworthy, scientifically validated information (slide 2). Its model runs from formulation through cell studies (Caco-2, MIN-6, SH-SY5Y) to clinical studies, including head-to-head comparisons (slide 4). Its counts: 6 funded projects, 2 products developed, 7 clinical trials, 6 pipeline contract or collaborative projects, 30+ publications, 25+ student placements (slide 7, read from the slide image).",
+     "cites": [
+      "slide 2",
+      "slide 4"
+     ]
+    },
+    {
+     "text": "Partner logos include Phynova, Gencor, Avebe, Agropur, GNC, Nelsons, Pharmako, Axonova, Issa Group and several universities and governments (slide 6, read from the slide image). The deck does not say whose potato protein APPETITE used; Avebe makes potato protein (my reading).",
+     "cites": []
+    },
+    {
+     "text": "His papers on the research slide are mostly on iron, curcumin and nanocarriers, plus a mouth-rinse study in runners (slide 5, read from the slide image).",
+     "cites": []
+    },
+    {
+     "text": "Obesity: he put US incidence at 40% and parts of South America and Africa at 35 to 40% [00:15]; the map uses WHO 2022 data (slide 8). Obesity is a BMI of 30 or more (slide 9).",
+     "cites": [
+      "00:15",
+      "slide 8",
+      "slide 9"
+     ]
+    },
+    {
+     "text": "Treatments: diet is the most desirable but often unsustainable; bariatric surgery gives durable loss of about 25% to 30%; drugs are long-term, often lifelong, and usually prescribed at a BMI of 27 or more (slide 10).",
+     "cites": [
+      "slide 10"
+     ]
+    },
+    {
+     "text": "Drug history: most obesity drugs were withdrawn; rimonabant (\"rimonaban\" in Otter) was withdrawn in Europe in 2009 for suicidal thoughts and depression (slide 11). In one year of trial data, psychiatric disorders affected 6.7% on 20 mg against 3.2% on placebo (slide 12, read from the slide image).",
+     "cites": [
+      "slide 11"
+     ]
+    },
+    {
+     "text": "Gut hormones: ghrelin signals hunger; GLP-1, PYY, oxyntomodulin, GIP and cholecystokinin signal fullness (slide 14). He said PYY is the more potent anorexigenic hormone, but GLP-1 drugs came first for commercial and clinical reasons [00:15]. GLP-1 is rapidly degraded by DPP-4 (slide 15).",
+     "cites": [
+      "slide 14",
+      "00:15",
+      "slide 15"
+     ]
+    },
+    {
+     "text": "Exendin-4 came from Gila monster venom; exenatide (Byetta, Amylin) was its synthetic, injectable version (slide 16). Otter heard \"BioTuff\" and \"Emilin\". The chart notes GLP-1 drug sales of $22 billion in 2022 (slide 16, read from the chart).",
+     "cites": [
+      "slide 16"
+     ]
+    },
+    {
+     "text": "Consumerisation: online weight-loss services advertise \"Less Strict Than NHS Criteria\", a qualifying BMI from 25 and plans from £64 for the first month (slide 18, read from the slide image). He cited digital pharmacies, cosmetic pressures and lower costs [00:15].",
      "cites": [
       "00:15"
      ]
     },
     {
-     "text": "Obesity: incidence is high at 40% in the US and 35 to 40% in parts of South America and Africa; BMI over 30 is the simple consensus definition [00:15].",
+     "text": "Sport: GLP-1 drugs found to reduce inflammation, micro-dosing to lose weight and enhance performance, and a WADA monitoring programme; he said they are not banned but on the watch list [00:15] (slide 19).",
+     "cites": [
+      "00:15",
+      "slide 19"
+     ]
+    },
+    {
+     "text": "His slide puts protein at about 50%, multivitamins about 50% and probiotics about 30% among supplements taken with or after the drugs, citing Lumina Intelligence (slide 19). Lumina's own deck in the 16:00 talk (glp-won-market-opportunities-for-the) gives proteins 51%, multivitamins 48% and probiotics 37%; the two differ on probiotics.",
+     "cites": [
+      "slide 19"
+     ]
+    },
+    {
+     "text": "Other side effects: nausea and vomiting, loss of facial fat pads and collagen breakdown [00:15], shown as \"Ozempic face\" (slide 20, read from the slide image).",
      "cites": [
       "00:15"
      ]
     },
     {
-     "text": "Drug history: most obesity drugs were withdrawn; centrally acting ones such as rimonabant (\"rimonaban\" in Otter) carried neuropsychiatric risks, which turned the field to gut hormones [00:15].",
+     "text": "The boom: Expo West photos of a \"GLP-1 Companion\" supplement, Metabolaid's \"GLP-1 Inducer\", \"GLP-1 friendly vegan chicken & waffles\" and a \"GLP-1 Boost\" stand (slide 21, read from the slide image). He dated it to Expo West last year [00:15].",
      "cites": [
       "00:15"
      ]
     },
     {
-     "text": "Gut hormones: ghrelin signals hunger; GLP-1, PYY, oxyntomodulin and GIP signal fullness. He said PYY is the more potent anorexigenic hormone, but GLP-1 drugs came first for commercial and clinical reasons [00:15].",
+     "text": "Substantiation: press headlines \"As weight-loss drug users turn to dietary supplements, doctors and regulators raise flags\" (20 October 2026) and \"Unverified GLP-1-Related Claims Flood Food, Supplement Markets\" (13 July 2026), and an FDA warning letter (Veronvy, 10 December 2024) (slide 22, read from the slide image). He spoke of \"some high-profile lawsuits\" [00:15]; the slide shows no lawsuit.",
      "cites": [
       "00:15"
      ]
     },
     {
-     "text": "Other side effects of GLP-1 drugs: nausea and vomiting, loss of facial fat pads and collagen breakdown [00:15].",
+     "text": "Proteins: a 2015 study of high protein against high carbohydrate and high fat meals showed a significant post-meal rise in GLP-1 and PYY [00:15]. The slide's charts show both hormones highest after the protein meal (slide 23, read from the chart); its reference is incomplete.",
      "cites": [
       "00:15"
      ]
     },
     {
-     "text": "GLP-1 is not banned in sport but is \"on the watch list\", and he said athletes have noticed reduced inflammation and more energy [00:15].",
+     "text": "OEA is an agonist of PPAR-α and binds GPR-119 on L-cells. Formulated OEA, TRPTI™ (Otter: \"tripty\"), was \"shown to enhance meal-stimulated total GLP-1 and GIP in a dose-dependent manner\" (slide 24). On the chart, the 300 mg line rises above placebo after breakfast and before lunch, and the 150 mg line stays below zero (slide 24, read from the chart). Reference: doi.org/10.3389/fendo.2026.1879799.",
+     "cites": [
+      "slide 24"
+     ]
+    },
+    {
+     "text": "Berberine works mainly through AMPK; low oral bioavailability means high doses, such as 500 mg three times a day. Cinnamon has a mild effect through the gut's TRPA1 receptors (\"trip A1\" in Otter) (slide 25).",
+     "cites": [
+      "slide 25"
+     ]
+    },
+    {
+     "text": "Bitter compounds such as quercetin and berberine \"may increase GLP-1 secretion\" through bitter taste receptors (TAS2Rs) in the gut (slide 26).",
+     "cites": [
+      "slide 26"
+     ]
+    },
+    {
+     "text": "His earlier paper: Tiekou Lorinczova et al. (2021), Nutrients 13(7), doi.org/10.3390/nu13072157, comparing whey, rice and potato protein isolates (slide 27). Its abstract, on the slide: nine healthy men, single-blind triple crossover; whey raised insulin more than potato at 30 minutes; no significant difference in average appetite; both plant proteins gave a lower insulin response and better glucose maintenance than whey (slide 27, read from the slide image). He called it \"quite a complex quadruple crossover study\" [00:15]; the abstract says triple crossover, so the two differ.",
+     "cites": [
+      "slide 27",
+      "00:15"
+     ]
+    },
+    {
+     "text": "APPETITE design: 12 participants; porridge alone or with potato or whey protein; overnight fast; blood samples, appetite and palatability scales; an ad libitum lunch; ethics ETH2223-1377 (slide 28). It recruited healthy men aged 18 to 50, paid £100 (slide 29, read from the slide image). He said the breakfasts were isocaloric and isovolumic, blood was drawn every 30 minutes, and it was an unfunded PhD project [00:15].",
+     "cites": [
+      "slide 28",
+      "00:15"
+     ]
+    },
+    {
+     "text": "APPETITE results: whey was above control at 120 and 180 minutes and potato at 180 minutes (p ≤ 0.05). On GIP, whey was above potato at 30 minutes (p ≤ 0.05) and at 60 and 120 minutes (p ≤ 0.01) (slide 30, read from the chart). He said whey raised GIP significantly at 60 minutes, the first nutraceutical with a similar trend to the dual drugs, \"not to the same magnitude\" [00:15]; the slide's GIP marks compare whey with potato, not with control.",
      "cites": [
       "00:15"
      ]
     },
     {
-     "text": "The supplement boom he dated to Expo West last year [00:15].",
+     "text": "SATISPHY design: 40 participants (12 men, 28 women; mean age 31.2, BMI 24.6); placebo, mulberry leaf extract, and mulberry leaf extract with a citrus-fruit supplement; appetite scales to 180 minutes, blood from 15 to 180 minutes, and a food noise questionnaire 24 hours later; ethics ETH2526-0070 (slide 31) (slide 32, read from the slide image). He described the third arm as Reducose with two other compounds, from \"one of the leading U.S. GLP-1 brands\" [00:15]. Otter heard Reducose as \"Redicools\" and Phynova as \"Finova\".",
+     "cites": [
+      "slide 31",
+      "00:15"
+     ]
+    },
+    {
+     "text": "SATISPHY results: \"MLE supplementation improves glycaemic response and significantly enhances post-meal GLP-1 secretion\"; +140% and -23% against placebo (slide 33). The slide does not say which arm or time point. He said GLP-1 rose significantly at 180 minutes and food noise fell over 24 hours, \"19 with one and 21 with the other\" [00:15]; the deck gives no food noise figure.",
+     "cites": [
+      "slide 33",
+      "00:15"
+     ]
+    },
+    {
+     "text": "The study finished last month and was due to be submitted the following week; two follow-on studies are planned for 2027-28 if the partner supports them [00:15].",
      "cites": [
       "00:15"
      ]
     },
     {
-     "text": "Proteins: a 2015 study of high protein against high carbohydrate and high fat meals showed a significant post-meal rise in GLP-1 and PYY [00:15].",
+     "text": "Conclusions slide: \"Nutraceutical approaches may provide safer alternatives for specific populations\"; \"No supplement product can provide the magnitude of response seen with GLP-1 drugs\"; GLP-1 use creates demand for companion products (slide 34). Spoken, supplements \"may fill a gap\" for current or lapsed users [00:15].",
      "cites": [
+      "slide 34",
       "00:15"
      ]
     },
     {
-     "text": "OEA acts directly (GPR119) but degrades fast, so formulation may help; berberine's GLP-1 effects are indirect, mostly in rodents, and modest [00:15].",
+     "text": "No slide is marked Confidential. The title slide is marked \"©University of Westminster 2026\", and the two trial results are marked \"Unpublished data – manuscript in progress\" (slide 1) (slide 30) (slide 33).",
      "cites": [
-      "00:15"
-     ]
-    },
-    {
-     "text": "His first protein work was a metabolic study comparing plant proteins (potato and rice) with whey protein isolate [00:15].",
-     "cites": [
-      "00:15"
-     ]
-    },
-    {
-     "text": "The appetite trial was a placebo-controlled triple crossover with isocaloric breakfasts. Whey protein isolate also raised GIP significantly at 60 minutes, which he called the first nutraceutical showing a similar trend to the dual drugs, \"not to the same magnitude\" [00:15].",
-     "cites": [
-      "00:15"
-     ]
-    },
-    {
-     "text": "The mulberry extract trial (Otter: \"Redicools\", with a UK company Otter heard as \"Finova\") was a triple crossover with placebo, the extract, and a leading US GLP-1 brand's combination. Food noise fell over 24 hours (\"19 with one and 21 with the other\"). It finished last month; follow-on studies are planned for 2027-28 if the partner supports them [00:15].",
-     "cites": [
-      "00:15"
-     ]
-    },
-    {
-     "text": "Conclusions: supplements \"may fill a gap\" for current or lapsed users, but expectations need managing; validated products \"increase market resilience\"; GLP-1 use creates secondary demand for probiotics, proteins, fibre and multivitamins [00:15].",
-     "cites": [
-      "00:15"
+      "slide 1",
+      "slide 30",
+      "slide 33"
      ]
     }
    ],
@@ -5205,6 +6106,11 @@
      "name": "otter-summary.md",
      "kind": "text",
      "pages": null
+    },
+    {
+     "name": "zariwala-glp1-supplements-deck.pdf",
+     "kind": "pdf",
+     "pages": 34
     }
    ]
   },

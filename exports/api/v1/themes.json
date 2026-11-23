@@ -1,7 +1,7 @@
 {
  "schema": "confnotes.themes/1",
  "built": "2026-11-23",
- "commit": "fb0726d",
+ "commit": "eebf58a",
  "count": 19,
  "items": [
   {
@@ -349,6 +349,12 @@
     },
     {
      "event": "sans-europe-2026",
+     "session": "fuelling-female-performance",
+     "title": "Fuelling female performance: Separating Science from Myth in Women's Sports Nutrition",
+     "date": "2026-11-09"
+    },
+    {
+     "event": "sans-europe-2026",
      "session": "built-in-the-gym-turning-athlete",
      "title": "Built in the gym: Turning athlete insight into sports nutrition innovation",
      "date": "2026-11-09"
@@ -487,8 +493,20 @@
     },
     {
      "event": "sans-europe-2026",
+     "session": "fuelling-female-performance",
+     "title": "Fuelling female performance: Separating Science from Myth in Women's Sports Nutrition",
+     "date": "2026-11-09"
+    },
+    {
+     "event": "sans-europe-2026",
      "session": "fuelling-the-female-runner-from-paper",
      "title": "Fuelling the female runner: from paper to podium to partnerships",
+     "date": "2026-11-09"
+    },
+    {
+     "event": "sans-europe-2026",
+     "session": "is-the-juice-worth-the-squeeze",
+     "title": "Is the Juice Worth the Squeeze? Polyphenols in Performance and Recovery",
      "date": "2026-11-09"
     },
     {
@@ -576,6 +594,12 @@
      "event": "sans-europe-2026",
      "session": "clicks-to-community-turning-digital-engagement",
      "title": "Clicks to Community: Turning Digital Engagement into Brand Loyalty",
+     "date": "2026-11-09"
+    },
+    {
+     "event": "sans-europe-2026",
+     "session": "is-the-juice-worth-the-squeeze",
+     "title": "Is the Juice Worth the Squeeze? Polyphenols in Performance and Recovery",
      "date": "2026-11-09"
     },
     {
@@ -729,6 +753,12 @@
      "event": "sans-europe-2026",
      "session": "clicks-to-community-turning-digital-engagement",
      "title": "Clicks to Community: Turning Digital Engagement into Brand Loyalty",
+     "date": "2026-11-09"
+    },
+    {
+     "event": "sans-europe-2026",
+     "session": "is-the-juice-worth-the-squeeze",
+     "title": "Is the Juice Worth the Squeeze? Polyphenols in Performance and Recovery",
      "date": "2026-11-09"
     }
    ]
@@ -910,6 +940,12 @@
      "session": "fuelling-the-female-runner-from-paper",
      "title": "Fuelling the female runner: from paper to podium to partnerships",
      "date": "2026-11-09"
+    },
+    {
+     "event": "sans-europe-2026",
+     "session": "fuel-the-frame-carbohydrate-recovery-and",
+     "title": "Fuel the Frame: Carbohydrate, recovery and the forgotten tissue",
+     "date": "2026-11-09"
     }
    ]
   },
@@ -922,8 +958,20 @@
    "sessions": [
     {
      "event": "sans-europe-2026",
+     "session": "fuelling-female-performance",
+     "title": "Fuelling female performance: Separating Science from Myth in Women's Sports Nutrition",
+     "date": "2026-11-09"
+    },
+    {
+     "event": "sans-europe-2026",
      "session": "fuelling-the-female-runner-from-paper",
      "title": "Fuelling the female runner: from paper to podium to partnerships",
+     "date": "2026-11-09"
+    },
+    {
+     "event": "sans-europe-2026",
+     "session": "fuel-the-frame-carbohydrate-recovery-and",
+     "title": "Fuel the Frame: Carbohydrate, recovery and the forgotten tissue",
      "date": "2026-11-09"
     }
    ]
