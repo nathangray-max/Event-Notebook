@@ -1,0 +1,55 @@
+# Fuelling female performance: Separating Science from Myth in Women's Sports Nutrition
+
+## Summary
+Dr Emily Jevons, a registered nutritionist who specialises in sports nutrition, nutrition education and disordered eating, asked how much of women's sports nutrition is science and how much is myth.
+
+She began with the evidence base. Only 6% of sport and exercise science publications study women alone. Even when women are included, their hormonal status is rarely verified properly. Women are not one population either: adolescents, contraceptive users, pregnant and postpartum women and women in menopause all differ, and the last groups are almost absent from research.
+
+On the menstrual cycle she was clear. Most studies find no effect of cycle phase on performance; effects are small and individual variation is large. Popular advice to train hard early in the cycle and switch to pilates later is not backed by the evidence. Carbohydrate needs follow the training session, not the phase. Energy availability comes first; in theory, protein needs may rise in the luteal phase.
+
+She then turned to the women's health aisle, where demand is outpacing evidence, and asked whether it is pink washing or progress. Her answer for industry: use ingredients with evidence for the outcome claimed, at trial doses, fully disclosed and batch-tested; claim honestly; design with women; and fund female-specific trials, publishing null results too.
+
+## Key takeaways
+- The evidence gap: of 5,261 publications with 12,511,386 participants, 63% studied males and females, 31% males only and 6% females only (Cowley et al., 2021) (slide 4).
+- Even when women are included, 14% of performance supplement studies defined menstrual status and about 0.5% verified it with best-practice methods; female participation rose from about 39% (2011-13) to about 44% (2021-23) (Smith et al., 2022; Ose et al., 2025) (slide 6).
+- The cycle and performance: 13 of 16 studies found no effect on anaerobic performance and 14 of 22 none on aerobic performance; no influence of phase on strength or training adaptations, "BUT motivation could be impactful" (Carmichael et al., 2021; Colenso-Semple et al., 2023). A review found the evidence does not warrant general guidance on changing exercise across the cycle (McNulty et al., 2020) (slide 15) (slide 16).
+- Nutrition: carbohydrate targets are per kg of body mass and apply to both sexes, with no evidence for phase-specific targets; energy intake tends to rise about 170 kcal a day in the luteal phase. The primary focus is adequate energy intake and optimal energy availability (ISSN position stand, Sims et al., 2023) (slide 18) (slide 19).
+- Protein: high-quality protein as close to the start and/or end of exercise as possible at 0.3-0.4 g/kg body weight, aiming for the upper end in the luteal phase "due to the catabolic actions of progesterone" (Sims et al., 2023) (slide 20).
+- Building better products: include only ingredients with evidence for the outcome claimed, "e.g. creatine 3–5 g/day alongside strength training for midlife muscle and strength"; use trial doses, list every dose, batch-test for athletes (e.g. Informed Sport); use authorised claims; co-design with women and fund female-specific studies (slide 23).
+
+## For Vita Actives
+- Relevance high: her one named example of an evidence-based ingredient for women was creatine, 3-5 g a day alongside strength training for midlife muscle and strength (slide 23). My reading: this is the CreaWin case for women in a nutritionist's own words, and it rests on trials, so our material should lead with trial doses and references.
+- Women's creatine products are already on the shelf. Her slides show Zooki Creatine+ for Women (5 g creatine, "extra support for energy, cognition and hormonal balance") and Marchon Women's Formula (5 g creatine, 4 g myo-inositol, 8 g marine collagen), read from the pack shots, under "Cycle syncing, myth or evidence based?" and "Pink washing or progress?"; she gave no verdict on each product (slide 11) (slide 21). My reading: "hormonal balance" is the kind of claim she warns against (slide 23); a brand that wants her kind of approval needs trial-dose creatine and honest claims, which is where CreaWin should sit.
+- Protein: 0.3-0.4 g/kg around exercise (slide 20). My reading: about 18-24 g a serving for a 60 kg woman, a dose a clear pea protein drink (IsoClr: Pea) can carry.
+- Her industry list asks for female-specific trials with verified menstrual status, research on the product not just the ingredient, and published null results (slide 24). My reading: a CreaWin study in active women designed that way would answer her directly, and she asks for nutritionists to be involved "from day one" (slide 23).
+- James Morton (SiS) said the same at 11:20: fuel for the work, not the menstrual cycle (fuelling-the-female-runner-from-paper). SiS is among the logos on her "Who am I?" slide (slide 2).
+
+## Quotes
+- "Hormones treated as noise: the cycle was seen as a confounder to avoid rather than a variable to study." (slide 5)
+- "Carbohydrate needs are driven by the training session, not the cycle phase." (slide 18)
+- "Demand is outpacing evidence" (slide 22)
+- "Women's products should be built on evidence, not trends." (slide 25)
+
+## Detail
+- Why research leaned on men: the "70 kg male" became the reference participant; hormones were treated as noise; testing women properly means verifying phase with hormone measures across several phases; contraception variety makes uniform groups harder; product claims were built on male evidence, "This is where industry can now lead" (slide 5).
+- Women aren't one population: adolescents; menstruating women with a natural cycle; women on hormonal contraception, which suppresses endogenous hormones and may be used to manage conditions such as endometriosis; pregnancy and postpartum, a one to two year period; peri- and menopause, diagnosed retrospectively after 12 months without menstruation. "Lots of individual variation across all phases" (slide 7). The hormone curves across the lifespan are marked "Illustrative – not to scale" (slide 8).
+- About 50% of elite athletes use hormonal contraception (Martin et al. 2018); 77% of non-users report negative cycle symptoms, mostly on days 1-2 of bleeding; peri- and postmenopausal athletes are almost absent from research; adolescents, pregnancy and postpartum have even less data; findings in one group can't simply be applied to another (slide 9).
+- She asked the room "Who is your target audience?" before the cycle-syncing section (slide 10). The cycle-syncing slide also shows an SiS Run Fuel gel and Fast and Female (slide 11).
+- Physiology: the 28-day cycle is an average, not a rule; the follicular phase is the more variable; the luteal phase lasts about 12-15 days after ovulation; the LH surge is not exactly day 14; stress, sleep, body weight, training load and life context all affect the pattern (slide 12). "Every woman will experience the menstrual cycle differently" (slide 13).
+- Proposed mechanisms. Muscle activation: in theory oestrogen raises excitability and progesterone "may lower strength outcomes in the luteal phase". Muscle and tendon stiffness: oestrogen may change collagen synthesis, but "Most research states this increase is not great enough to have an effect". Thermoregulation: a sufficient warm-up nulled any luteal advantage; higher body temperature could hurt endurance. Metabolism: trends disappear at higher intensities or when fed; exercise intensity and nutrition status appear "to be more influential than menstrual cycle phase" (slide 14).
+- One study found peak power higher in the ovulatory phase, but motivation to train was also greatest then; intermittent endurance is more likely to be affected than continuous endurance (slide 15).
+- What social media says (crossed out on the slide): train hard early, pilates and walking later. What the review says: performance "might be reduced by a small amount" in the early phase, with large personal differences (McNulty et al., 2020) (slide 16). Her conclusion: a personalised approach based on each woman's response (slide 17).
+- Resting metabolic rate may rise slightly in the luteal phase, but studies are inconsistent and mostly low quality; combined pill users do not show these fluctuations (slide 18).
+- Protein: oestrogen is anabolic and progesterone catabolic, so in theory an athletic woman might need more protein in the luteal phase, but rising metabolic rate and appetite are already likely to raise her intake (slide 20).
+- The women's health aisle: UK menopause supplements projected to grow from £42m (2020) to £100m by 2028 (GenM/Kantar); Holland & Barrett women's health sales up 22% year on year; a UCL 2026 review found half of UK menopause supplements had no vitamin D and only 24% contained calcium; "hormone balance" stacks (DIM, inositol, vitex, ashwagandha) are booming online (slide 22).
+- Packs on the "Pink washing or progress?" slide, read from the pack shots: Wassen Prime Protect 50+ Women, Hairburst Womens 35+ Hair Vitamins (with added collagen), Viviscal, Swedish Collagen Collagen Deluxe (12,500 mg hydrolysed marine collagen), Novomins Women's Bio-Balance Gummies and Zooki Creatine+ for Women (slide 21).
+- The four rules in full: Justify (no trending "oestrogen balance" ingredients without evidence in active women); Dose and Disclose (no proprietary blends at token doses, untested for banned substances); Claim honestly (no "balances your hormones" or "cycle-synced" without trials; say what isn't yet known); Co-design (not "a pink tub on the same formula") (slide 23).
+- What industry can do: fund female-specific trials rather than adding women to male designs; verify menstrual status with best-practice methods, not day-counting; educate on who the product is for; research the product, not just the ingredient; publish null results (slide 24).
+- Take-home messages: more high-quality research across the lifespan; cycle effects small, individual variation large, energy availability first; products built on evidence; industry can fund, design and report better research (slide 25).
+- Her "Who am I?" slide carries logos including SiS, British Cycling, IRONMAN, Swim with Jazz, Feisty Women's Performance, fuel/HQ, David Lloyd Clubs, Fast and Female, Team Picnic PostNL and the University of Chester; it does not say what each relationship is (slide 2).
+
+## Follow-ups
+- Confirm the end time, track, her organisation and role as billed, and the programme title.
+- Talk to Emily Jevons (contact details on slides 1 and 26) about what a CreaWin study in active or midlife women should look like; she named creatine 3-5 g a day as her evidence-based example (slide 23).
+- Find the papers: Cowley et al. 2021, Smith et al. 2022, Ose et al. 2025, McNulty et al. 2020, Carmichael et al. 2021, Colenso-Semple et al. 2023, the ISSN female athlete position stand (Sims et al. 2023) and the UCL 2026 review of menopause supplements.
+- Find out who supplies the creatine in Zooki Creatine+ for Women and Marchon Women's Formula (slide 11) (slide 21).

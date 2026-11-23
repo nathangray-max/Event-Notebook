@@ -10,17 +10,23 @@ speakers:
 - name: Sharon Madigan
   organisation: Sports Ireland Institute
   role: ''
-themes: []
+themes: [carbohydrate-fuelling, female-athlete-nutrition]
 ingredients:
 - carbohydrate
-relevance: ''
-status: captured
-summary_by: ''
-summary_date: ''
+- glucose
+- fructose
+- protein
+- iron
+relevance: medium
+status: summarised
+summary_by: Claude
+summary_date: '2026-11-23'
 reviewed_by: ''
 reviewed_date: ''
-attended_by: []
+attended_by: [Nathan]
 links: {}
-to_check: No slides, transcript or notes filed yet; whether Nathan attended this one.
+to_check: Her role (the deck gives only "PhD, RD, FFSEM"); the organisation's exact name (the programme says Sports Ireland
+  Institute, the deck only an instituteofsport.ie address; my reading, Sport Ireland Institute). Slides only, no recording;
+  most slides are images, so their text was read from the images.
 added: '2026-11-09'
 added_by: Claude (from the event app's programme, screenshots from Nathan at 11:39-11:40 on 9 Nov 2026)
