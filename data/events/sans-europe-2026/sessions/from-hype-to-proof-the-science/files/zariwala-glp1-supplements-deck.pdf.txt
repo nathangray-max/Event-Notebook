@@ -1,0 +1,359 @@
+--- page 1 ---
+From hype to proof: the science behind
+GLP-1 targeted nutritional supplements
+Prof M. Gulrez Zariwala
+Director and Founder
+Professor of Translational Physiology
+B.Pharm, MSc, PhD
+zariwam@westminster.ac.uk
+1
+©University of Westminster 2026
+
+--- page 2 ---
+2
+Bridge between the industry and
+academia in health and nutrition
+Promote research and innovation via
+knowledge exchange
+Act as a source of trustworthy,
+scientifically validated information
+
+--- page 3 ---
+3
+Subject areas
+Neuroscience
+Metabolism
+Nanotechnology
+Nutrition &
+Public Health
+Material
+science
+Psychology
+Formulation and
+drug delivery
+Sports & Exercise
+physiology
+Sustainable
+biotechnology
+
+--- page 4 ---
+4
+Formulation of nutrient or bioactive
+• Screening and formulation development
+• Physiochemical characterisations
+In vitro assessments using relevant model
+• Models: Caco-2 (intestine), MIN-6 (pancreas), SH-SY5Y (neurons) etc
+• Toxicity testing
+• Absorption/permeability analysis & mechanistic studies
+Ingredient/product validation – clinical studies
+• Evaluation of efficacy
+• Head-to-head comparisons
+Research model – concept validation to human trial and translation
+
+--- page 5 ---
+5
+Research
+
+--- page 6 ---
+Engagements and partnerships
+All product and company names, logos, and brands are property of their respective owners
+
+--- page 7 ---
+7
+Metrics
+
+--- page 8 ---
+8
+WHO, Global Health Observatory (2022)
+Obesity – a global epidemic
+
+--- page 9 ---
+9
+Obesity - dynamics
+Chronic, multifactorial disease
+ Strongly linked with type 2 diabetes, cardiovascular
+disease and dementia
+ Defined as a body mass index (BMI) ≥30kg/m2
+Chronic positive energy balance leading to
+increased adiposity and weight gain
+Focus on better understanding the relationship
+between appetite regulation and obesity
+https://doi.org/10.1001/virtualmentor.2010.12.4.cprl1-1004.
+https://doi.org/10.1038/s41430-021-01064-4
+
+--- page 10 ---
+10
+Dietary
+Most desirable approach, low calorie, low-fat and
+high fibre and high protein diets. Often
+unsustainable or unfeasible
+Bariatric
+surgery
+Most effective treatment (class II and III obesity),
+durable loss of approximately 25% to 30%. Invasive
+and expensive
+Pharma-
+cological
+Long-term treatment often involving lifelong use.
+Prescribed on high BMI cut-offs (usually ≥27kg/m2)
+Treatment and management approaches
+
+--- page 11 ---
+11https://www.delveinsight.com/blog/transforming-obesity-treatment
+Obesity therapeutics – a brief history
+
+--- page 12 ---
+12
+Centrally acting appetite suppressants
+
+--- page 13 ---
+13
+Gut hormones and energy sensing
+GI tract - largest endocrine organ - direct line of
+communication to the CNS via innervation and
+blood supply
+Metabolic role - endocrine L-cells in the gut
+synthesise and release various hormones in
+response to nutrients
+Gut hormones have a critical role in meal
+initiation (hunger) and termination (satiety)
+Front Nutr. 2015 Jul 20;2:23.
+
+--- page 14 ---
+14
+Nutrient related hormones and appetite
+http://www.elcelyx.com/solution.html
+
+--- page 15 ---
+15
+Anorectic peptide hormones – GLP-1
+GLP-1 – incretin hormone released from
+small intestinal and colonic L-cells
+following eating
+GLP-1 receptors (GLP-1Rs) located in
+the brain and peripheral organs (e.g.
+pancreas, GI tract, liver)
+Binds to the GLP-1Rs enhancing insulin
+secretion, inhibiting glucagon release, delaying
+gastric emptying, and reducing food intake
+Rapidly degraded by the enzyme DPP-4
+to its inactive form
+
+--- page 16 ---
+16
+Evolution of GLP-1 therapeutics
+Exendin-4 - peptide from the Gila monster’s venom similar to human GLP-1 but more stable
+Exenatide – synthetic, injectable version of exendin-4 (Byetta, Amylin)
+https://doi.org/10.1038/s41392-024-01931-z
+
+--- page 17 ---
+17
+GLP-1 agonist formats
+
+--- page 18 ---
+1
+8
+Consumerisation and transition to lifestyle
+
+--- page 19 ---
+GLP-1 and sports nutrition
+"I can pull moves I could,
+quite frankly, never do before"
+GLP-1 drugs found to reduce inflammation
+Micro-dosing to lose weight and enhance
+performance
+WADA Monitoring Program to track off-label
+usage and patterns among athletes
+Protein (~50%) – Multivitamins (~50%) – Fibre –
+Probiotics (~30%) often taken following
+therapy or concurrently*
+*Lumina Intelligence, etc
+
+--- page 20 ---
+Acute and long-term effects and risks
+Up to 50% of users experience GI
+symptoms
+Approximately 40% of the weight
+reduction is derived from a lean
+body mass
+Diabetes Metab J. 2025 Jul 1;49(4):525–54 20
+
+--- page 21 ---
+21
+Trend towards non-pharma solutions
+
+--- page 22 ---
+22
+The need for scientific substantiation
+
+--- page 23 ---
+23
+Contenders - protein-based supplements
+Satiating effects of dietary proteins well
+characterised
+High-protein meals trigger the release GLP-1
+and Peptide YY (PYY)
+Effect dependent on amino acid profile (e.g.
+leucine)
+https://doi.org/10.1002/oby.2015
+
+--- page 24 ---
+24
+Contenders - lipid-based compounds
+Oleoylethanolamide (OEA) – endogenous
+bioactive lipid - small amounts in diet
+Agonist of the nuclear receptor PPAR-α involved
+in lipid balance
+Binds to GPR-119 on intestinal L-cells potentiating
+the release of GLP-1
+Formulated OEA (TRPTI
+ ) shown to enhance
+meal-stimulated total GLP-1 and GIP in a dose-
+dependent manner
+https://doi.org/10.3389/fendo.2026.1879799
+
+--- page 25 ---
+25
+Contenders - botanicals
+o Berberine – does not directly bind to or
+activate GLP-1 receptors
+Effects mainly mediated by AMPK -
+improvements in lipid and glucose
+metabolism
+Low oral bioavailability and short plasma half
+life = high therapeutic dose (e.g. 500mg x 3
+split dose)
+https://doi.org/10.3389/fendo.2026.1879799
+o Cinnamon – mild effect acting as an activator
+of the gut TRPA1 receptors triggering
+downstream secretion of GLP-1
+
+--- page 26 ---
+26
+Contenders – bitter compounds
+Certain natural bitter compounds (quercetin,
+berberine) may increase GLP-1 secretion
+Mechanism - activation of bitter taste receptors
+(TAS2Rs) in the gut
+Mild to modest effects
+https://doi.org/10.3390/ijms27219816
+
+--- page 27 ---
+Previous work
+2
+7Tiekou Lorinczova et al. (2021)  https://doi.org/10.3390/nu13072157
+
+--- page 28 ---
+Participants
+(N = 12)
+Fast over
+night
+(water
+only)
+Porridge
++
+Potato P
+Test Day
+Height,
+weight,
+waist, hip,
+and body
+fat %
+One day prior to
+test meal Day of test meal
+Treatment Week
+Health
+Screening
+Screening
+Anthropometric
+measurements
+Random allocation of
+protein shakes received
+Porridge
++
+ Whey P
+Porridge
+Next
+treatment
+Intervention Day
+meal consumption,
+blood samples,
+appetite VAS,
+palatability VAS
+Lunch ed
+libitum
+(standardised
+meal)
+Weight of
+food and
+calories
+consumed
+APPETITE - Advanced Protein-based Program for Effective
+Treatment of Appetite Regulation and Obesity
+University of Westminster ethical approval (ETH2223-1377)
+
+--- page 29 ---
+
+
+--- page 30 ---
+30
+0 min 30 min 60 min 120 min 180 min
+0
+20
+40
+60
+80
+100
+GLP-1 concentration
+(pmol/L)
+* *#
+0 min 30 min 60 min 120 min 180 min
+0
+30
+60
+90
+120
+GIP concentration
+(pg/mL)
+*****
+Comparable, significant increase in GLP-1 secretion following protein supplementation
+GLP-1 GIP
+* WP > Ctrl (p ≤ 0.05)
+# PP > Ctrl (p ≤ 0.05) *, ** WP > PP (p ≤ 0.05, p ≤ 0.01)
+Unpublished data – manuscript in progress
+
+--- page 31 ---
+3
+1University of Westminster ethical approval ETH2526-0070
+SATISPHY - Satiety and Appetite Testing of Reducose®
+Formulations - Phynova
+
+--- page 32 ---
+
+
+--- page 33 ---
+33
+MLE supplementation improves glycaemic response and significantly
+enhances post-meal GLP-1 secretion
+Unpublished data – manuscript in progress
+MLE supplementation causes a marked reduction in appetite as well as food noise
++ 140%
+Post-meal GLP-1 increase
+compared to placebo
+- 23%
+Appetite compared to
+placebo
+
+--- page 34 ---
+34
+ GLP-1 based pharma therapies have transformed approaches to
+obesity
+ Transition to lifestyle and consumerisation can lead to risks
+ Nutraceutical approaches may provide safer alternatives for specific
+populations
+ No supplement product can provide the magnitude of response seen
+with GLP-1 drugs
+ Ingredients and products with strong scientific substantiation stand out
+ GLP-1 use creates functional needs generating a demand for
+companion products - micronutrients, protein, fibre and probiotics
+Key point summary – from hype to proof
