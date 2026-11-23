@@ -20,3 +20,4 @@ Leave out `test/` and this file.
 | 9 | 2026-11-17 | 769bd88 | Data only: FiE 2026 created; three confidential side conversations (Clasado, AIDP, Fairfield Nutech), AIDP summarised with desk research. |
 | 10 | 2026-11-17 | 59bcded | Data only: Clasado summarised with desk research (confidential). |
 | 11 | 2026-11-17 | 8a16b25 | Data only: Fairfield Nutech (most likely Fayrefield Nutratek) summarised with desk research (confidential). |
+| 12 | 2026-11-23 | c855a0d | Data only: Remedy's Aker BioMarine krill deck (new session) and Nick Morgan's slides (summary revised with slide figures). |
