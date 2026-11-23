@@ -281,3 +281,40 @@ leads:
   - {event: remedy-cdmo-2026, session: nuritas-peptistrong}
   summary: Has a "GLP1 Friendly" range including Complete Protein and Energy + Creatine; also on Nuritas's customer logo wall; my reading, a CreaWin and IsoClr Pea prospect for GLP-1 users.
   added: '2026-11-23'
+- id: ancient-brave
+  company: Ancient + Brave
+  kinds: [customer]
+  status: heard
+  confidential: false
+  sources:
+  - {event: nutra-healthspan-summit-2026, session: ancient-brave-womens-healthspan}
+  - {event: nutra-healthspan-summit-2026, session: euromonitor-who-is-winning-healthspan}
+  summary: UK women's wellness brand (collagen, True Creatine+) named by Euromonitor as winning with IM8; its science director calls for dosing to the evidence and testing finished products in women; who supplies its creatine is unknown; my reading, a CreaWin prospect.
+  added: '2026-11-23'
+- id: solgar
+  company: Solgar
+  kinds: [customer]
+  status: heard
+  confidential: false
+  sources:
+  - {event: nutra-healthspan-summit-2026, session: nutrition-to-improve-mitochondrial-functions}
+  summary: Its Vitality Creatine Complex was shown by Nestlé Research beside creatine as a supplement for mitochondrial function; my reading, a CreaWin prospect (the slide does not say Solgar is a Nestlé Health Science brand).
+  added: '2026-11-23'
+- id: effepharm
+  company: EffePharm (UTHEVER NMN)
+  kinds: [partner]
+  status: heard
+  confidential: false
+  sources:
+  - {event: nutra-healthspan-summit-2026, session: uthever-nmn-nad-metabolism-sleep-health}
+  summary: NMN supplier expecting EU novel-food approval in November 2026 after a positive EFSA opinion; its own unpublished sleep trial (34 adults, 600 mg a day); my reading, NAD+ products may sit beside creatine in energy and healthy-ageing ranges.
+  added: '2026-11-23'
+- id: bsra
+  company: British Society for Research on Ageing (BSRA)
+  kinds: [partner]
+  status: heard
+  confidential: false
+  sources:
+  - {event: nutra-healthspan-summit-2026, session: the-challenge-and-opportunity-of-our}
+  summary: Invites industry as members and partners for long healthy-ageing trials (David Weinkove).
+  added: '2026-11-23'
