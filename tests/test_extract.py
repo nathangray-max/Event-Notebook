@@ -53,3 +53,8 @@ def test_unknown_kind(tmp_path):
 
 def test_no_files_folder(tmp_path):
     assert extract.extract_session(tmp_path) == {}
+
+
+def test_clean_drops_unmappable_glyphs():
+    from confnotes.extract import _clean
+    assert _clean("thank you \ufffd merci") == "thank you  merci"

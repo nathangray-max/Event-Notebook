@@ -17,7 +17,7 @@ EXTRACTABLE = {".pdf", ".pptx", ".docx"}
 
 
 def _clean(text: str) -> str:
-    text = text.replace("\r", "")
+    text = text.replace("\r", "").replace("\ufffd", "")  # U+FFFD: a glyph the PDF could not map; drop it
     text = re.sub(r"[ \t]+\n", "\n", text)
     text = re.sub(r"\n{3,}", "\n\n", text)
     return text.strip()
