@@ -5,17 +5,39 @@ start: '12:00'
 end: '12:20'
 format: talk
 track: ''
-speakers: []
-themes: []
-ingredients: []
-relevance: ''
-status: captured
-summary_by: ''
-summary_date: ''
+speakers:
+- name: Philipp Gut
+  organisation: Nestlé Research
+  role: M.D.
+themes:
+- longevity-positioning
+- creatine-beyond-strength
+- muscle-health-beyond-protein
+ingredients:
+- creatine
+- nicotinamide riboside (NR)
+- nicotinamide mononucleotide (NMN)
+- nicotinamide (NAM)
+- pyridoxine (vitamin B6)
+- urolithin A
+- N-acetylcysteine
+- glycine
+- trigonelline
+- thymol
+- carvacrol
+- oleuropein
+- polyphenols (resveratrol, quercetin, piceatannol)
+- dairy protein micelles
+relevance: high
+status: summarised
+summary_by: Claude
+summary_date: '2026-11-23'
 reviewed_by: ''
 reviewed_date: ''
 attended_by: []
 links: {}
-to_check: Speakers are not on the agenda; no recording, slides or notes filed; whether Nathan attended.
+to_check: Whether Nathan attended. No recording; slides only. The PDF has no text layer, so all slide text was read from the
+  slide images. The speaker's name is spelled "Philipp Gut, M.D." on the title slide (the upload's file name has "Phillip");
+  his role beyond M.D. is not given. Slide 8 cites Hojfeldt et al. as Advanced Science 2026, slide 9 as Science Advances 2026.
 added: '2026-11-10'
 added_by: Claude (from the printed agenda, Nathan's photo, 10 Nov 2026)
