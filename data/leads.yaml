@@ -211,3 +211,13 @@ leads:
   - {event: remedy-cdmo-2026, session: 2waves-platform}
   summary: Platform putting Polish CDMOs' ingredient inquiries in front of verified suppliers; my reading, worth registering early as a creatine and pea protein supplier.
   added: '2026-11-20'
+- id: aker-biomarine
+  company: Aker BioMarine (Superba Krill)
+  kinds: [partner]
+  status: heard
+  confidential: false
+  sources:
+  - {event: remedy-cdmo-2026, session: aker-biomarine-krill-peakspan}
+  - {event: remedy-cdmo-2026, session: panel-evidence-regulation-ai}
+  summary: Pitches krill oil for strength in over-65s and muscle kept during weight loss, with a "Strength" muscle-and-mobility concept; warns of a fish oil shortfall from 2027; my reading, a stacking partner for CreaWin or IsoClr Pea.
+  added: '2026-11-23'
