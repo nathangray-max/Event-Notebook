@@ -1,7 +1,7 @@
 {
  "schema": "confnotes.themes/1",
  "built": "2026-11-23",
- "commit": "be0daf7",
+ "commit": "0a026d1",
  "count": 19,
  "items": [
   {
@@ -50,6 +50,12 @@
    "first_seen": "remedy-cdmo-2026",
    "events": [],
    "sessions": [
+    {
+     "event": "nutra-healthspan-summit-2026",
+     "session": "indena-longevity-appearance",
+     "title": "The longevity paradigm: Healthy appearance as a reflection of internal vitality",
+     "date": "2026-11-11"
+    },
     {
      "event": "sans-europe-2026",
      "session": "unfiltered-an-insider-s-view-of",
@@ -238,6 +244,12 @@
    "sessions": [
     {
      "event": "nutra-healthspan-summit-2026",
+     "session": "the-challenge-and-opportunity-of-our",
+     "title": "The Challenge and Opportunity of Our Ageing Population",
+     "date": "2026-11-10"
+    },
+    {
+     "event": "nutra-healthspan-summit-2026",
      "session": "euromonitor-who-is-winning-healthspan",
      "title": "Fewer products, more proof: who is winning the healthspan economy?",
      "date": "2026-11-10"
@@ -257,7 +269,7 @@
     {
      "event": "nutra-healthspan-summit-2026",
      "session": "jens-walter-microbiome-ageing",
-     "title": "Synbiotic Health Presentation",
+     "title": "Microbiome modulation through nutritional interventions to extend healthy lifespan",
      "date": "2026-11-10"
     },
     {
@@ -268,9 +280,33 @@
     },
     {
      "event": "nutra-healthspan-summit-2026",
+     "session": "nutrition-to-improve-mitochondrial-functions",
+     "title": "Nutrition to Improve Mitochondrial Functions During Ageing",
+     "date": "2026-11-10"
+    },
+    {
+     "event": "nutra-healthspan-summit-2026",
+     "session": "uthever-nmn-nad-metabolism-sleep-health",
+     "title": "Mitochondrial Function and Ageing / Advancing Human Clinical Research: UTHEVER NMN from NAD+ Metabolism to Sleep Health",
+     "date": "2026-11-10"
+    },
+    {
+     "event": "nutra-healthspan-summit-2026",
      "session": "absorbed-or-assumed-why-pharmacokinetic",
      "title": "Absorbed or Assumed? Why Pharmacokinetic Testing Matters",
      "date": "2026-11-10"
+    },
+    {
+     "event": "nutra-healthspan-summit-2026",
+     "session": "ancient-brave-womens-healthspan",
+     "title": "Living better, not just longer: Shifts for women's healthspan innovation",
+     "date": "2026-11-11"
+    },
+    {
+     "event": "nutra-healthspan-summit-2026",
+     "session": "indena-longevity-appearance",
+     "title": "The longevity paradigm: Healthy appearance as a reflection of internal vitality",
+     "date": "2026-11-11"
     },
     {
      "event": "sans-europe-2026",
@@ -342,6 +378,12 @@
      "date": "2026-11-10"
     },
     {
+     "event": "nutra-healthspan-summit-2026",
+     "session": "nutrition-to-improve-mitochondrial-functions",
+     "title": "Nutrition to Improve Mitochondrial Functions During Ageing",
+     "date": "2026-11-10"
+    },
+    {
      "event": "sans-europe-2026",
      "session": "a-bigger-sports-nutrition-landscape-growth",
      "title": "A Bigger Sports Nutrition Landscape: Growth, Tensions and What Comes Next",
@@ -402,6 +444,12 @@
      "event": "nutra-healthspan-summit-2026",
      "session": "from-hype-to-healthspan-building-the",
      "title": "From hype to healthspan: Building the future of longevity nutrition",
+     "date": "2026-11-10"
+    },
+    {
+     "event": "nutra-healthspan-summit-2026",
+     "session": "nutrition-to-improve-mitochondrial-functions",
+     "title": "Nutrition to Improve Mitochondrial Functions During Ageing",
      "date": "2026-11-10"
     },
     {
@@ -475,6 +523,12 @@
     },
     {
      "event": "nutra-healthspan-summit-2026",
+     "session": "uthever-nmn-nad-metabolism-sleep-health",
+     "title": "Mitochondrial Function and Ageing / Advancing Human Clinical Research: UTHEVER NMN from NAD+ Metabolism to Sleep Health",
+     "date": "2026-11-10"
+    },
+    {
+     "event": "nutra-healthspan-summit-2026",
      "session": "absorbed-or-assumed-why-pharmacokinetic",
      "title": "Absorbed or Assumed? Why Pharmacokinetic Testing Matters",
      "date": "2026-11-10"
@@ -484,6 +538,18 @@
      "session": "artificial-intelligence-to-rapidly-develop",
      "title": "Artificial Intelligence to Rapidly Develop, Improve and Expand Use of Natural Ingredients",
      "date": "2026-11-10"
+    },
+    {
+     "event": "nutra-healthspan-summit-2026",
+     "session": "ancient-brave-womens-healthspan",
+     "title": "Living better, not just longer: Shifts for women's healthspan innovation",
+     "date": "2026-11-11"
+    },
+    {
+     "event": "nutra-healthspan-summit-2026",
+     "session": "indena-longevity-appearance",
+     "title": "The longevity paradigm: Healthy appearance as a reflection of internal vitality",
+     "date": "2026-11-11"
     },
     {
      "event": "sans-europe-2026",
@@ -580,6 +646,12 @@
     },
     {
      "event": "nutra-healthspan-summit-2026",
+     "session": "uthever-nmn-nad-metabolism-sleep-health",
+     "title": "Mitochondrial Function and Ageing / Advancing Human Clinical Research: UTHEVER NMN from NAD+ Metabolism to Sleep Health",
+     "date": "2026-11-10"
+    },
+    {
+     "event": "nutra-healthspan-summit-2026",
      "session": "ai-driven-personalization-at-scale",
      "title": "AI-Driven Personalization at Scale: Turning Wellness Complexity into Clear Guidance",
      "date": "2026-11-10"
@@ -641,6 +713,12 @@
    "first_seen": "remedy-cdmo-2026",
    "events": [],
    "sessions": [
+    {
+     "event": "nutra-healthspan-summit-2026",
+     "session": "indena-longevity-appearance",
+     "title": "The longevity paradigm: Healthy appearance as a reflection of internal vitality",
+     "date": "2026-11-11"
+    },
     {
      "event": "sans-europe-2026",
      "session": "built-in-the-gym-turning-athlete",
@@ -705,6 +783,12 @@
    "events": [],
    "sessions": [
     {
+     "event": "nutra-healthspan-summit-2026",
+     "session": "uthever-nmn-nad-metabolism-sleep-health",
+     "title": "Mitochondrial Function and Ageing / Advancing Human Clinical Research: UTHEVER NMN from NAD+ Metabolism to Sleep Health",
+     "date": "2026-11-10"
+    },
+    {
      "event": "remedy-cdmo-2026",
      "session": "martin-bauer-rhosera",
      "title": "Martin Bauer: RhoSera, cultivated Rhodiola rosea against anabolic resistance",
@@ -748,6 +832,12 @@
      "session": "ai-driven-personalization-at-scale",
      "title": "AI-Driven Personalization at Scale: Turning Wellness Complexity into Clear Guidance",
      "date": "2026-11-10"
+    },
+    {
+     "event": "nutra-healthspan-summit-2026",
+     "session": "ancient-brave-womens-healthspan",
+     "title": "Living better, not just longer: Shifts for women's healthspan innovation",
+     "date": "2026-11-11"
     },
     {
      "event": "sans-europe-2026",
@@ -899,7 +989,7 @@
     {
      "event": "nutra-healthspan-summit-2026",
      "session": "jens-walter-microbiome-ageing",
-     "title": "Synbiotic Health Presentation",
+     "title": "Microbiome modulation through nutritional interventions to extend healthy lifespan",
      "date": "2026-11-10"
     },
     {

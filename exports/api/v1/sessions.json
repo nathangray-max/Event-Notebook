@@ -1,8 +1,8 @@
 {
  "schema": "confnotes.sessions/1",
  "built": "2026-11-23",
- "commit": "be0daf7",
- "count": 49,
+ "commit": "0a026d1",
+ "count": 51,
  "items": [
   {
    "id": "the-challenge-and-opportunity-of-our",
@@ -13,31 +13,145 @@
    "end": "09:20",
    "format": "talk",
    "track": "",
-   "speakers": [],
-   "themes": [],
+   "speakers": [
+    {
+     "name": "David Weinkove",
+     "organisation": "British Society for Research on Ageing (BSRA); Durham University",
+     "role": "Emeritus Chair, British Society for Research on Ageing; Professor, Durham University"
+    }
+   ],
+   "themes": [
+    "longevity-positioning"
+   ],
    "ingredients": [],
-   "relevance": "",
-   "status": "captured",
-   "summary_by": "",
-   "summary_date": "",
+   "relevance": "low",
+   "status": "summarised",
+   "summary_by": "Claude",
+   "summary_date": "2026-11-23",
    "reviewed_by": "",
    "reviewed_date": "",
    "attended_by": [],
    "links": {},
-   "to_check": "Speakers are not on the agenda; no recording, slides or notes filed; whether Nathan attended.",
+   "to_check": "Whether Nathan attended. No recording; slides only. The second person pictured on the call-to-action slide (slide 9) is not named.",
    "added": "2026-11-10",
    "added_by": "Claude (from the printed agenda, Nathan's photo, 10 Nov 2026)",
    "has_transcript": false,
    "transcript_words": 0,
    "has_notes": false,
-   "has_summary": false,
-   "summary": null,
-   "takeaways": [],
-   "quotes": [],
-   "followups": [],
+   "has_summary": true,
+   "summary": {
+    "Summary": "David Weinkove, Professor at Durham University and Emeritus Chair of the British Society for Research on Ageing (BSRA), gave the first talk on the day's agenda. His subject was why slowing ageing matters, and why it is hard to prove.\n\nHe opened with a strong claim: our ageing population is a bigger threat than climate change, through the cost of living, pressure on health services and tension in society. A population pyramid of the UK in 2026 set the scene.\n\nHe then set prevention against treatment and argued that ageing is malleable. In England, people in the least deprived areas live 70.7 years in good health; in the most deprived, 51.9.\n\nThe science has three fundamentals. Ageing speeds up with time, people grow more different from each other, and the body holds its balance less well. That makes trials hard: they need large numbers of healthy but ageing people over several years, and funding and approval are difficult.\n\nHis call to action had three parts. Make the case that keeping people healthy for longer is good for everyone. Make trials long enough to measure ageing. Bring industry, charities, government and universities together. The BSRA, with over 300 members from academia and industry, asked the room to talk to it.",
+    "Key takeaways": "- The frame: \"Our ageing population is a bigger threat than climate change\", because of the cost of living, pressure on health services and societal tensions (slide 2).\n- Ageing is malleable: in England (ONS, 2018 to 2020, in the Chief Medical Officer's Annual Report 2023), the least deprived 10% of small areas live 70.7 years in good health and 15.6 in poorer health; the most deprived 51.9 and 26.4 (slide 5).\n- Three fundamentals of ageing: the rate of ageing accelerates with time, variation between individuals increases, and homeostasis declines (slide 6).\n- Trials to slow ageing need large numbers and several years, ideally in people who are healthy but ageing, and funding and approval are challenging (slide 7).\n- The call to action: make the case for healthy longevity, make trials long enough to measure ageing, and have industry, charities, government and universities work together (slide 9).",
+    "For Vita Actives": "- Relevance low: no ingredient or product is named. The talk sets the public-health and research frame for healthy ageing, not a market (slide 2) (slide 9).\n- My reading: years in good health, not lifespan, is the frame our healthy-ageing pitches for CreaWin and IsoClr: Pea already use. The healthy-life-expectancy gap is a public figure (ONS, Chief Medical Officer) a brand deck could cite (slide 5).\n- His point on trials (slide 7). My reading: \"slowing ageing\" stays out of reach as a supplement claim for years; muscle, strength and function endpoints remain the practical route for creatine and protein.\n- The BSRA invites industry to talk to it and counts industry among its members (slide 8) (slide 9). My reading: a route to academic partners if we ever fund a long healthy-ageing study.\n- Context from the next talk: Nick Stene of Euromonitor said 2026 is the first year more is spent on prevention than on treatment, and that demographics explain about 30 to 40% of consumer-health growth through people entering a new life stage, not the size of the ageing population (euromonitor-who-is-winning-healthspan). Weinkove's slides frame the ageing population itself as the challenge; the two views differ in emphasis.",
+    "Quotes": "- \"Our ageing population is a bigger threat than climate change\" (slide 2)\n- \"Make the case: keeping people healthy for longer is good for everyone\" (slide 9)\n- \"Make trials long enough to measure ageing\" (slide 9)",
+    "Follow-ups": "- Ask the BSRA how industry members join and whether it brokers long-term healthy-ageing trials with industry partners.\n- Find the Chief Medical Officer's Annual Report 2023 (Health in an Ageing Society) for the healthy-life-expectancy figures, if a brand deck needs them.\n- Confirm whether Nathan attended.",
+    "Key slides": "",
+    "Detail": "- Title slide: \"Emeritus Chair, British Society for Research on Ageing\" and \"Professor, Durham University\" (slide 1).\n- UK population pyramid, 2026 (PopulationPyramid.net): population 69,931,528. The largest five-year bands are 55 to 59 (3.1% men, 3.4% women) and 30 to 34 (3.4% men, 3.3% women). Read from the chart (slide 3). My sum of the chart's bars: 20.0% of the population is 65 or over.\n- \"Prevention vs Treatment\": a world map of radiotherapy machines per million people, 2023 (Cancer Atlas). 52 countries have 5 or more, 9 have 3 to 5, 42 have 1 to 3, 45 have fewer than 1, and 37 report none. Read from the chart (slide 4). The slide has no text beyond its title; my reading, it shows how unequal access to treatment is.\n- \"Ageing is malleable\": total life expectancy at birth is 78.3 years in the most deprived 10% of small areas and 86.3 in the least deprived (my sums of the bars), and the gap in years of good health is 18.8 (my arithmetic). Source: ONS health state life expectancies by national deprivation deciles, England, 2018 to 2020, in the Chief Medical Officer's Annual Report 2023: Health in an Ageing Society. Read from the chart (slide 5).\n- BSRA: over 300 members from over 50 institutions, academic and industry, UK and international (slide 8).\n- The call to action ends \"TALK TO US!\", with photos of two people, not named (slide 9).",
+    "Research": ""
+   },
+   "takeaways": [
+    {
+     "text": "The frame: \"Our ageing population is a bigger threat than climate change\", because of the cost of living, pressure on health services and societal tensions (slide 2).",
+     "cites": [
+      "slide 2"
+     ]
+    },
+    {
+     "text": "Ageing is malleable: in England (ONS, 2018 to 2020, in the Chief Medical Officer's Annual Report 2023), the least deprived 10% of small areas live 70.7 years in good health and 15.6 in poorer health; the most deprived 51.9 and 26.4 (slide 5).",
+     "cites": [
+      "slide 5"
+     ]
+    },
+    {
+     "text": "Three fundamentals of ageing: the rate of ageing accelerates with time, variation between individuals increases, and homeostasis declines (slide 6).",
+     "cites": [
+      "slide 6"
+     ]
+    },
+    {
+     "text": "Trials to slow ageing need large numbers and several years, ideally in people who are healthy but ageing, and funding and approval are challenging (slide 7).",
+     "cites": [
+      "slide 7"
+     ]
+    },
+    {
+     "text": "The call to action: make the case for healthy longevity, make trials long enough to measure ageing, and have industry, charities, government and universities work together (slide 9).",
+     "cites": [
+      "slide 9"
+     ]
+    }
+   ],
+   "quotes": [
+    {
+     "text": "\"Our ageing population is a bigger threat than climate change\" (slide 2)",
+     "cites": [
+      "slide 2"
+     ]
+    },
+    {
+     "text": "\"Make the case: keeping people healthy for longer is good for everyone\" (slide 9)",
+     "cites": [
+      "slide 9"
+     ]
+    },
+    {
+     "text": "\"Make trials long enough to measure ageing\" (slide 9)",
+     "cites": [
+      "slide 9"
+     ]
+    }
+   ],
+   "followups": [
+    "Ask the BSRA how industry members join and whether it brokers long-term healthy-ageing trials with industry partners.",
+    "Find the Chief Medical Officer's Annual Report 2023 (Health in an Ageing Society) for the healthy-life-expectancy figures, if a brand deck needs them.",
+    "Confirm whether Nathan attended."
+   ],
    "key_slides": [],
-   "detail": [],
-   "files": []
+   "detail": [
+    {
+     "text": "Title slide: \"Emeritus Chair, British Society for Research on Ageing\" and \"Professor, Durham University\" (slide 1).",
+     "cites": [
+      "slide 1"
+     ]
+    },
+    {
+     "text": "UK population pyramid, 2026 (PopulationPyramid.net): population 69,931,528. The largest five-year bands are 55 to 59 (3.1% men, 3.4% women) and 30 to 34 (3.4% men, 3.3% women). Read from the chart (slide 3). My sum of the chart's bars: 20.0% of the population is 65 or over.",
+     "cites": [
+      "slide 3"
+     ]
+    },
+    {
+     "text": "\"Prevention vs Treatment\": a world map of radiotherapy machines per million people, 2023 (Cancer Atlas). 52 countries have 5 or more, 9 have 3 to 5, 42 have 1 to 3, 45 have fewer than 1, and 37 report none. Read from the chart (slide 4). The slide has no text beyond its title; my reading, it shows how unequal access to treatment is.",
+     "cites": [
+      "slide 4"
+     ]
+    },
+    {
+     "text": "\"Ageing is malleable\": total life expectancy at birth is 78.3 years in the most deprived 10% of small areas and 86.3 in the least deprived (my sums of the bars), and the gap in years of good health is 18.8 (my arithmetic). Source: ONS health state life expectancies by national deprivation deciles, England, 2018 to 2020, in the Chief Medical Officer's Annual Report 2023: Health in an Ageing Society. Read from the chart (slide 5).",
+     "cites": [
+      "slide 5"
+     ]
+    },
+    {
+     "text": "BSRA: over 300 members from over 50 institutions, academic and industry, UK and international (slide 8).",
+     "cites": [
+      "slide 8"
+     ]
+    },
+    {
+     "text": "The call to action ends \"TALK TO US!\", with photos of two people, not named (slide 9).",
+     "cites": [
+      "slide 9"
+     ]
+    }
+   ],
+   "files": [
+    {
+     "name": "david-weinkove-ageing-population.pdf",
+     "kind": "pdf",
+     "pages": 9
+    }
+   ]
   },
   {
    "id": "euromonitor-who-is-winning-healthspan",
@@ -380,7 +494,7 @@
     {
      "name": "Ewa Hudson",
      "organisation": "Lumina Intelligence",
-     "role": ""
+     "role": "Strategy & Insight Director, ReThink Global"
     }
    ],
    "themes": [
@@ -391,15 +505,21 @@
    ],
    "ingredients": [
     "vitamins",
-    "omegas",
+    "omega-3",
     "minerals",
     "probiotics",
-    "postbiotics"
+    "antioxidants and polyphenols",
+    "prebiotics and fibre",
+    "amino acids and proteins",
+    "CoQ10",
+    "botanical extracts",
+    "postbiotics",
+    "nicotinamide riboside (Niagen)"
    ],
    "relevance": "high",
    "status": "summarised",
    "summary_by": "Claude",
-   "summary_date": "2026-11-10",
+   "summary_date": "2026-11-23",
    "reviewed_by": "",
    "reviewed_date": "",
    "attended_by": [
@@ -408,61 +528,70 @@
    "links": {
     "otter": "https://otter.ai/u/cIf3E0sDizFN1GEBbAdmh0a8sAs"
    },
-   "to_check": "Ewa Hudson's role at Lumina Intelligence and the room are not confirmed. Title and slot (09:40 to 09:55) from the printed agenda (Nathan's photo, 10 Nov 2026); her recording ran 09:47 to 10:05. Otter's \"Niagara\" is probably Niagen; the 27% bar on photo 1 is not clearly on the Retired series.",
+   "to_check": "The room is not confirmed. Title and slot (09:40 to 09:55) from the printed agenda (Nathan's photo, 10 Nov 2026) and the deck; her recording ran 09:47 to 10:05. The deck does not show the 18% who want to stay as they are, nor label the lighter series on the age chart (photo 1, slide 4).",
    "added": "2026-11-10",
-   "added_by": "Claude (from Nathan's slide photos and Otter recording, 10 Nov 2026)",
+   "added_by": "Claude (from Nathan's slide photos and Otter recording, 10 Nov 2026; deck added 23 Nov 2026)",
    "has_transcript": true,
    "transcript_words": 2612,
    "has_notes": false,
    "has_summary": true,
    "summary": {
-    "Summary": "Ewa Hudson of Lumina Intelligence presented consumer research on ageing from a survey of over 10,000 people in nine countries. Her question: consumers are rewriting the rules of ageing, so is the industry ready to rewrite its own?\n\nHer first point was that the longevity consumer is no longer old. Retired people mostly began thinking seriously about ageing in their 60s; people in full-time work mostly in their 30s. Younger people blame their genes less and put more faith in supplements, and one in four is actively pursuing anti-ageing.\n\nAgeing well, she said, means having the vitality to keep reinventing yourself. She named energy, stamina and physical strength as the top concern across age brackets, and mobility, joint and bone health as first for women. Needs shift with life stage and country, and GLP-1 treatment is moving users towards healthier habits.\n\nTrust is the gap: the first answer on hesitation about longevity supplements was not enough proof. Some brands are moving from selling supplements to measuring biological ageing, as Life Extension does with blood tests taken before and after supplements. Her conclusion: applied and communicated science will be the number one trust creator, and the leaders of the next decade may be platforms that measure, manage and optimise ageing.",
-    "Key takeaways": "- Concern about ageing starts younger: retired respondents mostly began thinking seriously about it in their 60s (36% on the Retired bar), people in full-time work mostly in their 30s; she called it \"a generational shift\" [00:04] (photo 1).\n- The younger the respondent, the less they credit genetics and the more they credit supplements: genetics from 39% at 65 plus down to 21% in the youngest group; supplements from 20% at 25 to 34 down to 12% at 65 plus [00:04].\n- \"[1 in] 4 is actively pursuing [anti]-ageing\": 16% want to prevent premature ageing and 11% to reverse it, beside 52% who want to age slowly and healthily [00:04] (photo 2).\n- Energy, stamina and strength is in the top three concerns of every age band shown, for men and women; mobility, joint and bone health is in the top three of every band from 35 to 44 up for both, and from 25 to 34 for women (photo 3).\n- Trust is the gap: the first answer to \"What's your biggest hesitation about taking longevity supplements?\" was not enough proof; 36% already take supplements to counteract natural ageing [00:04].\n- Brands are moving from selling supplements to managing biological ageing: Life Extension sells ageing blood tests to take before and after supplements, and she gave Novos as \"Another similar example\" of a move \"from supplement brand to health intelligence company\" [00:04] (photo 4).",
-    "For Vita Actives": "- Energy, stamina and strength is a top-three ageing concern in every age band for both men and women (photo 3). My reading: this is the concern our sports and active nutrition ingredients (CreaWin, IsoClr: Pea, Oxystorm) sit closest to, so healthy-ageing brands are a natural audience for them, pitched within what each ingredient's own evidence supports. The slide gives an order of concerns, not percentages.\n- Working people start thinking about ageing in their 30s [00:04] (photo 1). My reading: the healthy-ageing buyer and the active adult our customers already sell to are increasingly the same person, which widens where sports ingredients can be pitched.\n- Proof is the first hesitation, and brands such as Life Extension now test before and after supplements [00:04] (photo 4). My reading: brands will ask suppliers for clinical evidence and outcomes a consumer can measure; our evidence files should be ready for that.\n- Science published behind the scenes \"will feed all the AI tools\" consumers now ask for advice [00:04]. My reading: our evidence should be public and easy for those tools to read.\n- Relevance high: consumer data on ageing, with energy and strength as the leading concern.",
+    "Summary": "Ewa Hudson, Strategy & Insight Director at ReThink Global, Lumina Intelligence, presented a July 2026 survey of 10,500 consumers in nine countries. Her question: consumers are rewriting the rules of ageing, so is the industry ready to rewrite its own?\n\nHer first point was that the longevity consumer is no longer old. Retired people mostly began thinking seriously about ageing in their 60s; people in full-time work mostly in their 30s. Younger people blame their genes less and put more faith in supplements, and one in four is actively pursuing anti-ageing.\n\nAgeing well, she said, means having the vitality to keep reinventing yourself. Energy, stamina and physical strength is a top-three concern in every age band, and mobility, joint and bone health comes first for women from their mid-thirties. Needs shift with life stage and country, and GLP-1 treatment is moving UK users towards healthier habits.\n\nTrust is the gap: in the UK, not enough proof was the most common hesitation about longevity supplements. Brands such as Niagen, Life Extension and Novos are moving from selling supplements to measuring and managing biological ageing. Her conclusion: applied and communicated science will be the number one trust creator, and the healthspan leaders of the next decade may be platforms that measure, manage and optimise ageing.",
+    "Key takeaways": "- Concern about ageing starts younger: retired respondents mostly began thinking seriously about it in their 60s (36%); in the deck's version of the chart, people working full-time mostly began in their 30s (about 30%, read from the chart). She called it \"a generational shift\" [00:04] (photo 1) (slide 4).\n- The younger the respondent, the less they credit genetics and the more they credit supplements: genetics from 39% at 65 plus down to 21% at 18 to 24; supplements from 20% at 25 to 34 down to 12% at 65 plus [00:04] (slide 2) (slide 3).\n- One in four is actively pursuing anti-ageing: 16% want to prevent premature ageing and 11% to reverse it, beside 52% who want to age slowly and healthily [00:04] (photo 2) (slide 5).\n- Energy, stamina and strength is in the top three concerns of every age band, for men and women; mobility, joint and bone health is in the top three of every band from 35 to 44 up for both, and from 25 to 34 for women (photo 3) (slide 8).\n- Trust is the gap. Biggest hesitation about longevity supplements in the UK: not enough proof 22%, cost 21%, don't believe claims 20%, safety concerns 20%. Across the survey, 36% already take supplements to counteract natural ageing [00:04] (slide 17) (slide 18).\n- Brands are moving from product to platform: Niagen added telehealth, IV and injections, skincare and a drug pipeline; Life Extension sells ageing blood tests to take before and after supplements; Novos sells an at-home biological-age kit [00:04] (photo 4) (slide 9) (slide 19).",
+    "For Vita Actives": "- Energy, stamina and strength is a top-three ageing concern in every age band for both men and women (photo 3), and her list of what products must show starts with \"Energy and physical strength\" and ends with \"Everyday activity and recovery\" (slide 8). My reading: this is the concern our sports and active nutrition ingredients (CreaWin, IsoClr: Pea, Oxystorm) sit closest to, so healthy-ageing brands are a natural audience for them, pitched within what each ingredient's own evidence supports. The concerns slide gives an order, not percentages.\n- People working full-time mostly start thinking about ageing in their 30s [00:04] (slide 4). My reading: the healthy-ageing buyer and the active adult our customers already sell to are increasingly the same person, which widens where sports ingredients can be pitched.\n- 20% name amino acids and proteins among the categories most helpful for extending healthspan, behind vitamins (50%), omega-3 (39%), minerals (25%) and probiotics (22%) (slide 17). Muscle appears in her life-stage messages (UK women in their late 40s, US men in their late 30s), but 5% or fewer choose muscle mass or strength as their single most important goal (slide 10) (slide 11) (slide 13) (slide 14). My reading: muscle is a supporting healthy-ageing message, not the lead; energy, strength and everyday activity are the better door for CreaWin and IsoClr: Pea.\n- Not enough proof is the top UK hesitation, at 22% (slide 18), and brands now test before and after supplements (photo 4). Science published behind the scenes \"will feed all the AI tools\" consumers ask for advice [00:04]. My reading: brands will ask suppliers for clinical evidence and outcomes a consumer can measure; our evidence should be ready, public and easy for those tools to read.\n- Relevance high: consumer data on ageing, with energy and strength as the leading concern and proteins named by one in five.",
     "Quotes": "- \"...the younger you are, the less you blame your genes.\" Speaker 1 (Ewa Hudson) [00:04]\n- \"Aging well means actually having the vitality to keep reinventing yourself.\" Speaker 1 (Ewa Hudson) [00:04]\n- \"...trust is the gap and is costing the industry.\" Speaker 1 (Ewa Hudson) [00:04]\n- \"So applied and communicated science will be definitely the number one trust creator\" Speaker 1 (Ewa Hudson) [00:04]",
-    "Follow-ups": "- Ewa Hudson (Lumina Intelligence): ask for the deck, the full survey (the ninth country, the lighter series on photo 1, the 18% who want to stay as they are) and the UK GLP-1 tracker [00:04].\n- Confirm \"Niagara\" (probably Niagen) and \"Novos\" with the deck or the speaker.\n- The billed title, her role and the track, once the programme is published.",
+    "Follow-ups": "- Ewa Hudson (Lumina Intelligence; contact details on slide 24): the 18% who want to stay as they are, the label of the lighter series on the age chart, and the 50% for genetics in Italy and Saudi Arabia, none of which the deck shows.\n- Download the full research report (QR code on slide 23), for the healthspan category and proteins answers by country.\n- Lumina's GLP-Navigator (UK out-of-home), if GLP-1 users become a pitch for us (slide 16).",
     "Key slides": "- (photo 1) Age at which retired respondents first thought seriously about ageing: mostly their 60s.\n- (photo 2) One in four actively pursuing anti-ageing: 52% age slowly, 16% prevent, 11% reverse.\n- (photo 3) Top three ageing concerns by age band, men and women, with energy and mobility traced through the ages.\n- (photo 4) Life Extension's ageing lab tests: from supplement brand to health intelligence company.",
-    "Detail": "- The whole talk is one Otter turn starting at [00:04], labelled Speaker 1; Stephen Daniells (NutraIngredients) thanks her at [17:12]. Neither the recording nor the slides give her billed title or role.\n- Her three parts: longevity aspirations across generations, what consumers want and need, and whether scientific innovation on its own is enough to earn consumers' trust [00:04].\n- Survey base, as she said it: over 10,000 people in nine countries [00:04]. Photo 3 names Brazil, China, France, Germany, Italy, Saudi Arabia, Spain and the UK along its foot; the ninth is cut off (photo 3).\n- What most extends healthspan: respondents agreed on exercise, sleep and diet. Genetics as a big factor: 39% at 65 plus, 50% in Italy and Saudi Arabia, then 31, 26, 24, 23 and 21% in each younger group [00:04].\n- Supplements as having a role: 20 at 25 to 34, then 19%, 17% and 12% at 65 plus; she linked the 12% to retired people starting to think about ageing in their 60s [00:04].\n- Photo 1, \"[The] new longevity consumer isn't old yet: [age]ing has shifted from a retirement concern to [a] 30-something priority\": the Retired bars read 1% (20s), 3% (30s), 10% (40s), 36% (60s) and 11% (70s); 27% is printed at the 50s, but the photo does not show whether it belongs to the Retired bar or the lighter one; 10% have not started yet (photo 1). The lighter bars have no visible label and no printed values; they are tallest for the 20s, 30s and 40s (photo 1). In the talk she compared retired people with \"the working population and full-time employment\", most of whom were in their 30s [00:04]. My reading: the lighter bars are probably that working group, but the photo does not say so.\n- Ageing goals: 52% want to age slowly and healthily, 16% to prevent premature ageing, 11% to reverse ageing (photo 2). She added \"another 18% want to stay just as they are\", which the photo does not show [00:04].\n- Ambition with age, as Otter heard it: a US Census study of 2.7 million founders found the fastest-growing 0.1% of new ventures were founded at 45 on average, and a 50-year-old was \"roughly 1.1 times as likely\" as a 30-year-old to found an exceptional-growth company; British Business Bank data for 2024 show a boom in over-50 entrepreneurs in the UK; runners who start in their 70s to 90s run marathons at 100 [00:04].\n- Photo 3, \"[Agei]ng well means having the vitality to keep [rein]venting yourself\", \"biggest health-related concerns as we age? Top 3\", concerns listed left to right (the slide does not say the order is a rank) (photo 3):\n  - Men list energy, stamina and strength first from 18 to 24 through 55 to 64; at 65 plus mobility, joint and bone health comes first, then energy, then cognitive decline.\n  - Women list emotional wellbeing first at 18 to 24 and weight first at 25 to 34; mobility, joint and bone health comes first in every band from 35 to 44 up. Cognitive decline appears at 55 to 64 and loss of independence at 65 plus.\n  - Weight appears in two men's and three women's bands; chronic diseases in three men's bands and one women's.\n- In her words, products need to give consumers \"energy and physical strength, mobility, joint health, weight management, cognitive, and everyday activity support and recovery\" [00:04].\n- Companies reinventing themselves: Otter heard \"Niagara\" (probably Niagen; to check), \"from product to purpose\", with \"500 studies\" and \"100 patents\" as heard, moving into services (IV injections, cosmetics) and into pharma [00:04].\n- Life stages, women: at 35 to 44 sleep is \"much more important at any other age\"; she said messages on cellular energy renewal, and on cellular defence declining from about 30, will resonate. Ten years later sleep matters less and weight management, exercise, gut health and muscle strength come up; in Italy preventative medical testing matters more. She said \"The previous data was for the UK and Italy\" [00:04].\n- Life stages, men: in their 30s sleep, stress and exercise; ten years later healthy eating over-indexes and they are much more into supplements [00:04].\n- GLP-1 users, top three changes: more interest in healthy foods, longevity and preventative health; less alcohol, eating and drinking out of home, and snacking. Lumina runs a GLP-1 trends tracker focused on the UK [00:04].\n- 36%, \"one in three\", already take supplements to counteract natural ageing: vitamins, omegas, minerals, probiotics, postbiotics and more, varying by sex and life stage [00:04].\n- Life Extension's ageing tests on photo 4: Phenotypic Age Project Panel blood test USD 105.00 (\"Test key aging markers and calculate biological age\"); Healthy Aging Panel (Comprehensive) USD 249.00; Healthy Aging Panel (Basic) USD 155.00; MTHFR/COMT genetic methylation cheek swab USD 149.00. The slide asks \"How do we help people understand their biology? Supplement brand -> Health intelligence company\" (photo 4). She gave the biological-age blood test as \"for $100\" [00:04].\n- Her reading of test and retest: it shows a brand's trust in its ingredients, a positive result may make the most loyal consumers, and it is \"a way of going around the health legislation a little bit\" because \"whatever is on the back is becoming less relevant\" [00:04].\n- On the slide the \"health intelligence company\" line sits under the Life Extension screenshot (photo 4); in the talk she applied the words to Novos, as heard, as \"Another similar example\" [00:04].\n- \"the health plan leaders of the next decade may not be the pure product companies themselves\", but platforms \"that measure, manage, and optimize aging\" [00:04].\n- At the NutraIngredients Awards the healthy-ageing category (Otter: \"health fund\") is among the most popular, with the most submissions [00:04].\n- She closed with consumers' hopes for wellness technology in 2040 and a quote from Jonas Salk [00:04].",
+    "Detail": "- Billing: Ewa Hudson, Strategy & Insight Director, ReThink Global, under the Lumina Intelligence name (slide 1); the closing slide says \"Strategy & Insights Director\" (slide 24). Lumina is part of the William Reed group, which also runs NutraIngredients and this summit (slide 25). No slide is marked Confidential.\n- The whole talk is one Otter turn starting at [00:04], labelled Speaker 1; Stephen Daniells (NutraIngredients) thanks her at [17:12].\n- Survey base: carried out in July 2026, n=10,500, in Brazil, China, France, Germany, Italy, Saudi Arabia, Spain, the UK and the USA (slide 1); 2,000 in China, 1,250 each in the US and Brazil, 1,000 in each other country (slide 23). She said \"over 10,000 people in nine countries\" [00:04]. The ninth country, cut off on photo 3, is the USA (slide 8). The full report is offered for download by QR code (slide 23).\n- Her three parts: longevity aspirations across generations, what consumers want and need, and whether scientific innovation on its own is enough to earn consumers' trust [00:04].\n- Genetics as a big factor in extending healthspan, all countries: 39% at 65 plus, 31% at 55 to 64, 26% at 45 to 54, 24% at 35 to 44, 23% at 25 to 34, 21% at 18 to 24 (slide 2), as she said them [00:04]. She added 50% in Italy and Saudi Arabia, which the deck does not show [00:04]. The slide: exercise, sleep and diet \"play biggest impact\" (slide 2).\n- Supplements as having an impact: 20% at 25 to 34, 19% at 35 to 44, 17% at 45 to 64, 12% at 65 plus (slide 3), as she said them [00:04]; the deck gives no figure for 18 to 24. She linked the 12% to retired people starting to think about ageing in their 60s [00:04].\n- Age of first serious thought about ageing, two builds of one chart:\n  - Photo 1 shows the Retired series: 1% (20s), 3% (30s), 10% (40s), 27% (50s), 36% (60s), 11% (70s), and 10% have not started (photo 1). With those values the Retired bars and \"have not started\" come to about 100%, so the 27% belongs to the Retired bar (my reading).\n  - The deck (slide 4) shows the same chart with \"Working full-time\" as the labelled series: 10% (50s), 2% (60s), 10% have not started. The 20s, 30s and 40s are behind a text box; read from the chart, about 24%, 30% and 24% (slide 4).\n  - The lighter bars carry no label in the photo or the deck; they are the same in both builds (read from the charts). The slide's message: \"Healthy aging is seen as a PREVENTATIVE OPPORTUNITY\" (slide 4).\n- Ageing goals: 52% want to age slowly and healthily, 16% to prevent premature ageing, 11% to reverse ageing (photo 2) (slide 5). She added \"another 18% want to stay just as they are\", which neither the photo nor the deck shows [00:04].\n- Ambition with age, as Otter heard it: a US Census study of 2.7 million founders found the fastest-growing 0.1% of new ventures were founded at 45 on average, and a 50-year-old was \"roughly 1.1 times as likely\" as a 30-year-old to found an exceptional-growth company [00:04]. The slide shows a Business Matters headline of 12 March 2024, \"Huge boom in over 50 year old entrepreneurs with Start Up Loans providing over £140m of finance\", and links to a census study of high-growth founders' average age and an American Economic Review: Insights paper (slide 6).\n- Late-life runners: she said runners who took up running in their 70s, 80s and 90s run marathons at 100 [00:04]. The slide's four differ: Fauja Singh (UK/India) took up running at 89, oldest marathon at 100 (2012 Hong Kong); Charly Bancarel (France) at 55, 93 (2023 Paris); Giuseppe Damato (Italy) at 73, 90 (2026 Milan); Harriette Thompson (USA), 92 (2015 San Diego) (slide 7).\n- Photo 3, \"[Agei]ng well means having the vitality to keep [rein]venting yourself\", \"biggest health-related concerns as we age? Top 3\", concerns listed left to right (the slide does not say the order is a rank) (photo 3):\n  - Men list energy, stamina and strength first from 18 to 24 through 55 to 64; at 65 plus mobility, joint and bone health comes first, then energy, then cognitive decline.\n  - Women list emotional wellbeing first at 18 to 24 and weight first at 25 to 34; mobility, joint and bone health comes first in every band from 35 to 44 up. Cognitive decline appears at 55 to 64 and loss of independence at 65 plus.\n  - Weight appears in two men's and three women's bands; chronic diseases in three men's bands and one women's.\n  - In the deck the chart is partly behind a text box; its legend names energy, mobility, weight management and chronic diseases (slide 8).\n- What products must show, per the slide: energy and physical strength; mobility, joint and bone health; weight management; cognitive performance; everyday activity and recovery (slide 8). As she said it: \"energy and physical strength, mobility, joint health, weight management, cognitive, and everyday activity support and recovery\" [00:04].\n- Niagen, which Otter heard as \"Niagara\": the slide reads \"How Niagen reinvented itself: from product to purpose, from a supplement brand into a longevity platform\". It redefined the market from \"NAD+ supplements\" to \"healthy aging and longevity\"; added Niagen Plus telehealth, Niagen IV and NAD+ injections; took NAD+ into topical skincare with NanoCloud; and is building a drug pipeline (NB4168, for rare diseases and ageing-related conditions). \"Consumers do not buy nicotinamide riboside. They buy energy, vitality and a longer healthspan.\" Source: Niagen's investor presentation, November 2026. The slide repeats Niagen's line that NAD+ declines by up to about 65% between 30 and 70 (slide 9). Her \"500 studies\" and \"100 patents\", as heard, are not on the slide [00:04].\n- Single most important to long-term health goals, by life stage (the darker bars; the lighter bars carry no label):\n  - UK women, late 30s: mental wellbeing 20%, sleep 20% (circled), reducing stress 14%, healthy eating 12%, exercise 11%, weight management 6%, metabolic health 5%, gut health 3%, preventative medical testing 3%, supplements 3%. Message: \"Cellular energy, cell renewal, mitochondrial health, re-energise your cells, cellular decline starts in 30s\" (slide 10).\n  - UK women, late 40s: mental wellbeing 19%, exercise 15%, sleep 14%, weight management 14%, healthy eating 13%, reducing stress 11%, gut health 5%, muscle mass/strength 5%, metabolic health 3%; weight, exercise, gut and muscle are circled. Message: \"Supports cellular cardiovascular health, muscles, counteract oestrogen decline\" (slide 11).\n  - Italian women, late 40s: mental wellbeing 19%, healthy eating 13%, sleep 5%, metabolic health 4%, gut health 2%; preventative medical testing is third on the list, its value hidden. Message: \"Test your levels… repeat tests after supplementation\" (slide 12). She said \"The previous data was for the UK and Italy\" [00:04].\n  - US men, late 30s: sleep 23% (circled), exercise 22%, healthy eating 14%, reducing stress 13%, mental wellbeing 9%, weight management 9%, preventative medical testing 3%, metabolic health 3%, gut health 2%, supplements 2%. Message: \"Cellular energy, muscle support, biohacking\" (slide 13).\n  - US men, late 40s: healthy eating 21% (circled), exercise 17%, mental wellbeing 13%, sleep 12%, reducing stress 9%, supplements 7% (circled), weight management 5%, preventative medical testing 5%, gut health 5%, muscle mass/strength 2%, metabolic health 2%. Message: \"Age better, double the dose to counteract for natural loss\" (slide 14). She said healthy eating \"really over-indexes\" for men ten years on and they are \"much more so into supplements\" [00:04].\n- GLP-1 users in the UK, habits since starting treatment, top three: increased significantly, interest in healthy foods 68%, exercise frequency 61%, interest in preventative health 61%; decreased significantly, alcohol 64%, eating and drinking out of home 57%, snacking 50% (slide 15). Otter heard the second increase as \"increase longevity\" [00:04]; the slide says exercise frequency.\n- Lumina's UK GLP-1 tracker is the GLP-Navigator, on GLP-1's impact on UK out-of-home consumption. Almost 27% of the UK population, about 18.4 million people, currently use (6.1%), have used (5.7%) or are considering (15.1%) GLP-1 drugs (slide 16).\n- 36% (\"1 in 3\") take supplements specifically to counteract natural ageing (slide 17). Ingredient categories seen as most helpful for extending healthspan: vitamins 50%, omega-3 39%, minerals 25%, probiotics 22%, antioxidants and polyphenols 21%, prebiotics and fibre 21%, amino acids and proteins 20%, not sure 13%, CoQ10 8%, botanical extracts 7%, postbiotics 5% (slide 17). The slide names no country. On postbiotics, Nick Stene of Euromonitor gave US share growth of 48% and a price index of 2.83 (euromonitor-who-is-winning-healthspan); consumer belief here is 5%. The two measure different things; both are given.\n- Biggest hesitation about longevity supplements, UK: not enough proof 22%, cost 21%, don't believe claims 20%, safety concerns 20%, too many options 10%, remembering to take them 7%, other 1% (slide 18).\n- Life Extension's ageing tests on photo 4: Phenotypic Age Project Panel blood test USD 105.00 (\"Test key aging markers and calculate biological age\"); Healthy Aging Panel (Comprehensive) USD 249.00; Healthy Aging Panel (Basic) USD 155.00; MTHFR/COMT genetic methylation cheek swab USD 149.00 (photo 4). She gave the biological-age blood test as \"for $100\" [00:04].\n- Novos, confirmed: the deck's version of the slide adds a novoslabs.com screenshot of NOVOS Age, an at-home finger-prick test said to return biological age, pace of ageing, the ages of 11 organs and systems, and telomere length; one kit USD 349, or USD 299 each for two or more; ships within the US and Canada. Its caption: \"How do we help people manage the rate at which they age? Supplement brand → Health intelligence company\" (slide 19). Photo 4 shows an earlier build without it. In the talk she called Novos \"Another similar example\" [00:04].\n- Her reading of test and retest: it shows a brand's trust in its ingredients, a positive result may make the most loyal consumers, and it is \"a way of going around the health legislation a little bit\" because \"whatever is on the back is becoming less relevant\" [00:04].\n- \"the health plan leaders of the next decade may not be the pure product companies themselves\", but platforms \"that measure, manage, and optimize aging\" [00:04]. The slide says \"healthspan leaders\" and adds \"Applied & communicated science number 1 trust creator\" (slide 19).\n- NutraIngredients Europe Awards entries by category, 2022 to 2026: ingredients for healthspan rise from about 16 entries to about 30, ahead of mind and mood (about 23) and beauty from within (about 20) in 2026, read from the chart (slide 20). The slide carries a \"The Grocer Health Summit 2026\" tag. Otter heard the category as \"health fund\" [00:04].\n- Winners and finalists for Ingredient of the Year in those three categories include Niagen, Affron, Zeropollution, Levagen, Cognizin Citicoline, CurQfen, HydroCurc, SR CarnoSyn sustained-release beta-alanine and an HMB with vitamin D3 entry; none of our ingredients is among the readable names (slide 21).\n- She closed with consumers' hopes for wellness technology in 2040 (\"All cancers cured\", \"Portable lungs\") and a quote from Jonas Salk [00:04] (slide 22). Her five conclusions: a generational shift to prevention; consumers reinventing themselves; suppliers and brands moving from product to platform; GLP-1s accelerating healthier behaviours; trust as \"the industry's biggest challenge and biggest opportunity\" (slide 23).",
     "Research": ""
    },
    "takeaways": [
     {
-     "text": "Concern about ageing starts younger: retired respondents mostly began thinking seriously about it in their 60s (36% on the Retired bar), people in full-time work mostly in their 30s; she called it \"a generational shift\" [00:04] (photo 1).",
+     "text": "Concern about ageing starts younger: retired respondents mostly began thinking seriously about it in their 60s (36%); in the deck's version of the chart, people working full-time mostly began in their 30s (about 30%, read from the chart). She called it \"a generational shift\" [00:04] (photo 1) (slide 4).",
      "cites": [
       "00:04",
-      "photo 1"
+      "photo 1",
+      "slide 4"
      ]
     },
     {
-     "text": "The younger the respondent, the less they credit genetics and the more they credit supplements: genetics from 39% at 65 plus down to 21% in the youngest group; supplements from 20% at 25 to 34 down to 12% at 65 plus [00:04].",
-     "cites": [
-      "00:04"
-     ]
-    },
-    {
-     "text": "\"[1 in] 4 is actively pursuing [anti]-ageing\": 16% want to prevent premature ageing and 11% to reverse it, beside 52% who want to age slowly and healthily [00:04] (photo 2).",
+     "text": "The younger the respondent, the less they credit genetics and the more they credit supplements: genetics from 39% at 65 plus down to 21% at 18 to 24; supplements from 20% at 25 to 34 down to 12% at 65 plus [00:04] (slide 2) (slide 3).",
      "cites": [
       "00:04",
-      "photo 2"
+      "slide 2",
+      "slide 3"
      ]
     },
     {
-     "text": "Energy, stamina and strength is in the top three concerns of every age band shown, for men and women; mobility, joint and bone health is in the top three of every band from 35 to 44 up for both, and from 25 to 34 for women (photo 3).",
-     "cites": [
-      "photo 3"
-     ]
-    },
-    {
-     "text": "Trust is the gap: the first answer to \"What's your biggest hesitation about taking longevity supplements?\" was not enough proof; 36% already take supplements to counteract natural ageing [00:04].",
-     "cites": [
-      "00:04"
-     ]
-    },
-    {
-     "text": "Brands are moving from selling supplements to managing biological ageing: Life Extension sells ageing blood tests to take before and after supplements, and she gave Novos as \"Another similar example\" of a move \"from supplement brand to health intelligence company\" [00:04] (photo 4).",
+     "text": "One in four is actively pursuing anti-ageing: 16% want to prevent premature ageing and 11% to reverse it, beside 52% who want to age slowly and healthily [00:04] (photo 2) (slide 5).",
      "cites": [
       "00:04",
-      "photo 4"
+      "photo 2",
+      "slide 5"
+     ]
+    },
+    {
+     "text": "Energy, stamina and strength is in the top three concerns of every age band, for men and women; mobility, joint and bone health is in the top three of every band from 35 to 44 up for both, and from 25 to 34 for women (photo 3) (slide 8).",
+     "cites": [
+      "photo 3",
+      "slide 8"
+     ]
+    },
+    {
+     "text": "Trust is the gap. Biggest hesitation about longevity supplements in the UK: not enough proof 22%, cost 21%, don't believe claims 20%, safety concerns 20%. Across the survey, 36% already take supplements to counteract natural ageing [00:04] (slide 17) (slide 18).",
+     "cites": [
+      "00:04",
+      "slide 17",
+      "slide 18"
+     ]
+    },
+    {
+     "text": "Brands are moving from product to platform: Niagen added telehealth, IV and injections, skincare and a drug pipeline; Life Extension sells ageing blood tests to take before and after supplements; Novos sells an at-home biological-age kit [00:04] (photo 4) (slide 9) (slide 19).",
+     "cites": [
+      "00:04",
+      "photo 4",
+      "slide 9",
+      "slide 19"
      ]
     }
    ],
@@ -493,9 +622,9 @@
     }
    ],
    "followups": [
-    "Ewa Hudson (Lumina Intelligence): ask for the deck, the full survey (the ninth country, the lighter series on photo 1, the 18% who want to stay as they are) and the UK GLP-1 tracker [00:04].",
-    "Confirm \"Niagara\" (probably Niagen) and \"Novos\" with the deck or the speaker.",
-    "The billed title, her role and the track, once the programme is published."
+    "Ewa Hudson (Lumina Intelligence; contact details on slide 24): the 18% who want to stay as they are, the label of the lighter series on the age chart, and the 50% for genetics in Italy and Saudi Arabia, none of which the deck shows.",
+    "Download the full research report (QR code on slide 23), for the healthspan category and proteins answers by country.",
+    "Lumina's GLP-Navigator (UK out-of-home), if GLP-1 users become a pitch for us (slide 16)."
    ],
    "key_slides": [
     {
@@ -521,10 +650,28 @@
    ],
    "detail": [
     {
-     "text": "The whole talk is one Otter turn starting at [00:04], labelled Speaker 1; Stephen Daniells (NutraIngredients) thanks her at [17:12]. Neither the recording nor the slides give her billed title or role.",
+     "text": "Billing: Ewa Hudson, Strategy & Insight Director, ReThink Global, under the Lumina Intelligence name (slide 1); the closing slide says \"Strategy & Insights Director\" (slide 24). Lumina is part of the William Reed group, which also runs NutraIngredients and this summit (slide 25). No slide is marked Confidential.",
+     "cites": [
+      "slide 1",
+      "slide 24",
+      "slide 25"
+     ]
+    },
+    {
+     "text": "The whole talk is one Otter turn starting at [00:04], labelled Speaker 1; Stephen Daniells (NutraIngredients) thanks her at [17:12].",
      "cites": [
       "00:04",
       "17:12"
+     ]
+    },
+    {
+     "text": "Survey base: carried out in July 2026, n=10,500, in Brazil, China, France, Germany, Italy, Saudi Arabia, Spain, the UK and the USA (slide 1); 2,000 in China, 1,250 each in the US and Brazil, 1,000 in each other country (slide 23). She said \"over 10,000 people in nine countries\" [00:04]. The ninth country, cut off on photo 3, is the USA (slide 8). The full report is offered for download by QR code (slide 23).",
+     "cites": [
+      "slide 1",
+      "slide 23",
+      "00:04",
+      "slide 8",
+      "slide 23"
      ]
     },
     {
@@ -534,43 +681,65 @@
      ]
     },
     {
-     "text": "Survey base, as she said it: over 10,000 people in nine countries [00:04]. Photo 3 names Brazil, China, France, Germany, Italy, Saudi Arabia, Spain and the UK along its foot; the ninth is cut off (photo 3).",
+     "text": "Genetics as a big factor in extending healthspan, all countries: 39% at 65 plus, 31% at 55 to 64, 26% at 45 to 54, 24% at 35 to 44, 23% at 25 to 34, 21% at 18 to 24 (slide 2), as she said them [00:04]. She added 50% in Italy and Saudi Arabia, which the deck does not show [00:04]. The slide: exercise, sleep and diet \"play biggest impact\" (slide 2).",
      "cites": [
+      "slide 2",
       "00:04",
-      "photo 3"
+      "00:04",
+      "slide 2"
      ]
     },
     {
-     "text": "What most extends healthspan: respondents agreed on exercise, sleep and diet. Genetics as a big factor: 39% at 65 plus, 50% in Italy and Saudi Arabia, then 31, 26, 24, 23 and 21% in each younger group [00:04].",
+     "text": "Supplements as having an impact: 20% at 25 to 34, 19% at 35 to 44, 17% at 45 to 64, 12% at 65 plus (slide 3), as she said them [00:04]; the deck gives no figure for 18 to 24. She linked the 12% to retired people starting to think about ageing in their 60s [00:04].",
      "cites": [
+      "slide 3",
+      "00:04",
       "00:04"
      ]
     },
     {
-     "text": "Supplements as having a role: 20 at 25 to 34, then 19%, 17% and 12% at 65 plus; she linked the 12% to retired people starting to think about ageing in their 60s [00:04].",
+     "text": "Age of first serious thought about ageing, two builds of one chart:",
+     "cites": []
+    },
+    {
+     "text": "Photo 1 shows the Retired series: 1% (20s), 3% (30s), 10% (40s), 27% (50s), 36% (60s), 11% (70s), and 10% have not started (photo 1). With those values the Retired bars and \"have not started\" come to about 100%, so the 27% belongs to the Retired bar (my reading).",
      "cites": [
-      "00:04"
+      "photo 1"
      ]
     },
     {
-     "text": "Photo 1, \"[The] new longevity consumer isn't old yet: [age]ing has shifted from a retirement concern to [a] 30-something priority\": the Retired bars read 1% (20s), 3% (30s), 10% (40s), 36% (60s) and 11% (70s); 27% is printed at the 50s, but the photo does not show whether it belongs to the Retired bar or the lighter one; 10% have not started yet (photo 1). The lighter bars have no visible label and no printed values; they are tallest for the 20s, 30s and 40s (photo 1). In the talk she compared retired people with \"the working population and full-time employment\", most of whom were in their 30s [00:04]. My reading: the lighter bars are probably that working group, but the photo does not say so.",
+     "text": "The deck (slide 4) shows the same chart with \"Working full-time\" as the labelled series: 10% (50s), 2% (60s), 10% have not started. The 20s, 30s and 40s are behind a text box; read from the chart, about 24%, 30% and 24% (slide 4).",
      "cites": [
-      "photo 1",
-      "photo 1",
-      "00:04"
+      "slide 4",
+      "slide 4"
      ]
     },
     {
-     "text": "Ageing goals: 52% want to age slowly and healthily, 16% to prevent premature ageing, 11% to reverse ageing (photo 2). She added \"another 18% want to stay just as they are\", which the photo does not show [00:04].",
+     "text": "The lighter bars carry no label in the photo or the deck; they are the same in both builds (read from the charts). The slide's message: \"Healthy aging is seen as a PREVENTATIVE OPPORTUNITY\" (slide 4).",
+     "cites": [
+      "slide 4"
+     ]
+    },
+    {
+     "text": "Ageing goals: 52% want to age slowly and healthily, 16% to prevent premature ageing, 11% to reverse ageing (photo 2) (slide 5). She added \"another 18% want to stay just as they are\", which neither the photo nor the deck shows [00:04].",
      "cites": [
       "photo 2",
+      "slide 5",
       "00:04"
      ]
     },
     {
-     "text": "Ambition with age, as Otter heard it: a US Census study of 2.7 million founders found the fastest-growing 0.1% of new ventures were founded at 45 on average, and a 50-year-old was \"roughly 1.1 times as likely\" as a 30-year-old to found an exceptional-growth company; British Business Bank data for 2024 show a boom in over-50 entrepreneurs in the UK; runners who start in their 70s to 90s run marathons at 100 [00:04].",
+     "text": "Ambition with age, as Otter heard it: a US Census study of 2.7 million founders found the fastest-growing 0.1% of new ventures were founded at 45 on average, and a 50-year-old was \"roughly 1.1 times as likely\" as a 30-year-old to found an exceptional-growth company [00:04]. The slide shows a Business Matters headline of 12 March 2024, \"Huge boom in over 50 year old entrepreneurs with Start Up Loans providing over £140m of finance\", and links to a census study of high-growth founders' average age and an American Economic Review: Insights paper (slide 6).",
      "cites": [
-      "00:04"
+      "00:04",
+      "slide 6"
+     ]
+    },
+    {
+     "text": "Late-life runners: she said runners who took up running in their 70s, 80s and 90s run marathons at 100 [00:04]. The slide's four differ: Fauja Singh (UK/India) took up running at 89, oldest marathon at 100 (2012 Hong Kong); Charly Bancarel (France) at 55, 93 (2023 Paris); Giuseppe Damato (Italy) at 73, 90 (2026 Milan); Harriette Thompson (USA), 92 (2015 San Diego) (slide 7).",
+     "cites": [
+      "00:04",
+      "slide 7"
      ]
     },
     {
@@ -592,45 +761,98 @@
      "cites": []
     },
     {
-     "text": "In her words, products need to give consumers \"energy and physical strength, mobility, joint health, weight management, cognitive, and everyday activity support and recovery\" [00:04].",
+     "text": "In the deck the chart is partly behind a text box; its legend names energy, mobility, weight management and chronic diseases (slide 8).",
      "cites": [
+      "slide 8"
+     ]
+    },
+    {
+     "text": "What products must show, per the slide: energy and physical strength; mobility, joint and bone health; weight management; cognitive performance; everyday activity and recovery (slide 8). As she said it: \"energy and physical strength, mobility, joint health, weight management, cognitive, and everyday activity support and recovery\" [00:04].",
+     "cites": [
+      "slide 8",
       "00:04"
      ]
     },
     {
-     "text": "Companies reinventing themselves: Otter heard \"Niagara\" (probably Niagen; to check), \"from product to purpose\", with \"500 studies\" and \"100 patents\" as heard, moving into services (IV injections, cosmetics) and into pharma [00:04].",
+     "text": "Niagen, which Otter heard as \"Niagara\": the slide reads \"How Niagen reinvented itself: from product to purpose, from a supplement brand into a longevity platform\". It redefined the market from \"NAD+ supplements\" to \"healthy aging and longevity\"; added Niagen Plus telehealth, Niagen IV and NAD+ injections; took NAD+ into topical skincare with NanoCloud; and is building a drug pipeline (NB4168, for rare diseases and ageing-related conditions). \"Consumers do not buy nicotinamide riboside. They buy energy, vitality and a longer healthspan.\" Source: Niagen's investor presentation, November 2026. The slide repeats Niagen's line that NAD+ declines by up to about 65% between 30 and 70 (slide 9). Her \"500 studies\" and \"100 patents\", as heard, are not on the slide [00:04].",
      "cites": [
+      "slide 9",
       "00:04"
      ]
     },
     {
-     "text": "Life stages, women: at 35 to 44 sleep is \"much more important at any other age\"; she said messages on cellular energy renewal, and on cellular defence declining from about 30, will resonate. Ten years later sleep matters less and weight management, exercise, gut health and muscle strength come up; in Italy preventative medical testing matters more. She said \"The previous data was for the UK and Italy\" [00:04].",
+     "text": "Single most important to long-term health goals, by life stage (the darker bars; the lighter bars carry no label):",
+     "cites": []
+    },
+    {
+     "text": "UK women, late 30s: mental wellbeing 20%, sleep 20% (circled), reducing stress 14%, healthy eating 12%, exercise 11%, weight management 6%, metabolic health 5%, gut health 3%, preventative medical testing 3%, supplements 3%. Message: \"Cellular energy, cell renewal, mitochondrial health, re-energise your cells, cellular decline starts in 30s\" (slide 10).",
      "cites": [
+      "slide 10"
+     ]
+    },
+    {
+     "text": "UK women, late 40s: mental wellbeing 19%, exercise 15%, sleep 14%, weight management 14%, healthy eating 13%, reducing stress 11%, gut health 5%, muscle mass/strength 5%, metabolic health 3%; weight, exercise, gut and muscle are circled. Message: \"Supports cellular cardiovascular health, muscles, counteract oestrogen decline\" (slide 11).",
+     "cites": [
+      "slide 11"
+     ]
+    },
+    {
+     "text": "Italian women, late 40s: mental wellbeing 19%, healthy eating 13%, sleep 5%, metabolic health 4%, gut health 2%; preventative medical testing is third on the list, its value hidden. Message: \"Test your levels… repeat tests after supplementation\" (slide 12). She said \"The previous data was for the UK and Italy\" [00:04].",
+     "cites": [
+      "slide 12",
       "00:04"
      ]
     },
     {
-     "text": "Life stages, men: in their 30s sleep, stress and exercise; ten years later healthy eating over-indexes and they are much more into supplements [00:04].",
+     "text": "US men, late 30s: sleep 23% (circled), exercise 22%, healthy eating 14%, reducing stress 13%, mental wellbeing 9%, weight management 9%, preventative medical testing 3%, metabolic health 3%, gut health 2%, supplements 2%. Message: \"Cellular energy, muscle support, biohacking\" (slide 13).",
      "cites": [
+      "slide 13"
+     ]
+    },
+    {
+     "text": "US men, late 40s: healthy eating 21% (circled), exercise 17%, mental wellbeing 13%, sleep 12%, reducing stress 9%, supplements 7% (circled), weight management 5%, preventative medical testing 5%, gut health 5%, muscle mass/strength 2%, metabolic health 2%. Message: \"Age better, double the dose to counteract for natural loss\" (slide 14). She said healthy eating \"really over-indexes\" for men ten years on and they are \"much more so into supplements\" [00:04].",
+     "cites": [
+      "slide 14",
       "00:04"
      ]
     },
     {
-     "text": "GLP-1 users, top three changes: more interest in healthy foods, longevity and preventative health; less alcohol, eating and drinking out of home, and snacking. Lumina runs a GLP-1 trends tracker focused on the UK [00:04].",
+     "text": "GLP-1 users in the UK, habits since starting treatment, top three: increased significantly, interest in healthy foods 68%, exercise frequency 61%, interest in preventative health 61%; decreased significantly, alcohol 64%, eating and drinking out of home 57%, snacking 50% (slide 15). Otter heard the second increase as \"increase longevity\" [00:04]; the slide says exercise frequency.",
      "cites": [
+      "slide 15",
       "00:04"
      ]
     },
     {
-     "text": "36%, \"one in three\", already take supplements to counteract natural ageing: vitamins, omegas, minerals, probiotics, postbiotics and more, varying by sex and life stage [00:04].",
+     "text": "Lumina's UK GLP-1 tracker is the GLP-Navigator, on GLP-1's impact on UK out-of-home consumption. Almost 27% of the UK population, about 18.4 million people, currently use (6.1%), have used (5.7%) or are considering (15.1%) GLP-1 drugs (slide 16).",
      "cites": [
-      "00:04"
+      "slide 16"
      ]
     },
     {
-     "text": "Life Extension's ageing tests on photo 4: Phenotypic Age Project Panel blood test USD 105.00 (\"Test key aging markers and calculate biological age\"); Healthy Aging Panel (Comprehensive) USD 249.00; Healthy Aging Panel (Basic) USD 155.00; MTHFR/COMT genetic methylation cheek swab USD 149.00. The slide asks \"How do we help people understand their biology? Supplement brand -> Health intelligence company\" (photo 4). She gave the biological-age blood test as \"for $100\" [00:04].",
+     "text": "36% (\"1 in 3\") take supplements specifically to counteract natural ageing (slide 17). Ingredient categories seen as most helpful for extending healthspan: vitamins 50%, omega-3 39%, minerals 25%, probiotics 22%, antioxidants and polyphenols 21%, prebiotics and fibre 21%, amino acids and proteins 20%, not sure 13%, CoQ10 8%, botanical extracts 7%, postbiotics 5% (slide 17). The slide names no country. On postbiotics, Nick Stene of Euromonitor gave US share growth of 48% and a price index of 2.83 (euromonitor-who-is-winning-healthspan); consumer belief here is 5%. The two measure different things; both are given.",
+     "cites": [
+      "slide 17",
+      "slide 17"
+     ]
+    },
+    {
+     "text": "Biggest hesitation about longevity supplements, UK: not enough proof 22%, cost 21%, don't believe claims 20%, safety concerns 20%, too many options 10%, remembering to take them 7%, other 1% (slide 18).",
+     "cites": [
+      "slide 18"
+     ]
+    },
+    {
+     "text": "Life Extension's ageing tests on photo 4: Phenotypic Age Project Panel blood test USD 105.00 (\"Test key aging markers and calculate biological age\"); Healthy Aging Panel (Comprehensive) USD 249.00; Healthy Aging Panel (Basic) USD 155.00; MTHFR/COMT genetic methylation cheek swab USD 149.00 (photo 4). She gave the biological-age blood test as \"for $100\" [00:04].",
      "cites": [
       "photo 4",
+      "00:04"
+     ]
+    },
+    {
+     "text": "Novos, confirmed: the deck's version of the slide adds a novoslabs.com screenshot of NOVOS Age, an at-home finger-prick test said to return biological age, pace of ageing, the ages of 11 organs and systems, and telomere length; one kit USD 349, or USD 299 each for two or more; ships within the US and Canada. Its caption: \"How do we help people manage the rate at which they age? Supplement brand → Health intelligence company\" (slide 19). Photo 4 shows an earlier build without it. In the talk she called Novos \"Another similar example\" [00:04].",
+     "cites": [
+      "slide 19",
       "00:04"
      ]
     },
@@ -641,28 +863,31 @@
      ]
     },
     {
-     "text": "On the slide the \"health intelligence company\" line sits under the Life Extension screenshot (photo 4); in the talk she applied the words to Novos, as heard, as \"Another similar example\" [00:04].",
+     "text": "\"the health plan leaders of the next decade may not be the pure product companies themselves\", but platforms \"that measure, manage, and optimize aging\" [00:04]. The slide says \"healthspan leaders\" and adds \"Applied & communicated science number 1 trust creator\" (slide 19).",
      "cites": [
-      "photo 4",
+      "00:04",
+      "slide 19"
+     ]
+    },
+    {
+     "text": "NutraIngredients Europe Awards entries by category, 2022 to 2026: ingredients for healthspan rise from about 16 entries to about 30, ahead of mind and mood (about 23) and beauty from within (about 20) in 2026, read from the chart (slide 20). The slide carries a \"The Grocer Health Summit 2026\" tag. Otter heard the category as \"health fund\" [00:04].",
+     "cites": [
+      "slide 20",
       "00:04"
      ]
     },
     {
-     "text": "\"the health plan leaders of the next decade may not be the pure product companies themselves\", but platforms \"that measure, manage, and optimize aging\" [00:04].",
+     "text": "Winners and finalists for Ingredient of the Year in those three categories include Niagen, Affron, Zeropollution, Levagen, Cognizin Citicoline, CurQfen, HydroCurc, SR CarnoSyn sustained-release beta-alanine and an HMB with vitamin D3 entry; none of our ingredients is among the readable names (slide 21).",
      "cites": [
-      "00:04"
+      "slide 21"
      ]
     },
     {
-     "text": "At the NutraIngredients Awards the healthy-ageing category (Otter: \"health fund\") is among the most popular, with the most submissions [00:04].",
+     "text": "She closed with consumers' hopes for wellness technology in 2040 (\"All cancers cured\", \"Portable lungs\") and a quote from Jonas Salk [00:04] (slide 22). Her five conclusions: a generational shift to prevention; consumers reinventing themselves; suppliers and brands moving from product to platform; GLP-1s accelerating healthier behaviours; trust as \"the industry's biggest challenge and biggest opportunity\" (slide 23).",
      "cites": [
-      "00:04"
-     ]
-    },
-    {
-     "text": "She closed with consumers' hopes for wellness technology in 2040 and a quote from Jonas Salk [00:04].",
-     "cites": [
-      "00:04"
+      "00:04",
+      "slide 22",
+      "slide 23"
      ]
     }
    ],
@@ -686,6 +911,11 @@
      "name": "ewa-hudson-04.webp",
      "kind": "photo",
      "pages": 1
+    },
+    {
+     "name": "lumina-too-young-to-age-deck.pdf",
+     "kind": "pdf",
+     "pages": 25
     },
     {
      "name": "otter-summary.md",
@@ -1005,7 +1235,7 @@
   {
    "id": "jens-walter-microbiome-ageing",
    "event": "nutra-healthspan-summit-2026",
-   "title": "Synbiotic Health Presentation",
+   "title": "Microbiome modulation through nutritional interventions to extend healthy lifespan",
    "date": "2026-11-10",
    "start": "10:25",
    "end": "10:45",
@@ -1014,8 +1244,8 @@
    "speakers": [
     {
      "name": "Jens Walter",
-     "organisation": "University College Cork, APC Microbiome Ireland",
-     "role": "Professor (as introduced); co-founder of Synbiotic Health"
+     "organisation": "APC Microbiome Ireland, University College Cork",
+     "role": "Professor of Ecology, Food, and the Microbiome; founder and co-owner of Synbiotic Health"
     }
    ],
    "themes": [
@@ -1024,11 +1254,13 @@
    ],
    "ingredients": [
     "bifidobacteria",
-    "Bifidobacterium adolescentis (named in Otter's summary; the transcript heard \"aldolithendis\", \"aldolcenters\")",
-    "Bifidobacterium longum (Otter heard \"longunga\")",
+    "Bifidobacterium adolescentis",
+    "Bifidobacterium longum",
+    "Limosilactobacillus reuteri",
     "dietary fibre",
+    "galactooligosaccharides",
     "probiotics",
-    "synbiotics (Otter heard \"symbiotic\")",
+    "synbiotics",
     "postbiotics",
     "human milk oligosaccharides (Otter heard \"HFOs\")",
     "protein (high-protein diets, animal studies)"
@@ -1036,7 +1268,7 @@
    "relevance": "medium",
    "status": "summarised",
    "summary_by": "Claude",
-   "summary_date": "2026-11-10",
+   "summary_date": "2026-11-23",
    "reviewed_by": "",
    "reviewed_date": "",
    "attended_by": [
@@ -1045,52 +1277,62 @@
    "links": {
     "otter": "https://otter.ai/u/qWvuGmyhz5ZKksIa9DnOMpPD4dI"
    },
-   "to_check": "Title and slot (10:25 to 10:45) from the printed agenda (Nathan's photo, 10 Nov 2026); his recording ran 10:38 to 11:04. The agenda spells the company Synbiotic Health (Otter: \"Symbiotic Health\"). His institute is filed as APC Microbiome Ireland (Otter: \"APC Microbiome Island\"); his role is as introduced.",
+   "to_check": "The room is not confirmed. Slot (10:25 to 10:45) from the printed agenda (Nathan's photo, 10 Nov 2026), which listed it as \"Synbiotic Health Presentation\"; the title is as billed on the deck. His recording ran 10:38 to 11:04.",
    "added": "2026-11-10",
-   "added_by": "Claude (from Nathan's Otter recording, 10 Nov 2026)",
+   "added_by": "Claude (from Nathan's Otter recording, 10 Nov 2026; deck added 23 Nov 2026)",
    "has_transcript": true,
    "transcript_words": 4245,
    "has_notes": false,
    "has_summary": true,
    "summary": {
-    "Summary": "Professor Jens Walter of University College Cork and APC Microbiome Ireland, a co-founder of Synbiotic Health, asked whether the gut microbiome shapes how we age, and whether diet or supplements that target it could extend healthspan.\n\nHe started with animal studies. Germ-free rodents live longer than normal ones, but with calorie restriction the microbiome becomes beneficial, so its effect depends on diet. In humans, large observational studies link healthy eating patterns to healthy ageing; one UK study suggests a healthy diet can add about ten years of healthier life if adopted in your 40s and 50s.\n\nHis own trial in Cell put students on a high-fibre, non-industrialised diet for three weeks. Bifidobacteria rose, inflammatory bacteria fell, and LDL cholesterol dropped by 17%. Older people rarely change their whole diet, so he sees room for alternatives: Bifidobacterium adolescentis, which falls with age and is linked with healthy ageing, paired with fibre.\n\nHe kept his hedges. Causality is clearly established in animals only, there is no direct evidence yet that the microbiome mediates diet's effects in humans, and clinical trials are needed. His company's trials in older people have not reported. In questions he doubted that postbiotics can change gut ecology.",
-    "Key takeaways": "- In animal studies, rodents kept without a microbiome live almost ten months longer than normal mice, which live about 25 months; with calorie restriction the microbiome becomes beneficial and those animals live longest [00:24].\n- Observational studies in humans link healthy dietary patterns to healthy ageing; one UK study found a healthy diet can extend healthier lifespan by ten years, adopted in the 40s and 50s, and \"probably\" five to six years if adopted in the 70s [00:24].\n- His Cell trial of a non-industrialised, higher-fibre diet in students over three weeks raised bifidobacteria and indole-3-propionic acid, lowered faecal pH and secondary bile acids, cut LDL cholesterol by 17% and reduced blood glucose and CRP [00:24].\n- Bifidobacterium adolescentis falls with age and is associated with healthy ageing (centenarians in Sardinia, slower epigenetic ageing in about 123 people); in animal studies it improved healthspan and lifespan; human trials in older people by Synbiotic Health are ongoing, with no data yet [00:24].\n- His conclusion: the microbiome is a plausible contributor to healthy ageing, established in animal models; causality is hard to establish in humans and clinical trials are needed [00:24].\n- He is doubtful that a postbiotic can change gut ecology or raise short-chain fatty acids, prefers probiotic bifidobacteria with fibre, and sees a possible role for postbiotics in a direct immune effect [22:01] [22:52].",
-    "For Vita Actives": "- He sees the next healthy-ageing supplements as probiotic bifidobacteria combined with fibre, because older people rarely change their whole diet [00:24]. My reading: fibre for healthy ageing may be pitched as a partner to probiotics, within what the evidence supports, which he says is not yet proven in humans.\n- He cited animal research in which high-protein diets shorten lifespan, and said he is not sure how far it translates to humans [00:24]. My reading: brands selling protein for healthy ageing may hear this; our answer should rest on human muscle evidence.\n- Postbiotics divide the speakers: Nick Stene of Euromonitor sees them leading the ingredients queuing behind NAD+, with share up 48% and one of the strongest price premiums (euromonitor-who-is-winning-healthspan), while Walter doubts they can change gut ecology [22:01]. Both views are given.\n- Relevance medium: healthy-ageing science around fibre and probiotics; protein comes up only through animal studies.",
+    "Summary": "Professor Jens Walter of APC Microbiome Ireland and University College Cork, founder and co-owner of Synbiotic Health, asked whether nutrition that targets the gut microbiome can extend healthy lifespan.\n\nHe started with animal studies. Germ-free rodents live longer than normal ones, but with calorie restriction the microbiome becomes beneficial, so its effect depends on diet. In humans, large observational studies link healthy eating patterns to healthy ageing; one UK study suggests sustained shifts to a healthier diet can add up to ten years, most if made in your 40s and 50s.\n\nHis own trial in Cell put healthy adults on a high-fibre, non-industrialised diet for three weeks. Bifidobacteria rose, inflammatory bacteria fell, and LDL cholesterol dropped by 16.8%. Older people rarely change their whole diet, so he sees room for alternatives: Bifidobacterium adolescentis, which falls with age and is linked with healthy ageing, paired with fibre.\n\nHe kept his hedges. Causality is clearly established in animals only, current human evidence does not prove the microbiome mediates diet's effects, and clinical trials are needed. His company's trials in older people have not reported. In questions he doubted that postbiotics can change gut ecology.",
+    "Key takeaways": "- In animal studies, rodents without a microbiome live longer. He said normal mice live about 25 months and germ-free mice almost ten months longer [00:24]. In the 1991 study on his slide, mean lifespan was 88.9 weeks germ-free against 75.9 weeks conventional on a full diet, and 117.5 weeks, the longest, for conventional mice on a restricted diet (slide 6) (slide 7).\n- Observational studies link healthy dietary patterns to healthy ageing, with the Alternative Healthy Eating Index performing \"consistently best\" (slide 8). A UK study is titled \"Life expectancy can increase by up to 10 years following sustained shifts towards healthier diets\" (slide 9); he described it as ten years of healthier lifespan, and \"probably\" five to six years if the shift comes in the 70s [00:24].\n- His Cell trial of the non-industrialised \"Restore\" (NiMe) diet, 45 g of fibre a day, against participants' usual diet: LDL cholesterol down 16.8% (he said 17%), glucose down 6.3%, CRP down 14.0%, BMI down 1.4%; faecal pH and the ratio of branched-chain to short-chain fatty acids also fell [00:24] (slide 14) (slide 15).\n- Bifidobacterium adolescentis falls with age and is linked with healthy ageing: it peaks at about 4.8% of the gut microbiome around age 40 in healthy people (read from the chart, Synbiotic Health's data on 8,942 people), it was the strongest predictor of slower epigenetic ageing in 123 adults, and in animal studies it improved healthspan and lifespan. Synbiotic Health's human trials in older people are ongoing, with no data yet [00:24] (slide 17) (slide 20) (slide 21).\n- His take-home: the gut microbiome is a plausible contributor to healthy ageing, \"but human causality remains incompletely established\"; complementary microbiome-targeted interventions are promising, but clinical trials are needed [00:24] (slide 22).\n- He is doubtful that a postbiotic can change gut ecology or raise short-chain fatty acids, prefers probiotic bifidobacteria with fibre, and sees a possible role for postbiotics in a direct immune effect [22:01] [22:52].",
+    "For Vita Actives": "- He sees the next healthy-ageing supplements as probiotic bifidobacteria combined with fibre, because dietary change is hard to sustain in older people [00:24] (slide 22). My reading: fibre for healthy ageing may be pitched as a partner to probiotics, within what the evidence supports, which he says is not yet proven in humans.\n- He showed the title of a Cell Reports paper, \"Bifidobacterium adolescentis-derived nicotinic acid improves host skeletal muscle mitochondrial function to ameliorate sarcopenia\" (slide 21); Otter heard \"amyloid sarcopenia\" [00:24]. He gave no data from it. My reading: gut-to-muscle claims may reach muscle-ageing products where CreaWin and IsoClr: Pea sit; worth watching, not borrowing.\n- He cited animal research in which high-protein diets shorten lifespan, and said he is not sure how far it translates to humans [00:24]. His review figure lists plant-based protein foods among microbiome-compatible foods and red meat \"in moderation\" (slide 11). My reading: brands selling protein for healthy ageing may hear this; our answer should rest on human muscle evidence, and the review is about whole foods, not protein isolates.\n- Postbiotics divide the speakers: Nick Stene of Euromonitor sees them leading the ingredients queuing behind NAD+, with US share up 48% and a price index of 2.83 (euromonitor-who-is-winning-healthspan); Walter doubts they can change gut ecology [22:01]; and 5% of consumers in Lumina's survey name them as most helpful for healthspan (lumina-new-longevity-consumer, slide 17). All three are given.\n- Relevance medium: healthy-ageing science around fibre and probiotics; protein and muscle come up only through animal and mechanistic papers.",
     "Quotes": "- \"...the microbiome is a plausible contributor to healthy aging in animal model.\" Speaker 1 (Jens Walter) [00:24]\n- \"...we don't really have any direct evidence that the microbiome is mediating these these diet effects.\" Speaker 1 (Jens Walter) [00:24]\n- \"...by eating a healthy diet, you can extend your healthier lifespan by 10 years.\" Speaker 1 (Jens Walter) [00:24]\n- \"...I'm not sure a postbiotic can achieve that.\" Speaker 1 (Jens Walter) [22:52]",
-    "Follow-ups": "- Jens Walter: the Synbiotic Health trials in older people, when they report, and its B. adolescentis and fibre combination [00:24].\n- Find his Cell paper on the non-industrialised diet and the UK study on ten years of healthier life [00:24].\n- Confirm his affiliation as introduced (University College Cork, APC Microbiome Ireland).",
+    "Follow-ups": "- Jens Walter: Synbiotic Health's trials in older people, when they report, and what its B. adolescentis and fibre combination is; the deck shows neither [00:24].\n- Read the Cell Reports sarcopenia paper on B. adolescentis-derived nicotinic acid, for any human muscle data (slide 21).",
     "Key slides": "",
-    "Detail": "- The talk is one Otter turn from [00:24] to the questions at [20:46]. Stephen Daniells introduced him as \"Professor Jens Walder\" of \"University College Corp\" and co-founder of \"Symbiotic Health\" [00:00]; he described himself as from \"APC Microbiome Island\" and University College Cork [00:24]. Otter's labels: Speaker 1 is Jens Walter; Speakers 2 and 3 are questioners. At [23:31] and [23:38] the Speaker 1 label also carries George's question before Walter's answer.\n- Disclosures: co-founder of Synbiotic Health; funding and consultancy from companies working on probiotics and prebiotics [00:24].\n- Paul O'Toole's work (a Nature paper of 2013): with age, pathogens rise and healthy bacteria fall, with links to inflammation and lower barrier function; the microbiome declines further when older people move into nursing homes, probably linked to diet [00:24].\n- Bifidobacteria make a dramatic dive with ageing; observational research cannot establish cause and effect [00:24].\n- Animal studies: the germ-free lifespan finding has been repeated in mice, rats and other species; \"in a lot of animal models, high protein diets actually shorten lifespan. Not sure to what degree this then translates to human.\" [00:24]\n- A Nature Medicine paper of large cohorts: healthy dietary patterns link to healthy ageing; an unhealthy vegetarian pattern does the least good; the alternative healthy eating index (vegetables, fruit, whole grains, nuts, legumes, omega-3, little industrialised and high-sugar food) has the most convincing link; small amounts of wine are linked to healthier ageing [00:24].\n- A systematic review published a week or two before the talk links Mediterranean diet adherence, partly from intervention studies, to healthy ageing outcomes [00:24].\n- O'Toole's Mediterranean diet study in 612 older people: lower levels of bacteria associated with frailty and cognition, links to lower inflammatory ageing, higher short-chain fatty acids and fewer secondary bile acids, which he said drive colon cancer [00:24].\n- His Cell trial, two years ago: a non-industrialised diet close to Mediterranean, slightly higher in fibre and lower in saturated fat, in students, not older people; bifidobacteria including B. adolescentis and B. longum rose; inflammatory bacteria fell; proteolytic fermentation fell; indole-3-propionic acid, a neuroprotective antioxidant with consistent benefits \"specifically in mice\", rose; participants lost weight [00:24]. The diet gives 45 grams of fibre a day, and the pH drop is \"clearly fiber fermentation\" [23:38].\n- B. adolescentis: enriched in healthy people (Synbiotic Health's data), dominant in adults and reduced in ageing; a keystone species that amplifies fibre's effects; the oldest living person at the time, aged 116, had almost 50% bifidobacteria (\"an N of one\"); it produces GABA, improved intestinal barrier function in his group's paper, and in a Nature Aging paper regulated catalase activity and improved healthspan and lifespan \"in multiple animal species\" [00:24].\n- Lumina's earlier talk came up: he recalled that \"40% of men now in the 40s think healthy eating is actually important\" [00:24]. Ewa Hudson's talk as recorded says healthy eating \"really over-indexes\" for men ten years after their 30s, without a percentage (lumina-new-longevity-consumer). Both are given.\n- Human milk oligosaccharides: studies show they can raise bifidobacteria in older people, but \"the jury is completely out\" on stimulating infant-associated species and on clinical benefit [21:22].\n- Short-chain fatty acids are \"very very hard to increase\", even with extreme diet shifts [22:52].\n- Causality: he has been on three or four papers on it; transplant models and C. elegans have limits; causal inference in humans \"comes with its own bag of limitations\" [23:38].\n- The recipes of the non-industrialised diet are free to download [00:24].",
+    "Detail": "- Billing: \"Microbiome modulation through nutritional interventions to extend healthy lifespan\"; Jens Walter, Professor of Ecology, Food, and the Microbiome, APC Microbiome Ireland, School of Microbiology, and Department of Medicine, University College Cork (slide 1). The printed agenda listed the slot as \"Synbiotic Health Presentation\". No slide is marked Confidential.\n- The talk is one Otter turn from [00:24] to the questions at [20:46]. Stephen Daniells introduced him as \"Professor Jens Walder\" of \"University College Corp\" and co-founder of \"Symbiotic Health\" [00:00]. Otter's labels: Speaker 1 is Jens Walter; Speakers 2 and 3 are questioners. At [23:31] and [23:38] the Speaker 1 label also carries George's question before Walter's answer.\n- Disclosures on the slide: \"J.W. is a founder and co-owner of Synbiotic Health\"; \"Support and consultancy from companies that market or use dietary fiber (MGP Ingredients, Nestlé, Ingredion, Agrifiber)\" (slide 2). As he said it: co-founder, with consultancy support from companies that \"do both pro and prebiotics\" [00:24]. The two wordings differ; both are given.\n- Paul O'Toole's work: the 2013 Nature paper \"Gut microbiota composition correlates with diet and health in the elderly\" (slide 3). With age, pathogens rise and healthy bacteria fall, with links to inflammation and lower barrier function; the microbiome declines further when older people move into nursing homes, probably linked to diet [00:24].\n- In a literature survey (Ghosh et al., 2022), Bifidobacterium is in the group that declines with age and is linked to healthy ageing; pathobionts rise, especially in unhealthy ageing (slide 4). Observational research cannot establish cause and effect [00:24].\n- Animal studies: survival curves of germ-free and conventional mice from 1966 (slide 6); read from the chart, half the conventional mice had died by about 15 to 17 months and half the germ-free mice by about 23 to 25 months. A 1991 study added food restriction: mean lifespan 75.9 weeks conventional full-fed, 117.5 conventional restricted, 88.9 germ-free full-fed, 109.6 germ-free restricted (slide 7). The finding has been repeated in mice, rats and other species; \"in a lot of animal models, high protein diets actually shorten lifespan. Not sure to what degree this then translates to human.\" [00:24]\n- Nature Medicine, \"Optimal dietary patterns for healthy aging\" (published 24 March 2025): the AHEI performs best; his reasons are high-quality plant foods, fat quality (PUFA, omega-3, low trans fat) and avoiding industrial risk foods such as sugary drinks, red and processed meat, sodium and trans fat (slide 8). In the talk: an unhealthy vegetarian pattern does the least good, and small amounts of wine are linked to healthier ageing [00:24].\n- The UK study is Nature Food, published 20 November 2023 (slide 9). He said healthier lifespan; the paper's title says life expectancy. He added that the 40s and 50s are when to adopt the pattern [00:24].\n- A systematic review in Nutrition Reviews, \"Mediterranean Diet Adherence and Markers of Healthy Aging\" (slide 10), published \"a week or two ago\" as he said it, partly from intervention studies [00:24].\n- His Cell Host Microbe review of 2022, \"Rethinking healthy eating in light of the gut microbiome\": \"Healthy Ageing Diets Are Also Microbiome-Compatible Diets!\" (slide 11).\n- NU-AGE (Gut, 2020): a Mediterranean diet in 612 older adults in five European countries, sampled at 0 and 12 months. It lowered bacteria associated with frailty and cognition, raised taxa linked to lower frailty, better cognition and lower CRP and IL-17, and was associated with more short-chain fatty acids and fewer secondary bile acids. The slide questions how practical the diet is for older people (\"dentition, saliva, ingredients\") (slide 12). He said secondary bile acids drive colon cancer [00:24]; the slide cites a Gut 2025 paper titled \"Secondary bile acid production by gut bacteria promotes Western diet-associated colorectal cancer\" (slide 14).\n- The Cell paper: \"Cardiometabolic benefits of a non-industrialized-type diet are linked to gut microbiome modulation\", a randomised controlled feeding trial in healthy adults (ClinicalTrials.gov NCT03501082). The Restore diet was given with a \"lost microbe\", Limosilactobacillus reuteri, which the talk did not mention (slide 13). He described the cohort as students and as healthy adults, three weeks on the diet, and said it was published two years ago [00:24].\n- The NiMe diet: primarily plant-based; no dairy, beef or wheat; limited highly processed foods; low glycaemic index; 45 g of fibre a day (slide 15). He said the pH drop is \"clearly fiber fermentation\" [23:38].\n- Restore diet results with p-values: BMI p=0.002, LDL p=0.003, glucose p<0.001, CRP p=0.014 (slide 15); faecal pH p=0.003 and branched-chain to short-chain fatty acids p=0.007 against no change on the usual diet (slide 14). In the talk: bifidobacteria including B. adolescentis and B. longum rose; inflammatory bacteria such as Bilophila fell; indole-3-propionic acid, a neuroprotective antioxidant with consistent benefits \"specifically in mice\", rose; participants lost weight [00:24].\n- Possible mediators from diet to healthy ageing: saccharolytic fermentation and short-chain fatty acids; tryptophan-derived metabolites; less proteolytic fermentation and mucus degradation; fewer harmful metabolites; altered microbiome functions; ecological restructuring (slide 16).\n- Bifidobacteria as fibre \"amplifiers\": they respond strongly to specific carbohydrates and make acetate and lactate that feed butyrate producers; B. adolescentis is adult-adapted and linked to complex carbohydrate metabolism (slide 17). Read from Synbiotic Health's charts, in unhealthy people B. adolescentis stays near 1% or below at every age (slide 17).\n- The oldest living person when sampled, aged 116 as he recalled it [00:24]: Bifidobacterium at about 52% of the gut microbiome, against about 11 to 12% in 250 women and 195 men, read from the chart (Santos-Pujol et al., 2025, Cell Reports Medicine) (slide 18). He said \"almost 50%\" and \"an N of one\" [00:24].\n- Sardinian centenarians (mSystems): 19 centenarians, 23 older adults and 17 young adults; read from the chart, B. adolescentis is a large share of total bifidobacteria in several centenarians (slide 19). He said it is \"dramatically actually increased\" in centenarians against healthy older people [00:24].\n- Slower epigenetic ageing (Kunihiro et al., Scientific Reports, 2026): 123 adults, 63.4% Native Hawaiian and Pacific Islander; B. adolescentis was the strongest predictor of a slower DunedinPACE. The slide's take-home: signatures \"may track biological ageing pace\" (slide 20).\n- Mechanism papers on one slide: B. adolescentis and GABA production (Scientific Reports); his group's Microbiome paper of 2018, \"Probiotic Bifidobacterium strains and galactooligosaccharides improve intestinal barrier function in obese adults but show no synergism when used together as synbiotics\"; the Cell Reports sarcopenia paper; and Nature Aging (16 November 2021), B. adolescentis \"improves healthspan and lifespan in multiple species\" (slide 21). In the talk he gave the barrier result without the no-synergism finding [00:24].\n- Lumina's earlier talk came up: he recalled that \"40% of men now in the 40s think healthy eating is actually important\" [00:24]. Lumina's deck shows 21% of US men in their late 40s choosing healthy eating as the single most important to long-term health goals (lumina-new-longevity-consumer, slide 14). The figures differ; both are given.\n- Human milk oligosaccharides: studies show they can raise bifidobacteria in older people, but \"the jury is completely out\" on stimulating infant-associated species and on clinical benefit [21:22].\n- Short-chain fatty acids are \"very very hard to increase\", even with extreme diet shifts [22:52].\n- Causality: he has been on three or four papers on it; transplant models and C. elegans have limits; causal inference in humans \"comes with its own bag of limitations\" [23:38].\n- Funders and partners include the Weston Family Foundation, Alberta Innovates, CIHR, PrecisionBiotics and the Killam Laureates; most collaborators are at the University of Alberta (slide 23). He said his interest in bifidobacteria started when he was a professor at the University of Nebraska [00:24].\n- The book \"The NiMe Diet: Scientific Principles and Recipes\" by Anissa M. Armet and Jens Walter is free online via the University of Alberta Library (thenimediet.com) (slide 24).",
     "Research": ""
    },
    "takeaways": [
     {
-     "text": "In animal studies, rodents kept without a microbiome live almost ten months longer than normal mice, which live about 25 months; with calorie restriction the microbiome becomes beneficial and those animals live longest [00:24].",
+     "text": "In animal studies, rodents without a microbiome live longer. He said normal mice live about 25 months and germ-free mice almost ten months longer [00:24]. In the 1991 study on his slide, mean lifespan was 88.9 weeks germ-free against 75.9 weeks conventional on a full diet, and 117.5 weeks, the longest, for conventional mice on a restricted diet (slide 6) (slide 7).",
      "cites": [
+      "00:24",
+      "slide 6",
+      "slide 7"
+     ]
+    },
+    {
+     "text": "Observational studies link healthy dietary patterns to healthy ageing, with the Alternative Healthy Eating Index performing \"consistently best\" (slide 8). A UK study is titled \"Life expectancy can increase by up to 10 years following sustained shifts towards healthier diets\" (slide 9); he described it as ten years of healthier lifespan, and \"probably\" five to six years if the shift comes in the 70s [00:24].",
+     "cites": [
+      "slide 8",
+      "slide 9",
       "00:24"
      ]
     },
     {
-     "text": "Observational studies in humans link healthy dietary patterns to healthy ageing; one UK study found a healthy diet can extend healthier lifespan by ten years, adopted in the 40s and 50s, and \"probably\" five to six years if adopted in the 70s [00:24].",
+     "text": "His Cell trial of the non-industrialised \"Restore\" (NiMe) diet, 45 g of fibre a day, against participants' usual diet: LDL cholesterol down 16.8% (he said 17%), glucose down 6.3%, CRP down 14.0%, BMI down 1.4%; faecal pH and the ratio of branched-chain to short-chain fatty acids also fell [00:24] (slide 14) (slide 15).",
      "cites": [
-      "00:24"
+      "00:24",
+      "slide 14",
+      "slide 15"
      ]
     },
     {
-     "text": "His Cell trial of a non-industrialised, higher-fibre diet in students over three weeks raised bifidobacteria and indole-3-propionic acid, lowered faecal pH and secondary bile acids, cut LDL cholesterol by 17% and reduced blood glucose and CRP [00:24].",
+     "text": "Bifidobacterium adolescentis falls with age and is linked with healthy ageing: it peaks at about 4.8% of the gut microbiome around age 40 in healthy people (read from the chart, Synbiotic Health's data on 8,942 people), it was the strongest predictor of slower epigenetic ageing in 123 adults, and in animal studies it improved healthspan and lifespan. Synbiotic Health's human trials in older people are ongoing, with no data yet [00:24] (slide 17) (slide 20) (slide 21).",
      "cites": [
-      "00:24"
+      "00:24",
+      "slide 17",
+      "slide 20",
+      "slide 21"
      ]
     },
     {
-     "text": "Bifidobacterium adolescentis falls with age and is associated with healthy ageing (centenarians in Sardinia, slower epigenetic ageing in about 123 people); in animal studies it improved healthspan and lifespan; human trials in older people by Synbiotic Health are ongoing, with no data yet [00:24].",
+     "text": "His take-home: the gut microbiome is a plausible contributor to healthy ageing, \"but human causality remains incompletely established\"; complementary microbiome-targeted interventions are promising, but clinical trials are needed [00:24] (slide 22).",
      "cites": [
-      "00:24"
-     ]
-    },
-    {
-     "text": "His conclusion: the microbiome is a plausible contributor to healthy ageing, established in animal models; causality is hard to establish in humans and clinical trials are needed [00:24].",
-     "cites": [
-      "00:24"
+      "00:24",
+      "slide 22"
      ]
     },
     {
@@ -1128,80 +1370,156 @@
     }
    ],
    "followups": [
-    "Jens Walter: the Synbiotic Health trials in older people, when they report, and its B. adolescentis and fibre combination [00:24].",
-    "Find his Cell paper on the non-industrialised diet and the UK study on ten years of healthier life [00:24].",
-    "Confirm his affiliation as introduced (University College Cork, APC Microbiome Ireland)."
+    "Jens Walter: Synbiotic Health's trials in older people, when they report, and what its B. adolescentis and fibre combination is; the deck shows neither [00:24].",
+    "Read the Cell Reports sarcopenia paper on B. adolescentis-derived nicotinic acid, for any human muscle data (slide 21)."
    ],
    "key_slides": [],
    "detail": [
     {
-     "text": "The talk is one Otter turn from [00:24] to the questions at [20:46]. Stephen Daniells introduced him as \"Professor Jens Walder\" of \"University College Corp\" and co-founder of \"Symbiotic Health\" [00:00]; he described himself as from \"APC Microbiome Island\" and University College Cork [00:24]. Otter's labels: Speaker 1 is Jens Walter; Speakers 2 and 3 are questioners. At [23:31] and [23:38] the Speaker 1 label also carries George's question before Walter's answer.",
+     "text": "Billing: \"Microbiome modulation through nutritional interventions to extend healthy lifespan\"; Jens Walter, Professor of Ecology, Food, and the Microbiome, APC Microbiome Ireland, School of Microbiology, and Department of Medicine, University College Cork (slide 1). The printed agenda listed the slot as \"Synbiotic Health Presentation\". No slide is marked Confidential.",
+     "cites": [
+      "slide 1"
+     ]
+    },
+    {
+     "text": "The talk is one Otter turn from [00:24] to the questions at [20:46]. Stephen Daniells introduced him as \"Professor Jens Walder\" of \"University College Corp\" and co-founder of \"Symbiotic Health\" [00:00]. Otter's labels: Speaker 1 is Jens Walter; Speakers 2 and 3 are questioners. At [23:31] and [23:38] the Speaker 1 label also carries George's question before Walter's answer.",
      "cites": [
       "00:24",
       "20:46",
       "00:00",
-      "00:24",
       "23:31",
       "23:38"
      ]
     },
     {
-     "text": "Disclosures: co-founder of Synbiotic Health; funding and consultancy from companies working on probiotics and prebiotics [00:24].",
+     "text": "Disclosures on the slide: \"J.W. is a founder and co-owner of Synbiotic Health\"; \"Support and consultancy from companies that market or use dietary fiber (MGP Ingredients, Nestlé, Ingredion, Agrifiber)\" (slide 2). As he said it: co-founder, with consultancy support from companies that \"do both pro and prebiotics\" [00:24]. The two wordings differ; both are given.",
      "cites": [
+      "slide 2",
       "00:24"
      ]
     },
     {
-     "text": "Paul O'Toole's work (a Nature paper of 2013): with age, pathogens rise and healthy bacteria fall, with links to inflammation and lower barrier function; the microbiome declines further when older people move into nursing homes, probably linked to diet [00:24].",
+     "text": "Paul O'Toole's work: the 2013 Nature paper \"Gut microbiota composition correlates with diet and health in the elderly\" (slide 3). With age, pathogens rise and healthy bacteria fall, with links to inflammation and lower barrier function; the microbiome declines further when older people move into nursing homes, probably linked to diet [00:24].",
      "cites": [
+      "slide 3",
       "00:24"
      ]
     },
     {
-     "text": "Bifidobacteria make a dramatic dive with ageing; observational research cannot establish cause and effect [00:24].",
+     "text": "In a literature survey (Ghosh et al., 2022), Bifidobacterium is in the group that declines with age and is linked to healthy ageing; pathobionts rise, especially in unhealthy ageing (slide 4). Observational research cannot establish cause and effect [00:24].",
      "cites": [
+      "slide 4",
       "00:24"
      ]
     },
     {
-     "text": "Animal studies: the germ-free lifespan finding has been repeated in mice, rats and other species; \"in a lot of animal models, high protein diets actually shorten lifespan. Not sure to what degree this then translates to human.\" [00:24]",
+     "text": "Animal studies: survival curves of germ-free and conventional mice from 1966 (slide 6); read from the chart, half the conventional mice had died by about 15 to 17 months and half the germ-free mice by about 23 to 25 months. A 1991 study added food restriction: mean lifespan 75.9 weeks conventional full-fed, 117.5 conventional restricted, 88.9 germ-free full-fed, 109.6 germ-free restricted (slide 7). The finding has been repeated in mice, rats and other species; \"in a lot of animal models, high protein diets actually shorten lifespan. Not sure to what degree this then translates to human.\" [00:24]",
      "cites": [
+      "slide 6",
+      "slide 7",
       "00:24"
      ]
     },
     {
-     "text": "A Nature Medicine paper of large cohorts: healthy dietary patterns link to healthy ageing; an unhealthy vegetarian pattern does the least good; the alternative healthy eating index (vegetables, fruit, whole grains, nuts, legumes, omega-3, little industrialised and high-sugar food) has the most convincing link; small amounts of wine are linked to healthier ageing [00:24].",
+     "text": "Nature Medicine, \"Optimal dietary patterns for healthy aging\" (published 24 March 2025): the AHEI performs best; his reasons are high-quality plant foods, fat quality (PUFA, omega-3, low trans fat) and avoiding industrial risk foods such as sugary drinks, red and processed meat, sodium and trans fat (slide 8). In the talk: an unhealthy vegetarian pattern does the least good, and small amounts of wine are linked to healthier ageing [00:24].",
      "cites": [
+      "slide 8",
       "00:24"
      ]
     },
     {
-     "text": "A systematic review published a week or two before the talk links Mediterranean diet adherence, partly from intervention studies, to healthy ageing outcomes [00:24].",
+     "text": "The UK study is Nature Food, published 20 November 2023 (slide 9). He said healthier lifespan; the paper's title says life expectancy. He added that the 40s and 50s are when to adopt the pattern [00:24].",
      "cites": [
+      "slide 9",
       "00:24"
      ]
     },
     {
-     "text": "O'Toole's Mediterranean diet study in 612 older people: lower levels of bacteria associated with frailty and cognition, links to lower inflammatory ageing, higher short-chain fatty acids and fewer secondary bile acids, which he said drive colon cancer [00:24].",
+     "text": "A systematic review in Nutrition Reviews, \"Mediterranean Diet Adherence and Markers of Healthy Aging\" (slide 10), published \"a week or two ago\" as he said it, partly from intervention studies [00:24].",
      "cites": [
+      "slide 10",
       "00:24"
      ]
     },
     {
-     "text": "His Cell trial, two years ago: a non-industrialised diet close to Mediterranean, slightly higher in fibre and lower in saturated fat, in students, not older people; bifidobacteria including B. adolescentis and B. longum rose; inflammatory bacteria fell; proteolytic fermentation fell; indole-3-propionic acid, a neuroprotective antioxidant with consistent benefits \"specifically in mice\", rose; participants lost weight [00:24]. The diet gives 45 grams of fibre a day, and the pH drop is \"clearly fiber fermentation\" [23:38].",
+     "text": "His Cell Host Microbe review of 2022, \"Rethinking healthy eating in light of the gut microbiome\": \"Healthy Ageing Diets Are Also Microbiome-Compatible Diets!\" (slide 11).",
      "cites": [
+      "slide 11"
+     ]
+    },
+    {
+     "text": "NU-AGE (Gut, 2020): a Mediterranean diet in 612 older adults in five European countries, sampled at 0 and 12 months. It lowered bacteria associated with frailty and cognition, raised taxa linked to lower frailty, better cognition and lower CRP and IL-17, and was associated with more short-chain fatty acids and fewer secondary bile acids. The slide questions how practical the diet is for older people (\"dentition, saliva, ingredients\") (slide 12). He said secondary bile acids drive colon cancer [00:24]; the slide cites a Gut 2025 paper titled \"Secondary bile acid production by gut bacteria promotes Western diet-associated colorectal cancer\" (slide 14).",
+     "cites": [
+      "slide 12",
       "00:24",
+      "slide 14"
+     ]
+    },
+    {
+     "text": "The Cell paper: \"Cardiometabolic benefits of a non-industrialized-type diet are linked to gut microbiome modulation\", a randomised controlled feeding trial in healthy adults (ClinicalTrials.gov NCT03501082). The Restore diet was given with a \"lost microbe\", Limosilactobacillus reuteri, which the talk did not mention (slide 13). He described the cohort as students and as healthy adults, three weeks on the diet, and said it was published two years ago [00:24].",
+     "cites": [
+      "slide 13",
+      "00:24"
+     ]
+    },
+    {
+     "text": "The NiMe diet: primarily plant-based; no dairy, beef or wheat; limited highly processed foods; low glycaemic index; 45 g of fibre a day (slide 15). He said the pH drop is \"clearly fiber fermentation\" [23:38].",
+     "cites": [
+      "slide 15",
       "23:38"
      ]
     },
     {
-     "text": "B. adolescentis: enriched in healthy people (Synbiotic Health's data), dominant in adults and reduced in ageing; a keystone species that amplifies fibre's effects; the oldest living person at the time, aged 116, had almost 50% bifidobacteria (\"an N of one\"); it produces GABA, improved intestinal barrier function in his group's paper, and in a Nature Aging paper regulated catalase activity and improved healthspan and lifespan \"in multiple animal species\" [00:24].",
+     "text": "Restore diet results with p-values: BMI p=0.002, LDL p=0.003, glucose p<0.001, CRP p=0.014 (slide 15); faecal pH p=0.003 and branched-chain to short-chain fatty acids p=0.007 against no change on the usual diet (slide 14). In the talk: bifidobacteria including B. adolescentis and B. longum rose; inflammatory bacteria such as Bilophila fell; indole-3-propionic acid, a neuroprotective antioxidant with consistent benefits \"specifically in mice\", rose; participants lost weight [00:24].",
      "cites": [
+      "slide 15",
+      "slide 14",
       "00:24"
      ]
     },
     {
-     "text": "Lumina's earlier talk came up: he recalled that \"40% of men now in the 40s think healthy eating is actually important\" [00:24]. Ewa Hudson's talk as recorded says healthy eating \"really over-indexes\" for men ten years after their 30s, without a percentage (lumina-new-longevity-consumer). Both are given.",
+     "text": "Possible mediators from diet to healthy ageing: saccharolytic fermentation and short-chain fatty acids; tryptophan-derived metabolites; less proteolytic fermentation and mucus degradation; fewer harmful metabolites; altered microbiome functions; ecological restructuring (slide 16).",
+     "cites": [
+      "slide 16"
+     ]
+    },
+    {
+     "text": "Bifidobacteria as fibre \"amplifiers\": they respond strongly to specific carbohydrates and make acetate and lactate that feed butyrate producers; B. adolescentis is adult-adapted and linked to complex carbohydrate metabolism (slide 17). Read from Synbiotic Health's charts, in unhealthy people B. adolescentis stays near 1% or below at every age (slide 17).",
+     "cites": [
+      "slide 17",
+      "slide 17"
+     ]
+    },
+    {
+     "text": "The oldest living person when sampled, aged 116 as he recalled it [00:24]: Bifidobacterium at about 52% of the gut microbiome, against about 11 to 12% in 250 women and 195 men, read from the chart (Santos-Pujol et al., 2025, Cell Reports Medicine) (slide 18). He said \"almost 50%\" and \"an N of one\" [00:24].",
+     "cites": [
+      "00:24",
+      "slide 18",
+      "00:24"
+     ]
+    },
+    {
+     "text": "Sardinian centenarians (mSystems): 19 centenarians, 23 older adults and 17 young adults; read from the chart, B. adolescentis is a large share of total bifidobacteria in several centenarians (slide 19). He said it is \"dramatically actually increased\" in centenarians against healthy older people [00:24].",
+     "cites": [
+      "slide 19",
+      "00:24"
+     ]
+    },
+    {
+     "text": "Slower epigenetic ageing (Kunihiro et al., Scientific Reports, 2026): 123 adults, 63.4% Native Hawaiian and Pacific Islander; B. adolescentis was the strongest predictor of a slower DunedinPACE. The slide's take-home: signatures \"may track biological ageing pace\" (slide 20).",
+     "cites": [
+      "slide 20"
+     ]
+    },
+    {
+     "text": "Mechanism papers on one slide: B. adolescentis and GABA production (Scientific Reports); his group's Microbiome paper of 2018, \"Probiotic Bifidobacterium strains and galactooligosaccharides improve intestinal barrier function in obese adults but show no synergism when used together as synbiotics\"; the Cell Reports sarcopenia paper; and Nature Aging (16 November 2021), B. adolescentis \"improves healthspan and lifespan in multiple species\" (slide 21). In the talk he gave the barrier result without the no-synergism finding [00:24].",
+     "cites": [
+      "slide 21",
+      "00:24"
+     ]
+    },
+    {
+     "text": "Lumina's earlier talk came up: he recalled that \"40% of men now in the 40s think healthy eating is actually important\" [00:24]. Lumina's deck shows 21% of US men in their late 40s choosing healthy eating as the single most important to long-term health goals (lumina-new-longevity-consumer, slide 14). The figures differ; both are given.",
      "cites": [
       "00:24"
      ]
@@ -1225,13 +1543,25 @@
      ]
     },
     {
-     "text": "The recipes of the non-industrialised diet are free to download [00:24].",
+     "text": "Funders and partners include the Weston Family Foundation, Alberta Innovates, CIHR, PrecisionBiotics and the Killam Laureates; most collaborators are at the University of Alberta (slide 23). He said his interest in bifidobacteria started when he was a professor at the University of Nebraska [00:24].",
      "cites": [
+      "slide 23",
       "00:24"
+     ]
+    },
+    {
+     "text": "The book \"The NiMe Diet: Scientific Principles and Recipes\" by Anissa M. Armet and Jens Walter is free online via the University of Alberta Library (thenimediet.com) (slide 24).",
+     "cites": [
+      "slide 24"
      ]
     }
    ],
    "files": [
+    {
+     "name": "jens-walter-microbiome-ageing-deck.pdf",
+     "kind": "pdf",
+     "pages": 24
+    },
     {
      "name": "otter-summary.md",
      "kind": "text",
@@ -1582,31 +1912,248 @@
    "end": "12:20",
    "format": "talk",
    "track": "",
-   "speakers": [],
-   "themes": [],
-   "ingredients": [],
-   "relevance": "",
-   "status": "captured",
-   "summary_by": "",
-   "summary_date": "",
+   "speakers": [
+    {
+     "name": "Philipp Gut",
+     "organisation": "Nestlé Research",
+     "role": "M.D."
+    }
+   ],
+   "themes": [
+    "longevity-positioning",
+    "creatine-beyond-strength",
+    "muscle-health-beyond-protein"
+   ],
+   "ingredients": [
+    "creatine",
+    "nicotinamide riboside (NR)",
+    "nicotinamide mononucleotide (NMN)",
+    "nicotinamide (NAM)",
+    "pyridoxine (vitamin B6)",
+    "urolithin A",
+    "N-acetylcysteine",
+    "glycine",
+    "trigonelline",
+    "thymol",
+    "carvacrol",
+    "oleuropein",
+    "polyphenols (resveratrol, quercetin, piceatannol)",
+    "dairy protein micelles"
+   ],
+   "relevance": "high",
+   "status": "summarised",
+   "summary_by": "Claude",
+   "summary_date": "2026-11-23",
    "reviewed_by": "",
    "reviewed_date": "",
    "attended_by": [],
    "links": {},
-   "to_check": "Speakers are not on the agenda; no recording, slides or notes filed; whether Nathan attended.",
+   "to_check": "Whether Nathan attended. No recording; slides only. The PDF has no text layer, so all slide text was read from the slide images. The speaker's name is spelled \"Philipp Gut, M.D.\" on the title slide (the upload's file name has \"Phillip\"); his role beyond M.D. is not given. Slide 8 cites Hojfeldt et al. as Advanced Science 2026, slide 9 as Science Advances 2026.",
    "added": "2026-11-10",
    "added_by": "Claude (from the printed agenda, Nathan's photo, 10 Nov 2026)",
    "has_transcript": false,
    "transcript_words": 0,
    "has_notes": false,
-   "has_summary": false,
-   "summary": null,
-   "takeaways": [],
-   "quotes": [],
-   "followups": [],
+   "has_summary": true,
+   "summary": {
+    "Summary": "Philipp Gut of Nestlé Research asked how nutrition can keep mitochondria working as we age.\n\nHe framed healthy-ageing nutrition across four need states, from prevention and peri-menopause to geriatric care, and three toolkits: nutrients, biotics and bioactives.\n\nCalorie restriction is his reference point. In a 14-year study in dogs, a diet with 25% fewer calories gave a median life of 13 years against 11.2. Unpublished human data link a higher BMI to an older biological age, and weight loss, including on meal replacements, to a younger one. Mitochondria are vulnerable to ageing, and calorie restriction works partly through them.\n\nHe then showed four supplements aimed at mitochondria, creatine first, then nicotinamide riboside, urolithin A, and N-acetylcysteine with glycine. Nestlé's own research followed. Nicotinamide and vitamin B6 activated muscle stem cells in a human trial, by no direct mitochondrial route. Two NAD+ precursors raised blood NAD+ within two weeks, partly through the gut microbiome. Thymol, a plant compound, activated mitophagy and slowed functional decline in fast-ageing mice.\n\nHis conclusion was measured. Some benefits of calorie restriction can be mimicked with natural molecules, but more human evidence is needed, and biomarkers of ageing can serve as trial endpoints. He closed on Nestlé's new Healthy Longevity Academy for health professionals and a partnership with Nanyang Technological University.",
+    "Key takeaways": "- Calorie restriction: in a 14-year lifetime study in dogs, 25% calorie restriction against pair-fed controls gave a median life span of 13 years against 11.2, \"+ 15% longer life\", with better insulin sensitivity and immune function and later disease onset (Lawler et al., 2008) (slide 4).\n- Weight and biological age, unpublished: biological age (PhenoAge) rises with BMI, weight loss in people with obesity lowers it, and meal-replacement regimens lowered it with weight loss, against baseline at weeks 26 and 52 (read from the chart) (slide 5).\n- Creatine is the first of four \"Examples of supplements to improve mitochondrial functions\", with nicotinamide riboside, urolithin A, and N-acetylcysteine and glycine, each shown beside a Solgar or Pure Encapsulations pack (slide 7).\n- Muscle: nicotinamide and vitamin B6 activated muscle stem cells and enhanced regeneration in a human RCT, with 29% more activated Pax7+ cells and 37% more regenerating myofibres against placebo; the deck says there is no direct mitochondrial mechanism (slide 8) (slide 9).\n- NAD+: two weeks of daily nicotinamide riboside (1 g) or NMN (1 g) raised blood NAD+ against placebo; nicotinamide (0.5 g) did not. The route runs through low absorption and conversion by gut microbes (Christen et al., Nature Metabolism 2026) (slide 10).\n- Thymol (20 mg/kg a day) lowered biological age, improved running distance, preserved grip force and raised the mitophagy protein Pink1 in fast-ageing SAMP8 mice; his translational verdict is that more evidence in humans is needed (slide 13) (slide 15).",
+    "For Vita Actives": "- Relevance high: a Nestlé Research scientist puts creatine first among supplements to improve mitochondrial function, shown with Solgar's Vitality Creatine Complex (slide 7). My reading: creatine's healthy-ageing case now runs on cellular energy as well as muscle, which supports CreaWin pitches to healthy-ageing brands, within CreaWin's own evidence. The deck gives no creatine data.\n- My reading: Solgar and Pure Encapsulations, whose packs fill slide 7, are both Nestlé Health Science brands; the slide does not say so. Solgar already sells a creatine product, so it is a natural CreaWin prospect (slide 7).\n- Muscle in ageing is the strongest human result here, from nicotinamide and vitamin B6 rather than protein (slide 9). My reading: a stacking partner for CreaWin or IsoClr: Pea in a healthy-ageing muscle formula, not a rival.\n- Weight loss, biological age and obesity-related \"hidden\" malnutrition sit side by side (slide 2) (slide 5). My reading: keeping muscle and nutrient density during weight loss is where protein and creatine fit; the biological-age data are unpublished.\n- NAD+ precursors raise blood NAD+ (slide 10), but Euromonitor's Nick Stene said NAD+ is losing its premium as it goes mainstream, with urolithin A among the ingredients queuing behind it (euromonitor-who-is-winning-healthspan). The two talks are about different things: Gut's is human blood data, Stene's is US shelf prices.",
+    "Quotes": "- \"Calorie restriction mediates benefits partially through mitochondria\" (slide 6)\n- \"No direct mitochondrial mechanism !\" (slide 8)\n- \"Can we identify natural bioactives that mimic benefits of fasting to prevent age-related decline of mitochondrial functions?\" (slide 11)\n- \"Some benefits of calorie restriction can be mimicked with natural molecules, but more evidence in humans is needed\" (slide 15)",
+    "Follow-ups": "- Philipp Gut (Nestlé Research): ask whether Nestlé has creatine data on mitochondrial or muscle endpoints in older adults, and for the unpublished weight-loss and biological-age data when published.\n- Solgar (Vitality Creatine Complex): find who supplies its creatine; a CreaWin prospect, my reading.\n- Find Højfeldt et al., 2026 (nicotinamide and vitamin B6 RCT) and Christen et al., Nature Metabolism 2026 (NAD+ precursors).\n- Look at the Healthy Longevity Academy's \"Fuel and Frame\" pillar for how Nestlé talks to health professionals about strength in ageing.\n- Confirm whether Nathan attended.",
+    "Key slides": "",
+    "Detail": "- The PDF has no text layer; the slide text below was read from the slide images. Slide numbers are the PDF's pages and match the numbers printed on the slides.\n- Title slide: \"Philipp Gut, M.D.\", Nestlé Research, November 2026 (slide 1).\n- Four need states: preventive nutrition for healthy ageing, peri-menopause related nutrition needs, obesity-related \"hidden\" malnutrition, and geriatric and acute care nutrition. Subtitle: \"Understanding the biology of ageing can benefit health across need states\" (slide 2).\n- Three toolkits: macro- and micronutrients (ultra-dense protein micelles from dairy; calorie-optimised, high-NRF-index foods and supplements); biotics (synbiotics mediating gut-organ signalling; live bacterial spores as microbiome therapeutics, FMT, pharma); molecular nutrition bioactives (plant-derived mitophagy activators, α-acarbose mimetics and stem cell activators; endogenous metabolites such as co-factors and lipids) (slide 3).\n- The dog study's biological-age data (Herzig et al., GeroScience 2024): \"Calorie optimization to maintain lean body mass lowers biological age\". Mortality hazard ratios: age deviation 1.47 (p=0.0178), restricted diet 0.26 (p=0.0007). Read from the chart (slide 4).\n- Weight and biological age, marked \"Unpublished data\": PhenoAge z-score rises across BMI bands from under 18 to over 40 (p<2e-16); the median difference between biological and chronological age is about 1.7 years younger after weight loss and about 1 year older after weight gain; Optifast differed from the food-based diet at week 52 (**) but not at baseline or week 26. Read from the chart (slide 5).\n- Section slide: \"Mitochondria are vulnerable to ageing, impacting metabolism and cell signaling\" (slide 6).\n- Pack shots on slide 7: Solgar Golden Prime Vitality Creatine Complex (stick packs), Solgar Cellular Energy (nicotinamide riboside chloride, Niagen), Pure Encapsulations Renual, and Pure Encapsulations NAC + Glycine powder (slide 7).\n- \"NAD+ precursors and natural bioactives that target mitochondrial metabolism are promising candidates to slow cellular aging\", from internal research: nicotinamide and vitamin B6 for muscle stem cells (Ancel et al., JCI 2024; Hojfeldt et al., 2026); NR and NMN raise NAD+ via the microbiome, and trigonelline is \"a novel NAD+ precursor, with potential benefits for muscle strength\" (Christen et al., Nature Metabolism 2026; Membrez et al., Nature Metabolism 2024); thymol is a novel autophagy and mitophagy activator, and oleuropein activates mitochondrial energy metabolism through MICU (Civiletto et al., Nature Aging 2025; Gherardi et al., Cell Metabolism 2025) (slide 8).\n- Muscle stem cells: a screen of 50,000 nutrients found nicotinamide and pyridoxine stimulate Pax7 and MyoD in muscle cells; in aged muscle, NAM and PN brought Pax7+ stem cells back towards young levels (about 550 against 400 cells/mm², young about 580, read from the chart) (Ancel et al., J Clin Invest 2024); serum NAM and PN decline with human skeletal muscle ageing, shown against appendicular lean mass at 60 and 80 years; the human RCT is Højfeldt et al., Science Advances 2026 (slide 9).\n- NAD+ trial groups: placebo (17/16), nicotinamide (17/17), NR (16/16), NMN (15/14). Blood NAD+ rose from about 30 µM to about 75 µM on NR and about 65 µM on NMN (read from the chart). Gut effects include short-chain fatty acid production and conversion of nicotinic acid to NAD+, with a \"strong sustained NAD+ increase\" in whole blood via the Preiss-Handler pathway (slide 10).\n- Polyphenols and other secondary metabolites are \"often associated to health benefits in nutrient-dense diets\"; in plants they serve pathogen defence, competition, attraction and repulsion, UV, heat and drought protection, and nitrogen storage. Example: resveratrol, quercetin and piceatannol inhibit F1 ATPase (Li et al., Journal of Future Foods 2023; Gledhill, PNAS 2007) (slide 12).\n- Thymol mouse study: SAMP8 mice from 8 to 11 months of age; running distance rose over 12 weeks on thymol but not in controls, and was about double control when normalised to baseline; grip force fell in controls but not on thymol (about 0.9 against 0.6 of baseline); Pink1 protein about 1.25 times control. Read from the chart (slide 13).\n- Working hypothesis: thymol and carvacrol, plant metabolites with bactericidal effects also used as food preservatives and flavourings, \"target mammalian mitochondria through a conserved bactericidal mechanism\"; thymol mildly lowers mitochondrial membrane potential and strongly activates mitophagy (mitophagy index about double, read from the chart) (Civiletto et al., Nature Aging 2025) (slide 14).\n- Translational considerations: \"Understanding the mechanism(s) is key to enable clinical evidence development\"; \"Biomarkers of ageing can enable discovery, serve as clinical endpoints, and provide frameworks for precision health\" (slide 15).\n- Nestlé Nutrition Institute's Healthy Longevity Academy, \"Now launched\", for healthcare professionals only, with five pillars: The Foundations, Fuel and Frame (\"Powering strength, metabolic health and cognitive vitality\"), Cellular Power, Cellular Renewal, and The Inner Ecosystem (slide 16).\n- Nestlé Research teams in Switzerland, Beijing and Singapore; collaborators EPFL, Harvard Medical School, Clock Foundation, Università degli Studi di Milano, University of Copenhagen and Institut NeuroMyoGène. \"News: we are entering a strategic partnership with Nanyang Technological University to advance research on healthy longevity\", in collaboration with EDB Singapore (slide 17).\n- Other talks at this summit: Lumina's Ewa Hudson cited Life Extension's Phenotypic Age blood test (lumina-new-longevity-consumer), the same PhenoAge measure Gut uses (slide 5); the retailer panel said creatine is moving from sports into healthy ageing (from-hype-to-healthspan-building-the).",
+    "Research": ""
+   },
+   "takeaways": [
+    {
+     "text": "Calorie restriction: in a 14-year lifetime study in dogs, 25% calorie restriction against pair-fed controls gave a median life span of 13 years against 11.2, \"+ 15% longer life\", with better insulin sensitivity and immune function and later disease onset (Lawler et al., 2008) (slide 4).",
+     "cites": [
+      "slide 4"
+     ]
+    },
+    {
+     "text": "Weight and biological age, unpublished: biological age (PhenoAge) rises with BMI, weight loss in people with obesity lowers it, and meal-replacement regimens lowered it with weight loss, against baseline at weeks 26 and 52 (read from the chart) (slide 5).",
+     "cites": [
+      "slide 5"
+     ]
+    },
+    {
+     "text": "Creatine is the first of four \"Examples of supplements to improve mitochondrial functions\", with nicotinamide riboside, urolithin A, and N-acetylcysteine and glycine, each shown beside a Solgar or Pure Encapsulations pack (slide 7).",
+     "cites": [
+      "slide 7"
+     ]
+    },
+    {
+     "text": "Muscle: nicotinamide and vitamin B6 activated muscle stem cells and enhanced regeneration in a human RCT, with 29% more activated Pax7+ cells and 37% more regenerating myofibres against placebo; the deck says there is no direct mitochondrial mechanism (slide 8) (slide 9).",
+     "cites": [
+      "slide 8",
+      "slide 9"
+     ]
+    },
+    {
+     "text": "NAD+: two weeks of daily nicotinamide riboside (1 g) or NMN (1 g) raised blood NAD+ against placebo; nicotinamide (0.5 g) did not. The route runs through low absorption and conversion by gut microbes (Christen et al., Nature Metabolism 2026) (slide 10).",
+     "cites": [
+      "slide 10"
+     ]
+    },
+    {
+     "text": "Thymol (20 mg/kg a day) lowered biological age, improved running distance, preserved grip force and raised the mitophagy protein Pink1 in fast-ageing SAMP8 mice; his translational verdict is that more evidence in humans is needed (slide 13) (slide 15).",
+     "cites": [
+      "slide 13",
+      "slide 15"
+     ]
+    }
+   ],
+   "quotes": [
+    {
+     "text": "\"Calorie restriction mediates benefits partially through mitochondria\" (slide 6)",
+     "cites": [
+      "slide 6"
+     ]
+    },
+    {
+     "text": "\"No direct mitochondrial mechanism !\" (slide 8)",
+     "cites": [
+      "slide 8"
+     ]
+    },
+    {
+     "text": "\"Can we identify natural bioactives that mimic benefits of fasting to prevent age-related decline of mitochondrial functions?\" (slide 11)",
+     "cites": [
+      "slide 11"
+     ]
+    },
+    {
+     "text": "\"Some benefits of calorie restriction can be mimicked with natural molecules, but more evidence in humans is needed\" (slide 15)",
+     "cites": [
+      "slide 15"
+     ]
+    }
+   ],
+   "followups": [
+    "Philipp Gut (Nestlé Research): ask whether Nestlé has creatine data on mitochondrial or muscle endpoints in older adults, and for the unpublished weight-loss and biological-age data when published.",
+    "Solgar (Vitality Creatine Complex): find who supplies its creatine; a CreaWin prospect, my reading.",
+    "Find Højfeldt et al., 2026 (nicotinamide and vitamin B6 RCT) and Christen et al., Nature Metabolism 2026 (NAD+ precursors).",
+    "Look at the Healthy Longevity Academy's \"Fuel and Frame\" pillar for how Nestlé talks to health professionals about strength in ageing.",
+    "Confirm whether Nathan attended."
+   ],
    "key_slides": [],
-   "detail": [],
-   "files": []
+   "detail": [
+    {
+     "text": "The PDF has no text layer; the slide text below was read from the slide images. Slide numbers are the PDF's pages and match the numbers printed on the slides.",
+     "cites": []
+    },
+    {
+     "text": "Title slide: \"Philipp Gut, M.D.\", Nestlé Research, November 2026 (slide 1).",
+     "cites": [
+      "slide 1"
+     ]
+    },
+    {
+     "text": "Four need states: preventive nutrition for healthy ageing, peri-menopause related nutrition needs, obesity-related \"hidden\" malnutrition, and geriatric and acute care nutrition. Subtitle: \"Understanding the biology of ageing can benefit health across need states\" (slide 2).",
+     "cites": [
+      "slide 2"
+     ]
+    },
+    {
+     "text": "Three toolkits: macro- and micronutrients (ultra-dense protein micelles from dairy; calorie-optimised, high-NRF-index foods and supplements); biotics (synbiotics mediating gut-organ signalling; live bacterial spores as microbiome therapeutics, FMT, pharma); molecular nutrition bioactives (plant-derived mitophagy activators, α-acarbose mimetics and stem cell activators; endogenous metabolites such as co-factors and lipids) (slide 3).",
+     "cites": [
+      "slide 3"
+     ]
+    },
+    {
+     "text": "The dog study's biological-age data (Herzig et al., GeroScience 2024): \"Calorie optimization to maintain lean body mass lowers biological age\". Mortality hazard ratios: age deviation 1.47 (p=0.0178), restricted diet 0.26 (p=0.0007). Read from the chart (slide 4).",
+     "cites": [
+      "slide 4"
+     ]
+    },
+    {
+     "text": "Weight and biological age, marked \"Unpublished data\": PhenoAge z-score rises across BMI bands from under 18 to over 40 (p<2e-16); the median difference between biological and chronological age is about 1.7 years younger after weight loss and about 1 year older after weight gain; Optifast differed from the food-based diet at week 52 (**) but not at baseline or week 26. Read from the chart (slide 5).",
+     "cites": [
+      "slide 5"
+     ]
+    },
+    {
+     "text": "Section slide: \"Mitochondria are vulnerable to ageing, impacting metabolism and cell signaling\" (slide 6).",
+     "cites": [
+      "slide 6"
+     ]
+    },
+    {
+     "text": "Pack shots on slide 7: Solgar Golden Prime Vitality Creatine Complex (stick packs), Solgar Cellular Energy (nicotinamide riboside chloride, Niagen), Pure Encapsulations Renual, and Pure Encapsulations NAC + Glycine powder (slide 7).",
+     "cites": [
+      "slide 7"
+     ]
+    },
+    {
+     "text": "\"NAD+ precursors and natural bioactives that target mitochondrial metabolism are promising candidates to slow cellular aging\", from internal research: nicotinamide and vitamin B6 for muscle stem cells (Ancel et al., JCI 2024; Hojfeldt et al., 2026); NR and NMN raise NAD+ via the microbiome, and trigonelline is \"a novel NAD+ precursor, with potential benefits for muscle strength\" (Christen et al., Nature Metabolism 2026; Membrez et al., Nature Metabolism 2024); thymol is a novel autophagy and mitophagy activator, and oleuropein activates mitochondrial energy metabolism through MICU (Civiletto et al., Nature Aging 2025; Gherardi et al., Cell Metabolism 2025) (slide 8).",
+     "cites": [
+      "slide 8"
+     ]
+    },
+    {
+     "text": "Muscle stem cells: a screen of 50,000 nutrients found nicotinamide and pyridoxine stimulate Pax7 and MyoD in muscle cells; in aged muscle, NAM and PN brought Pax7+ stem cells back towards young levels (about 550 against 400 cells/mm², young about 580, read from the chart) (Ancel et al., J Clin Invest 2024); serum NAM and PN decline with human skeletal muscle ageing, shown against appendicular lean mass at 60 and 80 years; the human RCT is Højfeldt et al., Science Advances 2026 (slide 9).",
+     "cites": [
+      "slide 9"
+     ]
+    },
+    {
+     "text": "NAD+ trial groups: placebo (17/16), nicotinamide (17/17), NR (16/16), NMN (15/14). Blood NAD+ rose from about 30 µM to about 75 µM on NR and about 65 µM on NMN (read from the chart). Gut effects include short-chain fatty acid production and conversion of nicotinic acid to NAD+, with a \"strong sustained NAD+ increase\" in whole blood via the Preiss-Handler pathway (slide 10).",
+     "cites": [
+      "slide 10"
+     ]
+    },
+    {
+     "text": "Polyphenols and other secondary metabolites are \"often associated to health benefits in nutrient-dense diets\"; in plants they serve pathogen defence, competition, attraction and repulsion, UV, heat and drought protection, and nitrogen storage. Example: resveratrol, quercetin and piceatannol inhibit F1 ATPase (Li et al., Journal of Future Foods 2023; Gledhill, PNAS 2007) (slide 12).",
+     "cites": [
+      "slide 12"
+     ]
+    },
+    {
+     "text": "Thymol mouse study: SAMP8 mice from 8 to 11 months of age; running distance rose over 12 weeks on thymol but not in controls, and was about double control when normalised to baseline; grip force fell in controls but not on thymol (about 0.9 against 0.6 of baseline); Pink1 protein about 1.25 times control. Read from the chart (slide 13).",
+     "cites": [
+      "slide 13"
+     ]
+    },
+    {
+     "text": "Working hypothesis: thymol and carvacrol, plant metabolites with bactericidal effects also used as food preservatives and flavourings, \"target mammalian mitochondria through a conserved bactericidal mechanism\"; thymol mildly lowers mitochondrial membrane potential and strongly activates mitophagy (mitophagy index about double, read from the chart) (Civiletto et al., Nature Aging 2025) (slide 14).",
+     "cites": [
+      "slide 14"
+     ]
+    },
+    {
+     "text": "Translational considerations: \"Understanding the mechanism(s) is key to enable clinical evidence development\"; \"Biomarkers of ageing can enable discovery, serve as clinical endpoints, and provide frameworks for precision health\" (slide 15).",
+     "cites": [
+      "slide 15"
+     ]
+    },
+    {
+     "text": "Nestlé Nutrition Institute's Healthy Longevity Academy, \"Now launched\", for healthcare professionals only, with five pillars: The Foundations, Fuel and Frame (\"Powering strength, metabolic health and cognitive vitality\"), Cellular Power, Cellular Renewal, and The Inner Ecosystem (slide 16).",
+     "cites": [
+      "slide 16"
+     ]
+    },
+    {
+     "text": "Nestlé Research teams in Switzerland, Beijing and Singapore; collaborators EPFL, Harvard Medical School, Clock Foundation, Università degli Studi di Milano, University of Copenhagen and Institut NeuroMyoGène. \"News: we are entering a strategic partnership with Nanyang Technological University to advance research on healthy longevity\", in collaboration with EDB Singapore (slide 17).",
+     "cites": [
+      "slide 17"
+     ]
+    },
+    {
+     "text": "Other talks at this summit: Lumina's Ewa Hudson cited Life Extension's Phenotypic Age blood test (lumina-new-longevity-consumer), the same PhenoAge measure Gut uses (slide 5); the retailer panel said creatine is moving from sports into healthy ageing (from-hype-to-healthspan-building-the).",
+     "cites": [
+      "slide 5"
+     ]
+    }
+   ],
+   "files": [
+    {
+     "name": "phillip-gut-mitochondrial-nutrition.pdf",
+     "kind": "pdf",
+     "pages": 18
+    }
+   ]
   },
   {
    "id": "uthever-nmn-nad-metabolism-sleep-health",
@@ -1617,31 +2164,255 @@
    "end": "12:40",
    "format": "talk",
    "track": "",
-   "speakers": [],
-   "themes": [],
-   "ingredients": [],
-   "relevance": "",
-   "status": "captured",
-   "summary_by": "",
-   "summary_date": "",
+   "speakers": [
+    {
+     "name": "Colin Selman",
+     "organisation": "University of Glasgow; EffePharm",
+     "role": "Professor of Biogerontology, Head of School of Molecular Biosciences"
+    },
+    {
+     "name": "JianJun Yu",
+     "organisation": "EffePharm (UTHEVER NMN)",
+     "role": ""
+    }
+   ],
+   "themes": [
+    "longevity-positioning",
+    "branded-ingredients-differentiation",
+    "outcomes-over-mechanisms",
+    "eu-regulation-brake"
+   ],
+   "ingredients": [
+    "NMN (nicotinamide mononucleotide; UTHEVER, EffePharm)",
+    "NAD+"
+   ],
+   "relevance": "medium",
+   "status": "summarised",
+   "summary_by": "Claude",
+   "summary_date": "2026-11-23",
    "reviewed_by": "",
    "reviewed_date": "",
    "attended_by": [],
    "links": {},
-   "to_check": "Speakers are not on the agenda; no recording, slides or notes filed; whether Nathan attended.",
+   "to_check": "No recording; slides only. One deck holds two talks: the printed agenda, as filed, lists both titles in one 12:20 to 12:40 slot, while the deck's file name splits it \"12.20 Colin / 12.30 JianJun Yu\"; whether they were billed as one slot or two. JianJun Yu is named only in that file name; his organisation (presumed EffePharm, whose slides he gave) and role are not on the slides. Whether Nathan attended.",
    "added": "2026-11-10",
    "added_by": "Claude (from the printed agenda, Nathan's photo, 10 Nov 2026)",
    "has_transcript": false,
    "transcript_words": 0,
    "has_notes": false,
-   "has_summary": false,
-   "summary": null,
-   "takeaways": [],
-   "quotes": [],
-   "followups": [],
+   "has_summary": true,
+   "summary": {
+    "Summary": "Two talks shared this slot, on one EffePharm deck. Professor Colin Selman, a biogerontologist at the University of Glasgow who lists EffePharm beside his university, opened on the science. Mitochondria work less well as animals age, and that decline is one of the hallmarks of ageing. His question was whether it can be slowed.\n\nHis answers came from animals. Turning down nutrient sensing, eating fewer calories and giving NMN, a precursor of NAD+, all preserved mitochondrial function in mice. Long-term NMN reduced frailty, and in a preprint it extended the lifespan of female mice. None of his evidence was in people.\n\nJianJun Yu then presented UTHEVER, EffePharm's branded NMN. A trial published in 2022 is the brand's base. The new work is a small sleep trial of EffePharm's own, not yet published: 34 adults who stay up late or sleep poorly took NMN or placebo for eight weeks. Sleep quality, insomnia and fatigue scores ended lower than on placebo. Each result is labelled as within the NMN group or against placebo, and not as a treatment claim.\n\nThe talk closed on regulation. EFSA published a positive safety opinion in May 2026, and the deck expects EU novel-food approval in November 2026. EffePharm says that opens pharmacy, beauty and mainstream retail across the EU.",
+    "Key takeaways": "- Selman's case, all from worms and mice: mitochondrial function falls with age, and reduced nutrient sensing, a 30% calorie cut and NMN each preserved it in mice; NMN made mitochondria more efficient without adding more of them (slide 5) (slide 7) (slide 8) (slide 9).\n- Long-term NMN (about 550 mg/kg a day in drinking water from 13 months of age) is shown reducing frailty in both sexes and extending female lifespan in mice; the source is a 2024 bioRxiv preprint, and the frailty chart is labelled schematic, its values illustrative (slide 10).\n- UTHEVER's published trial (Frontiers in Aging, 2022): 66 adults aged 40 to 65 randomised, 62 analysed, 300 mg a day for 60 days; the slide reports a 38% increment in NAD+ levels and 6.5% gains in walking endurance and quality of life, read from the slide image, without saying whether against placebo (slide 13).\n- The sleep trial (EffePharm data on file): 34 adults aged 30 to 60, 600 mg a day or placebo for eight weeks. At day 56 the NMN group scored lower than placebo on sleep quality (PSQI, p<0.05), insomnia severity (ISI, p<0.01) and fatigue (FS-14, p<0.05); within the group the scores fell 36.61%, 48.43% and 48.15% from baseline (slide 14) (slide 15) (slide 16) (slide 17).\n- Deep sleep rose 27.65 minutes (38.88%) against the NMN group's own baseline (p<0.05); no placebo comparison is shown (slide 18).\n- EU novel food: filed August 2023, public consultation completed February 2025, positive EFSA safety assessment published May 2026, approval \"expected\" in November 2026; the US FDA sent an NDI no-objection letter in November 2025, and the UK application is in progress (slide 20) (slide 21).",
+    "For Vita Actives": "- Relevance medium: NMN is not in our range, but it is sold on cellular energy, fatigue and healthy ageing, the ground CreaWin is moving into. A retail panel at the same summit said creatine is moving from sports into longevity (from-hype-to-healthspan-building-the [19:15]).\n- If EU approval lands as the deck expects, NMN can go into EU pharmacy and mainstream retail, not just cross-border e-commerce (slide 20). My reading: expect NAD+ \"energy as you age\" launches in EU pharmacy in 2027, competing with or stacked beside creatine; Euromonitor's talk the same morning put the NAD+ family close to a price war (euromonitor-who-is-winning-healthspan).\n- My reading: EffePharm made NAD+ felt by testing sleep and fatigue rather than biomarkers. Our healthy-ageing pitches for CreaWin and IsoClr: Pea should lead the same way, on outcomes people notice.\n- My reading: the deck's reporting is a model to copy. Every figure says whether it is within the group or against placebo, and each sleep slide says it is not a treatment claim (slide 15) (slide 17).\n- My reading: the format, an academic on mechanism followed by the brand's human data, is one we could use in our own speaking slots.",
+    "Quotes": "- \"My research investigates the biological mechanisms of ageing using diverse model systems.\" (slide 2)\n- \"Reported as a change within the NMN group during supplementation, not as a treatment claim for a clinical condition.\" (slide 15)\n- \"Novel Food status opens pharmacy, beauty, and mainstream retail channels across the EU — not just cross-border e-commerce.\" (slide 20)\n- \"Positive EFSA assessment secured, expected approval in Nov. 2026\" (slide 21)",
+    "Follow-ups": "- Confirm JianJun Yu's organisation and role, whether the two talks were billed as one slot or two, and whether Nathan attended.\n- Ask EffePharm for the sleep trial write-up, its day 84 results and publication plans, and whether NMN has been tested with creatine or protein.\n- Watch the EU Union list for NMN (expected November 2026 per the deck) and its conditions of use, and the UK FSA application.\n- Check the roundtable notes (roundtable-discussions, 14:05) for EffePharm's NAD+ table.\n- My reading: Colin Selman could be an academic contact on muscle mitochondria and ageing for CreaWin, bearing in mind his EffePharm link.",
+    "Key slides": "",
+    "Detail": "- Selman: Professor of Biogerontology and Head of the School of Molecular Biosciences, University of Glasgow (since 2013); the slide gives his affiliation as \"University of Glasgow; EffePharm\". He sits on the editorial boards of Aging Cell and Experimental Gerontology (slide 2).\n- Living longer brings age-related disease: cardiovascular, neurodegenerative and liver disease, macular degeneration, sarcopenia, osteoporosis and osteoarthritis, cancer, type 2 diabetes and obesity, and immunosenescence (slide 3).\n- Mitochondrial dysfunction is one of the hallmarks of ageing (Lopez-Otin et al., 2013 and 2023), shown across humans, mice, flies and worms (slide 4).\n- With age, oxygen consumption falls from about 6.9 at 4 months to 5.7 at 12 months and 4.3 at 21 months (pmol O2 per second per citrate synthase), and ATP content and ATP production fall to roughly 60% and 40% of the younger level, all read from the charts; the species is not named on the slide (Drew et al. 2003; Hempenstall et al. 2012, 2026; Morsci et al. 2016) (slide 5).\n- Two routes to preserve mitochondrial function: genetic and dietary (slide 6).\n- Nutrient sensing: the insulin, mTORC1 and S6K1 pathway, with IRS and S6K1 marked. The mouse panel lists preserved cognition, immune function, glucose tolerance and cardiac output, less age-related fat, and fewer cataracts, cases of idiopathic dermatitis and osteoporosis (Selman et al. 2008, 2009, 2012; Borland et al. 2024) (slide 7).\n- Dietary restriction (30% fewer calories) raised median lifespan in mice from about 22 to about 33 months, \"~45–50%\", read from the chart. In male mice it raised muscle mitochondrial respiration at 1, 9 and 18 months without adding mitochondrial content (Hempenstall et al. 2012, 2026; Mulvey et al. 2017) (slide 8).\n- NMN: male mice given 100 or 300 mg/kg a day in drinking water from 5 to 17 months of age had higher muscle mitochondrial respiration and gene expression with no change in mitochondrial content (Mills et al., Cell Metabolism 2016) (slide 9).\n- The summit's partner slide sits between the two talks; EffePharm is a Diamond Partner (slide 11).\n- Sleep trial design: randomised, double-blind, placebo-controlled; assessments at day 0, 28, 56 and 84, the last four weeks after stopping. The deck shows no day 84 results (slide 14).\n- Fatigue (FS-14): 38.52% down at day 28 (−3.06 points) and 48.15% at day 56 (−3.82 points), p<0.001 within the group (slide 15).\n- Sleep quality (PSQI): −3.94 points at day 56, p<0.0001 within the group; no day 28 figure is given (slide 16).\n- Insomnia severity (ISI): 46.19% down at day 28 (−6.06 points) and 48.43% at day 56 (−6.35 points), p<0.0001 within the group (slide 17).\n- Deep sleep: how it was measured is not stated; the slide says a longer duration \"suggests more restorative sleep\" (slide 18).\n- The outcomes slide shows the 36.61% fall in PSQI score as \"+36%\" overall sleep quality and rounds deep sleep to 28 minutes; its \"No Daytime Drowsiness\" tile has no figure and no slide behind it in the deck (slide 19).\n- The regulatory slide's footer reads \"UK Longevity Summit 2026\", so it was made for another event. It calls UTHEVER first to file, first through public consultation and first to EFSA final assessment, and says final Union listing is \"a procedural next step\" (slide 20).\n- Elsewhere: Brazil approved at up to 95 mg a day (through partner distributors); Australia, Thailand and India applications in progress; NMN \"can be sold normally\" in Mexico, Japan and Hong Kong; finished-product declarations in Canada, Malaysia, the Philippines and Vietnam (slide 21).\n- Claims on the closing slide: \"World's 1st\" clinically-proven NMN brand with 3 clinical studies ongoing; 4 quality certifications (Kosher, Halal, ISO 9001, cGMP); No. 1 trademarked NMN ingredient brand in the USA by 2024 B2B sales volume (Euromonitor, research completed December 2025) (slide 22).\n- EffePharm also hosted a roundtable, \"NAD+ Next Breakthrough: Exploring Latest NMN Clinical Evidence & Regulatory Milestones\"; contact deal@effepharm.com, www.effepharm.com (slide 23).",
+    "Research": ""
+   },
+   "takeaways": [
+    {
+     "text": "Selman's case, all from worms and mice: mitochondrial function falls with age, and reduced nutrient sensing, a 30% calorie cut and NMN each preserved it in mice; NMN made mitochondria more efficient without adding more of them (slide 5) (slide 7) (slide 8) (slide 9).",
+     "cites": [
+      "slide 5",
+      "slide 7",
+      "slide 8",
+      "slide 9"
+     ]
+    },
+    {
+     "text": "Long-term NMN (about 550 mg/kg a day in drinking water from 13 months of age) is shown reducing frailty in both sexes and extending female lifespan in mice; the source is a 2024 bioRxiv preprint, and the frailty chart is labelled schematic, its values illustrative (slide 10).",
+     "cites": [
+      "slide 10"
+     ]
+    },
+    {
+     "text": "UTHEVER's published trial (Frontiers in Aging, 2022): 66 adults aged 40 to 65 randomised, 62 analysed, 300 mg a day for 60 days; the slide reports a 38% increment in NAD+ levels and 6.5% gains in walking endurance and quality of life, read from the slide image, without saying whether against placebo (slide 13).",
+     "cites": [
+      "slide 13"
+     ]
+    },
+    {
+     "text": "The sleep trial (EffePharm data on file): 34 adults aged 30 to 60, 600 mg a day or placebo for eight weeks. At day 56 the NMN group scored lower than placebo on sleep quality (PSQI, p<0.05), insomnia severity (ISI, p<0.01) and fatigue (FS-14, p<0.05); within the group the scores fell 36.61%, 48.43% and 48.15% from baseline (slide 14) (slide 15) (slide 16) (slide 17).",
+     "cites": [
+      "slide 14",
+      "slide 15",
+      "slide 16",
+      "slide 17"
+     ]
+    },
+    {
+     "text": "Deep sleep rose 27.65 minutes (38.88%) against the NMN group's own baseline (p<0.05); no placebo comparison is shown (slide 18).",
+     "cites": [
+      "slide 18"
+     ]
+    },
+    {
+     "text": "EU novel food: filed August 2023, public consultation completed February 2025, positive EFSA safety assessment published May 2026, approval \"expected\" in November 2026; the US FDA sent an NDI no-objection letter in November 2025, and the UK application is in progress (slide 20) (slide 21).",
+     "cites": [
+      "slide 20",
+      "slide 21"
+     ]
+    }
+   ],
+   "quotes": [
+    {
+     "text": "\"My research investigates the biological mechanisms of ageing using diverse model systems.\" (slide 2)",
+     "cites": [
+      "slide 2"
+     ]
+    },
+    {
+     "text": "\"Reported as a change within the NMN group during supplementation, not as a treatment claim for a clinical condition.\" (slide 15)",
+     "cites": [
+      "slide 15"
+     ]
+    },
+    {
+     "text": "\"Novel Food status opens pharmacy, beauty, and mainstream retail channels across the EU — not just cross-border e-commerce.\" (slide 20)",
+     "cites": [
+      "slide 20"
+     ]
+    },
+    {
+     "text": "\"Positive EFSA assessment secured, expected approval in Nov. 2026\" (slide 21)",
+     "cites": [
+      "slide 21"
+     ]
+    }
+   ],
+   "followups": [
+    "Confirm JianJun Yu's organisation and role, whether the two talks were billed as one slot or two, and whether Nathan attended.",
+    "Ask EffePharm for the sleep trial write-up, its day 84 results and publication plans, and whether NMN has been tested with creatine or protein.",
+    "Watch the EU Union list for NMN (expected November 2026 per the deck) and its conditions of use, and the UK FSA application.",
+    "Check the roundtable notes (roundtable-discussions, 14:05) for EffePharm's NAD+ table.",
+    "My reading: Colin Selman could be an academic contact on muscle mitochondria and ageing for CreaWin, bearing in mind his EffePharm link."
+   ],
    "key_slides": [],
-   "detail": [],
-   "files": []
+   "detail": [
+    {
+     "text": "Selman: Professor of Biogerontology and Head of the School of Molecular Biosciences, University of Glasgow (since 2013); the slide gives his affiliation as \"University of Glasgow; EffePharm\". He sits on the editorial boards of Aging Cell and Experimental Gerontology (slide 2).",
+     "cites": [
+      "slide 2"
+     ]
+    },
+    {
+     "text": "Living longer brings age-related disease: cardiovascular, neurodegenerative and liver disease, macular degeneration, sarcopenia, osteoporosis and osteoarthritis, cancer, type 2 diabetes and obesity, and immunosenescence (slide 3).",
+     "cites": [
+      "slide 3"
+     ]
+    },
+    {
+     "text": "Mitochondrial dysfunction is one of the hallmarks of ageing (Lopez-Otin et al., 2013 and 2023), shown across humans, mice, flies and worms (slide 4).",
+     "cites": [
+      "slide 4"
+     ]
+    },
+    {
+     "text": "With age, oxygen consumption falls from about 6.9 at 4 months to 5.7 at 12 months and 4.3 at 21 months (pmol O2 per second per citrate synthase), and ATP content and ATP production fall to roughly 60% and 40% of the younger level, all read from the charts; the species is not named on the slide (Drew et al. 2003; Hempenstall et al. 2012, 2026; Morsci et al. 2016) (slide 5).",
+     "cites": [
+      "slide 5"
+     ]
+    },
+    {
+     "text": "Two routes to preserve mitochondrial function: genetic and dietary (slide 6).",
+     "cites": [
+      "slide 6"
+     ]
+    },
+    {
+     "text": "Nutrient sensing: the insulin, mTORC1 and S6K1 pathway, with IRS and S6K1 marked. The mouse panel lists preserved cognition, immune function, glucose tolerance and cardiac output, less age-related fat, and fewer cataracts, cases of idiopathic dermatitis and osteoporosis (Selman et al. 2008, 2009, 2012; Borland et al. 2024) (slide 7).",
+     "cites": [
+      "slide 7"
+     ]
+    },
+    {
+     "text": "Dietary restriction (30% fewer calories) raised median lifespan in mice from about 22 to about 33 months, \"~45–50%\", read from the chart. In male mice it raised muscle mitochondrial respiration at 1, 9 and 18 months without adding mitochondrial content (Hempenstall et al. 2012, 2026; Mulvey et al. 2017) (slide 8).",
+     "cites": [
+      "slide 8"
+     ]
+    },
+    {
+     "text": "NMN: male mice given 100 or 300 mg/kg a day in drinking water from 5 to 17 months of age had higher muscle mitochondrial respiration and gene expression with no change in mitochondrial content (Mills et al., Cell Metabolism 2016) (slide 9).",
+     "cites": [
+      "slide 9"
+     ]
+    },
+    {
+     "text": "The summit's partner slide sits between the two talks; EffePharm is a Diamond Partner (slide 11).",
+     "cites": [
+      "slide 11"
+     ]
+    },
+    {
+     "text": "Sleep trial design: randomised, double-blind, placebo-controlled; assessments at day 0, 28, 56 and 84, the last four weeks after stopping. The deck shows no day 84 results (slide 14).",
+     "cites": [
+      "slide 14"
+     ]
+    },
+    {
+     "text": "Fatigue (FS-14): 38.52% down at day 28 (−3.06 points) and 48.15% at day 56 (−3.82 points), p<0.001 within the group (slide 15).",
+     "cites": [
+      "slide 15"
+     ]
+    },
+    {
+     "text": "Sleep quality (PSQI): −3.94 points at day 56, p<0.0001 within the group; no day 28 figure is given (slide 16).",
+     "cites": [
+      "slide 16"
+     ]
+    },
+    {
+     "text": "Insomnia severity (ISI): 46.19% down at day 28 (−6.06 points) and 48.43% at day 56 (−6.35 points), p<0.0001 within the group (slide 17).",
+     "cites": [
+      "slide 17"
+     ]
+    },
+    {
+     "text": "Deep sleep: how it was measured is not stated; the slide says a longer duration \"suggests more restorative sleep\" (slide 18).",
+     "cites": [
+      "slide 18"
+     ]
+    },
+    {
+     "text": "The outcomes slide shows the 36.61% fall in PSQI score as \"+36%\" overall sleep quality and rounds deep sleep to 28 minutes; its \"No Daytime Drowsiness\" tile has no figure and no slide behind it in the deck (slide 19).",
+     "cites": [
+      "slide 19"
+     ]
+    },
+    {
+     "text": "The regulatory slide's footer reads \"UK Longevity Summit 2026\", so it was made for another event. It calls UTHEVER first to file, first through public consultation and first to EFSA final assessment, and says final Union listing is \"a procedural next step\" (slide 20).",
+     "cites": [
+      "slide 20"
+     ]
+    },
+    {
+     "text": "Elsewhere: Brazil approved at up to 95 mg a day (through partner distributors); Australia, Thailand and India applications in progress; NMN \"can be sold normally\" in Mexico, Japan and Hong Kong; finished-product declarations in Canada, Malaysia, the Philippines and Vietnam (slide 21).",
+     "cites": [
+      "slide 21"
+     ]
+    },
+    {
+     "text": "Claims on the closing slide: \"World's 1st\" clinically-proven NMN brand with 3 clinical studies ongoing; 4 quality certifications (Kosher, Halal, ISO 9001, cGMP); No. 1 trademarked NMN ingredient brand in the USA by 2024 B2B sales volume (Euromonitor, research completed December 2025) (slide 22).",
+     "cites": [
+      "slide 22"
+     ]
+    },
+    {
+     "text": "EffePharm also hosted a roundtable, \"NAD+ Next Breakthrough: Exploring Latest NMN Clinical Evidence & Regulatory Milestones\"; contact deal@effepharm.com, www.effepharm.com (slide 23).",
+     "cites": [
+      "slide 23"
+     ]
+    }
+   ],
+   "files": [
+    {
+     "name": "uthever-colin-jianjun-yu-deck.pdf",
+     "kind": "pdf",
+     "pages": 23
+    }
+   ]
   },
   {
    "id": "mitochondrial-nutrition-next-frontier-ageing",
@@ -2631,6 +3402,513 @@
      "name": "otter-summary.md",
      "kind": "text",
      "pages": null
+    }
+   ]
+  },
+  {
+   "id": "ancient-brave-womens-healthspan",
+   "event": "nutra-healthspan-summit-2026",
+   "title": "Living better, not just longer: Shifts for women's healthspan innovation",
+   "date": "2026-11-11",
+   "start": "09:05",
+   "end": "",
+   "format": "talk",
+   "track": "Women's Health Session",
+   "speakers": [
+    {
+     "name": "Dr Jenna Macciochi",
+     "organisation": "Ancient + Brave",
+     "role": "Director of Science & Innovation"
+    }
+   ],
+   "themes": [
+    "longevity-positioning",
+    "branded-ingredients-differentiation",
+    "marketing-compliance-social"
+   ],
+   "ingredients": [
+    "collagen (True Collagen, bovine; pictured on the title slide)",
+    "creatine (True Creatine+; pictured on the title slide)",
+    "True Nightcap (sleep formula)",
+    "magnesium (True Magnesium+; pictured)",
+    "botanicals (in menopause supplements)"
+   ],
+   "relevance": "high",
+   "status": "summarised",
+   "summary_by": "Claude",
+   "summary_date": "2026-11-23",
+   "reviewed_by": "",
+   "reviewed_date": "",
+   "attended_by": [],
+   "links": {},
+   "to_check": "No recording, slides only; the start time is from the deck's file name, and the end time and whether Nathan attended are not known.",
+   "added": "2026-11-23",
+   "added_by": "Claude (from Nathan's upload, 23 Nov 2026)",
+   "has_transcript": false,
+   "transcript_words": 0,
+   "has_notes": false,
+   "has_summary": true,
+   "summary": {
+    "Summary": "Dr Jenna Macciochi, Director of Science & Innovation at Ancient + Brave, opened the second day's women's health session. Ancient + Brave is a UK wellness brand selling collagen and supplements for women. Her question was how the industry should innovate for women who live longer, but not healthier, lives. Women spend 25% more of their lives in poor health than men.\n\nShe set out three shifts. First, from normalised to noticed: women have learned to accept being dismissed, and the industry sells to them with \"pink\" reformulations, fixed age bands, borrowed evidence and fear. Second, from reproductive hormones to whole-body transitions: hormones act on the heart, bone, muscle, metabolism, sleep and brain, and perimenopause is the least studied stage. Her example was the heart: twice as many UK women die from coronary heart disease as from breast cancer. Third, from borrowed evidence to evidence built with women, since research funding and trials largely leave women out.\n\nHer answer was Ancient + Brave's own model: placebo-controlled trials of its products with universities, blinded consumer studies, and citizen science with customers. It also funds a PhD on collagen in midlife women. She closed on four principles: dose to the evidence, design for transitions rather than age bands, test the finished product with women, and say only what the evidence supports.",
+    "Key takeaways": "- Longer lives, not healthier ones: the gap between lifespan and healthy years is 2.4 years wider for women than for men across 183 countries, and women spend 25% more of their lives in poor health (slide 5).\n- Women's supplements are under scrutiny for \"pink\" repackaging, static age bands and borrowed evidence; Which? found many menopause supplements use botanicals at doses too low to match the trials behind them. Fear (ageing as decline, hormones as a problem, hidden threats) is \"a common sales tactic\" (slide 9) (slide 10).\n- Menopause as a whole-body transition: hormones act on brain, heart, bone, muscle, metabolism, sleep, gut, liver, immune system and skin; perimenopause is \"Years of fluctuation, and the least studied\". In the SWAN cohort cholesterol rose sharply around the final period, beyond what ageing alone explains (slide 12) (slide 13).\n- Heart: 23,000 UK women die from coronary heart disease each year, twice as many as from breast cancer. Ancient + Brave, King's College London and Heart Research UK launch a Women's Heart Health Survey in December 2026, the first UK-wide one in 9 years and the first to add menopausal stage (slide 14) (slide 15).\n- The evidence gap: under 1% of global research funding went to six female-specific conditions that carry 14% of the women's health burden, and 16.5% of 704 micronutrient studies included only men (slide 18).\n- Ancient + Brave's evidence model: clinical trials (\"Does it work?\"), blinded consumer studies (\"How does it feel?\") and citizen science with its Inner Circle customers; a four-arm sleep trial of True Nightcap against placebo, with and without a wearable; and a funded Loughborough PhD on collagen and co-supplementation in midlife women (slide 19) (slide 20) (slide 22).",
+    "For Vita Actives": "- Relevance high: Ancient + Brave sells collagen and a creatine product, True Creatine+ (\"Advanced creatine formula\"), pictured on the title slide beside True Collagen and True Nightcap (slide 1). Nick Stene of Euromonitor named it with IM8 as a brand winning on proof on day 1 (euromonitor-who-is-winning-healthspan). My reading: a natural CreaWin prospect; who supplies its creatine now is not known.\n- Her principles include \"dose to the evidence\" and \"test the finished product, with women\", with results shared whatever they show (slide 23). My reading: a pitch to her needs the doses used in human creatine trials in women, and an offer to support a placebo-controlled study of the finished product.\n- Design for transitions: muscle and bone are on her map of what hormones act on, and perimenopause is the least studied stage (slide 12) (slide 13). Stene said women heading into perimenopause are badly served, and that perimenopause still earns a premium while menopause is losing one (euromonitor-who-is-winning-healthspan). My reading: creatine and protein for muscle in perimenopause fit both talks, but the evidence has to be built in women.\n- The Loughborough PhD covers collagen \"and co-supplementation\" in midlife women (slide 22). My reading: worth asking what is co-supplemented; a protein or creatine partner may fit.",
+    "Quotes": "- \"The ingredient was studied; the product wasn’t.\" (slide 9)\n- \"Years of fluctuation, and the least studied.\" (slide 13)\n- \"If the dose isn’t there, neither is the claim.\" (slide 23)\n- \"What have we normalised as an industry that we should stop accepting?\" (slide 23)",
+    "Follow-ups": "- Dr Jenna Macciochi (contact details on slide 4): who supplies the creatine in True Creatine+, whether Ancient + Brave plans creatine research in women, and what the \"co-supplementation\" in the Loughborough PhD is.\n- Watch for the Women's Heart Health Survey (launching December 2026) and results of the Inner Circle sleep trial.\n- Find the Which? report \"Menopause markup\" (September 2026) and Sullivan et al. on menopause supplement ingredients.\n- Ancient + Brave as a possible customer for the leads register (Nathan's call).\n- Confirm the end time and whether Nathan attended.",
+    "Key slides": "",
+    "Detail": "- The brand: \"a mission driven wellness brand with an award winning range of collagen\" and supplements, designed to support women's health; its vision is to be the #1 wellness brand in the world, with new standards \"for holistic health, sustainability and female empowerment\" (slide 2).\n- Research: over £400k over the next four years in independent research with Princeton Consumer Research, UEA, Cardiff and Loughborough universities; logos also show Cardiff Metropolitan and Liverpool Hope. Certification logos: B Corp, 1% for the Planet, The Climate Label, Buy Women Built, Rainforest Concern and ESG Mark. The slide's text layer also carries \"£100m\" with no label; it is not visible on the rendered slide (slide 3).\n- The speaker: 25 years in immunology, human performance and health; former Senior Lecturer in Immunology & Biomedical Science at the University of Sussex; leads product development and clinical research at Ancient + Brave; author of three books, most recently Immune to Age (slide 4).\n- Product photos: True Nightcap (\"Advanced nutrient nightcap\"), True Collagen (bovine collagen) and True Creatine+ (\"Advanced creatine formula\") on the title slide; True Magnesium+ in a photo (slide 1) (slide 7).\n- Sources for the healthspan gap: Garmany and Terzic, JAMA Network Open 2024; World Economic Forum and McKinsey Health Institute 2024 (slide 5).\n- What women have learned to accept: 84% said there were times they weren't listened to by healthcare professionals (nearly 100,000 respondents, England; DHSC call for evidence 2021); 56% of UK women feel their pain is ignored or dismissed, and 31% didn't want to \"waste\" a professional's time (Gender Pain Gap Index, Nurofen and Wellbeing of Women); 1 in 10 women who worked through menopause left a job because of their symptoms (Fawcett Society 2022) (slide 8).\n- Menopause: average age 51, usually between 45 and 55; symptoms can start years earlier; more than 34 symptoms. \"Women already have the ‘Pink Tax’ and now the hormone tax.\" Shown on the slide: the paper \"What is in the bottle? An analysis of the ingredients in menopause supplements\" (Sullivan, Boylan and Harper, 2026), a \"Menopause gold rush\" headline, and Which?, \"Menopause markup\", September 2026 (slide 9).\n- On fear: \"Fear sells answers and certainty when we should start by asking better questions\", and without collective action a climate of fear persists \"because it is commercially lucrative\" (slide 10).\n- The four transitions: puberty (bone and body composition build), pregnancy and postpartum, perimenopause, and post-menopause (\"A new baseline for heart, bone and metabolism\"). SWAN: Matthews et al., Journal of the American College of Cardiology 2009 (slide 13).\n- Heart: up to 59% higher risk than men of an initial heart attack misdiagnosis; up to 80% of premature cardiovascular deaths are preventable. Sources include Heart Research UK, the University of Leeds (2016), the World Heart Federation (2025) and the Lancet Women and Cardiovascular Disease Commission (2021) (slide 14).\n- The survey is ethically approved and designed to inform policy: when menopause is raised in an NHS Health Check, heart risk should be part of the conversation. The last UK-wide survey was Heart Research UK and Damart, 2017 (slide 15).\n- England's Renewed Women's Health Strategy (April 2026) names cardiovascular disease as a priority for women and adds a menopause question to the NHS Health Check; the slide says it does not yet join the menopause question to heart health or plan how heart risk is raised in menopause care (slide 16).\n- Evidence gap sources: McKinsey Health Institute 2025 (funding 2019 to 2023, 64 conditions); Science Advances 2021; Scottish Health Survey 2017. Over 80% of the micronutrient studies excluded pregnant or lactating women (slide 18).\n- The Inner Circle: customers who opt in to research after three months or more on a product; over 900 survey responses in the past year. \"Ingredient studies show what a compound can do. We also need to know what a product does in real lives\" (slide 20).\n- Citizen science runs with ARIA (myaria.health); its founder Georgina Kyriakoudes is quoted, with three participants' comments, one on the double-blind design (slide 21).\n- The PhD: Ancient + Brave's first funded PhD, at Loughborough University with Dr Tom Clifford; independent academic research intended for publication; PhD researcher Chloe Errington (slide 22).\n- The deck shows study designs but no results for the sleep trial, the consumer studies or the PhD (slide 19) (slide 20) (slide 22).",
+    "Research": ""
+   },
+   "takeaways": [
+    {
+     "text": "Longer lives, not healthier ones: the gap between lifespan and healthy years is 2.4 years wider for women than for men across 183 countries, and women spend 25% more of their lives in poor health (slide 5).",
+     "cites": [
+      "slide 5"
+     ]
+    },
+    {
+     "text": "Women's supplements are under scrutiny for \"pink\" repackaging, static age bands and borrowed evidence; Which? found many menopause supplements use botanicals at doses too low to match the trials behind them. Fear (ageing as decline, hormones as a problem, hidden threats) is \"a common sales tactic\" (slide 9) (slide 10).",
+     "cites": [
+      "slide 9",
+      "slide 10"
+     ]
+    },
+    {
+     "text": "Menopause as a whole-body transition: hormones act on brain, heart, bone, muscle, metabolism, sleep, gut, liver, immune system and skin; perimenopause is \"Years of fluctuation, and the least studied\". In the SWAN cohort cholesterol rose sharply around the final period, beyond what ageing alone explains (slide 12) (slide 13).",
+     "cites": [
+      "slide 12",
+      "slide 13"
+     ]
+    },
+    {
+     "text": "Heart: 23,000 UK women die from coronary heart disease each year, twice as many as from breast cancer. Ancient + Brave, King's College London and Heart Research UK launch a Women's Heart Health Survey in December 2026, the first UK-wide one in 9 years and the first to add menopausal stage (slide 14) (slide 15).",
+     "cites": [
+      "slide 14",
+      "slide 15"
+     ]
+    },
+    {
+     "text": "The evidence gap: under 1% of global research funding went to six female-specific conditions that carry 14% of the women's health burden, and 16.5% of 704 micronutrient studies included only men (slide 18).",
+     "cites": [
+      "slide 18"
+     ]
+    },
+    {
+     "text": "Ancient + Brave's evidence model: clinical trials (\"Does it work?\"), blinded consumer studies (\"How does it feel?\") and citizen science with its Inner Circle customers; a four-arm sleep trial of True Nightcap against placebo, with and without a wearable; and a funded Loughborough PhD on collagen and co-supplementation in midlife women (slide 19) (slide 20) (slide 22).",
+     "cites": [
+      "slide 19",
+      "slide 20",
+      "slide 22"
+     ]
+    }
+   ],
+   "quotes": [
+    {
+     "text": "\"The ingredient was studied; the product wasn’t.\" (slide 9)",
+     "cites": [
+      "slide 9"
+     ]
+    },
+    {
+     "text": "\"Years of fluctuation, and the least studied.\" (slide 13)",
+     "cites": [
+      "slide 13"
+     ]
+    },
+    {
+     "text": "\"If the dose isn’t there, neither is the claim.\" (slide 23)",
+     "cites": [
+      "slide 23"
+     ]
+    },
+    {
+     "text": "\"What have we normalised as an industry that we should stop accepting?\" (slide 23)",
+     "cites": [
+      "slide 23"
+     ]
+    }
+   ],
+   "followups": [
+    "Dr Jenna Macciochi (contact details on slide 4): who supplies the creatine in True Creatine+, whether Ancient + Brave plans creatine research in women, and what the \"co-supplementation\" in the Loughborough PhD is.",
+    "Watch for the Women's Heart Health Survey (launching December 2026) and results of the Inner Circle sleep trial.",
+    "Find the Which? report \"Menopause markup\" (September 2026) and Sullivan et al. on menopause supplement ingredients.",
+    "Ancient + Brave as a possible customer for the leads register (Nathan's call).",
+    "Confirm the end time and whether Nathan attended."
+   ],
+   "key_slides": [],
+   "detail": [
+    {
+     "text": "The brand: \"a mission driven wellness brand with an award winning range of collagen\" and supplements, designed to support women's health; its vision is to be the #1 wellness brand in the world, with new standards \"for holistic health, sustainability and female empowerment\" (slide 2).",
+     "cites": [
+      "slide 2"
+     ]
+    },
+    {
+     "text": "Research: over £400k over the next four years in independent research with Princeton Consumer Research, UEA, Cardiff and Loughborough universities; logos also show Cardiff Metropolitan and Liverpool Hope. Certification logos: B Corp, 1% for the Planet, The Climate Label, Buy Women Built, Rainforest Concern and ESG Mark. The slide's text layer also carries \"£100m\" with no label; it is not visible on the rendered slide (slide 3).",
+     "cites": [
+      "slide 3"
+     ]
+    },
+    {
+     "text": "The speaker: 25 years in immunology, human performance and health; former Senior Lecturer in Immunology & Biomedical Science at the University of Sussex; leads product development and clinical research at Ancient + Brave; author of three books, most recently Immune to Age (slide 4).",
+     "cites": [
+      "slide 4"
+     ]
+    },
+    {
+     "text": "Product photos: True Nightcap (\"Advanced nutrient nightcap\"), True Collagen (bovine collagen) and True Creatine+ (\"Advanced creatine formula\") on the title slide; True Magnesium+ in a photo (slide 1) (slide 7).",
+     "cites": [
+      "slide 1",
+      "slide 7"
+     ]
+    },
+    {
+     "text": "Sources for the healthspan gap: Garmany and Terzic, JAMA Network Open 2024; World Economic Forum and McKinsey Health Institute 2024 (slide 5).",
+     "cites": [
+      "slide 5"
+     ]
+    },
+    {
+     "text": "What women have learned to accept: 84% said there were times they weren't listened to by healthcare professionals (nearly 100,000 respondents, England; DHSC call for evidence 2021); 56% of UK women feel their pain is ignored or dismissed, and 31% didn't want to \"waste\" a professional's time (Gender Pain Gap Index, Nurofen and Wellbeing of Women); 1 in 10 women who worked through menopause left a job because of their symptoms (Fawcett Society 2022) (slide 8).",
+     "cites": [
+      "slide 8"
+     ]
+    },
+    {
+     "text": "Menopause: average age 51, usually between 45 and 55; symptoms can start years earlier; more than 34 symptoms. \"Women already have the ‘Pink Tax’ and now the hormone tax.\" Shown on the slide: the paper \"What is in the bottle? An analysis of the ingredients in menopause supplements\" (Sullivan, Boylan and Harper, 2026), a \"Menopause gold rush\" headline, and Which?, \"Menopause markup\", September 2026 (slide 9).",
+     "cites": [
+      "slide 9"
+     ]
+    },
+    {
+     "text": "On fear: \"Fear sells answers and certainty when we should start by asking better questions\", and without collective action a climate of fear persists \"because it is commercially lucrative\" (slide 10).",
+     "cites": [
+      "slide 10"
+     ]
+    },
+    {
+     "text": "The four transitions: puberty (bone and body composition build), pregnancy and postpartum, perimenopause, and post-menopause (\"A new baseline for heart, bone and metabolism\"). SWAN: Matthews et al., Journal of the American College of Cardiology 2009 (slide 13).",
+     "cites": [
+      "slide 13"
+     ]
+    },
+    {
+     "text": "Heart: up to 59% higher risk than men of an initial heart attack misdiagnosis; up to 80% of premature cardiovascular deaths are preventable. Sources include Heart Research UK, the University of Leeds (2016), the World Heart Federation (2025) and the Lancet Women and Cardiovascular Disease Commission (2021) (slide 14).",
+     "cites": [
+      "slide 14"
+     ]
+    },
+    {
+     "text": "The survey is ethically approved and designed to inform policy: when menopause is raised in an NHS Health Check, heart risk should be part of the conversation. The last UK-wide survey was Heart Research UK and Damart, 2017 (slide 15).",
+     "cites": [
+      "slide 15"
+     ]
+    },
+    {
+     "text": "England's Renewed Women's Health Strategy (April 2026) names cardiovascular disease as a priority for women and adds a menopause question to the NHS Health Check; the slide says it does not yet join the menopause question to heart health or plan how heart risk is raised in menopause care (slide 16).",
+     "cites": [
+      "slide 16"
+     ]
+    },
+    {
+     "text": "Evidence gap sources: McKinsey Health Institute 2025 (funding 2019 to 2023, 64 conditions); Science Advances 2021; Scottish Health Survey 2017. Over 80% of the micronutrient studies excluded pregnant or lactating women (slide 18).",
+     "cites": [
+      "slide 18"
+     ]
+    },
+    {
+     "text": "The Inner Circle: customers who opt in to research after three months or more on a product; over 900 survey responses in the past year. \"Ingredient studies show what a compound can do. We also need to know what a product does in real lives\" (slide 20).",
+     "cites": [
+      "slide 20"
+     ]
+    },
+    {
+     "text": "Citizen science runs with ARIA (myaria.health); its founder Georgina Kyriakoudes is quoted, with three participants' comments, one on the double-blind design (slide 21).",
+     "cites": [
+      "slide 21"
+     ]
+    },
+    {
+     "text": "The PhD: Ancient + Brave's first funded PhD, at Loughborough University with Dr Tom Clifford; independent academic research intended for publication; PhD researcher Chloe Errington (slide 22).",
+     "cites": [
+      "slide 22"
+     ]
+    },
+    {
+     "text": "The deck shows study designs but no results for the sleep trial, the consumer studies or the PhD (slide 19) (slide 20) (slide 22).",
+     "cites": [
+      "slide 19",
+      "slide 20",
+      "slide 22"
+     ]
+    }
+   ],
+   "files": [
+    {
+     "name": "ancient-brave-living-better-not-just-longer.pdf",
+     "kind": "pdf",
+     "pages": 24
+    }
+   ]
+  },
+  {
+   "id": "indena-longevity-appearance",
+   "event": "nutra-healthspan-summit-2026",
+   "title": "The longevity paradigm: Healthy appearance as a reflection of internal vitality",
+   "date": "2026-11-11",
+   "start": "10:20",
+   "end": "",
+   "format": "talk",
+   "track": "",
+   "speakers": [
+    {
+     "name": "Serena Tongiani",
+     "organisation": "Indena",
+     "role": "Chief Portfolio Officer"
+    }
+   ],
+   "themes": [
+    "longevity-positioning",
+    "branded-ingredients-differentiation",
+    "delivery-formats",
+    "supply-security"
+   ],
+   "ingredients": [
+    "Centella asiatica extract formulated with phospholipids (CAP; Centextra in the in vitro paper)",
+    "lecithin (sunflower)",
+    "triterpenes (asiaticoside, madecassoside, asiatic acid, madecassic acid)"
+   ],
+   "relevance": "medium",
+   "status": "summarised",
+   "summary_by": "Claude",
+   "summary_date": "2026-11-23",
+   "reviewed_by": "",
+   "reviewed_date": "",
+   "attended_by": [],
+   "links": {},
+   "to_check": "No recording, slides only; the start time is from the deck's file name, and the end time, the track and whether Nathan attended are not known.",
+   "added": "2026-11-23",
+   "added_by": "Claude (from Nathan's upload, 23 Nov 2026)",
+   "has_transcript": false,
+   "transcript_words": 0,
+   "has_notes": false,
+   "has_summary": true,
+   "summary": {
+    "Summary": "Serena Tongiani, Chief Portfolio Officer at Indena, the Italian botanical extracts company, argued that a healthy appearance reflects internal vitality and belongs in the longevity conversation.\n\nShe opened on the market. Nutrition Business Journal data show healthy ageing as the fastest-growing supplement category, and skin and beauty ageing among the top five concerns people address with healthy-ageing products. Botanicals can meet that need, she said, but they raise three problems: poor solubility and absorption, active content that varies with the harvest, and pesticide residues, even in organic material.\n\nIndena's answer is a Centella asiatica extract standardised in triterpenes and formulated with sunflower lecithin on its phospholipid platform, sourced from Madagascar and grown in solar-powered greenhouses in Sardinia. In human skin cells it beat a standard extract on oxidative stress and collagen; the deck itself says this is not proof of absorption.\n\nThe centrepiece was Indena's own placebo-controlled trial in 52 women aged 45 to 60, with the manuscript submitted. After 84 days wrinkle depth at the crow's feet was 16% lower than at the start, and elasticity, firmness, skin thickness, collagen fibre density and the skin's antioxidant power improved. She closed on quality: there is no quality in a finished product without quality in its ingredients.",
+    "Key takeaways": "- Market (Nutrition Business Journal, 2026): healthy ageing is the fastest-growing supplement category and the only one in double-digit growth, at 14.6% in 2025, projected to reach $2.11 billion in 2029; 51% of consumers used dietary supplements to support healthy ageing or longevity in the last 12 months (slide 5).\n- Skin and beauty ageing is addressed by 40% of people using healthy-ageing products, fourth after energy and focus (49%), sleep and recovery (47%) and joint and mobility support (45%) (NBJ, January 2026, n=832; read from the chart) (slide 7) (slide 9).\n- Botanicals' formulation gap, with Centella as the case: limited solubility and bioavailability, total triterpenes varying from 35.5 to 83.2 mg/g across harvest periods, and pesticide residues in trade samples including organic-certified material (slide 9).\n- In human skin cells (fibroblasts) the phospholipid-formulated extract outperformed a standard extract on oxidative stress, collagen release, collagen breakdown (MMP-1) and wound closure (about 40% after 24 hours). The deck marks this \"NOT PROOF OF ABSORPTION\", and a footnote says clinical benefit has not been established (slide 9) (slide 14).\n- Indena's own trial: randomised, double-blind and placebo-controlled, 52 healthy women aged 45 to 60 with dry skin and mild to moderate crow's-feet wrinkles, 150 mg a day for 84 days; manuscript submitted. Primary endpoints: wrinkle depth -11% at 28 days and -16% at 84 days; skin elasticity (R2) +3% and +5% (slide 15) (slide 16) (slide 17).\n- Secondary endpoints at 84 days: firmness (F4) -7%, skin thickness +2.2 µm, collagen fibre density +10%, fibre anisotropy -7%, skin antioxidant power (FRAP) +26%, TNF-alpha release -10%; fitted to the testing lab's reference data, wrinkle depth corresponds to 4.9 years younger, with \"No variations observed with placebo.\" (slide 17) (slide 18) (slide 20) (slide 21) (slide 22).",
+    "For Vita Actives": "- Relevance medium: botanicals for skin are outside our range, but the trial targets women in midlife and sells \"beauty from within\" on collagen structure, the space collagen products hold, and the same NBJ ranking puts joint and mobility support (45%) above skin (40%) (slide 7) (slide 15) (slide 20).\n- The sources differ on skin: Indena's NBJ survey ranks skin fourth among consumers' healthy-ageing concerns, at 40% (slide 7), while Nick Stene of Euromonitor said on day 1 that skin's premium on the US shelf peaked in 2025 and hair is next (euromonitor-who-is-winning-healthspan). One measures consumer use, the other shelf premium; both are given.\n- My reading: most headline percentages match the change from baseline in the extract group's chart values (wrinkle depth 267.9 to 224.8 µm is -16%), not the gap against placebo; on elasticity the placebo group started higher and the two ended at 0.634 and 0.632 (read from the chart) (slide 16) (slide 17). Buyers comparing suppliers' trial figures will meet this; ours should state which comparison they use.\n- My reading: the deck pairs a supplier-funded trial with plain caveats (\"not proof of absorption\", in vitro only) (slide 9) (slide 14). That is the standard CreaWin and IsoClr: Pea evidence has to meet when pitched for women's healthy ageing.",
+    "Quotes": "- \"THE REAL GOAL IS NOT JUST LIVING LONGER, BUT ABOUT LIVING BETTER FOR LONGER\" (slide 4)\n- \"Market signal opens the question: can botanicals deliver consistent, well-sourced actives?\" (slide 9)\n- \"NOT PROOF OF ABSORPTION\" (slide 14)\n- \"THERE IS NO QUALITY FOR A FINISHED PRODUCT WITHOUT QUALITY OF ITS INGREDIENTS\" (slide 25)",
+    "Follow-ups": "- Ask Indena for the trial manuscript once published, and whether each endpoint differed significantly from placebo, not only from baseline.\n- Ask whether Indena has tested the extract in one product with collagen or protein.\n- Confirm the end time, the track and whether Nathan attended.",
+    "Key slides": "",
+    "Detail": "- Cites use the PDF page; the numbers printed on the slides differ (the market slide is printed \"4\").\n- Slide 2 is a still reading \"Timeless quality of life. Your golden aging starts today.\" with a \"Health Stories\" badge; its text layer reads \"THINGS TO WATCH 1\", probably a video in the original (slide 2).\n- WHO: the number of people aged 60 and over is projected to double by 2050, reaching 2.1 billion (slide 3).\n- \"Same age, different inner and outer appearance\": 1950s and today couples labelled \"This is 40\" and \"This is also 40\" (slide 4).\n- NBJ: healthy ageing supplement sales grow 109.6% between 2023 and 2029, crossing $2 billion in 2029 at $2.11 billion on 12.2% growth. Other ways consumers supported healthy ageing in the last 12 months: devices and wearables 29%, prescription, off-label or practitioner-supervised medicines 22%, lifestyle coaching 22%, at-home diagnostics 15%, personalised supplement subscriptions 15%, in-clinic therapies 12%, AI-driven supplement or nutrition services 12%, peptides 11% (NBJ survey, aged 18 to 75, January 2026, n=1,000; read from the chart) (slide 5).\n- The rest of the concern ranking: cardiovascular health 38%, metabolic weight management or blood sugar 37%, immune function 37%, eye health 34%, cognition and memory 31%, microbiome and gut 25%, hormonal balance and menopause support 22% (read from the chart) (slide 7).\n- 34% of Britons say preventing signs of ageing is important (YouGov, Great Britain anti-ageing report 2026) (slide 9).\n- Indena's frame for maximising healthspan: cellular ageing, body function and healthy appearance (slide 6). Healthy appearance \"begins from within\", as skin, hair and posture reflect oxidative stress and a declining ability to regenerate (slide 8).\n- Sourcing: traditional sources in Madagascar under a responsible sourcing model (sustainable harvesting, biodiversity, long-term value for local communities), and an agricultural hub in Sardinia with fully self-sufficient photovoltaic greenhouses (slide 11).\n- Mechanism: four triterpenes (madecassoside, madecassic acid, asiaticoside, asiatic acid), shown down-regulating NF-kB and up-regulating Nrf2 and MAPK signalling; the illustration is labelled \"Generated with AI from: Life 2025, 15(7), 1081\" (slide 12).\n- The phospholipid platform is a solid dispersion of botanicals into a 100% food-grade lecithin matrix, which the slide says inhibits self-aggregation and acts as a wetting agent; it links to Indena's Phytosome page (slide 13).\n- The in vitro paper: Nezi et al., Frontiers in Molecular Biosciences 2026 (13:1832045). Its abstract, shown on the slide, names the product Centextra and reports ROS cut to 115 to 174% against 368% with the pro-oxidant, IL-6 about 75% against about 150%, and collagen restored to 85% against 73%; the unformulated extract \"showed limited or no activity\" in these assays (read from the abstract image) (slide 14). A further footnote cites Indena internal data, manuscript in preparation (slide 9).\n- Trial chart values, extract against placebo, at the start, 28 and 84 days (read from the charts): wrinkle depth 267.9, 239.4, 224.8 µm against 275.1, 273.2, 273.6; elasticity R2 0.605, 0.623, 0.634 against 0.625, 0.624, 0.632; firmness F4 9.449, 9.235, 8.864 against 10.103, 10.246, 10.097; epidermis thickness 49.4, 51.2, 51.6 µm against 48.3, 47.8, 48.4 (slide 16) (slide 17) (slide 18).\n- At the start and 84 days (read from the charts): dermis density 23.6% to 25.2% against 24.7% to 24.1%; anisotropy 1.9 to 1.7 against 1.8 to 2.0; FRAP 134.4 to 169.9 µM against 129.5 to 132.4; TNF-alpha 3.32 to 2.96 pg/ml against 3.30 to 3.24 (slide 20) (slide 21).\n- The slides mark both within-group and between-group significance, for example p<0.001 on wrinkle depth at 28 and 84 days, and p<0.05 between groups on elasticity (slide 16) (slide 17).\n- Methods: PrimosCR SF (Canfield Scientific) for wrinkle depth, Cutometer for elasticity and firmness, line-field confocal OCT for thickness and collagen fibres, tape stripping for FRAP and TNF-alpha (slide 15) (slide 16) (slide 17) (slide 18) (slide 21).\n- Collagen fibres with age: at 23 the fibre network is heterogeneous with good cross-linking; at 55 it is fragmented; density falls and anisotropy rises with ageing (slide 19).\n- \"Skin age\": mean wrinkle depth fitted to the CRO's archive reference data gives -3.3 years at 28 days and -4.9 years at 84 days, from about 54 at the start (read from the chart) (slide 22).\n- Closing claims on the product slide: \"FIRM. ELASTIC. RESTORED.\" and \"BOOST COLLAGEN, REINFORCE SKIN STRUCTURE\" (slide 24).",
+    "Research": ""
+   },
+   "takeaways": [
+    {
+     "text": "Market (Nutrition Business Journal, 2026): healthy ageing is the fastest-growing supplement category and the only one in double-digit growth, at 14.6% in 2025, projected to reach $2.11 billion in 2029; 51% of consumers used dietary supplements to support healthy ageing or longevity in the last 12 months (slide 5).",
+     "cites": [
+      "slide 5"
+     ]
+    },
+    {
+     "text": "Skin and beauty ageing is addressed by 40% of people using healthy-ageing products, fourth after energy and focus (49%), sleep and recovery (47%) and joint and mobility support (45%) (NBJ, January 2026, n=832; read from the chart) (slide 7) (slide 9).",
+     "cites": [
+      "slide 7",
+      "slide 9"
+     ]
+    },
+    {
+     "text": "Botanicals' formulation gap, with Centella as the case: limited solubility and bioavailability, total triterpenes varying from 35.5 to 83.2 mg/g across harvest periods, and pesticide residues in trade samples including organic-certified material (slide 9).",
+     "cites": [
+      "slide 9"
+     ]
+    },
+    {
+     "text": "In human skin cells (fibroblasts) the phospholipid-formulated extract outperformed a standard extract on oxidative stress, collagen release, collagen breakdown (MMP-1) and wound closure (about 40% after 24 hours). The deck marks this \"NOT PROOF OF ABSORPTION\", and a footnote says clinical benefit has not been established (slide 9) (slide 14).",
+     "cites": [
+      "slide 9",
+      "slide 14"
+     ]
+    },
+    {
+     "text": "Indena's own trial: randomised, double-blind and placebo-controlled, 52 healthy women aged 45 to 60 with dry skin and mild to moderate crow's-feet wrinkles, 150 mg a day for 84 days; manuscript submitted. Primary endpoints: wrinkle depth -11% at 28 days and -16% at 84 days; skin elasticity (R2) +3% and +5% (slide 15) (slide 16) (slide 17).",
+     "cites": [
+      "slide 15",
+      "slide 16",
+      "slide 17"
+     ]
+    },
+    {
+     "text": "Secondary endpoints at 84 days: firmness (F4) -7%, skin thickness +2.2 µm, collagen fibre density +10%, fibre anisotropy -7%, skin antioxidant power (FRAP) +26%, TNF-alpha release -10%; fitted to the testing lab's reference data, wrinkle depth corresponds to 4.9 years younger, with \"No variations observed with placebo.\" (slide 17) (slide 18) (slide 20) (slide 21) (slide 22).",
+     "cites": [
+      "slide 17",
+      "slide 18",
+      "slide 20",
+      "slide 21",
+      "slide 22"
+     ]
+    }
+   ],
+   "quotes": [
+    {
+     "text": "\"THE REAL GOAL IS NOT JUST LIVING LONGER, BUT ABOUT LIVING BETTER FOR LONGER\" (slide 4)",
+     "cites": [
+      "slide 4"
+     ]
+    },
+    {
+     "text": "\"Market signal opens the question: can botanicals deliver consistent, well-sourced actives?\" (slide 9)",
+     "cites": [
+      "slide 9"
+     ]
+    },
+    {
+     "text": "\"NOT PROOF OF ABSORPTION\" (slide 14)",
+     "cites": [
+      "slide 14"
+     ]
+    },
+    {
+     "text": "\"THERE IS NO QUALITY FOR A FINISHED PRODUCT WITHOUT QUALITY OF ITS INGREDIENTS\" (slide 25)",
+     "cites": [
+      "slide 25"
+     ]
+    }
+   ],
+   "followups": [
+    "Ask Indena for the trial manuscript once published, and whether each endpoint differed significantly from placebo, not only from baseline.",
+    "Ask whether Indena has tested the extract in one product with collagen or protein.",
+    "Confirm the end time, the track and whether Nathan attended."
+   ],
+   "key_slides": [],
+   "detail": [
+    {
+     "text": "Cites use the PDF page; the numbers printed on the slides differ (the market slide is printed \"4\").",
+     "cites": []
+    },
+    {
+     "text": "Slide 2 is a still reading \"Timeless quality of life. Your golden aging starts today.\" with a \"Health Stories\" badge; its text layer reads \"THINGS TO WATCH 1\", probably a video in the original (slide 2).",
+     "cites": [
+      "slide 2"
+     ]
+    },
+    {
+     "text": "WHO: the number of people aged 60 and over is projected to double by 2050, reaching 2.1 billion (slide 3).",
+     "cites": [
+      "slide 3"
+     ]
+    },
+    {
+     "text": "\"Same age, different inner and outer appearance\": 1950s and today couples labelled \"This is 40\" and \"This is also 40\" (slide 4).",
+     "cites": [
+      "slide 4"
+     ]
+    },
+    {
+     "text": "NBJ: healthy ageing supplement sales grow 109.6% between 2023 and 2029, crossing $2 billion in 2029 at $2.11 billion on 12.2% growth. Other ways consumers supported healthy ageing in the last 12 months: devices and wearables 29%, prescription, off-label or practitioner-supervised medicines 22%, lifestyle coaching 22%, at-home diagnostics 15%, personalised supplement subscriptions 15%, in-clinic therapies 12%, AI-driven supplement or nutrition services 12%, peptides 11% (NBJ survey, aged 18 to 75, January 2026, n=1,000; read from the chart) (slide 5).",
+     "cites": [
+      "slide 5"
+     ]
+    },
+    {
+     "text": "The rest of the concern ranking: cardiovascular health 38%, metabolic weight management or blood sugar 37%, immune function 37%, eye health 34%, cognition and memory 31%, microbiome and gut 25%, hormonal balance and menopause support 22% (read from the chart) (slide 7).",
+     "cites": [
+      "slide 7"
+     ]
+    },
+    {
+     "text": "34% of Britons say preventing signs of ageing is important (YouGov, Great Britain anti-ageing report 2026) (slide 9).",
+     "cites": [
+      "slide 9"
+     ]
+    },
+    {
+     "text": "Indena's frame for maximising healthspan: cellular ageing, body function and healthy appearance (slide 6). Healthy appearance \"begins from within\", as skin, hair and posture reflect oxidative stress and a declining ability to regenerate (slide 8).",
+     "cites": [
+      "slide 6",
+      "slide 8"
+     ]
+    },
+    {
+     "text": "Sourcing: traditional sources in Madagascar under a responsible sourcing model (sustainable harvesting, biodiversity, long-term value for local communities), and an agricultural hub in Sardinia with fully self-sufficient photovoltaic greenhouses (slide 11).",
+     "cites": [
+      "slide 11"
+     ]
+    },
+    {
+     "text": "Mechanism: four triterpenes (madecassoside, madecassic acid, asiaticoside, asiatic acid), shown down-regulating NF-kB and up-regulating Nrf2 and MAPK signalling; the illustration is labelled \"Generated with AI from: Life 2025, 15(7), 1081\" (slide 12).",
+     "cites": [
+      "slide 12"
+     ]
+    },
+    {
+     "text": "The phospholipid platform is a solid dispersion of botanicals into a 100% food-grade lecithin matrix, which the slide says inhibits self-aggregation and acts as a wetting agent; it links to Indena's Phytosome page (slide 13).",
+     "cites": [
+      "slide 13"
+     ]
+    },
+    {
+     "text": "The in vitro paper: Nezi et al., Frontiers in Molecular Biosciences 2026 (13:1832045). Its abstract, shown on the slide, names the product Centextra and reports ROS cut to 115 to 174% against 368% with the pro-oxidant, IL-6 about 75% against about 150%, and collagen restored to 85% against 73%; the unformulated extract \"showed limited or no activity\" in these assays (read from the abstract image) (slide 14). A further footnote cites Indena internal data, manuscript in preparation (slide 9).",
+     "cites": [
+      "slide 14",
+      "slide 9"
+     ]
+    },
+    {
+     "text": "Trial chart values, extract against placebo, at the start, 28 and 84 days (read from the charts): wrinkle depth 267.9, 239.4, 224.8 µm against 275.1, 273.2, 273.6; elasticity R2 0.605, 0.623, 0.634 against 0.625, 0.624, 0.632; firmness F4 9.449, 9.235, 8.864 against 10.103, 10.246, 10.097; epidermis thickness 49.4, 51.2, 51.6 µm against 48.3, 47.8, 48.4 (slide 16) (slide 17) (slide 18).",
+     "cites": [
+      "slide 16",
+      "slide 17",
+      "slide 18"
+     ]
+    },
+    {
+     "text": "At the start and 84 days (read from the charts): dermis density 23.6% to 25.2% against 24.7% to 24.1%; anisotropy 1.9 to 1.7 against 1.8 to 2.0; FRAP 134.4 to 169.9 µM against 129.5 to 132.4; TNF-alpha 3.32 to 2.96 pg/ml against 3.30 to 3.24 (slide 20) (slide 21).",
+     "cites": [
+      "slide 20",
+      "slide 21"
+     ]
+    },
+    {
+     "text": "The slides mark both within-group and between-group significance, for example p<0.001 on wrinkle depth at 28 and 84 days, and p<0.05 between groups on elasticity (slide 16) (slide 17).",
+     "cites": [
+      "slide 16",
+      "slide 17"
+     ]
+    },
+    {
+     "text": "Methods: PrimosCR SF (Canfield Scientific) for wrinkle depth, Cutometer for elasticity and firmness, line-field confocal OCT for thickness and collagen fibres, tape stripping for FRAP and TNF-alpha (slide 15) (slide 16) (slide 17) (slide 18) (slide 21).",
+     "cites": [
+      "slide 15",
+      "slide 16",
+      "slide 17",
+      "slide 18",
+      "slide 21"
+     ]
+    },
+    {
+     "text": "Collagen fibres with age: at 23 the fibre network is heterogeneous with good cross-linking; at 55 it is fragmented; density falls and anisotropy rises with ageing (slide 19).",
+     "cites": [
+      "slide 19"
+     ]
+    },
+    {
+     "text": "\"Skin age\": mean wrinkle depth fitted to the CRO's archive reference data gives -3.3 years at 28 days and -4.9 years at 84 days, from about 54 at the start (read from the chart) (slide 22).",
+     "cites": [
+      "slide 22"
+     ]
+    },
+    {
+     "text": "Closing claims on the product slide: \"FIRM. ELASTIC. RESTORED.\" and \"BOOST COLLAGEN, REINFORCE SKIN STRUCTURE\" (slide 24).",
+     "cites": [
+      "slide 24"
+     ]
+    }
+   ],
+   "files": [
+    {
+     "name": "indena-longevity-paradigm.pdf",
+     "kind": "pdf",
+     "pages": 26
     }
    ]
   },

@@ -1,9 +1,89 @@
 {
  "schema": "confnotes.takeaways/1",
  "built": "2026-11-23",
- "commit": "be0daf7",
- "count": 230,
+ "commit": "0a026d1",
+ "count": 259,
  "items": [
+  {
+   "id": "nutra-healthspan-summit-2026/the-challenge-and-opportunity-of-our#1",
+   "event": "nutra-healthspan-summit-2026",
+   "session": "the-challenge-and-opportunity-of-our",
+   "date": "2026-11-10",
+   "text": "The frame: \"Our ageing population is a bigger threat than climate change\", because of the cost of living, pressure on health services and societal tensions (slide 2).",
+   "cites": [
+    "slide 2"
+   ],
+   "themes": [
+    "longevity-positioning"
+   ],
+   "ingredients": [],
+   "relevance": "low",
+   "status": "summarised"
+  },
+  {
+   "id": "nutra-healthspan-summit-2026/the-challenge-and-opportunity-of-our#2",
+   "event": "nutra-healthspan-summit-2026",
+   "session": "the-challenge-and-opportunity-of-our",
+   "date": "2026-11-10",
+   "text": "Ageing is malleable: in England (ONS, 2018 to 2020, in the Chief Medical Officer's Annual Report 2023), the least deprived 10% of small areas live 70.7 years in good health and 15.6 in poorer health; the most deprived 51.9 and 26.4 (slide 5).",
+   "cites": [
+    "slide 5"
+   ],
+   "themes": [
+    "longevity-positioning"
+   ],
+   "ingredients": [],
+   "relevance": "low",
+   "status": "summarised"
+  },
+  {
+   "id": "nutra-healthspan-summit-2026/the-challenge-and-opportunity-of-our#3",
+   "event": "nutra-healthspan-summit-2026",
+   "session": "the-challenge-and-opportunity-of-our",
+   "date": "2026-11-10",
+   "text": "Three fundamentals of ageing: the rate of ageing accelerates with time, variation between individuals increases, and homeostasis declines (slide 6).",
+   "cites": [
+    "slide 6"
+   ],
+   "themes": [
+    "longevity-positioning"
+   ],
+   "ingredients": [],
+   "relevance": "low",
+   "status": "summarised"
+  },
+  {
+   "id": "nutra-healthspan-summit-2026/the-challenge-and-opportunity-of-our#4",
+   "event": "nutra-healthspan-summit-2026",
+   "session": "the-challenge-and-opportunity-of-our",
+   "date": "2026-11-10",
+   "text": "Trials to slow ageing need large numbers and several years, ideally in people who are healthy but ageing, and funding and approval are challenging (slide 7).",
+   "cites": [
+    "slide 7"
+   ],
+   "themes": [
+    "longevity-positioning"
+   ],
+   "ingredients": [],
+   "relevance": "low",
+   "status": "summarised"
+  },
+  {
+   "id": "nutra-healthspan-summit-2026/the-challenge-and-opportunity-of-our#5",
+   "event": "nutra-healthspan-summit-2026",
+   "session": "the-challenge-and-opportunity-of-our",
+   "date": "2026-11-10",
+   "text": "The call to action: make the case for healthy longevity, make trials long enough to measure ageing, and have industry, charities, government and universities work together (slide 9).",
+   "cites": [
+    "slide 9"
+   ],
+   "themes": [
+    "longevity-positioning"
+   ],
+   "ingredients": [],
+   "relevance": "low",
+   "status": "summarised"
+  },
   {
    "id": "nutra-healthspan-summit-2026/euromonitor-who-is-winning-healthspan#1",
    "event": "nutra-healthspan-summit-2026",
@@ -175,10 +255,11 @@
    "event": "nutra-healthspan-summit-2026",
    "session": "lumina-new-longevity-consumer",
    "date": "2026-11-10",
-   "text": "Concern about ageing starts younger: retired respondents mostly began thinking seriously about it in their 60s (36% on the Retired bar), people in full-time work mostly in their 30s; she called it \"a generational shift\" [00:04] (photo 1).",
+   "text": "Concern about ageing starts younger: retired respondents mostly began thinking seriously about it in their 60s (36%); in the deck's version of the chart, people working full-time mostly began in their 30s (about 30%, read from the chart). She called it \"a generational shift\" [00:04] (photo 1) (slide 4).",
    "cites": [
     "00:04",
-    "photo 1"
+    "photo 1",
+    "slide 4"
    ],
    "themes": [
     "longevity-positioning",
@@ -188,10 +269,16 @@
    ],
    "ingredients": [
     "vitamins",
-    "omegas",
+    "omega-3",
     "minerals",
     "probiotics",
-    "postbiotics"
+    "antioxidants and polyphenols",
+    "prebiotics and fibre",
+    "amino acids and proteins",
+    "CoQ10",
+    "botanical extracts",
+    "postbiotics",
+    "nicotinamide riboside (Niagen)"
    ],
    "relevance": "high",
    "status": "summarised"
@@ -201,9 +288,11 @@
    "event": "nutra-healthspan-summit-2026",
    "session": "lumina-new-longevity-consumer",
    "date": "2026-11-10",
-   "text": "The younger the respondent, the less they credit genetics and the more they credit supplements: genetics from 39% at 65 plus down to 21% in the youngest group; supplements from 20% at 25 to 34 down to 12% at 65 plus [00:04].",
+   "text": "The younger the respondent, the less they credit genetics and the more they credit supplements: genetics from 39% at 65 plus down to 21% at 18 to 24; supplements from 20% at 25 to 34 down to 12% at 65 plus [00:04] (slide 2) (slide 3).",
    "cites": [
-    "00:04"
+    "00:04",
+    "slide 2",
+    "slide 3"
    ],
    "themes": [
     "longevity-positioning",
@@ -213,10 +302,16 @@
    ],
    "ingredients": [
     "vitamins",
-    "omegas",
+    "omega-3",
     "minerals",
     "probiotics",
-    "postbiotics"
+    "antioxidants and polyphenols",
+    "prebiotics and fibre",
+    "amino acids and proteins",
+    "CoQ10",
+    "botanical extracts",
+    "postbiotics",
+    "nicotinamide riboside (Niagen)"
    ],
    "relevance": "high",
    "status": "summarised"
@@ -226,10 +321,11 @@
    "event": "nutra-healthspan-summit-2026",
    "session": "lumina-new-longevity-consumer",
    "date": "2026-11-10",
-   "text": "\"[1 in] 4 is actively pursuing [anti]-ageing\": 16% want to prevent premature ageing and 11% to reverse it, beside 52% who want to age slowly and healthily [00:04] (photo 2).",
+   "text": "One in four is actively pursuing anti-ageing: 16% want to prevent premature ageing and 11% to reverse it, beside 52% who want to age slowly and healthily [00:04] (photo 2) (slide 5).",
    "cites": [
     "00:04",
-    "photo 2"
+    "photo 2",
+    "slide 5"
    ],
    "themes": [
     "longevity-positioning",
@@ -239,10 +335,16 @@
    ],
    "ingredients": [
     "vitamins",
-    "omegas",
+    "omega-3",
     "minerals",
     "probiotics",
-    "postbiotics"
+    "antioxidants and polyphenols",
+    "prebiotics and fibre",
+    "amino acids and proteins",
+    "CoQ10",
+    "botanical extracts",
+    "postbiotics",
+    "nicotinamide riboside (Niagen)"
    ],
    "relevance": "high",
    "status": "summarised"
@@ -252,9 +354,10 @@
    "event": "nutra-healthspan-summit-2026",
    "session": "lumina-new-longevity-consumer",
    "date": "2026-11-10",
-   "text": "Energy, stamina and strength is in the top three concerns of every age band shown, for men and women; mobility, joint and bone health is in the top three of every band from 35 to 44 up for both, and from 25 to 34 for women (photo 3).",
+   "text": "Energy, stamina and strength is in the top three concerns of every age band, for men and women; mobility, joint and bone health is in the top three of every band from 35 to 44 up for both, and from 25 to 34 for women (photo 3) (slide 8).",
    "cites": [
-    "photo 3"
+    "photo 3",
+    "slide 8"
    ],
    "themes": [
     "longevity-positioning",
@@ -264,10 +367,16 @@
    ],
    "ingredients": [
     "vitamins",
-    "omegas",
+    "omega-3",
     "minerals",
     "probiotics",
-    "postbiotics"
+    "antioxidants and polyphenols",
+    "prebiotics and fibre",
+    "amino acids and proteins",
+    "CoQ10",
+    "botanical extracts",
+    "postbiotics",
+    "nicotinamide riboside (Niagen)"
    ],
    "relevance": "high",
    "status": "summarised"
@@ -277,9 +386,11 @@
    "event": "nutra-healthspan-summit-2026",
    "session": "lumina-new-longevity-consumer",
    "date": "2026-11-10",
-   "text": "Trust is the gap: the first answer to \"What's your biggest hesitation about taking longevity supplements?\" was not enough proof; 36% already take supplements to counteract natural ageing [00:04].",
+   "text": "Trust is the gap. Biggest hesitation about longevity supplements in the UK: not enough proof 22%, cost 21%, don't believe claims 20%, safety concerns 20%. Across the survey, 36% already take supplements to counteract natural ageing [00:04] (slide 17) (slide 18).",
    "cites": [
-    "00:04"
+    "00:04",
+    "slide 17",
+    "slide 18"
    ],
    "themes": [
     "longevity-positioning",
@@ -289,10 +400,16 @@
    ],
    "ingredients": [
     "vitamins",
-    "omegas",
+    "omega-3",
     "minerals",
     "probiotics",
-    "postbiotics"
+    "antioxidants and polyphenols",
+    "prebiotics and fibre",
+    "amino acids and proteins",
+    "CoQ10",
+    "botanical extracts",
+    "postbiotics",
+    "nicotinamide riboside (Niagen)"
    ],
    "relevance": "high",
    "status": "summarised"
@@ -302,10 +419,12 @@
    "event": "nutra-healthspan-summit-2026",
    "session": "lumina-new-longevity-consumer",
    "date": "2026-11-10",
-   "text": "Brands are moving from selling supplements to managing biological ageing: Life Extension sells ageing blood tests to take before and after supplements, and she gave Novos as \"Another similar example\" of a move \"from supplement brand to health intelligence company\" [00:04] (photo 4).",
+   "text": "Brands are moving from product to platform: Niagen added telehealth, IV and injections, skincare and a drug pipeline; Life Extension sells ageing blood tests to take before and after supplements; Novos sells an at-home biological-age kit [00:04] (photo 4) (slide 9) (slide 19).",
    "cites": [
     "00:04",
-    "photo 4"
+    "photo 4",
+    "slide 9",
+    "slide 19"
    ],
    "themes": [
     "longevity-positioning",
@@ -315,10 +434,16 @@
    ],
    "ingredients": [
     "vitamins",
-    "omegas",
+    "omega-3",
     "minerals",
     "probiotics",
-    "postbiotics"
+    "antioxidants and polyphenols",
+    "prebiotics and fibre",
+    "amino acids and proteins",
+    "CoQ10",
+    "botanical extracts",
+    "postbiotics",
+    "nicotinamide riboside (Niagen)"
    ],
    "relevance": "high",
    "status": "summarised"
@@ -512,9 +637,11 @@
    "event": "nutra-healthspan-summit-2026",
    "session": "jens-walter-microbiome-ageing",
    "date": "2026-11-10",
-   "text": "In animal studies, rodents kept without a microbiome live almost ten months longer than normal mice, which live about 25 months; with calorie restriction the microbiome becomes beneficial and those animals live longest [00:24].",
+   "text": "In animal studies, rodents without a microbiome live longer. He said normal mice live about 25 months and germ-free mice almost ten months longer [00:24]. In the 1991 study on his slide, mean lifespan was 88.9 weeks germ-free against 75.9 weeks conventional on a full diet, and 117.5 weeks, the longest, for conventional mice on a restricted diet (slide 6) (slide 7).",
    "cites": [
-    "00:24"
+    "00:24",
+    "slide 6",
+    "slide 7"
    ],
    "themes": [
     "probiotic-category-evolution",
@@ -522,11 +649,13 @@
    ],
    "ingredients": [
     "bifidobacteria",
-    "Bifidobacterium adolescentis (named in Otter's summary; the transcript heard \"aldolithendis\", \"aldolcenters\")",
-    "Bifidobacterium longum (Otter heard \"longunga\")",
+    "Bifidobacterium adolescentis",
+    "Bifidobacterium longum",
+    "Limosilactobacillus reuteri",
     "dietary fibre",
+    "galactooligosaccharides",
     "probiotics",
-    "synbiotics (Otter heard \"symbiotic\")",
+    "synbiotics",
     "postbiotics",
     "human milk oligosaccharides (Otter heard \"HFOs\")",
     "protein (high-protein diets, animal studies)"
@@ -539,8 +668,10 @@
    "event": "nutra-healthspan-summit-2026",
    "session": "jens-walter-microbiome-ageing",
    "date": "2026-11-10",
-   "text": "Observational studies in humans link healthy dietary patterns to healthy ageing; one UK study found a healthy diet can extend healthier lifespan by ten years, adopted in the 40s and 50s, and \"probably\" five to six years if adopted in the 70s [00:24].",
+   "text": "Observational studies link healthy dietary patterns to healthy ageing, with the Alternative Healthy Eating Index performing \"consistently best\" (slide 8). A UK study is titled \"Life expectancy can increase by up to 10 years following sustained shifts towards healthier diets\" (slide 9); he described it as ten years of healthier lifespan, and \"probably\" five to six years if the shift comes in the 70s [00:24].",
    "cites": [
+    "slide 8",
+    "slide 9",
     "00:24"
    ],
    "themes": [
@@ -549,11 +680,13 @@
    ],
    "ingredients": [
     "bifidobacteria",
-    "Bifidobacterium adolescentis (named in Otter's summary; the transcript heard \"aldolithendis\", \"aldolcenters\")",
-    "Bifidobacterium longum (Otter heard \"longunga\")",
+    "Bifidobacterium adolescentis",
+    "Bifidobacterium longum",
+    "Limosilactobacillus reuteri",
     "dietary fibre",
+    "galactooligosaccharides",
     "probiotics",
-    "synbiotics (Otter heard \"symbiotic\")",
+    "synbiotics",
     "postbiotics",
     "human milk oligosaccharides (Otter heard \"HFOs\")",
     "protein (high-protein diets, animal studies)"
@@ -566,9 +699,11 @@
    "event": "nutra-healthspan-summit-2026",
    "session": "jens-walter-microbiome-ageing",
    "date": "2026-11-10",
-   "text": "His Cell trial of a non-industrialised, higher-fibre diet in students over three weeks raised bifidobacteria and indole-3-propionic acid, lowered faecal pH and secondary bile acids, cut LDL cholesterol by 17% and reduced blood glucose and CRP [00:24].",
+   "text": "His Cell trial of the non-industrialised \"Restore\" (NiMe) diet, 45 g of fibre a day, against participants' usual diet: LDL cholesterol down 16.8% (he said 17%), glucose down 6.3%, CRP down 14.0%, BMI down 1.4%; faecal pH and the ratio of branched-chain to short-chain fatty acids also fell [00:24] (slide 14) (slide 15).",
    "cites": [
-    "00:24"
+    "00:24",
+    "slide 14",
+    "slide 15"
    ],
    "themes": [
     "probiotic-category-evolution",
@@ -576,11 +711,13 @@
    ],
    "ingredients": [
     "bifidobacteria",
-    "Bifidobacterium adolescentis (named in Otter's summary; the transcript heard \"aldolithendis\", \"aldolcenters\")",
-    "Bifidobacterium longum (Otter heard \"longunga\")",
+    "Bifidobacterium adolescentis",
+    "Bifidobacterium longum",
+    "Limosilactobacillus reuteri",
     "dietary fibre",
+    "galactooligosaccharides",
     "probiotics",
-    "synbiotics (Otter heard \"symbiotic\")",
+    "synbiotics",
     "postbiotics",
     "human milk oligosaccharides (Otter heard \"HFOs\")",
     "protein (high-protein diets, animal studies)"
@@ -593,9 +730,12 @@
    "event": "nutra-healthspan-summit-2026",
    "session": "jens-walter-microbiome-ageing",
    "date": "2026-11-10",
-   "text": "Bifidobacterium adolescentis falls with age and is associated with healthy ageing (centenarians in Sardinia, slower epigenetic ageing in about 123 people); in animal studies it improved healthspan and lifespan; human trials in older people by Synbiotic Health are ongoing, with no data yet [00:24].",
+   "text": "Bifidobacterium adolescentis falls with age and is linked with healthy ageing: it peaks at about 4.8% of the gut microbiome around age 40 in healthy people (read from the chart, Synbiotic Health's data on 8,942 people), it was the strongest predictor of slower epigenetic ageing in 123 adults, and in animal studies it improved healthspan and lifespan. Synbiotic Health's human trials in older people are ongoing, with no data yet [00:24] (slide 17) (slide 20) (slide 21).",
    "cites": [
-    "00:24"
+    "00:24",
+    "slide 17",
+    "slide 20",
+    "slide 21"
    ],
    "themes": [
     "probiotic-category-evolution",
@@ -603,11 +743,13 @@
    ],
    "ingredients": [
     "bifidobacteria",
-    "Bifidobacterium adolescentis (named in Otter's summary; the transcript heard \"aldolithendis\", \"aldolcenters\")",
-    "Bifidobacterium longum (Otter heard \"longunga\")",
+    "Bifidobacterium adolescentis",
+    "Bifidobacterium longum",
+    "Limosilactobacillus reuteri",
     "dietary fibre",
+    "galactooligosaccharides",
     "probiotics",
-    "synbiotics (Otter heard \"symbiotic\")",
+    "synbiotics",
     "postbiotics",
     "human milk oligosaccharides (Otter heard \"HFOs\")",
     "protein (high-protein diets, animal studies)"
@@ -620,9 +762,10 @@
    "event": "nutra-healthspan-summit-2026",
    "session": "jens-walter-microbiome-ageing",
    "date": "2026-11-10",
-   "text": "His conclusion: the microbiome is a plausible contributor to healthy ageing, established in animal models; causality is hard to establish in humans and clinical trials are needed [00:24].",
+   "text": "His take-home: the gut microbiome is a plausible contributor to healthy ageing, \"but human causality remains incompletely established\"; complementary microbiome-targeted interventions are promising, but clinical trials are needed [00:24] (slide 22).",
    "cites": [
-    "00:24"
+    "00:24",
+    "slide 22"
    ],
    "themes": [
     "probiotic-category-evolution",
@@ -630,11 +773,13 @@
    ],
    "ingredients": [
     "bifidobacteria",
-    "Bifidobacterium adolescentis (named in Otter's summary; the transcript heard \"aldolithendis\", \"aldolcenters\")",
-    "Bifidobacterium longum (Otter heard \"longunga\")",
+    "Bifidobacterium adolescentis",
+    "Bifidobacterium longum",
+    "Limosilactobacillus reuteri",
     "dietary fibre",
+    "galactooligosaccharides",
     "probiotics",
-    "synbiotics (Otter heard \"symbiotic\")",
+    "synbiotics",
     "postbiotics",
     "human milk oligosaccharides (Otter heard \"HFOs\")",
     "protein (high-protein diets, animal studies)"
@@ -658,11 +803,13 @@
    ],
    "ingredients": [
     "bifidobacteria",
-    "Bifidobacterium adolescentis (named in Otter's summary; the transcript heard \"aldolithendis\", \"aldolcenters\")",
-    "Bifidobacterium longum (Otter heard \"longunga\")",
+    "Bifidobacterium adolescentis",
+    "Bifidobacterium longum",
+    "Limosilactobacillus reuteri",
     "dietary fibre",
+    "galactooligosaccharides",
     "probiotics",
-    "synbiotics (Otter heard \"symbiotic\")",
+    "synbiotics",
     "postbiotics",
     "human milk oligosaccharides (Otter heard \"HFOs\")",
     "protein (high-protein diets, animal studies)"
@@ -953,6 +1100,345 @@
     "mycoprotein (mycelium)"
    ],
    "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "nutra-healthspan-summit-2026/nutrition-to-improve-mitochondrial-functions#1",
+   "event": "nutra-healthspan-summit-2026",
+   "session": "nutrition-to-improve-mitochondrial-functions",
+   "date": "2026-11-10",
+   "text": "Calorie restriction: in a 14-year lifetime study in dogs, 25% calorie restriction against pair-fed controls gave a median life span of 13 years against 11.2, \"+ 15% longer life\", with better insulin sensitivity and immune function and later disease onset (Lawler et al., 2008) (slide 4).",
+   "cites": [
+    "slide 4"
+   ],
+   "themes": [
+    "longevity-positioning",
+    "creatine-beyond-strength",
+    "muscle-health-beyond-protein"
+   ],
+   "ingredients": [
+    "creatine",
+    "nicotinamide riboside (NR)",
+    "nicotinamide mononucleotide (NMN)",
+    "nicotinamide (NAM)",
+    "pyridoxine (vitamin B6)",
+    "urolithin A",
+    "N-acetylcysteine",
+    "glycine",
+    "trigonelline",
+    "thymol",
+    "carvacrol",
+    "oleuropein",
+    "polyphenols (resveratrol, quercetin, piceatannol)",
+    "dairy protein micelles"
+   ],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "nutra-healthspan-summit-2026/nutrition-to-improve-mitochondrial-functions#2",
+   "event": "nutra-healthspan-summit-2026",
+   "session": "nutrition-to-improve-mitochondrial-functions",
+   "date": "2026-11-10",
+   "text": "Weight and biological age, unpublished: biological age (PhenoAge) rises with BMI, weight loss in people with obesity lowers it, and meal-replacement regimens lowered it with weight loss, against baseline at weeks 26 and 52 (read from the chart) (slide 5).",
+   "cites": [
+    "slide 5"
+   ],
+   "themes": [
+    "longevity-positioning",
+    "creatine-beyond-strength",
+    "muscle-health-beyond-protein"
+   ],
+   "ingredients": [
+    "creatine",
+    "nicotinamide riboside (NR)",
+    "nicotinamide mononucleotide (NMN)",
+    "nicotinamide (NAM)",
+    "pyridoxine (vitamin B6)",
+    "urolithin A",
+    "N-acetylcysteine",
+    "glycine",
+    "trigonelline",
+    "thymol",
+    "carvacrol",
+    "oleuropein",
+    "polyphenols (resveratrol, quercetin, piceatannol)",
+    "dairy protein micelles"
+   ],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "nutra-healthspan-summit-2026/nutrition-to-improve-mitochondrial-functions#3",
+   "event": "nutra-healthspan-summit-2026",
+   "session": "nutrition-to-improve-mitochondrial-functions",
+   "date": "2026-11-10",
+   "text": "Creatine is the first of four \"Examples of supplements to improve mitochondrial functions\", with nicotinamide riboside, urolithin A, and N-acetylcysteine and glycine, each shown beside a Solgar or Pure Encapsulations pack (slide 7).",
+   "cites": [
+    "slide 7"
+   ],
+   "themes": [
+    "longevity-positioning",
+    "creatine-beyond-strength",
+    "muscle-health-beyond-protein"
+   ],
+   "ingredients": [
+    "creatine",
+    "nicotinamide riboside (NR)",
+    "nicotinamide mononucleotide (NMN)",
+    "nicotinamide (NAM)",
+    "pyridoxine (vitamin B6)",
+    "urolithin A",
+    "N-acetylcysteine",
+    "glycine",
+    "trigonelline",
+    "thymol",
+    "carvacrol",
+    "oleuropein",
+    "polyphenols (resveratrol, quercetin, piceatannol)",
+    "dairy protein micelles"
+   ],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "nutra-healthspan-summit-2026/nutrition-to-improve-mitochondrial-functions#4",
+   "event": "nutra-healthspan-summit-2026",
+   "session": "nutrition-to-improve-mitochondrial-functions",
+   "date": "2026-11-10",
+   "text": "Muscle: nicotinamide and vitamin B6 activated muscle stem cells and enhanced regeneration in a human RCT, with 29% more activated Pax7+ cells and 37% more regenerating myofibres against placebo; the deck says there is no direct mitochondrial mechanism (slide 8) (slide 9).",
+   "cites": [
+    "slide 8",
+    "slide 9"
+   ],
+   "themes": [
+    "longevity-positioning",
+    "creatine-beyond-strength",
+    "muscle-health-beyond-protein"
+   ],
+   "ingredients": [
+    "creatine",
+    "nicotinamide riboside (NR)",
+    "nicotinamide mononucleotide (NMN)",
+    "nicotinamide (NAM)",
+    "pyridoxine (vitamin B6)",
+    "urolithin A",
+    "N-acetylcysteine",
+    "glycine",
+    "trigonelline",
+    "thymol",
+    "carvacrol",
+    "oleuropein",
+    "polyphenols (resveratrol, quercetin, piceatannol)",
+    "dairy protein micelles"
+   ],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "nutra-healthspan-summit-2026/nutrition-to-improve-mitochondrial-functions#5",
+   "event": "nutra-healthspan-summit-2026",
+   "session": "nutrition-to-improve-mitochondrial-functions",
+   "date": "2026-11-10",
+   "text": "NAD+: two weeks of daily nicotinamide riboside (1 g) or NMN (1 g) raised blood NAD+ against placebo; nicotinamide (0.5 g) did not. The route runs through low absorption and conversion by gut microbes (Christen et al., Nature Metabolism 2026) (slide 10).",
+   "cites": [
+    "slide 10"
+   ],
+   "themes": [
+    "longevity-positioning",
+    "creatine-beyond-strength",
+    "muscle-health-beyond-protein"
+   ],
+   "ingredients": [
+    "creatine",
+    "nicotinamide riboside (NR)",
+    "nicotinamide mononucleotide (NMN)",
+    "nicotinamide (NAM)",
+    "pyridoxine (vitamin B6)",
+    "urolithin A",
+    "N-acetylcysteine",
+    "glycine",
+    "trigonelline",
+    "thymol",
+    "carvacrol",
+    "oleuropein",
+    "polyphenols (resveratrol, quercetin, piceatannol)",
+    "dairy protein micelles"
+   ],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "nutra-healthspan-summit-2026/nutrition-to-improve-mitochondrial-functions#6",
+   "event": "nutra-healthspan-summit-2026",
+   "session": "nutrition-to-improve-mitochondrial-functions",
+   "date": "2026-11-10",
+   "text": "Thymol (20 mg/kg a day) lowered biological age, improved running distance, preserved grip force and raised the mitophagy protein Pink1 in fast-ageing SAMP8 mice; his translational verdict is that more evidence in humans is needed (slide 13) (slide 15).",
+   "cites": [
+    "slide 13",
+    "slide 15"
+   ],
+   "themes": [
+    "longevity-positioning",
+    "creatine-beyond-strength",
+    "muscle-health-beyond-protein"
+   ],
+   "ingredients": [
+    "creatine",
+    "nicotinamide riboside (NR)",
+    "nicotinamide mononucleotide (NMN)",
+    "nicotinamide (NAM)",
+    "pyridoxine (vitamin B6)",
+    "urolithin A",
+    "N-acetylcysteine",
+    "glycine",
+    "trigonelline",
+    "thymol",
+    "carvacrol",
+    "oleuropein",
+    "polyphenols (resveratrol, quercetin, piceatannol)",
+    "dairy protein micelles"
+   ],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "nutra-healthspan-summit-2026/uthever-nmn-nad-metabolism-sleep-health#1",
+   "event": "nutra-healthspan-summit-2026",
+   "session": "uthever-nmn-nad-metabolism-sleep-health",
+   "date": "2026-11-10",
+   "text": "Selman's case, all from worms and mice: mitochondrial function falls with age, and reduced nutrient sensing, a 30% calorie cut and NMN each preserved it in mice; NMN made mitochondria more efficient without adding more of them (slide 5) (slide 7) (slide 8) (slide 9).",
+   "cites": [
+    "slide 5",
+    "slide 7",
+    "slide 8",
+    "slide 9"
+   ],
+   "themes": [
+    "longevity-positioning",
+    "branded-ingredients-differentiation",
+    "outcomes-over-mechanisms",
+    "eu-regulation-brake"
+   ],
+   "ingredients": [
+    "NMN (nicotinamide mononucleotide; UTHEVER, EffePharm)",
+    "NAD+"
+   ],
+   "relevance": "medium",
+   "status": "summarised"
+  },
+  {
+   "id": "nutra-healthspan-summit-2026/uthever-nmn-nad-metabolism-sleep-health#2",
+   "event": "nutra-healthspan-summit-2026",
+   "session": "uthever-nmn-nad-metabolism-sleep-health",
+   "date": "2026-11-10",
+   "text": "Long-term NMN (about 550 mg/kg a day in drinking water from 13 months of age) is shown reducing frailty in both sexes and extending female lifespan in mice; the source is a 2024 bioRxiv preprint, and the frailty chart is labelled schematic, its values illustrative (slide 10).",
+   "cites": [
+    "slide 10"
+   ],
+   "themes": [
+    "longevity-positioning",
+    "branded-ingredients-differentiation",
+    "outcomes-over-mechanisms",
+    "eu-regulation-brake"
+   ],
+   "ingredients": [
+    "NMN (nicotinamide mononucleotide; UTHEVER, EffePharm)",
+    "NAD+"
+   ],
+   "relevance": "medium",
+   "status": "summarised"
+  },
+  {
+   "id": "nutra-healthspan-summit-2026/uthever-nmn-nad-metabolism-sleep-health#3",
+   "event": "nutra-healthspan-summit-2026",
+   "session": "uthever-nmn-nad-metabolism-sleep-health",
+   "date": "2026-11-10",
+   "text": "UTHEVER's published trial (Frontiers in Aging, 2022): 66 adults aged 40 to 65 randomised, 62 analysed, 300 mg a day for 60 days; the slide reports a 38% increment in NAD+ levels and 6.5% gains in walking endurance and quality of life, read from the slide image, without saying whether against placebo (slide 13).",
+   "cites": [
+    "slide 13"
+   ],
+   "themes": [
+    "longevity-positioning",
+    "branded-ingredients-differentiation",
+    "outcomes-over-mechanisms",
+    "eu-regulation-brake"
+   ],
+   "ingredients": [
+    "NMN (nicotinamide mononucleotide; UTHEVER, EffePharm)",
+    "NAD+"
+   ],
+   "relevance": "medium",
+   "status": "summarised"
+  },
+  {
+   "id": "nutra-healthspan-summit-2026/uthever-nmn-nad-metabolism-sleep-health#4",
+   "event": "nutra-healthspan-summit-2026",
+   "session": "uthever-nmn-nad-metabolism-sleep-health",
+   "date": "2026-11-10",
+   "text": "The sleep trial (EffePharm data on file): 34 adults aged 30 to 60, 600 mg a day or placebo for eight weeks. At day 56 the NMN group scored lower than placebo on sleep quality (PSQI, p<0.05), insomnia severity (ISI, p<0.01) and fatigue (FS-14, p<0.05); within the group the scores fell 36.61%, 48.43% and 48.15% from baseline (slide 14) (slide 15) (slide 16) (slide 17).",
+   "cites": [
+    "slide 14",
+    "slide 15",
+    "slide 16",
+    "slide 17"
+   ],
+   "themes": [
+    "longevity-positioning",
+    "branded-ingredients-differentiation",
+    "outcomes-over-mechanisms",
+    "eu-regulation-brake"
+   ],
+   "ingredients": [
+    "NMN (nicotinamide mononucleotide; UTHEVER, EffePharm)",
+    "NAD+"
+   ],
+   "relevance": "medium",
+   "status": "summarised"
+  },
+  {
+   "id": "nutra-healthspan-summit-2026/uthever-nmn-nad-metabolism-sleep-health#5",
+   "event": "nutra-healthspan-summit-2026",
+   "session": "uthever-nmn-nad-metabolism-sleep-health",
+   "date": "2026-11-10",
+   "text": "Deep sleep rose 27.65 minutes (38.88%) against the NMN group's own baseline (p<0.05); no placebo comparison is shown (slide 18).",
+   "cites": [
+    "slide 18"
+   ],
+   "themes": [
+    "longevity-positioning",
+    "branded-ingredients-differentiation",
+    "outcomes-over-mechanisms",
+    "eu-regulation-brake"
+   ],
+   "ingredients": [
+    "NMN (nicotinamide mononucleotide; UTHEVER, EffePharm)",
+    "NAD+"
+   ],
+   "relevance": "medium",
+   "status": "summarised"
+  },
+  {
+   "id": "nutra-healthspan-summit-2026/uthever-nmn-nad-metabolism-sleep-health#6",
+   "event": "nutra-healthspan-summit-2026",
+   "session": "uthever-nmn-nad-metabolism-sleep-health",
+   "date": "2026-11-10",
+   "text": "EU novel food: filed August 2023, public consultation completed February 2025, positive EFSA safety assessment published May 2026, approval \"expected\" in November 2026; the US FDA sent an NDI no-objection letter in November 2025, and the UK application is in progress (slide 20) (slide 21).",
+   "cites": [
+    "slide 20",
+    "slide 21"
+   ],
+   "themes": [
+    "longevity-positioning",
+    "branded-ingredients-differentiation",
+    "outcomes-over-mechanisms",
+    "eu-regulation-brake"
+   ],
+   "ingredients": [
+    "NMN (nicotinamide mononucleotide; UTHEVER, EffePharm)",
+    "NAD+"
+   ],
+   "relevance": "medium",
    "status": "summarised"
   },
   {
@@ -1416,6 +1902,301 @@
    ],
    "ingredients": [],
    "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "nutra-healthspan-summit-2026/ancient-brave-womens-healthspan#1",
+   "event": "nutra-healthspan-summit-2026",
+   "session": "ancient-brave-womens-healthspan",
+   "date": "2026-11-11",
+   "text": "Longer lives, not healthier ones: the gap between lifespan and healthy years is 2.4 years wider for women than for men across 183 countries, and women spend 25% more of their lives in poor health (slide 5).",
+   "cites": [
+    "slide 5"
+   ],
+   "themes": [
+    "longevity-positioning",
+    "branded-ingredients-differentiation",
+    "marketing-compliance-social"
+   ],
+   "ingredients": [
+    "collagen (True Collagen, bovine; pictured on the title slide)",
+    "creatine (True Creatine+; pictured on the title slide)",
+    "True Nightcap (sleep formula)",
+    "magnesium (True Magnesium+; pictured)",
+    "botanicals (in menopause supplements)"
+   ],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "nutra-healthspan-summit-2026/ancient-brave-womens-healthspan#2",
+   "event": "nutra-healthspan-summit-2026",
+   "session": "ancient-brave-womens-healthspan",
+   "date": "2026-11-11",
+   "text": "Women's supplements are under scrutiny for \"pink\" repackaging, static age bands and borrowed evidence; Which? found many menopause supplements use botanicals at doses too low to match the trials behind them. Fear (ageing as decline, hormones as a problem, hidden threats) is \"a common sales tactic\" (slide 9) (slide 10).",
+   "cites": [
+    "slide 9",
+    "slide 10"
+   ],
+   "themes": [
+    "longevity-positioning",
+    "branded-ingredients-differentiation",
+    "marketing-compliance-social"
+   ],
+   "ingredients": [
+    "collagen (True Collagen, bovine; pictured on the title slide)",
+    "creatine (True Creatine+; pictured on the title slide)",
+    "True Nightcap (sleep formula)",
+    "magnesium (True Magnesium+; pictured)",
+    "botanicals (in menopause supplements)"
+   ],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "nutra-healthspan-summit-2026/ancient-brave-womens-healthspan#3",
+   "event": "nutra-healthspan-summit-2026",
+   "session": "ancient-brave-womens-healthspan",
+   "date": "2026-11-11",
+   "text": "Menopause as a whole-body transition: hormones act on brain, heart, bone, muscle, metabolism, sleep, gut, liver, immune system and skin; perimenopause is \"Years of fluctuation, and the least studied\". In the SWAN cohort cholesterol rose sharply around the final period, beyond what ageing alone explains (slide 12) (slide 13).",
+   "cites": [
+    "slide 12",
+    "slide 13"
+   ],
+   "themes": [
+    "longevity-positioning",
+    "branded-ingredients-differentiation",
+    "marketing-compliance-social"
+   ],
+   "ingredients": [
+    "collagen (True Collagen, bovine; pictured on the title slide)",
+    "creatine (True Creatine+; pictured on the title slide)",
+    "True Nightcap (sleep formula)",
+    "magnesium (True Magnesium+; pictured)",
+    "botanicals (in menopause supplements)"
+   ],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "nutra-healthspan-summit-2026/ancient-brave-womens-healthspan#4",
+   "event": "nutra-healthspan-summit-2026",
+   "session": "ancient-brave-womens-healthspan",
+   "date": "2026-11-11",
+   "text": "Heart: 23,000 UK women die from coronary heart disease each year, twice as many as from breast cancer. Ancient + Brave, King's College London and Heart Research UK launch a Women's Heart Health Survey in December 2026, the first UK-wide one in 9 years and the first to add menopausal stage (slide 14) (slide 15).",
+   "cites": [
+    "slide 14",
+    "slide 15"
+   ],
+   "themes": [
+    "longevity-positioning",
+    "branded-ingredients-differentiation",
+    "marketing-compliance-social"
+   ],
+   "ingredients": [
+    "collagen (True Collagen, bovine; pictured on the title slide)",
+    "creatine (True Creatine+; pictured on the title slide)",
+    "True Nightcap (sleep formula)",
+    "magnesium (True Magnesium+; pictured)",
+    "botanicals (in menopause supplements)"
+   ],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "nutra-healthspan-summit-2026/ancient-brave-womens-healthspan#5",
+   "event": "nutra-healthspan-summit-2026",
+   "session": "ancient-brave-womens-healthspan",
+   "date": "2026-11-11",
+   "text": "The evidence gap: under 1% of global research funding went to six female-specific conditions that carry 14% of the women's health burden, and 16.5% of 704 micronutrient studies included only men (slide 18).",
+   "cites": [
+    "slide 18"
+   ],
+   "themes": [
+    "longevity-positioning",
+    "branded-ingredients-differentiation",
+    "marketing-compliance-social"
+   ],
+   "ingredients": [
+    "collagen (True Collagen, bovine; pictured on the title slide)",
+    "creatine (True Creatine+; pictured on the title slide)",
+    "True Nightcap (sleep formula)",
+    "magnesium (True Magnesium+; pictured)",
+    "botanicals (in menopause supplements)"
+   ],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "nutra-healthspan-summit-2026/ancient-brave-womens-healthspan#6",
+   "event": "nutra-healthspan-summit-2026",
+   "session": "ancient-brave-womens-healthspan",
+   "date": "2026-11-11",
+   "text": "Ancient + Brave's evidence model: clinical trials (\"Does it work?\"), blinded consumer studies (\"How does it feel?\") and citizen science with its Inner Circle customers; a four-arm sleep trial of True Nightcap against placebo, with and without a wearable; and a funded Loughborough PhD on collagen and co-supplementation in midlife women (slide 19) (slide 20) (slide 22).",
+   "cites": [
+    "slide 19",
+    "slide 20",
+    "slide 22"
+   ],
+   "themes": [
+    "longevity-positioning",
+    "branded-ingredients-differentiation",
+    "marketing-compliance-social"
+   ],
+   "ingredients": [
+    "collagen (True Collagen, bovine; pictured on the title slide)",
+    "creatine (True Creatine+; pictured on the title slide)",
+    "True Nightcap (sleep formula)",
+    "magnesium (True Magnesium+; pictured)",
+    "botanicals (in menopause supplements)"
+   ],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "nutra-healthspan-summit-2026/indena-longevity-appearance#1",
+   "event": "nutra-healthspan-summit-2026",
+   "session": "indena-longevity-appearance",
+   "date": "2026-11-11",
+   "text": "Market (Nutrition Business Journal, 2026): healthy ageing is the fastest-growing supplement category and the only one in double-digit growth, at 14.6% in 2025, projected to reach $2.11 billion in 2029; 51% of consumers used dietary supplements to support healthy ageing or longevity in the last 12 months (slide 5).",
+   "cites": [
+    "slide 5"
+   ],
+   "themes": [
+    "longevity-positioning",
+    "branded-ingredients-differentiation",
+    "delivery-formats",
+    "supply-security"
+   ],
+   "ingredients": [
+    "Centella asiatica extract formulated with phospholipids (CAP; Centextra in the in vitro paper)",
+    "lecithin (sunflower)",
+    "triterpenes (asiaticoside, madecassoside, asiatic acid, madecassic acid)"
+   ],
+   "relevance": "medium",
+   "status": "summarised"
+  },
+  {
+   "id": "nutra-healthspan-summit-2026/indena-longevity-appearance#2",
+   "event": "nutra-healthspan-summit-2026",
+   "session": "indena-longevity-appearance",
+   "date": "2026-11-11",
+   "text": "Skin and beauty ageing is addressed by 40% of people using healthy-ageing products, fourth after energy and focus (49%), sleep and recovery (47%) and joint and mobility support (45%) (NBJ, January 2026, n=832; read from the chart) (slide 7) (slide 9).",
+   "cites": [
+    "slide 7",
+    "slide 9"
+   ],
+   "themes": [
+    "longevity-positioning",
+    "branded-ingredients-differentiation",
+    "delivery-formats",
+    "supply-security"
+   ],
+   "ingredients": [
+    "Centella asiatica extract formulated with phospholipids (CAP; Centextra in the in vitro paper)",
+    "lecithin (sunflower)",
+    "triterpenes (asiaticoside, madecassoside, asiatic acid, madecassic acid)"
+   ],
+   "relevance": "medium",
+   "status": "summarised"
+  },
+  {
+   "id": "nutra-healthspan-summit-2026/indena-longevity-appearance#3",
+   "event": "nutra-healthspan-summit-2026",
+   "session": "indena-longevity-appearance",
+   "date": "2026-11-11",
+   "text": "Botanicals' formulation gap, with Centella as the case: limited solubility and bioavailability, total triterpenes varying from 35.5 to 83.2 mg/g across harvest periods, and pesticide residues in trade samples including organic-certified material (slide 9).",
+   "cites": [
+    "slide 9"
+   ],
+   "themes": [
+    "longevity-positioning",
+    "branded-ingredients-differentiation",
+    "delivery-formats",
+    "supply-security"
+   ],
+   "ingredients": [
+    "Centella asiatica extract formulated with phospholipids (CAP; Centextra in the in vitro paper)",
+    "lecithin (sunflower)",
+    "triterpenes (asiaticoside, madecassoside, asiatic acid, madecassic acid)"
+   ],
+   "relevance": "medium",
+   "status": "summarised"
+  },
+  {
+   "id": "nutra-healthspan-summit-2026/indena-longevity-appearance#4",
+   "event": "nutra-healthspan-summit-2026",
+   "session": "indena-longevity-appearance",
+   "date": "2026-11-11",
+   "text": "In human skin cells (fibroblasts) the phospholipid-formulated extract outperformed a standard extract on oxidative stress, collagen release, collagen breakdown (MMP-1) and wound closure (about 40% after 24 hours). The deck marks this \"NOT PROOF OF ABSORPTION\", and a footnote says clinical benefit has not been established (slide 9) (slide 14).",
+   "cites": [
+    "slide 9",
+    "slide 14"
+   ],
+   "themes": [
+    "longevity-positioning",
+    "branded-ingredients-differentiation",
+    "delivery-formats",
+    "supply-security"
+   ],
+   "ingredients": [
+    "Centella asiatica extract formulated with phospholipids (CAP; Centextra in the in vitro paper)",
+    "lecithin (sunflower)",
+    "triterpenes (asiaticoside, madecassoside, asiatic acid, madecassic acid)"
+   ],
+   "relevance": "medium",
+   "status": "summarised"
+  },
+  {
+   "id": "nutra-healthspan-summit-2026/indena-longevity-appearance#5",
+   "event": "nutra-healthspan-summit-2026",
+   "session": "indena-longevity-appearance",
+   "date": "2026-11-11",
+   "text": "Indena's own trial: randomised, double-blind and placebo-controlled, 52 healthy women aged 45 to 60 with dry skin and mild to moderate crow's-feet wrinkles, 150 mg a day for 84 days; manuscript submitted. Primary endpoints: wrinkle depth -11% at 28 days and -16% at 84 days; skin elasticity (R2) +3% and +5% (slide 15) (slide 16) (slide 17).",
+   "cites": [
+    "slide 15",
+    "slide 16",
+    "slide 17"
+   ],
+   "themes": [
+    "longevity-positioning",
+    "branded-ingredients-differentiation",
+    "delivery-formats",
+    "supply-security"
+   ],
+   "ingredients": [
+    "Centella asiatica extract formulated with phospholipids (CAP; Centextra in the in vitro paper)",
+    "lecithin (sunflower)",
+    "triterpenes (asiaticoside, madecassoside, asiatic acid, madecassic acid)"
+   ],
+   "relevance": "medium",
+   "status": "summarised"
+  },
+  {
+   "id": "nutra-healthspan-summit-2026/indena-longevity-appearance#6",
+   "event": "nutra-healthspan-summit-2026",
+   "session": "indena-longevity-appearance",
+   "date": "2026-11-11",
+   "text": "Secondary endpoints at 84 days: firmness (F4) -7%, skin thickness +2.2 µm, collagen fibre density +10%, fibre anisotropy -7%, skin antioxidant power (FRAP) +26%, TNF-alpha release -10%; fitted to the testing lab's reference data, wrinkle depth corresponds to 4.9 years younger, with \"No variations observed with placebo.\" (slide 17) (slide 18) (slide 20) (slide 21) (slide 22).",
+   "cites": [
+    "slide 17",
+    "slide 18",
+    "slide 20",
+    "slide 21",
+    "slide 22"
+   ],
+   "themes": [
+    "longevity-positioning",
+    "branded-ingredients-differentiation",
+    "delivery-formats",
+    "supply-security"
+   ],
+   "ingredients": [
+    "Centella asiatica extract formulated with phospholipids (CAP; Centextra in the in vitro paper)",
+    "lecithin (sunflower)",
+    "triterpenes (asiaticoside, madecassoside, asiatic acid, madecassic acid)"
+   ],
+   "relevance": "medium",
    "status": "summarised"
   },
   {
