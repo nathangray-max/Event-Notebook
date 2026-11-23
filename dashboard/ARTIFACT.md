@@ -23,3 +23,4 @@ Leave out `test/` and this file.
 | 12 | 2026-11-23 | c855a0d | Data only: Remedy's Aker BioMarine krill deck (new session) and Nick Morgan's slides (summary revised with slide figures). |
 | 13 | 2026-11-23 | 761c3aa | Data only: Remedy decks for Nuritas, MartinBauer, SPI Pharma, Kaneka, Tantus, Solabia, H&B, HMT, Sacco, The Protein Brewery and Aquanova revise their summaries; Favea and Nathan's own talk added. |
 | 14 | 2026-11-23 | 662b6e2 | Data only: SANS decks for Alan Johnstone, Rousselot, Lumina and Zariwala revise their summaries; Mark Evans and Sharon Madigan summarised; Emily Jevons added. |
+| 15 | 2026-11-23 | 55eafba | Data only: SANS photo-based summaries final (no further slides exist); Cellaro confirmed in Nick Morgan's SANS keynote. |
