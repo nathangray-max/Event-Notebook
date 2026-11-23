@@ -60,6 +60,7 @@ leads:
   confidential: false
   sources:
   - {event: sans-europe-2026, session: built-in-the-gym-turning-athlete}
+  - {event: sans-europe-2026, session: fuelling-female-performance}
   summary: Asked creatine suppliers for stability in water, gummies and new formats, and plans creatine combinations; my reading, a CreaWin and IsoClr Pea prospect.
   added: '2026-11-20'
 - id: myprotein-thg
@@ -80,6 +81,7 @@ leads:
   - {event: remedy-cdmo-2026, session: alex-glover-holland-barrett}
   - {event: remedy-cdmo-2026, session: panel-evidence-regulation-ai}
   - {event: nutra-healthspan-summit-2026, session: from-hype-to-healthspan-building-the}
+  - {event: sans-europe-2026, session: is-the-juice-worth-the-squeeze}
   summary: Its formulation lead briefs on customer outcome plus timescale and takes creatine daily; its buyer sees creatine moving into healthy ageing; my reading, a route for CreaWin into healthy-ageing ranges.
   added: '2026-11-20'
 - id: gnc
@@ -259,4 +261,23 @@ leads:
   - {event: remedy-cdmo-2026, session: kaneka-ubiquinol}
   - {event: remedy-cdmo-2026, session: tantus-longevity-concepts}
   summary: Pushes ubiquinol into sport and energy (16 studies, a stabilised grade for bars, shots, sticks and gels); already in Tantus's Anti-Age concept; my reading, low priority, an energy combination with CreaWin.
+  added: '2026-11-23'
+- id: zooki
+  company: Zooki (Creatine+ for Women)
+  kinds: [customer]
+  status: heard
+  confidential: false
+  sources:
+  - {event: sans-europe-2026, session: fuelling-female-performance}
+  summary: Sells a 5 g creatine product for women, shown by Emily Jevons; my reading, a CreaWin prospect in women's creatine.
+  added: '2026-11-23'
+- id: applied-nutrition
+  company: Applied Nutrition
+  kinds: [customer]
+  status: heard
+  confidential: false
+  sources:
+  - {event: sans-europe-2026, session: glp-won-market-opportunities-for-the}
+  - {event: remedy-cdmo-2026, session: nuritas-peptistrong}
+  summary: Has a "GLP1 Friendly" range including Complete Protein and Energy + Creatine; also on Nuritas's customer logo wall; my reading, a CreaWin and IsoClr Pea prospect for GLP-1 users.
   added: '2026-11-23'

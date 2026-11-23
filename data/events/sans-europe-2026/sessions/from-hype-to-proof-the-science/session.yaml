@@ -8,19 +8,20 @@ track: Weight Management
 room: Partnership Forum
 speakers:
 - name: Gulrez Zariwala
-  organisation: Centre for Nutraceuticals
-  role: Founder director (as he introduced himself)
+  organisation: Centre for Nutraceuticals, University of Westminster
+  role: Director and Founder; Professor of Translational Physiology
 themes: [glp-1-nutrition, muscle-health-beyond-protein, outcomes-over-mechanisms]
 ingredients:
 - protein
 - whey protein isolate
 - potato protein
 - rice protein
-- OEA
+- OEA (TRPTI)
 - berberine
 - cinnamon
 - bitter compounds
-- Redicools (standardised mulberry extract; Otter's spelling)
+- quercetin
+- Reducose (mulberry leaf extract, Phynova)
 - curcumin
 - fibre
 - probiotics
@@ -28,14 +29,13 @@ ingredients:
 relevance: high
 status: summarised
 summary_by: Claude
-summary_date: '2026-11-10'
+summary_date: '2026-11-23'
 reviewed_by: ''
 reviewed_date: ''
 attended_by: [Nathan]
 links:
   otter: https://otter.ai/u/dBvLceBTr1YTpQ3D_hK0fHOy5uE
-to_check: 'His university (the recording starts mid-sentence on "Of Westminster"), the spelling of the mulberry extract and its
-  sponsor (Otter: "Redicools", "Finova") and of the lipid molecule Otter heard as "tripty", the unit of the 19 and 21 food-noise
-  reductions, and whether photos of the slides exist.'
+to_check: 'The unit of the 19 and 21 food-noise reductions; which SATISPHY arm and time point the deck''s +140% GLP-1 and -23%
+  appetite refer to; the name of the chair (Speaker 1).'
 added: '2026-11-09'
 added_by: Claude (from the event app's programme, screenshots from Nathan at 11:39-11:40 on 9 Nov 2026)

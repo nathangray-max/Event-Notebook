@@ -1,50 +1,65 @@
 # From hype to proof: the science behind GLP-1 targeted nutritional supplements
 
 ## Summary
-Gulrez Zariwala, founder director of the Centre for Nutraceuticals, asked which supplements aimed at GLP-1 and appetite have science behind them.
+Professor Gulrez Zariwala, founder and director of the Centre for Nutraceuticals at the University of Westminster, asked which supplements aimed at GLP-1 and appetite have science behind them.
 
-He began with the biology. Gut hormones such as GLP-1 and PYY signal fullness, and ghrelin signals hunger. Earlier obesity drugs that acted on the brain carried psychiatric risks, which turned the field to gut hormones. GLP-1 drugs give weight loss of five to 15%, but some of what is lost is muscle.
+He began with the biology. Gut hormones such as GLP-1 and PYY signal fullness, and ghrelin signals hunger. Earlier obesity drugs that acted on the brain carried psychiatric risks, which turned the field to gut hormones. GLP-1 drugs bring dramatic weight loss, but about 40% of the weight lost is lean body mass.
 
-The boom in GLP-1 supplements, he said, has brought lawsuits, regulatory clampdowns and lower consumer confidence. He then went through the candidates. Proteins have an undisputed effect on GLP-1 release. Berberine, cinnamon and bitter compounds have plausible mechanisms but modest effects and few human studies. His centre's own trials found that potato protein raised GLP-1 as much as whey protein isolate, and that a mulberry extract raised GLP-1 and reduced appetite and food noise.
+The boom in GLP-1 supplements, he said, has brought lawsuits, regulatory clampdowns and lower consumer confidence. He then went through the candidates. Proteins have an undisputed effect on GLP-1 release. Berberine, cinnamon and bitter compounds have plausible mechanisms but modest effects and few human studies. His centre's own trials, both still unpublished, found that potato protein raised GLP-1 comparably to whey protein isolate, and that Phynova's mulberry leaf extract, Reducose, raised post-meal GLP-1 by 140% and cut appetite by 23% against placebo.
 
-His conclusion: supplements may fill a gap for current or lapsed users, but none can match a drug, so expectations need managing. Products with scientific validation increase market resilience, and GLP-1 use creates demand for proteins, fibre, probiotics and multivitamins.
+His conclusion: supplements may fill a gap for current or lapsed users, but none can match a drug, so expectations need managing. Products with strong scientific substantiation stand out, and GLP-1 use creates demand for micronutrients, protein, fibre and probiotics.
 
 ## Key takeaways
-- GLP-1 drugs give weight loss of "between five to 15%", but users lose body weight rather than only body fat, and muscle loss "can lead to sarcopenia" [00:15].
-- The GLP-1 supplement boom brought "some high-profile lawsuits", regulatory clampdowns and lower consumer confidence [00:15].
-- Proteins have an "undisputed effect" on GLP-1 secretion, depending on quality and amino acid profile [00:15].
-- Berberine, cinnamon and bitter compounds have mechanisms but "mild to modest" effects and few human studies [00:15].
-- In his centre's appetite trial, potato protein and whey protein isolate raised GLP-1 significantly and equally [00:15].
-- A mulberry extract significantly raised GLP-1 at 180 minutes and significantly reduced appetite and food noise; the paper is due to be submitted next week [00:15].
+- GLP-1 drugs give weight loss of "between five to 15%" [00:15]; his table gives 3.6% for liraglutide, 11.4% for semaglutide and 15.0% for tirzepatide (slide 17).
+- Up to 50% of users have GI symptoms and about 40% of the weight reduction comes from lean body mass (slide 20). He said muscle loss "can lead to sarcopenia" [00:15]; his slide lists sarcopenia with "insufficient evidence" (slide 20, read from the slide image).
+- Proteins have an "undisputed effect" on GLP-1 secretion; high-protein meals trigger GLP-1 and PYY, and the effect depends on the amino acid profile, such as leucine [00:15] (slide 23).
+- Berberine, cinnamon and bitter compounds have mechanisms but "mild to modest" effects and few human studies; berberine "does not directly bind to or activate GLP-1 receptors" [00:15] (slide 25) (slide 26).
+- In his centre's APPETITE trial (12 participants; porridge alone, with potato protein or with whey protein), both proteins gave a comparable, significant increase in GLP-1 secretion (slide 28) (slide 30).
+- In the SATISPHY trial of Reducose (40 participants), post-meal GLP-1 rose 140% and appetite fell 23% against placebo, with "a marked reduction in appetite as well as food noise"; both trials are unpublished, manuscripts in progress (slide 31) (slide 33).
 
 ## For Vita Actives
-- A plant protein matched whey protein isolate on GLP-1 response in his trial; that was potato protein, not pea [00:15]. My reading: this opens a satiety angle for IsoClr: Pea, but only with our own data, and his centre runs exactly this protocol for industry partners.
-- Muscle loss on GLP-1 drugs is his headline risk, and protein is the one supplement class he called validated on both satiety and muscle [00:15]. My reading: protein for GLP-1 users is a pitch with science behind it; CreaWin's place there would rest on its muscle evidence, which he did not discuss.
-- His warning on overclaiming (lawsuits, clampdowns) fits EU claims rules [00:15]. My reading: we should not let customers imply GLP-1 effects for our ingredients.
+- A plant protein matched whey protein isolate on GLP-1 in his trial; that was potato protein, not pea, and whey raised GIP more than potato did (slide 30). My reading: this opens a satiety angle for IsoClr: Pea, but only with our own data, and his centre runs exactly this protocol for industry partners [00:15].
+- Lean mass is about 40% of the weight lost on the drugs (slide 20), and protein is the one supplement class he called validated on both satiety and muscle [00:15]. My reading: protein for GLP-1 users is a pitch with science behind it; CreaWin's place there would rest on its muscle evidence, which he did not discuss.
+- His protein slide shows Applied Nutrition's "GLP1 Friendly" range, including Complete Protein and an Energy + Creatine product (slide 23, read from the slide image). My reading: a UK sports brand already pairs protein and creatine with GLP-1 positioning; worth a look as a customer.
+- His warning on overclaiming (lawsuits, clampdowns, an FDA warning letter) fits EU claims rules [00:15] (slide 22). My reading: we should not let customers imply GLP-1 effects for our ingredients.
 - Relevance high: GLP-1 nutrition and protein.
 
 ## Quotes
 - "Proteins have an undisputed effect on GLP-1 secretion, both mechanistically, animal models, human study." Speaker 2 (Gulrez Zariwala) [00:15]
-- "So a significant increase in GLP-1, increase sorry reduction in appetite and reduction in food noise." Speaker 2 (Gulrez Zariwala) [00:15]
 - "There is no natural supplement solution that can match the magnitude of response which you will get with a pharmacological drug..." Speaker 2 (Gulrez Zariwala) [00:15]
 - "...products that have scientific validation increase market resilience..." Speaker 2 (Gulrez Zariwala) [00:15]
+- "Comparable, significant increase in GLP-1 secretion following protein supplementation" (slide 30)
 
 ## Detail
-- The Centre for Nutraceuticals, in central London, aims to bridge industry and academia with independent research, from formulation and cell studies to human trials, sponsored or blue-sky [00:15].
-- Obesity: incidence is high at 40% in the US and 35 to 40% in parts of South America and Africa; BMI over 30 is the simple consensus definition [00:15].
-- Drug history: most obesity drugs were withdrawn; centrally acting ones such as rimonabant ("rimonaban" in Otter) carried neuropsychiatric risks, which turned the field to gut hormones [00:15].
-- Gut hormones: ghrelin signals hunger; GLP-1, PYY, oxyntomodulin and GIP signal fullness. He said PYY is the more potent anorexigenic hormone, but GLP-1 drugs came first for commercial and clinical reasons [00:15].
-- Other side effects of GLP-1 drugs: nausea and vomiting, loss of facial fat pads and collagen breakdown [00:15].
-- GLP-1 is not banned in sport but is "on the watch list", and he said athletes have noticed reduced inflammation and more energy [00:15].
-- The supplement boom he dated to Expo West last year [00:15].
-- Proteins: a 2015 study of high protein against high carbohydrate and high fat meals showed a significant post-meal rise in GLP-1 and PYY [00:15].
-- OEA acts directly (GPR119) but degrades fast, so formulation may help; berberine's GLP-1 effects are indirect, mostly in rodents, and modest [00:15].
-- His first protein work was a metabolic study comparing plant proteins (potato and rice) with whey protein isolate [00:15].
-- The appetite trial was a placebo-controlled triple crossover with isocaloric breakfasts. Whey protein isolate also raised GIP significantly at 60 minutes, which he called the first nutraceutical showing a similar trend to the dual drugs, "not to the same magnitude" [00:15].
-- The mulberry extract trial (Otter: "Redicools", with a UK company Otter heard as "Finova") was a triple crossover with placebo, the extract, and a leading US GLP-1 brand's combination. Food noise fell over 24 hours ("19 with one and 21 with the other"). It finished last month; follow-on studies are planned for 2027-28 if the partner supports them [00:15].
-- Conclusions: supplements "may fill a gap" for current or lapsed users, but expectations need managing; validated products "increase market resilience"; GLP-1 use creates secondary demand for probiotics, proteins, fibre and multivitamins [00:15].
+- He is Prof M. Gulrez Zariwala, Director and Founder of the Centre for Nutraceuticals and Professor of Translational Physiology at the University of Westminster (slide 1). The centre is at 115 New Cavendish Street, London (slide 29), on the fourth floor of the building by the BT Tower (Otter: "BD Tower") [00:15] (slide 2).
+- The centre aims to bridge industry and academia and to be a source of trustworthy, scientifically validated information (slide 2). Its model runs from formulation through cell studies (Caco-2, MIN-6, SH-SY5Y) to clinical studies, including head-to-head comparisons (slide 4). Its counts: 6 funded projects, 2 products developed, 7 clinical trials, 6 pipeline contract or collaborative projects, 30+ publications, 25+ student placements (slide 7, read from the slide image).
+- Partner logos include Phynova, Gencor, Avebe, Agropur, GNC, Nelsons, Pharmako, Axonova, Issa Group and several universities and governments (slide 6, read from the slide image). The deck does not say whose potato protein APPETITE used; Avebe makes potato protein (my reading).
+- His papers on the research slide are mostly on iron, curcumin and nanocarriers, plus a mouth-rinse study in runners (slide 5, read from the slide image).
+- Obesity: he put US incidence at 40% and parts of South America and Africa at 35 to 40% [00:15]; the map uses WHO 2022 data (slide 8). Obesity is a BMI of 30 or more (slide 9).
+- Treatments: diet is the most desirable but often unsustainable; bariatric surgery gives durable loss of about 25% to 30%; drugs are long-term, often lifelong, and usually prescribed at a BMI of 27 or more (slide 10).
+- Drug history: most obesity drugs were withdrawn; rimonabant ("rimonaban" in Otter) was withdrawn in Europe in 2009 for suicidal thoughts and depression (slide 11). In one year of trial data, psychiatric disorders affected 6.7% on 20 mg against 3.2% on placebo (slide 12, read from the slide image).
+- Gut hormones: ghrelin signals hunger; GLP-1, PYY, oxyntomodulin, GIP and cholecystokinin signal fullness (slide 14). He said PYY is the more potent anorexigenic hormone, but GLP-1 drugs came first for commercial and clinical reasons [00:15]. GLP-1 is rapidly degraded by DPP-4 (slide 15).
+- Exendin-4 came from Gila monster venom; exenatide (Byetta, Amylin) was its synthetic, injectable version (slide 16). Otter heard "BioTuff" and "Emilin". The chart notes GLP-1 drug sales of $22 billion in 2022 (slide 16, read from the chart).
+- Consumerisation: online weight-loss services advertise "Less Strict Than NHS Criteria", a qualifying BMI from 25 and plans from £64 for the first month (slide 18, read from the slide image). He cited digital pharmacies, cosmetic pressures and lower costs [00:15].
+- Sport: GLP-1 drugs found to reduce inflammation, micro-dosing to lose weight and enhance performance, and a WADA monitoring programme; he said they are not banned but on the watch list [00:15] (slide 19).
+- His slide puts protein at about 50%, multivitamins about 50% and probiotics about 30% among supplements taken with or after the drugs, citing Lumina Intelligence (slide 19). Lumina's own deck in the 16:00 talk (glp-won-market-opportunities-for-the) gives proteins 51%, multivitamins 48% and probiotics 37%; the two differ on probiotics.
+- Other side effects: nausea and vomiting, loss of facial fat pads and collagen breakdown [00:15], shown as "Ozempic face" (slide 20, read from the slide image).
+- The boom: Expo West photos of a "GLP-1 Companion" supplement, Metabolaid's "GLP-1 Inducer", "GLP-1 friendly vegan chicken & waffles" and a "GLP-1 Boost" stand (slide 21, read from the slide image). He dated it to Expo West last year [00:15].
+- Substantiation: press headlines "As weight-loss drug users turn to dietary supplements, doctors and regulators raise flags" (20 October 2026) and "Unverified GLP-1-Related Claims Flood Food, Supplement Markets" (13 July 2026), and an FDA warning letter (Veronvy, 10 December 2024) (slide 22, read from the slide image). He spoke of "some high-profile lawsuits" [00:15]; the slide shows no lawsuit.
+- Proteins: a 2015 study of high protein against high carbohydrate and high fat meals showed a significant post-meal rise in GLP-1 and PYY [00:15]. The slide's charts show both hormones highest after the protein meal (slide 23, read from the chart); its reference is incomplete.
+- OEA is an agonist of PPAR-α and binds GPR-119 on L-cells. Formulated OEA, TRPTI™ (Otter: "tripty"), was "shown to enhance meal-stimulated total GLP-1 and GIP in a dose-dependent manner" (slide 24). On the chart, the 300 mg line rises above placebo after breakfast and before lunch, and the 150 mg line stays below zero (slide 24, read from the chart). Reference: doi.org/10.3389/fendo.2026.1879799.
+- Berberine works mainly through AMPK; low oral bioavailability means high doses, such as 500 mg three times a day. Cinnamon has a mild effect through the gut's TRPA1 receptors ("trip A1" in Otter) (slide 25).
+- Bitter compounds such as quercetin and berberine "may increase GLP-1 secretion" through bitter taste receptors (TAS2Rs) in the gut (slide 26).
+- His earlier paper: Tiekou Lorinczova et al. (2021), Nutrients 13(7), doi.org/10.3390/nu13072157, comparing whey, rice and potato protein isolates (slide 27). Its abstract, on the slide: nine healthy men, single-blind triple crossover; whey raised insulin more than potato at 30 minutes; no significant difference in average appetite; both plant proteins gave a lower insulin response and better glucose maintenance than whey (slide 27, read from the slide image). He called it "quite a complex quadruple crossover study" [00:15]; the abstract says triple crossover, so the two differ.
+- APPETITE design: 12 participants; porridge alone or with potato or whey protein; overnight fast; blood samples, appetite and palatability scales; an ad libitum lunch; ethics ETH2223-1377 (slide 28). It recruited healthy men aged 18 to 50, paid £100 (slide 29, read from the slide image). He said the breakfasts were isocaloric and isovolumic, blood was drawn every 30 minutes, and it was an unfunded PhD project [00:15].
+- APPETITE results: whey was above control at 120 and 180 minutes and potato at 180 minutes (p ≤ 0.05). On GIP, whey was above potato at 30 minutes (p ≤ 0.05) and at 60 and 120 minutes (p ≤ 0.01) (slide 30, read from the chart). He said whey raised GIP significantly at 60 minutes, the first nutraceutical with a similar trend to the dual drugs, "not to the same magnitude" [00:15]; the slide's GIP marks compare whey with potato, not with control.
+- SATISPHY design: 40 participants (12 men, 28 women; mean age 31.2, BMI 24.6); placebo, mulberry leaf extract, and mulberry leaf extract with a citrus-fruit supplement; appetite scales to 180 minutes, blood from 15 to 180 minutes, and a food noise questionnaire 24 hours later; ethics ETH2526-0070 (slide 31) (slide 32, read from the slide image). He described the third arm as Reducose with two other compounds, from "one of the leading U.S. GLP-1 brands" [00:15]. Otter heard Reducose as "Redicools" and Phynova as "Finova".
+- SATISPHY results: "MLE supplementation improves glycaemic response and significantly enhances post-meal GLP-1 secretion"; +140% and -23% against placebo (slide 33). The slide does not say which arm or time point. He said GLP-1 rose significantly at 180 minutes and food noise fell over 24 hours, "19 with one and 21 with the other" [00:15]; the deck gives no food noise figure.
+- The study finished last month and was due to be submitted the following week; two follow-on studies are planned for 2027-28 if the partner supports them [00:15].
+- Conclusions slide: "Nutraceutical approaches may provide safer alternatives for specific populations"; "No supplement product can provide the magnitude of response seen with GLP-1 drugs"; GLP-1 use creates demand for companion products (slide 34). Spoken, supplements "may fill a gap" for current or lapsed users [00:15].
+- No slide is marked Confidential. The title slide is marked "©University of Westminster 2026", and the two trial results are marked "Unpublished data – manuscript in progress" (slide 1) (slide 30) (slide 33).
 
 ## Follow-ups
-- Gulrez Zariwala (Centre for Nutraceuticals): ask about a satiety and GLP-1 trial for a clear pea protein, on the protocol of his potato protein study [00:15].
-- Find his published plant protein and whey protein isolate papers (the metabolic study and the appetite study) and watch for the mulberry extract paper, due to be submitted next week [00:15].
-- Confirm the names Otter heard as "Redicools", "Finova" and "tripty", and his university affiliation (the recording begins "Of Westminster") [00:00], [00:15].
+- Gulrez Zariwala (Centre for Nutraceuticals, University of Westminster): ask about a satiety and GLP-1 trial for a clear pea protein on the APPETITE protocol, and which potato protein that trial used (slide 1) (slide 28) [00:15].
+- Read Tiekou Lorinczova et al. (2021) and watch for the APPETITE and SATISPHY papers, both in progress (slide 27) (slide 30) (slide 33).
+- Look at Applied Nutrition's "GLP1 Friendly" range, including its Energy + Creatine product (slide 23).
