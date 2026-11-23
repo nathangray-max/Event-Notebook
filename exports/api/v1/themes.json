@@ -1,7 +1,7 @@
 {
  "schema": "confnotes.themes/1",
  "built": "2026-11-23",
- "commit": "0774895",
+ "commit": "fb0726d",
  "count": 19,
  "items": [
   {
@@ -65,7 +65,7 @@
     {
      "event": "remedy-cdmo-2026",
      "session": "martin-bauer-rhosera",
-     "title": "Martin Bauer: Rhosera, cultivated Rhodiola rosea against anabolic resistance",
+     "title": "Martin Bauer: RhoSera, cultivated Rhodiola rosea against anabolic resistance",
      "date": "2026-10-22"
     },
     {
@@ -110,7 +110,7 @@
     {
      "event": "remedy-cdmo-2026",
      "session": "protein-brewery-fermotein",
-     "title": "The Protein Brewery: Fermotein, a fermented mycelium protein for active and all-in-one nutrition",
+     "title": "How a novel food ingredient unlocks new solutions for the Health & Wellness market. What can you learn from successful US brands?",
      "date": "2026-10-22"
     }
    ]
@@ -145,6 +145,12 @@
      "session": "glp-won-market-opportunities-for-the",
      "title": "GLP-Won - Market Opportunities for the Active Nutrition Sector",
      "date": "2026-11-09"
+    },
+    {
+     "event": "remedy-cdmo-2026",
+     "session": "nathan-gray-creatine-new-buyers",
+     "title": "The gym & beyond: Creatine’s new buyers … and what they want",
+     "date": ""
     }
    ]
   },
@@ -206,13 +212,13 @@
     {
      "event": "remedy-cdmo-2026",
      "session": "protein-brewery-fermotein",
-     "title": "The Protein Brewery: Fermotein, a fermented mycelium protein for active and all-in-one nutrition",
+     "title": "How a novel food ingredient unlocks new solutions for the Health & Wellness market. What can you learn from successful US brands?",
      "date": "2026-10-22"
     },
     {
      "event": "remedy-cdmo-2026",
      "session": "alex-glover-holland-barrett",
-     "title": "Holland & Barrett: how longevity science translates into consumer outcomes",
+     "title": "Translating Longevity Science into Relevant Consumer Outcomes",
      "date": "2026-10-22"
     },
     {
@@ -293,31 +299,31 @@
     {
      "event": "remedy-cdmo-2026",
      "session": "martin-bauer-rhosera",
-     "title": "Martin Bauer: Rhosera, cultivated Rhodiola rosea against anabolic resistance",
+     "title": "Martin Bauer: RhoSera, cultivated Rhodiola rosea against anabolic resistance",
      "date": "2026-10-22"
     },
     {
      "event": "remedy-cdmo-2026",
      "session": "tantus-longevity-concepts",
-     "title": "Tantus: longevity in action, from a trend to a product",
+     "title": "Longevity - from a trend to a product",
      "date": "2026-10-22"
     },
     {
      "event": "remedy-cdmo-2026",
      "session": "protein-brewery-fermotein",
-     "title": "The Protein Brewery: Fermotein, a fermented mycelium protein for active and all-in-one nutrition",
+     "title": "How a novel food ingredient unlocks new solutions for the Health & Wellness market. What can you learn from successful US brands?",
      "date": "2026-10-22"
     },
     {
      "event": "remedy-cdmo-2026",
      "session": "alex-glover-holland-barrett",
-     "title": "Holland & Barrett: how longevity science translates into consumer outcomes",
+     "title": "Translating Longevity Science into Relevant Consumer Outcomes",
      "date": "2026-10-22"
     },
     {
      "event": "remedy-cdmo-2026",
      "session": "sacco-probiotics",
-     "title": "Sacco System: probiotic CDMO services, CA15 for women's health and Symbio for healthy ageing",
+     "title": "From cell to scale: Patented strains & custom fermentation power",
      "date": "2026-10-23"
     }
    ]
@@ -355,6 +361,12 @@
     },
     {
      "event": "remedy-cdmo-2026",
+     "session": "nathan-gray-creatine-new-buyers",
+     "title": "The gym & beyond: Creatine’s new buyers … and what they want",
+     "date": ""
+    },
+    {
+     "event": "remedy-cdmo-2026",
      "session": "nick-morgan-longevity",
      "title": "Healthy Ageing Reimagined",
      "date": "2026-10-22"
@@ -362,13 +374,13 @@
     {
      "event": "remedy-cdmo-2026",
      "session": "solabia-launches",
-     "title": "Solabia Nutrition: three things your brief forgot to tell you",
+     "title": "Remember it. Make it. Prove it. Three things your brief forgot to ask",
      "date": "2026-10-22"
     },
     {
      "event": "remedy-cdmo-2026",
      "session": "tantus-longevity-concepts",
-     "title": "Tantus: longevity in action, from a trend to a product",
+     "title": "Longevity - from a trend to a product",
      "date": "2026-10-22"
     }
    ]
@@ -419,13 +431,13 @@
     {
      "event": "remedy-cdmo-2026",
      "session": "martin-bauer-rhosera",
-     "title": "Martin Bauer: Rhosera, cultivated Rhodiola rosea against anabolic resistance",
+     "title": "Martin Bauer: RhoSera, cultivated Rhodiola rosea against anabolic resistance",
      "date": "2026-10-22"
     },
     {
      "event": "remedy-cdmo-2026",
      "session": "sacco-probiotics",
-     "title": "Sacco System: probiotic CDMO services, CA15 for women's health and Symbio for healthy ageing",
+     "title": "From cell to scale: Patented strains & custom fermentation power",
      "date": "2026-10-23"
     }
    ]
@@ -487,6 +499,12 @@
     },
     {
      "event": "remedy-cdmo-2026",
+     "session": "nathan-gray-creatine-new-buyers",
+     "title": "The gym & beyond: Creatine’s new buyers … and what they want",
+     "date": ""
+    },
+    {
+     "event": "remedy-cdmo-2026",
      "session": "nuritas-peptistrong",
      "title": "Nuritas: AI-discovered plant peptides and the PeptiStrong trials",
      "date": "2026-10-22"
@@ -506,7 +524,7 @@
     {
      "event": "remedy-cdmo-2026",
      "session": "solabia-launches",
-     "title": "Solabia Nutrition: three things your brief forgot to tell you",
+     "title": "Remember it. Make it. Prove it. Three things your brief forgot to ask",
      "date": "2026-10-22"
     },
     {
@@ -575,7 +593,7 @@
     {
      "event": "remedy-cdmo-2026",
      "session": "alex-glover-holland-barrett",
-     "title": "Holland & Barrett: how longevity science translates into consumer outcomes",
+     "title": "Translating Longevity Science into Relevant Consumer Outcomes",
      "date": "2026-10-22"
     },
     {
@@ -587,7 +605,7 @@
     {
      "event": "remedy-cdmo-2026",
      "session": "hmt-probiotic-market",
-     "title": "HMT: beyond probiotics, four new rules for the category",
+     "title": "Beyond Probiotics: Where the Biotics Category Is Really Heading",
      "date": "2026-10-23"
     }
    ]
@@ -604,6 +622,18 @@
      "session": "built-in-the-gym-turning-athlete",
      "title": "Built in the gym: Turning athlete insight into sports nutrition innovation",
      "date": "2026-11-09"
+    },
+    {
+     "event": "remedy-cdmo-2026",
+     "session": "favea-ai-mental-shift",
+     "title": "Nutraceuticals Business Mental Shift: Keeping credibility and client trust while AI speeds up the evolution",
+     "date": ""
+    },
+    {
+     "event": "remedy-cdmo-2026",
+     "session": "nathan-gray-creatine-new-buyers",
+     "title": "The gym & beyond: Creatine’s new buyers … and what they want",
+     "date": ""
     },
     {
      "event": "remedy-cdmo-2026",
@@ -626,13 +656,13 @@
     {
      "event": "remedy-cdmo-2026",
      "session": "solabia-launches",
-     "title": "Solabia Nutrition: three things your brief forgot to tell you",
+     "title": "Remember it. Make it. Prove it. Three things your brief forgot to ask",
      "date": "2026-10-22"
     },
     {
      "event": "remedy-cdmo-2026",
      "session": "tantus-longevity-concepts",
-     "title": "Tantus: longevity in action, from a trend to a product",
+     "title": "Longevity - from a trend to a product",
      "date": "2026-10-22"
     },
     {
@@ -653,13 +683,13 @@
     {
      "event": "remedy-cdmo-2026",
      "session": "martin-bauer-rhosera",
-     "title": "Martin Bauer: Rhosera, cultivated Rhodiola rosea against anabolic resistance",
+     "title": "Martin Bauer: RhoSera, cultivated Rhodiola rosea against anabolic resistance",
      "date": "2026-10-22"
     },
     {
      "event": "remedy-cdmo-2026",
      "session": "protein-brewery-fermotein",
-     "title": "The Protein Brewery: Fermotein, a fermented mycelium protein for active and all-in-one nutrition",
+     "title": "How a novel food ingredient unlocks new solutions for the Health & Wellness market. What can you learn from successful US brands?",
      "date": "2026-10-22"
     },
     {
@@ -671,7 +701,7 @@
     {
      "event": "remedy-cdmo-2026",
      "session": "hmt-probiotic-market",
-     "title": "HMT: beyond probiotics, four new rules for the category",
+     "title": "Beyond Probiotics: Where the Biotics Category Is Really Heading",
      "date": "2026-10-23"
     }
    ]
@@ -748,6 +778,12 @@
     },
     {
      "event": "remedy-cdmo-2026",
+     "session": "favea-ai-mental-shift",
+     "title": "Nutraceuticals Business Mental Shift: Keeping credibility and client trust while AI speeds up the evolution",
+     "date": ""
+    },
+    {
+     "event": "remedy-cdmo-2026",
      "session": "nuritas-peptistrong",
      "title": "Nuritas: AI-discovered plant peptides and the PeptiStrong trials",
      "date": "2026-10-22"
@@ -775,6 +811,18 @@
     },
     {
      "event": "remedy-cdmo-2026",
+     "session": "favea-ai-mental-shift",
+     "title": "Nutraceuticals Business Mental Shift: Keeping credibility and client trust while AI speeds up the evolution",
+     "date": ""
+    },
+    {
+     "event": "remedy-cdmo-2026",
+     "session": "nathan-gray-creatine-new-buyers",
+     "title": "The gym & beyond: Creatine’s new buyers … and what they want",
+     "date": ""
+    },
+    {
+     "event": "remedy-cdmo-2026",
      "session": "nuritas-peptistrong",
      "title": "Nuritas: AI-discovered plant peptides and the PeptiStrong trials",
      "date": "2026-10-22"
@@ -782,13 +830,13 @@
     {
      "event": "remedy-cdmo-2026",
      "session": "solabia-launches",
-     "title": "Solabia Nutrition: three things your brief forgot to tell you",
+     "title": "Remember it. Make it. Prove it. Three things your brief forgot to ask",
      "date": "2026-10-22"
     },
     {
      "event": "remedy-cdmo-2026",
      "session": "tantus-longevity-concepts",
-     "title": "Tantus: longevity in action, from a trend to a product",
+     "title": "Longevity - from a trend to a product",
      "date": "2026-10-22"
     },
     {
@@ -806,7 +854,7 @@
     {
      "event": "remedy-cdmo-2026",
      "session": "sacco-probiotics",
-     "title": "Sacco System: probiotic CDMO services, CA15 for women's health and Symbio for healthy ageing",
+     "title": "From cell to scale: Patented strains & custom fermentation power",
      "date": "2026-10-23"
     }
    ]
@@ -827,7 +875,7 @@
     {
      "event": "remedy-cdmo-2026",
      "session": "hmt-probiotic-market",
-     "title": "HMT: beyond probiotics, four new rules for the category",
+     "title": "Beyond Probiotics: Where the Biotics Category Is Really Heading",
      "date": "2026-10-23"
     },
     {
@@ -839,7 +887,7 @@
     {
      "event": "remedy-cdmo-2026",
      "session": "sacco-probiotics",
-     "title": "Sacco System: probiotic CDMO services, CA15 for women's health and Symbio for healthy ageing",
+     "title": "From cell to scale: Patented strains & custom fermentation power",
      "date": "2026-10-23"
     },
     {
@@ -892,6 +940,12 @@
      "session": "a-bigger-sports-nutrition-landscape-growth",
      "title": "A Bigger Sports Nutrition Landscape: Growth, Tensions and What Comes Next",
      "date": "2026-11-09"
+    },
+    {
+     "event": "remedy-cdmo-2026",
+     "session": "nathan-gray-creatine-new-buyers",
+     "title": "The gym & beyond: Creatine’s new buyers … and what they want",
+     "date": ""
     },
     {
      "event": "remedy-cdmo-2026",

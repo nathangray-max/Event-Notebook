@@ -1,8 +1,8 @@
 {
  "schema": "confnotes.takeaways/1",
  "built": "2026-11-23",
- "commit": "0774895",
- "count": 196,
+ "commit": "fb0726d",
+ "count": 212,
  "items": [
   {
    "id": "nutra-healthspan-summit-2026/euromonitor-who-is-winning-healthspan#1",
@@ -3119,6 +3119,364 @@
    "status": "summarised"
   },
   {
+   "id": "remedy-cdmo-2026/favea-ai-mental-shift#1",
+   "event": "remedy-cdmo-2026",
+   "session": "favea-ai-mental-shift",
+   "date": "",
+   "text": "The test: of two real enquiries a year apart, the human one spots that zinc and iron cannot be combined, admits the gap and asks for a meeting; the AI-written one asks for everything at once. Her verdict: \"Perfect form ≠ understanding.\" (slide 2) (slide 14) (slide 15)",
+   "cites": [
+    "slide 2",
+    "slide 14",
+    "slide 15"
+   ],
+   "themes": [
+    "ai-in-nutraceuticals",
+    "cdmo-partnership-models",
+    "delivery-formats"
+   ],
+   "ingredients": [
+    "phospholipids",
+    "omega-3",
+    "choline",
+    "astaxanthin",
+    "CoQ10",
+    "vitamins",
+    "hydroxytyrosol (spelt \"hydroxythyrosol\" on the slide)",
+    "probiotics",
+    "postbiotics",
+    "zinc",
+    "iron"
+   ],
+   "relevance": "medium",
+   "status": "summarised"
+  },
+  {
+   "id": "remedy-cdmo-2026/favea-ai-mental-shift#2",
+   "event": "remedy-cdmo-2026",
+   "session": "favea-ai-mental-shift",
+   "date": "",
+   "text": "Expertise is understanding, not the amount of information held; it lives where people and processes inside a company meet customers, change and credible sources outside it (slide 12) (slide 13).",
+   "cites": [
+    "slide 12",
+    "slide 13"
+   ],
+   "themes": [
+    "ai-in-nutraceuticals",
+    "cdmo-partnership-models",
+    "delivery-formats"
+   ],
+   "ingredients": [
+    "phospholipids",
+    "omega-3",
+    "choline",
+    "astaxanthin",
+    "CoQ10",
+    "vitamins",
+    "hydroxytyrosol (spelt \"hydroxythyrosol\" on the slide)",
+    "probiotics",
+    "postbiotics",
+    "zinc",
+    "iron"
+   ],
+   "relevance": "medium",
+   "status": "summarised"
+  },
+  {
+   "id": "remedy-cdmo-2026/favea-ai-mental-shift#3",
+   "event": "remedy-cdmo-2026",
+   "session": "favea-ai-mental-shift",
+   "date": "",
+   "text": "Information floods in from seminars, conferences and AI; critical thinking (verifying sources and context) filters it to the essence, and without the filter speed rises and understanding falls (slide 17).",
+   "cites": [
+    "slide 17"
+   ],
+   "themes": [
+    "ai-in-nutraceuticals",
+    "cdmo-partnership-models",
+    "delivery-formats"
+   ],
+   "ingredients": [
+    "phospholipids",
+    "omega-3",
+    "choline",
+    "astaxanthin",
+    "CoQ10",
+    "vitamins",
+    "hydroxytyrosol (spelt \"hydroxythyrosol\" on the slide)",
+    "probiotics",
+    "postbiotics",
+    "zinc",
+    "iron"
+   ],
+   "relevance": "medium",
+   "status": "summarised"
+  },
+  {
+   "id": "remedy-cdmo-2026/favea-ai-mental-shift#4",
+   "event": "remedy-cdmo-2026",
+   "session": "favea-ai-mental-shift",
+   "date": "",
+   "text": "The way out: understand, \"feel it = want it\", question the assumption, adapt. Inertia, \"repeating what I already know\", is the enemy; pause before the next course or tool and ask what you need (slide 19).",
+   "cites": [
+    "slide 19"
+   ],
+   "themes": [
+    "ai-in-nutraceuticals",
+    "cdmo-partnership-models",
+    "delivery-formats"
+   ],
+   "ingredients": [
+    "phospholipids",
+    "omega-3",
+    "choline",
+    "astaxanthin",
+    "CoQ10",
+    "vitamins",
+    "hydroxytyrosol (spelt \"hydroxythyrosol\" on the slide)",
+    "probiotics",
+    "postbiotics",
+    "zinc",
+    "iron"
+   ],
+   "relevance": "medium",
+   "status": "summarised"
+  },
+  {
+   "id": "remedy-cdmo-2026/favea-ai-mental-shift#5",
+   "event": "remedy-cdmo-2026",
+   "session": "favea-ai-mental-shift",
+   "date": "",
+   "text": "What Favea does about it: validation of enquiries (a revised internal process), verification of sources, and quality by expertise (slide 20).",
+   "cites": [
+    "slide 20"
+   ],
+   "themes": [
+    "ai-in-nutraceuticals",
+    "cdmo-partnership-models",
+    "delivery-formats"
+   ],
+   "ingredients": [
+    "phospholipids",
+    "omega-3",
+    "choline",
+    "astaxanthin",
+    "CoQ10",
+    "vitamins",
+    "hydroxytyrosol (spelt \"hydroxythyrosol\" on the slide)",
+    "probiotics",
+    "postbiotics",
+    "zinc",
+    "iron"
+   ],
+   "relevance": "medium",
+   "status": "summarised"
+  },
+  {
+   "id": "remedy-cdmo-2026/favea-ai-mental-shift#6",
+   "event": "remedy-cdmo-2026",
+   "session": "favea-ai-mental-shift",
+   "date": "",
+   "text": "One tip for Monday: when a perfect email arrives, pick up the phone (slide 22).",
+   "cites": [
+    "slide 22"
+   ],
+   "themes": [
+    "ai-in-nutraceuticals",
+    "cdmo-partnership-models",
+    "delivery-formats"
+   ],
+   "ingredients": [
+    "phospholipids",
+    "omega-3",
+    "choline",
+    "astaxanthin",
+    "CoQ10",
+    "vitamins",
+    "hydroxytyrosol (spelt \"hydroxythyrosol\" on the slide)",
+    "probiotics",
+    "postbiotics",
+    "zinc",
+    "iron"
+   ],
+   "relevance": "medium",
+   "status": "summarised"
+  },
+  {
+   "id": "remedy-cdmo-2026/nathan-gray-creatine-new-buyers#1",
+   "event": "remedy-cdmo-2026",
+   "session": "nathan-gray-creatine-new-buyers",
+   "date": "",
+   "text": "Creatine launches rose 61.9% in January to August 2026 against January to August 2025; over 2022 to 2025 they grew +35.6% against +11.1% for the average ingredient (Innova Market Insights; Vita Actives analysis) (slide 2).",
+   "cites": [
+    "slide 2"
+   ],
+   "themes": [
+    "creatine-beyond-strength",
+    "delivery-formats",
+    "branded-ingredients-differentiation",
+    "hydration-electrolytes",
+    "sports-nutrition-mainstream",
+    "cdmo-partnership-models"
+   ],
+   "ingredients": [
+    "CreaWin",
+    "creatine monohydrate",
+    "CogniWin (citicoline)",
+    "HMB",
+    "electrolytes",
+    "magnesium",
+    "collagen"
+   ],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "remedy-cdmo-2026/nathan-gray-creatine-new-buyers#2",
+   "event": "remedy-cdmo-2026",
+   "session": "nathan-gray-creatine-new-buyers",
+   "date": "",
+   "text": "Retail price per kg of creatine, medians: €73 plain unflavoured powder, €87 flavoured powder (1.19×), €222 combination powder (3.03×), €275 formats such as gummies (3.76×) (slide 2).",
+   "cites": [
+    "slide 2"
+   ],
+   "themes": [
+    "creatine-beyond-strength",
+    "delivery-formats",
+    "branded-ingredients-differentiation",
+    "hydration-electrolytes",
+    "sports-nutrition-mainstream",
+    "cdmo-partnership-models"
+   ],
+   "ingredients": [
+    "CreaWin",
+    "creatine monohydrate",
+    "CogniWin (citicoline)",
+    "HMB",
+    "electrolytes",
+    "magnesium",
+    "collagen"
+   ],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "remedy-cdmo-2026/nathan-gray-creatine-new-buyers#3",
+   "event": "remedy-cdmo-2026",
+   "session": "nathan-gray-creatine-new-buyers",
+   "date": "",
+   "text": "Beyond performance: pack claims on creatine launches, 2025 to 2026, hydration +107.1%, health and wellness +78.2%, brain and mood +61.5%, energy and stamina +60.0%, women-specific +400.0% (base below 10); creatine launches in the supplements aisle outside sports nutrition +194.7%; the EU-authorised claim for strength with training in adults over 55 is rarely used on pack (slide 3).",
+   "cites": [
+    "slide 3"
+   ],
+   "themes": [
+    "creatine-beyond-strength",
+    "delivery-formats",
+    "branded-ingredients-differentiation",
+    "hydration-electrolytes",
+    "sports-nutrition-mainstream",
+    "cdmo-partnership-models"
+   ],
+   "ingredients": [
+    "CreaWin",
+    "creatine monohydrate",
+    "CogniWin (citicoline)",
+    "HMB",
+    "electrolytes",
+    "magnesium",
+    "collagen"
+   ],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "remedy-cdmo-2026/nathan-gray-creatine-new-buyers#4",
+   "event": "remedy-cdmo-2026",
+   "session": "nathan-gray-creatine-new-buyers",
+   "date": "",
+   "text": "Combinations grew 134.0% in 2026 against 52.7% for creatine on its own; the fastest partners are electrolytes +101.2% (hydration), magnesium +138.9% (sleep and overnight recovery), collagen +80.0% (recovery, skin and joints), and HMB and citicoline from a base below 10 (slide 4).",
+   "cites": [
+    "slide 4"
+   ],
+   "themes": [
+    "creatine-beyond-strength",
+    "delivery-formats",
+    "branded-ingredients-differentiation",
+    "hydration-electrolytes",
+    "sports-nutrition-mainstream",
+    "cdmo-partnership-models"
+   ],
+   "ingredients": [
+    "CreaWin",
+    "creatine monohydrate",
+    "CogniWin (citicoline)",
+    "HMB",
+    "electrolytes",
+    "magnesium",
+    "collagen"
+   ],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "remedy-cdmo-2026/nathan-gray-creatine-new-buyers#5",
+   "event": "remedy-cdmo-2026",
+   "session": "nathan-gray-creatine-new-buyers",
+   "date": "",
+   "text": "Flavoured launches rose from 38.4% to 66.6% of creatine launches from 2022 to 2025, yet 82% of products on the shelf are still a single unflavoured SKU; in 2026 bars grew +260.0%, chewables +250.0%, powder +62.4% and gummies +29.5% (slide 5).",
+   "cites": [
+    "slide 5"
+   ],
+   "themes": [
+    "creatine-beyond-strength",
+    "delivery-formats",
+    "branded-ingredients-differentiation",
+    "hydration-electrolytes",
+    "sports-nutrition-mainstream",
+    "cdmo-partnership-models"
+   ],
+   "ingredients": [
+    "CreaWin",
+    "creatine monohydrate",
+    "CogniWin (citicoline)",
+    "HMB",
+    "electrolytes",
+    "magnesium",
+    "collagen"
+   ],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "remedy-cdmo-2026/nathan-gray-creatine-new-buyers#6",
+   "event": "remedy-cdmo-2026",
+   "session": "nathan-gray-creatine-new-buyers",
+   "date": "",
+   "text": "Quality: 18 of 88 creatine gummies failed their label claim in independent testing and 10 contained no creatine (ABENUTRI 2024); in the only published market survey, half of commercial creatine failed at least one EFSA limit (Moret et al., 2011) (slide 6) (slide 7).",
+   "cites": [
+    "slide 6",
+    "slide 7"
+   ],
+   "themes": [
+    "creatine-beyond-strength",
+    "delivery-formats",
+    "branded-ingredients-differentiation",
+    "hydration-electrolytes",
+    "sports-nutrition-mainstream",
+    "cdmo-partnership-models"
+   ],
+   "ingredients": [
+    "CreaWin",
+    "creatine monohydrate",
+    "CogniWin (citicoline)",
+    "HMB",
+    "electrolytes",
+    "magnesium",
+    "collagen"
+   ],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
    "id": "remedy-cdmo-2026/nick-morgan-longevity#1",
    "event": "remedy-cdmo-2026",
    "session": "nick-morgan-longevity",
@@ -3277,9 +3635,10 @@
    "event": "remedy-cdmo-2026",
    "session": "nuritas-peptistrong",
    "date": "2026-10-22",
-   "text": "PeptiStrong is a fava bean protein hydrolysate; the speaker says its peptides target mTOR (muscle building) and NF kappa B (inflammation) [03:56].",
+   "text": "PeptiStrong is a Vicia faba (fava bean) protein hydrolysate; the speaker says it works three ways: building muscle (mTOR), protecting it from breakdown (ubiquitination) and calming inflammation (NF-κB) [03:56] (slide 8).",
    "cites": [
-    "03:56"
+    "03:56",
+    "slide 8"
    ],
    "themes": [
     "muscle-health-beyond-protein",
@@ -3294,7 +3653,14 @@
     "leucine",
     "HMB",
     "milk protein concentrate",
-    "Nuritas sleep peptide"
+    "casein",
+    "BCAAs",
+    "PeptiSleep",
+    "melatonin",
+    "Koncentra",
+    "PeptiYouth",
+    "PeptiProtect",
+    "PeptiPump"
    ],
    "relevance": "high",
    "status": "summarised"
@@ -3304,9 +3670,10 @@
    "event": "remedy-cdmo-2026",
    "session": "nuritas-peptistrong",
    "date": "2026-10-22",
-   "text": "Immobilisation trial (Netherlands, males only): the control was milk protein concentrate, not a placebo; muscle lost and regained was the same, but strength came all the way back to baseline and FSR was higher with PeptiStrong [03:56].",
+   "text": "Immobilisation trial (Weijzen et al. 2023, The Journal of Nutrition; men aged 18-35, 20 g a day): muscle size changed the same as with milk protein concentrate, which was the control, not a placebo. Leg press strength recovered to 103% of baseline against 68% with milk protein, and muscle protein synthesis in recovery was about four times higher (read from the chart) [03:56] (slide 10).",
    "cites": [
-    "03:56"
+    "03:56",
+    "slide 10"
    ],
    "themes": [
     "muscle-health-beyond-protein",
@@ -3321,7 +3688,14 @@
     "leucine",
     "HMB",
     "milk protein concentrate",
-    "Nuritas sleep peptide"
+    "casein",
+    "BCAAs",
+    "PeptiSleep",
+    "melatonin",
+    "Koncentra",
+    "PeptiYouth",
+    "PeptiProtect",
+    "PeptiPump"
    ],
    "relevance": "high",
    "status": "summarised"
@@ -3331,9 +3705,10 @@
    "event": "remedy-cdmo-2026",
    "session": "nuritas-peptistrong",
    "date": "2026-10-22",
-   "text": "KGK trial (Canada, untrained men and women): stronger quicker at day 28, kept at day 56; GDF15 fell with training load; bone mineral content rose, \"a kind of a serendipitous finding\" [03:56].",
+   "text": "Strength recovery trial (Kerr et al. 2023, Nutrients; men aged 30-45, 2.4 g a day for 17 days, muscle damage on day 14): peak torque was higher than placebo at 72 hours (p=0.025), with 36% less fatigue at 48 hours and 47% less at 72 hours (read from the chart) [03:56] (slide 11).",
    "cites": [
-    "03:56"
+    "03:56",
+    "slide 11"
    ],
    "themes": [
     "muscle-health-beyond-protein",
@@ -3348,7 +3723,14 @@
     "leucine",
     "HMB",
     "milk protein concentrate",
-    "Nuritas sleep peptide"
+    "casein",
+    "BCAAs",
+    "PeptiSleep",
+    "melatonin",
+    "Koncentra",
+    "PeptiYouth",
+    "PeptiProtect",
+    "PeptiPump"
    ],
    "relevance": "high",
    "status": "summarised"
@@ -3358,7 +3740,42 @@
    "event": "remedy-cdmo-2026",
    "session": "nuritas-peptistrong",
    "date": "2026-10-22",
-   "text": "Nuritas positions PeptiStrong as a booster of protein and a partner for creatine, leucine and HMB: \"we're not competing with protein\" [03:56].",
+   "text": "Strength and endurance trial (Mohan et al., BMJ Nutrition, Prevention & Health; men and women aged 19-40, 2.4 g a day for 56 days): leg extension 1RM higher at day 28 and day 56, endurance higher at day 56, bone mineral content up (\"a serendipitous finding\"), and 51.85% against 14.29% on placebo rated their health above 95 [03:56] (slide 12).",
+   "cites": [
+    "03:56",
+    "slide 12"
+   ],
+   "themes": [
+    "muscle-health-beyond-protein",
+    "ai-in-nutraceuticals",
+    "branded-ingredients-differentiation",
+    "cdmo-partnership-models"
+   ],
+   "ingredients": [
+    "PeptiStrong",
+    "fava bean protein hydrolysate",
+    "creatine",
+    "leucine",
+    "HMB",
+    "milk protein concentrate",
+    "casein",
+    "BCAAs",
+    "PeptiSleep",
+    "melatonin",
+    "Koncentra",
+    "PeptiYouth",
+    "PeptiProtect",
+    "PeptiPump"
+   ],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "remedy-cdmo-2026/nuritas-peptistrong#5",
+   "event": "remedy-cdmo-2026",
+   "session": "nuritas-peptistrong",
+   "date": "2026-10-22",
+   "text": "Nuritas positions PeptiStrong as a booster of protein and a partner for leucine, HMB and creatine: \"we're not competing with protein\". The leucine and HMB data are from muscle cells; the creatine case is in vitro data for each ingredient on its own [03:56] (slides 13, 14).",
    "cites": [
     "03:56"
    ],
@@ -3375,34 +3792,14 @@
     "leucine",
     "HMB",
     "milk protein concentrate",
-    "Nuritas sleep peptide"
-   ],
-   "relevance": "high",
-   "status": "summarised"
-  },
-  {
-   "id": "remedy-cdmo-2026/nuritas-peptistrong#5",
-   "event": "remedy-cdmo-2026",
-   "session": "nuritas-peptistrong",
-   "date": "2026-10-22",
-   "text": "On-pack claims rest on EFSA protein claims; the regulatory manager has been \"creatively defining\" others [13:50].",
-   "cites": [
-    "13:50"
-   ],
-   "themes": [
-    "muscle-health-beyond-protein",
-    "ai-in-nutraceuticals",
-    "branded-ingredients-differentiation",
-    "cdmo-partnership-models"
-   ],
-   "ingredients": [
-    "PeptiStrong",
-    "fava bean protein hydrolysate",
-    "creatine",
-    "leucine",
-    "HMB",
-    "milk protein concentrate",
-    "Nuritas sleep peptide"
+    "casein",
+    "BCAAs",
+    "PeptiSleep",
+    "melatonin",
+    "Koncentra",
+    "PeptiYouth",
+    "PeptiProtect",
+    "PeptiPump"
    ],
    "relevance": "high",
    "status": "summarised"
@@ -3412,7 +3809,7 @@
    "event": "remedy-cdmo-2026",
    "session": "nuritas-peptistrong",
    "date": "2026-10-22",
-   "text": "Commercial map: Vivatis formulates for Central and Eastern Europe, Nuritas has been active in Poland for six months, and it is developing a product with Tantus [13:50].",
+   "text": "EU claims are protein claims (\"source of protein\" needs at least 12% of energy from protein), with US structure and function claims and brand callouts beside them; Vivatis Pharma and Tantus show a prototype PeptiStrong tablet with Nuritas [13:50] (slides 15, 17).",
    "cites": [
     "13:50"
    ],
@@ -3429,7 +3826,14 @@
     "leucine",
     "HMB",
     "milk protein concentrate",
-    "Nuritas sleep peptide"
+    "casein",
+    "BCAAs",
+    "PeptiSleep",
+    "melatonin",
+    "Koncentra",
+    "PeptiYouth",
+    "PeptiProtect",
+    "PeptiPump"
    ],
    "relevance": "high",
    "status": "summarised"
@@ -3439,9 +3843,10 @@
    "event": "remedy-cdmo-2026",
    "session": "kaneka-ubiquinol",
    "date": "2026-10-22",
-   "text": "Ubiquinol is the active form of CoQ10; the speaker says the converting enzyme diaphorase is no longer available as you get older, from about 30 [00:00].",
+   "text": "Ubiquinol is the reduced, active form of CoQ10. The speaker said the converting enzyme diaphorase is no longer available from about 30 [00:00]; the slide shows NQO1 activity falling 88% between 15 and 60 years (slide 2).",
    "cites": [
-    "00:00"
+    "00:00",
+    "slide 2"
    ],
    "themes": [
     "longevity-positioning",
@@ -3463,8 +3868,9 @@
    "event": "remedy-cdmo-2026",
    "session": "kaneka-ubiquinol",
    "date": "2026-10-22",
-   "text": "300 mg of Q10 gives the same blood ubiquinol as 90 mg of ubiquinol; at 300, 600 or 900 mg of Q10 the body cannot convert more than 300 mg [00:00].",
+   "text": "Blood levels after 28 days, read from the chart: 90 mg of ubiquinol about 2.8 µg/ml against about 2.7 for 300 mg of oxidised CoQ10; 300 mg of ubiquinol about 7.3 against about 3.2 for 900 mg of CoQ10 (slide 9). Spoken as equivalent at 90 against 300 mg [00:00].",
    "cites": [
+    "slide 9",
     "00:00"
    ],
    "themes": [
@@ -3487,8 +3893,9 @@
    "event": "remedy-cdmo-2026",
    "session": "kaneka-ubiquinol",
    "date": "2026-10-22",
-   "text": "Kaneka's dose: 100 mg a day for a normal person; up to 300 mg for statin users, energy, fertility and stress [00:00].",
+   "text": "Dose: 100 mg a day (to 200 mg for one month) to maintain energy levels; 300 mg to restore or boost energy and for fertility support (slide 11). Spoken, 300 mg is also for statin users and people under stress [00:00]; the slide names neither.",
    "cites": [
+    "slide 11",
     "00:00"
    ],
    "themes": [
@@ -3511,9 +3918,10 @@
    "event": "remedy-cdmo-2026",
    "session": "kaneka-ubiquinol",
    "date": "2026-10-22",
-   "text": "Formats: pure ubiquinol for softgels, gel pills and gummies; a microencapsulated form for other dosage formats [00:00].",
+   "text": "Sport: \"Ubiquinol loading\", every day for seven days before events such as marathons and triathlons and five days after, sits under the 300 mg dose (slide 11). The Energy and Sports block counts 16 studies, on energy and fatigue, oxidative stress, inflammation and muscle recovery (slide 13).",
    "cites": [
-    "00:00"
+    "slide 11",
+    "slide 13"
    ],
    "themes": [
     "longevity-positioning",
@@ -3535,9 +3943,34 @@
    "event": "remedy-cdmo-2026",
    "session": "kaneka-ubiquinol",
    "date": "2026-10-22",
-   "text": "Kaneka is pushing ubiquinol into active nutrition: \"energy and sports\" among its study areas, and a partnership with Borussia Dortmund's women's football team [00:00].",
+   "text": "Formats: pure ubiquinol for softgels, liquid-filled hard capsules, gummies and beadlets; \"ultra stabilized\" ubiquinol for tablets, capsules, bars, shots, sticks, gels, gums and coffee or tea capsules (slide 12). Spoken as \"a microencapsule form\" [00:00].",
    "cites": [
+    "slide 12",
     "00:00"
+   ],
+   "themes": [
+    "longevity-positioning",
+    "branded-ingredients-differentiation",
+    "delivery-formats"
+   ],
+   "ingredients": [
+    "Kaneka Ubiquinol",
+    "ubiquinol",
+    "coenzyme Q10",
+    "vitamin C",
+    "vitamin E"
+   ],
+   "relevance": "low",
+   "status": "summarised"
+  },
+  {
+   "id": "remedy-cdmo-2026/kaneka-ubiquinol#6",
+   "event": "remedy-cdmo-2026",
+   "session": "kaneka-ubiquinol",
+   "date": "2026-10-22",
+   "text": "Claimed evidence base: 100+ studies, 80+ patents, 45+ years of research; heart health 23 studies, healthy ageing and cognition 23, fertility 18, energy and sports 16, women and beauty from within 4 (slide 13).",
+   "cites": [
+    "slide 13"
    ],
    "themes": [
     "longevity-positioning",
@@ -3559,8 +3992,10 @@
    "event": "remedy-cdmo-2026",
    "session": "novosol-optimsm",
    "date": "2026-10-22",
-   "text": "NovaSol is a micellar technology: lipophilic core, hydrophilic surface, water-soluble, protected from stomach acid, with no chemical change to the active [00:18].",
+   "text": "NovaSOL is a micelle encapsulation technology: the active ingredient is the core, a food-grade liquid emulsification system the shell; it is water-soluble and made by physical processing only, with no chemical modification (slide 3) (slide 4) [00:18].",
    "cites": [
+    "slide 3",
+    "slide 4",
     "00:18"
    ],
    "themes": [
@@ -3569,10 +4004,10 @@
     "branded-ingredients-differentiation"
    ],
    "ingredients": [
-    "NovaSol curcumin",
-    "NovaSol astaxanthin",
-    "NovaSol coenzyme Q10",
-    "micellar resveratrol",
+    "NovaSOL Curcumin",
+    "NovaSOL Astaxanthin",
+    "NovaSOL Q",
+    "Jotrol micellar resveratrol",
     "OptiMSM",
     "MSM (methylsulfonylmethane)",
     "chelated minerals",
@@ -3588,9 +4023,10 @@
    "event": "remedy-cdmo-2026",
    "session": "novosol-optimsm",
    "date": "2026-10-22",
-   "text": "Each NovaSol formulation is unique to its ingredient; it is a liquid concentrate for capsules, shots and combined capsules [00:18].",
+   "text": "Each NovaSOL formula is unique to its ingredient; it is a water-free liquid concentrate for capsules and shots, and different NovaSOL formulations can be combined in capsules (slide 3) (slide 5).",
    "cites": [
-    "00:18"
+    "slide 3",
+    "slide 5"
    ],
    "themes": [
     "delivery-formats",
@@ -3598,10 +4034,10 @@
     "branded-ingredients-differentiation"
    ],
    "ingredients": [
-    "NovaSol curcumin",
-    "NovaSol astaxanthin",
-    "NovaSol coenzyme Q10",
-    "micellar resveratrol",
+    "NovaSOL Curcumin",
+    "NovaSOL Astaxanthin",
+    "NovaSOL Q",
+    "Jotrol micellar resveratrol",
     "OptiMSM",
     "MSM (methylsulfonylmethane)",
     "chelated minerals",
@@ -3617,9 +4053,9 @@
    "event": "remedy-cdmo-2026",
    "session": "novosol-optimsm",
    "date": "2026-10-22",
-   "text": "GVR, a US direct-to-consumer longevity brand, built Mind, Q Power and Glow on the same micellar resveratrol with different NovaSol actives, in vegetarian softgels [00:18].",
+   "text": "Nugevia, a US direct-to-consumer brand, launched three combination products on Jotrol micellar resveratrol: MND with NovaSOL Curcumin, PWR with NovaSOL Q and GLO with NovaSOL Astaxanthin, in vegetarian SeaGel softgels, positioned in longevity (slide 7).",
    "cites": [
-    "00:18"
+    "slide 7"
    ],
    "themes": [
     "delivery-formats",
@@ -3627,10 +4063,10 @@
     "branded-ingredients-differentiation"
    ],
    "ingredients": [
-    "NovaSol curcumin",
-    "NovaSol astaxanthin",
-    "NovaSol coenzyme Q10",
-    "micellar resveratrol",
+    "NovaSOL Curcumin",
+    "NovaSOL Astaxanthin",
+    "NovaSOL Q",
+    "Jotrol micellar resveratrol",
     "OptiMSM",
     "MSM (methylsulfonylmethane)",
     "chelated minerals",
@@ -3656,10 +4092,10 @@
     "branded-ingredients-differentiation"
    ],
    "ingredients": [
-    "NovaSol curcumin",
-    "NovaSol astaxanthin",
-    "NovaSol coenzyme Q10",
-    "micellar resveratrol",
+    "NovaSOL Curcumin",
+    "NovaSOL Astaxanthin",
+    "NovaSOL Q",
+    "Jotrol micellar resveratrol",
     "OptiMSM",
     "MSM (methylsulfonylmethane)",
     "chelated minerals",
@@ -3685,10 +4121,10 @@
     "branded-ingredients-differentiation"
    ],
    "ingredients": [
-    "NovaSol curcumin",
-    "NovaSol astaxanthin",
-    "NovaSol coenzyme Q10",
-    "micellar resveratrol",
+    "NovaSOL Curcumin",
+    "NovaSOL Astaxanthin",
+    "NovaSOL Q",
+    "Jotrol micellar resveratrol",
     "OptiMSM",
     "MSM (methylsulfonylmethane)",
     "chelated minerals",
@@ -3704,8 +4140,9 @@
    "event": "remedy-cdmo-2026",
    "session": "martin-bauer-rhosera",
    "date": "2026-10-22",
-   "text": "The gap he names is anabolic resistance: ageing muscle uses protein less well, hence the move from 0.8 to 1.2 g of protein, and \"hardly any ingredient\" addresses it [00:00].",
+   "text": "The gap he names is anabolic resistance: ageing muscle \"responds less to protein and training\", so protein advice rises from 0.8 to 1.2 g, and \"hardly any ingredient\" addresses it (slide 3) [00:00].",
    "cites": [
+    "slide 3",
     "00:00"
    ],
    "themes": [
@@ -3715,12 +4152,12 @@
     "longevity-positioning"
    ],
    "ingredients": [
-    "Rhosera",
+    "RhoSera",
     "Rhodiola rosea",
     "protein",
     "spermidine",
     "magnesium",
-    "vitamin B"
+    "B vitamins"
    ],
    "relevance": "high",
    "status": "summarised"
@@ -3730,8 +4167,9 @@
    "event": "remedy-cdmo-2026",
    "session": "martin-bauer-rhosera",
    "date": "2026-10-22",
-   "text": "Wild Rhodiola rosea is overharvested, adulterated with other species and, he said, listed as endangered in 2023: a supply risk for any brand built on it [00:00].",
+   "text": "Wild Rhodiola rosea is overharvested and adulterated with non-rosea species. Rhodiola spp. has been in CITES Appendix II since February 2023, so roots and extracts traded across borders need CITES documents (slide 4). He said it was listed \"as an endangered species\"; the slide says CITES Appendix II, which differs [00:00].",
    "cites": [
+    "slide 4",
     "00:00"
    ],
    "themes": [
@@ -3741,12 +4179,12 @@
     "longevity-positioning"
    ],
    "ingredients": [
-    "Rhosera",
+    "RhoSera",
     "Rhodiola rosea",
     "protein",
     "spermidine",
     "magnesium",
-    "vitamin B"
+    "B vitamins"
    ],
    "relevance": "high",
    "status": "summarised"
@@ -3756,8 +4194,9 @@
    "event": "remedy-cdmo-2026",
    "session": "martin-bauer-rhosera",
    "date": "2026-10-22",
-   "text": "Trial: double-blind, placebo-controlled, 140 untrained adults aged 55 to 75; both arms trained and were given protein; 400 mg of Rhosera once a day in the morning [00:00].",
+   "text": "In primary human muscle cells only the cultivated extract raised Pax7 and MyoD, the muscle stem-cell markers; wild harvest had no effect. Published as Iannuzzo et al., Antioxidants 2024;13:1000 (slide 8) [00:00].",
    "cites": [
+    "slide 8",
     "00:00"
    ],
    "themes": [
@@ -3767,12 +4206,12 @@
     "longevity-positioning"
    ],
    "ingredients": [
-    "Rhosera",
+    "RhoSera",
     "Rhodiola rosea",
     "protein",
     "spermidine",
     "magnesium",
-    "vitamin B"
+    "B vitamins"
    ],
    "relevance": "high",
    "status": "summarised"
@@ -3782,8 +4221,9 @@
    "event": "remedy-cdmo-2026",
    "session": "martin-bauer-rhosera",
    "date": "2026-10-22",
-   "text": "Delayed-onset muscle soreness fell 46% in men and 52% in women, against 18% and 11% on placebo; the human publication is \"in progress\" [00:00].",
+   "text": "Trial: 12 weeks, 140 inactive adults aged 55 to 75, RhoSera 400 mg a day or placebo, both arms on the same training programme plus 60 g protein a day (slide 9). He described it as double-blind and placebo-controlled [00:00].",
    "cites": [
+    "slide 9",
     "00:00"
    ],
    "themes": [
@@ -3793,12 +4233,12 @@
     "longevity-positioning"
    ],
    "ingredients": [
-    "Rhosera",
+    "RhoSera",
     "Rhodiola rosea",
     "protein",
     "spermidine",
     "magnesium",
-    "vitamin B"
+    "B vitamins"
    ],
    "relevance": "high",
    "status": "summarised"
@@ -3808,8 +4248,36 @@
    "event": "remedy-cdmo-2026",
    "session": "martin-bauer-rhosera",
    "date": "2026-10-22",
-   "text": "No EFSA claim on rhodiola; brands \"borrow\" magnesium or vitamin B claims on fatigue [00:00].",
+   "text": "Muscle soreness (DOMS) fell 46.3% in men and 51.7% in women, against 18.1% and 10.6% on placebo (slide 9, read from the chart); p = 0.004 and p < 0.001. He rounded these to 46%, 52%, 18% and 11% [00:00]. The data are \"on file\" and the manuscript is \"in preparation\" (slide 9).",
    "cites": [
+    "00:00",
+    "slide 9"
+   ],
+   "themes": [
+    "muscle-health-beyond-protein",
+    "supply-security",
+    "eu-regulation-brake",
+    "longevity-positioning"
+   ],
+   "ingredients": [
+    "RhoSera",
+    "Rhodiola rosea",
+    "protein",
+    "spermidine",
+    "magnesium",
+    "B vitamins"
+   ],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "remedy-cdmo-2026/martin-bauer-rhosera#6",
+   "event": "remedy-cdmo-2026",
+   "session": "martin-bauer-rhosera",
+   "date": "2026-10-22",
+   "text": "No authorised EFSA claim for rhodiola. On-hold areas (stress, physical and mental performance) are usable if substantiated, per national rules; pair with magnesium or B vitamins for authorised fatigue claims (slide 11) [00:00].",
+   "cites": [
+    "slide 11",
     "00:00"
    ],
    "themes": [
@@ -3819,12 +4287,12 @@
     "longevity-positioning"
    ],
    "ingredients": [
-    "Rhosera",
+    "RhoSera",
     "Rhodiola rosea",
     "protein",
     "spermidine",
     "magnesium",
-    "vitamin B"
+    "B vitamins"
    ],
    "relevance": "high",
    "status": "summarised"
@@ -3834,9 +4302,11 @@
    "event": "remedy-cdmo-2026",
    "session": "solabia-launches",
    "date": "2026-10-22",
-   "text": "The standard brief is \"impossible\"; judge a launch on whether they will remember it, whether you can make it and whether you can prove it [00:01].",
+   "text": "The standard brief is \"impossible\"; judge a launch on whether they will remember it, whether you can make it and whether you can prove it [00:01] (slide 2) (slide 4).",
    "cites": [
-    "00:01"
+    "00:01",
+    "slide 2",
+    "slide 4"
    ],
    "themes": [
     "creatine-beyond-strength",
@@ -3847,10 +4317,10 @@
    "ingredients": [
     "creatine",
     "collagen",
-    "Microbiomex (flavonol with a prebiotic effect)",
+    "MicrobiomeX (citrus flavanol with a prebiotic effect)",
     "Brainberry (aronia berry extract)",
-    "citrus extract for nitric oxide (heard as WhatsApp)",
-    "olive leaf extract (heard as Bun Olive)"
+    "WATTS'UP (citrus extract; heard as WhatsApp)",
+    "Bonolive (olive leaf extract; heard as Bun Olive)"
    ],
    "relevance": "high",
    "status": "summarised"
@@ -3860,9 +4330,12 @@
    "event": "remedy-cdmo-2026",
    "session": "solabia-launches",
    "date": "2026-10-22",
-   "text": "Naming decides memory: the aronia extract renamed Brainberry is now Solabia's second biggest and fastest growing product [00:01].",
+   "text": "Naming decides memory: \"Flavobiotic\" did not fly and MicrobiomeX became \"The co-pilot for your probiotic\", while Brainberry, an aronia extract with the benefit in its name, is now Solabia's second biggest and fastest growing product [00:01] (slide 7) (slide 8) (slide 10).",
    "cites": [
-    "00:01"
+    "00:01",
+    "slide 7",
+    "slide 8",
+    "slide 10"
    ],
    "themes": [
     "creatine-beyond-strength",
@@ -3873,10 +4346,10 @@
    "ingredients": [
     "creatine",
     "collagen",
-    "Microbiomex (flavonol with a prebiotic effect)",
+    "MicrobiomeX (citrus flavanol with a prebiotic effect)",
     "Brainberry (aronia berry extract)",
-    "citrus extract for nitric oxide (heard as WhatsApp)",
-    "olive leaf extract (heard as Bun Olive)"
+    "WATTS'UP (citrus extract; heard as WhatsApp)",
+    "Bonolive (olive leaf extract; heard as Bun Olive)"
    ],
    "relevance": "high",
    "status": "summarised"
@@ -3886,9 +4359,10 @@
    "event": "remedy-cdmo-2026",
    "session": "solabia-launches",
    "date": "2026-10-22",
-   "text": "Briefs now ask for three to five grams of creatine and five to ten grams of collagen plus a botanical extract and a vitamin complex in one format that is soluble and mixes well [00:01].",
+   "text": "Briefs now ask for three to five grams of creatine and five to ten grams of collagen plus a botanical extract and a vitamin complex in one format that is soluble and mixes well [00:01]. The slides show these only as pictures, with no figures (slide 12).",
    "cites": [
-    "00:01"
+    "00:01",
+    "slide 12"
    ],
    "themes": [
     "creatine-beyond-strength",
@@ -3899,10 +4373,10 @@
    "ingredients": [
     "creatine",
     "collagen",
-    "Microbiomex (flavonol with a prebiotic effect)",
+    "MicrobiomeX (citrus flavanol with a prebiotic effect)",
     "Brainberry (aronia berry extract)",
-    "citrus extract for nitric oxide (heard as WhatsApp)",
-    "olive leaf extract (heard as Bun Olive)"
+    "WATTS'UP (citrus extract; heard as WhatsApp)",
+    "Bonolive (olive leaf extract; heard as Bun Olive)"
    ],
    "relevance": "high",
    "status": "summarised"
@@ -3912,9 +4386,11 @@
    "event": "remedy-cdmo-2026",
    "session": "solabia-launches",
    "date": "2026-10-22",
-   "text": "Creatine in gummies: heat applied over time gives creatinine, which \"doesn't really do much\"; Tantus's answer was a cold-pressed tablet, no heat, of creatine plus a citrus extract [00:01].",
+   "text": "Creatine in gummies: heat applied over time gives creatinine, which \"doesn't really do much\"; Tantus's answer was a cold-pressed tablet, no heat, of creatine plus WATTS'UP [00:01] (slide 13) (slide 14).",
    "cites": [
-    "00:01"
+    "00:01",
+    "slide 13",
+    "slide 14"
    ],
    "themes": [
     "creatine-beyond-strength",
@@ -3925,10 +4401,10 @@
    "ingredients": [
     "creatine",
     "collagen",
-    "Microbiomex (flavonol with a prebiotic effect)",
+    "MicrobiomeX (citrus flavanol with a prebiotic effect)",
     "Brainberry (aronia berry extract)",
-    "citrus extract for nitric oxide (heard as WhatsApp)",
-    "olive leaf extract (heard as Bun Olive)"
+    "WATTS'UP (citrus extract; heard as WhatsApp)",
+    "Bonolive (olive leaf extract; heard as Bun Olive)"
    ],
    "relevance": "high",
    "status": "summarised"
@@ -3938,9 +4414,11 @@
    "event": "remedy-cdmo-2026",
    "session": "solabia-launches",
    "date": "2026-10-22",
-   "text": "\"Science-backed\" is one of the most used and most dangerous phrases in the industry; look at dose, population, endpoints and the change against placebo [00:01].",
+   "text": "\"Science-backed\" means nothing on its own. The slide's open-evidence test is dose (how much?), population (tested on whom?), endpoints (what changed?) and study design (how was it tested?); he also named the change against placebo [00:01] (slide 16) (slide 17).",
    "cites": [
-    "00:01"
+    "00:01",
+    "slide 16",
+    "slide 17"
    ],
    "themes": [
     "creatine-beyond-strength",
@@ -3951,10 +4429,10 @@
    "ingredients": [
     "creatine",
     "collagen",
-    "Microbiomex (flavonol with a prebiotic effect)",
+    "MicrobiomeX (citrus flavanol with a prebiotic effect)",
     "Brainberry (aronia berry extract)",
-    "citrus extract for nitric oxide (heard as WhatsApp)",
-    "olive leaf extract (heard as Bun Olive)"
+    "WATTS'UP (citrus extract; heard as WhatsApp)",
+    "Bonolive (olive leaf extract; heard as Bun Olive)"
    ],
    "relevance": "high",
    "status": "summarised"
@@ -3964,9 +4442,10 @@
    "event": "remedy-cdmo-2026",
    "session": "tantus-longevity-concepts",
    "date": "2026-10-22",
-   "text": "A trend does not change anything on its own; the product has to reach the market and become part of a daily routine [00:31].",
+   "text": "A trend does not change anything on its own; longevity becomes a product \"when it fits real life - and stays there\" [00:31] (slide 13).",
    "cites": [
-    "00:31"
+    "00:31",
+    "slide 13"
    ],
    "themes": [
     "longevity-positioning",
@@ -3976,7 +4455,11 @@
    ],
    "ingredients": [
     "creatine",
-    "hesperidin (hesperidin-based ingredient)"
+    "WATTS'UP (Solabia citrus bioflavonoid; spoken as hesperidin-based)",
+    "VitaCholine (choline)",
+    "Kaneka Ubiquinol",
+    "B vitamins",
+    "PeptiStrong (Nuritas plant peptides)"
    ],
    "relevance": "high",
    "status": "summarised"
@@ -3986,9 +4469,10 @@
    "event": "remedy-cdmo-2026",
    "session": "tantus-longevity-concepts",
    "date": "2026-10-22",
-   "text": "The question is not what else to add to a formula but what makes sense and why [01:05].",
+   "text": "Complexity is not the answer: the question is never what else to add, but what \"genuinely makes biological sense in this specific product\" [01:05] (slide 4).",
    "cites": [
-    "01:05"
+    "01:05",
+    "slide 4"
    ],
    "themes": [
     "longevity-positioning",
@@ -3998,7 +4482,11 @@
    ],
    "ingredients": [
     "creatine",
-    "hesperidin (hesperidin-based ingredient)"
+    "WATTS'UP (Solabia citrus bioflavonoid; spoken as hesperidin-based)",
+    "VitaCholine (choline)",
+    "Kaneka Ubiquinol",
+    "B vitamins",
+    "PeptiStrong (Nuritas plant peptides)"
    ],
    "relevance": "high",
    "status": "summarised"
@@ -4008,52 +4496,9 @@
    "event": "remedy-cdmo-2026",
    "session": "tantus-longevity-concepts",
    "date": "2026-10-22",
-   "text": "Simplicity first: format, dosage and ease of use matter because consistent use is the point [02:09].",
+   "text": "Concept one: 3 g creatine plus 400 mg WATTS'UP in a chewable tablet, formulated by Tantus and Solabia, for mobility and muscle resilience \"without requiring athletic sports positioning\" (slide 7). Spoken as \"400 grams\" of a hesperidin-based ingredient [04:45]; the slide's 400 mg differs from what was said. The slides do not name the creatine's source.",
    "cites": [
-    "02:09"
-   ],
-   "themes": [
-    "longevity-positioning",
-    "creatine-beyond-strength",
-    "cdmo-partnership-models",
-    "delivery-formats"
-   ],
-   "ingredients": [
-    "creatine",
-    "hesperidin (hesperidin-based ingredient)"
-   ],
-   "relevance": "high",
-   "status": "summarised"
-  },
-  {
-   "id": "remedy-cdmo-2026/tantus-longevity-concepts#4",
-   "event": "remedy-cdmo-2026",
-   "session": "tantus-longevity-concepts",
-   "date": "2026-10-22",
-   "text": "Tantus wants long-term supplier relationships rather than transactional orders, for access to research, technical information, formulation expertise and new ideas [03:09].",
-   "cites": [
-    "03:09"
-   ],
-   "themes": [
-    "longevity-positioning",
-    "creatine-beyond-strength",
-    "cdmo-partnership-models",
-    "delivery-formats"
-   ],
-   "ingredients": [
-    "creatine",
-    "hesperidin (hesperidin-based ingredient)"
-   ],
-   "relevance": "high",
-   "status": "summarised"
-  },
-  {
-   "id": "remedy-cdmo-2026/tantus-longevity-concepts#5",
-   "event": "remedy-cdmo-2026",
-   "session": "tantus-longevity-concepts",
-   "date": "2026-10-22",
-   "text": "Concept one: creatine reframed for longevity, a chewable tablet with Solabia, three grams of creatine with \"400 grams\" of a hesperidin-based ingredient (Otter's summary gives 400 mg), tried at Solabia's stand [04:45].",
-   "cites": [
+    "slide 7",
     "04:45"
    ],
    "themes": [
@@ -4064,7 +4509,92 @@
    ],
    "ingredients": [
     "creatine",
-    "hesperidin (hesperidin-based ingredient)"
+    "WATTS'UP (Solabia citrus bioflavonoid; spoken as hesperidin-based)",
+    "VitaCholine (choline)",
+    "Kaneka Ubiquinol",
+    "B vitamins",
+    "PeptiStrong (Nuritas plant peptides)"
+   ],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "remedy-cdmo-2026/tantus-longevity-concepts#4",
+   "event": "remedy-cdmo-2026",
+   "session": "tantus-longevity-concepts",
+   "date": "2026-10-22",
+   "text": "The slide's image gives four reasons people stop taking creatine powder: water needed, a shaker to carry, grit and aftertaste, and it will not dissolve (\"Half of it sits at the bottom\") (slide 8).",
+   "cites": [
+    "slide 8"
+   ],
+   "themes": [
+    "longevity-positioning",
+    "creatine-beyond-strength",
+    "cdmo-partnership-models",
+    "delivery-formats"
+   ],
+   "ingredients": [
+    "creatine",
+    "WATTS'UP (Solabia citrus bioflavonoid; spoken as hesperidin-based)",
+    "VitaCholine (choline)",
+    "Kaneka Ubiquinol",
+    "B vitamins",
+    "PeptiStrong (Nuritas plant peptides)"
+   ],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "remedy-cdmo-2026/tantus-longevity-concepts#5",
+   "event": "remedy-cdmo-2026",
+   "session": "tantus-longevity-concepts",
+   "date": "2026-10-22",
+   "text": "Concepts two and three, from the slides only: Anti-Age by Tantus, one capsule a day of 100 mg Kaneka Ubiquinol, 300 mg VitaCholine and an active B-complex; and a PeptiStrong tablet co-developed with Nuritas and Vivatis Pharma (slide 9) (slide 10) (slide 12).",
+   "cites": [
+    "slide 9",
+    "slide 10",
+    "slide 12"
+   ],
+   "themes": [
+    "longevity-positioning",
+    "creatine-beyond-strength",
+    "cdmo-partnership-models",
+    "delivery-formats"
+   ],
+   "ingredients": [
+    "creatine",
+    "WATTS'UP (Solabia citrus bioflavonoid; spoken as hesperidin-based)",
+    "VitaCholine (choline)",
+    "Kaneka Ubiquinol",
+    "B vitamins",
+    "PeptiStrong (Nuritas plant peptides)"
+   ],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "remedy-cdmo-2026/tantus-longevity-concepts#6",
+   "event": "remedy-cdmo-2026",
+   "session": "tantus-longevity-concepts",
+   "date": "2026-10-22",
+   "text": "Tantus wants long-term suppliers who bring clinical research, safety dossiers, technology know-how and new concepts, not transactional orders [03:09] (slide 6).",
+   "cites": [
+    "03:09",
+    "slide 6"
+   ],
+   "themes": [
+    "longevity-positioning",
+    "creatine-beyond-strength",
+    "cdmo-partnership-models",
+    "delivery-formats"
+   ],
+   "ingredients": [
+    "creatine",
+    "WATTS'UP (Solabia citrus bioflavonoid; spoken as hesperidin-based)",
+    "VitaCholine (choline)",
+    "Kaneka Ubiquinol",
+    "B vitamins",
+    "PeptiStrong (Nuritas plant peptides)"
    ],
    "relevance": "high",
    "status": "summarised"
@@ -4074,8 +4604,9 @@
    "event": "remedy-cdmo-2026",
    "session": "protein-brewery-fermotein",
    "date": "2026-10-22",
-   "text": "Fermotein is one ingredient with 50% complete protein, 30% prebiotic fibre (chitin and chitosan) and spermidine at about 1700 mg per kilo, used mainly in active nutrition [00:00].",
+   "text": "Fermotein is 50% protein with a complete amino acid profile, 30% fibre (\"unique fungal fibres\"), spermidine at \"7x more than wheat germ\", vitamin B6, vitamin B4, calcium, iron, zinc, phosphorus and magnesium (slide 5). Spoken: chitin and chitosan fibre, spermidine at about 1,700 mg per kilo, seven times \"beet germ\" as transcribed, and choline [00:00].",
    "cites": [
+    "slide 5",
     "00:00"
    ],
    "themes": [
@@ -4085,11 +4616,13 @@
     "glp-1-nutrition"
    ],
    "ingredients": [
-    "Fermotein (mycelium protein)",
+    "Fermotein (The Protein Brewery, mycelium protein)",
     "spermidine",
     "chitin and chitosan (prebiotic fibre)",
-    "choline",
-    "fava protein"
+    "choline (vitamin B4 on the slide)",
+    "vitamin B6",
+    "fava protein",
+    "inulin (benchmark in a lab study)"
    ],
    "relevance": "high",
    "status": "summarised"
@@ -4099,8 +4632,9 @@
    "event": "remedy-cdmo-2026",
    "session": "protein-brewery-fermotein",
    "date": "2026-10-22",
-   "text": "First mycelium protein with EFSA approval, \"since the summer of this year\" after five years; also approved in Singapore, with Australia and Canada pending [00:00].",
+   "text": "Approvals: self-affirmed GRAS in the US and Singapore (SFA) approval in 2024, EFSA safety approval in 2025, EU authorisation and market launch in 2026 (slide 3). He said \"since the summer of this year\" after five years, with Australia and Canada pending [00:00].",
    "cites": [
+    "slide 3",
     "00:00"
    ],
    "themes": [
@@ -4110,11 +4644,13 @@
     "glp-1-nutrition"
    ],
    "ingredients": [
-    "Fermotein (mycelium protein)",
+    "Fermotein (The Protein Brewery, mycelium protein)",
     "spermidine",
     "chitin and chitosan (prebiotic fibre)",
-    "choline",
-    "fava protein"
+    "choline (vitamin B4 on the slide)",
+    "vitamin B6",
+    "fava protein",
+    "inulin (benchmark in a lab study)"
    ],
    "relevance": "high",
    "status": "summarised"
@@ -4124,8 +4660,9 @@
    "event": "remedy-cdmo-2026",
    "session": "protein-brewery-fermotein",
    "date": "2026-10-22",
-   "text": "Market entry was the US \"all-in-one nutrition\" segment, between protein powder and meal replacement; Ka'Chava is the model, \"super profitable\", in Walmart and online [00:00].",
+   "text": "All-in-one nutrition is worth $0.5 to 1bn in the US against $8.6bn for protein supplements and $4.9bn for meal replacement (2025), and is priced at about $5 to $7 a serving against $1 to $2 for protein powder and $4 to $6 for meal replacement (slide 6) [00:00].",
    "cites": [
+    "slide 6",
     "00:00"
    ],
    "themes": [
@@ -4135,11 +4672,13 @@
     "glp-1-nutrition"
    ],
    "ingredients": [
-    "Fermotein (mycelium protein)",
+    "Fermotein (The Protein Brewery, mycelium protein)",
     "spermidine",
     "chitin and chitosan (prebiotic fibre)",
-    "choline",
-    "fava protein"
+    "choline (vitamin B4 on the slide)",
+    "vitamin B6",
+    "fava protein",
+    "inulin (benchmark in a lab study)"
    ],
    "relevance": "high",
    "status": "summarised"
@@ -4149,8 +4688,9 @@
    "event": "remedy-cdmo-2026",
    "session": "protein-brewery-fermotein",
    "date": "2026-10-22",
-   "text": "In Europe the nearest category is still meal replacement, not all-in-one nutrition; he expects it to come and asked the CDMOs present to embrace it [00:00].",
+   "text": "Ka'Chava: $47.2M measured retail sales excluding direct sales, up 24.4% in dollars and 39.9% in units over 52 weeks to 07/12/2026 (SPINS); single-serve multipacks grow fastest, up 254% to over 1,000%, at the highest price per serving (slide 8). He called it \"super profitable\" [00:00].",
    "cites": [
+    "slide 8",
     "00:00"
    ],
    "themes": [
@@ -4160,11 +4700,13 @@
     "glp-1-nutrition"
    ],
    "ingredients": [
-    "Fermotein (mycelium protein)",
+    "Fermotein (The Protein Brewery, mycelium protein)",
     "spermidine",
     "chitin and chitosan (prebiotic fibre)",
-    "choline",
-    "fava protein"
+    "choline (vitamin B4 on the slide)",
+    "vitamin B6",
+    "fava protein",
+    "inulin (benchmark in a lab study)"
    ],
    "relevance": "high",
    "status": "summarised"
@@ -4174,8 +4716,10 @@
    "event": "remedy-cdmo-2026",
    "session": "protein-brewery-fermotein",
    "date": "2026-10-22",
-   "text": "Evidence: prebiotic studies, a positive effect on GLP-1, and a C. elegans study in which Fermotein increased nematode lifespan by 22%; a human biological ageing clock trial with Wageningen University is planned for quarter one [00:00].",
+   "text": "Evidence is preclinical: in a TNO gut model Fermotein raised butyrate, propionate and acetate and microbial diversity; in TNO human colon tissue it raised GLP-1 against a blank; in NemaLife's C. elegans study median lifespan rose 21.7%, 28 against 23 days (slide 11) (slide 12). He said 22% [00:00].",
    "cites": [
+    "slide 11",
+    "slide 12",
     "00:00"
    ],
    "themes": [
@@ -4185,11 +4729,41 @@
     "glp-1-nutrition"
    ],
    "ingredients": [
-    "Fermotein (mycelium protein)",
+    "Fermotein (The Protein Brewery, mycelium protein)",
     "spermidine",
     "chitin and chitosan (prebiotic fibre)",
-    "choline",
-    "fava protein"
+    "choline (vitamin B4 on the slide)",
+    "vitamin B6",
+    "fava protein",
+    "inulin (benchmark in a lab study)"
+   ],
+   "relevance": "high",
+   "status": "summarised"
+  },
+  {
+   "id": "remedy-cdmo-2026/protein-brewery-fermotein#6",
+   "event": "remedy-cdmo-2026",
+   "session": "protein-brewery-fermotein",
+   "date": "2026-10-22",
+   "text": "Next: a 16-week human RCT on biological ageing clocks in adults aged 40 to 60, led by Dr Pol Grootswagers of Wageningen; a human spermidine bioavailability trial; and a NemaLife follow-up on lifespan and muscle health (slide 13). He said the ageing-clock trial starts in quarter one [00:00].",
+   "cites": [
+    "slide 13",
+    "00:00"
+   ],
+   "themes": [
+    "novel-proteins-and-blends",
+    "eu-regulation-brake",
+    "longevity-positioning",
+    "glp-1-nutrition"
+   ],
+   "ingredients": [
+    "Fermotein (The Protein Brewery, mycelium protein)",
+    "spermidine",
+    "chitin and chitosan (prebiotic fibre)",
+    "choline (vitamin B4 on the slide)",
+    "vitamin B6",
+    "fava protein",
+    "inulin (benchmark in a lab study)"
    ],
    "relevance": "high",
    "status": "summarised"
@@ -4199,8 +4773,10 @@
    "event": "remedy-cdmo-2026",
    "session": "alex-glover-holland-barrett",
    "date": "2026-10-22",
-   "text": "Customers do not buy the mechanism; they buy how they feel and keep feeling. The retailer's recurring questions are when will I feel it, what will I feel, can I measure it, and how much does it cost [00:25].",
+   "text": "Mechanisms make promises and sell, but outcomes retain customers (slide 6). Shoppers ask whether and when they will feel it, whether they can measure it, and what it costs (slide 8); when trials show a benefit at four, six or eight weeks, H&B can sometimes put that on pack [00:25].",
    "cites": [
+    "slide 6",
+    "slide 8",
     "00:25"
    ],
    "themes": [
@@ -4209,12 +4785,14 @@
     "glp-1-nutrition"
    ],
    "ingredients": [
-    "NAD boosters (nicotinamide riboside, nicotinamide mononucleotide)",
+    "NAD boosters (nicotinamide riboside, nicotinamide mononucleotide, nicotinamide)",
     "fibre",
     "vitamin D",
     "calcium",
     "protein",
-    "curcumin"
+    "curcumin",
+    "UC-II",
+    "anthocyanins"
    ],
    "relevance": "medium",
    "status": "summarised"
@@ -4224,9 +4802,9 @@
    "event": "remedy-cdmo-2026",
    "session": "alex-glover-holland-barrett",
    "date": "2026-10-22",
-   "text": "H&B's biggest own-label sellers have a clearly communicated benefit (joint function, joint comfort, brain function); products that recite clinical literature do not sell as well [00:25].",
+   "text": "H&B's test for an ingredient has five parts: evidence (high-quality science), dose (the effective, studied dose), outcome (which endpoint improves), communication (legal and responsible) and consumer relevance (does it matter in everyday life) (slide 6).",
    "cites": [
-    "00:25"
+    "slide 6"
    ],
    "themes": [
     "outcomes-over-mechanisms",
@@ -4234,12 +4812,14 @@
     "glp-1-nutrition"
    ],
    "ingredients": [
-    "NAD boosters (nicotinamide riboside, nicotinamide mononucleotide)",
+    "NAD boosters (nicotinamide riboside, nicotinamide mononucleotide, nicotinamide)",
     "fibre",
     "vitamin D",
     "calcium",
     "protein",
-    "curcumin"
+    "curcumin",
+    "UC-II",
+    "anthocyanins"
    ],
    "relevance": "medium",
    "status": "summarised"
@@ -4249,8 +4829,9 @@
    "event": "remedy-cdmo-2026",
    "session": "alex-glover-holland-barrett",
    "date": "2026-10-22",
-   "text": "NAD: over 1000 customers surveyed and \"not a single one knew what NAD was\"; outcome-level data for NR and NMN is \"very very limited\" [00:25].",
+   "text": "The outcomes consumers buy are energy, memory, strength, mobility, sleep, appearance and feeling younger or better, not NAD+, sirtuins, telomeres or PARPs (slide 8). H&B's biggest own-label sellers carry one clear benefit, such as joint function, joint comfort or brain function [00:25].",
    "cites": [
+    "slide 8",
     "00:25"
    ],
    "themes": [
@@ -4259,12 +4840,14 @@
     "glp-1-nutrition"
    ],
    "ingredients": [
-    "NAD boosters (nicotinamide riboside, nicotinamide mononucleotide)",
+    "NAD boosters (nicotinamide riboside, nicotinamide mononucleotide, nicotinamide)",
     "fibre",
     "vitamin D",
     "calcium",
     "protein",
-    "curcumin"
+    "curcumin",
+    "UC-II",
+    "anthocyanins"
    ],
    "relevance": "medium",
    "status": "summarised"
@@ -4274,9 +4857,10 @@
    "event": "remedy-cdmo-2026",
    "session": "alex-glover-holland-barrett",
    "date": "2026-10-22",
-   "text": "Cheap, evidence-rich interventions (fibre, vitamin D, calcium, protein) beat novel technologies on evidence and cost; vitamin D costs about two cents per 10 microgram serving [00:25].",
+   "text": "NAD: of over 1000 customers surveyed, not one knew what NAD was [00:25]. NR reliably raises blood NAD metabolites and NMN or NAM raise it in some studies, but functional outcome improvements are \"very limited\" (slide 13).",
    "cites": [
-    "00:25"
+    "00:25",
+    "slide 13"
    ],
    "themes": [
     "outcomes-over-mechanisms",
@@ -4284,12 +4868,14 @@
     "glp-1-nutrition"
    ],
    "ingredients": [
-    "NAD boosters (nicotinamide riboside, nicotinamide mononucleotide)",
+    "NAD boosters (nicotinamide riboside, nicotinamide mononucleotide, nicotinamide)",
     "fibre",
     "vitamin D",
     "calcium",
     "protein",
-    "curcumin"
+    "curcumin",
+    "UC-II",
+    "anthocyanins"
    ],
    "relevance": "medium",
    "status": "summarised"
@@ -4299,9 +4885,9 @@
    "event": "remedy-cdmo-2026",
    "session": "alex-glover-holland-barrett",
    "date": "2026-10-22",
-   "text": "US shelves in the last six months are \"protein plus fiber\"; he gave about 9% lower coronary heart disease risk for every seven grams of fibre [00:25].",
+   "text": "Curcumin is the \"tangible outcomes\" case: a meta-analysis of 11 RCTs (n=1258) found curcuminoids improved VAS and WOMAC pain scores in knee osteoarthritis against comparators or placebo, and formulation matters because bioavailability varies widely (slide 15).",
    "cites": [
-    "00:25"
+    "slide 15"
    ],
    "themes": [
     "outcomes-over-mechanisms",
@@ -4309,12 +4895,14 @@
     "glp-1-nutrition"
    ],
    "ingredients": [
-    "NAD boosters (nicotinamide riboside, nicotinamide mononucleotide)",
+    "NAD boosters (nicotinamide riboside, nicotinamide mononucleotide, nicotinamide)",
     "fibre",
     "vitamin D",
     "calcium",
     "protein",
-    "curcumin"
+    "curcumin",
+    "UC-II",
+    "anthocyanins"
    ],
    "relevance": "medium",
    "status": "summarised"
@@ -4324,7 +4912,7 @@
    "event": "remedy-cdmo-2026",
    "session": "alex-glover-holland-barrett",
    "date": "2026-10-22",
-   "text": "When a benefit shows in trials at four, six or eight weeks, H&B can sometimes put that timescale on pack [00:25].",
+   "text": "Cheap interventions with strong evidence (fibre, vitamin D, calcium, protein) beat novel technologies on evidence and cost; US shelves are \"protein plus fiber\" [00:25]. None of this is on his slides.",
    "cites": [
     "00:25"
    ],
@@ -4334,12 +4922,14 @@
     "glp-1-nutrition"
    ],
    "ingredients": [
-    "NAD boosters (nicotinamide riboside, nicotinamide mononucleotide)",
+    "NAD boosters (nicotinamide riboside, nicotinamide mononucleotide, nicotinamide)",
     "fibre",
     "vitamin D",
     "calcium",
     "protein",
-    "curcumin"
+    "curcumin",
+    "UC-II",
+    "anthocyanins"
    ],
    "relevance": "medium",
    "status": "summarised"
@@ -4631,8 +5221,10 @@
    "event": "remedy-cdmo-2026",
    "session": "hmt-probiotic-market",
    "date": "2026-10-23",
-   "text": "Consumers say they do not feel informed about probiotics; the category has too many options and not enough clarity [00:24].",
+   "text": "Biotics have never been more popular: probiotic use among US adults rose 287% from 2009 to 2023, and European online probiotic sales have grown 15-25% a year since 2020 (slide 2). Yet in 7 of 8 European countries consumers do not feel informed about probiotics (slide 6); she said this without figures [00:24].",
    "cites": [
+    "slide 2",
+    "slide 6",
     "00:24"
    ],
    "themes": [
@@ -4645,7 +5237,12 @@
     "prebiotics",
     "fibres",
     "postbiotics",
-    "Akkermansia (heard as \"Acromancia\"; a US brand built on it)",
+    "Akkermansia (Pendulum, the US brand built on it; heard as \"Acromancia\")",
+    "prebiotic fibre (LOAM)",
+    "Bifidus ActiRegularis (Activia's branded strain)",
+    "BioGaia Protectis",
+    "ReFerm (Nordic Rebalance OatBiotics)",
+    "Suntheanine (L-theanine; an HMT client case)",
     "Yakult",
     "Danone Activia",
     "Poppi"
@@ -4658,8 +5255,11 @@
    "event": "remedy-cdmo-2026",
    "session": "hmt-probiotic-market",
    "date": "2026-10-23",
-   "text": "Rule 1: 50, 80 or 100 billion CFU on shelf means nothing to the consumer; numbers alone no longer build trust, so be the proven expert in a niche, as a US Akkermansia brand does for metabolic health and weight management [03:59].",
+   "text": "Rule 1, from \"more is better\" to quality and proof: a number on its own no longer builds trust, so be an expert brand in a niche (slide 14). Shelves show 50, 80 or 100 billion CFU [03:59]; her niche example is Pendulum, an Akkermansia-based US brand for metabolic health (slide 14) [03:59].",
    "cites": [
+    "slide 14",
+    "03:59",
+    "slide 14",
     "03:59"
    ],
    "themes": [
@@ -4672,7 +5272,12 @@
     "prebiotics",
     "fibres",
     "postbiotics",
-    "Akkermansia (heard as \"Acromancia\"; a US brand built on it)",
+    "Akkermansia (Pendulum, the US brand built on it; heard as \"Acromancia\")",
+    "prebiotic fibre (LOAM)",
+    "Bifidus ActiRegularis (Activia's branded strain)",
+    "BioGaia Protectis",
+    "ReFerm (Nordic Rebalance OatBiotics)",
+    "Suntheanine (L-theanine; an HMT client case)",
     "Yakult",
     "Danone Activia",
     "Poppi"
@@ -4685,8 +5290,9 @@
    "event": "remedy-cdmo-2026",
    "session": "hmt-probiotic-market",
    "date": "2026-10-23",
-   "text": "Rule 2: talk about feeding what the consumer already has, fibres and plant diversity, which they can see and act on; fibre brands lead this language [03:59].",
+   "text": "Rule 2, from adding bacteria to feeding the ecosystem: \"eat more plants\" instead of strain names, plants and fibre consumers can see, and a gut they feed themselves (slide 15); fibre brands lead this language [03:59].",
    "cites": [
+    "slide 15",
     "03:59"
    ],
    "themes": [
@@ -4699,7 +5305,12 @@
     "prebiotics",
     "fibres",
     "postbiotics",
-    "Akkermansia (heard as \"Acromancia\"; a US brand built on it)",
+    "Akkermansia (Pendulum, the US brand built on it; heard as \"Acromancia\")",
+    "prebiotic fibre (LOAM)",
+    "Bifidus ActiRegularis (Activia's branded strain)",
+    "BioGaia Protectis",
+    "ReFerm (Nordic Rebalance OatBiotics)",
+    "Suntheanine (L-theanine; an HMT client case)",
     "Yakult",
     "Danone Activia",
     "Poppi"
@@ -4712,8 +5323,10 @@
    "event": "remedy-cdmo-2026",
    "session": "hmt-probiotic-market",
    "date": "2026-10-23",
-   "text": "Rule 3: early adopters measure with microbiome tests and apps; mass-market consumers keep buying only when they feel a difference, so brands now set expectations for one week and one month [03:59].",
+   "text": "Rule 3, from belief to measurable and felt benefits: early adopters measure with microbiome tests, apps and personal scores; the mass market wants less bloating, regularity and energy, and buys again only if it notices a difference (slide 16). Her example sets expectations at week 1 and months 1, 2 and 3 (slide 17); she said \"for one week, for one month\" [03:59].",
    "cites": [
+    "slide 16",
+    "slide 17",
     "03:59"
    ],
    "themes": [
@@ -4726,7 +5339,12 @@
     "prebiotics",
     "fibres",
     "postbiotics",
-    "Akkermansia (heard as \"Acromancia\"; a US brand built on it)",
+    "Akkermansia (Pendulum, the US brand built on it; heard as \"Acromancia\")",
+    "prebiotic fibre (LOAM)",
+    "Bifidus ActiRegularis (Activia's branded strain)",
+    "BioGaia Protectis",
+    "ReFerm (Nordic Rebalance OatBiotics)",
+    "Suntheanine (L-theanine; an HMT client case)",
     "Yakult",
     "Danone Activia",
     "Poppi"
@@ -4739,8 +5357,9 @@
    "event": "remedy-cdmo-2026",
    "session": "hmt-probiotic-market",
    "date": "2026-10-23",
-   "text": "Rule 4: consumers stick with formats they like; Poppi is her example of a product designed around the consumer rather than the ingredient [03:59].",
+   "text": "Rule 4, from supplement to everyday food and formats: products designed for the person, not the bacteria; \"the best biotic is the one people actually take every day\" (slide 18). Poppi is her example [03:59].",
    "cites": [
+    "slide 18",
     "03:59"
    ],
    "themes": [
@@ -4753,7 +5372,12 @@
     "prebiotics",
     "fibres",
     "postbiotics",
-    "Akkermansia (heard as \"Acromancia\"; a US brand built on it)",
+    "Akkermansia (Pendulum, the US brand built on it; heard as \"Acromancia\")",
+    "prebiotic fibre (LOAM)",
+    "Bifidus ActiRegularis (Activia's branded strain)",
+    "BioGaia Protectis",
+    "ReFerm (Nordic Rebalance OatBiotics)",
+    "Suntheanine (L-theanine; an HMT client case)",
     "Yakult",
     "Danone Activia",
     "Poppi"
@@ -4766,8 +5390,10 @@
    "event": "remedy-cdmo-2026",
    "session": "hmt-probiotic-market",
    "date": "2026-10-23",
-   "text": "In Europe most of these claims cannot be made, so the brand must carry them: brand the strain and build a \"double IP\", rational and emotional [03:59].",
+   "text": "In Europe you cannot claim most of it, so the brand carries it: BioGaia's baby drops say \"for colic & digestive discomfort\" in the US but \"one of the world's most researched lactic acid bacteria strains\" in Europe (slide 20), and Activia names its strain, Bifidus ActiRegularis (slide 21) [03:59].",
    "cites": [
+    "slide 20",
+    "slide 21",
     "03:59"
    ],
    "themes": [
@@ -4780,7 +5406,12 @@
     "prebiotics",
     "fibres",
     "postbiotics",
-    "Akkermansia (heard as \"Acromancia\"; a US brand built on it)",
+    "Akkermansia (Pendulum, the US brand built on it; heard as \"Acromancia\")",
+    "prebiotic fibre (LOAM)",
+    "Bifidus ActiRegularis (Activia's branded strain)",
+    "BioGaia Protectis",
+    "ReFerm (Nordic Rebalance OatBiotics)",
+    "Suntheanine (L-theanine; an HMT client case)",
     "Yakult",
     "Danone Activia",
     "Poppi"
@@ -4961,8 +5592,10 @@
    "event": "remedy-cdmo-2026",
    "session": "sacco-probiotics",
    "date": "2026-10-23",
-   "text": "Its pitch as a CDMO is speed and flexibility: a low time to market, working in synergy with the customer, and setting up a new kind of production if asked (\"If you have got something crazy, we like to do that\") [00:00].",
+   "text": "Its pitch as a CDMO is speed and flexibility: a low time to market, agile family decisions, custom fermentation from 1 L to 40,000 L, and a new kind of production if asked (slide 6) (slide 8) [00:00].",
    "cites": [
+    "slide 6",
+    "slide 8",
     "00:00"
    ],
    "themes": [
@@ -4972,11 +5605,11 @@
     "cdmo-partnership-models"
    ],
    "ingredients": [
-    "CA15 (Sacco, patented strain)",
-    "Symbio (Sacco, patented mix)",
-    "paracasei and rhamnosus (as said, 1 to 1)",
+    "CA15 (Sacco, L. rhamnosus CA15 DSM 33960, patented strain)",
+    "Synbio (Sacco, patented mix of L. rhamnosus IMC 501 and L. paracasei IMC 502)",
     "probiotics",
     "postbiotics",
+    "next-generation probiotics and live biotherapeutics",
     "butyrate",
     "fluconazole (co-administration tested)"
    ],
@@ -4988,8 +5621,9 @@
    "event": "remedy-cdmo-2026",
    "session": "sacco-probiotics",
    "date": "2026-10-23",
-   "text": "Offer: probiotics, postbiotics and customised mixtures; \"culture science\" strains with clinical studies and \"culture select\" strains screened to EFSA requirements, more than 30 species; strain development for third parties [00:00].",
+   "text": "CA15 trials: two randomised, double-blind, placebo-controlled studies, 60 women in 2023 and 200 in 2025, one capsule of 10 billion CFU a day for 10 days and a 30-day wash-out (slide 14). They differ from the talk, which gave a six-woman exploratory study and \"10 mil per capsule\" [00:00].",
    "cites": [
+    "slide 14",
     "00:00"
    ],
    "themes": [
@@ -4999,11 +5633,11 @@
     "cdmo-partnership-models"
    ],
    "ingredients": [
-    "CA15 (Sacco, patented strain)",
-    "Symbio (Sacco, patented mix)",
-    "paracasei and rhamnosus (as said, 1 to 1)",
+    "CA15 (Sacco, L. rhamnosus CA15 DSM 33960, patented strain)",
+    "Synbio (Sacco, patented mix of L. rhamnosus IMC 501 and L. paracasei IMC 502)",
     "probiotics",
     "postbiotics",
+    "next-generation probiotics and live biotherapeutics",
     "butyrate",
     "fluconazole (co-administration tested)"
    ],
@@ -5015,8 +5649,10 @@
    "event": "remedy-cdmo-2026",
    "session": "sacco-probiotics",
    "date": "2026-10-23",
-   "text": "CA15 (women's health): patented strain, 2022; six-woman exploratory study then 200 women; \"10 mil per capsule\" for 10 days, one-month washout; he reported reduced symptoms and, one month after intake stopped, 98% restored pH and 92% negative amine test [00:00].",
+   "text": "CA15 results: symptom scores fell 78% for discomfort, 66% burning, 64% itching, 62% secretions and 56% inflammation (slide 15). On the Amsel criteria 98% of women had a corrected pH, 92% a negative amine test, 79% no clue cells and 75% normal discharge, as labelled on the chart (slide 16); he gave the first three the same [00:00].",
    "cites": [
+    "slide 15",
+    "slide 16",
     "00:00"
    ],
    "themes": [
@@ -5026,11 +5662,11 @@
     "cdmo-partnership-models"
    ],
    "ingredients": [
-    "CA15 (Sacco, patented strain)",
-    "Symbio (Sacco, patented mix)",
-    "paracasei and rhamnosus (as said, 1 to 1)",
+    "CA15 (Sacco, L. rhamnosus CA15 DSM 33960, patented strain)",
+    "Synbio (Sacco, patented mix of L. rhamnosus IMC 501 and L. paracasei IMC 502)",
     "probiotics",
     "postbiotics",
+    "next-generation probiotics and live biotherapeutics",
     "butyrate",
     "fluconazole (co-administration tested)"
    ],
@@ -5042,8 +5678,10 @@
    "event": "remedy-cdmo-2026",
    "session": "sacco-probiotics",
    "date": "2026-10-23",
-   "text": "Symbio (healthy ageing): 1:1 paracasei and rhamnosus from Marche centenarians; a randomised, double-blind, placebo-controlled study in 97 subjects, \"five mil\" daily, six months [00:00].",
+   "text": "Synbio trial: L. rhamnosus IMC 501 and L. paracasei IMC 502, 5 billion CFU a serving for six months in 97 healthy people over 65, randomised, double-blind and placebo-controlled (slide 21) (slide 23); spoken as \"five mil\" daily [00:00].",
    "cites": [
+    "slide 21",
+    "slide 23",
     "00:00"
    ],
    "themes": [
@@ -5053,11 +5691,11 @@
     "cdmo-partnership-models"
    ],
    "ingredients": [
-    "CA15 (Sacco, patented strain)",
-    "Symbio (Sacco, patented mix)",
-    "paracasei and rhamnosus (as said, 1 to 1)",
+    "CA15 (Sacco, L. rhamnosus CA15 DSM 33960, patented strain)",
+    "Synbio (Sacco, patented mix of L. rhamnosus IMC 501 and L. paracasei IMC 502)",
     "probiotics",
     "postbiotics",
+    "next-generation probiotics and live biotherapeutics",
     "butyrate",
     "fluconazole (co-administration tested)"
    ],
@@ -5069,8 +5707,10 @@
    "event": "remedy-cdmo-2026",
    "session": "sacco-probiotics",
    "date": "2026-10-23",
-   "text": "Symbio results as he gave them: more lactobacilli, bifidobacteria and butyrate, a 43% reduction in hs-CRP (\"a marker of inflammaging\"), reduced TNF, improved IGF-1 \"correlated with the protein synthesis as well as the maintenance of the muscle mass\", and \"a decrease in the reduction in the length\" of telomeres [00:00].",
+   "text": "Synbio results, end of study against start: hs-CRP down 43%, IL-8 down 83%, IL-6 67%, MIP-1α 60% and TNF-α 23% (slide 25); total short-chain fatty acids up 23% and butyric acid up 33% (slide 26) [00:00].",
    "cites": [
+    "slide 25",
+    "slide 26",
     "00:00"
    ],
    "themes": [
@@ -5080,11 +5720,11 @@
     "cdmo-partnership-models"
    ],
    "ingredients": [
-    "CA15 (Sacco, patented strain)",
-    "Symbio (Sacco, patented mix)",
-    "paracasei and rhamnosus (as said, 1 to 1)",
+    "CA15 (Sacco, L. rhamnosus CA15 DSM 33960, patented strain)",
+    "Synbio (Sacco, patented mix of L. rhamnosus IMC 501 and L. paracasei IMC 502)",
     "probiotics",
     "postbiotics",
+    "next-generation probiotics and live biotherapeutics",
     "butyrate",
     "fluconazole (co-administration tested)"
    ],
@@ -5096,8 +5736,11 @@
    "event": "remedy-cdmo-2026",
    "session": "sacco-probiotics",
    "date": "2026-10-23",
-   "text": "Sacco has recently invested in clinical studies and patents in two areas, women's health and healthy ageing [00:00].",
+   "text": "Sacco says Synbio \"increases IGF-1 levels\", which it calls key for muscle maintenance in ageing, and that it slowed telomere shortening against placebo (slide 27) (slide 28) (slide 29) [00:00].",
    "cites": [
+    "slide 27",
+    "slide 28",
+    "slide 29",
     "00:00"
    ],
    "themes": [
@@ -5107,11 +5750,11 @@
     "cdmo-partnership-models"
    ],
    "ingredients": [
-    "CA15 (Sacco, patented strain)",
-    "Symbio (Sacco, patented mix)",
-    "paracasei and rhamnosus (as said, 1 to 1)",
+    "CA15 (Sacco, L. rhamnosus CA15 DSM 33960, patented strain)",
+    "Synbio (Sacco, patented mix of L. rhamnosus IMC 501 and L. paracasei IMC 502)",
     "probiotics",
     "postbiotics",
+    "next-generation probiotics and live biotherapeutics",
     "butyrate",
     "fluconazole (co-administration tested)"
    ],
@@ -5123,8 +5766,10 @@
    "event": "remedy-cdmo-2026",
    "session": "spi-pharma-nordic-biotic",
    "date": "2026-10-23",
-   "text": "Chewable probiotic tablets: a polyol-based platform with low water content and water activity, compressed at low force, sweet without sugar; probiotics survive the process; shown in a real Favea product [00:01].",
+   "text": "Chewable probiotic: Compressol ProTab is a low water activity direct-compression platform that compresses at low force, so live cultures survive; the concept is an adult mint chew, \"Gut Performance Chew\" (slide 5) (slide 7) [00:01].",
    "cites": [
+    "slide 5",
+    "slide 7",
     "00:01"
    ],
    "themes": [
@@ -5134,9 +5779,13 @@
     "glp-1-nutrition"
    ],
    "ingredients": [
-    "Composol Pro Tab (SPI Pharma, as heard; polyol-based chewable platform)",
-    "Effer Soda (SPI Pharma)",
+    "Compressol ProTab (SPI Pharma; polyol-based chewable platform)",
+    "Effer-Soda 12 (SPI Pharma)",
+    "Advantol 300 (SPI Pharma; fast-melt platform)",
     "sodium bicarbonate",
+    "electrolytes (sodium, potassium, magnesium, calcium, chloride)",
+    "caffeine",
+    "B vitamins",
     "probiotics",
     "Northbiotic Mental Balance (Nordic Biotic)",
     "Lactobacillus plantarum 140",
@@ -5154,8 +5803,10 @@
    "event": "remedy-cdmo-2026",
    "session": "spi-pharma-nordic-biotic",
    "date": "2026-10-23",
-   "text": "Effer Soda is SPI Pharma's stabilised sodium bicarbonate for effervescent tablets, stick packs and sachets; plain bicarbonate with an acid is hygroscopic and unstable over shelf life [00:01].",
+   "text": "Effer-Soda is a surface-modified sodium bicarbonate, stable across packing forms, \"not only desiccant tubes\": 15–25% of a tablet or sachet formula as the effervescent system, or 1–4% for sparkle in a chewable or fast-melt; the concept is a fizzy electrolyte and energy stick for sport (slide 8) (slide 10) [00:01].",
    "cites": [
+    "slide 8",
+    "slide 10",
     "00:01"
    ],
    "themes": [
@@ -5165,9 +5816,13 @@
     "glp-1-nutrition"
    ],
    "ingredients": [
-    "Composol Pro Tab (SPI Pharma, as heard; polyol-based chewable platform)",
-    "Effer Soda (SPI Pharma)",
+    "Compressol ProTab (SPI Pharma; polyol-based chewable platform)",
+    "Effer-Soda 12 (SPI Pharma)",
+    "Advantol 300 (SPI Pharma; fast-melt platform)",
     "sodium bicarbonate",
+    "electrolytes (sodium, potassium, magnesium, calcium, chloride)",
+    "caffeine",
+    "B vitamins",
     "probiotics",
     "Northbiotic Mental Balance (Nordic Biotic)",
     "Lactobacillus plantarum 140",
@@ -5185,8 +5840,10 @@
    "event": "remedy-cdmo-2026",
    "session": "spi-pharma-nordic-biotic",
    "date": "2026-10-23",
-   "text": "Fast-melt tablets need no water and suit children, elderly people with dysphagia and people who dislike swallowing; SPI Pharma offers an ODT platform that can carry fizz [00:01].",
+   "text": "Fast-melt: Advantol 300 with Effer-Soda 12 disintegrates in under 10 seconds, 20–40% faster than typical direct-compression competitors, and uses standard packaging, not lyophilised blisters (slide 14) (slide 15). It is aimed at children and older people who cannot or will not swallow [00:01].",
    "cites": [
+    "slide 14",
+    "slide 15",
     "00:01"
    ],
    "themes": [
@@ -5196,9 +5853,13 @@
     "glp-1-nutrition"
    ],
    "ingredients": [
-    "Composol Pro Tab (SPI Pharma, as heard; polyol-based chewable platform)",
-    "Effer Soda (SPI Pharma)",
+    "Compressol ProTab (SPI Pharma; polyol-based chewable platform)",
+    "Effer-Soda 12 (SPI Pharma)",
+    "Advantol 300 (SPI Pharma; fast-melt platform)",
     "sodium bicarbonate",
+    "electrolytes (sodium, potassium, magnesium, calcium, chloride)",
+    "caffeine",
+    "B vitamins",
     "probiotics",
     "Northbiotic Mental Balance (Nordic Biotic)",
     "Lactobacillus plantarum 140",
@@ -5227,9 +5888,13 @@
     "glp-1-nutrition"
    ],
    "ingredients": [
-    "Composol Pro Tab (SPI Pharma, as heard; polyol-based chewable platform)",
-    "Effer Soda (SPI Pharma)",
+    "Compressol ProTab (SPI Pharma; polyol-based chewable platform)",
+    "Effer-Soda 12 (SPI Pharma)",
+    "Advantol 300 (SPI Pharma; fast-melt platform)",
     "sodium bicarbonate",
+    "electrolytes (sodium, potassium, magnesium, calcium, chloride)",
+    "caffeine",
+    "B vitamins",
     "probiotics",
     "Northbiotic Mental Balance (Nordic Biotic)",
     "Lactobacillus plantarum 140",
@@ -5258,9 +5923,13 @@
     "glp-1-nutrition"
    ],
    "ingredients": [
-    "Composol Pro Tab (SPI Pharma, as heard; polyol-based chewable platform)",
-    "Effer Soda (SPI Pharma)",
+    "Compressol ProTab (SPI Pharma; polyol-based chewable platform)",
+    "Effer-Soda 12 (SPI Pharma)",
+    "Advantol 300 (SPI Pharma; fast-melt platform)",
     "sodium bicarbonate",
+    "electrolytes (sodium, potassium, magnesium, calcium, chloride)",
+    "caffeine",
+    "B vitamins",
     "probiotics",
     "Northbiotic Mental Balance (Nordic Biotic)",
     "Lactobacillus plantarum 140",
@@ -5289,9 +5958,13 @@
     "glp-1-nutrition"
    ],
    "ingredients": [
-    "Composol Pro Tab (SPI Pharma, as heard; polyol-based chewable platform)",
-    "Effer Soda (SPI Pharma)",
+    "Compressol ProTab (SPI Pharma; polyol-based chewable platform)",
+    "Effer-Soda 12 (SPI Pharma)",
+    "Advantol 300 (SPI Pharma; fast-melt platform)",
     "sodium bicarbonate",
+    "electrolytes (sodium, potassium, magnesium, calcium, chloride)",
+    "caffeine",
+    "B vitamins",
     "probiotics",
     "Northbiotic Mental Balance (Nordic Biotic)",
     "Lactobacillus plantarum 140",

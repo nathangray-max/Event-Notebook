@@ -1,7 +1,7 @@
 {
  "schema": "confnotes.events/1",
  "built": "2026-11-23",
- "commit": "0774895",
+ "commit": "fb0726d",
  "count": 4,
  "items": [
   {
@@ -143,6 +143,8 @@
    "has_report": false,
    "sessions": [
     "aker-biomarine-krill-peakspan",
+    "favea-ai-mental-shift",
+    "nathan-gray-creatine-new-buyers",
     "nick-morgan-longevity",
     "nuritas-peptistrong",
     "kaneka-ubiquinol",
