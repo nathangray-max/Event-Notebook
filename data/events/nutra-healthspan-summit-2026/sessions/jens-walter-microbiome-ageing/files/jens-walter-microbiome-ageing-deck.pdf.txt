@@ -1,0 +1,265 @@
+--- page 1 ---
+Illustration by Charlotte Hintzmann
+Microbiome modulation through
+nutritional interventions to
+extend healthy lifespan
+Jens Walter
+Professor of Ecology, Food, and the Microbiome
+APC Microbiome Ireland, School of Microbiology, and
+Department of Medicine
+University College Cork, Cork, Ireland
+jenswalter@ucc.ie
+
+--- page 2 ---
+Disclosures
+J.W. is a founder and co-owner of Synbiotic Health
+Support and consultancy from companies that market or use dietary
+fiber (MGP Ingredients, Nestlé, Ingredion, Agrifiber).
+
+--- page 3 ---
+Why consider the microbiome
+in older people?
+• Increasing proportion in population
+• Changes in microbiota composition and activity
+• Increased infection rates
+• Increased inflammatory  disease
+• Prospects for dietary intervention/ modulation
+Paul O’Toole
+Ghosh et al, 2022
+
+--- page 4 ---
+Microbial Signatures in Healthy and Unhealthy Aging
+• Three taxa groups show distinct patterns of alteration:
+• increasing or decreasing abundance in older
+people
+• increasing or decreasing abundance with
+unhealthy aging
+• Group 1: Decline with age; linked to healthy aging
+• Group 2:  Pathobionts rise, especially in unhealthy
+aging
+• Group 3: Increase with age but decline in unhealthy
+aging
+Vast literature survey gives us clues
+Ghosh et al, 2022
+
+--- page 5 ---
+Outline: Can we modulate the gut microbiome through nutritional
+interventions to extend healthy lifespan?
+• Does the microbiome impact longevity and ageing, and how is this
+shaped by diet? Evidence from rodent models.
+• Human evidence linking diet with healthy aging.
+• Does the microbiome mediate the effects of diet on aging?
+• What are the potential microbial and metabolic mediators linking diet
+to healthy aging?
+• Microbiome-centred treatments: A potential role for bifidobacteria?
+
+--- page 6 ---
+Does the microbiome impact longevity and ageing, and how is this
+shaped by diet? Evidence from rodent models.
+Journal of Gerontology, Volume 21, Issue 3, July 1966,
+Pages 380–387, https://doi.org/10.1093/geronj/21.3.380
+Germ-free male and
+female mice
+Conventional male
+and female mice
+
+--- page 7 ---
+
+
+--- page 8 ---
+Human evidence linking diet with healthy aging
+Alternative Healthy Eating Index
+(AHEI) performs consistently best.
+Potential reasons:
+High-quality plant foods:
+vegetables, fruit, whole grains, nuts,
+legumes.
+Fat quality: PUFA, omega-3, low
+trans fat.
+Avoidance of industrial/modern risk
+foods: sugary drinks/juice, red and
+processed meat, sodium, trans fat.
+
+--- page 9 ---
+Human evidence linking diet
+with healthy aging
+
+--- page 10 ---
+
+
+--- page 11 ---
+Cell Host Microbe (2022) 30;6:764-785.
+Does the
+microbiome
+mediate the
+effects on
+aging?
+Healthy Ageing
+Diets Are Also
+Microbiome-
+Compatible Diets!
+
+--- page 12 ---
+Evidence from intervention studies
+Diet Microbiota
+MedDiet
+intervention
+Intervention with Mediterranean diet in 612 older adults, sampled at 0 & 12 months
+MedDiet led to lower abundance of bacteria associated with frailty & cognition
+increased taxa linked to lower frailty, better cognition and lower CRP and IL-17
+Also associated with increase in SCFA & and reduction in secondary bile acids
+Questions how practical MedDiet for elderly (dentition, saliva, ingredients…)
+Prof
+Paul O’Toole
+
+--- page 13 ---
+Anissa
+Armet Fuyong
+Li
+ClinicalTrials.gov ID NCT03501082
+
+--- page 14 ---
+The Non-industrialized Microbiome Restore Diet
+Effects of the Restore diet on gut
+microbiome composition and metabolism
+Usual   Restore
+Fecal pH
+BCFAs to SCFAs
+Usual   Restore
+Shifts in bacterial genera
+J. Microbiol. Biotechnol. 2025. 35: e2503045
+https://doi.org/10.4014/jmb.2503.03045
+ Gut 2025; doi:10.1136/gutjnl-2024-332243
+
+--- page 15 ---
+LDL cholesterol
+Usual    Restore
+-16.8%
+Effects of the Restore diet on cardiometabolic risk markers and
+links to gut microbiome
+
+--- page 16 ---
+What are the potential microbial and metabolic mediators linking diet to
+healthy aging?
+• Saccharolytic fermentation and SCFAs
+• Tryptophan-derived metabolites
+• Reduced proteolytic fermentation and
+mucus degradation
+• Reduction of potentially harmful
+metabolites
+• Altered microbiome functionality
+(reduces reliance on host mucus
+glycans and barrier-eroding functions
+• Ecological restructuring
+
+--- page 17 ---
+© 2025 Synbiotic Health, Inc.
+Top 5 Top 5
+Charts created by Synbiotic Health from a curated database of shotgun metagenomic sequences from stool samples of 8,942 people across 28 countries. (Pasolli
+et al., 2017 and continually updated through 2022)
+Katherine Chacon-Vargas
+Tommy Auchtung
+Microbiome-centred treatments: A potential role for bifidobacteria?
+• Bifidobacteria respond strongly to specific dietary
+carbohydrates and produce acetate and lactate which support
+butyrate producers through cross-feeding.
+• This makes them useful ecological “amplifiers” of fibre effects.
+• B. adolescentis is especially relevant because it is adult-
+adapted and often linked to complex carbohydrate metabolism.
+
+--- page 18 ---
+Centenarians Reveal Microbial Longevity Signatures
+Microbial signatures
+A remarkable finding - exceptionally high Bifidobacterium abundance in the world’s
+oldest living person when sampled contrasts with the usual age-related decline.
+Santos-Pujol et al., 2025
+
+--- page 19 ---
+
+
+--- page 20 ---
+
+
+--- page 21 ---
+
+
+--- page 22 ---
+Take-home messages
+• The gut microbiome is a plausible contributor to healthy ageing, but human causality
+remains incompletely established.
+• Diet is one of the strongest modifiable determinants of healthspan, but current human
+diet–ageing evidence does not prove microbiome mediation.
+• Human intervention studies such as NU-AGE and NiMe show that diet can modulate
+ageing-relevant microbiome–host interactions.
+• Dietary change is powerful but difficult to implement and sustain, especially in older or
+institutionalized populations. This highlights the importance of promoting healthy
+dietary patterns early in life.
+• Complementary microbiome-targeted interventions offer promising opportunities to
+improve healthspan-relevant outcomes, but clinical trials are needed to establish their
+benefits and determine whether these are mediated by the microbiome.
+
+--- page 23 ---
+ACKNOWLEDGEMENTS
+Dr. Anissa
+Armet
+Dr. Fuyong Li
+Bioinformatics
+and Statistics
+• Katri Korpela
+• Francesco Asnicar
+• Dr. Nicola Segata
+Machine Learning
+• Dr. Russ Greiner
+• Dr. Dan Knights
+
+Barrier Function
+• Benjamin Seethaler
+• Dr. Stephan Bischoff
+
+Metabolomics
+• Dr. Liang Li
+• Dr. Andrea Haqq
+• Dr. Laurie Mereu
+Nutrition and
+Metabolism
+• Janis Cole
+• Tianna Rusnak
+• Adele Gagnon
+• Susan Goruk
+• Edward Deehan
+• Junhong Liu
+• Rodrigo Quevedo
+• Zhihong Zhang
+• Dr. Catherine Field
+• Dr. Carla Prado
+• Dr. João Mota
+The participants of
+our study, and the
+people of Papua New
+Guinea whose culture
+inspired our work.
+
+--- page 24 ---
+THANK YOU!
+谢谢
+GRACIAS
+VIELEN DANK
+TERIMA KASIH
+ध�वाद
+OBRIGADO
+MERCI
+감사합니다
+GRAZIE
+ISTUTI
+ZIKOMO
+GO RAIBH MAITH AGAT
+תודה
+Bedankt
+tak skal du have
+Erg Bekankt
+Dank je
+Available FREE
+online via the
+University of
+Alberta Library
+https://www.thenimediet.com/
