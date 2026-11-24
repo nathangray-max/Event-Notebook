@@ -21,6 +21,10 @@ const root = path.join(tmp, "team"), store = path.join(tmp, "data");
 fs.mkdirSync(root);
 for (const f of ["index.html", "app.js", "styles.css"]) fs.copyFileSync(path.join(site, f), path.join(root, f));
 fs.cpSync(path.join(repo, "tests/fixture"), store, { recursive: true });
+// tags (data/facets.yaml) on the public session, so the hub's three tag menus are exercised
+fs.writeFileSync(path.join(store, "facets.yaml"), "ingredients:\n- {id: creatine, name: Creatine, match: ['creatine']}\ncategories:\n- {id: sports, name: Sports performance}\ntags:\n- {id: science, name: Science and evidence}\n");
+const sy0 = path.join(store, "events/example-summit-2025/sessions/creatine-beyond-muscle/session.yaml");
+fs.writeFileSync(sy0, fs.readFileSync(sy0, "utf8").replace(/^ingredients:/m, "categories: [sports]\ntags: [science]\ningredients:"));
 // a second, confidential copy of the summarised session: it must never reach the team build
 const src = path.join(store, "events/example-summit-2025/sessions/creatine-beyond-muscle");
 const secret = path.join(store, "events/example-summit-2025/sessions/private-side-conversation");
@@ -58,6 +62,9 @@ for (const width of [1280, 390]) {
   check(!(await page.content()).includes("Private side conversation"), `${width}: the confidential session is not in the hub`);
   check(await page.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth), `${width}: no sideways scroll on the hub`);
   await page.screenshot({ path: path.join(SHOTS, `hub-${width}.png`) });
+  await page.goto(base + "#cat-sports");
+  await page.waitForSelector(".hub-head h1");
+  check((await page.locator(".talk").count()) === 1 && (await page.locator(".rail a[href='#tag-science']").count()) === 1, `${width}: a market category lists its talk and the insight tags show`);
   await page.click(".talk a");
   await page.waitForSelector("#stage img");
   check((await page.locator(".learning").count()) >= 1, `${width}: the talk shows its key learnings`);

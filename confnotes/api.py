@@ -17,6 +17,7 @@ OUT = ROOT / "exports" / "api" / "v1"
 VERSION = 1
 
 SESSION_KEYS = ["id", "event", "title", "date", "start", "end", "format", "track", "speakers", "themes", "ingredients",
+                "ingredient_groups", "categories", "tags",
                 "relevance", "status", "summary_by", "summary_date", "reviewed_by", "reviewed_date", "attended_by", "links",
                 "to_check", "added", "added_by", "has_transcript", "transcript_words", "has_notes", "has_summary"]
 EVENT_KEYS = ["id", "name", "short", "start", "end", "city", "country", "venue", "organiser", "url", "status", "attended_by",

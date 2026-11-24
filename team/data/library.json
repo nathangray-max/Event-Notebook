@@ -1,7 +1,7 @@
 {
  "schema": "confnotes.team/1",
  "built": "2026-11-24",
- "commit": "95ccb11",
+ "commit": "ea76fea",
  "courses": [
   {
    "id": "nutra-healthspan-summit-2026",
@@ -28,8 +28,11 @@
        "role": "Emeritus Chair, British Society for Research on Ageing; Professor, Durham University"
       }
      ],
-     "themes": [
-      "healthy-ageing"
+     "categories": [
+      "healthspan"
+     ],
+     "tags": [
+      "science"
      ],
      "ingredients": [],
      "level": "Background",
@@ -70,19 +73,22 @@
        "role": "Senior Global Insight Manager, Consumer Health"
       }
      ],
-     "themes": [
-      "protein",
-      "healthy-ageing"
+     "categories": [
+      "healthspan",
+      "sports"
+     ],
+     "tags": [
+      "market-data",
+      "supply"
      ],
      "ingredients": [
-      "protein",
+      "protein-general",
+      "collagen",
       "magnesium",
-      "L-threonate (magnesium; Otter heard \"L3 and eight\")",
-      "NAD+",
+      "nad",
       "spermidine",
-      "resveratrol",
-      "postbiotics",
-      "collagen"
+      "probiotics",
+      "polyphenols"
      ],
      "level": "Essential",
      "summary": "Nick Stene, Senior Global Insight Manager for consumer health at Euromonitor International, opened the Healthspan Summit. His question was where the money in healthspan is going and which messages earn a premium.\n\nHe started with the market. Consumer health grows about 5%, only 1.5% without inflation, and this is the first year more is spent on prevention than on treatment. Medicines sold over the counter and sports protein are both under profit pressure, so money, including billions in deal finance, is moving to premium dietary supplements.\n\nWithin healthspan, products that name a specific need or life stage earn a premium, while broad wording appears on cheap and expensive products alike. Ingredients follow a life cycle: proof brings a premium, popularity brings scale, then a price war. Magnesium forms have gone that way and NAD+ is close, with postbiotics leading what queues behind it. IM8, one product meant to replace a shelf of supplements, was his example of a brand winning on proof and trust.\n\nHis conclusion: lead with proof, know where each ingredient is in its life cycle, segment and price for specific groups such as women entering perimenopause, and design proof for shoppers, healthcare professionals and the AI agents that will increasingly shop for them.",
@@ -143,22 +149,23 @@
        "role": "Strategy & Insight Director, ReThink Global"
       }
      ],
-     "themes": [
-      "glp1-weight",
-      "healthy-ageing"
+     "categories": [
+      "healthspan",
+      "glp1"
+     ],
+     "tags": [
+      "market-data"
      ],
      "ingredients": [
-      "vitamins",
+      "protein-general",
       "omega-3",
-      "minerals",
+      "nad",
+      "coq10",
       "probiotics",
-      "antioxidants and polyphenols",
-      "prebiotics and fibre",
-      "amino acids and proteins",
-      "CoQ10",
-      "botanical extracts",
-      "postbiotics",
-      "nicotinamide riboside (Niagen)"
+      "fibre",
+      "polyphenols",
+      "botanicals",
+      "vitamins-minerals"
      ],
      "level": "Essential",
      "summary": "Ewa Hudson, Strategy & Insight Director at ReThink Global, Lumina Intelligence, presented a July 2026 survey of 10,500 consumers in nine countries. Her question: consumers are rewriting the rules of ageing, so is the industry ready to rewrite its own?\n\nHer first point was that the longevity consumer is no longer old. Retired people mostly began thinking seriously about ageing in their 60s; people in full-time work mostly in their 30s. Younger people blame their genes less and put more faith in supplements, and one in four is actively pursuing anti-ageing.\n\nAgeing well, she said, means having the vitality to keep reinventing yourself. Energy, stamina and physical strength is a top-three concern in every age band, and mobility, joint and bone health comes first for women from their mid-thirties. Needs shift with life stage and country, and GLP-1 treatment is moving UK users towards healthier habits.\n\nTrust is the gap: in the UK, not enough proof was the most common hesitation about longevity supplements. Brands such as Niagen, Life Extension and Novos are moving from selling supplements to measuring and managing biological ageing. Her conclusion: applied and communicated science will be the number one trust creator, and the healthspan leaders of the next decade may be platforms that measure, manage and optimise ageing.",
@@ -241,19 +248,21 @@
        "role": "General Manager Europe, Taobao Tmall"
       }
      ],
-     "themes": [
-      "creatine-muscle",
-      "glp1-weight"
+     "categories": [
+      "healthspan",
+      "glp1"
+     ],
+     "tags": [
+      "market-data"
      ],
      "ingredients": [
-      "NAD (Otter heard \"NAD\" and \"NAD Plus\")",
-      "spermidine",
       "creatine",
       "collagen",
-      "urolithin A (Timeline's Mitopure; Otter heard \"urethane\")",
-      "vitamin C",
-      "omega-3 (fish oil)",
-      "\"N and N from Japan\" (as Otter heard it; unclear)"
+      "omega-3",
+      "nad",
+      "urolithin",
+      "spermidine",
+      "vitamins-minerals"
      ],
      "level": "Essential",
      "summary": "Stephen Daniells of NutraIngredients chaired two retailers, a brand and a marketplace: Jessica Pasco of Holland & Barrett, Rachel Kreider of GNC, Federico Luna of Timeline and Jennifer Wang of Alibaba's Taobao Tmall. His question: is longevity a real category, or an umbrella for outcomes consumers already understand?\n\nThey agreed that shoppers pay for benefits they can feel or see. Prevention alone is hard to sell, so proof and a tangible result, such as stronger muscles or better skin, matter most. They also agreed that GLP-1 medicines move people into a proactive mindset, and that creatine and muscle are a way into healthy ageing.\n\nThey differed on the category itself. Luna said longevity is absolutely a category, defined by the hallmarks of ageing and four pillars, and that bundling a generic vitamin C into it does consumers a disservice. Pasco said Holland & Barrett's new in-store longevity category is small but growing fast, driven mainly by NAD, while most proactive shopping is not badged longevity. Kreider said GNC treats healthy ageing as a demand space and links new ingredients to condition-specific products. Wang said nobody in China searches for longevity online: men search for sexual vitality and women for sagging skin, and premium shoppers ask for patents and clinical studies.",
@@ -299,22 +308,17 @@
        "role": "Professor of Ecology, Food, and the Microbiome; founder and co-owner of Synbiotic Health"
       }
      ],
-     "themes": [
+     "categories": [
       "gut-health",
-      "healthy-ageing"
+      "healthspan"
+     ],
+     "tags": [
+      "science"
      ],
      "ingredients": [
-      "bifidobacteria",
-      "Bifidobacterium adolescentis",
-      "Bifidobacterium longum",
-      "Limosilactobacillus reuteri",
-      "dietary fibre",
-      "galactooligosaccharides",
+      "protein-general",
       "probiotics",
-      "synbiotics",
-      "postbiotics",
-      "human milk oligosaccharides (Otter heard \"HFOs\")",
-      "protein (high-protein diets, animal studies)"
+      "fibre"
      ],
      "level": "Recommended",
      "summary": "Professor Jens Walter of APC Microbiome Ireland and University College Cork, founder and co-owner of Synbiotic Health, asked whether nutrition that targets the gut microbiome can extend healthy lifespan.\n\nHe started with animal studies. Germ-free rodents live longer than normal ones, but with calorie restriction the microbiome becomes beneficial, so its effect depends on diet. In humans, large observational studies link healthy eating patterns to healthy ageing; one UK study suggests sustained shifts to a healthier diet can add up to ten years, most if made in your 40s and 50s.\n\nHis own trial in Cell put healthy adults on a high-fibre, non-industrialised diet for three weeks. Bifidobacteria rose, inflammatory bacteria fell, and LDL cholesterol dropped by 16.8%. Older people rarely change their whole diet, so he sees room for alternatives: Bifidobacterium adolescentis, which falls with age and is linked with healthy ageing, paired with fibre.\n\nHe kept his hedges. Causality is clearly established in animals only, current human evidence does not prove the microbiome mediates diet's effects, and clinical trials are needed. His company's trials in older people have not reported. In questions he doubted that postbiotics can change gut ecology.",
@@ -396,33 +400,26 @@
        "role": "panellist, age not given"
       }
      ],
-     "themes": [
-      "protein",
-      "healthy-ageing"
+     "categories": [
+      "healthspan",
+      "sports"
+     ],
+     "tags": [
+      "market-data"
      ],
      "ingredients": [
-      "amla (Indian gooseberry)",
-      "vitamin D",
-      "vitamin C",
-      "multivitamin",
-      "magnesium",
-      "ashwagandha (Otter heard \"Schwandanga\")",
-      "iron",
-      "cod liver oil",
       "creatine",
-      "protein powder",
+      "novel-protein",
+      "protein-general",
       "collagen",
-      "matcha",
-      "black sesame seeds",
-      "raw ginger",
       "omega-3",
-      "adaptogens",
-      "nicotinamide riboside",
+      "magnesium",
+      "nad",
       "spermidine",
-      "resveratrol",
       "probiotics",
-      "postbiotics",
-      "mycoprotein (mycelium)"
+      "polyphenols",
+      "botanicals",
+      "vitamins-minerals"
      ],
      "level": "Essential",
      "summary": "Stephen Daniells of NutraIngredients chaired eight members of the public, who gave their first names and ages: Robert (38), Matt (27), Mike (51), Michelle (64), Rahav (25), Donella (51), Nadine (46) and Kane. He asked what they focus on, where they get their information and how they would take a supplement pitch. The audience asked about the long term, AI and trust.\n\nThey agreed on most things. All try to exercise and eat well; supplement use runs from none to four. Natural ingredients win attention; pills and synthetic ingredients put several of them off. They want proof before they buy: the science, an effective dose and independent research. Holland & Barrett earns trust by being long established, and most distrust influencers. Nobody raised price.\n\nThey differed in their concerns and their sources. The men named heart, colon and mental health; the women named sleep, menopause, hormones and bones. Michelle follows Ayurveda, Donella wants natural and regenerative sourcing, and Kane takes creatine and protein powder for training. Rahav, the youngest, does not mind non-natural products if a brand explains why she needs them today, and wants trials to say whom they did not test. On AI, Mike checks supplements with ChatGPT and Claude and asks for the evidence; Matt scrolls past AI health answers.",
@@ -462,25 +459,20 @@
        "role": "M.D."
       }
      ],
-     "themes": [
-      "creatine-muscle",
-      "healthy-ageing"
+     "categories": [
+      "healthspan"
+     ],
+     "tags": [
+      "science"
      ],
      "ingredients": [
       "creatine",
-      "nicotinamide riboside (NR)",
-      "nicotinamide mononucleotide (NMN)",
-      "nicotinamide (NAM)",
-      "pyridoxine (vitamin B6)",
-      "urolithin A",
-      "N-acetylcysteine",
-      "glycine",
-      "trigonelline",
-      "thymol",
-      "carvacrol",
-      "oleuropein",
-      "polyphenols (resveratrol, quercetin, piceatannol)",
-      "dairy protein micelles"
+      "milk-protein",
+      "nad",
+      "urolithin",
+      "polyphenols",
+      "botanicals",
+      "vitamins-minerals"
      ],
      "level": "Essential",
      "summary": "Philipp Gut of Nestlé Research asked how nutrition can keep mitochondria working as we age.\n\nHe framed healthy-ageing nutrition across four need states, from prevention and peri-menopause to geriatric care, and three toolkits: nutrients, biotics and bioactives.\n\nCalorie restriction is his reference point. In a 14-year study in dogs, a diet with 25% fewer calories gave a median life of 13 years against 11.2. Unpublished human data link a higher BMI to an older biological age, and weight loss, including on meal replacements, to a younger one. Mitochondria are vulnerable to ageing, and calorie restriction works partly through them.\n\nHe then showed four supplements aimed at mitochondria, creatine first, then nicotinamide riboside, urolithin A, and N-acetylcysteine with glycine. Nestlé's own research followed. Nicotinamide and vitamin B6 activated muscle stem cells in a human trial, by no direct mitochondrial route. Two NAD+ precursors raised blood NAD+ within two weeks, partly through the gut microbiome. Thymol, a plant compound, activated mitophagy and slowed functional decline in fast-ageing mice.\n\nHis conclusion was measured. Some benefits of calorie restriction can be mimicked with natural molecules, but more human evidence is needed, and biomarkers of ageing can serve as trial endpoints. He closed on Nestlé's new Healthy Longevity Academy for health professionals and a partnership with Nanyang Technological University.",
@@ -527,13 +519,16 @@
        "role": ""
       }
      ],
-     "themes": [
-      "healthy-ageing",
-      "evidence-claims"
+     "categories": [
+      "healthspan",
+      "brain-sleep"
+     ],
+     "tags": [
+      "science",
+      "regulation"
      ],
      "ingredients": [
-      "NMN (nicotinamide mononucleotide; UTHEVER, EffePharm)",
-      "NAD+"
+      "nad"
      ],
      "level": "Recommended",
      "summary": "Two talks shared this slot, on one EffePharm deck. Professor Colin Selman, a biogerontologist at the University of Glasgow who lists EffePharm beside his university, opened on the science. Mitochondria work less well as animals age, and that decline is one of the hallmarks of ageing. His question was whether it can be slowed.\n\nHis answers came from animals. Turning down nutrient sensing, eating fewer calories and giving NMN, a precursor of NAD+, all preserved mitochondrial function in mice. Long-term NMN reduced frailty, and in a preprint it extended the lifespan of female mice. None of his evidence was in people.\n\nJianJun Yu then presented UTHEVER, EffePharm's branded NMN. A trial published in 2022 is the brand's base. The new work is a small sleep trial of EffePharm's own, not yet published: 34 adults who stay up late or sleep poorly took NMN or placebo for eight weeks. Sleep quality, insomnia and fatigue scores ended lower than on placebo. Each result is labelled as within the NMN group or against placebo, and not as a treatment claim.\n\nThe talk closed on regulation. EFSA published a positive safety opinion in May 2026, and the deck expects EU novel-food approval in November 2026. EffePharm says that opens pharmacy, beauty and mainstream retail across the EU.",
@@ -575,13 +570,15 @@
        "role": ""
       }
      ],
-     "themes": [
-      "glp1-weight",
-      "healthy-ageing"
+     "categories": [
+      "healthspan",
+      "glp1"
+     ],
+     "tags": [
+      "science"
      ],
      "ingredients": [
-      "iron",
-      "vitamin D"
+      "vitamins-minerals"
      ],
      "level": "Essential",
      "summary": "The recording holds only the last four and a half minutes of Amanda Rao's talk on pharmacokinetic testing, then one audience question. Her argument, in the part recorded: absorption studies are run on the wrong people, in the wrong conditions.\n\nA typical pharmacokinetic study is done on a 25-year-old, while longevity products are typically sold to older women on several medications. GLP-1 medicines slow food through the gut, and studies with paracetamol show lower absorption in people taking them, so they belong in absorption studies. Studies should look at responders and at high and low absorbers, and test products as people take them: with food and coffee, with missed doses and other medications, not fasted and as a single dose.\n\nShe sees research moving from single ingredients to whole formulas, and home blood tests making it easy to track blood levels in long-term trials. AI models that predict exposure need good studies to learn from.\n\nAsked about dose, she said a five-dose pharmacokinetic study early on is easier and cheaper than five doses in a long-term trial, and that the industry may need lower doses taken for longer.",
@@ -621,11 +618,15 @@
        "role": "Vice President, Computational Precision Health"
       }
      ],
-     "themes": [
-      "evidence-claims"
+     "categories": [
+      "healthspan"
+     ],
+     "tags": [
+      "ai",
+      "marketing"
      ],
      "ingredients": [
-      "magnesium (citrate, glycinate, bisglycinate, threonate; Otter also heard \"L-3-on-8\")"
+      "magnesium"
      ],
      "level": "Recommended",
      "summary": "Ohad Manor, Vice President of Computational Precision Health at Thorne, argued that supplement shoppers suffer from too much information, not too little. His example was Lena, 47, sleeping badly and wondering about perimenopause, faced with AI answers, social media and influencers.\n\nPersonalisation is the answer, he said, but also a double-edged sword: people differ, and so do ingredients, claims and formulations. Thorne has over 250 products, so even its own shoppers struggle to choose. He sees AI as the engine that can personalise at scale, provided it is data-driven, dynamic and educational rather than a black box.\n\nThorne's answer is Taya, an AI adviser launched in July last year. It works only from Thorne's own products, claims, science and articles, without web access. It asks follow-up questions, narrows its recommendations, adds lifestyle advice and shares articles. By Thorne's count it held over 300,000 conversations in its first year. Manor said it ignores bestsellers and promotions.\n\nHe closed by urging supplement companies to build similar tools. Otherwise people go to ChatGPT, which does not know a company's products as its own medical and ingredient teams do.",
@@ -664,13 +665,15 @@
        "role": "Professor and CSO"
       }
      ],
-     "themes": [
-      "formats-supply",
-      "evidence-claims"
+     "categories": [
+      "healthspan"
+     ],
+     "tags": [
+      "ai",
+      "science"
      ],
      "ingredients": [
-      "avocatin B (from avocado; Otter heard \"avocat and B\"; ALT's product metavo)",
-      "Menofelis (Finzelberg's Siberian rhubarb extract, on ALT's slide)"
+      "botanicals"
      ],
      "level": "Essential",
      "summary": "Paul Spagnuolo, a food science professor at the University of Guelph and co-founder and Chief Scientific Officer of Applied Laboratory Technologies (ALT), declared his conflict of interest and explained why he built an AI tool for ingredient discovery.\n\nFor 20 years his lab has applied pharmaceutical drug discovery to food molecules, taking two products, one from avocado, from discovery to clinical trial and market. That path is long, costly and mostly fails, and the claim at the end covers only the indication studied.\n\nAMBROSIA, an agentic AI platform built with a computational biologist, aims to shorten the discovery and validation stages. As a retroactive test they gave it the avocado molecule. He said it reached in one day the target and use his lab had taken 10 years and millions of dollars to find. ALT's slide claims the stages shrink from years to days and from millions to thousands.\n\nHe said researchers still have to validate in the lab. Finzelberg was the first partner: in less than a week AMBROSIA pointed to how its extract works, which matched Finzelberg's own research. ALT now works business to business, helping companies understand their ingredients and find new markets for them.",
@@ -750,8 +753,12 @@
        "role": "Global Editor-in-Chief (Chair's Closing Remarks)"
       }
      ],
-     "themes": [
-      "evidence-claims"
+     "categories": [
+      "healthspan"
+     ],
+     "tags": [
+      "ai",
+      "science"
      ],
      "ingredients": [],
      "level": "Essential",
@@ -798,16 +805,19 @@
        "role": "Director of Science & Innovation"
       }
      ],
-     "themes": [
-      "healthy-ageing",
-      "evidence-claims"
+     "categories": [
+      "womens-health",
+      "healthspan"
+     ],
+     "tags": [
+      "science",
+      "marketing"
      ],
      "ingredients": [
-      "collagen (True Collagen, bovine; pictured on the title slide)",
-      "creatine (True Creatine+; pictured on the title slide)",
-      "True Nightcap (sleep formula)",
-      "magnesium (True Magnesium+; pictured)",
-      "botanicals (in menopause supplements)"
+      "creatine",
+      "collagen",
+      "magnesium",
+      "botanicals"
      ],
      "level": "Essential",
      "summary": "Dr Jenna Macciochi, Director of Science & Innovation at Ancient + Brave, opened the second day's women's health session. Ancient + Brave is a UK wellness brand selling collagen and supplements for women. Her question was how the industry should innovate for women who live longer, but not healthier, lives. Women spend 25% more of their lives in poor health than men.\n\nShe set out three shifts. First, from normalised to noticed: women have learned to accept being dismissed, and the industry sells to them with \"pink\" reformulations, fixed age bands, borrowed evidence and fear. Second, from reproductive hormones to whole-body transitions: hormones act on the heart, bone, muscle, metabolism, sleep and brain, and perimenopause is the least studied stage. Her example was the heart: twice as many UK women die from coronary heart disease as from breast cancer. Third, from borrowed evidence to evidence built with women, since research funding and trials largely leave women out.\n\nHer answer was Ancient + Brave's own model: placebo-controlled trials of its products with universities, blinded consumer studies, and citizen science with customers. It also funds a PhD on collagen in midlife women. She closed on four principles: dose to the evidence, design for transitions rather than age bands, test the finished product with women, and say only what the evidence supports.",
@@ -849,14 +859,16 @@
        "role": "Chief Portfolio Officer"
       }
      ],
-     "themes": [
-      "healthy-ageing",
-      "formats-supply"
+     "categories": [
+      "beauty",
+      "healthspan"
+     ],
+     "tags": [
+      "science",
+      "formats"
      ],
      "ingredients": [
-      "Centella asiatica extract formulated with phospholipids (CAP; Centextra in the in vitro paper)",
-      "lecithin (sunflower)",
-      "triterpenes (asiaticoside, madecassoside, asiatic acid, madecassic acid)"
+      "botanicals"
      ],
      "level": "Recommended",
      "summary": "Serena Tongiani, Chief Portfolio Officer at Indena, the Italian botanical extracts company, argued that a healthy appearance reflects internal vitality and belongs in the longevity conversation.\n\nShe opened on the market. Nutrition Business Journal data show healthy ageing as the fastest-growing supplement category, and skin and beauty ageing among the top five concerns people address with healthy-ageing products. Botanicals can meet that need, she said, but they raise three problems: poor solubility and absorption, active content that varies with the harvest, and pesticide residues, even in organic material.\n\nIndena's answer is a Centella asiatica extract standardised in triterpenes and formulated with sunflower lecithin on its phospholipid platform, sourced from Madagascar and grown in solar-powered greenhouses in Sardinia. In human skin cells it beat a standard extract on oxidative stress and collagen; the deck itself says this is not proof of absorption.\n\nThe centrepiece was Indena's own placebo-controlled trial in 52 women aged 45 to 60, with the manuscript submitted. After 84 days wrinkle depth at the crow's feet was 16% lower than at the start, and elasticity, firmness, skin thickness, collagen fibre density and the skin's antioxidant power improved. She closed on quality: there is no quality in a finished product without quality in its ingredients.",
@@ -911,25 +923,23 @@
        "role": ""
       }
      ],
-     "themes": [
-      "creatine-muscle",
-      "protein"
+     "categories": [
+      "sports",
+      "healthspan"
+     ],
+     "tags": [
+      "market-data",
+      "supply"
      ],
      "ingredients": [
-      "whey protein",
-      "clear whey",
-      "whey protein isolate",
-      "whey protein concentrate",
       "creatine",
-      "CreaWin",
+      "whey",
+      "plant-protein",
+      "novel-protein",
+      "milk-protein",
       "collagen",
       "magnesium",
-      "electrolytes",
-      "sodium",
-      "plant protein",
-      "caseinate",
-      "yeast protein",
-      "mycelium protein"
+      "electrolytes"
      ],
      "level": "Essential",
      "summary": "Nick Morgan of Nutrition Integrated opened the day with a state of the market. Sports nutrition is obviously going mainstream, he said, but is it growing beyond the motivations that defined it, is it winning consumers while losing its identity, and is the market growing or are its boundaries just moving?\n\nHe answered with three rules. Growth does not guarantee value: whey protein prices have never been higher, and brands are going through a structural reset, cutting promotions, shrinking packs, reformulating, launching whey hybrids and trying to sell more higher-margin lines such as creatine and electrolytes. Relevance does not guarantee ownership: creatine is now for everyone, in gummies, chocolate and products for women, and hydration has no agreed formula and new leaders. Opportunity does not guarantee advantage: his company tracks 16,412 product listings in eight categories, and only a few products will succeed, by pulling on format, brand, dose, science and branded ingredients.\n\nHis conclusion was that the principles of sports nutrition have gone mainstream, not sports nutrition itself. Brands should think beyond the category, stay true to the industry's DNA, choose where to compete and know their right to win. Everyone has a seat at the table, but not everyone will win.",
@@ -990,21 +1000,17 @@
        "role": "Owner (as introduced; formerly Arla Foods Ingredients)"
       }
      ],
-     "themes": [
-      "protein",
-      "glp1-weight"
+     "categories": [
+      "sports"
+     ],
+     "tags": [
+      "supply",
+      "market-data"
      ],
      "ingredients": [
-      "whey protein",
-      "whey protein isolate",
-      "whey protein concentrate",
-      "clear whey",
-      "hydrolysed whey protein",
-      "milk protein concentrate",
-      "casein",
-      "plant protein",
-      "sweet whey powder",
-      "lactose"
+      "whey",
+      "plant-protein",
+      "milk-protein"
      ],
      "level": "Essential",
      "summary": "Alan Johnstone, who has spent most of the last decades selling whey protein, most recently at Arla Foods Ingredients, and now runs Nutrilution, explained why whey prices hit records this year and what buyers should do about it.\n\nHis answer starts with milk. Whey protein comes from cheese, and cheese production grows only about one and a half percent a year, while demand for whey protein grows by 10% or more: sports nutrition, GLP-1 users, protein in everyday food, and clear whey. Filtration plants are expensive and take years to build, and producers have put the whey they have into isolate, so concentrate was short when brands had just switched to it.\n\nPrices then swing further than supply and demand alone would explain, because buyers stock up when prices rise and wait when they fall. That is happening now: concentrate is falling fast, isolate is correcting, and the proteins brands moved into are rising.\n\nHis advice was plain. Do not try to time the bottom. Keep buying steadily if today's price lets you make money. And accept that whey will stay expensive, because the supply limit is structural.",
@@ -1087,14 +1093,18 @@
        "role": ""
       }
      ],
-     "themes": [
-      "evidence-claims"
+     "categories": [
+      "sports"
+     ],
+     "tags": [
+      "marketing",
+      "regulation",
+      "ai"
      ],
      "ingredients": [
       "creatine",
-      "CreaWin",
-      "magnesium",
       "collagen",
+      "magnesium",
       "caffeine"
      ],
      "level": "Recommended",
@@ -1135,21 +1145,20 @@
        "role": "Registered Nutritionist (BSc, PhD, RNutr)"
       }
      ],
-     "themes": [
-      "creatine-muscle",
-      "womens-health"
+     "categories": [
+      "womens-health",
+      "sports"
+     ],
+     "tags": [
+      "science"
      ],
      "ingredients": [
       "creatine",
-      "protein",
+      "protein-general",
+      "collagen",
+      "botanicals",
       "carbohydrate",
-      "collagen (marine collagen, on packs shown)",
-      "myo-inositol",
-      "DIM",
-      "vitex",
-      "ashwagandha",
-      "vitamin D",
-      "calcium"
+      "vitamins-minerals"
      ],
      "level": "Essential",
      "summary": "Dr Emily Jevons, a registered nutritionist who specialises in sports nutrition, nutrition education and disordered eating, asked how much of women's sports nutrition is science and how much is myth.\n\nShe began with the evidence base. Only 6% of sport and exercise science publications study women alone. Even when women are included, their hormonal status is rarely verified properly. Women are not one population either: adolescents, contraceptive users, pregnant and postpartum women and women in menopause all differ, and the last groups are almost absent from research.\n\nOn the menstrual cycle she was clear. Most studies find no effect of cycle phase on performance; effects are small and individual variation is large. Popular advice to train hard early in the cycle and switch to pilates later is not backed by the evidence. Carbohydrate needs follow the training session, not the phase. Energy availability comes first; in theory, protein needs may rise in the luteal phase.\n\nShe then turned to the women's health aisle, where demand is outpacing evidence, and asked whether it is pink washing or progress. Her answer for industry: use ingredients with evidence for the outcome claimed, at trial doses, fully disclosed and batch-tested; claim honestly; design with women; and fund female-specific trials, publishing null results too.",
@@ -1196,15 +1205,15 @@
        "role": "Chair (Q&A)"
       }
      ],
-     "themes": [
-      "womens-health",
-      "sports-performance"
+     "categories": [
+      "sports",
+      "womens-health"
+     ],
+     "tags": [
+      "science"
      ],
      "ingredients": [
-      "carbohydrate",
-      "maltodextrin",
-      "fructose",
-      "glucose"
+      "carbohydrate"
      ],
      "level": "Background",
      "summary": "James Morton of Science in Sport asked whether women need to fuel differently from men when they run. His answer: the barrier is knowledge, not biology.\n\nHe started with glycogen. In a 2021 study of recreational runners, women began with less muscle glycogen than men but finished equally depleted. The gap came from dosing per kilogram of body weight: given the same absolute carbohydrate, women store about the same.\n\nHe then showed an England Athletics study of elite runners fed 60, 90 or 120 g of carbohydrate an hour over two hours near race pace. At 120 g the switch from carbohydrate to fat never came, in men or in women. Both sexes oxidised the extra carbohydrate equally well, and running economy improved by two to 3%. Women reported more gut symptoms, so tolerance may differ slightly, but oxidation does not.\n\nFrom this he drew a framework that sets carbohydrate by intensity and duration, up to 120 g an hour for a marathon, and described SiS's partnership with Nike's After Dark Tour as an education programme rather than a product launch. His conclusion: female runners do not know the numbers and have lived with under-fuelling. Treat the female athlete as an athlete first, and fuel for the work, not the menstrual cycle.",
@@ -1265,21 +1274,19 @@
        "role": "Technical sport manager (as she introduced herself)"
       }
      ],
-     "themes": [
-      "creatine-muscle",
-      "protein"
+     "categories": [
+      "sports",
+      "healthspan"
+     ],
+     "tags": [
+      "science",
+      "supply"
      ],
      "ingredients": [
-      "whey protein",
-      "whey protein concentrate",
-      "collagen peptides",
-      "Peptan",
-      "hydroxyproline",
-      "glycine",
-      "proline",
-      "vitamin C",
-      "whey protein isolate",
-      "Nextida GC"
+      "whey",
+      "collagen",
+      "peptides",
+      "vitamins-minerals"
      ],
      "level": "Essential",
      "summary": "Tess Plaquet, technical sport manager at Rousselot, argued that brands should stop asking when whey prices will fall and work around them by blending whey with collagen.\n\nShe began with the market. Whey launches keep growing, and she said the forces behind whey prices, from GLP-1 users and China to whey being a cheese by-product and rising energy and labour costs, mean high prices are here to stay. Brands can raise prices, shrink packs or reformulate; she called smarter formulation with protein blends the most elegant answer. Launches combining whey and collagen are growing at 17.44% a year, and collagen comes from four animal sources with far steadier prices.\n\nShe then made the case that the two proteins complement rather than compete: whey builds and repairs muscle, while Rousselot's Peptan collagen peptides support tendons, joints and bone. Her evidence was Rousselot's own studies. The central one gave 22 men either 45 g of whey or 25 g of whey plus 20 g of Peptan for three weeks of training, and recovery and performance were similar in both groups. Studies of Peptan on its own reported less muscle soreness, fewer blood endotoxins after a run, better knee comfort and better sleep.\n\nThe recording ends as she invites the room to Rousselot's roundtables.",
@@ -1326,21 +1333,23 @@
        "role": "Head of product (as introduced; Otter heard the name as \"Liam Bones\")"
       }
      ],
-     "themes": [
-      "creatine-muscle",
-      "sports-performance"
+     "categories": [
+      "sports"
+     ],
+     "tags": [
+      "marketing",
+      "formats"
      ],
      "ingredients": [
       "creatine",
-      "CreaWin",
-      "protein",
+      "protein-general",
+      "omega-3",
+      "magnesium",
+      "probiotics",
+      "curcumin",
       "carbohydrate",
       "electrolytes",
-      "multivitamin",
-      "omega",
-      "magnesium",
-      "curcumin",
-      "probiotics"
+      "vitamins-minerals"
      ],
      "level": "Essential",
      "summary": "Olivia Haslam of NutraIngredients talked with Ollie Marchon, founder of the UK brand Marchon, and Liam Holmes, its head of product, about what the rise of the everyday athlete means for sports nutrition.\n\nOllie described three kinds of consumer: those inspired by training, who want habits and to feel better; those driven by it, who measure progress and time their nutrients; and those who live by it, planning the whole day around training. Most people on Marchon's training app train at 6 in the morning, which changes what they need. Liam argued for situational formats, such as carbohydrate in a pre-workout for people who cannot eat first.\n\nOllie said awareness of supplements is high but understanding lags, so education, honest positioning and effective doses matter more than hype. Creatine shows how this works: decades of research and podcast voices did the selling, and it built the daily supplement habit. Liam sees creatine as here to stay and moving into cognition; for ingredient suppliers, the challenge is stability in water, gummies and other formats. Claims are a regulatory nightmare, so Marchon adds ingredients to products already in people's routines.\n\nAsked where the category goes in five years, Liam answered: formats that improve compliance.",
@@ -1380,24 +1389,20 @@
        "role": "Senior Scientist"
       }
      ],
-     "themes": [
-      "evidence-claims"
+     "categories": [
+      "sports"
+     ],
+     "tags": [
+      "science"
      ],
      "ingredients": [
-      "polyphenols",
-      "anthocyanins",
-      "Montmorency cherry",
-      "New Zealand blackcurrant",
-      "pomegranate",
-      "turmeric (curcuminoids)",
-      "cocoa flavanols",
-      "blueberry",
-      "quercetin",
-      "dietary nitrate (beetroot)",
-      "sulforaphane (Nomio, broccoli sprout extract)",
-      "protein",
       "creatine",
-      "caffeine"
+      "protein-general",
+      "polyphenols",
+      "curcumin",
+      "botanicals",
+      "caffeine",
+      "nitrate"
      ],
      "level": "Recommended",
      "summary": "Mark Evans, a senior scientist at Holland & Barrett, asked whether polyphenols earn their place in sports nutrition. He began with a quiz. Protein, creatine and caffeine each have a known dose and timing. Polyphenols have general guidance too, but it leaves a question: milligrams of what?\n\nPolyphenols are several thousand compounds, not one thing. The same figure on a label can mean a whole extract, a subclass or a single compound. They work less as antioxidants than as signals. Of the five ways they act, only raising blood flow through nitric oxide shows up consistently in people. Of the four best-studied sources, blackcurrant has the strongest evidence for performance and cherry for recovery.\n\nHis lesson came from outside polyphenols. Beetroot nitrate and a broccoli sprout extract built awareness by teaching a simple rule of use, not a mechanism. Brands are starting to name anthocyanins, and he asked whether consumers will learn the word.\n\nHis answer: for some polyphenols, yes. Cherry at over 1,000 mg a day for recovery and blackcurrant at about 300 mg before exercise are reasonably settled. The industry now has to standardise and declare what is in the product, fund better trials and communicate dose and timing.",
@@ -1439,16 +1444,17 @@
        "role": ""
       }
      ],
-     "themes": [
-      "womens-health",
-      "sports-performance"
+     "categories": [
+      "sports",
+      "womens-health"
+     ],
+     "tags": [
+      "science"
      ],
      "ingredients": [
+      "protein-general",
       "carbohydrate",
-      "glucose",
-      "fructose",
-      "protein",
-      "iron"
+      "vitamins-minerals"
      ],
      "level": "Recommended",
      "summary": "Dr Sharon Madigan (PhD, RD, FFSEM) started from the slide everyone knows: 1 to 1.2 g of carbohydrate per kg per hour for rapid recovery in the first four hours after exercise. That is correct, she said, but nowhere near the whole story.\n\nHer case is that carbohydrate is a signal, not just fuel. When it is available, the body treats it as safe to invest in bone, iron handling, hormones, immunity and sleep. When it is short, those are switched off to protect muscle output. A glycogen debt shows up as heavy legs the next day. The other costs build silently for weeks, until they appear as a bone stress injury, low ferritin or menstrual dysfunction.\n\nBone, the forgotten tissue, responds to every session in the same window used to fuel muscle. Carbohydrate during running blunts a marker of bone breakdown, and enough energy overall can still leave bone at risk if carbohydrate is low. Back-loading food into the evening, training low and cutting weight carry the same hidden costs, and low carbohydrate also amplifies the hormone that blocks iron absorption after exercise.\n\nShe closed on the limits. Most bone-marker studies are in men and measure hours or weeks, not fractures, and the dose and timing that protect bone are not yet defined.",
@@ -1489,23 +1495,22 @@
        "role": "Commercial Lead"
       }
      ],
-     "themes": [
-      "glp1-weight",
-      "sports-performance"
+     "categories": [
+      "glp1",
+      "sports"
+     ],
+     "tags": [
+      "market-data"
      ],
      "ingredients": [
-      "protein",
       "creatine",
-      "CreaWin",
-      "vitamin D",
-      "multivitamins",
-      "fibre",
-      "probiotics",
+      "protein-general",
       "omega-3",
-      "prebiotics",
-      "HMB",
-      "postbiotics",
-      "berberine"
+      "hmb",
+      "probiotics",
+      "fibre",
+      "botanicals",
+      "vitamins-minerals"
      ],
      "level": "Essential",
      "summary": "Morgan Griffiths, Commercial Lead at Lumina Intelligence, argued that GLP-1 drugs, bad news for many food and drink brands, are an opportunity for active nutrition.\n\nHe started with scale. In the UK, almost 27% of people, about 18.4 million, are taking, have taken or are considering a GLP-1. A summer survey found similar use in Italy, France, Germany and Spain.\n\nHe then described the users. They are not the obesity population the drugs were designed for: most are women, Gen X or Millennial and better off. They are already health-minded and happy to pay more for quality. Most European users spend the same or more on food and drink, and most have increased their supplement use. Proteins lead their supplement list; creatine ranked higher than he expected.\n\nHe saw three openings: side effects, access to nutrition (protein, nutrients, muscle loss) and lapsed users. Users are confident of keeping the weight off, but a BMJ study he showed found weight returns almost four times faster after the drugs than after diet and exercise. Huel, Cambridge Nutrition's PortionIQ and Boots are already moving, and Lumina forecasts that UK use will keep growing to 2031.",
@@ -1547,25 +1552,22 @@
        "role": "Director and Founder; Professor of Translational Physiology"
       }
      ],
-     "themes": [
-      "creatine-muscle",
-      "glp1-weight"
+     "categories": [
+      "glp1"
+     ],
+     "tags": [
+      "science"
      ],
      "ingredients": [
-      "protein",
-      "whey protein isolate",
-      "potato protein",
-      "rice protein",
-      "OEA (TRPTI)",
-      "berberine",
-      "cinnamon",
-      "bitter compounds",
-      "quercetin",
-      "Reducose (mulberry leaf extract, Phynova)",
-      "curcumin",
-      "fibre",
+      "whey",
+      "plant-protein",
+      "protein-general",
       "probiotics",
-      "multivitamins"
+      "fibre",
+      "polyphenols",
+      "curcumin",
+      "botanicals",
+      "vitamins-minerals"
      ],
      "level": "Essential",
      "summary": "Professor Gulrez Zariwala, founder and director of the Centre for Nutraceuticals at the University of Westminster, asked which supplements aimed at GLP-1 and appetite have science behind them.\n\nHe began with the biology. Gut hormones such as GLP-1 and PYY signal fullness, and ghrelin signals hunger. Earlier obesity drugs that acted on the brain carried psychiatric risks, which turned the field to gut hormones. GLP-1 drugs bring dramatic weight loss, but about 40% of the weight lost is lean body mass.\n\nThe boom in GLP-1 supplements, he said, has brought lawsuits, regulatory clampdowns and lower consumer confidence. He then went through the candidates. Proteins have an undisputed effect on GLP-1 release. Berberine, cinnamon and bitter compounds have plausible mechanisms but modest effects and few human studies. His centre's own trials, both still unpublished, found that potato protein raised GLP-1 comparably to whey protein isolate, and that Phynova's mulberry leaf extract, Reducose, raised post-meal GLP-1 by 140% and cut appetite by 23% against placebo.\n\nHis conclusion: supplements may fill a gap for current or lapsed users, but none can match a drug, so expectations need managing. Products with strong scientific substantiation stand out, and GLP-1 use creates demand for micronutrients, protein, fibre and probiotics.",
@@ -1617,25 +1619,26 @@
        "role": "Performance nutritionist (as introduced)"
       }
      ],
-     "themes": [
-      "creatine-muscle",
-      "protein"
+     "categories": [
+      "glp1",
+      "sports"
+     ],
+     "tags": [
+      "market-data"
      ],
      "ingredients": [
-      "protein",
-      "whey protein",
-      "milk proteins",
-      "clear protein",
-      "plant protein",
-      "collagen",
-      "fibre",
-      "probiotics",
-      "multivitamins",
       "creatine",
-      "CreaWin",
-      "HMB",
-      "berberine",
-      "magnesium"
+      "whey",
+      "plant-protein",
+      "milk-protein",
+      "protein-general",
+      "collagen",
+      "magnesium",
+      "hmb",
+      "probiotics",
+      "fibre",
+      "botanicals",
+      "vitamins-minerals"
      ],
      "level": "Essential",
      "summary": "The day's last panel asked what GLP-1 means for sports and active nutrition beyond the boom. It brought together Nick Morgan of Nutrition Integrated, Brett Hamer, product director at Myprotein, and Ed Tooley, a performance nutritionist.\n\nThey agreed that GLP-1 is speeding up trends that already existed rather than creating new ones, and that few brands put GLP-1 on pack: Myprotein sells need-state bundles, and retailer bays such as Boots' let brands be present without the wording. Brett said clear protein, and clear protein with collagen, is selling very well to this consumer, while plant protein has not taken off; Nick put that down to taste. Nick called creatine almost a tier one ingredient, now bought by women, older consumers and people managing their weight.\n\nThey differed in where they looked. Ed's concern was nutrition: people who simply eat less risk missing protein, carbohydrate and micronutrients, so he puts protein first. Brett and Nick looked at products: both would launch protein with fibre, and Nick named low-volume clear protein with fibre and products for people coming off the drugs as the gaps. For the next disruptor, Brett named people coming off the drugs, Ed education between on and off, and Nick AI.\n\nThe recording ends with the host's close of the day.",
@@ -1688,13 +1691,15 @@
        "role": ""
       }
      ],
-     "themes": [
-      "creatine-muscle",
-      "healthy-ageing"
+     "categories": [
+      "healthspan"
+     ],
+     "tags": [
+      "science",
+      "supply"
      ],
      "ingredients": [
-      "krill oil (Superba Krill, Superba2, Superba Boost)",
-      "omega-3 (EPA, DHA)"
+      "omega-3"
      ],
      "level": "Recommended",
      "summary": "Aker BioMarine pitched its Superba Krill oil to Remedy's contract manufacturers as an ingredient for healthy ageing. Its frame is \"Peakspan\": not how long we live, or how long we avoid disease, but how long we stay close to our personal best. Consumers put it in plainer words: maintaining mobility, keeping physically active and keeping an active mind.\n\nThe deck opens on the market. Europe's longevity supplement market is put at $0.50 billion in 2025, rising to $1.23 billion by 2035. It then names seven areas that come under pressure with age, from muscle and joints to heart and skin, and gives trial evidence for krill oil in five of them.\n\nThe muscle evidence leads: in 102 adults over 65 taking 4 g a day for six months, strength rose against placebo. A weight-loss trial showed more of the weight lost coming from fat and less from muscle. Knee pain, triglycerides and skin follow.\n\nIt closes with three product concepts built on two of its ingredients, labelled as positioning directions, not approved claims, and a projection that fish oil supply falls short of demand from 2027.",
@@ -1735,22 +1740,19 @@
        "role": "CEO"
       }
      ],
-     "themes": [
-      "formats-supply",
-      "evidence-claims"
+     "categories": [],
+     "tags": [
+      "ai",
+      "formats"
      ],
      "ingredients": [
-      "phospholipids",
       "omega-3",
-      "choline",
-      "astaxanthin",
-      "CoQ10",
-      "vitamins",
-      "hydroxytyrosol (spelt \"hydroxythyrosol\" on the slide)",
+      "coq10",
       "probiotics",
-      "postbiotics",
-      "zinc",
-      "iron"
+      "polyphenols",
+      "astaxanthin",
+      "choline",
+      "vitamins-minerals"
      ],
      "level": "Recommended",
      "summary": "Martina Pavlová, CEO of the Czech contract manufacturer FAVEA, asked how a nutraceutical business keeps its credibility and its clients' trust while AI speeds everything up. By expertise she means understanding, not the amount of information a company holds.\n\nShe opened with a test: which of two real enquiries to Favea, a year apart, was written with AI? Then she introduced Favea: two certified sites in the Czech Republic, 210 products in active manufacture, its own Combicaps capsule technology, and ready-to-go products from a heart-health capsule to chewable and sparkling probiotic tablets.\n\nBack to the test. The human enquiry, from September 2025, spotted that zinc and iron in the sender's own formula could not be combined, admitted she had not known, and asked for a meeting. The AI-written one, from 2026, asked for a catalogue, prices at five pack sizes, minimum orders, samples, lead times and certificates, all at once. Her verdict: perfect form is not understanding.\n\nHer answer: critical thinking filters the flood of information down to its essence. Without it, speed rises and understanding falls. Understanding starts with wanting to understand, then questioning the assumption and adapting; inertia is the enemy. At Favea that means validating enquiries, verifying sources and quality through expertise. Her tip for Monday: when a perfect email arrives, pick up the phone.",
@@ -1792,18 +1794,21 @@
        "role": ""
       }
      ],
-     "themes": [
-      "creatine-muscle",
-      "sports-performance"
+     "categories": [
+      "sports",
+      "healthspan"
+     ],
+     "tags": [
+      "market-data",
+      "formats"
      ],
      "ingredients": [
-      "CreaWin",
-      "creatine monohydrate",
-      "CogniWin (citicoline)",
-      "HMB",
-      "electrolytes",
+      "creatine",
+      "collagen",
       "magnesium",
-      "collagen"
+      "hmb",
+      "choline",
+      "electrolytes"
      ],
      "level": "Essential",
      "summary": "Nathan Gray of Vita Actives told Remedy's contract manufacturers who is now buying creatine and what they want. Creatine launches grew 61.9% in the first eight months of 2026 against the same months of 2025, three times the average ingredient's growth over 2022 to 2025.\n\nHis four lessons came from launch data. First, creatine's benefits are moving beyond performance: hydration, brain and mood, energy and women-specific claims are rising, and launches in the supplements aisle outside sports nutrition are growing fastest. Second, combinations now grow faster than creatine on its own, with electrolytes, HMB, collagen, magnesium and citicoline as partners. Third, consumers want flavours and formats they enjoy: two in three launches were flavoured by 2025, and bars and chewables grow fastest. Fourth, new buyers expect proof of quality, and independent testing found that 18 of 88 creatine gummies failed their label claim.\n\nPrice follows the move. A kilogram of creatine sells at a retail median of €73 as plain powder and €275 in formats such as gummies.\n\nHe closed on CreaWin: a specification inside EFSA's residue limits, a certificate with every batch, stock in Europe, and concepts in fast-melt sticks, chewable tablets and fruit chews. His message: plain creatine is a commodity, and benefits, combinations, flavour and format are where the growth is.",
@@ -1845,21 +1850,21 @@
        "role": ""
       }
      ],
-     "themes": [
-      "creatine-muscle",
-      "healthy-ageing"
+     "categories": [
+      "healthspan"
+     ],
+     "tags": [
+      "market-data",
+      "marketing"
      ],
      "ingredients": [
       "creatine",
-      "resveratrol",
-      "coenzyme Q10",
-      "ubiquinol",
+      "nad",
       "spermidine",
-      "NAD",
+      "coq10",
+      "polyphenols",
       "curcumin",
-      "nicotinamide riboside",
-      "NMN",
-      "citicoline"
+      "choline"
      ],
      "level": "Essential",
      "summary": "Nick Morgan of Nutrition Integrated talked through how longevity is sold, from his own database of products. The recording catches only his last six minutes; his slides give the whole talk in five parts.\n\nHealthy ageing, healthspan and longevity are different things: function and wellbeing, years in good health, and years of life. Brands either try to alter the biology of ageing, optimise how people feel as they age, or fit longevity to one group such as ageing athletes or women through menopause. On the page they sell energy and vitality, not science: the hallmarks of ageing appear on only one product page in eleven.\n\nBrands sell a system, not a product: Cellaro's three products for morning, evening and a monthly reset. And longevity is one of the most expensive categories per serving. Creatine sells at a median of €0.47 a serving in capsules and tablets, while MitoQ's longevity creatine sells at €1.60, more than three times as much.\n\nHe closed on where the category is going: new formats, longevity claims moving into hydration, and longevity told as a performance story through sports nutrition.",
@@ -1905,25 +1910,21 @@
        "role": "Chief Scientific Officer"
       }
      ],
-     "themes": [
-      "creatine-muscle",
-      "formats-supply"
+     "categories": [
+      "sports",
+      "healthspan"
+     ],
+     "tags": [
+      "science",
+      "ai"
      ],
      "ingredients": [
-      "PeptiStrong",
-      "fava bean protein hydrolysate",
       "creatine",
-      "leucine",
-      "HMB",
-      "milk protein concentrate",
-      "casein",
-      "BCAAs",
-      "PeptiSleep",
-      "melatonin",
-      "Koncentra",
-      "PeptiYouth",
-      "PeptiProtect",
-      "PeptiPump"
+      "plant-protein",
+      "milk-protein",
+      "protein-general",
+      "hmb",
+      "peptides"
      ],
      "level": "Essential",
      "summary": "Miguel, business developer, and Brian Keogh, chief scientific officer, presented Nuritas, a Dublin R&D company that uses its own AI platform to find bioactive plant peptides. The AI starts from a mechanism of action or a consumer need and returns candidate peptides for lab and animal testing.\n\nKeogh then made the case for PeptiStrong, a fava bean (Vicia faba) protein hydrolysate. The speaker says its peptides build muscle through mTOR, protect it from breakdown and calm inflammation through NF-κB. In mice it cut the muscle lost when the hind legs were unloaded by 54.3%. Three published human trials followed. After immobilisation, strength came back to baseline against a milk protein control. After a damaging exercise bout, strength recovered faster and fatigue was lower than with placebo. In untrained men and women, strength rose faster, with more bone mineral content as an unexpected finding.\n\nHis conclusion was that PeptiStrong boosts protein rather than competing with it. His slides add cell data with leucine and HMB, and ask whether it can augment creatine.\n\nMiguel closed on the commercial side. EU on-pack claims rest on protein claims, with brand callouts beside them. PeptiSleep, a sleep peptide, is next. Vivatis Pharma and Tantus are partners, with a prototype PeptiStrong tablet shown.",
@@ -1965,16 +1966,17 @@
        "role": ""
       }
      ],
-     "themes": [
-      "healthy-ageing",
-      "formats-supply"
+     "categories": [
+      "healthspan",
+      "sports"
+     ],
+     "tags": [
+      "science",
+      "formats"
      ],
      "ingredients": [
-      "Kaneka Ubiquinol",
-      "ubiquinol",
-      "coenzyme Q10",
-      "vitamin C",
-      "vitamin E"
+      "coq10",
+      "vitamins-minerals"
      ],
      "level": "Background",
      "summary": "Oliver Romanow of Kaneka presented Kaneka Ubiquinol, the reduced and active form of coenzyme Q10, which Kaneka makes in Japan by yeast fermentation. His question was why a brand should use ubiquinol rather than ordinary Q10.\n\nHis argument began with conversion. The enzymes that turn Q10 into ubiquinol decline with age, he said, so giving the active form directly gets round that. He showed blood levels after 28 days in which 90 mg of ubiquinol matched 300 mg of Q10, while higher Q10 doses added little. He then listed the benefits Kaneka claims, from heart and energy to fertility, cognition and menopause, which the deck says rest on more than 100 studies.\n\nHe closed on Kaneka as a supplier: 100 mg a day for most people and 300 mg to restore or boost energy and for fertility; a pure grade for softgels and gummies and a stabilised grade for tablets, bars, shots, sticks and gels; a long list of certifications; and a Belgian warehouse for short lead times in Europe.\n\nThe deck leans on sport more than the talk did. It sets out a loading protocol before marathons and triathlons, counts 16 energy and sports studies, and shows a partnership with Borussia Dortmund's women's team.",
@@ -2021,21 +2023,20 @@
        "role": "Senior manager nutrition science"
       }
      ],
-     "themes": [
-      "creatine-muscle",
-      "formats-supply"
+     "categories": [
+      "sports"
+     ],
+     "tags": [
+      "formats"
      ],
      "ingredients": [
-      "NovaSOL Curcumin",
-      "NovaSOL Astaxanthin",
-      "NovaSOL Q",
-      "Jotrol micellar resveratrol",
-      "OptiMSM",
-      "MSM (methylsulfonylmethane)",
-      "chelated minerals",
+      "coq10",
+      "polyphenols",
+      "curcumin",
+      "astaxanthin",
       "choline",
-      "vitamin K2",
-      "methylfolate"
+      "vitamins-minerals",
+      "msm"
      ],
      "level": "Recommended",
      "summary": "Two short talks in one recording.\n\nTorsten Seck, director of sales and marketing at Aquanova, asked how delivery technology can turn a hard-to-use, fat-soluble ingredient into a market-ready, differentiated product. His answer was NovaSOL, a micellar technology. The native ingredient sits in a tiny micelle with a fat-loving core and a water-loving shell, so it dissolves in water and passes stomach acid. Processing is physical, with no chemical change, and each formula is unique to its ingredient. The result is a liquid concentrate ready for capsules, shots and combinations. His examples were Favea's cap-in-cap product, NeuroFlex PD, and the US longevity brand Nugevia, which built three products on the same micellar resveratrol. His conclusion: NovaSOL is a bridge between delivery science and differentiated finished products.\n\nLena Leder, senior manager nutrition science at Balchem, then began on OptiMSM. She set it in Balchem's 33 active research projects, then described MSM as a source of sulfur and methyl groups which, she said, has shown effects on joint and skin health and exercise recovery. The recording ends about three minutes into her talk, before the data.",
@@ -2076,17 +2077,20 @@
        "role": ""
       }
      ],
-     "themes": [
-      "creatine-muscle",
-      "healthy-ageing"
+     "categories": [
+      "healthspan",
+      "sports"
+     ],
+     "tags": [
+      "science",
+      "supply"
      ],
      "ingredients": [
-      "RhoSera",
-      "Rhodiola rosea",
-      "protein",
-      "spermidine",
+      "protein-general",
+      "rhodiola",
       "magnesium",
-      "B vitamins"
+      "spermidine",
+      "vitamins-minerals"
      ],
      "level": "Essential",
      "summary": "Dr Ralf Spreemann of MartinBauer Nutraceuticals, a new unit of the family-owned Nature Network, introduced RhoSera, an extract of cultivated Rhodiola rosea for the ageing muscle. His question was what goes \"beyond protein\" for older people.\n\nHis case started with anabolic resistance. Ageing muscle responds less to protein and training, and he said hardly any ingredient addresses that gap. Wild rhodiola is overharvested, adulterated and now needs trade permits. So the group has spent decades breeding its own elite lines, grown in Germany, Denmark and the Netherlands. The cultivated root carries several times more of some compounds than wild material. In human muscle cells it switched on two stem-cell markers that wild material did not.\n\nThe human trial put 140 inactive adults aged 55 to 75 on training and protein, with RhoSera or placebo on top. Muscle soreness fell by about half on RhoSera, far more than on placebo. Strength, balance and fatigue also improved. He called them the best results of his career with a botanical. The trial is not yet published.\n\nHe closed with a typical dose of 250 to 350 mg and a regulatory note. Rhodiola has no authorised EFSA claim, so brands pair it with magnesium or B vitamins for fatigue claims.",
@@ -2128,17 +2132,19 @@
        "role": ""
       }
      ],
-     "themes": [
-      "creatine-muscle",
-      "formats-supply"
+     "categories": [
+      "healthspan",
+      "womens-health"
+     ],
+     "tags": [
+      "science",
+      "formats"
      ],
      "ingredients": [
       "creatine",
       "collagen",
-      "MicrobiomeX (citrus flavanol with a prebiotic effect)",
-      "Brainberry (aronia berry extract)",
-      "WATTS'UP (citrus extract; heard as WhatsApp)",
-      "Bonolive (olive leaf extract; heard as Bun Olive)"
+      "fibre",
+      "polyphenols"
      ],
      "level": "Essential",
      "summary": "Thomas Beadnall, presenting for Solabia Nutrition, opened with the brief every brand writes and every CDMO receives: clinically proven, clean label, cost-effective, innovative, ready in Q3, two-year shelf life. He called it impossible and replaced it with three questions: will they remember it, can you make it, can you prove it.\n\nOn memory, the name decides. MicrobiomeX, a citrus flavanol with a prebiotic effect, went nowhere as a \"flavobiotic\" and was repositioned as the co-pilot for your probiotic. An aronia berry extract named Brainberry is now Solabia's second biggest and fastest growing product.\n\nOn making it, briefs now ask for several grams of creatine and collagen plus botanicals in one soluble format. Creatine adds its own problem: brands want it in gummies, but heat turns it into creatinine. Solabia and the Polish CDMO Tantus avoided this with a cold-pressed tablet of creatine and Solabia's citrus extract WATTS'UP.\n\nOn proof, he said \"science-backed\" means nothing on its own. What counts is the dose, the population, the endpoints and the study design. Solabia has run randomised placebo-controlled trials on all its ingredients and put each study on its website, with the olive leaf extract Bonolive as his example. He closed by inviting brands to bring their briefs to Solabia.",
@@ -2184,17 +2190,19 @@
        "role": "Certified herbalist; sales and business development"
       }
      ],
-     "themes": [
-      "creatine-muscle",
-      "healthy-ageing"
+     "categories": [
+      "healthspan"
+     ],
+     "tags": [
+      "formats"
      ],
      "ingredients": [
       "creatine",
-      "WATTS'UP (Solabia citrus bioflavonoid; spoken as hesperidin-based)",
-      "VitaCholine (choline)",
-      "Kaneka Ubiquinol",
-      "B vitamins",
-      "PeptiStrong (Nuritas plant peptides)"
+      "coq10",
+      "peptides",
+      "polyphenols",
+      "choline",
+      "vitamins-minerals"
      ],
      "level": "Essential",
      "summary": "Mateusz Korgul and Victoria Lesiovski of Tantus, a Polish CDMO, asked how a longevity trend becomes a product people actually take. A trend changes nothing on its own. It matters only once a product reaches the market and becomes part of a daily routine.\n\nConsumers want healthspan, not only lifespan: years spent active, capable and independent. The industry answers with ever more complex formulas, but they argued the real question is what makes biological sense in a product, not what else can be added. Longevity is a marathon, so format, dose and ease of use decide whether people keep taking it.\n\nTheir process has four steps: trend, ingredient, formula, market. Suppliers are partners who bring research, safety dossiers and formulation know-how, not vendors filling separate orders.\n\nThey showed three concepts. The first, made with Solabia, is a chewable tablet of 3 g creatine and 400 mg of Solabia's citrus extract WATTS'UP, sold on physical function with age rather than sport: \"Chew it, don't shake it.\" The second is a daily healthy-ageing capsule of Kaneka Ubiquinol, VitaCholine and active B vitamins. The third is a tablet of Nuritas's PeptiStrong plant peptides for muscle with age. Their close: keep it simple, make it last.",
@@ -2236,18 +2244,21 @@
        "role": "CEO"
       }
      ],
-     "themes": [
-      "protein",
-      "glp1-weight"
+     "categories": [
+      "glp1",
+      "healthspan"
+     ],
+     "tags": [
+      "regulation",
+      "market-data"
      ],
      "ingredients": [
-      "Fermotein (The Protein Brewery, mycelium protein)",
+      "plant-protein",
+      "novel-protein",
       "spermidine",
-      "chitin and chitosan (prebiotic fibre)",
-      "choline (vitamin B4 on the slide)",
-      "vitamin B6",
-      "fava protein",
-      "inulin (benchmark in a lab study)"
+      "fibre",
+      "choline",
+      "vitamins-minerals"
      ],
      "level": "Essential",
      "summary": "Thijs Bosch, CEO of The Protein Brewery and formerly a seller of dairy and fava proteins, presented Fermotein, a whole-food mycelium powder grown by biomass fermentation in Breda, in the Netherlands. His pitch was that one ingredient can carry protein, fibre and longevity bioactives together.\n\nFermotein is 50% protein and 30% fibre, and is rich in spermidine and vitamins. EFSA gave its safety opinion in 2025 and EU authorisation followed in 2026; approval took five years, he said. While waiting, the company built its market in the US, in \"all-in-one nutrition\": powders between protein powder and meal replacement, priced against the whole supplement basket. Ka'Chava is the model, growing fast in measured retail without discounting. In Europe the brands still sell meal replacement, and he asked the CDMOs in the room to embrace the all-in-one concept.\n\nHis evidence so far is laboratory work: prebiotic effects in a gut model, GLP-1 release in human colon tissue, and longer lifespan in nematodes. The slides say plainly that this is not evidence of an effect in humans. Two human trials with Wageningen come next.\n\nHe closed on scale: 10 million servings sold in 2026, three active US customers and €70 million raised. The company is not yet profitable.",
@@ -2289,19 +2300,21 @@
        "role": "Global Product Formulation Lead"
       }
      ],
-     "themes": [
-      "glp1-weight",
-      "healthy-ageing"
+     "categories": [
+      "healthspan"
+     ],
+     "tags": [
+      "science",
+      "marketing"
      ],
      "ingredients": [
-      "NAD boosters (nicotinamide riboside, nicotinamide mononucleotide, nicotinamide)",
+      "protein-general",
+      "collagen",
+      "nad",
       "fibre",
-      "vitamin D",
-      "calcium",
-      "protein",
+      "polyphenols",
       "curcumin",
-      "UC-II",
-      "anthocyanins"
+      "vitamins-minerals"
      ],
      "level": "Recommended",
      "summary": "Alex Glover, Holland & Barrett's Global Product Formulation Lead, runs the team that formulates its own-label products worldwide. He asked how longevity science becomes something a customer will buy. His answer: consumers may buy a story, but they judge a product on the outcomes they feel.\n\nHe opened with a tortoise to argue that ageing badly is not biologically fixed, so the category is about living better, not longer. H&B's data on millions of customers show that repeat purchase goes to products with one clearly communicated benefit, such as joint function or brain function. Shoppers ask when they will feel it, whether they can measure it, and what it costs. His slides set the test an ingredient must pass: evidence, dose, outcome, communication and consumer relevance.\n\nTwo case studies followed. NAD boosters have a strong molecular rationale but very limited functional outcome data, and of over 1000 customers surveyed, not one knew what NAD was. Curcumin, H&B's second best-selling ingredient, shows the other path: a meta-analysis of 11 trials found it improved knee osteoarthritis pain scores. He also named cheap basics with strong evidence: fibre, vitamin D, calcium and protein.\n\nHis conclusion for suppliers: bring ingredients with both a biological rationale and human outcome data, and help retailers translate the science without over-promising.",
@@ -2348,8 +2361,9 @@
        "role": "Co-founder; IT architecture and data security (surname as transcribed)"
       }
      ],
-     "themes": [
-      "formats-supply"
+     "categories": [],
+     "tags": [
+      "formats"
      ],
      "ingredients": [],
      "level": "Recommended",
@@ -2410,22 +2424,22 @@
        "role": ""
       }
      ],
-     "themes": [
-      "formats-supply",
-      "evidence-claims"
+     "categories": [],
+     "tags": [
+      "regulation",
+      "supply",
+      "ai"
      ],
      "ingredients": [
       "creatine",
-      "omega-3 (fish oil)",
-      "krill oil",
-      "astaxanthin",
-      "vitamin D",
-      "magnesium",
-      "zinc",
-      "protein",
-      "probiotics",
+      "protein-general",
+      "omega-3",
       "rhodiola",
-      "fibre"
+      "magnesium",
+      "probiotics",
+      "fibre",
+      "astaxanthin",
+      "vitamins-minerals"
      ],
      "level": "Recommended",
      "summary": "The day's closing panel brought together a retailer (Alex Glover, Holland & Barrett), a CDMO (Martina), an ingredient developer (Matt), a food lawyer (Joanna) and a pharmaceutical company (Alexandra). The moderator asked what each wants in the next two or three years, then turned to regulation, supply and AI.\n\nThey agreed that the consumer comes first. Alexandra wanted evidence-based claims and better communication, Martina a focus on what consumers actually need, and Alex a few claims done well, starting from the consumer's problem rather than piling on ingredients. Matt wanted a revolution in clinical trials: high-dose studies in people with real problems, published where consumers' chatbots will find them.\n\nOn regulation they differed in tone. Joanna wants food law to be a shield for innovators, though the claims system was written for vitamins. Matt was blunter: a three-year longer approval in Europe than in the US almost makes innovation impossible.\n\nOn supply, Matt warned of a fish oil shortage reaching shelves next summer. Alex described pre-bought stock and protecting the claim shoppers buy. Joanna said blaming the supplier is no defence.\n\nOn AI they wanted a human in the loop and peer-reviewed sources, and Matt warned that anyone who cannot use AI will not be able to work in two years.",
@@ -2465,24 +2479,16 @@
        "role": ""
       }
      ],
-     "themes": [
-      "gut-health",
-      "evidence-claims"
+     "categories": [
+      "gut-health"
+     ],
+     "tags": [
+      "marketing",
+      "regulation"
      ],
      "ingredients": [
       "probiotics",
-      "prebiotics",
-      "fibres",
-      "postbiotics",
-      "Akkermansia (Pendulum, the US brand built on it; heard as \"Acromancia\")",
-      "prebiotic fibre (LOAM)",
-      "Bifidus ActiRegularis (Activia's branded strain)",
-      "BioGaia Protectis",
-      "ReFerm (Nordic Rebalance OatBiotics)",
-      "Suntheanine (L-theanine; an HMT client case)",
-      "Yakult",
-      "Danone Activia",
-      "Poppi"
+      "fibre"
      ],
      "level": "Recommended",
      "summary": "Marit Weinstra of HMT, the Healthy Marketing Team, a food and health branding and innovation agency, opened the probiotic programme. Her question was how to win in a biotics market that has grown into a jungle of products. Use keeps rising, yet in seven of eight European countries consumers do not feel informed about probiotics.\n\nShe traced four eras. Yakult made good bacteria a daily ritual. Activia made the benefit tangible, and brands began competing on CFU counts. Then survival technology became the story. Now the shift is from adding bacteria to nourishing the gut ecosystem, with the gut barrier as the gateway to the rest of the body.\n\nFrom that she drew four rules: quality and proof over \"more is better\", feeding the ecosystem, benefits consumers can measure and feel, and everyday food formats. Her examples were mostly American: Pendulum's Akkermansia products for metabolic health, a prebiotic fibre brand, a digestive brand that sets expectations week by week, and Poppi.\n\nHer conclusion: in Europe most of these claims cannot be made, so the brand has to carry them. Value is moving from what is inside the product to what the consumer gets. A strong probiotic needs a \"Double IP\": the science and the brand.",
@@ -2529,20 +2535,17 @@
        "role": ""
       }
      ],
-     "themes": [
-      "gut-health",
-      "formats-supply"
+     "categories": [
+      "gut-health"
+     ],
+     "tags": [
+      "formats",
+      "science"
      ],
      "ingredients": [
-      "Lactoflorene (Montefarmaco)",
       "probiotics",
-      "postbiotics",
-      "enzymes",
-      "vitamins",
-      "HMO",
-      "Novonesis strains heard as \"GGM BB 12\"",
-      "zinc",
-      "vitamin B"
+      "fibre",
+      "vitamins-minerals"
      ],
      "level": "Recommended",
      "summary": "Ariel Annoni runs Novonesis's human health business across Central and Eastern Europe, the Middle East and Africa. Her argument was that a successful probiotic product needs the right science, quality, manufacturing partner and brand strategy, not just a good ingredient.\n\nShe introduced Novonesis, formed from Novozymes and Chr. Hansen, with a broad portfolio and some of the most documented strains in the world. Science is strain specific, she said, and documented strains protect the reputation of the brand a manufacturer makes. The European probiotic market is growing beyond the gut, consumers read labels and expect evidence, and probiotics are no longer a niche.\n\nAlessia of Montefarmaco, an Italian family pharmaceutical company, then told the Lactoflorene story as the proof. The partnership began in the early 2000s with an Italian requirement for a high count in a small capsule. Novonesis supplied the potency and stability, the core formula has barely changed in almost 20 years, and Montefarmaco ran a clinical study on the finished product. Lactoflorene is now third in Italy.\n\nTheir shared conclusion: a probiotic brand is built through a long-term partnership, not one ingredient. The chair closed by saying both morning talks came back to the consumer asking \"what's in it for me\".",
@@ -2582,18 +2585,17 @@
        "role": ""
       }
      ],
-     "themes": [
-      "creatine-muscle",
-      "gut-health"
+     "categories": [
+      "gut-health",
+      "womens-health"
+     ],
+     "tags": [
+      "science",
+      "formats"
      ],
      "ingredients": [
-      "CA15 (Sacco, L. rhamnosus CA15 DSM 33960, patented strain)",
-      "Synbio (Sacco, patented mix of L. rhamnosus IMC 501 and L. paracasei IMC 502)",
       "probiotics",
-      "postbiotics",
-      "next-generation probiotics and live biotherapeutics",
-      "butyrate",
-      "fluconazole (co-administration tested)"
+      "fibre"
      ],
      "level": "Recommended",
      "summary": "Sacco System's speaker presented the company as a family-owned probiotic maker and CDMO that sells speed and flexibility. The recording joins mid-introduction, and the slides do not name him. Sacco dates from 1872 and turned over €195 million in 2025.\n\nHe described its offer: probiotics, postbiotics and tailor-made mixtures, strains screened to EFSA safety requirements, custom fermentation at any scale, and next-generation strains developed for third parties. Sacco has recently invested in clinical studies and patents in two areas, women's health and healthy ageing, and he gave one strain for each.\n\nCA15, a patented strain isolated from a healthy woman, was tested in two placebo-controlled trials in women with vaginal imbalance. He reported fewer symptoms after ten days, held a month after intake stopped.\n\nSynbio, a patented mix of two strains isolated from elderly people in Marche, was tested over six months in 97 healthy people over 65. He reported more beneficial bacteria and butyrate, a 43% fall in a marker of inflammation, higher IGF-1, which he linked to muscle maintenance, and slower shortening of telomeres.\n\nHis close was an invitation: Sacco will take on unusual projects quickly and work closely with the customer.",
@@ -2640,26 +2642,20 @@
        "role": ""
       }
      ],
-     "themes": [
-      "glp1-weight",
-      "gut-health"
+     "categories": [
+      "gut-health",
+      "glp1"
+     ],
+     "tags": [
+      "formats",
+      "science"
      ],
      "ingredients": [
-      "Compressol ProTab (SPI Pharma; polyol-based chewable platform)",
-      "Effer-Soda 12 (SPI Pharma)",
-      "Advantol 300 (SPI Pharma; fast-melt platform)",
-      "sodium bicarbonate",
-      "electrolytes (sodium, potassium, magnesium, calcium, chloride)",
-      "caffeine",
-      "B vitamins",
+      "magnesium",
       "probiotics",
-      "Northbiotic Mental Balance (Nordic Biotic)",
-      "Lactobacillus plantarum 140",
-      "Bifidobacterium breve 010",
-      "GABA",
-      "Lactobacillus acidophilus 120",
-      "Lactobacillus fermentum 160",
-      "GLP-1 companion product (Nordic Biotic and Azento)"
+      "electrolytes",
+      "caffeine",
+      "vitamins-minerals"
      ],
      "level": "Recommended",
      "summary": "Two suppliers shared this slot. Miguel of SPI Pharma, an ABF Ingredients company, presented \"From platform to product\". His case: consumers buy formats first, so the gap is not another active but a format people will take. Last year SPI Pharma showed probiotics can be tableted. This year it showed what that tablet becomes.\n\nHe showed three concepts, each on an SPI platform. A mint chewable probiotic for adults, pressed gently on a low-moisture platform so the cultures survive. A fizzy electrolyte and energy stick for sport, kept stable by a modified sodium bicarbonate; a light fizz also masks bitterness. A vanilla fast-melt for healthy ageing that needs no water. The packs were illustrative concepts. His close: do not ask the consumer to swallow another capsule. The deck also asked the room for ideas, as SPI Pharma looks to grow in nutrition.\n\nMihail Jakubowski of Nordic Biotic then presented a supplier of clinically tested probiotic strains, sold with exclusivity by territory. He showed a stress and sleep blend tested on 227 students at exam time, saying the results, received the week before, proved efficacy on sleep quality and stress. He also showed a blend aimed at microplastics, with its human study still in progress. He closed with an invitation to develop products together.",
@@ -2690,397 +2686,621 @@
    ]
   }
  ],
- "themes": [
-  {
-   "id": "creatine-muscle",
-   "name": "Creatine and muscle",
-   "description": "Creatine beyond the gym, and keeping muscle with age.",
-   "lessons": [
-    {
-     "event": "nutra-healthspan-summit-2026",
-     "session": "from-hype-to-healthspan-building-the"
-    },
-    {
-     "event": "nutra-healthspan-summit-2026",
-     "session": "nutrition-to-improve-mitochondrial-functions"
-    },
-    {
-     "event": "sans-europe-2026",
-     "session": "a-bigger-sports-nutrition-landscape-growth"
-    },
-    {
-     "event": "sans-europe-2026",
-     "session": "fuelling-female-performance"
-    },
-    {
-     "event": "sans-europe-2026",
-     "session": "whey-collagen-the-protein-power-couple"
-    },
-    {
-     "event": "sans-europe-2026",
-     "session": "built-in-the-gym-turning-athlete"
-    },
-    {
-     "event": "sans-europe-2026",
-     "session": "from-hype-to-proof-the-science"
-    },
-    {
-     "event": "sans-europe-2026",
-     "session": "beyond-the-glp-1-boom-nutrition"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "aker-biomarine-krill-peakspan"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "nathan-gray-creatine-new-buyers"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "nick-morgan-longevity"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "nuritas-peptistrong"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "novosol-optimsm"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "martin-bauer-rhosera"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "solabia-launches"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "tantus-longevity-concepts"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "sacco-probiotics"
-    }
-   ]
-  },
-  {
-   "id": "protein",
-   "name": "Protein",
-   "description": "Protein prices, blends and new protein sources.",
-   "lessons": [
-    {
-     "event": "nutra-healthspan-summit-2026",
-     "session": "euromonitor-who-is-winning-healthspan"
-    },
-    {
-     "event": "nutra-healthspan-summit-2026",
-     "session": "consumer-insights-straight-from-the-horse"
-    },
-    {
-     "event": "sans-europe-2026",
-     "session": "a-bigger-sports-nutrition-landscape-growth"
-    },
-    {
-     "event": "sans-europe-2026",
-     "session": "unfiltered-an-insider-s-view-of"
-    },
-    {
-     "event": "sans-europe-2026",
-     "session": "whey-collagen-the-protein-power-couple"
-    },
-    {
-     "event": "sans-europe-2026",
-     "session": "beyond-the-glp-1-boom-nutrition"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "protein-brewery-fermotein"
-    }
-   ]
-  },
-  {
-   "id": "glp1-weight",
-   "name": "GLP-1 and weight",
-   "description": "What people on GLP-1 medicines need, and the market around them.",
-   "lessons": [
-    {
-     "event": "nutra-healthspan-summit-2026",
-     "session": "lumina-new-longevity-consumer"
-    },
-    {
-     "event": "nutra-healthspan-summit-2026",
-     "session": "from-hype-to-healthspan-building-the"
-    },
-    {
-     "event": "nutra-healthspan-summit-2026",
-     "session": "absorbed-or-assumed-why-pharmacokinetic"
-    },
-    {
-     "event": "sans-europe-2026",
-     "session": "unfiltered-an-insider-s-view-of"
-    },
-    {
-     "event": "sans-europe-2026",
-     "session": "glp-won-market-opportunities-for-the"
-    },
-    {
-     "event": "sans-europe-2026",
-     "session": "from-hype-to-proof-the-science"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "protein-brewery-fermotein"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "alex-glover-holland-barrett"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "spi-pharma-nordic-biotic"
-    }
-   ]
-  },
-  {
-   "id": "womens-health",
-   "name": "Women's health",
-   "description": "Nutrition for women, from athletes to menopause.",
-   "lessons": [
-    {
-     "event": "sans-europe-2026",
-     "session": "fuelling-female-performance"
-    },
-    {
-     "event": "sans-europe-2026",
-     "session": "fuelling-the-female-runner-from-paper"
-    },
-    {
-     "event": "sans-europe-2026",
-     "session": "fuel-the-frame-carbohydrate-recovery-and"
-    }
-   ]
-  },
-  {
-   "id": "gut-health",
-   "name": "Gut health",
-   "description": "Probiotics, prebiotics and the microbiome.",
-   "lessons": [
-    {
-     "event": "nutra-healthspan-summit-2026",
-     "session": "jens-walter-microbiome-ageing"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "hmt-probiotic-market"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "novonesis-montefarmaco"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "sacco-probiotics"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "spi-pharma-nordic-biotic"
-    }
-   ]
-  },
-  {
-   "id": "sports-performance",
-   "name": "Sports and performance",
-   "description": "Sports nutrition going mainstream: fuelling, hydration and recovery.",
-   "lessons": [
-    {
-     "event": "sans-europe-2026",
-     "session": "fuelling-the-female-runner-from-paper"
-    },
-    {
-     "event": "sans-europe-2026",
-     "session": "built-in-the-gym-turning-athlete"
-    },
-    {
-     "event": "sans-europe-2026",
-     "session": "fuel-the-frame-carbohydrate-recovery-and"
-    },
-    {
-     "event": "sans-europe-2026",
-     "session": "glp-won-market-opportunities-for-the"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "nathan-gray-creatine-new-buyers"
-    }
-   ]
-  },
-  {
-   "id": "healthy-ageing",
-   "name": "Healthy ageing",
-   "description": "Longevity and healthspan, and how they are sold.",
-   "lessons": [
-    {
-     "event": "nutra-healthspan-summit-2026",
-     "session": "the-challenge-and-opportunity-of-our"
-    },
-    {
-     "event": "nutra-healthspan-summit-2026",
-     "session": "euromonitor-who-is-winning-healthspan"
-    },
-    {
-     "event": "nutra-healthspan-summit-2026",
-     "session": "lumina-new-longevity-consumer"
-    },
-    {
-     "event": "nutra-healthspan-summit-2026",
-     "session": "jens-walter-microbiome-ageing"
-    },
-    {
-     "event": "nutra-healthspan-summit-2026",
-     "session": "consumer-insights-straight-from-the-horse"
-    },
-    {
-     "event": "nutra-healthspan-summit-2026",
-     "session": "nutrition-to-improve-mitochondrial-functions"
-    },
-    {
-     "event": "nutra-healthspan-summit-2026",
-     "session": "uthever-nmn-nad-metabolism-sleep-health"
-    },
-    {
-     "event": "nutra-healthspan-summit-2026",
-     "session": "absorbed-or-assumed-why-pharmacokinetic"
-    },
-    {
-     "event": "nutra-healthspan-summit-2026",
-     "session": "ancient-brave-womens-healthspan"
-    },
-    {
-     "event": "nutra-healthspan-summit-2026",
-     "session": "indena-longevity-appearance"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "aker-biomarine-krill-peakspan"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "nick-morgan-longevity"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "kaneka-ubiquinol"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "martin-bauer-rhosera"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "tantus-longevity-concepts"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "alex-glover-holland-barrett"
-    }
-   ]
-  },
-  {
-   "id": "formats-supply",
-   "name": "Formats and supply",
-   "description": "New dosage forms, contract manufacturers and secure supply.",
-   "lessons": [
-    {
-     "event": "nutra-healthspan-summit-2026",
-     "session": "artificial-intelligence-to-rapidly-develop"
-    },
-    {
-     "event": "nutra-healthspan-summit-2026",
-     "session": "indena-longevity-appearance"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "favea-ai-mental-shift"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "nuritas-peptistrong"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "kaneka-ubiquinol"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "novosol-optimsm"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "solabia-launches"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "2waves-platform"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "panel-evidence-regulation-ai"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "novonesis-montefarmaco"
-    }
-   ]
-  },
-  {
-   "id": "evidence-claims",
-   "name": "Evidence and claims",
-   "description": "Proof, branded ingredients, EU rules and AI.",
-   "lessons": [
-    {
-     "event": "nutra-healthspan-summit-2026",
-     "session": "uthever-nmn-nad-metabolism-sleep-health"
-    },
-    {
-     "event": "nutra-healthspan-summit-2026",
-     "session": "ai-driven-personalization-at-scale"
-    },
-    {
-     "event": "nutra-healthspan-summit-2026",
-     "session": "artificial-intelligence-to-rapidly-develop"
-    },
-    {
-     "event": "nutra-healthspan-summit-2026",
-     "session": "from-data-to-decisions-personalizing"
-    },
-    {
-     "event": "nutra-healthspan-summit-2026",
-     "session": "ancient-brave-womens-healthspan"
-    },
-    {
-     "event": "sans-europe-2026",
-     "session": "clicks-to-community-turning-digital-engagement"
-    },
-    {
-     "event": "sans-europe-2026",
-     "session": "is-the-juice-worth-the-squeeze"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "favea-ai-mental-shift"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "panel-evidence-regulation-ai"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "hmt-probiotic-market"
-    }
-   ]
-  }
- ]
+ "facets": {
+  "categories": [
+   {
+    "id": "glp1",
+    "name": "GLP-1 and weight management",
+    "lessons": [
+     "nutra-healthspan-summit-2026--lumina-new-longevity-consumer",
+     "nutra-healthspan-summit-2026--from-hype-to-healthspan-building-the",
+     "nutra-healthspan-summit-2026--absorbed-or-assumed-why-pharmacokinetic",
+     "sans-europe-2026--glp-won-market-opportunities-for-the",
+     "sans-europe-2026--from-hype-to-proof-the-science",
+     "sans-europe-2026--beyond-the-glp-1-boom-nutrition",
+     "remedy-cdmo-2026--protein-brewery-fermotein",
+     "remedy-cdmo-2026--spi-pharma-nordic-biotic"
+    ]
+   },
+   {
+    "id": "healthspan",
+    "name": "Healthspan and ageing",
+    "lessons": [
+     "nutra-healthspan-summit-2026--the-challenge-and-opportunity-of-our",
+     "nutra-healthspan-summit-2026--euromonitor-who-is-winning-healthspan",
+     "nutra-healthspan-summit-2026--lumina-new-longevity-consumer",
+     "nutra-healthspan-summit-2026--from-hype-to-healthspan-building-the",
+     "nutra-healthspan-summit-2026--jens-walter-microbiome-ageing",
+     "nutra-healthspan-summit-2026--consumer-insights-straight-from-the-horse",
+     "nutra-healthspan-summit-2026--nutrition-to-improve-mitochondrial-functions",
+     "nutra-healthspan-summit-2026--uthever-nmn-nad-metabolism-sleep-health",
+     "nutra-healthspan-summit-2026--absorbed-or-assumed-why-pharmacokinetic",
+     "nutra-healthspan-summit-2026--ai-driven-personalization-at-scale",
+     "nutra-healthspan-summit-2026--artificial-intelligence-to-rapidly-develop",
+     "nutra-healthspan-summit-2026--from-data-to-decisions-personalizing",
+     "nutra-healthspan-summit-2026--ancient-brave-womens-healthspan",
+     "nutra-healthspan-summit-2026--indena-longevity-appearance",
+     "sans-europe-2026--a-bigger-sports-nutrition-landscape-growth",
+     "sans-europe-2026--whey-collagen-the-protein-power-couple",
+     "remedy-cdmo-2026--aker-biomarine-krill-peakspan",
+     "remedy-cdmo-2026--nathan-gray-creatine-new-buyers",
+     "remedy-cdmo-2026--nick-morgan-longevity",
+     "remedy-cdmo-2026--nuritas-peptistrong",
+     "remedy-cdmo-2026--kaneka-ubiquinol",
+     "remedy-cdmo-2026--martin-bauer-rhosera",
+     "remedy-cdmo-2026--solabia-launches",
+     "remedy-cdmo-2026--tantus-longevity-concepts",
+     "remedy-cdmo-2026--protein-brewery-fermotein",
+     "remedy-cdmo-2026--alex-glover-holland-barrett"
+    ]
+   },
+   {
+    "id": "sports",
+    "name": "Sports performance",
+    "lessons": [
+     "nutra-healthspan-summit-2026--euromonitor-who-is-winning-healthspan",
+     "nutra-healthspan-summit-2026--consumer-insights-straight-from-the-horse",
+     "sans-europe-2026--a-bigger-sports-nutrition-landscape-growth",
+     "sans-europe-2026--unfiltered-an-insider-s-view-of",
+     "sans-europe-2026--clicks-to-community-turning-digital-engagement",
+     "sans-europe-2026--fuelling-female-performance",
+     "sans-europe-2026--fuelling-the-female-runner-from-paper",
+     "sans-europe-2026--whey-collagen-the-protein-power-couple",
+     "sans-europe-2026--built-in-the-gym-turning-athlete",
+     "sans-europe-2026--is-the-juice-worth-the-squeeze",
+     "sans-europe-2026--fuel-the-frame-carbohydrate-recovery-and",
+     "sans-europe-2026--glp-won-market-opportunities-for-the",
+     "sans-europe-2026--beyond-the-glp-1-boom-nutrition",
+     "remedy-cdmo-2026--nathan-gray-creatine-new-buyers",
+     "remedy-cdmo-2026--nuritas-peptistrong",
+     "remedy-cdmo-2026--kaneka-ubiquinol",
+     "remedy-cdmo-2026--novosol-optimsm",
+     "remedy-cdmo-2026--martin-bauer-rhosera"
+    ]
+   },
+   {
+    "id": "womens-health",
+    "name": "Women's health",
+    "lessons": [
+     "nutra-healthspan-summit-2026--ancient-brave-womens-healthspan",
+     "sans-europe-2026--fuelling-female-performance",
+     "sans-europe-2026--fuelling-the-female-runner-from-paper",
+     "sans-europe-2026--fuel-the-frame-carbohydrate-recovery-and",
+     "remedy-cdmo-2026--solabia-launches",
+     "remedy-cdmo-2026--sacco-probiotics"
+    ]
+   },
+   {
+    "id": "gut-health",
+    "name": "Gut health",
+    "lessons": [
+     "nutra-healthspan-summit-2026--jens-walter-microbiome-ageing",
+     "remedy-cdmo-2026--hmt-probiotic-market",
+     "remedy-cdmo-2026--novonesis-montefarmaco",
+     "remedy-cdmo-2026--sacco-probiotics",
+     "remedy-cdmo-2026--spi-pharma-nordic-biotic"
+    ]
+   },
+   {
+    "id": "brain-sleep",
+    "name": "Brain",
+    "lessons": [
+     "nutra-healthspan-summit-2026--uthever-nmn-nad-metabolism-sleep-health"
+    ]
+   },
+   {
+    "id": "beauty",
+    "name": "Beauty from within",
+    "lessons": [
+     "nutra-healthspan-summit-2026--indena-longevity-appearance"
+    ]
+   }
+  ],
+  "ingredients": [
+   {
+    "id": "creatine",
+    "name": "Creatine",
+    "lessons": [
+     "nutra-healthspan-summit-2026--from-hype-to-healthspan-building-the",
+     "nutra-healthspan-summit-2026--consumer-insights-straight-from-the-horse",
+     "nutra-healthspan-summit-2026--nutrition-to-improve-mitochondrial-functions",
+     "nutra-healthspan-summit-2026--ancient-brave-womens-healthspan",
+     "sans-europe-2026--a-bigger-sports-nutrition-landscape-growth",
+     "sans-europe-2026--clicks-to-community-turning-digital-engagement",
+     "sans-europe-2026--fuelling-female-performance",
+     "sans-europe-2026--built-in-the-gym-turning-athlete",
+     "sans-europe-2026--is-the-juice-worth-the-squeeze",
+     "sans-europe-2026--glp-won-market-opportunities-for-the",
+     "sans-europe-2026--beyond-the-glp-1-boom-nutrition",
+     "remedy-cdmo-2026--nathan-gray-creatine-new-buyers",
+     "remedy-cdmo-2026--nick-morgan-longevity",
+     "remedy-cdmo-2026--nuritas-peptistrong",
+     "remedy-cdmo-2026--solabia-launches",
+     "remedy-cdmo-2026--tantus-longevity-concepts",
+     "remedy-cdmo-2026--panel-evidence-regulation-ai"
+    ]
+   },
+   {
+    "id": "whey",
+    "name": "Whey protein",
+    "lessons": [
+     "sans-europe-2026--a-bigger-sports-nutrition-landscape-growth",
+     "sans-europe-2026--unfiltered-an-insider-s-view-of",
+     "sans-europe-2026--whey-collagen-the-protein-power-couple",
+     "sans-europe-2026--from-hype-to-proof-the-science",
+     "sans-europe-2026--beyond-the-glp-1-boom-nutrition"
+    ]
+   },
+   {
+    "id": "plant-protein",
+    "name": "Pea and plant protein",
+    "lessons": [
+     "sans-europe-2026--a-bigger-sports-nutrition-landscape-growth",
+     "sans-europe-2026--unfiltered-an-insider-s-view-of",
+     "sans-europe-2026--from-hype-to-proof-the-science",
+     "sans-europe-2026--beyond-the-glp-1-boom-nutrition",
+     "remedy-cdmo-2026--nuritas-peptistrong",
+     "remedy-cdmo-2026--protein-brewery-fermotein"
+    ]
+   },
+   {
+    "id": "novel-protein",
+    "name": "Novel proteins",
+    "lessons": [
+     "nutra-healthspan-summit-2026--consumer-insights-straight-from-the-horse",
+     "sans-europe-2026--a-bigger-sports-nutrition-landscape-growth",
+     "remedy-cdmo-2026--protein-brewery-fermotein"
+    ]
+   },
+   {
+    "id": "milk-protein",
+    "name": "Milk protein and casein",
+    "lessons": [
+     "nutra-healthspan-summit-2026--nutrition-to-improve-mitochondrial-functions",
+     "sans-europe-2026--a-bigger-sports-nutrition-landscape-growth",
+     "sans-europe-2026--unfiltered-an-insider-s-view-of",
+     "sans-europe-2026--beyond-the-glp-1-boom-nutrition",
+     "remedy-cdmo-2026--nuritas-peptistrong"
+    ]
+   },
+   {
+    "id": "protein-general",
+    "name": "Protein and amino acids",
+    "lessons": [
+     "nutra-healthspan-summit-2026--euromonitor-who-is-winning-healthspan",
+     "nutra-healthspan-summit-2026--lumina-new-longevity-consumer",
+     "nutra-healthspan-summit-2026--jens-walter-microbiome-ageing",
+     "nutra-healthspan-summit-2026--consumer-insights-straight-from-the-horse",
+     "sans-europe-2026--fuelling-female-performance",
+     "sans-europe-2026--built-in-the-gym-turning-athlete",
+     "sans-europe-2026--is-the-juice-worth-the-squeeze",
+     "sans-europe-2026--fuel-the-frame-carbohydrate-recovery-and",
+     "sans-europe-2026--glp-won-market-opportunities-for-the",
+     "sans-europe-2026--from-hype-to-proof-the-science",
+     "sans-europe-2026--beyond-the-glp-1-boom-nutrition",
+     "remedy-cdmo-2026--nuritas-peptistrong",
+     "remedy-cdmo-2026--martin-bauer-rhosera",
+     "remedy-cdmo-2026--alex-glover-holland-barrett",
+     "remedy-cdmo-2026--panel-evidence-regulation-ai"
+    ]
+   },
+   {
+    "id": "collagen",
+    "name": "Collagen",
+    "lessons": [
+     "nutra-healthspan-summit-2026--euromonitor-who-is-winning-healthspan",
+     "nutra-healthspan-summit-2026--from-hype-to-healthspan-building-the",
+     "nutra-healthspan-summit-2026--consumer-insights-straight-from-the-horse",
+     "nutra-healthspan-summit-2026--ancient-brave-womens-healthspan",
+     "sans-europe-2026--a-bigger-sports-nutrition-landscape-growth",
+     "sans-europe-2026--clicks-to-community-turning-digital-engagement",
+     "sans-europe-2026--fuelling-female-performance",
+     "sans-europe-2026--whey-collagen-the-protein-power-couple",
+     "sans-europe-2026--beyond-the-glp-1-boom-nutrition",
+     "remedy-cdmo-2026--nathan-gray-creatine-new-buyers",
+     "remedy-cdmo-2026--solabia-launches",
+     "remedy-cdmo-2026--alex-glover-holland-barrett"
+    ]
+   },
+   {
+    "id": "omega-3",
+    "name": "Omega-3",
+    "lessons": [
+     "nutra-healthspan-summit-2026--lumina-new-longevity-consumer",
+     "nutra-healthspan-summit-2026--from-hype-to-healthspan-building-the",
+     "nutra-healthspan-summit-2026--consumer-insights-straight-from-the-horse",
+     "sans-europe-2026--built-in-the-gym-turning-athlete",
+     "sans-europe-2026--glp-won-market-opportunities-for-the",
+     "remedy-cdmo-2026--aker-biomarine-krill-peakspan",
+     "remedy-cdmo-2026--favea-ai-mental-shift",
+     "remedy-cdmo-2026--panel-evidence-regulation-ai"
+    ]
+   },
+   {
+    "id": "rhodiola",
+    "name": "Rhodiola rosea",
+    "lessons": [
+     "remedy-cdmo-2026--martin-bauer-rhosera",
+     "remedy-cdmo-2026--panel-evidence-regulation-ai"
+    ]
+   },
+   {
+    "id": "magnesium",
+    "name": "Magnesium",
+    "lessons": [
+     "nutra-healthspan-summit-2026--euromonitor-who-is-winning-healthspan",
+     "nutra-healthspan-summit-2026--consumer-insights-straight-from-the-horse",
+     "nutra-healthspan-summit-2026--ai-driven-personalization-at-scale",
+     "nutra-healthspan-summit-2026--ancient-brave-womens-healthspan",
+     "sans-europe-2026--a-bigger-sports-nutrition-landscape-growth",
+     "sans-europe-2026--clicks-to-community-turning-digital-engagement",
+     "sans-europe-2026--built-in-the-gym-turning-athlete",
+     "sans-europe-2026--beyond-the-glp-1-boom-nutrition",
+     "remedy-cdmo-2026--nathan-gray-creatine-new-buyers",
+     "remedy-cdmo-2026--martin-bauer-rhosera",
+     "remedy-cdmo-2026--panel-evidence-regulation-ai",
+     "remedy-cdmo-2026--spi-pharma-nordic-biotic"
+    ]
+   },
+   {
+    "id": "nad",
+    "name": "NAD+ precursors (NMN",
+    "lessons": [
+     "nutra-healthspan-summit-2026--euromonitor-who-is-winning-healthspan",
+     "nutra-healthspan-summit-2026--lumina-new-longevity-consumer",
+     "nutra-healthspan-summit-2026--from-hype-to-healthspan-building-the",
+     "nutra-healthspan-summit-2026--consumer-insights-straight-from-the-horse",
+     "nutra-healthspan-summit-2026--nutrition-to-improve-mitochondrial-functions",
+     "nutra-healthspan-summit-2026--uthever-nmn-nad-metabolism-sleep-health",
+     "remedy-cdmo-2026--nick-morgan-longevity",
+     "remedy-cdmo-2026--alex-glover-holland-barrett"
+    ]
+   },
+   {
+    "id": "urolithin",
+    "name": "Urolithin A",
+    "lessons": [
+     "nutra-healthspan-summit-2026--from-hype-to-healthspan-building-the",
+     "nutra-healthspan-summit-2026--nutrition-to-improve-mitochondrial-functions"
+    ]
+   },
+   {
+    "id": "spermidine",
+    "name": "Spermidine",
+    "lessons": [
+     "nutra-healthspan-summit-2026--euromonitor-who-is-winning-healthspan",
+     "nutra-healthspan-summit-2026--from-hype-to-healthspan-building-the",
+     "nutra-healthspan-summit-2026--consumer-insights-straight-from-the-horse",
+     "remedy-cdmo-2026--nick-morgan-longevity",
+     "remedy-cdmo-2026--martin-bauer-rhosera",
+     "remedy-cdmo-2026--protein-brewery-fermotein"
+    ]
+   },
+   {
+    "id": "coq10",
+    "name": "CoQ10 and ubiquinol",
+    "lessons": [
+     "nutra-healthspan-summit-2026--lumina-new-longevity-consumer",
+     "remedy-cdmo-2026--favea-ai-mental-shift",
+     "remedy-cdmo-2026--nick-morgan-longevity",
+     "remedy-cdmo-2026--kaneka-ubiquinol",
+     "remedy-cdmo-2026--novosol-optimsm",
+     "remedy-cdmo-2026--tantus-longevity-concepts"
+    ]
+   },
+   {
+    "id": "hmb",
+    "name": "HMB",
+    "lessons": [
+     "sans-europe-2026--glp-won-market-opportunities-for-the",
+     "sans-europe-2026--beyond-the-glp-1-boom-nutrition",
+     "remedy-cdmo-2026--nathan-gray-creatine-new-buyers",
+     "remedy-cdmo-2026--nuritas-peptistrong"
+    ]
+   },
+   {
+    "id": "peptides",
+    "name": "Bioactive peptides",
+    "lessons": [
+     "sans-europe-2026--whey-collagen-the-protein-power-couple",
+     "remedy-cdmo-2026--nuritas-peptistrong",
+     "remedy-cdmo-2026--tantus-longevity-concepts"
+    ]
+   },
+   {
+    "id": "probiotics",
+    "name": "Probiotics and postbiotics",
+    "lessons": [
+     "nutra-healthspan-summit-2026--euromonitor-who-is-winning-healthspan",
+     "nutra-healthspan-summit-2026--lumina-new-longevity-consumer",
+     "nutra-healthspan-summit-2026--jens-walter-microbiome-ageing",
+     "nutra-healthspan-summit-2026--consumer-insights-straight-from-the-horse",
+     "sans-europe-2026--built-in-the-gym-turning-athlete",
+     "sans-europe-2026--glp-won-market-opportunities-for-the",
+     "sans-europe-2026--from-hype-to-proof-the-science",
+     "sans-europe-2026--beyond-the-glp-1-boom-nutrition",
+     "remedy-cdmo-2026--favea-ai-mental-shift",
+     "remedy-cdmo-2026--panel-evidence-regulation-ai",
+     "remedy-cdmo-2026--hmt-probiotic-market",
+     "remedy-cdmo-2026--novonesis-montefarmaco",
+     "remedy-cdmo-2026--sacco-probiotics",
+     "remedy-cdmo-2026--spi-pharma-nordic-biotic"
+    ]
+   },
+   {
+    "id": "fibre",
+    "name": "Fibre and prebiotics",
+    "lessons": [
+     "nutra-healthspan-summit-2026--lumina-new-longevity-consumer",
+     "nutra-healthspan-summit-2026--jens-walter-microbiome-ageing",
+     "sans-europe-2026--glp-won-market-opportunities-for-the",
+     "sans-europe-2026--from-hype-to-proof-the-science",
+     "sans-europe-2026--beyond-the-glp-1-boom-nutrition",
+     "remedy-cdmo-2026--solabia-launches",
+     "remedy-cdmo-2026--protein-brewery-fermotein",
+     "remedy-cdmo-2026--alex-glover-holland-barrett",
+     "remedy-cdmo-2026--panel-evidence-regulation-ai",
+     "remedy-cdmo-2026--hmt-probiotic-market",
+     "remedy-cdmo-2026--novonesis-montefarmaco",
+     "remedy-cdmo-2026--sacco-probiotics"
+    ]
+   },
+   {
+    "id": "polyphenols",
+    "name": "Polyphenols and berries",
+    "lessons": [
+     "nutra-healthspan-summit-2026--euromonitor-who-is-winning-healthspan",
+     "nutra-healthspan-summit-2026--lumina-new-longevity-consumer",
+     "nutra-healthspan-summit-2026--consumer-insights-straight-from-the-horse",
+     "nutra-healthspan-summit-2026--nutrition-to-improve-mitochondrial-functions",
+     "sans-europe-2026--is-the-juice-worth-the-squeeze",
+     "sans-europe-2026--from-hype-to-proof-the-science",
+     "remedy-cdmo-2026--favea-ai-mental-shift",
+     "remedy-cdmo-2026--nick-morgan-longevity",
+     "remedy-cdmo-2026--novosol-optimsm",
+     "remedy-cdmo-2026--solabia-launches",
+     "remedy-cdmo-2026--tantus-longevity-concepts",
+     "remedy-cdmo-2026--alex-glover-holland-barrett"
+    ]
+   },
+   {
+    "id": "curcumin",
+    "name": "Curcumin",
+    "lessons": [
+     "sans-europe-2026--built-in-the-gym-turning-athlete",
+     "sans-europe-2026--is-the-juice-worth-the-squeeze",
+     "sans-europe-2026--from-hype-to-proof-the-science",
+     "remedy-cdmo-2026--nick-morgan-longevity",
+     "remedy-cdmo-2026--novosol-optimsm",
+     "remedy-cdmo-2026--alex-glover-holland-barrett"
+    ]
+   },
+   {
+    "id": "botanicals",
+    "name": "Adaptogens and botanicals",
+    "lessons": [
+     "nutra-healthspan-summit-2026--lumina-new-longevity-consumer",
+     "nutra-healthspan-summit-2026--consumer-insights-straight-from-the-horse",
+     "nutra-healthspan-summit-2026--nutrition-to-improve-mitochondrial-functions",
+     "nutra-healthspan-summit-2026--artificial-intelligence-to-rapidly-develop",
+     "nutra-healthspan-summit-2026--ancient-brave-womens-healthspan",
+     "nutra-healthspan-summit-2026--indena-longevity-appearance",
+     "sans-europe-2026--fuelling-female-performance",
+     "sans-europe-2026--is-the-juice-worth-the-squeeze",
+     "sans-europe-2026--glp-won-market-opportunities-for-the",
+     "sans-europe-2026--from-hype-to-proof-the-science",
+     "sans-europe-2026--beyond-the-glp-1-boom-nutrition"
+    ]
+   },
+   {
+    "id": "astaxanthin",
+    "name": "Astaxanthin",
+    "lessons": [
+     "remedy-cdmo-2026--favea-ai-mental-shift",
+     "remedy-cdmo-2026--novosol-optimsm",
+     "remedy-cdmo-2026--panel-evidence-regulation-ai"
+    ]
+   },
+   {
+    "id": "choline",
+    "name": "Choline and citicoline",
+    "lessons": [
+     "remedy-cdmo-2026--favea-ai-mental-shift",
+     "remedy-cdmo-2026--nathan-gray-creatine-new-buyers",
+     "remedy-cdmo-2026--nick-morgan-longevity",
+     "remedy-cdmo-2026--novosol-optimsm",
+     "remedy-cdmo-2026--tantus-longevity-concepts",
+     "remedy-cdmo-2026--protein-brewery-fermotein"
+    ]
+   },
+   {
+    "id": "carbohydrate",
+    "name": "Carbohydrate",
+    "lessons": [
+     "sans-europe-2026--fuelling-female-performance",
+     "sans-europe-2026--fuelling-the-female-runner-from-paper",
+     "sans-europe-2026--built-in-the-gym-turning-athlete",
+     "sans-europe-2026--fuel-the-frame-carbohydrate-recovery-and"
+    ]
+   },
+   {
+    "id": "electrolytes",
+    "name": "Electrolytes and hydration",
+    "lessons": [
+     "sans-europe-2026--a-bigger-sports-nutrition-landscape-growth",
+     "sans-europe-2026--built-in-the-gym-turning-athlete",
+     "remedy-cdmo-2026--nathan-gray-creatine-new-buyers",
+     "remedy-cdmo-2026--spi-pharma-nordic-biotic"
+    ]
+   },
+   {
+    "id": "caffeine",
+    "name": "Caffeine",
+    "lessons": [
+     "sans-europe-2026--clicks-to-community-turning-digital-engagement",
+     "sans-europe-2026--is-the-juice-worth-the-squeeze",
+     "remedy-cdmo-2026--spi-pharma-nordic-biotic"
+    ]
+   },
+   {
+    "id": "nitrate",
+    "name": "Dietary nitrate",
+    "lessons": [
+     "sans-europe-2026--is-the-juice-worth-the-squeeze"
+    ]
+   },
+   {
+    "id": "vitamins-minerals",
+    "name": "Vitamins and minerals",
+    "lessons": [
+     "nutra-healthspan-summit-2026--lumina-new-longevity-consumer",
+     "nutra-healthspan-summit-2026--from-hype-to-healthspan-building-the",
+     "nutra-healthspan-summit-2026--consumer-insights-straight-from-the-horse",
+     "nutra-healthspan-summit-2026--nutrition-to-improve-mitochondrial-functions",
+     "nutra-healthspan-summit-2026--absorbed-or-assumed-why-pharmacokinetic",
+     "sans-europe-2026--fuelling-female-performance",
+     "sans-europe-2026--whey-collagen-the-protein-power-couple",
+     "sans-europe-2026--built-in-the-gym-turning-athlete",
+     "sans-europe-2026--fuel-the-frame-carbohydrate-recovery-and",
+     "sans-europe-2026--glp-won-market-opportunities-for-the",
+     "sans-europe-2026--from-hype-to-proof-the-science",
+     "sans-europe-2026--beyond-the-glp-1-boom-nutrition",
+     "remedy-cdmo-2026--favea-ai-mental-shift",
+     "remedy-cdmo-2026--kaneka-ubiquinol",
+     "remedy-cdmo-2026--novosol-optimsm",
+     "remedy-cdmo-2026--martin-bauer-rhosera",
+     "remedy-cdmo-2026--tantus-longevity-concepts",
+     "remedy-cdmo-2026--protein-brewery-fermotein",
+     "remedy-cdmo-2026--alex-glover-holland-barrett",
+     "remedy-cdmo-2026--panel-evidence-regulation-ai",
+     "remedy-cdmo-2026--novonesis-montefarmaco",
+     "remedy-cdmo-2026--spi-pharma-nordic-biotic"
+    ]
+   },
+   {
+    "id": "msm",
+    "name": "MSM",
+    "lessons": [
+     "remedy-cdmo-2026--novosol-optimsm"
+    ]
+   }
+  ],
+  "tags": [
+   {
+    "id": "science",
+    "name": "Science and evidence",
+    "lessons": [
+     "nutra-healthspan-summit-2026--the-challenge-and-opportunity-of-our",
+     "nutra-healthspan-summit-2026--jens-walter-microbiome-ageing",
+     "nutra-healthspan-summit-2026--nutrition-to-improve-mitochondrial-functions",
+     "nutra-healthspan-summit-2026--uthever-nmn-nad-metabolism-sleep-health",
+     "nutra-healthspan-summit-2026--absorbed-or-assumed-why-pharmacokinetic",
+     "nutra-healthspan-summit-2026--artificial-intelligence-to-rapidly-develop",
+     "nutra-healthspan-summit-2026--from-data-to-decisions-personalizing",
+     "nutra-healthspan-summit-2026--ancient-brave-womens-healthspan",
+     "nutra-healthspan-summit-2026--indena-longevity-appearance",
+     "sans-europe-2026--fuelling-female-performance",
+     "sans-europe-2026--fuelling-the-female-runner-from-paper",
+     "sans-europe-2026--whey-collagen-the-protein-power-couple",
+     "sans-europe-2026--is-the-juice-worth-the-squeeze",
+     "sans-europe-2026--fuel-the-frame-carbohydrate-recovery-and",
+     "sans-europe-2026--from-hype-to-proof-the-science",
+     "remedy-cdmo-2026--aker-biomarine-krill-peakspan",
+     "remedy-cdmo-2026--nuritas-peptistrong",
+     "remedy-cdmo-2026--kaneka-ubiquinol",
+     "remedy-cdmo-2026--martin-bauer-rhosera",
+     "remedy-cdmo-2026--solabia-launches",
+     "remedy-cdmo-2026--alex-glover-holland-barrett",
+     "remedy-cdmo-2026--novonesis-montefarmaco",
+     "remedy-cdmo-2026--sacco-probiotics",
+     "remedy-cdmo-2026--spi-pharma-nordic-biotic"
+    ]
+   },
+   {
+    "id": "market-data",
+    "name": "Market and consumer data",
+    "lessons": [
+     "nutra-healthspan-summit-2026--euromonitor-who-is-winning-healthspan",
+     "nutra-healthspan-summit-2026--lumina-new-longevity-consumer",
+     "nutra-healthspan-summit-2026--from-hype-to-healthspan-building-the",
+     "nutra-healthspan-summit-2026--consumer-insights-straight-from-the-horse",
+     "sans-europe-2026--a-bigger-sports-nutrition-landscape-growth",
+     "sans-europe-2026--unfiltered-an-insider-s-view-of",
+     "sans-europe-2026--glp-won-market-opportunities-for-the",
+     "sans-europe-2026--beyond-the-glp-1-boom-nutrition",
+     "remedy-cdmo-2026--nathan-gray-creatine-new-buyers",
+     "remedy-cdmo-2026--nick-morgan-longevity",
+     "remedy-cdmo-2026--protein-brewery-fermotein"
+    ]
+   },
+   {
+    "id": "regulation",
+    "name": "Regulation and claims",
+    "lessons": [
+     "nutra-healthspan-summit-2026--uthever-nmn-nad-metabolism-sleep-health",
+     "sans-europe-2026--clicks-to-community-turning-digital-engagement",
+     "remedy-cdmo-2026--protein-brewery-fermotein",
+     "remedy-cdmo-2026--panel-evidence-regulation-ai",
+     "remedy-cdmo-2026--hmt-probiotic-market"
+    ]
+   },
+   {
+    "id": "formats",
+    "name": "Formats and manufacturing",
+    "lessons": [
+     "nutra-healthspan-summit-2026--indena-longevity-appearance",
+     "sans-europe-2026--built-in-the-gym-turning-athlete",
+     "remedy-cdmo-2026--favea-ai-mental-shift",
+     "remedy-cdmo-2026--nathan-gray-creatine-new-buyers",
+     "remedy-cdmo-2026--kaneka-ubiquinol",
+     "remedy-cdmo-2026--novosol-optimsm",
+     "remedy-cdmo-2026--solabia-launches",
+     "remedy-cdmo-2026--tantus-longevity-concepts",
+     "remedy-cdmo-2026--2waves-platform",
+     "remedy-cdmo-2026--novonesis-montefarmaco",
+     "remedy-cdmo-2026--sacco-probiotics",
+     "remedy-cdmo-2026--spi-pharma-nordic-biotic"
+    ]
+   },
+   {
+    "id": "supply",
+    "name": "Supply and pricing",
+    "lessons": [
+     "nutra-healthspan-summit-2026--euromonitor-who-is-winning-healthspan",
+     "sans-europe-2026--a-bigger-sports-nutrition-landscape-growth",
+     "sans-europe-2026--unfiltered-an-insider-s-view-of",
+     "sans-europe-2026--whey-collagen-the-protein-power-couple",
+     "remedy-cdmo-2026--aker-biomarine-krill-peakspan",
+     "remedy-cdmo-2026--martin-bauer-rhosera",
+     "remedy-cdmo-2026--panel-evidence-regulation-ai"
+    ]
+   },
+   {
+    "id": "marketing",
+    "name": "Brand and marketing",
+    "lessons": [
+     "nutra-healthspan-summit-2026--ai-driven-personalization-at-scale",
+     "nutra-healthspan-summit-2026--ancient-brave-womens-healthspan",
+     "sans-europe-2026--clicks-to-community-turning-digital-engagement",
+     "sans-europe-2026--built-in-the-gym-turning-athlete",
+     "remedy-cdmo-2026--nick-morgan-longevity",
+     "remedy-cdmo-2026--alex-glover-holland-barrett",
+     "remedy-cdmo-2026--hmt-probiotic-market"
+    ]
+   },
+   {
+    "id": "ai",
+    "name": "AI and technology",
+    "lessons": [
+     "nutra-healthspan-summit-2026--ai-driven-personalization-at-scale",
+     "nutra-healthspan-summit-2026--artificial-intelligence-to-rapidly-develop",
+     "nutra-healthspan-summit-2026--from-data-to-decisions-personalizing",
+     "sans-europe-2026--clicks-to-community-turning-digital-engagement",
+     "remedy-cdmo-2026--favea-ai-mental-shift",
+     "remedy-cdmo-2026--nuritas-peptistrong",
+     "remedy-cdmo-2026--panel-evidence-regulation-ai"
+    ]
+   }
+  ]
+ }
 }

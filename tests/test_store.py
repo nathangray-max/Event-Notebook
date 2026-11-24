@@ -173,3 +173,19 @@ def test_leads_register(fixture_copy):
     assert any("lower-case words" in p for p in probs)
     assert any("added '6 March'" in p for p in probs)
     assert len(store.load_leads(fixture_copy)) == 2
+
+
+def test_facets_check_ids_and_require_tags(fixture_copy):
+    import yaml
+    from confnotes import store
+    (fixture_copy / "facets.yaml").write_text(yaml.safe_dump({"categories": [{"id": "sports", "name": "Sports"}], "tags": [{"id": "science", "name": "Science"}],
+                                                             "ingredients": [{"id": "creatine", "name": "Creatine", "match": ["creatine"]}]}))
+    probs = store.problems(fixture_copy)
+    assert any("summarised but has no tags" in p for p in probs)
+    p = fixture_copy / "events/example-summit-2025/sessions/creatine-beyond-muscle/session.yaml"
+    d = yaml.safe_load(p.read_text()); d["tags"] = ["science", "gossip"]; d["categories"] = ["sports"]
+    p.write_text(yaml.safe_dump(d, sort_keys=False))
+    probs = store.problems(fixture_copy)
+    assert any("tag 'gossip' is not in data/facets.yaml" in p for p in probs)
+    assert not any("summarised but has no tags" in p for p in probs)
+    assert store.ingredient_groups(["CreaWin creatine monohydrate", "zinc"], store.load_facets(fixture_copy)) == ["creatine"]

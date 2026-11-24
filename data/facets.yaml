@@ -1,0 +1,54 @@
+# How talks are tagged for browsing (Nathan, 24 Nov 2026): three kinds of tag.
+#   ingredients  what was discussed. A session's `ingredients` list stays as recorded; each entry is matched to the groups
+#                below by `match` (case-insensitive regular expressions). Our own brands are listed under their ingredient.
+#   categories   the market a talk speaks to, set per session in session.yaml `categories` (ids below).
+#   tags         the kind of insight, set per session in session.yaml `tags` (ids below).
+# Add a group, category or tag only when none fits. Ids never change; names can.
+ingredients:
+- {id: creatine, name: Creatine, match: ['creatine', 'creawin']}
+- {id: whey, name: Whey protein, match: ['\bwhey\b']}
+- {id: plant-protein, name: Pea and plant protein, match: ['\bpea\b', 'isoclr', 'plant protein', 'fava', 'potato protein', 'rice protein']}
+- {id: novel-protein, name: Novel proteins, match: ['mycelium', 'mycoprotein', 'fermotein', 'yeast protein']}
+- {id: milk-protein, name: Milk protein and casein, match: ['milk protein', 'casein', 'dairy protein']}
+- {id: protein-general, name: Protein and amino acids, match: ['^protein', 'clear protein', 'amino acid', 'leucine', '\bbcaa']}
+- {id: collagen, name: Collagen, match: ['collagen', 'peptan', 'uc-ii', 'hydroxyproline']}
+- {id: omega-3, name: Omega-3, match: ['omega', 'krill', 'cod liver', 'fish oil']}
+- {id: rhodiola, name: Rhodiola rosea, match: ['rhodiola', 'rhosera']}
+- {id: magnesium, name: Magnesium, match: ['magnesium', 'threonate']}
+- {id: nad, name: NAD+ precursors (NMN, NR), match: ['\bnad', 'nmn', 'nicotinamide', 'niagen']}
+- {id: urolithin, name: Urolithin A, match: ['urolithin']}
+- {id: spermidine, name: Spermidine, match: ['spermidine']}
+- {id: coq10, name: CoQ10 and ubiquinol, match: ['coq10', 'coenzyme q10', 'ubiquinol', 'novasol q\b']}
+- {id: hmb, name: HMB, match: ['\bhmb\b']}
+- {id: peptides, name: Bioactive peptides, match: ['pepti']}
+- {id: probiotics, name: Probiotics and postbiotics, match: ['probiotic', 'postbiotic', 'synbiotic', 'bifido', 'lactobacillus', 'limosilactobacillus', 'akkermansia', 'biogaia', 'yakult', 'activia', 'lactoflorene', '\bca15\b', 'synbio', 'novonesis strains', 'northbiotic', 'referm', 'live biotherapeutics']}
+- {id: fibre, name: Fibre and prebiotics, match: ['fibre', 'fiber', 'prebiotic', 'inulin', 'oligosacch', '\bhmo\b', 'chitin', 'butyrate', 'microbiomex']}
+- {id: polyphenols, name: Polyphenols and berries, match: ['polyphenol', 'anthocyanin', 'quercetin', 'resveratrol', 'jotrol', 'cherry', 'blackcurrant', 'blueberry', 'pomegranate', 'cocoa', 'hydroxytyrosol', 'oleuropein', 'bonolive', 'brainberry', "watts'up", 'flavanol']}
+- {id: curcumin, name: Curcumin, match: ['curcumin', 'turmeric']}
+- {id: botanicals, name: Adaptogens and botanicals, match: ['adaptogen', 'ashwagandha', 'botanical', 'centella', 'amla', 'berberine', 'reducose', 'mulberry', 'vitex', 'ginger', 'cinnamon', 'sulforaphane', 'menofelis', 'matcha', 'avocatin', 'trigonelline']}
+- {id: astaxanthin, name: Astaxanthin, match: ['astaxanthin']}
+- {id: choline, name: Choline and citicoline, match: ['choline', 'citicoline', 'cogniwin']}
+- {id: carbohydrate, name: Carbohydrate, match: ['carbohydrate', 'glucose', 'fructose', 'maltodextrin']}
+- {id: electrolytes, name: Electrolytes and hydration, match: ['electrolyte', '\bsodium\b', 'sodium bicarbonate']}
+- {id: caffeine, name: Caffeine, match: ['caffeine']}
+- {id: nitrate, name: Dietary nitrate, match: ['nitrate', 'beetroot', 'oxystorm']}
+- {id: vitamins-minerals, name: Vitamins and minerals, match: ['vitamin', 'multivitamin', '\bzinc\b', '\biron\b', 'calcium', 'methylfolate', 'pyridoxine', 'minerals']}
+- {id: msm, name: MSM, match: ['\bmsm\b', 'optimsm']}
+
+categories:
+- {id: glp1, name: GLP-1 and weight management}
+- {id: healthspan, name: Healthspan and ageing}
+- {id: sports, name: Sports performance}
+- {id: womens-health, name: Women's health}
+- {id: gut-health, name: Gut health}
+- {id: brain-sleep, name: Brain, mood and sleep}
+- {id: beauty, name: Beauty from within}
+
+tags:
+- {id: science, name: Science and evidence}
+- {id: market-data, name: Market and consumer data}
+- {id: regulation, name: Regulation and claims}
+- {id: formats, name: Formats and manufacturing}
+- {id: supply, name: Supply and pricing}
+- {id: marketing, name: Brand and marketing}
+- {id: ai, name: AI and technology}

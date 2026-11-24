@@ -2,7 +2,12 @@
    `python -m confnotes team`) and slides/<event>--<session>.json (each talk's slide images). Progress lives in this browser. */
 (function () {
   "use strict";
-  var LIB = null, LESSONS = [], BY_KEY = {}, THEME = {}, COURSE = {};
+  var LIB = null, LESSONS = [], BY_KEY = {}, COURSE = {};
+  // the three kinds of tag (data/facets.yaml): route prefix, heading, field on a talk
+  var KINDS = [{ kind: "categories", prefix: "cat-", label: "Market categories", field: "categories" },
+               { kind: "ingredients", prefix: "ing-", label: "Ingredients", field: "ingredients" },
+               { kind: "tags", prefix: "tag-", label: "Insight type", field: "tags" }];
+  var FACET = {};  // "cat-glp1" -> { name, lessons, kind }
   var app = document.getElementById("app");
   var essentialOnly = false;
 
@@ -76,7 +81,11 @@
     return '<nav class="rail" aria-label="Browse"><div class="rail-inner">' +
       item("home", "All talks", LESSONS.length) + item("essentials", "Essential", LESSONS.filter(function (l) { return l.level === "Essential"; }).length) +
       item("my-learning", "My learning", LESSONS.filter(isDone).length) +
-      "<h4>Themes</h4>" + LIB.themes.map(function (t) { return item("theme-" + t.id, t.name, t.lessons.length); }).join("") +
+      KINDS.map(function (k) {
+        var all = LIB.facets[k.kind] || [], top = k.kind === "ingredients" ? all.slice().sort(function (a, b) { return b.lessons.length - a.lessons.length; }).slice(0, 10) : all;
+        return "<h4>" + k.label + "</h4>" + top.map(function (f) { return item(k.prefix + f.id, f.name, f.lessons.length); }).join("") +
+          (top.length < all.length ? item("ingredients", "All " + all.length + " ingredients", "→") : "");
+      }).join("") +
       "<h4>Shows</h4>" + LIB.courses.map(function (c) { return item(c.id, c.short, c.lessons.length); }).join("") + "</div></nav>";
   }
   function talkRow(l) {
@@ -100,8 +109,8 @@
   function related(l) {
     var c = COURSE[l.event], i = c.lessons.indexOf(l), next = c.lessons[i + 1] || null;
     var scored = LESSONS.filter(function (x) { return x !== l && x !== next; }).map(function (x) {
-      var shared = x.themes.filter(function (t) { return l.themes.indexOf(t) >= 0; }).length;
-      return { x: x, s: shared * 3 + (x.event === l.event ? 1 : 0) + (x.level === "Essential" ? 1 : 0) + (x.thumb ? 1 : 0) - (isDone(x) ? 2 : 0) };
+      var shared = KINDS.reduce(function (a, k) { var w = k.kind === "categories" ? 3 : k.kind === "ingredients" ? 2 : 1; return a + w * x[k.field].filter(function (t) { return l[k.field].indexOf(t) >= 0; }).length; }, 0);
+      return { x: x, s: shared + (x.event === l.event ? 1 : 0) + (x.level === "Essential" ? 1 : 0) + (x.thumb ? 1 : 0) - (isDone(x) ? 2 : 0) };
     }).sort(function (a, b) { return b.s - a.s; }).slice(0, 6).map(function (o) { return o.x; });
     return { next: next, more: scored };
   }
@@ -139,7 +148,10 @@
       (l.for_us ? '<section class="panel for-us"><h2>What it means for Vita Actives</h2><div class="prose">' + prose(l.for_us, l) + "</div></section>" : "") +
       (l.quotes.length ? '<section class="panel"><h2>In their words</h2>' + l.quotes.map(function (q) { return '<blockquote class="quote">' + clean(q, l, false) + "</blockquote>"; }).join("") + "</section>" : "") +
       (l.detail ? '<details class="more"><summary>More detail and figures</summary><div class="prose">' + prose(l.detail, l) + "</div></details>" : "") +
-      (l.themes.length ? '<div class="tags">' + l.themes.filter(function (t) { return THEME[t]; }).map(function (t) { return '<a class="chip" href="#theme-' + t + '">' + esc(THEME[t].name) + "</a>"; }).join("") + "</div>" : "") +
+      '<section class="facets">' + KINDS.map(function (k) {
+        var fs = l[k.field].filter(function (id) { return FACET[k.prefix + id]; });
+        return fs.length ? '<div class="facet-row"><span class="facet-label">' + k.label + '</span><div class="tags">' + fs.map(function (id) { return '<a class="chip" href="#' + k.prefix + id + '">' + esc(FACET[k.prefix + id].name) + "</a>"; }).join("") + "</div></div>" : "";
+      }).join("") + "</section>" +
       '<div class="lesson-foot"><button type="button" class="btn ' + (isDone(l) ? "btn-done" : "btn-ghost") + '" id="mark">' + (isDone(l) ? "✓ Completed" : "Mark as complete") + "</button>" +
       (next ? '<a class="btn btn-primary" href="#' + key(next) + '">Next talk →</a>' : '<a class="btn btn-primary" href="#' + esc(c.id) + '">Back to ' + esc(c.short) + "</a>") + "</div></article>";
     return '<div class="lesson">' + deck + reading + "</div>";
@@ -212,9 +224,12 @@
     if (l) html = lesson(l);
     else if (h === "essentials") html = hub(h, "Start here", "Essential talks", "The talks that matter most to our range and customers, across all three shows.", ordered(LESSONS.filter(function (x) { return x.level === "Essential"; })), false);
     else if (h === "my-learning") html = hub(h, "Your progress", "My learning", LESSONS.filter(isDone).length + " of " + LESSONS.length + " talks completed in this browser.", ordered(LESSONS.filter(isDone)), false);
-    else if (h.indexOf("theme-") === 0 && THEME[h.slice(6)]) {
-      var t = THEME[h.slice(6)];
-      html = hub(h, "Theme", t.name, t.description, ordered(t.lessons.map(function (x) { return BY_KEY[x.event + "--" + x.session]; }).filter(Boolean)), true);
+    else if (FACET[h]) {
+      var f = FACET[h];
+      html = hub(h, f.label, f.name, f.lessons.length + (f.lessons.length === 1 ? " talk" : " talks") + " across the shows.", ordered(f.lessons.map(function (k) { return BY_KEY[k]; }).filter(Boolean)), true);
+    } else if (h === "ingredients") {
+      html = '<div class="hub">' + rail(h) + '<section class="hub-main"><header class="hub-head"><span class="kicker">Ingredients</span><h1>All ingredients</h1><p class="lede">Every ingredient discussed in a talk, grouped. Pick one to see the talks.</p></header><div class="filters">' +
+        LIB.facets.ingredients.map(function (f) { return '<a class="chip" href="#ing-' + f.id + '">' + esc(f.name) + " · " + f.lessons.length + "</a>"; }).join("") + "</div></section></div>";
     } else if (COURSE[h]) {
       var c = COURSE[h];
       html = hub(h, "Show · " + (c.city || ""), c.name, c.lessons.length + " talks, " + (c.start === c.end || !c.end ? fmtDate(c.start) : shortDate(c.start) + " to " + fmtDate(c.end)) + ".", c.lessons, true);
@@ -226,7 +241,7 @@
       });
       html = hub(h, "Search", "“" + q + "”", hits.length + (hits.length === 1 ? " talk matches." : " talks match."), ordered(hits), false);
     } else html = hub("home", "Autumn 2026 · three shows", "What we learned at the shows",
-      LESSONS.length + " talks and " + nSlides + " slides from Remedy CDMO, SANS Europe and the Nutra Healthspan Summit. Pick a theme, or start with the essentials.", ordered(LESSONS), true);
+      LESSONS.length + " talks and " + nSlides + " slides from Remedy CDMO, SANS Europe and the Nutra Healthspan Summit. Browse by market, ingredient or kind of insight, or start with the essentials.", ordered(LESSONS), true);
     app.innerHTML = html;
     window.scrollTo(0, 0);
     if (l) { bindLesson(l); save("sll-last", h); document.title = l.title + " · Show Learning Library"; }
@@ -245,7 +260,7 @@
   fetch("data/library.json").then(function (r) { return r.json(); }).then(function (lib) {
     LIB = lib;
     lib.courses.forEach(function (c) { COURSE[c.id] = c; c.lessons.forEach(function (x) { LESSONS.push(x); BY_KEY[key(x)] = x; }); });
-    lib.themes.forEach(function (t) { THEME[t.id] = t; });
+    KINDS.forEach(function (k) { (lib.facets[k.kind] || []).forEach(function (f) { FACET[k.prefix + f.id] = { name: f.name, lessons: f.lessons, label: k.label }; }); });
     document.getElementById("stamp").textContent = "Updated " + fmtDate(lib.built);
     updateCount();
     route();

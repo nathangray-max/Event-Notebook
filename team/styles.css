@@ -180,6 +180,10 @@ details.more { border-top: 1px solid var(--line); padding-top: 14px; }
 details.more summary { cursor: pointer; font-weight: 650; }
 details.more .prose { padding-top: 12px; font-size: var(--fs-15); }
 .slide-ref { border: 0; background: var(--accent-wash); color: var(--accent); border-radius: 4px; padding: 0 6px; font-size: var(--fs-12); font-weight: 700; cursor: pointer; white-space: nowrap; vertical-align: 1px; }
+.facets { display: flex; flex-direction: column; gap: 10px; border-top: 1px solid var(--line); padding-top: 16px; }
+.facet-row { display: grid; grid-template-columns: 130px minmax(0, 1fr); gap: 10px; align-items: baseline; }
+.facet-label { font-size: var(--fs-12); font-weight: 700; letter-spacing: .08em; text-transform: uppercase; color: var(--ink-3); }
+@media (max-width: 600px) { .facet-row { grid-template-columns: 1fr; gap: 4px; } }
 .lesson-foot { display: flex; gap: 12px; flex-wrap: wrap; justify-content: space-between; align-items: center; border-top: 1px solid var(--line); padding-top: 20px; }
 .tags { display: flex; flex-wrap: wrap; gap: 6px; }
 

@@ -194,6 +194,38 @@ def _allowed(out: List[str], where: str, rec: Dict[str, Any], field: str, allowe
         out.append(f"{where}: {field} '{v}' not in {sorted(allowed)}")
 
 
+def load_facets(root: str | Path = DATA) -> Dict[str, Any]:
+    """data/facets.yaml: the ingredient groups, market categories and tags talks are browsed by ({} when absent)."""
+    p = Path(root) / "facets.yaml"
+    return _yaml(p) if p.exists() else {}
+
+
+def ingredient_groups(raw: List[str], facets: Dict[str, Any]) -> List[str]:
+    """The ingredient group ids a session's recorded ingredients fall into, in the vocabulary's order."""
+    text = [str(x).lower() for x in raw or []]
+    return [g["id"] for g in facets.get("ingredients") or []
+            if any(re.search(m, x) for m in g.get("match") or [] for x in text)]
+
+
+def facet_problems(facets: Dict[str, Any]) -> List[str]:
+    out: List[str] = []
+    for kind in ("ingredients", "categories", "tags"):
+        seen = set()
+        for i, f in enumerate(facets.get(kind) or []):
+            where = f"facets.yaml {kind} #{i + 1}"
+            if not f.get("id") or not ID_RE.match(str(f["id"])) or not f.get("name"):
+                out.append(f"{where}: needs an id (lower-case words joined by hyphens) and a name")
+            if f.get("id") in seen:
+                out.append(f"{where}: id '{f.get('id')}' listed twice")
+            seen.add(f.get("id"))
+            for m in f.get("match") or []:
+                try:
+                    re.compile(m)
+                except re.error as exc:
+                    out.append(f"{where}: match '{m}' is not a valid pattern ({exc})")
+    return out
+
+
 LEAD_KINDS = {"acquisition", "partner", "supplier", "customer"}
 LEAD_STATUS = {"heard", "researching", "in discussion", "parked", "passed"}
 
@@ -235,6 +267,9 @@ def problems(root: str | Path = DATA) -> List[str]:
         store = load(root)
     except Exception as e:  # a yaml that does not parse stops everything else
         return [f"cannot load: {e}"]
+    facets = load_facets(root)
+    out.extend(facet_problems(facets))
+    facet_ids = {k: {f.get("id") for f in facets.get(k) or []} for k in ("categories", "tags")}
     theme_ids = set()
     for t in store["themes"]:
         where = f"themes.yaml ({t.get('id') or 'no id'})"
@@ -313,6 +348,16 @@ def problems(root: str | Path = DATA) -> List[str]:
             for t in s.get("themes") or []:
                 if isinstance(t, str) and t not in theme_ids:
                     out.append(f"{sw}: theme '{t}' is not in data/themes.yaml")
+            for kind in ("categories", "tags"):
+                v = s.get(kind)
+                if v not in (None, "") and (not isinstance(v, list) or not all(isinstance(x, str) for x in v)):
+                    out.append(f"{sw}: {kind} must be a list of ids from data/facets.yaml")
+                    continue
+                for x in v or []:
+                    if facets and x not in facet_ids[kind]:
+                        out.append(f"{sw}: {kind[:-1] if kind == 'tags' else 'category'} '{x}' is not in data/facets.yaml")
+            if facets and s.get("status") in ("summarised", "reviewed") and not s.get("confidential") and not s.get("tags"):
+                out.append(f"{sw}: summarised but has no tags (data/facets.yaml)")
             if s.get("confidential") not in (None, "", True, False):
                 out.append(f"{sw}: confidential must be true or false")
             for sp in s.get("speakers") or []:

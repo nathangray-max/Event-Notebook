@@ -129,7 +129,14 @@ def build(out: Path = OUT, root: str | Path = DATA, stamp: Dict[str, Any] | None
         raise StoreProblems("store has problems, nothing built:\n" + "\n".join(probs))
     st = store.load(root)
     events = sorted((event_record(e) for e in st["events"]), key=lambda e: e.get("start") or "", reverse=True)
-    data = {"generated": stamp or git_stamp(), "events": events, "themes": theme_records(st, events)}
+    facets = store.load_facets(root)
+    for e in events:
+        for s in e["sessions"]:
+            s["categories"] = list(s.get("categories") or [])
+            s["tags"] = list(s.get("tags") or [])
+            s["ingredient_groups"] = store.ingredient_groups(s.get("ingredients"), facets)
+    data = {"generated": stamp or git_stamp(), "events": events, "themes": theme_records(st, events),
+            "facets": {k: [{"id": f["id"], "name": f["name"]} for f in facets.get(k) or []] for k in ("ingredients", "categories", "tags")}}
     out.parent.mkdir(parents=True, exist_ok=True)
     out.write_text(json.dumps(data, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
     return data

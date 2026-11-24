@@ -41,6 +41,13 @@ From the originals and the programme only: `speakers` (name, organisation, role 
 named (our names where we have them: CreaWin, `"IsoClr: Pea"` (quoted: a colon in a YAML list needs quotes), Oxystorm; otherwise as said), `attended_by`, `links`.
 `relevance` and `status` are set below. Unknowns go in `to_check`, one sentence.
 
+Tag the talk for browsing (Nathan, 24 Nov 2026; vocabulary in `data/facets.yaml`): `categories` (the markets it speaks to:
+GLP-1, healthspan, sports, women's health, gut health, brain and sleep, beauty; none for a business or platform talk) and
+`tags` (the kind of insight: science, market-data, regulation, formats, supply, marketing, ai), one to three each, as ids.
+Ingredient groups come from `ingredients` on their own; if an ingredient discussed falls in no group, add its name to the
+nearest group's `match` list, or a new group only when none fits. `python -m confnotes check` refuses a summarised public
+talk without tags.
+
 ## 4. Draft `summary.md`
 
 Only from the originals in the folder. A summary must read as a summary (Nathan, 10 Nov 2026). Model:
