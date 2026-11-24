@@ -1,0 +1,335 @@
+--- page 1 ---
+GUT MICROBIOTA & SPORTS
+Active Nutrition Summit
+June 2025
+MINUTIA.AI
+
+--- page 2 ---
+Minutia.AI Team
+Silvia Barbaresi  – Founder and CSO
+• PhD in Sports Nutrition
+• Registered Biologists and Nutritionist (MSc)
+• Scientific leader in the fields of exercise
+performance, nutrition and gut microbiota
+• Over 10 years consulting for R&D  in food and
+nutraceutical companies
+●
+●
+●
+‘’ Systemic health begins in the gut and properly exploring the athletic gut microbiota will be
+preventing injuries and drops in performance in many professional sports ‘’
+AI Team
+Over 50 years of combined applied experience in
+complex system modelling, with backgrounds in
+computer science, artificial intelligence, molecular
+biology, physics, microbiology, immunology and
+bioinformatics.
+2
+
+--- page 3 ---
+Jose Fonte (Portuguese footballer)
+VO2 Max fitness testing  (Southampton Solent University)
+How long will
+it still be in
+the
+backstage?
+3
+
+--- page 4 ---
+4
+GUT MICROBIOTA: from a hidden organ to a key player
+Microbiome scientists looking at individual biomarkers
+are like people touching a different part of the elephant
+without seeing the big picture.
+Gut microbiome is a complex network of interactions,
+unique and dynamic. Single biomarkers do not grasp the
+overall view, but interpretation of the sophisticated “omic”
+data requires high-profile experts.
+
+--- page 5 ---
+5
+Liu Y. et al., Biomedicine & Pharmacotherapy 163 (2023) 114837
+The GUT-MUSCLE AXIS & Beyond
+GUT MICROBIOTA in SPORTS
+
+--- page 6 ---
+THE SCIENCE: GUT-MUSCLE AXIS
+The GUT-Muscle Axis and the GUT-Joint Axis play a
+key role in sports performance and injury
+prevention.
+‘’One does not fit all’’
+6
+Barbaresi, S. SPORTS INJURY BULLETIN MARCH 2023 VOL 21 ISSUE 3
+Injury-related risk factors
+Gut-Muscle AXISGut-Joint AXIS
+Training Load
+and Recovery
+Precision Nutrition
+(Diet + Probiotics)
+Gut Microbiota-based interventions
+are always customized
+
+--- page 7 ---
+EVER LEARNING ENGINE FOR ATHLETES
+7
+Decision Support Engine
+The first decision support engine for
+athletes that include gut microbiome.
+Gut Microbiome Performance Indexes
+Performance Strength & Performance Endurance
+Index, Injury Index quantify the relationship
+between gut microbiome status and athlete
+performance.
+Intelligent Platform (IP)
+Real-time digital approximation where
+“performance buffer” and injuries risks can
+be continuously monitored and predicted.
+Tailored nutritional interventions.
+
+--- page 8 ---
+HOW IT WORKS
+We collect a stool sample from the athlete
+using our easy-to-use self-collection kit. We
+also ask to complete a full anamnesis
+questionnaire online. For best results, we
+recommend collecting and analysing blood
+and urine samples as well. Knowing baseline
+physical parameters (e.g. VO2max) is also
+required for maximum benefits and insights
+The output is consolidated
+into a comprehensive report
+describing the findings and
+providing an overall
+assessment of your status,
+along with targeted dietary
+recommendations and
+follow-up by our nutritionist
+8
+
+--- page 9 ---
+Minutia.AI Performance: our Positioning
+9
+24 25 26 27 28 29 30 31 32 33 34
+27
+56
+23 24 25 26 27 28 29 30 31 32 33
+Exercise and weighloss Diet & nutrition
+Activity Tracking Lifestyle Management
+25.9
+4.9
+0.3
+2.3
+25 26 27 28 29 30 31 32 33 34
+Performance
+Nutrition
+Sport &
+Rehabilitation
+Centres
+Fitness
+Apps &
+Software
+Human
+Microbiome
+25 26 27 28 29 30 31 32 33 34
+101
+52
+
+--- page 10 ---
+PRODUCT DEVELOPMENT AND VALIDATION
+Clinical Trial on Runners
+Pilot study under completion on a
+selective batch of elite athletes to
+evaluate the impact of diet
+correction and food supplement on
+performance metrics.
+B2B
+Agreements in place with several
+Clinics to supply MINUTIA
+performance testing and report
+service.
+Success cases
+Several performance athletes from
+various sports disciplines (soccer,
+tennis, motors, etc.) have already
+chosen MINUTIA Performance.
+10
+Jules Cluzel
+Superbike World Champion
+
+--- page 11 ---
+11
+OUR R&D - PILOT STUDY ON ENDURANCE ATHLETES
+Runners & Triathletes (N=20)
+● Intervention (N=6)
+● Control (N = 6)
+Aerobic performance parameters (VO2max), body
+composition, blood biomarkers and gut microbiota testing
+before and after targeted nutritional intervention (8 weeks
+duration- all tailored interventions).
+All Males
+VO2max ml/kg/min (49 ± 7)
+Age (46 ± 12)
+In collaboration with:
+
+--- page 12 ---
+CORRELATION ANALYSIS OF TAXONOMIC DATA AND
+FUNCTIONAL PATHWAYS
+CORRELATION ANALYSIS OF TAXONOMIC DATA AND
+CLINICAL MARKERS
+TAXA VS CLINICAL
+PARAMETERS
+CORRELATION
+COEFFICIENT ADJUSTED
+f__Oscillospiraceae VS creatinine 0.76 **
+f__Burkholderiaceae_A VS cholesterol 0.61
+f__Lachnospiraceae VS ldl -0.61
+f__Burkholderiaceae_A VS ldl 0.57
+f__Lactobacillaceae VS uric_acid 0.56
+f__Marinifilaceae VS mcv 0.56
+f__Christensenellaceae VS mcv 0.55
+FUNCTIONAL PATHWAY VS
+CLINICAL PARAMETERS
+CORRELATION
+COEFFICIENT ADJUSTED
+superpathway-of-L-aspartate-and-L-
+asparagine-biosynthesis VS mcv -0.75 ~
+sucrose-degradation-IV-(sucrose-
+phosphorylase) VS total_proteins 0.63
+pyrimidine-deoxyribonucleotide-
+phosphorylation VS mcv 0.62
+glycolysis-IV VS alt 0.61
+gluconeogenesis-I VS rdw 0.6
+glycolysis-I-(from-glucose-6-
+phosphate) VS mcv 0.6
+CORRELATION ANALYSIS OF FUNCTIONAL PATHWAY AND
+CLINICAL MARKERS
+TAXA VS FUNCTIONAL
+PATHWAY
+CORRELATION
+COEFFICIENT ADJUSTED
+f__Bifidobacteriaceae VS
+Bifidobacterium-shunt 0.89 ***
+f__Coriobacteriaceae VS lactose-and-
+galactose-degradation-I 0.89 ***
+f__Bifidobacteriaceae VS L-lysine-
+biosynthesis-I 0.83 ***
+f__Enterobacteriaceae VS glyoxylate-
+cycle 0.83 ***
+f__Bifidobacteriaceae VS starch-
+biosynthesis 0.83 ***
+f__Enterobacteriaceae VS
+superpathway-of-heme-b-
+biosynthesis-from-glutamate
+0.82 ***
+f__Bifidobacteriaceae VS
+superpathway-of-pyrimidine-
+ribonucleosides-degradation
+0.81 ***
+f__Enterobacteriaceae VS
+phosphatidylcholine-acyl-editing 0.8 ***
+f__Bacteroidaceae VS superpathway-
+of-L-aspartate-
+and-L-asparagine-biosynthesis
+0.8 ***
+Significance Legend
+Yellow cells highlight robust associations
+*** — statistically significant association at p < 0.001
+** — statistically significant association at p < 0.01
+* — statistically significant association at p < 0.05
+^ — statistically significant association at p < 0.1
+~ — statistically significant association at p < 0.3
+To reduce false positives from multiple comparisons, p-values from the Spearman’s rank
+correlation were adjusted using the Benjamini–Hochberg correction, which controls the
+false discovery rate.
+ADJUSTED
+
+--- page 13 ---
+EFFECT OF INTERVENTION ON CLINICAL PARAMETERS AS
+COMPARED TO THE CONTROL GROUP
+CLINICAL
+PARAMETE
+R
+ADJUSTED BASELINE
+CHANGE ON
+CLINICAL
+VALUE
+INTERVENTION
+EFFECT ON
+CLINICAL
+VALUE
+CONTROL INTERVENTION
+tibc * ↘ Decrease ↘ Decrease
+total_proteins * ↘ Decrease
+glucose ~ ↘ Decrease
+monocytes ~ ↘ Decrease
+hdl ↘ Decrease
+ldl ~ ↗ Increase
+cholesterol ↗ Increase
+mchc ↗ Increase
+thrombocytes ↘ Decrease
+v02max
+INTERVENTION GROUP
+Significance Legend
+Yellow cells highlight robust associations
+*** — statistically significant association at p < 0.001
+** — statistically significant association at p < 0.01
+* — statistically significant association at p < 0.05
+^ — statistically significant association at p < 0.1
+~ — statistically significant association at p < 0.3
+To reduce false positives from multiple comparisons, p-values from the paired t-tests
+were adjusted using the Benjamini–Hochberg correction, which controls the false
+discovery rate.
+ADJUSTED
+
+--- page 14 ---
+EFFECT OF INTERVENTION ON TAXA FAMILIES AS
+COMPARED TO THE INTERVENTION GROUP
+TAXA
+ADJUSTED BASELINE
+CHANGE ON
+TAXA
+FAMILIES
+INTERVENTION
+EFFECT ON
+TAXA FAMILIESCONTROL INTERVENTION
+f__Eggerthellaceae ~ ^ ↘ Decrease ↘ Decrease
+f__Lachnospiraceae ~ ↘ Decrease
+f__Peptostreptococcaceae ~ ↘ Decrease
+f__Bifidobacteriaceae ↘ Decrease
+f__Coriobacteriaceae ↘ Decrease
+f__UBA1381 ~ ↘ Decrease
+f__Butyricicoccaceae ~ ↘ Decrease
+Significance Legend
+Yellow cells highlight robust associations
+*** — statistically significant association at p < 0.001
+** — statistically significant association at p < 0.01
+* — statistically significant association at p < 0.05
+^ — statistically significant association at p < 0.1
+~ — statistically significant association at p < 0.3
+INTERVENTION GROUP
+To reduce false positives from multiple comparisons, p-values from the paired t-tests were
+adjusted using the Benjamini–Hochberg correction, which controls the false discovery rate.
+ADJUSTED
+
+--- page 15 ---
+CLIENTS & PARTNERS
+13
+
+--- page 16 ---
+14
+WHAT’S NEXT?
+3. Partnering with wearable companies to
+continuously  integrate data from the host with the
+microbiome in our IP
+1. Integrate gut microbiota analysis in more
+longitudinal studies with athletes from different
+sports- cohorts to create the world’s largest collection
+of gut microbiota data in sports
+2. Translate the knowledge and information
+acquired on the field with athletes to the general
+population, exporting Minutia to the LONGEVITY
+market
+
+--- page 17 ---
+CONFIDENTIAL
+® 2024, Minutia.AI Proprietary & Confidential information. All rights reserved.
