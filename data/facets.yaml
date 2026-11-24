@@ -27,9 +27,10 @@ ingredients:
 - {id: curcumin, name: Curcumin, match: ['curcumin', 'turmeric']}
 - {id: botanicals, name: Adaptogens and botanicals, match: ['adaptogen', 'ashwagandha', 'botanical', 'centella', 'amla', 'berberine', 'reducose', 'mulberry', 'vitex', 'ginger', 'cinnamon', 'sulforaphane', 'menofelis', 'matcha', 'avocatin', 'trigonelline']}
 - {id: astaxanthin, name: Astaxanthin, match: ['astaxanthin']}
+- {id: mushrooms, name: Functional mushrooms, match: ['mushroom', "lion's mane", 'reishi', 'chaga', 'cordyceps', 'beta-glucan', 'nordrelease']}
 - {id: choline, name: Choline and citicoline, match: ['choline', 'citicoline', 'cogniwin']}
 - {id: carbohydrate, name: Carbohydrate, match: ['carbohydrate', 'glucose', 'fructose', 'maltodextrin']}
-- {id: electrolytes, name: Electrolytes and hydration, match: ['electrolyte', '\bsodium\b', 'sodium bicarbonate']}
+- {id: electrolytes, name: Electrolytes and hydration, match: ['electrolyte', '\bsodium\b', 'sodium bicarbonate', 'potassium', 'hydration']}
 - {id: caffeine, name: Caffeine, match: ['caffeine']}
 - {id: nitrate, name: Dietary nitrate, match: ['nitrate', 'beetroot', 'oxystorm']}
 - {id: vitamins-minerals, name: Vitamins and minerals, match: ['vitamin', 'multivitamin', '\bzinc\b', '\biron\b', 'calcium', 'methylfolate', 'pyridoxine', 'minerals']}
