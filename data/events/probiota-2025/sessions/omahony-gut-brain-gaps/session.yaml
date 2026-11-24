@@ -28,7 +28,9 @@ summary_date: '2026-11-24'
 reviewed_by: ''
 reviewed_date: ''
 attended_by: []
-links: {}
-to_check: No recording; slides only. The end time is not on the deck. Whether Nathan attended is unknown.
+links:
+  otter: https://otter.ai/u/cIIJB8snTVoRAm6jr0lTZSKAkZ8
+to_check: The end time is not on the deck or in the recording (about 23 minutes). Whether Nathan attended is unknown. Otter
+  labels two words at [21:16] "Speaker 1"; they finish her sentence and are given to her in transcript.md.
 added: '2026-11-24'
-added_by: Claude (from Nathan's archive upload, 24 Nov 2026)
+added_by: Claude (from Nathan's archive upload, 24 Nov 2026; Otter transcript "Gut Brain 1" added 24 Nov 2026)

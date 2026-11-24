@@ -1,0 +1,55 @@
+id: postbiotics-panel
+title: Postbiotics panel
+date: '2025-02-05'
+start: ''
+end: ''
+format: panel
+track: ''
+speakers:
+- name: Stephen Daniells
+  organisation: NutraIngredients
+  role: chair
+- name: Maria Rescigno
+  organisation: Humanitas University
+  role: panellist
+- name: Simone Guglielmetti
+  organisation: ''
+  role: panellist
+- name: Richard Day
+  organisation: ADM
+  role: panellist
+- name: Hongwei Wang
+  organisation: Biogrowing
+  role: panellist
+- name: Marco Pane
+  organisation: ''
+  role: panellist
+themes:
+- probiotic-category-evolution
+- eu-regulation-brake
+- delivery-formats
+categories: [gut-health]
+tags: [science, regulation, formats]
+ingredients:
+- postbiotics
+- Bifidobacterium longum ES1 (ADM, heat-treated whole cell)
+- Bifidobacterium lactis BPL1 (ADM)
+- Akkermansia muciniphila
+- exopolysaccharides
+relevance: low
+status: summarised
+confidential: false
+summary_by: Claude
+summary_date: '2026-11-24'
+reviewed_by: ''
+reviewed_date: ''
+attended_by: []
+links:
+  otter: https://otter.ai/u/ywd-N0x6GbqetbTdz5CL5d8MIHo
+to_check: Title not billed (no programme); the panel followed the Guglielmetti and Rescigno talks on Day 1 (5 Feb 2025) and
+  ended at the morning coffee break (back "By 1155"); exact times not known. Marco Pane's organisation is not said (Otter's label
+  "Probiotical?" is a guess); Simone Guglielmetti's organisation is not said; Otter spells Hongwei Wang "Hongweu". "Speaker 1"
+  is George of the IPA (the chair and Richard Day name him); his surname is not said. The questioner at 35:32 gives his company
+  as what Otter renders "Dan on" (possibly Danone); the one at 39:00 says DSM. Whether Nathan attended is unknown.
+added: '2026-11-24'
+added_by: Claude (from Nathan's Otter recording "Postbiotics Panel", 24 Nov 2026)

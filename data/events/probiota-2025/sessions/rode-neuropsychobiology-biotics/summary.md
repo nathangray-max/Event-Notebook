@@ -1,24 +1,25 @@
 # Neuropsychobiological effects of pro- and prebiotics
 
 ## Summary
-Julia Rode of Örebro University asked what pro- and prebiotics do for the mind, and how we could measure it better.
+Julia Rode, Associate Senior Lecturer at Örebro University, asked what pro- and prebiotics do for the mind, and how we could measure it better. She spoke straight after Novonesis's psychobiotic talk and set out the academic view.
 
-She began with the meta-analyses. Pooled trials show probiotics reducing depressive symptoms, in people with and without depression. In patients with depression the effect held regardless of severity or the number of strains, and lasted to follow-up. But it showed only when probiotics were added to antidepressants, not on their own. Probiotics reduced psychiatric distress but did not significantly reduce anxiety. Prebiotics helped in depression but not in people without it.
+She began with the meta-analyses. Pooled trials show probiotics reducing depressive symptoms, in people with and without depression. In patients with depression the effect held regardless of severity or the number of strains, and lasted to follow-up, but only when probiotics were added to antidepressants. Probiotics reduced psychiatric distress but did not significantly reduce anxiety.
 
-Her critique: almost all of this rests on self-reported rating scales, and few studies look at behaviour, mood, cognition and brain function together. Her answer is neuroimaging. Her group's systematic review, still unpublished, finds a small and mixed set of trials, mostly in healthy adults, with Bifidobacteriaceae or Lactobacillaceae strains over 4 to 24 weeks.
+Her critique: almost all of this rests on self-reported scales, and few studies look at behaviour, mood, cognition and brain function together. Her answer is neuroimaging. Her group's unpublished review finds a small, mixed set of trials, mostly in healthy adults, over 4 to 24 weeks. Across them, probiotics changed resting brain activity, damped the response to negative emotions and improved sleep quality, and scans and symptom scores often moved together.
 
-Across those trials, probiotics changed resting brain activity, damped the brain's response to negative emotions and improved sleep quality. Brain scans and symptom scores often moved together. She ended by saying scanning may pick up subtle effects that symptom scores miss, and the field now needs standard protocols.
+She ended by saying scanning may pick up subtle effects that symptom scores miss, and the field needs standard protocols. In the Q&A she said no one has yet compared strains in the imaging trials, longer intake is probably better, and an hour of scanning costs about €1,000 at her institute.
 
 ## Key takeaways
 - In patients with depression, probiotics reduced depressive symptoms overall (SMD -0.34, -0.46 to -0.22, read from the chart), whatever the severity or the number of strains, and the effect lasted to follow-up (Zhang et al. 2023) (slide 8) (slide 9) (slide 10) (slide 12).
 - On their own, probiotics did not affect depressive symptoms (SMD -0.13, -0.49 to 0.24); added to antidepressant medication, they reduced them (SMD -0.36, -0.49 to -0.24) (slide 11, read from the chart).
 - Probiotics did not significantly affect anxiety (SMD -0.30, -0.60 to 0.01, p=0.06) but did reduce psychiatric distress (SMD -0.33, -0.53 to -0.13, p=0.001) (Le Morvan de Sequeira et al. 2022) (slide 6) (slide 7, read from the charts).
-- Prebiotics reduced depressive symptoms in people with depression (SMD 0.39, 0.04 to 0.73 in favour) but not in people without it (0.13, -0.23 to 0.48) (Hofmeister et al. 2021) (slide 5, read from the chart).
 - The evidence rests on self-reported rating scales; neuroimaging trials of probiotics are few and mixed but mostly high quality, and they report changed resting brain connectivity, less brain involvement under negative emotional stimuli and better sleep quality (Hutchinson et al., unpublished) (slide 13) (slide 15) (slide 19).
+- Q&A: the imaging trials cannot yet be stratified by strain, as only two used the same probiotic; she believes longer intake gives "more resilient results" but there is no evidence-based sweet spot, since most trials ran 4 to 6 weeks and a few 24 [38:23] [39:43] [41:16].
 - Her take-home: imaging "may be more sensitive" than symptom scores and cognitive tests for subtle effects of mild, short interventions, and the field needs standardised protocols (slide 23).
 
 ## For Vita Actives
 - Relevance low: the talk touches us only indirectly. It is about probiotics and prebiotics for mood, not about any ingredient we sell.
+- Her Q&A puts a price on objective brain data: about €1,000 an hour of scanning at her institute, given as a rough guess [39:43].
 - My reading: her method point carries over. Brain claims built on self-reported scales are the weak spot she names; if we ever pitch creatine for cognition, brain-imaging or objective test data would be the stronger evidence to look for.
 - My reading: her sleep-quality finding and the mood results sit in the brain, mood and sleep market where healthy-ageing customers buy, but nothing here links to creatine, pea protein or nitrate.
 
@@ -26,8 +27,10 @@ Across those trials, probiotics changed resting brain activity, damped the brain
 - "Evidence from self-reported rating scales" (slide 13)
 - "Relatively small number of studies with considerable heterogeneity" (slide 15)
 - "Effects on neuroimaging outcomes and clinical symptom ratings" (slide 22)
+- "I'm an academic. I don't have a commercial interest." Julie Rode (Otter's spelling) [18:34]
 
 ## Detail
+- Prebiotics reduced depressive symptoms in people with depression (SMD 0.39, 0.04 to 0.73 in favour) but not in people without it (0.13, -0.23 to 0.48) (Hofmeister et al. 2021) (slide 5, read from the chart).
 - The gut-brain axis diagram is Robert Brummer's (2014) (slide 2).
 - No "healthy" microbiota has been defined, but it is marked by high diversity; IBS, depression, anxiety, autism, ADHD and dementia are named as conditions with neuropsychological parts linked to dysbiosis (slide 3).
 - Hofmeister et al. 2021 (PMID 34933877): in populations without depression, probiotics favoured the intervention (SMD 0.31, 0.15 to 0.46, 34 trials); in populations with depression 0.78 (0.19 to 1.37); synbiotics without depression 0.68 (0.36 to 1.00); one synbiotic trial in depression and one faecal transplant trial showed no clear effect (slide 4) (slide 5, read from the charts).
@@ -38,10 +41,15 @@ Across those trials, probiotics changed resting brain activity, damped the brain
 - Her own example (Rode et al. 2022, PMID 36139496 and 35571902): brain responses to emotional tasks changed on a probiotic, and total HADS and HADS depression scores fell against placebo over 4 weeks (slide 20, read from the charts).
 - A figure from Crocetta et al. 2024 (PMID 39360283) maps brain regions changed by probiotics in healthy people across task-based and resting-state fMRI studies (slide 21).
 - Most neuroimaging studies of probiotics were published in the last 5 years (slide 23). Figures date from February 2025.
+- Spoken: in healthy populations, "similar as the studies that Louis just presented", probiotics reduced depressive symptoms; whether such effects matter when people already feel well is "very hard to say" [18:34].
+- Spoken: the anxiety evidence is thinner than for depression, so "this might be an outcome subject to change" [18:34].
+- Resting-state fMRI protocols vary across gut-brain studies (5 or 10 minutes, eyes open or closed); the wider field is becoming more standardised [42:03].
+- A questioner from DSM-Firmenich (Otter "DSM Fermi") asked about duration and the cost of imaging in an 80-subject trial [39:04].
 - No slide is marked "Confidential".
 
 ## Follow-ups
-- Confirm whether Nathan attended and the end time; her role at Örebro University is not on the deck.
+- Confirm whether Nathan attended and the end time.
+- She returned for the panel (gut-brain-debate-psychobiotics). Louis Koeninger's B. longum 1714 data (novonesis-b-longum-1714-psychobiotic) are self-report and cortisol in healthy adults: the kind of evidence her imaging approach would add to.
 - Find Hutchinson et al. (the unpublished neuroimaging review) once published.
 - Her finding that probiotics did not significantly reduce anxiety bears on Siobhain O'Mahony's call for microbiome products against sports anxiety (omahony-gut-brain-gaps).
 - Morinaga used brain MRI as a secondary outcome for B. breve MCC1274 (morinaga-b-breve-cognitive), the kind of objective measure she argues for.

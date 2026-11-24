@@ -1,0 +1,5 @@
+# Otter.ai's automatic summary, as received. Not ours.
+
+Recording "Probiotic brain - morinaga & debate" (https://otter.ai/u/N8RsEzPJAJ1NAWHYtprSTk53jUE). It covers the whole recording: the Morinaga talk (morinaga-b-breve-cognitive) and the gut-brain panel (gut-brain-debate-psychobiotics).
+
+The discussion focused on the role of probiotics, particularly MCC 1274, in cognitive health and dementia prevention. Key points included the increasing global dementia rates, with 46 million cases in 2015 and projected to double by 2050. MCC 1274, a human residential strain, showed promising results in clinical trials, improving cognitive function and reducing brain atrophy. The conversation also highlighted the need for more research on sex differences in microbiome studies, the potential of prebiotics, and the challenges of translating research to healthy populations. The panel emphasized the importance of personalized approaches and the role of in silico methods in advancing psychobiotic research.

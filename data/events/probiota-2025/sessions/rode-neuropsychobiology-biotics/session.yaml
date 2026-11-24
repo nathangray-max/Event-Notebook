@@ -8,7 +8,7 @@ track: ''
 speakers:
 - name: Julia Rode, PhD
   organisation: Örebro University
-  role: ''
+  role: Associate Senior Lecturer
 themes:
 - probiotic-category-evolution
 categories: [brain-sleep, gut-health]
@@ -25,8 +25,10 @@ summary_date: '2026-11-24'
 reviewed_by: ''
 reviewed_date: ''
 attended_by: []
-links: {}
-to_check: No recording; slides only. The end time is not on the deck. Whether Nathan attended is unknown. The organisation is
-  read from the Örebro University logo on every slide; her role is not given.
+links:
+  otter: https://otter.ai/u/c4koGvlc2VylySbscll9D7dJDC0
+to_check: The end time is not on the deck; her part of the recording runs about 25 minutes with Q&A. Whether Nathan attended is
+  unknown. The audience turns are unnamed (Otter "Speaker 1" and
+  "Speaker unknown"); one questioner was from DSM-Firmenich.
 added: '2026-11-24'
-added_by: Claude (from Nathan's archive upload, 24 Nov 2026)
+added_by: Claude (from Nathan's archive upload, 24 Nov 2026; Otter transcript "Gut brain 2" added 24 Nov 2026)

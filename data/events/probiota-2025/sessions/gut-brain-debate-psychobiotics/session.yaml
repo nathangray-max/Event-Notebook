@@ -1,0 +1,53 @@
+id: gut-brain-debate-psychobiotics
+title: Gut-brain axis panel discussion
+date: '2025-02-05'
+start: ''
+end: ''
+format: panel
+track: ''
+speakers:
+- name: Stephen Daniells
+  organisation: NutraIngredients
+  role: Moderator
+- name: Dr Siobhain O'Mahony
+  organisation: APC Microbiome Ireland, University College Cork
+  role: ''
+- name: Julia Rode, PhD
+  organisation: Örebro University
+  role: ''
+- name: Dr Katie Guzzetta
+  organisation: ETH Zurich
+  role: ''
+- name: Dr Emily Prpa
+  organisation: Yakult UK and Ireland
+  role: Head of Science
+themes:
+- probiotic-category-evolution
+- outcomes-over-mechanisms
+- longevity-positioning
+categories: [brain-sleep, gut-health]
+tags: [science]
+ingredients:
+- probiotics (single-strain and multi-strain)
+- prebiotics (inulin named)
+- synbiotics
+- short-chain fatty acids (acetate)
+- faecal microbiota transplant
+- bacteriophages
+relevance: low
+status: summarised
+confidential: false
+summary_by: Claude
+summary_date: '2026-11-24'
+reviewed_by: ''
+reviewed_date: ''
+attended_by: []
+links:
+  otter: https://otter.ai/u/N8RsEzPJAJ1NAWHYtprSTk53jUE
+to_check: The billed title, start and end times are not in the recording; the title is as the chair announced it ("the gut,
+  brain access panel discussion", as Otter heard it). The transcript ends at [1:29:50] mid-question, so the rest of the panel
+  is missing. Otter labels Julia Rode "Julie Rode"; the chair and Emily Prpa address her as Julia. Emily Prpa refers to a talk
+  by "Louis" on a subjective stress scale (probably novonesis-b-longum-1714-psychobiotic); whether Louis Koeninger or Asuka
+  Tada sat on the panel is not clear, as neither speaks in the transcript. Whether Nathan attended is unknown.
+added: '2026-11-24'
+added_by: Claude (from Nathan's Otter recording and its export, 24 Nov 2026)

@@ -26,7 +26,9 @@ summary_date: '2026-11-24'
 reviewed_by: ''
 reviewed_date: ''
 attended_by: []
-links: {}
-to_check: No recording; slides only. The end time is not on the deck. Whether Nathan attended is unknown.
+links:
+  otter: https://otter.ai/u/N8RsEzPJAJ1NAWHYtprSTk53jUE
+to_check: The talk and Q&A are [00:00] to [18:40] of the Otter recording, which starts after the opening of the talk and
+  is dated 12 Feb 2025 in Otter (after the event). The end time is not on the deck. Whether Nathan attended is unknown.
 added: '2026-11-24'
 added_by: Claude (from Nathan's archive upload, 24 Nov 2026)
