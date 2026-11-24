@@ -1,7 +1,7 @@
 {
  "schema": "confnotes.sessions/1",
- "built": "2026-11-23",
- "commit": "77d50e9",
+ "built": "2026-11-24",
+ "commit": "c2c9e79",
  "count": 51,
  "items": [
   {
@@ -24,6 +24,13 @@
     "longevity-positioning"
    ],
    "ingredients": [],
+   "ingredient_groups": [],
+   "categories": [
+    "healthspan"
+   ],
+   "tags": [
+    "science"
+   ],
    "relevance": "low",
    "status": "summarised",
    "summary_by": "Claude",
@@ -183,6 +190,23 @@
     "resveratrol",
     "postbiotics",
     "collagen"
+   ],
+   "ingredient_groups": [
+    "protein-general",
+    "collagen",
+    "magnesium",
+    "nad",
+    "spermidine",
+    "probiotics",
+    "polyphenols"
+   ],
+   "categories": [
+    "healthspan",
+    "sports"
+   ],
+   "tags": [
+    "market-data",
+    "supply"
    ],
    "relevance": "high",
    "status": "summarised",
@@ -515,6 +539,24 @@
     "botanical extracts",
     "postbiotics",
     "nicotinamide riboside (Niagen)"
+   ],
+   "ingredient_groups": [
+    "protein-general",
+    "omega-3",
+    "nad",
+    "coq10",
+    "probiotics",
+    "fibre",
+    "polyphenols",
+    "botanicals",
+    "vitamins-minerals"
+   ],
+   "categories": [
+    "healthspan",
+    "glp1"
+   ],
+   "tags": [
+    "market-data"
    ],
    "relevance": "high",
    "status": "summarised",
@@ -978,6 +1020,22 @@
     "omega-3 (fish oil)",
     "\"N and N from Japan\" (as Otter heard it; unclear)"
    ],
+   "ingredient_groups": [
+    "creatine",
+    "collagen",
+    "omega-3",
+    "nad",
+    "urolithin",
+    "spermidine",
+    "vitamins-minerals"
+   ],
+   "categories": [
+    "healthspan",
+    "glp1"
+   ],
+   "tags": [
+    "market-data"
+   ],
    "relevance": "high",
    "status": "summarised",
    "summary_by": "Claude",
@@ -1264,6 +1322,18 @@
     "postbiotics",
     "human milk oligosaccharides (Otter heard \"HFOs\")",
     "protein (high-protein diets, animal studies)"
+   ],
+   "ingredient_groups": [
+    "protein-general",
+    "probiotics",
+    "fibre"
+   ],
+   "categories": [
+    "gut-health",
+    "healthspan"
+   ],
+   "tags": [
+    "science"
    ],
    "relevance": "medium",
    "status": "summarised",
@@ -1657,6 +1727,27 @@
     "postbiotics",
     "mycoprotein (mycelium)"
    ],
+   "ingredient_groups": [
+    "creatine",
+    "novel-protein",
+    "protein-general",
+    "collagen",
+    "omega-3",
+    "magnesium",
+    "nad",
+    "spermidine",
+    "probiotics",
+    "polyphenols",
+    "botanicals",
+    "vitamins-minerals"
+   ],
+   "categories": [
+    "healthspan",
+    "sports"
+   ],
+   "tags": [
+    "market-data"
+   ],
    "relevance": "high",
    "status": "summarised",
    "summary_by": "Claude",
@@ -1940,6 +2031,21 @@
     "polyphenols (resveratrol, quercetin, piceatannol)",
     "dairy protein micelles"
    ],
+   "ingredient_groups": [
+    "creatine",
+    "milk-protein",
+    "nad",
+    "urolithin",
+    "polyphenols",
+    "botanicals",
+    "vitamins-minerals"
+   ],
+   "categories": [
+    "healthspan"
+   ],
+   "tags": [
+    "science"
+   ],
    "relevance": "high",
    "status": "summarised",
    "summary_by": "Claude",
@@ -2186,6 +2292,17 @@
     "NMN (nicotinamide mononucleotide; UTHEVER, EffePharm)",
     "NAD+"
    ],
+   "ingredient_groups": [
+    "nad"
+   ],
+   "categories": [
+    "healthspan",
+    "brain-sleep"
+   ],
+   "tags": [
+    "science",
+    "regulation"
+   ],
    "relevance": "medium",
    "status": "summarised",
    "summary_by": "Claude",
@@ -2426,6 +2543,9 @@
    "speakers": [],
    "themes": [],
    "ingredients": [],
+   "ingredient_groups": [],
+   "categories": [],
+   "tags": [],
    "relevance": "",
    "status": "captured",
    "summary_by": "",
@@ -2461,6 +2581,9 @@
    "speakers": [],
    "themes": [],
    "ingredients": [],
+   "ingredient_groups": [],
+   "categories": [],
+   "tags": [],
    "relevance": "",
    "status": "captured",
    "summary_by": "",
@@ -2496,6 +2619,9 @@
    "speakers": [],
    "themes": [],
    "ingredients": [],
+   "ingredient_groups": [],
+   "categories": [],
+   "tags": [],
    "relevance": "",
    "status": "captured",
    "summary_by": "",
@@ -2543,6 +2669,16 @@
    "ingredients": [
     "iron",
     "vitamin D"
+   ],
+   "ingredient_groups": [
+    "vitamins-minerals"
+   ],
+   "categories": [
+    "healthspan",
+    "glp1"
+   ],
+   "tags": [
+    "science"
    ],
    "relevance": "high",
    "status": "summarised",
@@ -2733,6 +2869,16 @@
    "ingredients": [
     "magnesium (citrate, glycinate, bisglycinate, threonate; Otter also heard \"L-3-on-8\")"
    ],
+   "ingredient_groups": [
+    "magnesium"
+   ],
+   "categories": [
+    "healthspan"
+   ],
+   "tags": [
+    "ai",
+    "marketing"
+   ],
    "relevance": "medium",
    "status": "summarised",
    "summary_by": "Claude",
@@ -2914,6 +3060,16 @@
    "ingredients": [
     "avocatin B (from avocado; Otter heard \"avocat and B\"; ALT's product metavo)",
     "Menofelis (Finzelberg's Siberian rhubarb extract, on ALT's slide)"
+   ],
+   "ingredient_groups": [
+    "botanicals"
+   ],
+   "categories": [
+    "healthspan"
+   ],
+   "tags": [
+    "ai",
+    "science"
    ],
    "relevance": "high",
    "status": "summarised",
@@ -3182,6 +3338,14 @@
     "outcomes-over-mechanisms"
    ],
    "ingredients": [],
+   "ingredient_groups": [],
+   "categories": [
+    "healthspan"
+   ],
+   "tags": [
+    "ai",
+    "science"
+   ],
    "relevance": "high",
    "status": "summarised",
    "summary_by": "Claude",
@@ -3433,6 +3597,20 @@
     "magnesium (True Magnesium+; pictured)",
     "botanicals (in menopause supplements)"
    ],
+   "ingredient_groups": [
+    "creatine",
+    "collagen",
+    "magnesium",
+    "botanicals"
+   ],
+   "categories": [
+    "womens-health",
+    "healthspan"
+   ],
+   "tags": [
+    "science",
+    "marketing"
+   ],
    "relevance": "high",
    "status": "summarised",
    "summary_by": "Claude",
@@ -3676,6 +3854,17 @@
     "Centella asiatica extract formulated with phospholipids (CAP; Centextra in the in vitro paper)",
     "lecithin (sunflower)",
     "triterpenes (asiaticoside, madecassoside, asiatic acid, madecassic acid)"
+   ],
+   "ingredient_groups": [
+    "botanicals"
+   ],
+   "categories": [
+    "beauty",
+    "healthspan"
+   ],
+   "tags": [
+    "science",
+    "formats"
    ],
    "relevance": "medium",
    "status": "summarised",
@@ -3953,6 +4142,24 @@
     "caseinate",
     "yeast protein",
     "mycelium protein"
+   ],
+   "ingredient_groups": [
+    "creatine",
+    "whey",
+    "plant-protein",
+    "novel-protein",
+    "milk-protein",
+    "collagen",
+    "magnesium",
+    "electrolytes"
+   ],
+   "categories": [
+    "sports",
+    "healthspan"
+   ],
+   "tags": [
+    "market-data",
+    "supply"
    ],
    "relevance": "high",
    "status": "summarised",
@@ -4435,6 +4642,18 @@
     "sweet whey powder",
     "lactose"
    ],
+   "ingredient_groups": [
+    "whey",
+    "plant-protein",
+    "milk-protein"
+   ],
+   "categories": [
+    "sports"
+   ],
+   "tags": [
+    "supply",
+    "market-data"
+   ],
    "relevance": "high",
    "status": "summarised",
    "summary_by": "Claude",
@@ -4868,6 +5087,20 @@
     "collagen",
     "caffeine"
    ],
+   "ingredient_groups": [
+    "creatine",
+    "collagen",
+    "magnesium",
+    "caffeine"
+   ],
+   "categories": [
+    "sports"
+   ],
+   "tags": [
+    "marketing",
+    "regulation",
+    "ai"
+   ],
    "relevance": "medium",
    "status": "summarised",
    "summary_by": "Claude",
@@ -5088,6 +5321,21 @@
     "ashwagandha",
     "vitamin D",
     "calcium"
+   ],
+   "ingredient_groups": [
+    "creatine",
+    "protein-general",
+    "collagen",
+    "botanicals",
+    "carbohydrate",
+    "vitamins-minerals"
+   ],
+   "categories": [
+    "womens-health",
+    "sports"
+   ],
+   "tags": [
+    "science"
    ],
    "relevance": "high",
    "status": "summarised",
@@ -5330,6 +5578,16 @@
     "maltodextrin",
     "fructose",
     "glucose"
+   ],
+   "ingredient_groups": [
+    "carbohydrate"
+   ],
+   "categories": [
+    "sports",
+    "womens-health"
+   ],
+   "tags": [
+    "science"
    ],
    "relevance": "low",
    "status": "summarised",
@@ -5709,6 +5967,20 @@
     "whey protein isolate",
     "Nextida GC"
    ],
+   "ingredient_groups": [
+    "whey",
+    "collagen",
+    "peptides",
+    "vitamins-minerals"
+   ],
+   "categories": [
+    "sports",
+    "healthspan"
+   ],
+   "tags": [
+    "science",
+    "supply"
+   ],
    "relevance": "high",
    "status": "summarised",
    "summary_by": "Claude",
@@ -5968,6 +6240,24 @@
     "curcumin",
     "probiotics"
    ],
+   "ingredient_groups": [
+    "creatine",
+    "protein-general",
+    "omega-3",
+    "magnesium",
+    "probiotics",
+    "curcumin",
+    "carbohydrate",
+    "electrolytes",
+    "vitamins-minerals"
+   ],
+   "categories": [
+    "sports"
+   ],
+   "tags": [
+    "marketing",
+    "formats"
+   ],
    "relevance": "high",
    "status": "summarised",
    "summary_by": "Claude",
@@ -6172,6 +6462,9 @@
    "speakers": [],
    "themes": [],
    "ingredients": [],
+   "ingredient_groups": [],
+   "categories": [],
+   "tags": [],
    "relevance": "",
    "status": "captured",
    "summary_by": "",
@@ -6231,6 +6524,21 @@
     "protein",
     "creatine",
     "caffeine"
+   ],
+   "ingredient_groups": [
+    "creatine",
+    "protein-general",
+    "polyphenols",
+    "curcumin",
+    "botanicals",
+    "caffeine",
+    "nitrate"
+   ],
+   "categories": [
+    "sports"
+   ],
+   "tags": [
+    "science"
    ],
    "relevance": "medium",
    "status": "summarised",
@@ -6445,6 +6753,18 @@
     "protein",
     "iron"
    ],
+   "ingredient_groups": [
+    "protein-general",
+    "carbohydrate",
+    "vitamins-minerals"
+   ],
+   "categories": [
+    "sports",
+    "womens-health"
+   ],
+   "tags": [
+    "science"
+   ],
    "relevance": "medium",
    "status": "summarised",
    "summary_by": "Claude",
@@ -6651,6 +6971,9 @@
    "speakers": [],
    "themes": [],
    "ingredients": [],
+   "ingredient_groups": [],
+   "categories": [],
+   "tags": [],
    "relevance": "",
    "status": "captured",
    "summary_by": "",
@@ -6694,6 +7017,11 @@
    "ingredients": [
     "turmeric"
    ],
+   "ingredient_groups": [
+    "curcumin"
+   ],
+   "categories": [],
+   "tags": [],
    "relevance": "",
    "status": "captured",
    "summary_by": "",
@@ -6750,6 +7078,23 @@
     "HMB",
     "postbiotics",
     "berberine"
+   ],
+   "ingredient_groups": [
+    "creatine",
+    "protein-general",
+    "omega-3",
+    "hmb",
+    "probiotics",
+    "fibre",
+    "botanicals",
+    "vitamins-minerals"
+   ],
+   "categories": [
+    "glp1",
+    "sports"
+   ],
+   "tags": [
+    "market-data"
    ],
    "relevance": "high",
    "status": "summarised",
@@ -7037,6 +7382,9 @@
    ],
    "themes": [],
    "ingredients": [],
+   "ingredient_groups": [],
+   "categories": [],
+   "tags": [],
    "relevance": "",
    "status": "captured",
    "summary_by": "",
@@ -7096,6 +7444,23 @@
     "fibre",
     "probiotics",
     "multivitamins"
+   ],
+   "ingredient_groups": [
+    "whey",
+    "plant-protein",
+    "protein-general",
+    "probiotics",
+    "fibre",
+    "polyphenols",
+    "curcumin",
+    "botanicals",
+    "vitamins-minerals"
+   ],
+   "categories": [
+    "glp1"
+   ],
+   "tags": [
+    "science"
    ],
    "relevance": "high",
    "status": "summarised",
@@ -7440,6 +7805,27 @@
     "berberine",
     "magnesium"
    ],
+   "ingredient_groups": [
+    "creatine",
+    "whey",
+    "plant-protein",
+    "milk-protein",
+    "protein-general",
+    "collagen",
+    "magnesium",
+    "hmb",
+    "probiotics",
+    "fibre",
+    "botanicals",
+    "vitamins-minerals"
+   ],
+   "categories": [
+    "glp1",
+    "sports"
+   ],
+   "tags": [
+    "market-data"
+   ],
    "relevance": "high",
    "status": "summarised",
    "summary_by": "Claude",
@@ -7688,6 +8074,16 @@
     "krill oil (Superba Krill, Superba2, Superba Boost)",
     "omega-3 (EPA, DHA)"
    ],
+   "ingredient_groups": [
+    "omega-3"
+   ],
+   "categories": [
+    "healthspan"
+   ],
+   "tags": [
+    "science",
+    "supply"
+   ],
    "relevance": "medium",
    "status": "summarised",
    "summary_by": "Claude",
@@ -7878,6 +8274,20 @@
     "postbiotics",
     "zinc",
     "iron"
+   ],
+   "ingredient_groups": [
+    "omega-3",
+    "coq10",
+    "probiotics",
+    "polyphenols",
+    "astaxanthin",
+    "choline",
+    "vitamins-minerals"
+   ],
+   "categories": [],
+   "tags": [
+    "ai",
+    "formats"
    ],
    "relevance": "medium",
    "status": "summarised",
@@ -8088,6 +8498,22 @@
     "electrolytes",
     "magnesium",
     "collagen"
+   ],
+   "ingredient_groups": [
+    "creatine",
+    "collagen",
+    "magnesium",
+    "hmb",
+    "choline",
+    "electrolytes"
+   ],
+   "categories": [
+    "sports",
+    "healthspan"
+   ],
+   "tags": [
+    "market-data",
+    "formats"
    ],
    "relevance": "high",
    "status": "summarised",
@@ -8310,6 +8736,22 @@
     "NMN",
     "citicoline"
    ],
+   "ingredient_groups": [
+    "creatine",
+    "nad",
+    "spermidine",
+    "coq10",
+    "polyphenols",
+    "curcumin",
+    "choline"
+   ],
+   "categories": [
+    "healthspan"
+   ],
+   "tags": [
+    "market-data",
+    "marketing"
+   ],
    "relevance": "high",
    "status": "summarised",
    "summary_by": "Claude",
@@ -8526,6 +8968,22 @@
     "PeptiYouth",
     "PeptiProtect",
     "PeptiPump"
+   ],
+   "ingredient_groups": [
+    "creatine",
+    "plant-protein",
+    "milk-protein",
+    "protein-general",
+    "hmb",
+    "peptides"
+   ],
+   "categories": [
+    "sports",
+    "healthspan"
+   ],
+   "tags": [
+    "science",
+    "ai"
    ],
    "relevance": "high",
    "status": "summarised",
@@ -8859,6 +9317,18 @@
     "vitamin C",
     "vitamin E"
    ],
+   "ingredient_groups": [
+    "coq10",
+    "vitamins-minerals"
+   ],
+   "categories": [
+    "healthspan",
+    "sports"
+   ],
+   "tags": [
+    "science",
+    "formats"
+   ],
    "relevance": "low",
    "status": "summarised",
    "summary_by": "Claude",
@@ -9158,6 +9628,21 @@
     "vitamin K2",
     "methylfolate"
    ],
+   "ingredient_groups": [
+    "coq10",
+    "polyphenols",
+    "curcumin",
+    "astaxanthin",
+    "choline",
+    "vitamins-minerals",
+    "msm"
+   ],
+   "categories": [
+    "sports"
+   ],
+   "tags": [
+    "formats"
+   ],
    "relevance": "medium",
    "status": "summarised",
    "summary_by": "Claude",
@@ -9404,6 +9889,21 @@
     "spermidine",
     "magnesium",
     "B vitamins"
+   ],
+   "ingredient_groups": [
+    "protein-general",
+    "rhodiola",
+    "magnesium",
+    "spermidine",
+    "vitamins-minerals"
+   ],
+   "categories": [
+    "healthspan",
+    "sports"
+   ],
+   "tags": [
+    "science",
+    "supply"
    ],
    "relevance": "high",
    "status": "summarised",
@@ -9671,6 +10171,20 @@
     "WATTS'UP (citrus extract; heard as WhatsApp)",
     "Bonolive (olive leaf extract; heard as Bun Olive)"
    ],
+   "ingredient_groups": [
+    "creatine",
+    "collagen",
+    "fibre",
+    "polyphenols"
+   ],
+   "categories": [
+    "healthspan",
+    "womens-health"
+   ],
+   "tags": [
+    "science",
+    "formats"
+   ],
    "relevance": "high",
    "status": "summarised",
    "summary_by": "Claude",
@@ -9916,6 +10430,20 @@
     "Kaneka Ubiquinol",
     "B vitamins",
     "PeptiStrong (Nuritas plant peptides)"
+   ],
+   "ingredient_groups": [
+    "creatine",
+    "coq10",
+    "peptides",
+    "polyphenols",
+    "choline",
+    "vitamins-minerals"
+   ],
+   "categories": [
+    "healthspan"
+   ],
+   "tags": [
+    "formats"
    ],
    "relevance": "high",
    "status": "summarised",
@@ -10174,6 +10702,22 @@
     "vitamin B6",
     "fava protein",
     "inulin (benchmark in a lab study)"
+   ],
+   "ingredient_groups": [
+    "plant-protein",
+    "novel-protein",
+    "spermidine",
+    "fibre",
+    "choline",
+    "vitamins-minerals"
+   ],
+   "categories": [
+    "glp1",
+    "healthspan"
+   ],
+   "tags": [
+    "regulation",
+    "market-data"
    ],
    "relevance": "high",
    "status": "summarised",
@@ -10450,6 +10994,22 @@
     "UC-II",
     "anthocyanins"
    ],
+   "ingredient_groups": [
+    "protein-general",
+    "collagen",
+    "nad",
+    "fibre",
+    "polyphenols",
+    "curcumin",
+    "vitamins-minerals"
+   ],
+   "categories": [
+    "healthspan"
+   ],
+   "tags": [
+    "science",
+    "marketing"
+   ],
    "relevance": "medium",
    "status": "summarised",
    "summary_by": "Claude",
@@ -10681,6 +11241,11 @@
     "cdmo-partnership-models"
    ],
    "ingredients": [],
+   "ingredient_groups": [],
+   "categories": [],
+   "tags": [
+    "formats"
+   ],
    "relevance": "medium",
    "status": "summarised",
    "summary_by": "Claude",
@@ -10872,6 +11437,23 @@
     "probiotics",
     "rhodiola",
     "fibre"
+   ],
+   "ingredient_groups": [
+    "creatine",
+    "protein-general",
+    "omega-3",
+    "rhodiola",
+    "magnesium",
+    "probiotics",
+    "fibre",
+    "astaxanthin",
+    "vitamins-minerals"
+   ],
+   "categories": [],
+   "tags": [
+    "regulation",
+    "supply",
+    "ai"
    ],
    "relevance": "medium",
    "status": "summarised",
@@ -11110,6 +11692,17 @@
     "Yakult",
     "Danone Activia",
     "Poppi"
+   ],
+   "ingredient_groups": [
+    "probiotics",
+    "fibre"
+   ],
+   "categories": [
+    "gut-health"
+   ],
+   "tags": [
+    "marketing",
+    "regulation"
    ],
    "relevance": "medium",
    "status": "summarised",
@@ -11368,6 +11961,18 @@
     "zinc",
     "vitamin B"
    ],
+   "ingredient_groups": [
+    "probiotics",
+    "fibre",
+    "vitamins-minerals"
+   ],
+   "categories": [
+    "gut-health"
+   ],
+   "tags": [
+    "formats",
+    "science"
+   ],
    "relevance": "medium",
    "status": "summarised",
    "summary_by": "Claude",
@@ -11538,6 +12143,18 @@
     "next-generation probiotics and live biotherapeutics",
     "butyrate",
     "fluconazole (co-administration tested)"
+   ],
+   "ingredient_groups": [
+    "probiotics",
+    "fibre"
+   ],
+   "categories": [
+    "gut-health",
+    "womens-health"
+   ],
+   "tags": [
+    "science",
+    "formats"
    ],
    "relevance": "medium",
    "status": "summarised",
@@ -11843,6 +12460,21 @@
     "Lactobacillus acidophilus 120",
     "Lactobacillus fermentum 160",
     "GLP-1 companion product (Nordic Biotic and Azento)"
+   ],
+   "ingredient_groups": [
+    "magnesium",
+    "probiotics",
+    "electrolytes",
+    "caffeine",
+    "vitamins-minerals"
+   ],
+   "categories": [
+    "gut-health",
+    "glp1"
+   ],
+   "tags": [
+    "formats",
+    "science"
    ],
    "relevance": "medium",
    "status": "summarised",

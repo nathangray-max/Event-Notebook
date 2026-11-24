@@ -1,8 +1,8 @@
 {
  "generated": {
-  "commit": "77d50e9",
+  "commit": "c2c9e79",
   "uncommitted_changes": false,
-  "date": "2026-11-23"
+  "date": "2026-11-24"
  },
  "events": [
   {
@@ -154,7 +154,13 @@
      "transcript_words": 0,
      "has_transcript": false,
      "has_notes": true,
-     "has_summary": true
+     "has_summary": true,
+     "categories": [],
+     "tags": [],
+     "ingredient_groups": [
+      "magnesium",
+      "fibre"
+     ]
     },
     {
      "id": "clasado-bimuno-gos",
@@ -295,7 +301,12 @@
      "transcript_words": 0,
      "has_transcript": false,
      "has_notes": true,
-     "has_summary": true
+     "has_summary": true,
+     "categories": [],
+     "tags": [],
+     "ingredient_groups": [
+      "fibre"
+     ]
     },
     {
      "id": "fairfield-nutech-exit-plan",
@@ -421,7 +432,14 @@
      "transcript_words": 0,
      "has_transcript": false,
      "has_notes": true,
-     "has_summary": true
+     "has_summary": true,
+     "categories": [],
+     "tags": [],
+     "ingredient_groups": [
+      "creatine",
+      "whey",
+      "milk-protein"
+     ]
     }
    ],
    "report_md": "",
@@ -478,6 +496,12 @@
      ],
      "themes": [
       "longevity-positioning"
+     ],
+     "categories": [
+      "healthspan"
+     ],
+     "tags": [
+      "science"
      ],
      "ingredients": [],
      "relevance": "low",
@@ -615,7 +639,8 @@
      "transcript_words": 0,
      "has_transcript": false,
      "has_notes": false,
-     "has_summary": true
+     "has_summary": true,
+     "ingredient_groups": []
     },
     {
      "id": "euromonitor-who-is-winning-healthspan",
@@ -636,6 +661,14 @@
       "longevity-positioning",
       "branded-ingredients-differentiation",
       "whey-price-squeeze"
+     ],
+     "categories": [
+      "healthspan",
+      "sports"
+     ],
+     "tags": [
+      "market-data",
+      "supply"
      ],
      "ingredients": [
       "protein",
@@ -999,7 +1032,16 @@
      "transcript_words": 4074,
      "has_transcript": true,
      "has_notes": true,
-     "has_summary": true
+     "has_summary": true,
+     "ingredient_groups": [
+      "protein-general",
+      "collagen",
+      "magnesium",
+      "nad",
+      "spermidine",
+      "probiotics",
+      "polyphenols"
+     ]
     },
     {
      "id": "lumina-new-longevity-consumer",
@@ -1021,6 +1063,13 @@
       "outcomes-over-mechanisms",
       "glp-1-nutrition",
       "ai-in-nutraceuticals"
+     ],
+     "categories": [
+      "healthspan",
+      "glp1"
+     ],
+     "tags": [
+      "market-data"
      ],
      "ingredients": [
       "vitamins",
@@ -1477,7 +1526,18 @@
      "transcript_words": 2612,
      "has_transcript": true,
      "has_notes": false,
-     "has_summary": true
+     "has_summary": true,
+     "ingredient_groups": [
+      "protein-general",
+      "omega-3",
+      "nad",
+      "coq10",
+      "probiotics",
+      "fibre",
+      "polyphenols",
+      "botanicals",
+      "vitamins-minerals"
+     ]
     },
     {
      "id": "from-hype-to-healthspan-building-the",
@@ -1521,6 +1581,13 @@
       "glp-1-nutrition",
       "branded-ingredients-differentiation",
       "muscle-health-beyond-protein"
+     ],
+     "categories": [
+      "healthspan",
+      "glp1"
+     ],
+     "tags": [
+      "market-data"
      ],
      "ingredients": [
       "NAD (Otter heard \"NAD\" and \"NAD Plus\")",
@@ -1806,7 +1873,16 @@
      "transcript_words": 5926,
      "has_transcript": true,
      "has_notes": false,
-     "has_summary": true
+     "has_summary": true,
+     "ingredient_groups": [
+      "creatine",
+      "collagen",
+      "omega-3",
+      "nad",
+      "urolithin",
+      "spermidine",
+      "vitamins-minerals"
+     ]
     },
     {
      "id": "jens-walter-microbiome-ageing",
@@ -1826,6 +1902,13 @@
      "themes": [
       "probiotic-category-evolution",
       "longevity-positioning"
+     ],
+     "categories": [
+      "gut-health",
+      "healthspan"
+     ],
+     "tags": [
+      "science"
      ],
      "ingredients": [
       "bifidobacteria",
@@ -2153,7 +2236,12 @@
      "transcript_words": 4245,
      "has_transcript": true,
      "has_notes": false,
-     "has_summary": true
+     "has_summary": true,
+     "ingredient_groups": [
+      "protein-general",
+      "probiotics",
+      "fibre"
+     ]
     },
     {
      "id": "consumer-insights-straight-from-the-horse",
@@ -2217,6 +2305,13 @@
       "ai-in-nutraceuticals",
       "longevity-positioning",
       "novel-proteins-and-blends"
+     ],
+     "categories": [
+      "healthspan",
+      "sports"
+     ],
+     "tags": [
+      "market-data"
      ],
      "ingredients": [
       "amla (Indian gooseberry)",
@@ -2494,7 +2589,21 @@
      "transcript_words": 9460,
      "has_transcript": true,
      "has_notes": false,
-     "has_summary": true
+     "has_summary": true,
+     "ingredient_groups": [
+      "creatine",
+      "novel-protein",
+      "protein-general",
+      "collagen",
+      "omega-3",
+      "magnesium",
+      "nad",
+      "spermidine",
+      "probiotics",
+      "polyphenols",
+      "botanicals",
+      "vitamins-minerals"
+     ]
     },
     {
      "id": "nutrition-to-improve-mitochondrial-functions",
@@ -2515,6 +2624,12 @@
       "longevity-positioning",
       "creatine-beyond-strength",
       "muscle-health-beyond-protein"
+     ],
+     "categories": [
+      "healthspan"
+     ],
+     "tags": [
+      "science"
      ],
      "ingredients": [
       "creatine",
@@ -2753,7 +2868,16 @@
      "transcript_words": 0,
      "has_transcript": false,
      "has_notes": false,
-     "has_summary": true
+     "has_summary": true,
+     "ingredient_groups": [
+      "creatine",
+      "milk-protein",
+      "nad",
+      "urolithin",
+      "polyphenols",
+      "botanicals",
+      "vitamins-minerals"
+     ]
     },
     {
      "id": "uthever-nmn-nad-metabolism-sleep-health",
@@ -2780,6 +2904,14 @@
       "branded-ingredients-differentiation",
       "outcomes-over-mechanisms",
       "eu-regulation-brake"
+     ],
+     "categories": [
+      "healthspan",
+      "brain-sleep"
+     ],
+     "tags": [
+      "science",
+      "regulation"
      ],
      "ingredients": [
       "NMN (nicotinamide mononucleotide; UTHEVER, EffePharm)",
@@ -3019,7 +3151,10 @@
      "transcript_words": 0,
      "has_transcript": false,
      "has_notes": false,
-     "has_summary": true
+     "has_summary": true,
+     "ingredient_groups": [
+      "nad"
+     ]
     },
     {
      "id": "mitochondrial-nutrition-next-frontier-ageing",
@@ -3067,7 +3202,10 @@
      "transcript_words": 0,
      "has_transcript": false,
      "has_notes": false,
-     "has_summary": false
+     "has_summary": false,
+     "categories": [],
+     "tags": [],
+     "ingredient_groups": []
     },
     {
      "id": "roundtable-discussions",
@@ -3115,7 +3253,10 @@
      "transcript_words": 0,
      "has_transcript": false,
      "has_notes": false,
-     "has_summary": false
+     "has_summary": false,
+     "categories": [],
+     "tags": [],
+     "ingredient_groups": []
     },
     {
      "id": "healthspan-innovators",
@@ -3163,7 +3304,10 @@
      "transcript_words": 0,
      "has_transcript": false,
      "has_notes": false,
-     "has_summary": false
+     "has_summary": false,
+     "categories": [],
+     "tags": [],
+     "ingredient_groups": []
     },
     {
      "id": "absorbed-or-assumed-why-pharmacokinetic",
@@ -3184,6 +3328,13 @@
       "glp-1-nutrition",
       "longevity-positioning",
       "branded-ingredients-differentiation"
+     ],
+     "categories": [
+      "healthspan",
+      "glp1"
+     ],
+     "tags": [
+      "science"
      ],
      "ingredients": [
       "iron",
@@ -3360,7 +3511,10 @@
      "transcript_words": 1033,
      "has_transcript": true,
      "has_notes": false,
-     "has_summary": true
+     "has_summary": true,
+     "ingredient_groups": [
+      "vitamins-minerals"
+     ]
     },
     {
      "id": "ai-driven-personalization-at-scale",
@@ -3381,6 +3535,13 @@
       "ai-in-nutraceuticals",
       "marketing-compliance-social",
       "outcomes-over-mechanisms"
+     ],
+     "categories": [
+      "healthspan"
+     ],
+     "tags": [
+      "ai",
+      "marketing"
      ],
      "ingredients": [
       "magnesium (citrate, glycinate, bisglycinate, threonate; Otter also heard \"L-3-on-8\")"
@@ -3548,7 +3709,10 @@
      "transcript_words": 3326,
      "has_transcript": true,
      "has_notes": false,
-     "has_summary": true
+     "has_summary": true,
+     "ingredient_groups": [
+      "magnesium"
+     ]
     },
     {
      "id": "artificial-intelligence-to-rapidly-develop",
@@ -3569,6 +3733,13 @@
       "ai-in-nutraceuticals",
       "branded-ingredients-differentiation",
       "cdmo-partnership-models"
+     ],
+     "categories": [
+      "healthspan"
+     ],
+     "tags": [
+      "ai",
+      "science"
      ],
      "ingredients": [
       "avocatin B (from avocado; Otter heard \"avocat and B\"; ALT's product metavo)",
@@ -3831,7 +4002,10 @@
      "transcript_words": 3042,
      "has_transcript": true,
      "has_notes": false,
-     "has_summary": true
+     "has_summary": true,
+     "ingredient_groups": [
+      "botanicals"
+     ]
     },
     {
      "id": "from-data-to-decisions-personalizing",
@@ -3871,6 +4045,13 @@
      "themes": [
       "ai-in-nutraceuticals",
       "outcomes-over-mechanisms"
+     ],
+     "categories": [
+      "healthspan"
+     ],
+     "tags": [
+      "ai",
+      "science"
      ],
      "ingredients": [],
      "relevance": "high",
@@ -4109,7 +4290,8 @@
      "transcript_words": 6775,
      "has_transcript": true,
      "has_notes": false,
-     "has_summary": true
+     "has_summary": true,
+     "ingredient_groups": []
     },
     {
      "id": "ancient-brave-womens-healthspan",
@@ -4130,6 +4312,14 @@
       "longevity-positioning",
       "branded-ingredients-differentiation",
       "marketing-compliance-social"
+     ],
+     "categories": [
+      "womens-health",
+      "healthspan"
+     ],
+     "tags": [
+      "science",
+      "marketing"
      ],
      "ingredients": [
       "collagen (True Collagen, bovine; pictured on the title slide)",
@@ -4361,7 +4551,13 @@
      "transcript_words": 0,
      "has_transcript": false,
      "has_notes": false,
-     "has_summary": true
+     "has_summary": true,
+     "ingredient_groups": [
+      "creatine",
+      "collagen",
+      "magnesium",
+      "botanicals"
+     ]
     },
     {
      "id": "indena-longevity-appearance",
@@ -4383,6 +4579,14 @@
       "branded-ingredients-differentiation",
       "delivery-formats",
       "supply-security"
+     ],
+     "categories": [
+      "beauty",
+      "healthspan"
+     ],
+     "tags": [
+      "science",
+      "formats"
      ],
      "ingredients": [
       "Centella asiatica extract formulated with phospholipids (CAP; Centextra in the in vitro paper)",
@@ -4630,7 +4834,10 @@
      "transcript_words": 0,
      "has_transcript": false,
      "has_notes": false,
-     "has_summary": true
+     "has_summary": true,
+     "ingredient_groups": [
+      "botanicals"
+     ]
     }
    ],
    "report_md": "",
@@ -4696,6 +4903,14 @@
       "branded-ingredients-differentiation",
       "longevity-positioning",
       "glp-1-nutrition"
+     ],
+     "categories": [
+      "sports",
+      "healthspan"
+     ],
+     "tags": [
+      "market-data",
+      "supply"
      ],
      "ingredients": [
       "whey protein",
@@ -5359,7 +5574,17 @@
      "transcript_words": 4902,
      "has_transcript": true,
      "has_notes": false,
-     "has_summary": true
+     "has_summary": true,
+     "ingredient_groups": [
+      "creatine",
+      "whey",
+      "plant-protein",
+      "novel-protein",
+      "milk-protein",
+      "collagen",
+      "magnesium",
+      "electrolytes"
+     ]
     },
     {
      "id": "unfiltered-an-insider-s-view-of",
@@ -5382,6 +5607,13 @@
       "supply-security",
       "glp-1-nutrition",
       "sports-nutrition-mainstream"
+     ],
+     "categories": [
+      "sports"
+     ],
+     "tags": [
+      "supply",
+      "market-data"
      ],
      "ingredients": [
       "whey protein",
@@ -5910,7 +6142,12 @@
      "transcript_words": 2959,
      "has_transcript": true,
      "has_notes": false,
-     "has_summary": true
+     "has_summary": true,
+     "ingredient_groups": [
+      "whey",
+      "plant-protein",
+      "milk-protein"
+     ]
     },
     {
      "id": "clicks-to-community-turning-digital-engagement",
@@ -5952,6 +6189,14 @@
       "marketing-compliance-social",
       "ai-in-nutraceuticals",
       "outcomes-over-mechanisms"
+     ],
+     "categories": [
+      "sports"
+     ],
+     "tags": [
+      "marketing",
+      "regulation",
+      "ai"
      ],
      "ingredients": [
       "creatine",
@@ -6154,7 +6399,13 @@
      "transcript_words": 7185,
      "has_transcript": true,
      "has_notes": false,
-     "has_summary": true
+     "has_summary": true,
+     "ingredient_groups": [
+      "creatine",
+      "collagen",
+      "magnesium",
+      "caffeine"
+     ]
     },
     {
      "id": "fuelling-female-performance",
@@ -6175,6 +6426,13 @@
       "female-athlete-nutrition",
       "creatine-beyond-strength",
       "branded-ingredients-differentiation"
+     ],
+     "categories": [
+      "womens-health",
+      "sports"
+     ],
+     "tags": [
+      "science"
      ],
      "ingredients": [
       "creatine",
@@ -6404,7 +6662,15 @@
      "transcript_words": 0,
      "has_transcript": false,
      "has_notes": false,
-     "has_summary": true
+     "has_summary": true,
+     "ingredient_groups": [
+      "creatine",
+      "protein-general",
+      "collagen",
+      "botanicals",
+      "carbohydrate",
+      "vitamins-minerals"
+     ]
     },
     {
      "id": "fuelling-the-female-runner-from-paper",
@@ -6431,6 +6697,13 @@
       "carbohydrate-fuelling",
       "female-athlete-nutrition",
       "branded-ingredients-differentiation"
+     ],
+     "categories": [
+      "sports",
+      "womens-health"
+     ],
+     "tags": [
+      "science"
      ],
      "ingredients": [
       "carbohydrate",
@@ -6922,7 +7195,10 @@
      "transcript_words": 4710,
      "has_transcript": true,
      "has_notes": false,
-     "has_summary": true
+     "has_summary": true,
+     "ingredient_groups": [
+      "carbohydrate"
+     ]
     },
     {
      "id": "whey-collagen-the-protein-power-couple",
@@ -6944,6 +7220,14 @@
       "whey-price-squeeze",
       "novel-proteins-and-blends",
       "muscle-health-beyond-protein"
+     ],
+     "categories": [
+      "sports",
+      "healthspan"
+     ],
+     "tags": [
+      "science",
+      "supply"
      ],
      "ingredients": [
       "whey protein",
@@ -7187,7 +7471,13 @@
      "transcript_words": 3117,
      "has_transcript": true,
      "has_notes": false,
-     "has_summary": true
+     "has_summary": true,
+     "ingredient_groups": [
+      "whey",
+      "collagen",
+      "peptides",
+      "vitamins-minerals"
+     ]
     },
     {
      "id": "built-in-the-gym-turning-athlete",
@@ -7214,6 +7504,13 @@
       "sports-nutrition-mainstream",
       "creatine-beyond-strength",
       "delivery-formats"
+     ],
+     "categories": [
+      "sports"
+     ],
+     "tags": [
+      "marketing",
+      "formats"
      ],
      "ingredients": [
       "creatine",
@@ -7425,7 +7722,18 @@
      "transcript_words": 4826,
      "has_transcript": true,
      "has_notes": false,
-     "has_summary": true
+     "has_summary": true,
+     "ingredient_groups": [
+      "creatine",
+      "protein-general",
+      "omega-3",
+      "magnesium",
+      "probiotics",
+      "curcumin",
+      "carbohydrate",
+      "electrolytes",
+      "vitamins-minerals"
+     ]
     },
     {
      "id": "roundtables",
@@ -7474,7 +7782,10 @@
      "transcript_words": 0,
      "has_transcript": false,
      "has_notes": false,
-     "has_summary": false
+     "has_summary": false,
+     "categories": [],
+     "tags": [],
+     "ingredient_groups": []
     },
     {
      "id": "is-the-juice-worth-the-squeeze",
@@ -7496,6 +7807,12 @@
       "outcomes-over-mechanisms",
       "branded-ingredients-differentiation",
       "marketing-compliance-social"
+     ],
+     "categories": [
+      "sports"
+     ],
+     "tags": [
+      "science"
      ],
      "ingredients": [
       "polyphenols",
@@ -7708,7 +8025,16 @@
      "transcript_words": 134,
      "has_transcript": true,
      "has_notes": false,
-     "has_summary": true
+     "has_summary": true,
+     "ingredient_groups": [
+      "creatine",
+      "protein-general",
+      "polyphenols",
+      "curcumin",
+      "botanicals",
+      "caffeine",
+      "nitrate"
+     ]
     },
     {
      "id": "fuel-the-frame-carbohydrate-recovery-and",
@@ -7729,6 +8055,13 @@
      "themes": [
       "carbohydrate-fuelling",
       "female-athlete-nutrition"
+     ],
+     "categories": [
+      "sports",
+      "womens-health"
+     ],
+     "tags": [
+      "science"
      ],
      "ingredients": [
       "carbohydrate",
@@ -7937,7 +8270,12 @@
      "transcript_words": 0,
      "has_transcript": false,
      "has_notes": false,
-     "has_summary": true
+     "has_summary": true,
+     "ingredient_groups": [
+      "protein-general",
+      "carbohydrate",
+      "vitamins-minerals"
+     ]
     },
     {
      "id": "advancing-sports-and-muscle-health-insights",
@@ -7986,7 +8324,10 @@
      "transcript_words": 0,
      "has_transcript": false,
      "has_notes": false,
-     "has_summary": false
+     "has_summary": false,
+     "categories": [],
+     "tags": [],
+     "ingredient_groups": []
     },
     {
      "id": "from-elite-athlete-to-entrepreneur-how",
@@ -8043,7 +8384,12 @@
      "transcript_words": 0,
      "has_transcript": false,
      "has_notes": false,
-     "has_summary": false
+     "has_summary": false,
+     "categories": [],
+     "tags": [],
+     "ingredient_groups": [
+      "curcumin"
+     ]
     },
     {
      "id": "glp-won-market-opportunities-for-the",
@@ -8064,6 +8410,13 @@
      "themes": [
       "glp-1-nutrition",
       "sports-nutrition-mainstream"
+     ],
+     "categories": [
+      "glp1",
+      "sports"
+     ],
+     "tags": [
+      "market-data"
      ],
      "ingredients": [
       "protein",
@@ -8351,7 +8704,17 @@
      "transcript_words": 3606,
      "has_transcript": true,
      "has_notes": false,
-     "has_summary": true
+     "has_summary": true,
+     "ingredient_groups": [
+      "creatine",
+      "protein-general",
+      "omega-3",
+      "hmb",
+      "probiotics",
+      "fibre",
+      "botanicals",
+      "vitamins-minerals"
+     ]
     },
     {
      "id": "train-harder-recover-smarter-race-longer",
@@ -8411,7 +8774,10 @@
      "transcript_words": 0,
      "has_transcript": false,
      "has_notes": false,
-     "has_summary": false
+     "has_summary": false,
+     "categories": [],
+     "tags": [],
+     "ingredient_groups": []
     },
     {
      "id": "from-hype-to-proof-the-science",
@@ -8433,6 +8799,12 @@
       "glp-1-nutrition",
       "muscle-health-beyond-protein",
       "outcomes-over-mechanisms"
+     ],
+     "categories": [
+      "glp1"
+     ],
+     "tags": [
+      "science"
      ],
      "ingredients": [
       "protein",
@@ -8754,7 +9126,18 @@
      "transcript_words": 4075,
      "has_transcript": true,
      "has_notes": false,
-     "has_summary": true
+     "has_summary": true,
+     "ingredient_groups": [
+      "whey",
+      "plant-protein",
+      "protein-general",
+      "probiotics",
+      "fibre",
+      "polyphenols",
+      "curcumin",
+      "botanicals",
+      "vitamins-minerals"
+     ]
     },
     {
      "id": "beyond-the-glp-1-boom-nutrition",
@@ -8787,6 +9170,13 @@
       "whey-price-squeeze",
       "novel-proteins-and-blends",
       "creatine-beyond-strength"
+     ],
+     "categories": [
+      "glp1",
+      "sports"
+     ],
+     "tags": [
+      "market-data"
      ],
      "ingredients": [
       "protein",
@@ -9032,7 +9422,21 @@
      "transcript_words": 7008,
      "has_transcript": true,
      "has_notes": false,
-     "has_summary": true
+     "has_summary": true,
+     "ingredient_groups": [
+      "creatine",
+      "whey",
+      "plant-protein",
+      "milk-protein",
+      "protein-general",
+      "collagen",
+      "magnesium",
+      "hmb",
+      "probiotics",
+      "fibre",
+      "botanicals",
+      "vitamins-minerals"
+     ]
     }
    ],
    "report_md": "",
@@ -9091,6 +9495,13 @@
       "muscle-health-beyond-protein",
       "branded-ingredients-differentiation",
       "supply-security"
+     ],
+     "categories": [
+      "healthspan"
+     ],
+     "tags": [
+      "science",
+      "supply"
      ],
      "ingredients": [
       "krill oil (Superba Krill, Superba2, Superba Boost)",
@@ -9259,7 +9670,10 @@
      "transcript_words": 0,
      "has_transcript": false,
      "has_notes": false,
-     "has_summary": true
+     "has_summary": true,
+     "ingredient_groups": [
+      "omega-3"
+     ]
     },
     {
      "id": "favea-ai-mental-shift",
@@ -9280,6 +9694,11 @@
       "ai-in-nutraceuticals",
       "cdmo-partnership-models",
       "delivery-formats"
+     ],
+     "categories": [],
+     "tags": [
+      "ai",
+      "formats"
      ],
      "ingredients": [
       "phospholipids",
@@ -9477,7 +9896,16 @@
      "transcript_words": 0,
      "has_transcript": false,
      "has_notes": false,
-     "has_summary": true
+     "has_summary": true,
+     "ingredient_groups": [
+      "omega-3",
+      "coq10",
+      "probiotics",
+      "polyphenols",
+      "astaxanthin",
+      "choline",
+      "vitamins-minerals"
+     ]
     },
     {
      "id": "nathan-gray-creatine-new-buyers",
@@ -9501,6 +9929,14 @@
       "hydration-electrolytes",
       "sports-nutrition-mainstream",
       "cdmo-partnership-models"
+     ],
+     "categories": [
+      "sports",
+      "healthspan"
+     ],
+     "tags": [
+      "market-data",
+      "formats"
      ],
      "ingredients": [
       "CreaWin",
@@ -9704,7 +10140,15 @@
      "transcript_words": 0,
      "has_transcript": false,
      "has_notes": false,
-     "has_summary": true
+     "has_summary": true,
+     "ingredient_groups": [
+      "creatine",
+      "collagen",
+      "magnesium",
+      "hmb",
+      "choline",
+      "electrolytes"
+     ]
     },
     {
      "id": "nick-morgan-longevity",
@@ -9726,6 +10170,13 @@
       "creatine-beyond-strength",
       "outcomes-over-mechanisms",
       "delivery-formats"
+     ],
+     "categories": [
+      "healthspan"
+     ],
+     "tags": [
+      "market-data",
+      "marketing"
      ],
      "ingredients": [
       "creatine",
@@ -9922,7 +10373,16 @@
      "transcript_words": 1113,
      "has_transcript": true,
      "has_notes": false,
-     "has_summary": true
+     "has_summary": true,
+     "ingredient_groups": [
+      "creatine",
+      "nad",
+      "spermidine",
+      "coq10",
+      "polyphenols",
+      "curcumin",
+      "choline"
+     ]
     },
     {
      "id": "nuritas-peptistrong",
@@ -9949,6 +10409,14 @@
       "ai-in-nutraceuticals",
       "branded-ingredients-differentiation",
       "cdmo-partnership-models"
+     ],
+     "categories": [
+      "sports",
+      "healthspan"
+     ],
+     "tags": [
+      "science",
+      "ai"
      ],
      "ingredients": [
       "PeptiStrong",
@@ -10279,7 +10747,15 @@
      "transcript_words": 2714,
      "has_transcript": true,
      "has_notes": false,
-     "has_summary": true
+     "has_summary": true,
+     "ingredient_groups": [
+      "creatine",
+      "plant-protein",
+      "milk-protein",
+      "protein-general",
+      "hmb",
+      "peptides"
+     ]
     },
     {
      "id": "kaneka-ubiquinol",
@@ -10300,6 +10776,14 @@
       "longevity-positioning",
       "branded-ingredients-differentiation",
       "delivery-formats"
+     ],
+     "categories": [
+      "healthspan",
+      "sports"
+     ],
+     "tags": [
+      "science",
+      "formats"
      ],
      "ingredients": [
       "Kaneka Ubiquinol",
@@ -10578,7 +11062,11 @@
      "transcript_words": 1335,
      "has_transcript": true,
      "has_notes": false,
-     "has_summary": true
+     "has_summary": true,
+     "ingredient_groups": [
+      "coq10",
+      "vitamins-minerals"
+     ]
     },
     {
      "id": "novosol-optimsm",
@@ -10604,6 +11092,12 @@
       "delivery-formats",
       "muscle-health-beyond-protein",
       "branded-ingredients-differentiation"
+     ],
+     "categories": [
+      "sports"
+     ],
+     "tags": [
+      "formats"
      ],
      "ingredients": [
       "NovaSOL Curcumin",
@@ -10843,7 +11337,16 @@
      "transcript_words": 1385,
      "has_transcript": true,
      "has_notes": false,
-     "has_summary": true
+     "has_summary": true,
+     "ingredient_groups": [
+      "coq10",
+      "polyphenols",
+      "curcumin",
+      "astaxanthin",
+      "choline",
+      "vitamins-minerals",
+      "msm"
+     ]
     },
     {
      "id": "martin-bauer-rhosera",
@@ -10865,6 +11368,14 @@
       "supply-security",
       "eu-regulation-brake",
       "longevity-positioning"
+     ],
+     "categories": [
+      "healthspan",
+      "sports"
+     ],
+     "tags": [
+      "science",
+      "supply"
      ],
      "ingredients": [
       "RhoSera",
@@ -11119,7 +11630,14 @@
      "transcript_words": 2594,
      "has_transcript": true,
      "has_notes": false,
-     "has_summary": true
+     "has_summary": true,
+     "ingredient_groups": [
+      "protein-general",
+      "rhodiola",
+      "magnesium",
+      "spermidine",
+      "vitamins-minerals"
+     ]
     },
     {
      "id": "solabia-launches",
@@ -11141,6 +11659,14 @@
       "branded-ingredients-differentiation",
       "delivery-formats",
       "cdmo-partnership-models"
+     ],
+     "categories": [
+      "healthspan",
+      "womens-health"
+     ],
+     "tags": [
+      "science",
+      "formats"
      ],
      "ingredients": [
       "creatine",
@@ -11370,7 +11896,13 @@
      "transcript_words": 1591,
      "has_transcript": true,
      "has_notes": false,
-     "has_summary": true
+     "has_summary": true,
+     "ingredient_groups": [
+      "creatine",
+      "collagen",
+      "fibre",
+      "polyphenols"
+     ]
     },
     {
      "id": "tantus-longevity-concepts",
@@ -11397,6 +11929,12 @@
       "creatine-beyond-strength",
       "cdmo-partnership-models",
       "delivery-formats"
+     ],
+     "categories": [
+      "healthspan"
+     ],
+     "tags": [
+      "formats"
      ],
      "ingredients": [
       "creatine",
@@ -11642,7 +12180,15 @@
      "transcript_words": 898,
      "has_transcript": true,
      "has_notes": false,
-     "has_summary": true
+     "has_summary": true,
+     "ingredient_groups": [
+      "creatine",
+      "coq10",
+      "peptides",
+      "polyphenols",
+      "choline",
+      "vitamins-minerals"
+     ]
     },
     {
      "id": "protein-brewery-fermotein",
@@ -11664,6 +12210,14 @@
       "eu-regulation-brake",
       "longevity-positioning",
       "glp-1-nutrition"
+     ],
+     "categories": [
+      "glp1",
+      "healthspan"
+     ],
+     "tags": [
+      "regulation",
+      "market-data"
      ],
      "ingredients": [
       "Fermotein (The Protein Brewery, mycelium protein)",
@@ -11927,7 +12481,15 @@
      "transcript_words": 1472,
      "has_transcript": true,
      "has_notes": false,
-     "has_summary": true
+     "has_summary": true,
+     "ingredient_groups": [
+      "plant-protein",
+      "novel-protein",
+      "spermidine",
+      "fibre",
+      "choline",
+      "vitamins-minerals"
+     ]
     },
     {
      "id": "alex-glover-holland-barrett",
@@ -11948,6 +12510,13 @@
       "outcomes-over-mechanisms",
       "longevity-positioning",
       "glp-1-nutrition"
+     ],
+     "categories": [
+      "healthspan"
+     ],
+     "tags": [
+      "science",
+      "marketing"
      ],
      "ingredients": [
       "NAD boosters (nicotinamide riboside, nicotinamide mononucleotide, nicotinamide)",
@@ -12174,7 +12743,16 @@
      "transcript_words": 2097,
      "has_transcript": true,
      "has_notes": false,
-     "has_summary": true
+     "has_summary": true,
+     "ingredient_groups": [
+      "protein-general",
+      "collagen",
+      "nad",
+      "fibre",
+      "polyphenols",
+      "curcumin",
+      "vitamins-minerals"
+     ]
     },
     {
      "id": "2waves-platform",
@@ -12198,6 +12776,10 @@
      ],
      "themes": [
       "cdmo-partnership-models"
+     ],
+     "categories": [],
+     "tags": [
+      "formats"
      ],
      "ingredients": [],
      "relevance": "medium",
@@ -12343,7 +12925,8 @@
      "transcript_words": 988,
      "has_transcript": true,
      "has_notes": false,
-     "has_summary": true
+     "has_summary": true,
+     "ingredient_groups": []
     },
     {
      "id": "panel-evidence-regulation-ai",
@@ -12385,6 +12968,12 @@
       "supply-security",
       "ai-in-nutraceuticals",
       "outcomes-over-mechanisms"
+     ],
+     "categories": [],
+     "tags": [
+      "regulation",
+      "supply",
+      "ai"
      ],
      "ingredients": [
       "creatine",
@@ -12607,7 +13196,18 @@
      "transcript_words": 5390,
      "has_transcript": true,
      "has_notes": false,
-     "has_summary": true
+     "has_summary": true,
+     "ingredient_groups": [
+      "creatine",
+      "protein-general",
+      "omega-3",
+      "rhodiola",
+      "magnesium",
+      "probiotics",
+      "fibre",
+      "astaxanthin",
+      "vitamins-minerals"
+     ]
     },
     {
      "id": "hmt-probiotic-market",
@@ -12628,6 +13228,13 @@
       "probiotic-category-evolution",
       "outcomes-over-mechanisms",
       "eu-regulation-brake"
+     ],
+     "categories": [
+      "gut-health"
+     ],
+     "tags": [
+      "marketing",
+      "regulation"
      ],
      "ingredients": [
       "probiotics",
@@ -12873,7 +13480,11 @@
      "transcript_words": 1928,
      "has_transcript": true,
      "has_notes": false,
-     "has_summary": true
+     "has_summary": true,
+     "ingredient_groups": [
+      "probiotics",
+      "fibre"
+     ]
     },
     {
      "id": "novonesis-montefarmaco",
@@ -12899,6 +13510,13 @@
       "probiotic-category-evolution",
       "cdmo-partnership-models",
       "branded-ingredients-differentiation"
+     ],
+     "categories": [
+      "gut-health"
+     ],
+     "tags": [
+      "formats",
+      "science"
      ],
      "ingredients": [
       "Lactoflorene (Montefarmaco)",
@@ -13057,7 +13675,12 @@
      "transcript_words": 1670,
      "has_transcript": true,
      "has_notes": false,
-     "has_summary": true
+     "has_summary": true,
+     "ingredient_groups": [
+      "probiotics",
+      "fibre",
+      "vitamins-minerals"
+     ]
     },
     {
      "id": "sacco-probiotics",
@@ -13079,6 +13702,14 @@
       "muscle-health-beyond-protein",
       "longevity-positioning",
       "cdmo-partnership-models"
+     ],
+     "categories": [
+      "gut-health",
+      "womens-health"
+     ],
+     "tags": [
+      "science",
+      "formats"
      ],
      "ingredients": [
       "CA15 (Sacco, L. rhamnosus CA15 DSM 33960, patented strain)",
@@ -13359,7 +13990,11 @@
      "transcript_words": 1580,
      "has_transcript": true,
      "has_notes": false,
-     "has_summary": true
+     "has_summary": true,
+     "ingredient_groups": [
+      "probiotics",
+      "fibre"
+     ]
     },
     {
      "id": "spi-pharma-nordic-biotic",
@@ -13386,6 +14021,14 @@
       "probiotic-category-evolution",
       "hydration-electrolytes",
       "glp-1-nutrition"
+     ],
+     "categories": [
+      "gut-health",
+      "glp1"
+     ],
+     "tags": [
+      "formats",
+      "science"
      ],
      "ingredients": [
       "Compressol ProTab (SPI Pharma; polyol-based chewable platform)",
@@ -13699,7 +14342,14 @@
      "transcript_words": 2220,
      "has_transcript": true,
      "has_notes": false,
-     "has_summary": true
+     "has_summary": true,
+     "ingredient_groups": [
+      "magnesium",
+      "probiotics",
+      "electrolytes",
+      "caffeine",
+      "vitamins-minerals"
+     ]
     }
    ],
    "report_md": "",
@@ -14844,5 +15494,185 @@
     }
    ]
   }
- ]
+ ],
+ "facets": {
+  "ingredients": [
+   {
+    "id": "creatine",
+    "name": "Creatine"
+   },
+   {
+    "id": "whey",
+    "name": "Whey protein"
+   },
+   {
+    "id": "plant-protein",
+    "name": "Pea and plant protein"
+   },
+   {
+    "id": "novel-protein",
+    "name": "Novel proteins"
+   },
+   {
+    "id": "milk-protein",
+    "name": "Milk protein and casein"
+   },
+   {
+    "id": "protein-general",
+    "name": "Protein and amino acids"
+   },
+   {
+    "id": "collagen",
+    "name": "Collagen"
+   },
+   {
+    "id": "omega-3",
+    "name": "Omega-3"
+   },
+   {
+    "id": "rhodiola",
+    "name": "Rhodiola rosea"
+   },
+   {
+    "id": "magnesium",
+    "name": "Magnesium"
+   },
+   {
+    "id": "nad",
+    "name": "NAD+ precursors (NMN"
+   },
+   {
+    "id": "urolithin",
+    "name": "Urolithin A"
+   },
+   {
+    "id": "spermidine",
+    "name": "Spermidine"
+   },
+   {
+    "id": "coq10",
+    "name": "CoQ10 and ubiquinol"
+   },
+   {
+    "id": "hmb",
+    "name": "HMB"
+   },
+   {
+    "id": "peptides",
+    "name": "Bioactive peptides"
+   },
+   {
+    "id": "probiotics",
+    "name": "Probiotics and postbiotics"
+   },
+   {
+    "id": "fibre",
+    "name": "Fibre and prebiotics"
+   },
+   {
+    "id": "polyphenols",
+    "name": "Polyphenols and berries"
+   },
+   {
+    "id": "curcumin",
+    "name": "Curcumin"
+   },
+   {
+    "id": "botanicals",
+    "name": "Adaptogens and botanicals"
+   },
+   {
+    "id": "astaxanthin",
+    "name": "Astaxanthin"
+   },
+   {
+    "id": "choline",
+    "name": "Choline and citicoline"
+   },
+   {
+    "id": "carbohydrate",
+    "name": "Carbohydrate"
+   },
+   {
+    "id": "electrolytes",
+    "name": "Electrolytes and hydration"
+   },
+   {
+    "id": "caffeine",
+    "name": "Caffeine"
+   },
+   {
+    "id": "nitrate",
+    "name": "Dietary nitrate"
+   },
+   {
+    "id": "vitamins-minerals",
+    "name": "Vitamins and minerals"
+   },
+   {
+    "id": "msm",
+    "name": "MSM"
+   }
+  ],
+  "categories": [
+   {
+    "id": "glp1",
+    "name": "GLP-1 and weight management"
+   },
+   {
+    "id": "healthspan",
+    "name": "Healthspan and ageing"
+   },
+   {
+    "id": "sports",
+    "name": "Sports performance"
+   },
+   {
+    "id": "womens-health",
+    "name": "Women's health"
+   },
+   {
+    "id": "gut-health",
+    "name": "Gut health"
+   },
+   {
+    "id": "brain-sleep",
+    "name": "Brain"
+   },
+   {
+    "id": "beauty",
+    "name": "Beauty from within"
+   }
+  ],
+  "tags": [
+   {
+    "id": "science",
+    "name": "Science and evidence"
+   },
+   {
+    "id": "market-data",
+    "name": "Market and consumer data"
+   },
+   {
+    "id": "regulation",
+    "name": "Regulation and claims"
+   },
+   {
+    "id": "formats",
+    "name": "Formats and manufacturing"
+   },
+   {
+    "id": "supply",
+    "name": "Supply and pricing"
+   },
+   {
+    "id": "marketing",
+    "name": "Brand and marketing"
+   },
+   {
+    "id": "ai",
+    "name": "AI and technology"
+   }
+  ]
+ }
 }
