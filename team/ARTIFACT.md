@@ -13,8 +13,7 @@ copy `index.html` to a scratch folder and publish it with the files map from `py
 (app.js, styles.css, data/library.json and slides/<event>--<session>.json). Leave out `test/` and this file.
 After any change: `node team/test/smoke.mjs`.
 
-Capabilities: the page declares `sample` ("Ask the library": each question goes to Claude on the viewer's own account, with the notes
-of the talks that match it; the first question asks the viewer to allow it). A redeploy that omits `capabilities` keeps it.
+Capabilities: none (the Ask the library assistant was removed on Nathan's word, 24 Nov 2026; version 5 cleared it).
 
 | Version | Date | Commit | What changed |
 |---|---|---|---|

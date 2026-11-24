@@ -10,7 +10,6 @@
   var FACET = {};  // "cat-glp1" -> { name, lessons, kind }
   var app = document.getElementById("app");
   var essentialOnly = false;
-  var pendingSlide = 0;   // a slide to open when a talk loads (links from the assistant)
 
   // ---------- helpers ----------
   function esc(s) { return String(s == null ? "" : s).replace(/[&<>"']/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]; }); }
@@ -213,7 +212,7 @@
       stage.querySelector(".msg").remove(); stage.insertBefore(img, stage.firstChild);
       document.getElementById("thumbs").innerHTML = slides.map(function (s, j) { return '<button type="button" aria-label="Slide ' + (j + 1) + '"><img alt="" loading="lazy" src="' + s + '"></button>'; }).join("");
       [].forEach.call(document.querySelectorAll("#thumbs button"), function (b, j) { b.onclick = function () { show(j); }; });
-      show(pendingSlide ? pendingSlide - 1 : 0); pendingSlide = 0;
+      show(0);
     }).catch(function () { var m = stage.querySelector(".msg"); if (m) m.textContent = "The slides could not be loaded. Reload the page to try again."; });
   }
 
@@ -257,130 +256,6 @@
     location.hash = q ? "search-" + q.replace(/\s+/g, "-") : "home";
   });
   window.addEventListener("hashchange", route);
-
-  // ---------- Ask the library: Claude answers from the talks' notes (sample capability) ----------
-  // The page picks the most relevant talks by word match and sends their notes; Claude answers only from them and cites
-  // talks as [[event--session]] or [[event--session#slide]]. Only non-confidential talks are in this page at all.
-  var STOP = "a an and are as at be by can did do does for from has have how i in is it its me of on or our should so that the their them there these this to was we what when where which who why will with would you about any most".split(" ");
-  function words(s) { return String(s || "").toLowerCase().replace(/[^a-z0-9+\- ]+/g, " ").split(/\s+/).filter(function (w) { return w.length > 2 && STOP.indexOf(w) < 0; }); }
-  function facetNames(l) {
-    return KINDS.map(function (k) { return l[k.field].map(function (id) { var f = FACET[k.prefix + id]; return f ? f.name : ""; }).join(", "); }).join(" | ");
-  }
-  function haystack(l) { return [l.title, names(l), l.summary, l.takeaways.join(" "), l.for_us, facetNames(l), COURSE[l.event].name].join(" ").toLowerCase(); }
-  function relevant(question, current) {
-    var ws = words(question);
-    var scored = LESSONS.map(function (l) {
-      var hay = haystack(l), title = (l.title + " " + facetNames(l)).toLowerCase(), s = 0;
-      ws.forEach(function (w) { if (hay.indexOf(w) >= 0) s += 1 + (hay.split(w).length - 2) * 0.2; if (title.indexOf(w) >= 0) s += 2; });
-      if (l === current) s += 6;
-      return { l: l, s: s };
-    }).filter(function (o) { return o.s > 0; }).sort(function (a, b) { return b.s - a.s; });
-    return scored.slice(0, 7).map(function (o) { return o.l; });
-  }
-  function plain(text) { return String(text || "").replace(/\s*\[(\d{1,2}:)?\d{1,2}:\d{2}\]/g, "").replace(/\s*\((notes|otter)\)/gi, ""); }
-  function notesFor(l) {
-    return "### [[" + key(l) + "]] " + l.title + "\nShow: " + COURSE[l.event].name + ", " + fmtDate(l.date) + ". Speakers: " + names(l) + ". Level: " + l.level + ".\n" +
-      "Tags: " + facetNames(l) + "\nSlides: " + (l.slides ? l.slides + " (" + (l.slide_source === "deck" ? "the speaker's deck; cite as #N" : "photos; cite photo N as #N") + ")" : "none") + "\n" +
-      "Summary:\n" + plain(l.summary).slice(0, 2500) + "\nKey learnings:\n" + l.takeaways.map(function (x) { return "- " + plain(x); }).join("\n") +
-      "\nWhat it means for Vita Actives:\n" + plain(l.for_us).slice(0, 2500) + (l.detail ? "\nMore detail:\n" + plain(l.detail).slice(0, 3500) : "");
-  }
-  var RULES = "You answer questions from the Vita Actives team about talks at the autumn 2026 shows (Remedy CDMO, SANS Europe, " +
-    "the Nutra Healthspan Summit). Vita Actives supplies nutraceutical ingredients (CreaWin creatine, IsoClr: Pea clear pea protein, Oxystorm).\n" +
-    "Rules:\n- Answer ONLY from the talk notes given in each message. If they do not cover the question, say so plainly and suggest which talks come closest.\n" +
-    "- Every fact or figure carries its source: write [[event--session]] right after it, or [[event--session#N]] when a slide number is given in the notes " +
-    "(slide N, or photo N for talks whose slides are photos). Use only keys that appear in the notes.\n" +
-    "- Figures exactly as in the notes. Health claims and forecasts are the speaker's: keep their hedge (\"may\" never becomes \"will\").\n" +
-    "- Where speakers' figures differ, give both, each with its source.\n" +
-    "- Lines marked \"my reading\" in the notes are the note-taker's interpretation; say so if you use them.\n" +
-    "- Short and direct, British English: a two-sentence answer, then up to five bullets if useful. No headings. No preamble.";
-  var chat = [], asking = null;
-  function linkify(text) {
-    var t = esc(text);
-    t = t.replace(/\[\[([a-z0-9-]+--[a-z0-9-]+)(?:#(\d+))?\]\]/g, function (m, k, n) {
-      var l = BY_KEY[k];
-      if (!l) return "";
-      return ' <a class="cite-link" href="#' + k + '" data-slide-jump="' + (n || "") + '">' + esc(l.title.length > 42 ? l.title.slice(0, 40) + "…" : l.title) + (n ? ", slide " + n : "") + "</a>";
-    });
-    t = t.replace(/\*\*(.+?)\*\*/g, "<b>$1</b>");
-    var out = [], list = false;
-    t.split("\n").forEach(function (line) {
-      var m = /^\s*[-*•]\s+(.*)$/.exec(line);
-      if (m) { if (!list) { out.push("<ul>"); list = true; } out.push("<li>" + m[1] + "</li>"); return; }
-      if (list) { out.push("</ul>"); list = false; }
-      if (line.trim()) out.push("<p>" + line + "</p>");
-    });
-    if (list) out.push("</ul>");
-    return out.join("");
-  }
-  function setupAsk(sample) {
-    var fab = document.createElement("button");
-    fab.type = "button"; fab.className = "ask-fab"; fab.id = "ask-open"; fab.innerHTML = "<span>Ask the library</span>";
-    var panel = document.createElement("aside");
-    panel.className = "ask-panel"; panel.id = "ask-panel"; panel.hidden = true; panel.setAttribute("aria-label", "Ask the library");
-    panel.innerHTML = '<header class="ask-head"><div><b>Ask the library</b><span id="ask-scope">Answers come only from the talks in this library, with links to each source.</span></div>' +
-      '<button type="button" class="ask-x" id="ask-close" aria-label="Close">×</button></header><div class="ask-log" id="ask-log"></div>' +
-      '<form class="ask-form" id="ask-form"><label class="sr-only" for="ask-q">Your question</label><textarea id="ask-q" rows="2" placeholder="e.g. What did speakers say about creatine for women?"></textarea>' +
-      '<div class="ask-actions"><button type="button" class="btn btn-ghost" id="ask-new">New chat</button><button type="button" class="btn btn-ghost" id="ask-stop" hidden>Stop</button><button type="submit" class="btn btn-primary" id="ask-send">Ask</button></div>' +
-      '<p class="ask-note">Uses your own Claude usage. Claude can make mistakes: check the linked talks.</p></form>';
-    document.body.appendChild(fab); document.body.appendChild(panel);
-    var log = panel.querySelector("#ask-log"), q = panel.querySelector("#ask-q");
-    var SUGGEST = ["What did speakers say about creatine beyond the gym?", "What is happening to whey prices, and what does it mean for pea protein?",
-      "What do GLP-1 users need from supplements?", "Which talks matter most for our healthy-ageing pitches?"];
-    function intro() {
-      log.innerHTML = '<div class="ask-hello"><p>Ask anything about the talks. Try:</p>' + SUGGEST.map(function (s) { return '<button type="button" class="chip ask-sug">' + esc(s) + "</button>"; }).join("") + "</div>";
-      [].forEach.call(log.querySelectorAll(".ask-sug"), function (b) { b.onclick = function () { q.value = b.textContent; send(); }; });
-    }
-    function open() { panel.hidden = false; fab.hidden = true; var l = BY_KEY[decodeURIComponent(location.hash.slice(1))];
-      panel.querySelector("#ask-scope").textContent = l ? "Looking first at “" + l.title + "”, then the whole library." : "Answers come only from the talks in this library, with links to each source.";
-      if (!log.children.length) intro(); q.focus(); }
-    function close() { panel.hidden = true; fab.hidden = false; if (asking) asking.abort(); }
-    fab.onclick = open; panel.querySelector("#ask-close").onclick = close;
-    panel.querySelector("#ask-new").onclick = function () { if (asking) asking.abort(); chat = []; log.innerHTML = ""; intro(); };
-    panel.querySelector("#ask-stop").onclick = function () { if (asking) asking.abort(); };
-    q.addEventListener("keydown", function (ev) { if (ev.key === "Enter" && !ev.shiftKey) { ev.preventDefault(); send(); } });
-    panel.querySelector("#ask-form").addEventListener("submit", function (ev) { ev.preventDefault(); send(); });
-    log.addEventListener("click", function (ev) {
-      var a = ev.target.closest && ev.target.closest("a.cite-link");
-      if (!a) return;
-      pendingSlide = +a.getAttribute("data-slide-jump") || 0;
-      if (a.getAttribute("href") === location.hash) { ev.preventDefault(); route(); }
-      if (window.matchMedia("(max-width: 700px)").matches) close();
-    });
-    function bubble(cls, html) { var d = document.createElement("div"); d.className = "ask-msg " + cls; d.innerHTML = html; log.appendChild(d); log.scrollTop = log.scrollHeight; return d; }
-    function send() {
-      var question = q.value.trim();
-      if (!question || asking) return;
-      if (log.querySelector(".ask-hello")) log.innerHTML = "";
-      q.value = "";
-      bubble("me", "<p>" + esc(question) + "</p>");
-      var current = BY_KEY[decodeURIComponent(location.hash.slice(1))] || null;
-      var pool = relevant(question + " " + chat.filter(function (m) { return m.role === "user"; }).slice(-1).map(function (m) { return m.q; }).join(" "), current);
-      var catalogue = LESSONS.map(function (l) { return "[[" + key(l) + "]] " + l.title + " (" + COURSE[l.event].short + "; " + facetNames(l).replace(/ \| /g, "; ") + ")"; }).join("\n");
-      var content = "Question: " + question + "\n\nTalk notes for this question (the most relevant talks):\n\n" +
-        (pool.length ? pool.map(notesFor).join("\n\n") : "(no talk matched the question's words)") + "\n\nEvery talk in the library, for pointing to others:\n" + catalogue;
-      var turns = [{ role: "user", content: RULES }].concat(chat.slice(-4).map(function (m) { return { role: m.role, content: m.role === "user" ? "Earlier question: " + m.q : m.content }; }), [{ role: "user", content: content }]);
-      var out = bubble("claude", '<p class="ask-wait">Reading ' + (pool.length || "the") + " talks…</p>");
-      var stop = panel.querySelector("#ask-stop"), sendBtn = panel.querySelector("#ask-send");
-      asking = new AbortController(); stop.hidden = false; sendBtn.disabled = true;
-      sample(turns, { signal: asking.signal, cache: false, onText: function (u) { out.innerHTML = linkify(u.text); log.scrollTop = log.scrollHeight; } })
-        .then(function (r) {
-          out.innerHTML = linkify(r.text) + (r.truncated ? '<p class="ask-err">The answer was cut short. Ask a narrower question.</p>' : "");
-          chat.push({ role: "user", q: question, content: content }); chat.push({ role: "assistant", content: r.text });
-        })
-        .catch(function (e) {
-          var msg = { not_granted: "Asking Claude was not allowed for this page, so this feature is off.", sampling_disabled: "Claude isn't available on this account.",
-            rate_limited: "Too many questions at once, or your Claude usage limit is reached. Try again a little later.", session_expired: "Please sign in to Claude again.",
-            refused: "Claude declined that question. Try rewording it.", cancelled: "" }[e.code];
-          if (msg == null) msg = "Something went wrong. Ask again.";
-          out.innerHTML = (e.text && e.code !== "refused" ? linkify(e.text) : "") + (msg ? '<p class="ask-err">' + esc(msg) + "</p>" : '<p class="ask-err">Stopped.</p>');
-          if (e.code === "not_granted" || e.code === "sampling_disabled") { fab.remove(); }
-        })
-        .then(function () { asking = null; stop.hidden = true; sendBtn.disabled = false; });
-    }
-  }
-  if (window.claude && window.claude.use) {
-    window.claude.use("sample").then(function (sample) { if (sample) { var go = function () { if (LIB) setupAsk(sample); else setTimeout(go, 200); }; go(); } }).catch(function () {});
-  }
 
 
   fetch("data/library.json").then(function (r) { return r.json(); }).then(function (lib) {

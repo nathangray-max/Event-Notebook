@@ -83,37 +83,6 @@ for (const width of [1280, 390]) {
   await page.evaluate(() => localStorage.clear());
   await page.close();
 }
-// Ask the library: a stand-in for the viewer's `sample` capability answers with a cited source; the prompt must carry the
-// public talk's notes and never the confidential session.
-{
-  const page = await browser.newPage({ viewport: { width: 1280, height: 900 } });
-  page.on("pageerror", (e) => errors.push(String(e)));
-  await page.addInitScript(() => {
-    window.__prompts = [];
-    window.claude = { use: async (name) => name !== "sample" ? null : async (turns, opts) => {
-      window.__prompts.push(JSON.stringify(turns));
-      const text = "Creatine came up here [[example-summit-2025--creatine-beyond-muscle#1]].";
-      if (opts && opts.onText) opts.onText({ text, delta: text });
-      return { text, truncated: false, modelTierApplied: "default" };
-    } };
-  });
-  await page.goto(base + "#home");
-  await page.waitForSelector("#ask-open");
-  await page.click("#ask-open");
-  await page.fill("#ask-q", "What about creatine?");
-  await page.click("#ask-send");
-  await page.waitForSelector(".ask-msg.claude a.cite-link");
-  const prompt = (await page.evaluate(() => window.__prompts.join(" ")));
-  check(prompt.includes("creatine-beyond-muscle") && !prompt.includes("private-side-conversation"), "the assistant sends public notes only");
-  await page.click(".ask-msg.claude a.cite-link");
-  await page.waitForSelector("#stage img");
-  check((await page.locator("#counter").textContent()).startsWith("Slide 1"), "a cited source opens the talk at its slide");
-  await page.close();
-  const bare = await browser.newPage();
-  await bare.goto(base + "#home"); await bare.waitForSelector(".talk");
-  check((await bare.locator("#ask-open").count()) === 0, "without the capability the assistant stays hidden");
-  await bare.close();
-}
 const lib = fs.readFileSync(path.join(root, "data/library.json"), "utf8");
 check(!lib.includes("private-side-conversation") && !fs.existsSync(path.join(root, "slides/example-summit-2025--private-side-conversation.json")),
   "the confidential session is not in the library data or its slide packs");
