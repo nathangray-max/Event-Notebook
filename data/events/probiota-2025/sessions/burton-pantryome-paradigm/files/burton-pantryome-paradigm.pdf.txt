@@ -1,0 +1,3681 @@
+--- page 1 ---
+ThePantryomeParadigm:
+Framing the Microbial-Human Health Interface
+JEREMY P . BURTON
+Departments of Surgery, Microbiology and Immunology
+Lawson Research Institute and Western University
+CANADA
+
+--- page 2 ---
+Human microbial therapeutic studies in London, Canada
+Rheumatoid arthritis
+Immune therapy
+Melanoma
+Pancreatic cancer
+Renal Cell
+NAFLD
+ART HIV
+Multiple sclerosis
+Neurogenic bladder HMO
+Kidney transplant HMO
+Cranberry
+Urogenital UTI/ vaginosis/Imaging Recurrent CDI
+Atherosclerosis
+FMT
+PREBIOTIC
+Medication-induced weight gain
+PROBIOTIC
+PHAGE
+FERMENTED
+FOOD
+Anorexia
+We have a focus
+on urologically
+associated
+microbiome, FMT,
+other microbial
+therapeutics, we
+are interested in
+imaging the
+microbiota
+
+--- page 3 ---
+•Not bioenergetic-focused researchers
+•We noticed that molecules associated with
+bioenergetic pathways often appear in
+microbiota studies
+•We hypothesisethat microbes are more
+energetically interdependent than previously
+understood, potentially collaborating
+extracellularlyand sharing molecules
+collectively termed the "pantryome"
+•There may be a significant link between host
+health and extended microbial cooperation,
+offering insights to improve existing microbial
+therapeutics or guide the development of new
+ones.
+Today
+
+--- page 4 ---
+“Dysbiosis”
+•The challenge lies in defining it.
+•"loss of balance in the microbiota”
+•“A shift from higher to lower microbial diversity
+ecosystem”
+•“absence of beneficial microbes or the presence of
+harmful ones”
+•“taxonomic difference between health and disease”
+•“changes in the functional environment”
+•The microbiome's complexity—makes identifying patterns
+or biomarkers difficult.
+2/6/25
+
+--- page 5 ---
+0 20 40 60 80 100
+1.5 2.0 2.5 3.0 3.5 4.0 4.5
+α diversity
+age
+shdiv
+0 20 40 60 80 100
+0 5 10
+A
+Age
+rAB
+0 20 40 60 80 100
+0 5 10
+B
+Age
+rAB
+0 20 40 60 80 100
+0 5 10
+C
+Age
+rAB
+0 20 40 60 80 100
+0 5 10
+D
+Age
+rAB
+0 20 40 60 80 100
+0 5 10
+E
+Age
+rAB
+0 20 40 60 80 100
+0 5 10
+F
+Age
+rAB
+0 20 40 60 80 100
+0 5 10
+G
+Age
+rAB
+Prevotella
+Incertae_Sedis
+Anaerostipes
+unclassified
+Blautia
+Dorea
+Bifidobacterium
+Bacteroides
+Clostridium_SS1
+Faecalibacterium
+−5 0 5 10 15
+−5 0 5 10
+OTU 6 vs. OTU 3340
+Bifid OTU 6
+Bifid OTU 3430
+The gut microbiota of 1000“ridiculously”
+healthy Chinese is similar to healthy young
+What is a “healthy” microbiota?
+
+--- page 6 ---
+Nature Reviews Microbiology
+Perspective
+health (Fig. 1a), such as blood pressure, serum cholesterol, C-reactive
+protein (CRP) and interleukin-6 (IL-6)47.
+One of the main goals of microbiome research is to add
+microbiome-based markers to established clinical biomarkers
+(Fig. 2). Epidemiological approaches have led to the identification of
+a health-associated microbiome signature48,49, with the convergence
+of microbiome signatures across diverse disease states, possibly due to
+the breakdown of host regulation of microbial growth50. There are also
+numerous examples of putative microbiome markers of health and dis-
+ease, including the association of faecal microbiome gene richness with
+metabolic health51, the link of the Bacteroides 2 (Bact2) enterotype with
+Crohn’s disease and systemic inflammation52,53, the vaginal microbiota
+community state type IV (CST IV) associated with bacterial vaginosis
+using the VALENCIA protocol54, the association of Fusobacterium spp.
+and pks+ Escherichia coli with colorectal cancer55,56, the association of
+microbially derived trimethylamine N-oxide (TMAO) with heart disease
+in preclinical studies57, the associations of the gut microbiome with
+blood lipid levels58 and diverse disease and health markers associated
+with similar taxonomic patterns in the gut microbiome59. A recent study
+demonstrated that the composition of the gut microbiota can be largely
+characterized as a combination of five broad species assemblages, or
+enterosignatures, whose proportions vary across individuals and can
+be linked to host health variation60. Similarly, the so-called succino-
+types, which are enterotypical signatures marked by the host-related
+and microbiome-related metabolite succinate, have been shown to
+reliably classify individuals with conditions, for example, inflammatory
+bowel disease (IBD), as reported in a preprint61.
+Many of these insights into the microbial signatures of health have
+been derived from population-scale cohort studies (Table 1). In contrast
+to approaches based on inclusion or exclusion criteria, an unrestricted
+population-based recruitment refrains from imposing a definition of
+health, thereby allowing the boundaries of health to ‘emerge’ from the
+population and facilitating the refining of such definitions over time.
+Nevertheless, the development of large-scale microbiome cohorts
+and the integration of microbiome epidemiology into the study
+design generates additional challenges, as exemplified by extensive
+a
+b
+Biomarker of disease Biomarker of future health and disease
+Measures of
+ host health
+Measures of
+microbiome health
+Microbial markers associated with
+overall health
+Serum
+• C-reactive protein
+• Cholesterol
+• Glucose
+• IL-6
+Blood pressure
+Body mass index
+CST IVBact2 enterotype Resilience Resistance
+SCFAs DynamicsBifidobacterium spp.
+Waist:hip ratio Gene richness Functional redundancyDiversityAkkermansia spp.
+Case–control
+• Cross-sectional
+• ‘Healthy’ defined by absence of
+disease or condition of interest
+Time
+Population-scale cohorts
+• Longitudinal
+• No exclusion criteria
+• Definition of health emerges from data
+and refined over time
+• Biomarkers of future health and disease
+Healthy Large population
+no ‘healthy’ criteria
+Health defined
+through timeDisease
+?
+Fig. 1 | Using the microbiome as a reporter and predictor of health.
+a, A central aim of microbiome research is to identify features of healthy
+microbial communities that best facilitate the health of the host. This requires
+the combination of independent measures of both the host and the microbial
+community health. These measures represent the cumulative impact of genetic
+and environmental factors determining the overall health of the host and/or
+the microbiota, such as nutrition, medication or lifestyle choices (for example,
+smoking and alcohol). Potential microbial biomarkers can range from measures
+of defined taxa (for example, the presence or abundance of Bifidobacterium
+spp., Bacteroides 2 (Bact2) enterotype or Akkermansia spp.) or metabolites (for
+example, short-chain fatty acids (SCFAs)). However, unlike existing markers of
+host health status, these microbial markers are yet to be validated for clinical
+use, and many potential biomarkers remain unexplored (indicated by ‘?’). b, The
+potential of microbiome data to act as a reporter of current disease status or as a
+predictor of future health is shaped by choices in study design and how ‘healthy’
+is defined. Cross-sectional case–control studies can determine associations
+between the microbiome and current disease states but require identifying and
+stratifying patients into a binary of healthy and disease groups. Following a large
+population over time without defining health beforehand can reveal how general
+health adapts over time, including recovery from disease and independent of
+disease in the case of healthy ageing. Longitudinal population-scale studies
+can address all potential applications of microbiome data, by capturing a total
+population without initial exclusion criteria to define health, which can then be
+stratified and viewed under different lenses depending on the research question
+being asked (either through prospective or retrospective analysis). CST IV,
+community state type IV; IL-6, interleukin-6.
+Nature Reviews Microbiology
+nature reviews microbiology https://doi.org/10.1038/s41579-024-01107-0
+Perspective
+  Check for updates
+Examining the healthy human
+microbiome concept
+Raphaela Joos   1,2, Katy Boucher   1, Aonghus Lavelle1,3, Manimozhiyan Arumugam   4, Martin J. Blaser   5,
+Marcus J. Claesson1,2, Gerard Clarke   1,6, Paul D. Cotter   1,7, Luisa De Sordi   8, Maria G. Dominguez-Bello   9,
+Bas E. Dutilh   10,11, Stanislav D. Ehrlich12,13, Tarini Shankar Ghosh   14, Colin Hill   1,2, Christophe Junot   15, Leo Lahti   16,
+Trevor D. Lawley   17, Tine R. Licht   18, Emmanuelle Maguin   19, Thulani P . Makhalanyane   20, Julian R. Marchesi   21,
+Jelle Matthijnssens   22, Jeroen Raes   22,23, Jacques Ravel   24,25, Anne Salonen26, Pauline D. Scanlan   1,2,
+Andrey Shkoporov   1,2, Catherine Stanton   1,7, Ines Thiele1,27, Igor Tolstoy28, Jens Walter   1,2,29, Bo Yang   30,31,
+Natalia Yutin28, Alexandra Zhernakova32, Hub Zwart   33, Human Microbiome Action Consortium*, Joël Doré   12,19
+& R. Paul Ross   1,2 
+Abstract
+Human microbiomes are essential to health throughout the lifespan
+and are increasingly recognized and studied for their roles in
+metabolic, immunological and neurological processes. Although
+the full complexity of these microbial communities is not fully
+understood, their clinical and industrial exploitation is well advanced
+and expanding, needing greater oversight guided by a consensus
+from the research community. One of the most controversial
+issues in microbiome research is the definition of a ‘healthy’ human
+microbiome. This concept is complicated by the microbial variability
+over different spatial and temporal scales along with the challenge of
+applying a unified definition to the spectrum of healthy microbiome
+configurations. In this Perspective, we examine the progress made and
+the key gaps that remain to be addressed to fully harness the benefits
+of the human microbiome. We propose a road map to expand our
+knowledge of the microbiome–health relationship, incorporating
+epidemiological approaches informed by the unique ecological
+characteristics of these communities.
+Sections
+Introduction
+Approaches to defining
+‘healthy’ microbiomes
+A road map for future research
+Conclusions and outlook
+A full list of affiliations appears at the end of the paper.
+ e-mail: p.ross@ucc.ie
+*A list of authors and their affiliations appears at the end of
+the paper.
+
+--- page 7 ---
+Bacterial metabolism determines functional outputs
+~34 ATP
+ATP?
+~2 ATP
+~2 ATP
+•Assumed that bacteria must acquire sugars for
+energy(to make ATP), carbon(for biosynthesis),
+and an oxidisingagent (to accept electrons-O2
+aerobically, others anaerobically) from their
+surroundings and store them internally
+•When used up internally, bring in more until used
+up; end products are released (e.g. lactate,
+acetate, etc.). Some microbes switch between
+systems depending on the availabilities
+
+--- page 8 ---
+We already know that microbes are
+often codependent
+
+--- page 9 ---
+Streptococcus thermophilus-Lactobacillus bulgaricus
+NATURE BIOTECHNOLOGY VOLUME 22 NUMBER 12 DECEMBER 2004
+insertion sequences in the two genomes, some with anomalous G+C
+content and associated with genes of relevance to milk adaptation.
+About 75% of insertion sequences are associated with the change in
+S. thermophilusgene order relative toS. pyogenes, suggesting that these
+sequences play an important role in the shaping of the genome. A
+particularly interesting case of L TG is a 17-kb region found within a
+truncatedpepDgene, that is present in bothS. thermophilusstrains. It
+could be considered as a hot spot of lateral gene transfer, as it contains
+three of the six insertion sequence 1191copies present in the
+LMG18311 strain and constitutes a mosaic of fragments with more
+than 90% identity to DNA of Lactobacillus bulgaricusand two
+subspecies ofL. lactis(lactis andcremoris), three other bacteria also
+growing in milk (Fig. 1a). Interestingly, the leftward ﬂanking region is
+conserved in two streptococcal species ( Streptococcus equiiand
+S. mutans). Similarly, the rightward ﬂanking region is conserved in
+S. equii, starting about 3.5 kb from the end of the 17 kb region. This
+conservation supports the hypothesis that insertions took place in the
+S. thermophilusgenome. TheL. bulgaricusfragment (3.6 kb) brings a
+unique copy ofmetCallowing methionine biosynthesis, a rare amino
+acid in milk2. The high level of identity (95%) of the respectivemetC
+regions reveals a recent lateral gene transfer event between these two
+rather distant species used in association in yogurt manufacture2and
+suggests that ecological proximity rather than a phylogenetic one is a
+prerequisite for lateral gene transfer. W e observed that the two species
+adhere to each other (Fig. 1b), which could facilitate gene transfer
+between them.
+DISCUSSION
+Comparative genomics leads us to the view that the dairy strepto-
+coccus genome may have been shaped mainly through loss-of-
+function events, even if lateral gene transfer played an important
+role. This is the ﬁrst instance where regressive evolution is observed in
+a food niche rather than in pathogen- or symbiont-host situations22,23.
+The massive gene decay resulted in inactivation and loss of most of the
+virulence determinants. This provides a strong genomic argument in
+support of the ‘Generally Recognized As Safe’ status of the dairy
+streptococcus, indicating that massive consumption of this bacterium
+by humans likely entails no health risk.
+METHODS
+Strains.S. thermophilusstrains CNRZ1066 and LMG18311 are yogurt isolates,
+deposited in Institut National de la Recherche Agronomique (INRA) and
+Laboratorium voor Microbiologie Gent (LMG) collections. OtherStreptococcus
+strains used in this study are from the INRA collection:S. salivariusJIM 14, 15,
+16 and 17;S. thermophilusCNRZ 302, 385, 388, 389, 703, 1100,1202 and 1575.
+Genome sequencing and assembly.The complete sequences were determined
+by the random shotgun sequencing strategy followed by multiplex PCR as
+described earlier20. T wo sets of random libraries containing 2- to 3-kb inserts
+were constructed from chromosomal DNA from S. thermophilusstrains
+LMG18311 and CNRZ1106. Assembling of 20,000 and 28,000 sequences gave
+350 and 300 contigs, respectively, for the two strains. W e carried out 1,500
+multiplex PCR reactions for ﬁnal assembling of CNRZ1066 in mixtures of 48
+primers, according to the one-step protocol20, which led to a single circular
+contig. Subsequently, fragments representing the boundaries of repetitive
+regions were ﬂagged with respect to partial mismatches at the ends of
+alignments and were independently assembled before the ﬁnal sequence
+polishing. W e used a similar ﬁnishing strategy for strain LMG18311. In
+summary, sequences of the two strains were determined by construction of
+two independent sequence data sets containing 28,000 random and 2,000
+primer-directed reads for CNRZ1066 strain and 21,000 random and 1,500
+primer-directed reads for LMG18311 strain.
+Gene prediction and annotation.A combination of CRITICA24, Glimmer25
+and an open reading frame calling program developed at Integrated Genomics
+was used to identify coding sequences. The assembled genomes were analyzed
+using the ERGO (http://ergo.integratedgenomics.com/IGwit/) bioinformatics
+suite. The complete DNA sequence and the predicted coding sequences were
+added into the integrated environment for genome annotation and metabolic
+reconstruction as described26. Protein identiﬁers (PIDs) sth0001 and stu0001
+were assigned todnaAin CNRZ1066 and LMG18311, respectively.
+Strain polymorphism.Nucleotide sequences of internal fragments of the genes
+from differentStreptococcusstrains were determined from PCR products
+ampliﬁed from chromosomal DNAs using selected primers. For each
+gene fragment the nucleotide sequences were compared and clustered using
+CLUSTAL W program.
+Genome comparisons.MUMmer27was used for detailed comparative analysis
+of the twoS. thermophilusgenomes. Comparative genome alignments were
+based on results of BLASTP Reciprocal Best Hits (RBH) 28, identiﬁcation of
+conserved gene order and construction of chromosome gene clusters29. The
+number of ori-symmetrical genome rearrangements17was computed using the
+syntheny groups30identiﬁed in the RBH genome comparison. W e computed
+the number of inversions by ﬁrst determining the synthenic regions composed
+of RBH and then counting the number of regions equidistant from the origin
+(within 10% tolerance, allowing us to eliminate effects of most insertions and
+deletions in the compared genomes) but carried on different chromosome
+arms. Only genomes pairs that have a homology greater than 50% were
+L. bulgaricus
+S. thermophilus pepD-tr
+pepD-tr
+L.L. cremoris
+(1.1 kb, 96%)
+Metal P-type ATPaseCold-shock proteins
+L.L. lactis
+(2.6 kb, 98%)
+Methionine biosynthesis Putative transporter
+L. bulgaricus L. L. lactis
+(0.7 kb, 96%)
+L. L. lactis
+(0.7 kb, 95%)
+L. L. lactis
+(1.3 kb, 92%)(3.6 kb, 95%)
+cspB
+tnp1191 tnp191-tr tnp1191
+hsdR2-tr hsdR3-tr hsdR2-tr
+hsdM2-tr
+pepD-tr
+hsdM2-tr
+stu0855
+dacA-tr
+stu0859cysM2 cysE2metCcopBcspA
+ab
+5 µM 2.5 µM
+Figure 1Lateral gene transfer betweenS. thermophilusand dairy bacteria. (a) Schematic representation of a 17-kb mosaic region of lateral gene
+transfer encompassing DNA fragments with more than 90% DNA/DNA identity withLactococcus lactissubsp.lactis20(L.L. lactis, blue),Lactococcus
+lactissubsp.cremoris(L.L. cremoris, red; Joint Genome Institute, http://www.jgi.doe.gov) andLactobacillus bulgaricus(green; Joint Genome Institute,
+http://www.jgi.doe.gov). Rectangular boxes in color correspond to exchanged DNA regions; species, DNA fragment size and percentage of DNA identity are
+indicated below. IS1191are shown as black boxes. Extension ‘-tr’ indicates genes inactive because of a truncation or one or more frameshifts,pepD,
+endopeptidase;tnp, transposase;hsdR, restriction endonuclease;hsdM, methylase;dacA, carboxypeptidase; IS, insertion sequences. (b) Adhesion of
+S. thermophilusCNRZ1066 andL. bulgaricus. The two organisms were cultivated together in liquid broth to mid-exponential phase; a glass slide was
+deposited in the culture for 1 h, withdrawn and rinsed ﬁve times with water and observed under an optical microscope. Inset, higher magniﬁcation.
+NATURE BIOTECHNOLOGY VOLUME 22 NUMBER 12 DECEMBER 2004 1557
+ARTICLES
+©2 0 0 4  N a t u r e  P u b l i s h i n g  G r o u p   http://www.nature.com/naturebiotechnology
+Yogurt
+•Some microbes in cooperative relationships may even give up producing essential parts
+
+--- page 10 ---
+ARTICLE doi:10.1038/nature12479
+Bacteria activate sensory neurons that
+modulate pain and inflammation
+Isaac M. Chiu1, Balthasar A. Heesters2,3, Nader Ghasemlou1, Christian A. V on Hehn1, Fan Zhao4, Johnathan Tran1, Brian W ainger1,
+Amanda Strominger1, Sriya Muralidharan1, Alexander R. Horswill5, Juliane Bubeck W ardenburg6, Sun W ook Hwang1,7,
+Michael C. Carroll2& Clifford J. W oolf1
+Nociceptor sensory neurons are specialized to detect potentially damaging stimuli, protecting the organism by initiating
+the sensation of pain and eliciting defensive behaviours. Bacterial infections produce pain by unknown molecular
+mechanisms, although they are presumed to be secondary to immune activation. Here we demonstrate that bacteria
+directly activate nociceptors, and that the immune response mediated through TLR2, MyD88, T cells, B cells, and
+neutrophils and monocytes is not necessary forStaphylococcus aureus-induced pain in mice. Mechanical and thermal
+hyperalgesia in mice is correlated with live bacterial load rather than tissue swelling or immune activation. Bacteria induce
+calcium flux and action potentials in nociceptor neurons, in part via bacterial N-formylated peptides and the
+pore-forming toxina-haemolysin, through distinct mechanisms. Specific ablation of Nav1.8-lineage neurons, which
+include nociceptors, abrogated pain during bacterial infection, but concurrently increased local immune infiltration
+and lymphadenopathy of the draining lymph node. Thus, bacterial pathogens produce pain by directly activating
+sensory neurons that modulate inflammation, an unsuspected role for the nervous system in host–pathogen interactions.
+Ad e n s en e t w o r ko fl o w -a n dh i g h - t h r e s h o l ds e n s o r yn e r v e si n n e r v a t e
+peripheral tissues including the skin, respiratory tract and gastrointestinal
+tract, which are often exposed to bacterial pathogens. Bacterial infection
+induces inflammation through immune cell recruitment1.I n f l a m m a t o r y
+pain during infection has been thought to be triggered by the action of
+immune-derived proteins (for example, cytokines and growth factors),
+lipids (for example, prostaglandins) and other mediators such as amines,
+potassium and protons on receptors expressed by nociceptors2,3.
+Staphylococcus aureusis a major cause of wound and surgical infec-
+tions, leading to painful abscesses, cellulitis and necrotizing fascitis4,5.
+S. aureusreleases toxins including haemolysins, Panton–Valentine
+leukocidin and phenol soluble modulins, which have roles in bacterial
+dissemination and tissue damage6–8. We have now investigated the
+molecular mechanisms of pain generation duringS. aureusinfection.
+Unexpectedly, key immune activation pathways were not necessary
+for hyperalgesia during acute infection.R a t h e r ,b a c t e r i ad i r e c t l ya c t i v a t e d
+nociceptors throughN-formyl peptides and the pore-forming toxin
+a-haemolysin (aHL). Moreover, we find that nociceptors release neuro-
+peptides that modulate innate immune activation during infection.
+Pain correlates with bacterial load
+To study the nature of pain caused by bacterial pathogens, we estab-
+lished aS. aureusinfection model of the mouse hindpaw. Subcutaneous
+injection of LAC/USA300 (53106colony-forming units (c.f.u.)), a com-
+munity-associated methicillin-resistantS. aureusstrain (CA-MRSA)8,9,
+resulted in mechanical, heat and cold hypersensitivity within 1 h that
+lasted for 48–72 h (Fig. 1a). This hyperalgesia peaked at 6 h after infection,
+and began to decrease at 24 h.
+We quantified the kinetics of tissue swelling, immune activation
+and bacterial clearance. Tissue swelling did not correlate with pain,
+but showed an immediate peak after bacterial injection, and a second
+peak at 48 h after infection (Fig. 1a). Using flow cytometry, we found
+increases in myeloid immune cells in infected tissues (CD11b1CD451;
+Fig. 1b), constituted primarily of Ly6G1neutrophils and Ly6Clomono-
+cytes, with fewer Ly6Chimonocytes (Supplementary Fig. 1 and Fig. 1b).
+This influx began at 6 h, with a peak at 48 h after infection and a reduction
+at 72 h (Fig. 1b). Levels of CXCL1 (also called KC) and MCP-1, chemo-
+kines that mediate neutrophil/monocyte recruitment, peaked early
+(Supplementary Fig. 2), whereas levels of TNF-aand IL-1b, pro-inflam-
+matory cytokines which directly sensitize nociceptors10,11,a l s oi n c r e a s e d
+in infected tissue but did not correlate with hyperalgesia (Fig. 1c).
+We next analysed live bacterial load in infected tissues. S. aureus
+recovery peaked at 6 h, and then decreased over time, similar to the
+time course of pain hypersensitivity (Fig. 1d). This decrease was
+accompanied by myeloid cell ingestion of bacteria, as detected by flow
+cytometry (Supplementary Fig. 1). In infected Nav1.8-Cre/TdTomato
+reporter mice,S. aureus(GFP–USA300) were often found in close
+proximity to dermal but not epidermal nociceptor fibres (Fig. 1e and
+Supplementary Fig. 3), indicating potential direct nerve–bacteria
+interactions. Taken together, hyperalgesia mirrors the time course
+of bacterial expansion and not tissue swelling or immune activation
+(see diagram in Supplementary Fig. 4).
+Host defences not necessary forS. aureus-induced pain
+We determined whether key immune response pathways were neces-
+sary forS. aureus-induced pain. Innate immune cells recognize
+S. aureus-derived cell-wall components through TLR2 (ref. 12), lead-
+ing to nuclear factor-kB (NF-kB) activation through adaptor myeloid
+differentiation factor 88 (MyD88). TLR2 and MyD88 protect mice
+againstS. aureusskin infection4,13. TLR3, TLR4, TLR7 and TLR9 are
+also functionally expressed in sensory neurons14,15. Thus, we analysed
+pain responses inTlr22/2andMyd882/2mice afterS. aureusinfec-
+tion. Notably, mechanical and thermal hyperalgesia were not reduced
+in these mice (Fig. 2a and Supplementary Fig. 5). At 72 h,Myd882/2
+1Kirby Neurobiology Center, Boston Children’s Hospital, and Department of Neurobiology, Harvard Medical School, Boston, Massachusetts 02115, USA.2Boston Children’s Hospital, Program in Cellular
+and Molecular Medicine, and Harvard Medical School, Boston, Massachusetts 02115, USA.3Medical Microbiology, University Medical Center, Utrecht, Utrecht 3584 CX, The Netherlands.4Department of
+Chemistry, Quantitative Biology Program, Brandeis University, Waltham, Massachusetts 02454, USA.5Department of Microbiology, Roy J. and Lucille A. Carver College of Medicine, University of Iowa, Iowa
+City, Iowa 52242, USA.6Departments of Pediatrics and of Microbiology, University of Chicago, Chicago, Illinois 60637, USA.7Korea University Graduate School of Medicine, Seoul 136-705, South Korea.
+00 MONTH 2013 | VOL 000 | NATURE | 1
+Macmillan Publishers Limited. All rights reserved©2013
+Whiteside SA, RazviH, Dave S, Reid G and JP Burton (2015) Nature Reviews Urology
+“Pool” of bioenergetic molecules in the urogenital tract
+Evidence of Uncultivated Bacteria in the Adult Female Bladder
+Alan J. Wolfe,aEvelyn Toh,bNoriko Shibata,aRuichen Rong,cKimberly Kenton,aMaryPat FitzGerald,aElizabeth R. Mueller,a
+Paul Schreckenberger,aQunfeng Dong,cDavid E. Nelson,bandLinda Brubakera
+Stritch School of Medicine, Loyola University Chicago, Maywood, Illinois, USAa; Indiana University, Bloomington, Indiana, USAb; and University of North Texas, Denton,
+Texas, USAc
+Clinical urine specimens are usually considered to be sterile when they do not yield uropathogens using standard clinical cultiva-
+tion procedures. Our aim was to test if the adult female bladder might contain bacteria that are not identiﬁed by these routine
+procedures. An additional aim was to identify and recommend the appropriate urine collection method for the study of bacterial
+communities in the female bladder. Consenting participants who were free of known urinary tract infection provided urine sam-
+ples by voided, transurethral, and/or suprapubic collection methods. The presence of bacteria in these samples was assessed by
+bacterial culture, light microscopy, and 16S rRNA gene sequencing. Bacteria that are not or cannot be routinely cultivated (here-
+inafter called uncultivated bacteria) were common in voided urine, urine collected by transurethral catheter (TUC), and urine
+collected by suprapubic aspirate (SPA), regardless of whether the subjects had urinary symptoms. Voided urine samples con-
+tained mixtures of urinary and genital tract bacteria. Communities identiﬁed in parallel urine samples collected by TUC and
+SPA were similar. Uncultivated bacteria are clearly present in the bladders of some women. It remains unclear if these bacteria
+are viable and/or if their presence is relevant to idiopathic urinary tract conditions.
+Culture-dependent methods are typically used to test if clinical
+urine specimens contain uropathogens, and the results play a
+pivotal role in the diagnosis and treatment of urinary tract infec-
+tion symptoms in women. Clinical urine cultures are considered
+positive when the colony count of a recognized uropathogen, such
+asEscherichia coli,Pseudomonas,Klebsiella, or group BStreptococ-
+cusreaches a predeﬁned threshold (14). Bacterial urinary tract
+infections (UTI) caused by these typical uropathogens elicit symp-
+toms that typically improve or resolve in response to appropriate
+antibiotic therapy. For other common urinary disorders, includ-
+ing overactive bladder, urinary incontinence, and a spectrum of
+pain disorders, e.g., painful bladder syndrome and interstitial cys-
+titis, the clinical urine culture is negative and antibiotics are not
+given for clinical treatment. Under these conditions, the etiology
+is unknown, and research into these conditions so far has not
+incorporated culture-independent assessments of bladder infec-
+tion, such as bacterial 16S rRNA PCR and metagenomic sequenc-
+ing approaches.
+Recently, a concerted international effort, known as the Hu-
+man Microbiome Project (http://commonfund.nih.gov/hmp/),
+has begun to catalogue the core microbial composition of the
+healthy human body in order to determine if changes to the core
+microbial communities affect health. Sequence analysis of 16S
+rRNA, the workhorse of that effort, has been used to determine the
+microﬂora composition of healthy skin (12, 13), the gastrointes-
+tinal tract (7, 9, 36), the mouth (24, 25, 28), and the vagina (11, 16,
+27, 39) and to correlate certain diseases with changes in this com-
+position (9, 11, 27). A common theme from all of these studies is
+that our rather limited capacity to cultivate microorganisms has
+caused us to overlook much of the diversity of the bacterial com-
+munities that colonize the human body.
+Based upon the results of culture-independent 16S rRNA se-
+quencing of samples obtained by voided urine, Nelson and co-
+workers (26) reported that diverse bacteria colonize the adult male
+urogenital tract. Many of the taxa identiﬁed in this study either
+cannot be or are not routinely cultivated by clinical microbiology
+laboratories (hereinafter called uncultivated bacteria). A related
+study determined that ﬁrst-catch urine and urethral swab samples
+collected from adult men contained highly similar bacterial com-
+munities (6). These and other reports suggest that uncultivated
+bacteria can colonize the male urogenital tract and might be rele-
+vant to male urinary and reproductive tract syndromes.
+Colonization of the vagina with diverse populations of fastid-
+ious and uncultivated microorganisms is common and clearly as-
+sociated with bacterial vaginosis (BV) and other idiopathic upper
+reproductive tract conditions (11, 16, 27, 39). In contrast, it is not
+known whether uncultivated bacteria in the female urinary tract
+could be relevant to female urinary tract disease.
+The goals of this study were to test if the bladders of women
+who do not meet the clinical deﬁnition for UTI contain unculti-
+vated bacteria. An additional aim was to identify and recommend
+the most suitable urine collection method for the culture-inde-
+pendent characterization of bacterial communities that speciﬁ-
+cally reside in the female bladder.
+MATERIALS AND METHODS
+Study design and patients.Following Loyola institutional review board
+(IRB) approval for all phases of this project, participants gave verbal and
+written consent for the collection and analysis of their urine for research
+purposes. Eligibility required the absence of known UTI by clinical assess-
+ment (physician history and physical) and catheterized urine culture prior
+to surgery, using the clinical laboratory recommendation to interpret
+/H11022104CFU/ml of a uropathogen as clinical infection. Urinary symptoms
+were assessed for all participants with a validated symptom questionnaire,
+the Pelvic Floor Distress Inventory (PFDI) (3).
+Received16 November 2011Returned for modiﬁcation27 December 2011
+Accepted12 January 2012
+Published ahead of print25 January 2012
+Address correspondence to Linda Brubaker, lbrubaker@lumc.edu.
+Supplemental material for this article may be found athttp://jcm.asm.org/.
+Copyright © 2012, American Society for Microbiology. All Rights Reserved.
+doi:10.1128/JCM.05852-11
+1376jcm.asm.org 0095-1137/12/$12.00 Journal of Clinical Microbiology p. 1376 –1383
+Downloaded from https://journals.asm.org/journal/jcm on 03 January 2025 by 99.209.52.50.
+Could bacterial production alter signals for
+frequency? urgency? pain?
+
+--- page 11 ---
+Artificial Urine L. crispatusSNE. coliSN
+Myofibroblast collagen
+contraction assay
+DMEM 2%L. crispatusE.coliE.coli/ L.
+crispatus
+0
+20
+40
+60
+80
+50% E. coli IA2 SN + 50% AU
+50% L. gasseri KE-1 SN + 50% AU
+50% L. gasseri KE-1 SN + 50% E. coli IA2 SN
+100% AU
+****
+Treatment
+Image Intensity (AU)
+5637 Cells
+Ca2+influxiscrude,buteasilyinducedandusefultorapidlyscreen
+forbacterialcompoundsthatmayaffectorprotectthehost.
+Dr. Behnam
+Abbasian
+
+--- page 12 ---
+Group
+μMATP
+Lactobacillus crispatus
+Went on an extensive metabolomic search….
+Found that bacteria were dumping valuable ATP
+
+--- page 13 ---
+ATP
+The urinary bladder
+contraction
+Purinergic
+pathway
+Purinergic
+receptors
+Lactobacillus crispatus
+
+--- page 14 ---
+Potential Role of Extracellular ATP Released by Bacteria in
+Bladder Infection and Contractility
+Behnam Abbasian,a,bAidan Shair,a,bDavid B. O’Gorman,b,cAna M. Pena-Diaz,b,cLiam Brennan,a,b,dKathleen Engelbrecht,e
+David W. Koenig,eGregor Reid,a,b,dJeremy P. Burtona,b,d
+aDepartment of Microbiology and Immunology, The University of Western Ontario, London, Ontario, Canada
+bLawson Health Research Institute, St. Joseph’s Hospital, London, Ontario, Canada
+cPlastic and Reconstructive Surgery, Department of Surgery, The University of Western Ontario, London, Ontario, Canada
+dDivision of Urology, Department of Surgery, The University of Western Ontario, London, Ontario, Canada
+eKimberly Clark Corporation, Global Research & Engineering, Neenah, Wisconsin, USA
+ABSTRACT Urgency urinary incontinence (UUI) and overactive bladder (OAB) can
+both potentially be inﬂuenced by commensal and urinary tract infection-associated
+bacteria. The sensing of bladder ﬁlling involves interplay between various compo-
+nents of the nervous system, eventually resulting in contraction of the detrusor mus-
+cle during micturition. This study models host responses to various urogenital bacte-
+ria,ﬁrst by using urothelial bladder cell lines and then with myoﬁbroblast contraction
+assays. To measure responses, we examined Ca2/H11001inﬂux, gene expression, and alpha
+smooth muscle actin deposition assays. Organisms such as Escherichia coliandGard-
+nerella vaginaliswere found to strongly induce Ca2/H11001inﬂux and contraction, whereas
+Lactobacillus crispatusandL. gasseridid not induce this response. Additionally, su-
+pernatants from lactobacilli impeded Ca2/H11001inﬂux and contraction induced by uro-
+pathogens. Upon further investigation of factors associated with purinergic signaling
+pathways, the Ca2/H11001inﬂux and contraction of cells correlated with the amount of ex-
+tracellular ATP produced by E. coli. Certain lactobacilli appear to mitigate this re-
+sponse by utilizing extracellular ATP or producing inhibitory compounds that may
+act as a receptor agonist or Ca2/H11001channel blocker. These ﬁndings suggest that mem-
+bers of the urinary microbiota may be inﬂuencing UUI or OAB.
+IMPORTANCEThe ability of uropathogenic bacteria to release excitatory compounds,
+such as ATP, may act as a virulence factor to stimulate signaling pathways that
+could have profound effects on the urothelium, perhaps extending to the vagina.
+This may be countered by the ability of certain commensal urinary microbiota con-
+stituents, such as lactobacilli. Further understanding of these interactions is impor-
+tant for the treatment and prevention of UUI and OAB. The clinical implications may
+require a more targeted approach to enhance the commensal bacteria and reduce
+ATP release by pathogens.
+KEYWORDSATP,Escherichia coli,Gardnerella,Lactobacillus, extracellular
+Urinary incontinence is common in women, but is underreported and undertreated
+(1,2). Patients who suffer from overactive bladder syndrome (OAB) or urgency
+urinary incontinence (UUI) usually experience the sensation to urinate whether the
+bladder is full or not. While there are many factors involved, ultimately it is the
+contraction of bladder smooth muscle cells that invokes urination ( 2–4). The storage
+and voiding of urine are controlled by both the sympathetic and parasympathetic
+nervous system pathways (2–4). It is speculated that neurotransmitters with different
+effects and potentially originating from bacteria may play major roles in bladder
+function (5–7).
+CitationAbbasian B, Shair A, O’Gorman DB,
+Pena-Diaz AM, Brennan L, Engelbrecht K,
+Koenig DW, Reid G, Burton JP. 2019. Potential
+role of extracellular ATP released by bacteria in
+bladder infection and contractility. mSphere
+4:e00439-19.https://doi.org/10.1128/mSphere
+.00439-19.
+EditorMaria L. Marco, University of California,
+Davis
+Copyright© 2019 Abbasian et al. This is an
+open-access article distributed under the terms
+of theCreative Commons Attribution 4.0
+International license.
+Address correspondence to Jeremy P. Burton,
+Jeremy.burton@lawsonresearch.com.
+Received20 June 2019
+Accepted12 August 2019
+Published
+RESEARCH ARTICLE
+Host-Microbe Biology
+September/October 2019 Volume 4 Issue 5 e00439-19
+ msphere.asm.org1
+4 September 2019
+Downloaded from https://journals.asm.org/journal/msphere on 01 September 2021 by 72.142.17.178.
+R E S E A R C H A R T I C L E Open Access
+Release of extracellular ATP by bacteria during
+growth
+Roberto Mempin1, Helen Tran1, Connie Chen1, Hao Gong1, Katharina Kim Ho2and Sangwei Lu1*
+Abstract
+Background:Adenosine triphosphate (ATP) is used as an intracellular energy source by all living organisms. It plays
+a central role in the respiration and metabolism, and is the most important energy supplier in many enzymatic
+reactions. Its critical role as the energy storage molecule makes it extremely valuable to all cells.
+Results:We report here the detection of extracellular ATP in the cultures of a variety of bacterial species. The levels
+of the extracellular ATP in bacterial cultures peaked around the end of the log phase and decreased in the
+stationary phase of growth. Extracellular ATP levels were dependent on the cellular respiration as bacterial mutants
+lacking cytochrome bo oxidase displayed lower extracellular ATP levels. We have also shown that Escherichia coli
+(E. coli) andSalmonellaactively depleted extracellular ATP and an ATP supplement in culture media enhanced the
+stationary survival ofE. coliandSalmonella. In addition toE. coliandSalmonellathe presence of the extracellular
+ATP was observed in a variety of bacterial species that contain human pathogens such as Acinetobacter,
+Pseudomonas,KlebsiellaandStaphylococcus.
+Conclusion:Our results indicate that extracellular ATP is produced by many bacterial species during growth and
+extracellular ATP may serve a role in the bacterial physiology.
+Keywords:ATP, Secretion, Bacteria,Salmonella,E. coli, Stationary survival
+Background
+Adenosine triphosphate (ATP) is one of the most impor-
+tant small molecules in the living organisms. It is a
+universal energy currency used in many biological pro-
+cesses that require energy. Living organisms generate
+ATP through respiration and subsequently utilize ATP
+to carry out cellular functions that are necessary for
+their survival, growth and replication. In addition to its
+intracellular roles in storing and supplying energy in
+metabolism and enzymatic reactions, ATP also has
+signaling functions. ATP has been shown to control the
+differentiation of TH17 cells in intestinal lamina propria
+[1]. Extracellular ATP has been shown to interact with
+P2 receptors to modulate immune response by stimulating
+cell migration and cytokine secretion (reviewed in [2,3]).
+Recently, ATP was also shown to regulate virulence gene
+mgtCinSalmonella[4]. These findings suggest that ATP
+is a more versatile molecule than a supplier of energy in
+both prokaryotic and eukaryotic organisms.
+ATP is present in all living organisms, consistent with
+its roles in biological reactions and processes. The in-
+tracellular ATP level in Escherichia coli(E. coli) and
+Salmonellais reported to be 1 –5 mM and changes
+according to various environmental and physiological
+conditions of bacteria [5-8]. A few reports in recent
+years described the detection of the extracellular ATP
+from selected bacterial species [9-11]. Iwase et al. re-
+ported that ATP was detected at 1 –3μM from the
+supernatant of the stationary cultures of Enterococcus
+gallinarumisolated from mouse and human feces, but
+not from theE. coliandStaphylococcus aureusstrains
+tested in the same study [10]. In a follow-up study
+published recently the same group reported that ATP
+release is dependent on glycolysis [11]. An earlier report
+by Ivanova et al. showed that bacteria from a variety of
+genera includingSulfitobacter,StaleyaandMarinobacter
+release ATP to concentrations ranging from 0.1 pM to
+9.8 pM/colony forming unit (CFU) or 190 μM to
+1.9 mM [9]. The purpose and significance of the ATP
+* Correspondence:sangwei@berkeley.edu1Division of Infectious Diseases and Vaccinology, School of Public Health,
+University of California, Berkeley, CA 94720-7354, USA
+Full list of author information is available at the end of the article
+© 2013 Mempin et al.; licensee BioMed Central Ltd. This is an open access article distributed under the terms of the Creative
+Commons Attribution License (http://creativecommons.org/licenses/by/2.0), which permits unrestricted use, distribution, and
+reproduction in any medium, provided the original work is properly cited.
+Mempinet al. BMC Microbiology2013,13:301
+http://www.biomedcentral.com/1471-2180/13/301
+•Urogenital microbes release extracellular ATP
+(ATP), which others use.
+•Lactobacillusstrains counter eATPby releasing
+GABA-like compounds and using ATP directly. It
+highlights microbial-host interplay and a
+probiotic potential that is not often considered.
+•Urogenital microbiota is relatively simple. How
+about the gut?
+
+--- page 15 ---
+•In the gut, it is more complex
+•Elegant reviews showing multi-level cross-feeding
+•Ratio?
+•Bioenergetic components
+•Host interaction (two-way)
+
+--- page 16 ---
+More independent
+More sharing
+Simply Must synthesize
+components typically
+produced by a more
+diverse community,
+necessitating the
+possession of the
+genetic and metabolic
+tools required for such
+biosynthesis.
+
+--- page 17 ---
+Review
+Emerging connections between gut microbiome
+bioenergetics and chronic metabolic diseases
+Brendan A. Daisley,1,2David Koenig,4Kathleen Engelbrecht,4Liz Doney,4Kiel Hards,5Kait F. Al,1,2Gregor Reid,1,2,3
+and Jeremy P. Burton1,2,3,*
+1Department of Microbiology & Immunology, The University of Western Ontario, London, ON N6A 5C1, Canada
+2Canadian Centre for Human Microbiome and Probiotics Research, London, ON N6A 4V2, Canada
+3Department of Surgery, Division of Urology, Schulich School of Medicine, London, ON N6A 5C1, Canada
+4Kimberly Clark Corporation, Global Research and Engineering-Life Science, Neenah, WI, USA
+5Department of Microbiology and Immunology, University of Otago, Dunedin, Otago, New Zealand
+*Correspondence:jeremy.burton@lawsonresearch.com
+https://doi.org/10.1016/j.celrep.2021.110087
+SUMMARY
+The conventional viewpoint of single-celled microbial metabolism fails to adequately depict energy ﬂow at
+the systems level in host-adapted microbial communities. Emerging paradigms instead support that distinct
+microbiomes develop interconnected and interdependent electron transport chains that rely on cooperative
+production and sharing of bioenergetic machinery (i.e., directly involved in generating ATP) in the extracel-
+lular space. These communal resources represent an important subset of the microbial metabolome, desig-
+nated here as the ‘‘pantryome’’ (i.e., pantry or external storage compartment), that critically supports micro-
+biome function and can exert multifunctional effects on host physiology. We review these interactions as they
+relate to human health by detailing the genomic-based sharing potential of gut-derived bacterial and archaeal
+reference strains. Aromatic amino acids, metabolic cofactors (B vitamins), menaquinones (vitamin K2),
+hemes, and short-chain fatty acids (with speciﬁc emphasis on acetate as a central regulator of symbiosis)
+are discussed in depth regarding their role in microbiome-related metabolic diseases.
+REDEFINING DYSBIOSIS
+Microbial communities are critical to ecosystem functioning
+across a wide range of environments and play an unequivocally
+important role in marine and atmospheric biogeochemical pro-
+cesses, soil-plant nutrient cycling, and maintenance of human
+health (Banerjee et al., 2018). Notably, associations have been
+identiﬁed that link human disease occurrence with microbiota
+‘‘dysbiosis’’ of the digestive (Fan and Pedersen, 2021), urogenital
+(Whiteside et al., 2015), and respiratory tract systems (Man et al.,
+2017). Dysbiosis, by its simplest deﬁnition, refers to microbial
+imbalance. However, in practice there is no clear distinction on
+what constitutes this term since a ‘‘balanced’’ (presumably
+healthy) microbiota colonizing a given body site is both subjec-
+tive in nature and likely context-dependent based on genetic,
+dietary, and environmental factors.
+That is, whether a speciﬁc microbiota is ‘‘good’’ or ‘‘bad’’ is rela-
+tive. A more appropriate way to deﬁne disease-associated dysbio-
+sis may be through assessing the overall level of microbial adapta-
+tion or maladaptation. Selection pressures suggest that the best
+(most adapted) microbiota for a given individual will naturally
+develop if allowed adequate microbial exposure and time. Ac-
+cording to the Black Queen hypothesis (i.e., species gain ﬁtness
+through genome streamlining), this process also selects for syner-
+gistic genome reduction until an equilibrium point of minimalism is
+achieved in the community (Morris et al., 2012). Empirical data
+support that this occurs, as demonstrated by the extensive auxot-
+rophy (i.e., loss of essential micronutrient-encoding genes) and
+lack of virulence genes frequently observed in host-adapted sym-
+bionts (McCutcheon and Moran, 2011). However, gene loss is not
+random. Phylogenetically related groups of taxa that intrinsically
+produce a given micronutrient with greater efﬁciency compared
+to others within a community (e.g., based on codon-usage biases
+[Heizer et al., 2006]) will have a propensity to retain a related gene
+structure and become ‘‘producers’’ for that micronutrient.
+Conversely, predictable gene loss will occur in taxa with lesser
+relative production efﬁciencies, and they will become the ‘‘con-
+sumers’’ of that micronutrient. The driving force is that cooperative
+production of essential nutrients is energetically favorable over
+individualistic production (Celis and Relman, 2020). Thus, to
+form the leanest manufacturing networks possible, it is apparent
+that microorganisms must extensively share their resources in a
+communal pool within the extracellular space in order to optimize
+overall biosynthesis costs at the community level. To describe and
+distinguish these speciﬁc bioenergetic-related molecules from the
+vast range of metabolites found in the extracellular metabolome,
+we propose use of the term ‘‘pantryome’’ (i.e., pantry or external
+storage compartment where microbial-derived provisions essen-
+tial to growth are kept).
+Notably, many of the shared resources found abundantly within
+the human gut pantryome represent well-described bioenergetic
+molecules (e.g., amino acids, vitamin B cofactors, hemes,
+quinones) with fundamental roles in basic cellular metabolism.
+While their ubiquity and established properties may have caused
+Cell Reports37, December 7, 2021ª2021 The Author(s).1
+This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+llOPEN ACCESS
+•Do existing concepts of cooperation go far enough?
+•The pantyomeconcept emphasisesinterdependence
+and cohesiveness that cooperatively produces
+essential nutrients and metabolites necessary for
+microbiota and host
+•Public bioenergetic resources and metabolic
+pathways exist among the microbiota within the gut
+that are external
+•Not yet well-defined, and many are ubiquitous, duel
+use and likely hiding in plain sight
+•Isn't this just the metabolome? Extends from
+molecules to proteins (ATP , electron shuttles, vitamins)
+
+--- page 18 ---
+Cross-feeding
+is constant
+them to be overlooked in the past, mounting evidence suggests
+that they can exert pleiotropic extracellular effects and that their
+co-production in microbial communities supports optimal adapta-
+tion (Celis and Relman, 2020;Franco-Obrego´n and Gilbert, 2017;
+Fritts et al., 2021). For example, they may function as critical me-
+diators in the orchestration of a communally driven interspecies
+electron transport chain (ETC) that connects all members of a mi-
+crobiota while synchronously supporting massive metabolic
+versatility at a fraction of the overhead cost relative to conventional
+(single-celled) metabolism (Figure 1).
+These types of ﬁndings are rapidly redeﬁning our understand-
+ing of microbial cross-feeding networks as well as improving our
+ability to grow ‘‘unculturable’’ microorganisms in the lab
+(Nayfach et al., 2019). Importantly, indiscriminate sharing of re-
+sources resulting from reductive evolutionary processes ap-
+pears to be directly linked with the capacity for extracellular bio-
+energetic exchange and overall adaptation in microbial
+communities. Dysbiosis (maladaptation) may accordingly be
+characterized by bioenergetic failure or network collapse
+following the disappearance of cooperative hub taxa with stabi-
+lizing roles on communal (extracellular) resource sharing and
+metabolism. The causal factors leading to dysbiosis (e.g., indus-
+trialization, antibiotics, pesticides, food additives) as well as the
+associations between loss of microbial diversity and many non-
+communicable chronic diseases have been reviewed in depth by
+others (Shen et al., 2012;Sonnenburg and Sonnenburg, 2019a,
+2019b;Wibowo et al., 2021). Here, we draw attention to the
+most essential bioenergetic components found within microbial
+pantryomes, discuss their multi-functional relevance in terms of
+extracellular electron transport, and provide evidence for the
+overarching role that microbiota bioenergetics may play in pre-
+venting certain chronic metabolic diseases.
+Figure 1. Classic and ‘‘pantryome’’ models of cross feeding
+(A) Classic cross feeding is depicted as being a successional phenomenon where end byproducts (e.g., short-chain fatty acids) from primary resourcespecialists
+are excreted as waste from the cell. Secondary resource specialists then utilize this waste for individual gain and then similarly dispose of end bypr oducts as
+waste. The succession of acetate to butyrate is shown in this example, which is beneﬁcially metabolized by host epithelial cells for energy.
+(B) An alternative model showing the complex reality of microbial cross-feeding interactions and the extensive sharing of core bioenergetic machin ery in the
+extracellular space.
+2Cell Reports37, December 7, 2021
+Review
+llOPEN ACCESS
+
+--- page 19 ---
+(Tang et al., 2015), Alzheimer’s disease (Xu and Wang, 2016),
+and multiple sclerosis ( Fitzgerald et al., 2021 ). Conversely,
+various isoforms of menaquinones can improve vascular calciﬁ-
+cation in chronic kidney disease in a dose-dependent manner
+(Caluwe´et al., 2014), reduce hypertension via modulation of
+the renin-angiotensin system (Liu et al., 2021), positively inﬂu-
+ence cognition in Alzheimer’s disease (McCann et al., 2019),
+and exert protective effects against mitochondrial damage in
+multiple sclerosis patients (Lasemi et al., 2018).
+Methanogenic archaea: Friends or foes?
+Despite misleading nomenclature (e.g., class Methanobacteria),
+all known methanogens are taxonomically classiﬁed within the
+domain Archaea. Notably, methanogenic archaea are the major
+biological source of methane in humans with a single species,
+Methanobrevibacter smithii, accounting for up to 94% of metha-
+nogenic activity in most colonized individuals (Dridi et al., 2011).
+Their prevalence, however, is known to vary greatly (38%–95%)
+based on cohort, body site, and age ( Dridi et al., 2009,2012;
+Figure 4. Overview of microbial metabolic pathways relevant to bioenergetics and host disease outcomes
+Pathway identiﬁers shown are for the MetaCyc database. Doughnut charts depicting percent human-associated taxa with synthesis pathway are based on285
+unique species (seeTable S1for more details) but do not account for differences in relative abundance under healthy or diseased conditions.
+Cell Reports37, December 7, 202113
+Review
+llOPEN ACCESS
+Review
+Emerging connections between gut microbiome
+bioenergetics and chronic metabolic diseases
+Brendan A. Daisley,1,2David Koenig,4Kathleen Engelbrecht,4Liz Doney,4Kiel Hards,5Kait F. Al,1,2Gregor Reid,1,2,3
+and Jeremy P. Burton1,2,3,*
+1Department of Microbiology & Immunology, The University of Western Ontario, London, ON N6A 5C1, Canada
+2Canadian Centre for Human Microbiome and Probiotics Research, London, ON N6A 4V2, Canada
+3Department of Surgery, Division of Urology, Schulich School of Medicine, London, ON N6A 5C1, Canada
+4Kimberly Clark Corporation, Global Research and Engineering-Life Science, Neenah, WI, USA
+5Department of Microbiology and Immunology, University of Otago, Dunedin, Otago, New Zealand
+*Correspondence:jeremy.burton@lawsonresearch.com
+https://doi.org/10.1016/j.celrep.2021.110087
+SUMMARY
+The conventional viewpoint of single-celled microbial metabolism fails to adequately depict energy ﬂow at
+the systems level in host-adapted microbial communities. Emerging paradigms instead support that distinct
+microbiomes develop interconnected and interdependent electron transport chains that rely on cooperative
+production and sharing of bioenergetic machinery (i.e., directly involved in generating ATP) in the extracel-
+lular space. These communal resources represent an important subset of the microbial metabolome, desig-
+nated here as the ‘‘pantryome’’ (i.e., pantry or external storage compartment), that critically supports micro-
+biome function and can exert multifunctional effects on host physiology. We review these interactions as they
+relate to human health by detailing the genomic-based sharing potential of gut-derived bacterial and archaeal
+reference strains. Aromatic amino acids, metabolic cofactors (B vitamins), menaquinones (vitamin K2),
+hemes, and short-chain fatty acids (with speciﬁc emphasis on acetate as a central regulator of symbiosis)
+are discussed in depth regarding their role in microbiome-related metabolic diseases.
+REDEFINING DYSBIOSIS
+Microbial communities are critical to ecosystem functioning
+across a wide range of environments and play an unequivocally
+important role in marine and atmospheric biogeochemical pro-
+cesses, soil-plant nutrient cycling, and maintenance of human
+health (Banerjee et al., 2018). Notably, associations have been
+identiﬁed that link human disease occurrence with microbiota
+‘‘dysbiosis’’ of the digestive (Fan and Pedersen, 2021), urogenital
+(Whiteside et al., 2015), and respiratory tract systems (Man et al.,
+2017). Dysbiosis, by its simplest deﬁnition, refers to microbial
+imbalance. However, in practice there is no clear distinction on
+what constitutes this term since a ‘‘balanced’’ (presumably
+healthy) microbiota colonizing a given body site is both subjec-
+tive in nature and likely context-dependent based on genetic,
+dietary, and environmental factors.
+That is, whether a speciﬁc microbiota is ‘‘good’’ or ‘‘bad’’ is rela-
+tive. A more appropriate way to deﬁne disease-associated dysbio-
+sis may be through assessing the overall level of microbial adapta-
+tion or maladaptation. Selection pressures suggest that the best
+(most adapted) microbiota for a given individual will naturally
+develop if allowed adequate microbial exposure and time. Ac-
+cording to the Black Queen hypothesis (i.e., species gain ﬁtness
+through genome streamlining), this process also selects for syner-
+gistic genome reduction until an equilibrium point of minimalism is
+achieved in the community (Morris et al., 2012). Empirical data
+support that this occurs, as demonstrated by the extensive auxot-
+rophy (i.e., loss of essential micronutrient-encoding genes) and
+lack of virulence genes frequently observed in host-adapted sym-
+bionts (McCutcheon and Moran, 2011). However, gene loss is not
+random. Phylogenetically related groups of taxa that intrinsically
+produce a given micronutrient with greater efﬁciency compared
+to others within a community (e.g., based on codon-usage biases
+[Heizer et al., 2006]) will have a propensity to retain a related gene
+structure and become ‘‘producers’’ for that micronutrient.
+Conversely, predictable gene loss will occur in taxa with lesser
+relative production efﬁciencies, and they will become the ‘‘con-
+sumers’’ of that micronutrient. The driving force is that cooperative
+production of essential nutrients is energetically favorable over
+individualistic production (Celis and Relman, 2020). Thus, to
+form the leanest manufacturing networks possible, it is apparent
+that microorganisms must extensively share their resources in a
+communal pool within the extracellular space in order to optimize
+overall biosynthesis costs at the community level. To describe and
+distinguish these speciﬁc bioenergetic-related molecules from the
+vast range of metabolites found in the extracellular metabolome,
+we propose use of the term ‘‘pantryome’’ (i.e., pantry or external
+storage compartment where microbial-derived provisions essen-
+tial to growth are kept).
+Notably, many of the shared resources found abundantly within
+the human gut pantryome represent well-described bioenergetic
+molecules (e.g., amino acids, vitamin B cofactors, hemes,
+quinones) with fundamental roles in basic cellular metabolism.
+While their ubiquity and established properties may have caused
+Cell Reports37, December 7, 2021ª2021 The Author(s).1
+This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+llOPEN ACCESS
+(Tang et al., 2015), Alzheimer’s disease (Xu and Wang, 2016),
+and multiple sclerosis ( Fitzgerald et al., 2021 ). Conversely,
+various isoforms of menaquinones can improve vascular calciﬁ-
+cation in chronic kidney disease in a dose-dependent manner
+(Caluwe´et al., 2014), reduce hypertension via modulation of
+the renin-angiotensin system (Liu et al., 2021), positively inﬂu-
+ence cognition in Alzheimer’s disease (McCann et al., 2019),
+and exert protective effects against mitochondrial damage in
+multiple sclerosis patients (Lasemi et al., 2018).
+Methanogenic archaea: Friends or foes?
+Despite misleading nomenclature (e.g., class Methanobacteria),
+all known methanogens are taxonomically classiﬁed within the
+domain Archaea. Notably, methanogenic archaea are the major
+biological source of methane in humans with a single species,
+Methanobrevibacter smithii, accounting for up to 94% of metha-
+nogenic activity in most colonized individuals (Dridi et al., 2011).
+Their prevalence, however, is known to vary greatly (38%–95%)
+based on cohort, body site, and age ( Dridi et al., 2009,2012;
+Figure 4. Overview of microbial metabolic pathways relevant to bioenergetics and host disease outcomes
+Pathway identiﬁers shown are for the MetaCyc database. Doughnut charts depicting percent human-associated taxa with synthesis pathway are based on285
+unique species (seeTable S1for more details) but do not account for differences in relative abundance under healthy or diseased conditions.
+Cell Reports37, December 7, 202113
+Review
+llOPEN ACCESS
+(Tang et al., 2015), Alzheimer’s disease (Xu and Wang, 2016),
+and multiple sclerosis ( Fitzgerald et al., 2021 ). Conversely,
+various isoforms of menaquinones can improve vascular calciﬁ-
+cation in chronic kidney disease in a dose-dependent manner
+(Caluwe´et al., 2014), reduce hypertension via modulation of
+the renin-angiotensin system (Liu et al., 2021), positively inﬂu-
+ence cognition in Alzheimer’s disease (McCann et al., 2019),
+and exert protective effects against mitochondrial damage in
+multiple sclerosis patients (Lasemi et al., 2018).
+Methanogenic archaea: Friends or foes?
+Despite misleading nomenclature (e.g., class Methanobacteria),
+all known methanogens are taxonomically classiﬁed within the
+domain Archaea. Notably, methanogenic archaea are the major
+biological source of methane in humans with a single species,
+Methanobrevibacter smithii, accounting for up to 94% of metha-
+nogenic activity in most colonized individuals (Dridi et al., 2011).
+Their prevalence, however, is known to vary greatly (38%–95%)
+based on cohort, body site, and age ( Dridi et al., 2009,2012;
+Figure 4. Overview of microbial metabolic pathways relevant to bioenergetics and host disease outcomes
+Pathway identiﬁers shown are for the MetaCyc database. Doughnut charts depicting percent human-associated taxa with synthesis pathway are based on285
+unique species (seeTable S1for more details) but do not account for differences in relative abundance under healthy or diseased conditions.
+Cell Reports37, December 7, 202113
+Review
+llOPEN ACCESS
+(Tang et al., 2015), Alzheimer’s disease (Xu and Wang, 2016),
+and multiple sclerosis ( Fitzgerald et al., 2021 ). Conversely,
+various isoforms of menaquinones can improve vascular calciﬁ-
+cation in chronic kidney disease in a dose-dependent manner
+(Caluwe´et al., 2014), reduce hypertension via modulation of
+the renin-angiotensin system (Liu et al., 2021), positively inﬂu-
+ence cognition in Alzheimer’s disease (McCann et al., 2019),
+and exert protective effects against mitochondrial damage in
+multiple sclerosis patients (Lasemi et al., 2018).
+Methanogenic archaea: Friends or foes?
+Despite misleading nomenclature (e.g., class Methanobacteria),
+all known methanogens are taxonomically classiﬁed within the
+domain Archaea. Notably, methanogenic archaea are the major
+biological source of methane in humans with a single species,
+Methanobrevibacter smithii, accounting for up to 94% of metha-
+nogenic activity in most colonized individuals (Dridi et al., 2011).
+Their prevalence, however, is known to vary greatly (38%–95%)
+based on cohort, body site, and age ( Dridi et al., 2009,2012;
+Figure 4. Overview of microbial metabolic pathways relevant to bioenergetics and host disease outcomes
+Pathway identiﬁers shown are for the MetaCyc database. Doughnut charts depicting percent human-associated taxa with synthesis pathway are based on285
+unique species (seeTable S1for more details) but do not account for differences in relative abundance under healthy or diseased conditions.
+Cell Reports37, December 7, 202113
+Review
+llOPEN ACCESS
+Article
+The Production of p-Cresol Sulfate and Indoxyl Sulfate
+in Vegetarians Versus Omnivores
+Kajal P. Patel,* Frank J.-G. Luo,* Natalie S. Plummer,* Thomas H. Hostetter, †and Timothy W. Meyer*
+Summary
+Background and objectivesThe uremic solutes p-cresol sulfate (PCS) and indoxyl sulfate (IS) are generated by
+colon bacteria acting on food components that escape absorption in the small bowel. The production of these
+potentially toxic compounds may thus be inﬂuenced by diet. This study examined whether production of PCS
+and IS is different in vegetarians and omnivores.
+Design, setting, participants, & measurementsThe production of PCS and IS was assessed by measuring their
+urinary excretion rates in participants with normal kidney function. Studies were carried out in 15 vegetarians
+and 11 individuals consuming an unrestricted diet. Participants recorded food intake over 4 days and collected
+urine over theﬁnal 2 days of each of two study periods, which were 1 month apart.
+ResultsAverage PCS excretion was 62% lower (95% conﬁdence interval [95% CI], 15–83) and average IS excretion
+was 58% lower (95% CI, 39–71) in vegetarians than in participants consuming an unrestricted diet. Food records
+revealed that lower excretion of PCS and IS in vegetarians was associated with a 69% higher (95% CI, 20–139)ﬁber
+intake and a 25% lower (95% CI, 3–42) protein intake. PCS and IS excretion rates varied widely among individual
+participants and were not closely correlated with each other but tended to remain stable in individual partic-
+ipants over 1 month.
+ConclusionsPCS and IS production rates are markedly lower in vegetarians than in individuals consuming an
+unrestricted diet.
+Clin J Am Soc Nephrol7: 982–988, 2012. doi: 10.2215/CJN.12491211
+Introduction
+Numerous organic solutes that are normally cleared
+by the kidneys accumulate in the plasma when the
+kidneys fail (1). Some of these “uremic”solutes are
+produced in the colon by bacteria acting on food com-
+ponents that escape digestion in the small bowel (2,3).
+The colon-derived solutes include p-cresol sulfate
+(PCS) and indoxyl sulfate (IS), which are produced
+by bacterial metabolism of the amino acids tyrosine
+and tryptophan, respectively (4,5). There is consider-
+able, albeit inconclusive, evidence that these com-
+pounds are toxic (4,6–10).
+Treatments that limit solute production could in
+theory be combined with dialysis to reduce uremic
+solute levels in patients with renal failure. Because
+they are made in an isolated compartment by pro-
+cesses that are foreign to those of mammalian cells, the
+production of colon-derived solutes such as PCS and
+IS might prove particularly susceptible to manipula-
+tion. Recent studies have explored the effect of dietary
+maneuvers designed to reduce the production of PCS
+in normal participants as well as hemodialysis pa-
+tients (2). Promising results have been obtained, but
+the reductions achieved in solute production have
+been modest. While measuring PCS and IS produc-
+tion in normal participants to obtain control data for a
+study of dialysis patients, we observed that urinary
+excretion rates for PCS and IS were much lower in
+vegetarians than in participants consuming unre-
+stricted diets. This study compared PCS and IS pro-
+duction in a larger number of participants consuming
+vegetarian and unrestricted diets and examined the
+variability in the production rates for these solutes.
+Materials and Methods
+Studies were carried out in 26 healthy participants
+with no known kidney disease. Fifteen participants
+were vegetarians, whereas the remaining 11 partic-
+ipants consumed an unrestricted diet including meat
+and meat products. The vegetarian participants ate
+egg and dairy products but no meat or ﬁsh. Vege-
+tarian participants’dietary habits were conﬁrmed by
+interview. All participants had no history of gastro-
+intestinal surgery or diarrheal illness and had not
+used antibiotics for at least 1 month before enroll-
+ment. Thirteen of the 15 vegetarian participants and
+6 of the 11 nonvegetarian participants were of Asian
+ancestry. The study was performed in accordance
+with the Declaration of Helsinki and was approved
+by the Stanford University institutional review
+board.
+*Department of
+Medicine, Palo Alto
+VA Health Care
+System, Stanford
+University, Palo Alto,
+California; and†Department of
+Medicine, Case
+Western University
+School of Medicine,
+Cleveland, Ohio
+Correspondence:Dr.
+Timothy W. Meyer,
+Department of
+Medicine, Palo Alto
+VA Health Care
+System, Stanford
+University, 3801
+Miranda Avenue,
+Nephrology 111R,
+Palo Alto, CA 94303.
+Email: twmeyer@
+stanford.edu
+www.cjasn.org Vol 7 June, 2012982 Copyright © 2012 by the American Society of Nephrology
+
+--- page 20 ---
+Figure 3. Microbiome bioenergetic conﬁgurations governing electron ﬂow and metabolic competence in the human gut
+Many host-adapted symbionts undergo reductive evolution that minimizes ‘‘overhead’’ costs and thereby enables an anaerobic lifestyle on low-energy sub-
+strates. This is especially prevalent among secondary degraders. The resultant auxotrophies that occur from gene loss are overcome by extensive com munal
+sharing of bioenergetic resources in what we refer to as the extracellular pantryome. We posit that in a healthy microbiome, the pantryome is stocked f ull of
+bioenergetic resources for all to use. Conversely, evidence suggests that in diseased microbiomes (especially those associated with metabolic diseases) there is
+a deﬁcit of shared resources. This ultimately favors the expansion of microbes equipped with virulence factors that are either non-adaptive (do not b eneﬁt the
+host) or maladaptive (harmful to the host) with respect to human health. A range of stimuli have been proposed to induce dysbiosis (e.g., diet, antibio tics, ag-
+richemicals). Regardless of the perpetuating factors involved, loss of key organisms responsible for completing the anaerobic metabolic cycle (i.e., electron sinks
+or exit routes) constrains upstream activity and causes ‘‘dysbiosis,’’ a term that might be more appropriately referred to as bioenergetic failure. As for any
+(legend continued on next page)
+Cell Reports37, December 7, 20219
+Review
+llOPEN ACCESS
+Figure 3. Microbiome bioenergetic conﬁgurations governing electron ﬂow and metabolic competence in the human gut
+Many host-adapted symbionts undergo reductive evolution that minimizes ‘‘overhead’’ costs and thereby enables an anaerobic lifestyle on low-energy sub-
+strates. This is especially prevalent among secondary degraders. The resultant auxotrophies that occur from gene loss are overcome by extensive com munal
+sharing of bioenergetic resources in what we refer to as the extracellular pantryome. We posit that in a healthy microbiome, the pantryome is stocked f ull of
+bioenergetic resources for all to use. Conversely, evidence suggests that in diseased microbiomes (especially those associated with metabolic diseases) there is
+a deﬁcit of shared resources. This ultimately favors the expansion of microbes equipped with virulence factors that are either non-adaptive (do not b eneﬁt the
+host) or maladaptive (harmful to the host) with respect to human health. A range of stimuli have been proposed to induce dysbiosis (e.g., diet, antibio tics, ag-
+richemicals). Regardless of the perpetuating factors involved, loss of key organisms responsible for completing the anaerobic metabolic cycle (i.e., electron sinks
+or exit routes) constrains upstream activity and causes ‘‘dysbiosis,’’ a term that might be more appropriately referred to as bioenergetic failure. As for any
+(legend continued on next page)
+Cell Reports37, December 7, 20219
+Review
+llOPEN ACCESS
+•Healthy microbiome: Pantryome is
+stocked with bioenergetic resources,
+supporting the community
+•Diseased microbiome: Resource
+deficits favour the expansion of non-
+adaptive or maladaptive microbes
+harmful to human health. Loss of
+favourable electron exit routes causes
+"bioenergetic failure"
+•Acetateacts as a system capacitor.
+
+--- page 21 ---
+Does it really occur?
+•Environmental bacteria show
+the process of making energy
+expands beyond the
+boundaries of the cell
+•Extracellular electron transfer
+is a process by which bacterial
+cells can exchange electrons
+with a redox-active material
+outside the cell.
+
+--- page 22 ---
+2/6/25
+Ste v ens and Marco | 5
+Figure 2 EET activity in human and animal microbiomes.
+(T op) Titanium dental implants de v elop biofilms, whic h r elease titanium ions thr ough acid corr osion. Electr oactiv e bacteria can subsequentl y r educe
+titanium ions through direct electron transfer (DET) or mediated electron transfer (MET) with flavins or yet-identified electron shuttles . T he
+pr olifer ation of electr oactiv e bacteria is belie v ed to further accelerate implant corrosion. (Middle) Pseudomonas aeruginosa performs phenazine-MET in
+the lungs to sequester host protein-bound iron and form biofilms. Biofilms also rely on phenazine-MET for redox balancing and to promote resistance
+against antibiotics. (Bottom) Putative DET by segmented filamentous bacteria (SFB) in the intestine stimulates host immune cell recruitment while
+beneficial bacterial species such as L. plantarum and Faecalibacterium prausnitzii can also use flavins and/or quinones in MET . Intestinal pathogens may
+use these same electron shuttles for MET in the digestive tract.
+Downloaded from https://academic.oup.com/femsre/article/47/3/fuad019/7163210 by guest on 11 January 2025
+No cables but direct electron
+transfer (DET) or mediated
+electron transfer (MET) with
+flavins or yet-identified
+electron shuttles.
+
+--- page 23 ---
+Microbes share key components
+of bioenergetic processes with
+the host and vice versa
+
+--- page 24 ---
+Cooperative production of
+essential nutrients is energetically
+favourable over individualistic
+production
+•Amino acids
+•B vitamins: Essential cofactors in
+metabolic pathways
+•Hemes: Shared precursors for
+electron transfer-related proteins
+•Menaquinones(vitamin K2): Roles in
+microbial and host health
+“Microbiota pantry”
+Overview of shared molecule biosynthesis
+by top 75 most prevalent bacterial genera
+based on healthy fecal microbiota donors
+(PREDICT 1 cohort 1,098 volunteers from
+UK/USA)
+More self-sufficient
+eg.E. coli  (burden vs efficiency) DaisleyB et al. 2021 Cell Reports
+
+--- page 25 ---
+(Ravcheevet al., 2016)(Fenn et al., 2017)
+Menaquinones (vitamin K2’s) are dual purpose: needed to make
+energy by bacteria and by the host for other functions
+
+--- page 26 ---
+Int. J. Mol. Sci.2019,20, 896 9 of 15
+When exploring the non-coagulation, extrahepatic activity of vitamin K, it is clear that K2 in its various
+forms is the highlight of such activity . Therefore, although history and nomenclature have classed K1
+and K2 into the same category , these molecules can have a very different action in the body . Though a
+new realm to vitamin K seems to be on the horizon, whether it opens up new answers in health and
+disease remains to be seen. Differences between K1 and K2 merit recognition among national and
+international regulatory organizations, and remain open to research.
+Int. J. Mol. Sci. 2019, 20, x FOR PEER REVIEW 9 of 15
+
+have classed K1 and K2 into the same category, these molecules can have a very different action in
+the body. Though a new realm to vitamin K seems to be on the horizon, whether it opens up new
+answers in health and disease remains to be seen. Differences between K1 and K2 merit recognition
+among national and international regulatory organizations, and remain open to research.
+
+Figure 3. Functions of vitamin K2 in the body. Vitamin K2 exerts protective role and is involved in
+various organ systems throughout the human body (summarized in the figure).
+Funding: Research from M.H., A.C.A., R.K. and L.J.S. is in part funded via the European Union’s Horizon 2020
+research and innovation programme under the Marie Skłodowska-Curie grant agreement No 722609. Research
+from P.P., A.P., and L.J.S. is in part funded v i a  t h e  E u r o p e a n  U n i o n ’ s  H o r i z o n  2 0 2 0  r e s e a r c h  a n d  i n n o v a t i o n
+programme under the Marie Skłodowska-Curie grant agreement No 675111. R . K .  r e c e i v e d  s u p p o r t  f r o m  t h e
+Germany Research Foundation (DFG), SFB TRR219, TP C05.
+Acknowledgments: We thank Nutricon.eu for help with graphics.
+Conflicts of Interest: Frode Bohan and Eric Anderson are employed by NattoPharma ASA, which is industrial
+partner of the Marie Skłodowska-Curie grants No 722609 and No 675111.
+References
+1. Dam, H.; Schønheyder, F. The occurrence and chemical nature of vitamin K. Biochem. J. 1936, 30, 897–901.
+2. Shenkin, A. Dietary reference values for vitamin A, vitamin K, arsenic, boron, chromium, copper, iodine,
+iron, manganese, molybdenum, nickel, silicon, vanadium and zinc. J. Hum. Nutr. Diet. 2003, 16, 199–200.
+3. Schwalfenberg, G.K. Vitamins K1 and K2: The Emerging Group of Vitamins Required for Human Health.
+J. Nutr. Metab. 2017, 2017, 6254836.
+4. Gröber, U.; Reichrath, J.; Holick, M.F.; Kisters, K. Vitamin K: An old vitamin in a new perspective. Dermato-
+Endocrinology 2015, 6, e968490.
+5. Shearer, M.J.; Newman, P. Metabolism and cell biology of vitamin K. Thromb. Haemost. 2017, 100, 530–547.
+6. Schurgers, L.J.; Vermeer, C. Determination of Phylloquinone and Menaquinones in Food. P a t h o p h y s i o l .
+Haemost. Thromb. 2001, 30, 298–307.
+7. Gijsbers, B.L.M.G.; Jie, K.-S.G.; Vermeer, C. Effect of food composition on vitamin K absorption in human
+volunteers. Br. J. Nutr. 2007, 76, 223–229.
+8. Bentley, R.; Meganathan, R. Biosynthesis of vitamin K (menaquinone) in bacteria. Microbiol. Rev. 1982, 46,
+241–280.
+9. Booth, S.L. Vitamin K: Food composition and dietary intakes. Food Nutr. Res. 2017, 56, 5505.
+Figure 3.Functions of vitamin K2 in the body . Vitamin K2 exerts protective role and is involved in
+various organ systems throughout the human body (summarized in the ﬁgure).
+Funding:Research from M.H., A.C.A., R.K. and L.J.S. is in part funded via the European Union’s Horizon 2020
+research and innovation programme under the Marie Skłodowska-Curie grant agreement No 722609. Research
+from P .P ., A.P ., and L.J.S. is in part funded via the European Union’s Horizon 2020 research and innovation
+programme under the Marie Skłodowska-Curie grant agreement No 675111. R.K. received support from the
+Germany Research Foundation (DFG), SFB TRR219, TP C05.
+Acknowledgments:We thank Nutricon.eu for help with graphics.
+Conﬂicts of Interest:Frode Bohan and Eric Anderson are employed by NattoPharma ASA, which is industrial
+partner of the Marie Skłodowska-Curie grants No 722609 and No 675111.
+References
+1. Dam, H.; Schønheyder, F. The occurrence and chemical nature of vitamin K.Biochem. J.1936,30, 897–901.
+[CrossRef][PubMed]
+2. Shenkin, A. Dietary reference values for vitamin A, vitamin K, arsenic, boron, chromium, copper, iodine,
+iron, manganese, molybdenum, nickel, silicon, vanadium and zinc.J. Hum. Nutr. Diet.2003,16, 199–200.
+[CrossRef]
+3. Schwalfenberg, G.K. Vitamins K1 and K2: The Emerging Group of Vitamins Required for Human Health.
+J. Nutr. Metab.2017,2017, 6254836. [CrossRef][PubMed]
+4. Gröber, U.; Reichrath, J.; Holick, M.F.; Kisters, K. Vitamin K: An old vitamin in a new perspective.
+Dermato-Endocrinology2015,6, e968490.
+5. Shearer, M.J.; Newman, P . Metabolism and cell biology of vitamin K.Thromb. Haemost.2017,100, 530–547.
+6. Schurgers, L.J.; V ermeer, C. Determination of Phylloquinone and Menaquinones in Food. Pathophysiol.
+Haemost. Thromb.2001,30, 298–307. [CrossRef][PubMed]
+7. Gijsbers, B.L.M.G.; Jie, K.-S.G.; V ermeer, C. Effect of food composition on vitamin K absorption in human
+volunteers.Br. J. Nutr.2007,76, 223–229. [CrossRef]
+ International Journal of
+Molecular Sciences
+Review
+Vitamin K: Double Bonds beyond Coagulation
+Insights into Differences between Vitamin K1 and K2
+in Health and Disease
+Maurice Halder1,†, Ploingarm Petsophonsakul2,†, Asim Cengiz Akbulut2,†,
+Angelina Pavlic2,† , Frode Bohan3, Eric Anderson3, Katarzyna Maresz4,
+Rafael Kramann1and Leon Schurgers1,2,*
+1 Division of Nephrology , RWTH Aachen University , 52074 Aachen, Germany; mhalder@ukaachen.de (M.H.);
+rkramann@ukaachen.de (R.K.)
+2 Department of Biochemistry , Cardiovascular Research Institute Maastricht, 6200MD Maastricht,
+The Netherlands; p.petsophonsakul@maastrichtuniversity .nl (P .P .);
+a.akbulut@maastrichtuniversity .nl (A.C.A.); a.pavlic@maastrichtuniversity .nl (A.P .)
+3 NattoPharma ASA, 0283 Oslo, Norway; frode@nattopharma.com (F.B.);
+eric.anderson@nattopharma.com (E.A.)
+4 International Science & Health Foundation, 30-134 Krakow, Poland; katarzyna.maresz@nutricon.eu
+* Correspondence: l.schurgers@maastrichtuniversity .nl; Tel.: +31-43-3881680; Fax: +31-43-3884159
+† These authors contributed equally to this work.
+Received: 24 January 2019; Accepted: 16 February 2019; Published: 19 February 2019
+/gid00030/gid00035/gid00032/gid00030/gid00038/gid00001/gid00033/gid00042/gid00045/gid00001
+/gid00048/gid00043/gid00031/gid00028/gid00047/gid00032/gid00046
+Abstract:Vitamin K is an essential bioactive compound required for optimal body function. Vitamin
+K can be present in various isoforms, distinguishable by two main structures, namely , phylloquinone
+(K1) and menaquinones (K2). The difference in structure between K1 and K2 is seen in different
+absorption rates, tissue distribution, and bioavailability . Although differing in structure, both act as
+cofactor for the enzyme gamma-glutamylcarboxylase, encompassing both hepatic and extrahepatic
+activity . Only carboxylated proteins are active and promote a health proﬁle like hemostasis.
+Furthermore, vitamin K2 in the form of MK-7 has been shown to be a bioactive compound in
+regulating osteoporosis, atherosclerosis, cancer and inﬂammatory diseases without risk of negative
+side effects or overdosing. This review is the ﬁrst to highlight differences between isoforms vitamin
+K1 and K2 by means of source, function, and extrahepatic activity .
+Keywords:vitamin K1; vitamin K2; vitamin K dependent proteins; vascular calciﬁcation
+1. Introduction
+Vitamin K was ﬁrst identiﬁed in 1936 to be a key factor in blood clotting. When chickens were fed
+a low-fat diet, they exhibited signiﬁcantly lower coagulation capacity , resulting in severe bleeding [1].
+The lipid fraction of diet was analyzed, and a novel antihemorrhagic factor was discovered. This lipid
+soluble factor was given the ﬁrst letter in the alphabet available which coincided with the ﬁrst letter of
+the German word “Koagulation” and deemed to be only essential for its anti-hemorrhagic trait [1].
+Since then, non-coagulant functions have been discovered and have attracted research interest in
+several ﬁelds around the world. The vitamin K family is comprised of multiple similarly structured
+fat-soluble molecules containing a 2-methyl-1,4-naphthoquinone ring structure called menadione.
+Menadione (K3) is of synthetic origin, though due to reported adverse effects of hemolysis and
+liver toxicity will not encompass the scope of this review [2–4]. Naturally , vitamin K occurs as two
+vitamers: vitamin K1 (also known as phylloquinone) and vitamin K2 (designated also as menaquinones
+(MKs)). Phylloquinone contains a phytyl side chain which comprises 4 prenyl units [5]. Menaquinones
+Int. J. Mol. Sci.2019,20, 896; doi:10.3390/ijms20040896 www.mdpi.com/journal/ijms
+
+--- page 27 ---
+Vitamin K1 (phylloquinone)
+Vitamin K2 (menaquinone)
+MK-n
+Types of K vitamins
+“Natto” fermented soy
+
+--- page 28 ---
+Do we see
+different levels of
+microbial
+cooperation in
+diseased
+populations?
+
+--- page 29 ---
+Kidney stones and microbiota links
+• Painful, high cost and morbidity.
+• ~5% of the population in Canada, with a lifetime risk of
+~10%, but increasing in prevalence
+• Recurrence within 5-7 years is 50%
+• Most are calcium oxalate-based
+
+--- page 30 ---
+Oxalate flow in the body
+A Human Strain of Oxalobacter (HC-1) Promotes Enteric Oxalate
+Secretion in the Small Intestine of Mice and Reduces Urinary
+Oxalate Excretion
+Marguerite Hatch, Ph.D. and Robert W. Freel, Ph.D.
+Department of Pathology, Immunology, and Laboratory Medicine, College of Medicine, University
+of Florida, Gainesville, FL 32610
+Abstract
+Enteric oxalate secretion that correlated with reductions in urinary oxalate excretion was
+previously reported in a mouse model of Primary Hyperoxaluria, and in wild type (WT) mice
+colonized with a wild rat strain (OXWR) of Oxalobacter (Am J Physiol 300: G461-G469, 2011).
+Since a human strain of the bacterium is more likely to be clinically used as a probiotic
+therapeutic, we tested the effects of HC-1 in WT. Following artificial colonization of WT mice
+with HC-1, the bacteria were confirmed to be present in the large intestine and, unexpectedly,
+detected in the small intestine for varying periods of time. The main objective of the present study
+was to determine whether the presence of HC-1 promoted intestinal secretion in the more
+proximal segments of the gastrointestinal tract. In addition, we determined whether HC-1
+colonization led to reductions in urinary oxalate excretion in these mice. The results show that the
+human Oxalobacter strain promotes a robust net secretion of oxalate in the distal ileum as well as
+in the caecum and distal colon and these changes in transport correlate with the beneficial effect of
+reducing renal excretion of oxalate. We conclude that OXWR effects on intestinal oxalate
+transport and oxalate homeostasis are not unique to the wild rat strain and that, mechanistically,
+HC-1 has significant potential for use as a probiotic treatment for hyperoxaluria especially if it is
+also targeted to the upper and lower gastrointestinal tract.
+Keywords
+Jejunum; ileum; caecum; distal colon; urinary oxalate
+INTRODUCTION
+Previously we reported on the beneficial effects of a wild rat strain of Oxalobacter (OXWR)
+on oxalate homeostasis and oxalate transport across the rat and mouse large intestine [1, 2].
+Oxalobacter colonization of the mouse caecum and colon was correlated with the promotion
+of intestinal oxalate secretion leading to a significant reduction in urinary oxalate excretion
+in healthy wild type mice. Furthermore, high levels of oxalate in both plasma and urine were
+normalized in a mouse model of Primary Hyperoxaluria, type 1 that was colonized with
+OXWR indicating that Oxalobacter can derive oxalate from endogenous sources by
+promoting an enteric shunt [2]. Those results supported our initial hypothesis that OXWR
+has a dual action in that it can derive oxalate from systemic sources in addition to degrading
+Mailing Address: Marguerite Hatch, Ph.D., Department of Pathology, Immunology, and Laboratory Medicine, P.O. Box 100275, 1600
+SW Archer Road, Gainesville, FL 32610, Phone: (352) 392-0013, Fax: (352) 392-3053, hatchma@ufl.edu.
+DISCLOSURE
+The authors declared no competing interest.
+NIH Public AccessAuthor Manuscript
+Urolithiasis. Author manuscript; available in PMC 2014 October 01.
+Published in final edited form as:
+Urolithiasis. 2013 October ; 41(5): . doi:10.1007/s00240-013-0601-8.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+Now other microbiome links beyond oxalate, including vitamin regulation
+
+--- page 31 ---
+103
+
+Table 8. Demographic and clinical data of study participants
+Metric  Healthy controls Stone patients P value*
+No. enrolled  30 83 NA
+Sex  n (%) n (%)
+ Female 11 (37) 32 (39)
+ Male 19 (63) 51 (61) 0.99
+Age  M (SD) M (SD)
+  55 (11.25) 58 (11.5) 0.29
+BMI  M (SD) M (SD)
+  27.6 (7.1) 30.2 (5.0) 0.06
+Other health features n (%) n (%)
+History of stones
+0 (0) 70 (84) <0.0001
+History of UTI
+9 (30) 43 (51) 0.06
+Smoking status
+
+ Current smoker
+0 (0) 12 (14.8)
+ Non-smoker
+30 (100) 71 (85.7) 0.03
+Comorbidities Cardiac
+3 (10) 8 (9.5) 0.99
+ Hypertension
+8 (27) 32 (38) 0.37
+ Diabetes
+3 (10) 16 (19) 0.39
+ Hypothyroidism
+3 (10) 9 (10.7) 0.99
+Years since antibiotic use M (SD) M (SD)
+
+5.53 (4.0) 3.5 (6.7) 0.04
+Stone removal procedure  n (%)
+
+ PCNL
+ 40 (48.2) NA
+ Ureteroscopy
+ 43 (51.8) NA
+
+Metagenomic
+16S rRNA
+Oral
+Stone
+MSU
+Faecal
+Culture
+Dr. Kait Al
+KIdneyStone Microbiome Metabolome (KISMME)
+Al et al. Microbiome          (2023) 11:263
+https://doi.org/10.1186/s40168-023-01703-x
+RESEARCH Open Access
+© The Author(s) 2023. Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which
+permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the
+original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or
+other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line
+to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory
+regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this
+licence, visit http://creativecommons.org/licenses/by/4.0/. The Creative Commons Public Domain Dedication waiver (http://creativecom-
+mons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated in a credit line to the data.
+Microbiome
+Multi-site microbiota alteration is a hallmark
+of kidney stone formation
+Kait F. Al1,2, Benjamin R. Joris3, Brendan A. Daisley4, John A. Chmiel1,2, Jennifer Bjazevic5, Gregor Reid1,2,5,
+Gregory B. Gloor3, John D. Denstedt5, Hassan Razvi5 and Jeremy P. Burton1,2,5*
+Abstract
+Background Inquiry of microbiota involvement in kidney stone disease (KSD) has largely focussed on potential
+oxalate handling abilities by gut bacteria and the increased association with antibiotic exposure. By systematically
+comparing the gut, urinary, and oral microbiota of 83 stone formers (SF) and 30 healthy controls (HC), we provide
+a uniﬁed assessment of the bacterial contribution to KSD.
+Results Amplicon and shotgun metagenomic sequencing approaches were consistent in identifying multi-site
+microbiota disturbances in SF relative to HC. Biomarker taxa, reduced taxonomic and functional diversity, functional
+replacement of core bioenergetic pathways with virulence-associated gene markers, and community network col-
+lapse deﬁned SF, but diﬀerences between cohorts did not extend to oxalate metabolism.
+Conclusions We conclude that multi-site microbiota alteration is a hallmark of SF, and KSD treatment should con-
+sider microbial functional restoration and the avoidance of aberrant modulators such as poor diet and antibiotics
+where applicable to prevent stone recurrence.
+Keywords Microbiota, Kidney stones, Gut microbiota, Urinary microbiota, Shotgun metagenomic sequencing,
+Urology
+Background
+Kidney stone disease, or nephrolithiasis, is a prevalent
+condition that causes signiﬁcant morbidity to suﬀerers
+and is a draining ﬁnancial burden to healthcare systems
+[1]. Although traditionally considered to be an aﬄiction
+of obese and middle-aged men, prevalence has risen in
+recent decades, speciﬁcally in young women and chil -
+dren [2–5]. The human microbiota is known for its role
+in systemic health and disease, including metabolic syn-
+drome, cardiovascular disease, and diabetes [6–8]. All of
+these conditions are comorbidities associated with neph-
+rolithiasis, and their increasing prevalence over recent
+years along with that of stone disease indicate systemic
+declines in our population’s overall health. Importantly,
+the human microbiota is also implicated in nephrolithi-
+asis, but a consensus on the mechanisms behind this rela-
+tionship remains elusive.
+Calcium oxalate (CaOx) is the most common crystal-
+line composition of stones, followed by calcium phos -
+phate, uric acid, struvite, and cystine [ 9]. Oxalate is a
+toxic terminal metabolite produced endogenously,
+while a smaller portion is consumed in the diet [ 10].
+Oxalobacter formigenes ( n o w  a l s o  O. aliiformigenes,
+*Correspondence:
+Jeremy P. Burton
+Jeremy.burton@lawsonresearch.com
+1 Centre for Human Microbiome and Probiotic Research, Lawson Health
+Research Institute, London, ON, Canada
+2 Department of Microbiology and Immunology, The University
+of Western Ontario, London, ON, Canada
+3 Department of Biochemistry, The University of Western Ontario, London,
+ON, Canada4 Molecular and Cellular Biology Department, University of Guelph,
+Guelph, ON, Canada
+5 Division of Urology, Department of Surgery, The University of Western
+Ontario, London, ON, Canada
+
+--- page 32 ---
+Figure3.Stone-formergutmicrobiotadiffersfromhealthycontrols
+A)PCAwasperformedonCLR-transformedAitchisondistancesofmetagenomictaxonomicbin
+assembliesfromHCandSFfecalsamples.Eachcolouredpointrepresentsasample.Distance
+betweensamplesontheplotrepresentsdifferencesinmicrobialcommunitycomposition,with18.2%
+oftotalvariancebeingexplainedbythefirsttwocomponentsshown.Pointsarecolouredbysample
+typeandellipsesrepresentthe95%confidenceintervalsofsampletypes.Samplessignificantly
+differedbycohort(envfitPvalue<0.1).B)Shannon’sIndexofalphadiversitywassignificantly
+decreasedinSF.C)GinicoefficientofcommunityinequalitywassignificantlyelevatedinSF.Mann-
+Whitneytests,*P<0.05,***P<0.001.Datarepresentmedia(lineinbox),IQR(box),and
+minimum/maximum(whiskers).
+A) B)
+C)
+471
+455
+450
+183
+116
+467
+453
+167
+479
+459
+106
+129
+156460
+178
+107
+456457
+101
+465
+103
+451
+160464
+152
+105
+143
+475
+155
+469
+117
+110
+133
+176
+454
+159
+172
+127
+165
+169
+157
+458
+476
+463
+138
+108
+466
+473
+472
+153
+125
+118
+131
+477
+462
+144
+452
+146
+141
+111
+162
+-25
+0
+25
+-60 -30 0 30 60
+PC1:  0.121
+PC2:  0.061
+SF
+HC
+HC SF
+3
+4
+5
+6
+7
+Shannon’s Index
+✱✱
+HC SF
+0.70
+0.75
+0.80
+0.85
+0.90
+0.95
+1.00
+Gini Coefficient
+✱✱✱
+Stone-former gut microbiota differs from healthy controls
+Stone microbiota?
+
+--- page 33 ---
+Figure3.Stone-formergutmicrobiotadiffersfromhealthycontrols
+A)PCAwasperformedonCLR-transformedAitchisondistancesofmetagenomictaxonomicbin
+assembliesfromHCandSFfecalsamples.Eachcolouredpointrepresentsasample.Distance
+betweensamplesontheplotrepresentsdifferencesinmicrobialcommunitycomposition,with18.2%
+oftotalvariancebeingexplainedbythefirsttwocomponentsshown.Pointsarecolouredbysample
+typeandellipsesrepresentthe95%confidenceintervalsofsampletypes.Samplessignificantly
+differedbycohort(envfitPvalue<0.1).B)Shannon’sIndexofalphadiversitywassignificantly
+decreasedinSF.C)GinicoefficientofcommunityinequalitywassignificantlyelevatedinSF.Mann-
+Whitneytests,*P<0.05,***P<0.001.Datarepresentmedia(lineinbox),IQR(box),and
+minimum/maximum(whiskers).
+A) B)
+C)
+471
+455
+450
+183
+116
+467
+453
+167
+479
+459
+106
+129
+156460
+178
+107
+456457
+101
+465
+103
+451
+160464
+152
+105
+143
+475
+155
+469
+117
+110
+133
+176
+454
+159
+172
+127
+165
+169
+157
+458
+476
+463
+138
+108
+466
+473
+472
+153
+125
+118
+131
+477
+462
+144
+452
+146
+141
+111
+162
+-25
+0
+25
+-60 -30 0 30 60
+PC1:  0.121
+PC2:  0.061
+SF
+HC
+HC SF
+3
+4
+5
+6
+7
+Shannon’s Index
+✱✱
+HC SF
+0.70
+0.75
+0.80
+0.85
+0.90
+0.95
+1.00
+Gini Coefficient
+✱✱✱
+Stone-former gut microbiota differs from healthy controls
+
+--- page 34 ---
+
+
+--- page 35 ---
+
+
+--- page 36 ---
+Could we supplement the host
+with missing colonic nutrients?
+•It may temporarily help the host but not
+the microbiota
+•It may require activating a particular
+form to be useful in the host.
+•Some are expensive
+•Some require microbiota activation
+
+--- page 37 ---
+It would be better to
+support the
+microbiota to
+produce them
+•Supplement colon
+microbiota with key
+bioenergetically required
+molecules to restart?
+•Many are critical, so which
+ones?
+
+--- page 38 ---
+ARTICLE
+Received 4 Apr 2016|Accepted 27 Mar 2017|Published 6 Jun 2017
+Global metabolic interaction network of
+the human gut microbiota for context-speciﬁc
+community-scale analysis
+Jaeyun Sung1,2,3, Seunghyeon Kim1,4,5, Josephine Jill T. Cabatbat1, Sungho Jang6, Y ong-Su Jin7,8,
+Gyoo Y eol Jung6,9, Nicholas Chia10,11,12& Pan-Jun Kim1,4,13
+A system-level framework of complex microbe–microbe and host–microbe chemical cross-
+talk would help elucidate the role of our gut microbiota in health and disease. Here we report
+a literature-curated interspecies network of the human gut microbiota, called NJS16. This is
+an extensive data resource composed of B570 microbial species and 3 human cell types
+metabolically interacting through 44,400 small-molecule transport and macromolecule
+degradation events. Based on the contents of our network, we develop a mathematical
+approach to elucidate representative microbial and metabolic features of the gut microbial
+community in a given population, such as a disease cohort. Applying this strategy to
+microbiome data from type 2 diabetes patients reveals a context-speciﬁc infrastructure of
+the gut microbial ecosystem, core microbial entities with large metabolic inﬂuence, and
+frequently produced metabolic compounds that might indicate relevant community metabolic
+processes. Our network presents a foundation towards integrative investigations of
+community-scale microbial activities within the human gut.
+DOI: 10.1038/ncomms15393 OPEN
+1Asia Paciﬁc Center for Theoretical Physics, Pohang, Gyeongbuk 37673, Republic of Korea. 2Center for Computational and Integrative Biology,
+Massachusetts General Hospital and Harvard Medical School, Boston, Massachusetts 02114, USA. 3Broad Institute of MIT and Harvard, Cambridge,
+Massachusetts 02142, USA.4Department of Physics, Pohang University of Science and T echnology, Pohang, Gyeongbuk 37673, Republic of Korea.
+5The Abdus Salam International Centre for Theoretical Physics, 34151 T rieste, Italy. 6Department of Chemical Engineering, Pohang University of Science
+and T echnology, Pohang, Gyeongbuk 37673, Republic of Korea.7Department of Food Science and Human Nutrition, University of Illinois at Urbana-
+Champaign, Urbana, Illinois 61801, USA.8Carl R. Woese Institute for Genomic Biology, University of Illinois at Urbana-Champaign, Urbana, Illinois 61801,
+USA.9School of Interdisciplinary Bioscience and Bioengineering, Pohang University of Science and T echnology, Pohang, Gyeongbuk 37673, Republic of Korea.
+10Microbiome Program, Center for Individualized Medicine, Mayo Clinic, Rochester, Minnesota 55905, USA. 11Department of Surgery, Mayo Clinic,
+Rochester, Minnesota 55905, USA.12Department of Biomedical Engineering, Mayo College, Rochester, Minnesota 55905, USA. 13Department of Physics,
+Korea Advanced Institute of Science and T echnology, 291 Daehak-ro, Yuseong-gu, Daejeon 34141, Republic of Korea. Correspondence and requests for
+materials should be addressed to P.-J.K. (email: pjkim@kaist.ac.kr).
+NATURE COMMUNICATIONS| 8:15393 | DOI: 10.1038/ncomms15393 | www.nature.com/naturecommunications 1
+Potential
+therapeutics if they
+can be delivered to
+the colon?
+
+--- page 39 ---
+RESEARCH PAPER
+Effects of colon-targeted vitamins on the composition and metabolic activity of
+the human gut microbiome– a pilot study
+Van T. Phama, Sophie Fehlbauma, Nicole Seiferta, Nathalie Richarda, Maaike J. Bruinsa, Wilbert Sybesmaa,
+Ateequr Rehmana, and Robert E. Steinerta,b
+aR&D Human Nutrition and Health, DSM Nutritional Products Ltd., Basel, Switzerland; bDepartment of Surgery, Division of Visceral and
+Transplantation Surgery, University Hospital Zurich, Zurich, Switzerland
+ABSTRACT
+An increasing body of evidence has shown that gut microbiota imbalances are linked to diseases.
+Currently, the possibility of regulating gut microbiota to reverse these perturbations by developing
+novel therapeutic and preventive strategies is being extensively investigated. The modulatory
+effect of vitamins on the gut microbiome and related host health benefits remain largely unclear.
+We investigated the effects of colon-delivered vitamins A, B2, C, D, and E on the gut microbiota
+using a human clinical study and batch fermentation experiments, in combination with cell models
+for the assessment of barrier and immune functions. Vitamins C, B2, and D may modulate the
+human gut microbiome in terms of metabolic activity and bacterial composition. The most distinct
+effect was that of vitamin C, which significantly increased microbial alpha diversity and fecal short-
+chain fatty acids compared to the placebo. The remaining vitamins tested showed similar effects on
+microbial diversity, composition, and/or metabolic activity in vitro, but in varying degrees. Here, we
+showed that vitamins may modulate the human gut microbiome. Follow-up studies investigating
+targeted delivery of vitamins to the colon may help clarify the clinical significance of this novel
+concept for treating and preventing dysbiotic microbiota-related human diseases. Trial registration:
+ClinicalTrials.gov, NCT03668964. Registered 13 September 2018 – Retrospectively registered,
+https://clinicaltrials.gov/ct2/show/NCT03668964.
+ARTICLE HISTORY
+Received 6 July 2020
+Revised 17 December 2020
+Accepted 29 December 2020
+KEYWORDS
+Vitamins; gut microbiome;
+dysbiosis; targeted delivery
+Background
+Evidence increasingly indicates that imbalances in
+the human gut microbiota (HGM) – dysbiosis –
+may be associated with Western diseases, including
+obesity and type 2 diabetes, as well as cardiovascu-
+lar, autoimmune, and intestinal inﬂammatory
+disease.1 Thus, targeted modulation of the HGM
+intended to restore imbalances represents
+a potential therapeutic and preventive strategy
+and has attracted the attention of academics as
+well as those engaged in various industries. Public
+awareness and acceptance of substances that mod-
+ulate the HGM continue to grow. Although there is
+a general consensus regarding the beneﬁcial eﬀects
+of prebiotics and probiotics, there is still a lack of
+understanding of the exact beneﬁts these provide at
+an individual level, their precise modes of action,
+and whether ingredients other than the traditional
+pre- and probiotics may beneﬁcially modulate the
+HGM. The term “prebiotic” was originally deﬁned
+as “a nondigestible food ingredient that beneﬁcially
+aﬀects the host by selectively stimulating the
+growth and/or activity of one or a limited number
+of bacteria in the colon, and thus improve host
+health” .2(p1405) Over the past decades, this deﬁni-
+tion has been reﬁned, and a more nuanced inter-
+pretation which expanded prebiotics beyond
+originally researched ingredients – such as fructoo-
+ligosaccharides (FOS), galactooligosaccharides
+(GOS) and inulin – emerged. As a result, many
+novel prebiotic candidates including xylooligosac-
+charides (XOS), mannan oligosaccharide (MOS),
+and fermentable ﬁbers such as beta-glucans, poly-
+unsaturated fatty acids, and phenolic compounds
+have been recognized. The most recent deﬁnition
+by the International Scientiﬁc Association for
+Probiotics and Prebiotics (ISAPP) in 2016 also
+includes substrates, such as vitamins, that may
+aﬀect microbiota composition via mechanisms not
+CONTACT Van T. Pham thanh-van.pham@dsm.com Wurmisweg 576, 4303 Kaiseraugst 203/117A +41 618 158 828.
+Supplemental data for this article can be accessed on the publisher’s website.
+GUT MICROBES
+2021, VOL. 13, NO. 1, e1875774 (20 pages)
+https://doi.org/10.1080/19490976.2021.1875774
+© 2021 The Author(s). Published with license by Taylor & Francis Group, LLC
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use,
+distribution, and reproduction in any medium, provided the original work is properly cited.
+Prebiotic studies often show a boost of SCFA’s and microbes
+in the colon, but what about using other molecules?
+Colon released vitamins
+Acetate
+
+--- page 40 ---
+“Substrates that affect the composition of
+the microbiota through mechanisms not
+involving selective utilization by host
+microorganisms are not prebiotics. These
+substrates would include antibiotics,
+minerals, vitaminsand bacteriophages,
+which are not growth substrates, even
+though their intake might alter microbiota
+and metabolic composition. ”
+HMOs might indirectly affect composition of the
+intestinal microbiota by modulating immune responses
+and also have metabolism-independent mechanisms of
+action in the infant gut40. In particular, fucosylated and
+sialylated HMOs can prevent adhesion of pathogens to the
+intestinal epithelium through a competitive mechanism
+that ultimately protects the neonate from infection41,42.
+The main issues for this discussion are the following.
+Is there evidence that HMOs confer a health benefit in
+humans through the host’s microbiota selectively utiliz-
+ing them, and therefore fulfilling the prebiotic definition?
+And if compounds equivalent to HMO (or bovine milk
+oligosaccharides, BMOs) were to be produced by enzy-
+matic synthesis, fermentation or extraction, could they
+still be considered as prebiotic?
+The ability of HMOs, BMOs or synthesized compounds
+to act as a substrate for the selective growth of beneficial
+bacteria, such as Bifidobacterium spp., would be supportive
+evidence of a prebiotic nature43. To confirm their status
+as a prebiotic, a controlled human study showing selec-
+tive growth of bifidobacteria resulting in a health benefit
+is also needed. However, the use of such compounds for
+in vivo studies is limited to only a few reports. In one study,
+a chemically synthesized compound, 2ʹ-fucosyllactose
+(2ʹFL), equivalent to the natur ally occurring 2ʹFL in HMO,
+was added to formula milk along with GOS. Although
+safe for infants, the 2ʹFL treatment provided no net dif-
+ference in weight, length, head circumference and other
+measures compared with human milk over a 4-month
+period44. In another study by the same group, infants
+fed formula with 2ʹFL plus GOS had immune responses
+simi lar to breast-fed infants in that both groups had lower
+levels of inflammatory cytokines than infants fed formula
+plus GOS45. However, effects on the microbiota were not
+reported in this study. In a third study, 2ʹFL and another
+synthesized HMO, lacto-N- neotetraose, were adminis-
+tered to adults46. The treatments were well tolerated and
+led to an increase in abundance of Bifidobacterium spp.
+Collectively, these studies prov ide an incomplete assess-
+ment of the pre biotic properties of these synthesized
+versions of HMOs. Although 2ʹFL is utilized by B. infantis
+as well as some strains of B. longum subsp. longum and
+B. breve46,47, the ecological context (that is, infants versus
+adults) might dictate whether these HMOs are indeed pre-
+biotic. Moreover, having structural equivalence to specific
+HMOs does not infer functional equiva lence to the con-
+stellation of HMOs in milk48. Thus, for now, it is  acceptable
+to state that some HMOs are candidate prebiotics.
+Plant polyphenols constitute a class of compounds
+that can also meet the criteria of prebiotics, although far
+more studies in the target host are required. An estim-
+ated 90–95% of dietary polyphenols are not absorbed in
+the small intestine and, therefore, reach the colon49 where
+they undergo extensive biotransformation by the colonic
+microbiota. Increasing evidence indicates that health
+bene fits associated with polyphenol consumption depend
+on microbial utilization and the metabolites  produced,
+rather than on parent compounds50.
+This evidence expands the prebiotic concept beyond
+non-digestible oligosaccharides such as FOS and GOS.
+However, evidence for these emerging prebiotics is scarce
+relative to the fructans and galactans16 and more studies
+measuring health benefits are required to fulfil their
+prebiotic status.
+Prebiotic utilization and host health
+As selective utilization of a prebiotic by host microorgan-
+isms is key to its physiological effects, metabolic results of
+this utilization must, by deduction, be the main drivers.
+Some organic acids, for example, are principal end prod-
+ucts of non-digestible carbohydrate or dietary fibre fer-
+mentation by host microorganisms. The main SCFAs
+(≥95%) generated mostly in the colon (humans) and
+ caecum (rodents) as a result of several bacterial metabolic
+pathways are acetate (two carbon, C2), propionate (C3))
+and n-butyrate (C4). These SCFAs are crucial for intestinal
+health and their activity can subsequently influence sites
+distant to the gut, with different SCFAs having varying
+functions. SCFAs can modulate certain aspects of meta-
+bolic activity including colonocyte function, gut homeo-
+stasis, energy gain, the immune system, blood lipids,
+appetite and renal physiology, as reviewed elsewhere16,51,52.
+In a study published in 2017, 13C-labelling was used
+to show that colonic-administered acetate, propionate
+and butyrate were systemically available at 36%, 9% and
+2%, respectively, with conversion of acetate into butyrate
+(24%) by the colonic microbiota53. Bifidobacteria, often
+stimulated by specific prebiotics, do not produce butyrate,
+so a probable scenario is that cross-feeding by other bac-
+teria must have resulted in production of this SCFA.
+Much has been reported about the benefits of butyrate in
+the gut and beyond54, leading to the potential of known
+butyrate producers such as Faecalibacterium prausnitzii,
+Eubacterium rectale or Roseburia spp. as possible pro-
+biotics and, therefore, new prebiotic targets. By contrast,
+in the vagina, butyrate formation is more equivocal as
+2-hydroxyisovalerate and γ-hydroxybutyrate have been
+associated with bacterial vaginosis55. Rather, lactic acid
+production and an increase in IL-10 levels might be
+bene ficial, indicating that prebiotics might be functional
+in the vaginal environ ment, because of their effects in
+Figure 1 | Distinguishing what is considered a prebiotic with the proposed definition.
+Prebiotics must be selectively utilized and have adequate evidence of health benefit for
+the target host. Dietary prebiotics must not be degraded by the target host enzymes.
+*The figure shows candidate as well as accepted prebiotics in that levels of evidence
+currently vary, with FOS and GOS being the most researched prebiotics.CLA, conjugated
+linoleic acid; PUFA, polyunsaturated fatty acid; FOS, fructooligosaccharides;
+GOS, galactooligosaccharides; MOS, mannanoligosaccharide; XOS, xylooligosaccharide.
+Nature Reviews | Gastroenterology & Hepatology
+Dietary
+ﬁbre
+CLAs and
+PUFAs
+Human milk
+oligosaccharides
+Readily
+fermentable
+Phenolics and
+phytochemicals
+Oligosaccharides
+e.g. FOS, Inulin,
+GOS, MOS, XOS
+Less
+fermentable
+Proteins
+and fats
+Probiotics
+Antibiotics Vitamins
+Prebiotic* Not Prebiotic
+Substances that
+aﬀect the microbiome
+Selective utilization
+by host microorganisms
+CONSENSUS STATEMENT
+NATURE REVIEWS | GASTROENTEROLOGY & HEPATOLOGY   ADVANCE ONLINE PUBLICATION | 5
+©
+
+2017
+
+Macmillan
+
+Publishers
+
+Limited,
+
+part
+
+of
+
+Springer
+
+Nature.
+
+All
+
+rights
+
+reserved. ©
+
+2017
+
+Macmillan
+
+Publishers
+
+Limited,
+
+part
+
+of
+
+Springer
+
+Nature.
+
+All
+
+rights
+
+reserved.
+Improving human health through modulation of the
+microbiome is an evolving strategy that is part of a
+compre hensive, holistic approach to lifestyle wellness1.
+The rich, diverse microbial ecosystems inhabiting
+mucosal and cutaneous surfaces provide targets for
+approaches to maintain or improve health or to treat
+disease. The ability to shift the composition and meta-
+bolic signatures of these microbial populations is now
+possible, via dietary or non-dietary interventions2,3.
+Over 20 years ago, a class of compounds, termed
+prebiotics, were recognized for their ability to manipu-
+late host microbiota to the benefit of the host4. At that
+time fructans (fructooligosaccharides (FOS) and inulin)
+and galactans (galactooligosaccharides or GOS) fit that
+category, with their effects acting through enrichment
+of Lactobacillus and/or Bifidobacterium spp. FOS and
+GOS currently dominate the prebiotic category as evi-
+denced by numerous studies on their prebiotic effects.
+Today, the prebiotic concept has expanded, in part,
+because of advances in tools for microbiome research
+(for example, high-throughput sequencing), which
+have improved our knowledge of the composition of
+the microbiota and enabled identification of additional
+substances influencing colonization. Concurrent with
+this progress is the realization that a broader range of
+beneficial microorganisms are affected by prebiotics
+and also that they might be effective at extraintestinal
+sites directly or indirectly5. Furthermore, the use of
+prebiotics has expanded to production and companion
+animals6,7 and categories beyond food. Accordingly,
+researchers have advocated for reconsideration of the
+contemporary nature of prebiotics, which formed
+the aim of the consensus panel that was convened on
+9 December 2016 in London, UK. The various aspects
+looked at in this review of evidence were: evolution of
+the term prebiotic; effects and selectivity; substrates that
+Correspondence to G.R.G.
+Department of Food and
+Nutritional Sciences,
+The University of Reading,
+Whiteknights, PO Box 226,
+Reading RG6 6AP, UK.
+g.r.gibson@reading.ac.uk
+doi:10.1038/nrgastro.2017.75
+Published online 14 Jun 2017
+EXPERT CONSENSUS DOCUMENT
+The International Scientific Association
+for Probiotics and Prebiotics (ISAPP)
+consensus statement on the definition
+and scope of prebiotics
+Glenn R. Gibson1, Robert Hutkins2, Mary Ellen Sanders3, Susan L. Prescott4,
+Raylene A. Reimer5, Seppo J. Salminen6, Karen Scott7, Catherine Stanton8,
+Kelly S. Swanson9, Patrice D. Cani10, Kristin Verbeke11 and Gregor Reid12
+Abstract | In December 2016, a panel of experts in microbiology, nutrition and clinical research
+was convened by the International Scientific Association for Probiotics and Prebiotics to review
+the definition and scope of prebiotics. Consistent with the original embodiment of prebiotics,
+but aware of the latest scientific and clinical developments, the panel updated the definition of a
+prebiotic: a substrate that is selectively utilized by host microorganisms conferring a health
+benefit. This definition expands the concept of prebiotics to possibly include non-carbohydrate
+substances, applications to body sites other than the gastrointestinal tract, and diverse categories
+other than food. The requirement for selective microbiota-mediated mechanisms was retained.
+Beneficial health effects must be documented for a substance to be considered a prebiotic. The
+consensus definition applies also to prebiotics for use by animals, in which microbiota-focused
+strategies to maintain health and prevent disease is as relevant as for humans. Ultimately, the goal
+of this Consensus Statement is to engender appropriate use of the term ‘prebiotic’ by relevant
+stakeholders so that consistency and clarity can be achieved in research reports, product
+marketing and regulatory oversight of the category. T o this end, we have reviewed several aspects
+of prebiotic science including its development, health benefits and legislation.
+NATURE REVIEWS | GASTROENTEROLOGY & HEPATOLOGY   ADVANCE ONLINE PUBLICATION | 1
+CONSENSUSSTATEMENT
+©
+
+2017
+
+Macmillan
+
+Publishers
+
+Limited,
+
+part
+
+of
+
+Springer
+
+Nature.
+
+All
+
+rights
+
+reserved.
+Aren’t these just prebiotics?
+
+--- page 41 ---
+6 hours
+ 6 hours
+4 days 7 days 4 days
+ 7 days
+PET/MRI of ingested probiotic
+[89Zr]E. coli Nissle1917 in a healthy pig
+PRELIMINARY UNPUBLISHED
+Small intestine transit time is approximately 4-6 hours
+Colonic transit time:Slower; approximately 24-48 hours
+
+--- page 42 ---
+•Administer acetate, butyrate, vitamins and
+long-chain fatty acids and co-factors to help
+restore microbial metabolic networks in the
+colon
+•However, many components that may assist
+the colonic microbiota are rapidly absorbed
+in the small intestine
+•SCFA’s present in the colon are from microbial
+metabolism from diet or slowly released from
+dietary  sources
+•Free acetate is absorbed into the
+bloodstream within 20 minutes
+
+--- page 43 ---
+Accidental delivery
+of acetate to the
+colon
+
+--- page 44 ---
+Abiraterone acetate is used to treat
+metastatic castration-resistant prostate
+cancer (1500 CAD per month)
+
+--- page 45 ---
+250mg
+30
+AA
+Systemic Systemic
+Oral
+Androgen deprivation therapy
+Patients diagnosed with prostate cancer
+ADT + Abiraterone acetate (AA)
+No treatment
+n=21
+Fecal sample collected during digital rectal exam
+n=33 n=14
+
+--- page 46 ---
+N
+Prodrug
+H
+Acetate
+“Inactive” ingredient
+>55% of parent compound
+eliminated in faeces
+Deeper delivery of acetate
+in the GI tract
+N
+Abiraterone
+Activeingredient
+Decreases androgen
+production via CYP17A
+inhibition
+Abiraterone acetate –a poorly absorbed prostate cancer drug
+Some bacterial types can
+utilise in the colon
+
+--- page 47 ---
+Abiraterone acetate enriches an important commensal bacterium
+~5X higher Akkermansiain
+patients receiving AA on average
+compared to the control group
+and ADT-only group
+Daisley et al. 2020, Nature Communications
+
+--- page 48 ---
+48
+
+--- page 49 ---
+A) B)
+Daisley et al. 2020, Nature Communications
+The effect of abiraterone acetate is highly reproducible in a host-free model
+Akkermansia muciniphila peaks at
+>1000-foldincreased relative
+abundance post-exposure to
+abiraterone acetate
+
+--- page 50 ---
+Pantryome
+?
+?
+?
+Assimilation
+Dissimilation
+Carbohydrate confused bacteria
+H
+H
+Acetate
+H
+H
+H
+Acetate
+H
+ H
+Well Brendon I have eaten all
+the acetogenic carbon
+sources. I’m thinking of
+making a switch?
+The pantryome is born
+
+--- page 51 ---
+Abiraterone acetate associated with increased microbial
+vitamin K2 menaquinone production
+•Past studies show vitamin K2 to be a prospective anticancer
+agent. Acetate likely partially responsible for efficacy
+
+--- page 52 ---
+Many terms in the ‘biotic’ space have emerged. Although probiotics, prebiotics, and synbiotics
+have more than a 25 year history, other biotic terms are relatively new. These terms are widely
+used in both scientifi c literature and popular media, and while they are intended to be descriptive,
+they oft e n  a r e  c o n f u s e d  a n d  m i s u s e d .
+ISAPP has enlisted the help of multiple global experts across disciplines to provide perspectives
+in formulating consensus defi nitions that refl ect current science for many of these terms. The
+goal of the consensus panels has been to describe clearly what these terms are in order to support
+their proper use by stakeholders.
+In addition to the criteria stipulated below, all substances must be safe for their intended use.
+For substances required to have a demonstrated health benefi t in the target host, all product
+formulations must deliver an effi  cacious level of substance and must be clearl y identifi ed.
+© 2023, International Scientifi c Association for Probiotics and Prebiotics
+Consensus defi n i t i o nLive microorganisms that, when administered in adequate
+amounts, confer a health benefi t on the host (Hill et al., 2014)
+Simple way to conceptualizeLive microbes that are good for your health
+Live microbes present?
+Demonstrated health benefi t required?
+Yes
+Yes
+ExamplesBifi dobacterium animalis subsp. lactis XYZ
+Genus: Bifi d o b a c t e r i u m
+Species: animalis
+Subspecies: lactis
+Strain:  XYZ
+Keep in mindIdentity must be confi rmed through genome sequencing.
+Suffi  cient viability to deliver the health benefi t must be
+preserved through the end of shelf life.
+Probiotic
+Probiotics are live microorganisms that when taken
+in suffi  c i e n t  a m o u n ts  ca n  p r o v i d e  h e al t h  b e n efi ts.
+They can help support the bacteria that live with
+us, especially when our bacteria are challenged,
+for example by antibiotics, poor diet or
+traveling. Scientists defi ne probiotics as  live
+microorganisms that, when administered in
+adequate amounts, confer a health benefi t on
+the host. They are present in numerous foods
+and dietary supplements.
+What are probiotics?What are probiotics?
+What can probiotics do for you?What can probiotics do for you?
+Probiotics can support health in diff erent ways
+• Help your immune system function properly
+• Aid digestion by breaking down some of
+the food we can’t digest
+• Keep harmful microorganisms in check
+• Produce vitamins and aid in nutrient absorption
+They have the potential to:
+• Help reduce antibiotic-associated diarrhea
+• Help manage digestive discomforts
+• Help reduce colic symptoms and eczema in infants
+• Help with the digestion of lactose
+• Treat infectious diarrhea
+• Decrease common infections, including respiratory
+ tract, gut and vaginal tract
+Sources of probiotics:Sources of probiotics:
+Yogur t – Look for added probiotics listed on the label
+Supplements – These can be convenient for travel
+and may have a higher potency than foods
+Fermented Foods  – Can be sources of live bacteria
+if not heat-treated. See: www.isapp.net/fermentedfoods
+Probiotics
+Choosing a probioticChoosing a probiotic
+Match the strain to the benefi t you want – not all
+strains are the same.
+Amounts matter. Be sure the product contains the
+level of probiotics needed for the health benefi t.
+Safety fi rst. Probiotics are safe for most people,
+but talk to your doctor fi rst if you suff er from
+an immune disorder, have a serious underlying
+illness or before giving to an infant.
+The body contains
+trillions of microbes,
+together making up our
+microbiota, which lives in
+harmony with us. Our bacteria
+are important to keeping
+us healthy – developing and
+bolstering the immune system
+and helping keep potentially
+harmful microbes at bay.
+Bacteria live not just in the gut,
+but on the skin, in the mouth,
+urinary tract, vagina and  lungs.
+© 2023, International Scientifi c Association for Probiotics and Prebiotics
+For more information visit ISAPPscience.org
+or follow us on Twitter @ISAPPscience
+Consensus defi n i t i o nA substrate that is selectively utilized by host microorganisms
+conferring a health benefi t on the host (Gibson et al., 2017)
+Simple way to conceptualizeFood for benefi c i al  m i c ro bes  res i d i n g  o n  o r  wi th i n  the  ho st
+Live microbes present?
+Demonstrated health benefi t required?
+No
+Yes
+ExamplesInulin, galactooligosaccharides,
+fructooligosaccharides
+Keep in mindNew prebiotics emerging:
+Polyphenols,  oligosaccharides based
+on xylose, maltose and other sugars
+Prebiotic
+What are prebiotics?What are prebiotics?
+Prebiotics
+Prebiotics in foodPrebiotics in food
+Some prebiotics (oligofructose
+and inulin) can be found
+in onions, garlic, bananas,
+chicory root, Jerusalem
+artichokes, but typically
+are present at low levels. To increase your daily
+intake, include prebiotic supplements or foods
+with added prebiotics as part of your diet.
+Prebiotics may be added to yogurts,
+infant formula, cereals, breads,
+biscuits/cookies,
+desserts or drinks.
+Tr y to get at lea st 5
+grams of prebiotics in
+your diet every day. Eating
+whole grains, fruits and vegetables, and other
+fi ber -ric h food s can help.
+Prebiotics in mother’s milkPrebiotics in mother’s milk
+Human milk provides a rich source of prebiotics
+to the nursing baby. They support infant’s health
+by encouraging benefi c i al gut m i c robes.
+Prebiotic factsPrebiotic facts
+• Prebiotics provide health benefi ts by specifi cally
+altering either the composition or function of the
+gut microbiota.*
+• Prebiotics can be found naturally in foods, and are
+added to some dietary supplements and foods,
+including foods for infants.
+• Most prebiotics are dietary fi bers, but not all
+dietary fi bers are prebiotics.
+• As with dietary fi bers, some gas or bloating can
+result from too much prebiotic. Start with small
+amounts and allow your gut to adapt.
+* The human digestive tract contains 100 trillion
+bacterial cells. These bacteria, termed our intestinal
+microbiota, are important to our health.
+Substrates that are selectively utilized by host microorganisms conferring a
+health benefi t. Simply put, they are food for benefi cial microbes that live on or in us.
+For more information visit  ISAPPscience.org
+or follow us on Twitter @ISAPPscience
+Prebiotics for your healthPrebiotics for your health
+Prebiotics have the potential to:
+• Improve digestive function (bowel regularity)
+• Support the body’s natural defenses
+• Improve mineral absorption
+• Help regulate your desire to eat, energy
+balance, and glucose metabolism
+What do you What do you
+look for on the label?look for on the label?
+The word ‘prebiotic’ is seldom
+used on the label. Look for:
+• Galactooligosaccharides (GOS)
+• Fructooligosaccharides (FOS)
+• Oligofructose (OF)
+• Chicory fi ber
+• Inulin
+© 2019, International Scientifi c Association for Probiotics and Prebiotics
+For more information visit ISAPPscience.org
+or follow us on Twitter @ISAPPscience
+Probiotics, Prebiotics, Synbiotics,
+Postbiotics and Fermented Foods
+DEFINED
+Consensus defi n i t i o nPreparation of inanimate microorganisms and/or their
+components that confers a health benefi t on the host
+(Salminen et al., 2021)
+Simple way to conceptualizeNon-viable microbes and/or cell components
+with or without  metabolites
+Live microbes present?
+Demonstrated health benefi t required?
+No. Live microbes are the starting point to make
+a postbiotic, but they are intentionally inactivated
+Yes
+ExamplesSome infant formulas, therapeutic bacterial
+lysates and yeast fermentates used in animal feeds
+Keep in mindPurifi ed metabolites (e.g., butyric acid) do not
+qualify as postbiotics
+Postbiotic
+For more information visit  ISAPPscience.org
+or follow us on Twitter @ISAPPscience
+© 2021, International Scientific Association for Probiotics and Prebiotics
+Postbiotic is derived from “biotic”, relating to
+living organisms, and “post”, meaning after (life).
+Preparation recognizes that the specific
+formulation, including microbial biomass,
+matrices, and inactivation methods, may play
+a role in the beneficial effect.
+Inanimate recognizes that the terms ‘dead’
+or ‘inactive’, may suggest an inert material ,
+rather than a material capable of conferring
+a health benefit.
+Components recognizes that health effects
+may be mediated by a variety of different cell
+parts or metabolites.
+Postbiotics
+THE POSTBIOTIC
+DEFINITION EXPLAINED:
+COMPONENTS OF
+A  POSTBIOTIC:
+Postbiotics may contain
+intact inanimate
+microbial cells...
+POSTBIOTIC:
+ Derived from microorganisms, but a postbiotic
+ does not have to be derived from a probiotic
+ A deliberate process to terminate cell viability
+must be applied. The final postbiotic must
+contain  inactivated microbial cells and/or
+metabolites or cell components
+ Viable cells are absent or negligible in final
+product
+ Evidence of a health benefit in the target host
+ Assessment of safety of the postbiotic
+preparation for the intended use
+NOT POSTBIOTIC:
+	Viruses, including bacteriophages
+	Vaccines
+	Filtrates without cell components
+	Purified microbial components
+(e.g., proteins, peptides, exopolysaccharides)
+	Purified microbial metabolites
+(e.g., organic acids)
+A postbiotic is a preparation of inanimate
+microorganisms and/or their components
+that confers a health benefit on the host.
+and/or microbial cell
+fragments/structures...
+Cell walls, membranes,
+exopolysaccharides, cell-wall
+anchored proteins, pili, etc.
+with or without
+metabolites/endproducts
+Organic acids, peptides, secreted
+proteins, enzymes, bacteriocins, etc.
+Salminen, et al. Nat Rev Gastroenterol Hepatol (2021).
+https://www.nature.com/articles/s41575-021-00440-6
++
+Consensus defi n i t i o nFoods made through desired microbial growth and enzymatic
+conversions of food components (Marco et al., 2020)
+Simple way to conceptualizeFoods that are made through
+the growth of live microbes
+Live microbes present?
+Demonstrated health benefi t required?
+Sometimes yes, sometimes no.
+Live microbes not required in fi nal product.
+No
+ExamplesYogurt, kefi r, sauerkraut, sourdough bread
+Keep in mindMicrobes present not required to be defi ned
+and may be live or dead
+Fermented
+Foods
+How areprobiotic foodsand
+fermented foodsdifferent?
+For more  information visit ISAPPscience.org
+or follow us on Twitter @ISAPPscience
+and on Instagram @isappscience
+© 2020, International Scientific Association for Probiotics and Prebiotics
+PROBIOTICS
+Live microorganisms that,
+when administered in adequate
+amounts, confer a health
+benefit on the host
+EXAMPLES
+• Bifidobacterium animalis
+subsp. lactis XYZ
+• L. plantarum ABC
+• L. casei 123
+Probiotics can be
+added to nutritional
+supplements or to foods
+that are not fermented,
+such as fruit juice or
+cereal bars. A ‘probiotic
+food’ must meet all the
+criteria indicated for a
+probiotic.
+Documented health benefit
+EXAMPLES
+• Yogurt containing B. animalis
+subsp. lactis XYZ
+• Oat fermented by L. plantarum ABC
+• Milk fermented by L. casei 123
+PROBIOTIC
+FERMENTED
+FOODS
+Documented  health benefit
+due to the probiotic
+FERMENTED
+FOODS
+EXAMPLES
+• Sauerkraut
+• Kombucha
+• Leavened bread
+• Kefir
+No documented health
+benefit required
+Foods made through
+desired microbial growth
+and enzymatic conversions
+of food components
+Criteria for Probiotics,
+Probiotic Fermented Foods
+and Fermented Foods Probiotics
+Probiotic Fermented Foods
+Fermented Foods
+REQUIRED
+Genome sequence of microbes available
+Safe for intended use
+Microbes taxonomically defined to strain level
+Microbes alive at time of consumption
+MAY OR MAY NOT,
+DEPENDING ON FOOD
+Microbes at levels that provide benefit
+NOT REQUIRED
+Documented health benefit
+Consensus defi n i t i o nA mixture comprising live microorganisms and substrate(s)
+selectively utilized by host microorganisms that confers
+a health benefi t on the host (Swanson et al., 2020)
+Simple way to conceptualizeComplementary synbiotic is a mixture
+of probiotic + prebiotic
+Synergistic synbiotic contains a live microbe
+and a substrate that it can use for growth
+Live microbes present?
+Demonstrated health benefi t required?
+Yes
+Yes
+ExampleComplementary synbiotic: inulin +
+Bifi dobacterium animalis subsp. lactis XYZ
+Keep in mindA health benefi t must be shown for a synbiotic
+as combined, not just the probiotic alone and
+the prebiotic alone.
+The substrate is
+utilized by the
+co-administered
+live microbe.
+Synbiotics may be formulated using two approaches:
+A mixture comprising live
+microorganisms and substrate(s)
+selectively utilized by host
+microorganisms* that confers
+a health benefit on the host.**
+For more information visit  ISAPPscience.org
+or follow us on Twitter @ISAPPscience
+and on Instagram @isappscience
+© 2021, International Scientific Association for Probiotics and Prebiotics
+Mixture of probiotic(s) + prebiotics(s). Each works
+independently to achieve one or more health
+benefits.
+COMPLEMENTARY SYNBIOTIC SYNERGISTIC SYNBIOTIC
+HEALTH
+BENEFIT(S)
+The probiotic and prebiotic components of a
+complementary synbiotic must meet the minimum
+criteria of these substances. The probiotic must have a
+demonstrated health benefit at the dose in the synbiotic
+mixture. The prebiotic criteria must have a demonstrated
+health benefit in the same study showing selective
+utilization by the host microbiota, at the dose in the
+synbiotic mixture. Demonstration of a health benefit
+of the synbiotic mixture in the target host is further
+required, but demonstration of selective utilization of the
+substrate in the synbiotic mixture is not required.
+For a synergistic synbiotic, demonstration of a health
+benefit and selective utilization of the substrate by the
+co-administered live microbe in the target host must be
+shown in the same study.
+HEALTH
+BENEFIT(S)
+Mixture of a selectively utilized substrate and
+a live microbe chosen for its ability to deliver
+a health effect. Components comprising
+synergistic synbiotics work together to bring
+about resulting health benefit(s).
+Host microbiota
+A synbiotic may target the gut or non-gut
+microbial ecosystems in the body and may be
+formulated into products fitting an array of
+regulatory categories (such as foods, non-foods,
+cosmetics, drugs, or nutritional supplements).*Within this definition, ‘host’ microorganisms refer to both
+resident microbes and externally applied (such as probiotics)
+microorganisms, either of which can be targets for the
+substrate contained in the synbiotic.
+**Implied in the definition is that safety of the synbiotic for its
+intended use is established.
+‘Symbiotic’ is not a synonym of synbiotic and is incorrect
+in this context.
+Swanson, et al. Nat Rev Gastroenterol Hepatol (2020).
+https://doi.org/10.1038/s41575-020-0344-2
+Initially, the idea of synbiotics was to add a
+probiotic and a prebiotic together. This approach
+would require that each component meet the
+criteria for either probiotic or prebiotic.
+When defining synbiotics, scientists wanted
+to be sure that innovative products could use
+this designation. They realized that it would be
+possible to design a combination of a live microbe
+and a prebiotic-like substance that could work
+together – the substance feeding the live microbe
+– but neither on its own would necessarily meet
+the definitions of “probiotic” and “prebiotic”
+(dose and evidence of health benefit). Hence the
+definition is not simply a probiotic + prebiotic .
++
+Synbiotic was a term originally proposed in 1995 to refer to a combination of a probiotic and
+a prebiotic. In 2019, a group of scientists met to discuss specifics of this class of substances
+and to propose a new definition.
+Synbiotics
+The prebiotic is
+utilized by beneficial
+members of
+thehostmicrobiota.
+The altered host
+microbiota results in
+a health benefit.
+The chosen probiotic
+results in
+a health benefit.
+Host microbiota
+The substrate
+may be utilized by
+thehostmicrobiota.
+The live microbe(s)
+results in
+a health benefit.
+The host microbiota
+may result in
+a health benefit.
+Synbiotic
+Abiraterone acetate has
+prebiotic-like effects but has
+major negative side effects
+The source of stimulation is the
+acetate component, but it’s the
+abiraterone that prevents its
+absorption
+Many terms in the ‘biotic’ space have emerged. Although probiotics, prebiotics, and synbiotics
+have more than a 25 year history, other biotic terms are relatively new. These terms are widely
+used in both scientifi c literature and popular media, and while they are intended to be descriptive,
+they oft e n  a r e  c o n f u s e d  a n d  m i s u s e d .
+ISAPP has enlisted the help of multiple global experts across disciplines to provide perspectives
+in formulating consensus defi nitions that refl ect current science for many of these terms. The
+goal of the consensus panels has been to describe clearly what these terms are in order to support
+their proper use by stakeholders.
+In addition to the criteria stipulated below, all substances must be safe for their intended use.
+For substances required to have a demonstrated health benefi t in the target host, all product
+formulations must deliver an effi  cacious level of substance and must be clearl y identifi ed.
+© 2023, International Scientifi c Association for Probiotics and Prebiotics
+Consensus defi n i t i o nLive microorganisms that, when administered in adequate
+amounts, confer a health benefi t on the host (Hill et al., 2014)
+Simple way to conceptualizeLive microbes that are good for your health
+Live microbes present?
+Demonstrated health benefi t required?
+Yes
+Yes
+ExamplesBifi dobacterium animalis subsp. lactis XYZ
+Genus: Bifi d o b a c t e r i u m
+Species: animalis
+Subspecies: lactis
+Strain:  XYZ
+Keep in mindIdentity must be confi rmed through genome sequencing.
+Suffi  cient viability to deliver the health benefi t must be
+preserved through the end of shelf life.
+Probiotic
+Probiotics are live microorganisms that when taken
+in suffi  c i e n t  a m o u n ts  ca n  p r o v i d e  h e al t h  b e n efi ts.
+They can help support the bacteria that live with
+us, especially when our bacteria are challenged,
+for example by antibiotics, poor diet or
+traveling. Scientists defi ne probiotics as  live
+microorganisms that, when administered in
+adequate amounts, confer a health benefi t on
+the host. They are present in numerous foods
+and dietary supplements.
+What are probiotics?What are probiotics?
+What can probiotics do for you?What can probiotics do for you?
+Probiotics can support health in diff erent ways
+• Help your immune system function properly
+• Aid digestion by breaking down some of
+the food we can’t digest
+• Keep harmful microorganisms in check
+• Produce vitamins and aid in nutrient absorption
+They have the potential to:
+• Help reduce antibiotic-associated diarrhea
+• Help manage digestive discomforts
+• Help reduce colic symptoms and eczema in infants
+• Help with the digestion of lactose
+• Treat infectious diarrhea
+• Decrease common infections, including respiratory
+ tract, gut and vaginal tract
+Sources of probiotics:Sources of probiotics:
+Yogur t – Look for added probiotics listed on the label
+Supplements – These can be convenient for travel
+and may have a higher potency than foods
+Fermented Foods  – Can be sources of live bacteria
+if not heat-treated. See: www.isapp.net/fermentedfoods
+Probiotics
+Choosing a probioticChoosing a probiotic
+Match the strain to the benefi t you want – not all
+strains are the same.
+Amounts matter. Be sure the product contains the
+level of probiotics needed for the health benefi t.
+Safety fi rst. Probiotics are safe for most people,
+but talk to your doctor fi rst if you suff er from
+an immune disorder, have a serious underlying
+illness or before giving to an infant.
+The body contains
+trillions of microbes,
+together making up our
+microbiota, which lives in
+harmony with us. Our bacteria
+are important to keeping
+us healthy – developing and
+bolstering the immune system
+and helping keep potentially
+harmful microbes at bay.
+Bacteria live not just in the gut,
+but on the skin, in the mouth,
+urinary tract, vagina and  lungs.
+© 2023, International Scientifi c Association for Probiotics and Prebiotics
+For more information visit ISAPPscience.org
+or follow us on Twitter @ISAPPscience
+Consensus defi n i t i o nA substrate that is selectively utilized by host microorganisms
+conferring a health benefi t on the host (Gibson et al., 2017)
+Simple way to conceptualizeFood for benefi c i al  m i c ro bes  res i d i n g  o n  o r  wi th i n  the  ho st
+Live microbes present?
+Demonstrated health benefi t required?
+No
+Yes
+ExamplesInulin, galactooligosaccharides,
+fructooligosaccharides
+Keep in mindNew prebiotics emerging:
+Polyphenols,  oligosaccharides based
+on xylose, maltose and other sugars
+Prebiotic
+What are prebiotics?What are prebiotics?
+Prebiotics
+Prebiotics in foodPrebiotics in food
+Some prebiotics (oligofructose
+and inulin) can be found
+in onions, garlic, bananas,
+chicory root, Jerusalem
+artichokes, but typically
+are present at low levels. To increase your daily
+intake, include prebiotic supplements or foods
+with added prebiotics as part of your diet.
+Prebiotics may be added to yogurts,
+infant formula, cereals, breads,
+biscuits/cookies,
+desserts or drinks.
+Tr y to get at lea st 5
+grams of prebiotics in
+your diet every day. Eating
+whole grains, fruits and vegetables, and other
+fi ber -ric h food s can help.
+Prebiotics in mother’s milkPrebiotics in mother’s milk
+Human milk provides a rich source of prebiotics
+to the nursing baby. They support infant’s health
+by encouraging benefi c i al gut m i c robes.
+Prebiotic factsPrebiotic facts
+• Prebiotics provide health benefi ts by specifi cally
+altering either the composition or function of the
+gut microbiota.*
+• Prebiotics can be found naturally in foods, and are
+added to some dietary supplements and foods,
+including foods for infants.
+• Most prebiotics are dietary fi bers, but not all
+dietary fi bers are prebiotics.
+• As with dietary fi bers, some gas or bloating can
+result from too much prebiotic. Start with small
+amounts and allow your gut to adapt.
+* The human digestive tract contains 100 trillion
+bacterial cells. These bacteria, termed our intestinal
+microbiota, are important to our health.
+Substrates that are selectively utilized by host microorganisms conferring a
+health benefi t. Simply put, they are food for benefi cial microbes that live on or in us.
+For more information visit  ISAPPscience.org
+or follow us on Twitter @ISAPPscience
+Prebiotics for your healthPrebiotics for your health
+Prebiotics have the potential to:
+• Improve digestive function (bowel regularity)
+• Support the body’s natural defenses
+• Improve mineral absorption
+• Help regulate your desire to eat, energy
+balance, and glucose metabolism
+What do you What do you
+look for on the label?look for on the label?
+The word ‘prebiotic’ is seldom
+used on the label. Look for:
+• Galactooligosaccharides (GOS)
+• Fructooligosaccharides (FOS)
+• Oligofructose (OF)
+• Chicory fi ber
+• Inulin
+© 2019, International Scientifi c Association for Probiotics and Prebiotics
+For more information visit ISAPPscience.org
+or follow us on Twitter @ISAPPscience
+Probiotics, Prebiotics, Synbiotics,
+Postbiotics and Fermented Foods
+DEFINED
+Consensus defi n i t i o nPreparation of inanimate microorganisms and/or their
+components that confers a health benefi t on the host
+(Salminen et al., 2021)
+Simple way to conceptualizeNon-viable microbes and/or cell components
+with or without  metabolites
+Live microbes present?
+Demonstrated health benefi t required?
+No. Live microbes are the starting point to make
+a postbiotic, but they are intentionally inactivated
+Yes
+ExamplesSome infant formulas, therapeutic bacterial
+lysates and yeast fermentates used in animal feeds
+Keep in mindPurifi ed metabolites (e.g., butyric acid) do not
+qualify as postbiotics
+Postbiotic
+For more information visit  ISAPPscience.org
+or follow us on Twitter @ISAPPscience
+© 2021, International Scientific Association for Probiotics and Prebiotics
+Postbiotic is derived from “biotic”, relating to
+living organisms, and “post”, meaning after (life).
+Preparation recognizes that the specific
+formulation, including microbial biomass,
+matrices, and inactivation methods, may play
+a role in the beneficial effect.
+Inanimate recognizes that the terms ‘dead’
+or ‘inactive’, may suggest an inert material ,
+rather than a material capable of conferring
+a health benefit.
+Components recognizes that health effects
+may be mediated by a variety of different cell
+parts or metabolites.
+Postbiotics
+THE POSTBIOTIC
+DEFINITION EXPLAINED:
+COMPONENTS OF
+A  POSTBIOTIC:
+Postbiotics may contain
+intact inanimate
+microbial cells...
+POSTBIOTIC:
+ Derived from microorganisms, but a postbiotic
+ does not have to be derived from a probiotic
+ A deliberate process to terminate cell viability
+must be applied. The final postbiotic must
+contain  inactivated microbial cells and/or
+metabolites or cell components
+ Viable cells are absent or negligible in final
+product
+ Evidence of a health benefit in the target host
+ Assessment of safety of the postbiotic
+preparation for the intended use
+NOT POSTBIOTIC:
+	Viruses, including bacteriophages
+	Vaccines
+	Filtrates without cell components
+	Purified microbial components
+(e.g., proteins, peptides, exopolysaccharides)
+	Purified microbial metabolites
+(e.g., organic acids)
+A postbiotic is a preparation of inanimate
+microorganisms and/or their components
+that confers a health benefit on the host.
+and/or microbial cell
+fragments/structures...
+Cell walls, membranes,
+exopolysaccharides, cell-wall
+anchored proteins, pili, etc.
+with or without
+metabolites/endproducts
+Organic acids, peptides, secreted
+proteins, enzymes, bacteriocins, etc.
+Salminen, et al. Nat Rev Gastroenterol Hepatol (2021).
+https://www.nature.com/articles/s41575-021-00440-6
++
+Consensus defi n i t i o nFoods made through desired microbial growth and enzymatic
+conversions of food components (Marco et al., 2020)
+Simple way to conceptualizeFoods that are made through
+the growth of live microbes
+Live microbes present?
+Demonstrated health benefi t required?
+Sometimes yes, sometimes no.
+Live microbes not required in fi nal product.
+No
+ExamplesYogurt, kefi r, sauerkraut, sourdough bread
+Keep in mindMicrobes present not required to be defi ned
+and may be live or dead
+Fermented
+Foods
+How areprobiotic foodsand
+fermented foodsdifferent?
+For more  information visit ISAPPscience.org
+or follow us on Twitter @ISAPPscience
+and on Instagram @isappscience
+© 2020, International Scientific Association for Probiotics and Prebiotics
+PROBIOTICS
+Live microorganisms that,
+when administered in adequate
+amounts, confer a health
+benefit on the host
+EXAMPLES
+• Bifidobacterium animalis
+subsp. lactis XYZ
+• L. plantarum ABC
+• L. casei 123
+Probiotics can be
+added to nutritional
+supplements or to foods
+that are not fermented,
+such as fruit juice or
+cereal bars. A ‘probiotic
+food’ must meet all the
+criteria indicated for a
+probiotic.
+Documented health benefit
+EXAMPLES
+• Yogurt containing B. animalis
+subsp. lactis XYZ
+• Oat fermented by L. plantarum ABC
+• Milk fermented by L. casei 123
+PROBIOTIC
+FERMENTED
+FOODS
+Documented  health benefit
+due to the probiotic
+FERMENTED
+FOODS
+EXAMPLES
+• Sauerkraut
+• Kombucha
+• Leavened bread
+• Kefir
+No documented health
+benefit required
+Foods made through
+desired microbial growth
+and enzymatic conversions
+of food components
+Criteria for Probiotics,
+Probiotic Fermented Foods
+and Fermented Foods Probiotics
+Probiotic Fermented Foods
+Fermented Foods
+REQUIRED
+Genome sequence of microbes available
+Safe for intended use
+Microbes taxonomically defined to strain level
+Microbes alive at time of consumption
+MAY OR MAY NOT,
+DEPENDING ON FOOD
+Microbes at levels that provide benefit
+NOT REQUIRED
+Documented health benefit
+Consensus defi n i t i o nA mixture comprising live microorganisms and substrate(s)
+selectively utilized by host microorganisms that confers
+a health benefi t on the host (Swanson et al., 2020)
+Simple way to conceptualizeComplementary synbiotic is a mixture
+of probiotic + prebiotic
+Synergistic synbiotic contains a live microbe
+and a substrate that it can use for growth
+Live microbes present?
+Demonstrated health benefi t required?
+Yes
+Yes
+ExampleComplementary synbiotic: inulin +
+Bifi dobacterium animalis subsp. lactis XYZ
+Keep in mindA health benefi t must be shown for a synbiotic
+as combined, not just the probiotic alone and
+the prebiotic alone.
+The substrate is
+utilized by the
+co-administered
+live microbe.
+Synbiotics may be formulated using two approaches:
+A mixture comprising live
+microorganisms and substrate(s)
+selectively utilized by host
+microorganisms* that confers
+a health benefit on the host.**
+For more information visit  ISAPPscience.org
+or follow us on Twitter @ISAPPscience
+and on Instagram @isappscience
+© 2021, International Scientific Association for Probiotics and Prebiotics
+Mixture of probiotic(s) + prebiotics(s). Each works
+independently to achieve one or more health
+benefits.
+COMPLEMENTARY SYNBIOTIC SYNERGISTIC SYNBIOTIC
+HEALTH
+BENEFIT(S)
+The probiotic and prebiotic components of a
+complementary synbiotic must meet the minimum
+criteria of these substances. The probiotic must have a
+demonstrated health benefit at the dose in the synbiotic
+mixture. The prebiotic criteria must have a demonstrated
+health benefit in the same study showing selective
+utilization by the host microbiota, at the dose in the
+synbiotic mixture. Demonstration of a health benefit
+of the synbiotic mixture in the target host is further
+required, but demonstration of selective utilization of the
+substrate in the synbiotic mixture is not required.
+For a synergistic synbiotic, demonstration of a health
+benefit and selective utilization of the substrate by the
+co-administered live microbe in the target host must be
+shown in the same study.
+HEALTH
+BENEFIT(S)
+Mixture of a selectively utilized substrate and
+a live microbe chosen for its ability to deliver
+a health effect. Components comprising
+synergistic synbiotics work together to bring
+about resulting health benefit(s).
+Host microbiota
+A synbiotic may target the gut or non-gut
+microbial ecosystems in the body and may be
+formulated into products fitting an array of
+regulatory categories (such as foods, non-foods,
+cosmetics, drugs, or nutritional supplements).*Within this definition, ‘host’ microorganisms refer to both
+resident microbes and externally applied (such as probiotics)
+microorganisms, either of which can be targets for the
+substrate contained in the synbiotic.
+**Implied in the definition is that safety of the synbiotic for its
+intended use is established.
+‘Symbiotic’ is not a synonym of synbiotic and is incorrect
+in this context.
+Swanson, et al. Nat Rev Gastroenterol Hepatol (2020).
+https://doi.org/10.1038/s41575-020-0344-2
+Initially, the idea of synbiotics was to add a
+probiotic and a prebiotic together. This approach
+would require that each component meet the
+criteria for either probiotic or prebiotic.
+When defining synbiotics, scientists wanted
+to be sure that innovative products could use
+this designation. They realized that it would be
+possible to design a combination of a live microbe
+and a prebiotic-like substance that could work
+together – the substance feeding the live microbe
+– but neither on its own would necessarily meet
+the definitions of “probiotic” and “prebiotic”
+(dose and evidence of health benefit). Hence the
+definition is not simply a probiotic + prebiotic .
++
+Synbiotic was a term originally proposed in 1995 to refer to a combination of a probiotic and
+a prebiotic. In 2019, a group of scientists met to discuss specifics of this class of substances
+and to propose a new definition.
+Synbiotics
+The prebiotic is
+utilized by beneficial
+members of
+thehostmicrobiota.
+The altered host
+microbiota results in
+a health benefit.
+The chosen probiotic
+results in
+a health benefit.
+Host microbiota
+The substrate
+may be utilized by
+thehostmicrobiota.
+The live microbe(s)
+results in
+a health benefit.
+The host microbiota
+may result in
+a health benefit.
+Synbiotic
+If acetate could be delivered to
+the colon, then we are likely to
+positively impact the microbiota
+
+--- page 53 ---
+Acetate is common in food but is absorbed rapidly when ingested
+
+--- page 54 ---
+Acetate Food Additives FDA Status Health Canada Status (NHP)
+Potassium acetate Unlisted
+GRAS
+A mineral; buffering agent, Class 2 preservative
+Sodium acetate anhydrous GRAS/FS An isolate; buffering agent, pH adjuster, Class 2
+preservative
+Sodium acetate trihydrate GRAS An isolate; buffering agent, pH adjuster, Class 2
+preservative
+Sodium diacetate GRAS Acceptable daily intake up to 15mg/kg body weight
+(JECFA 1973); Class 2 preservative, sequestering agent
+Calcium acetate GRAS
+Zinc acetate GRAS, NUTRA mineral; buffering agent, preservative
+Ethyl acetate GRAS Up to 25mg/kg body weight daily. (JECFA,     1996); flavour
+enhancer, solvent
+Glycerol triacetate (triacetin)GRAS Biocide, flavourenhancer, humectant, plasticizer
+Manganese acetate GRAS A mineral
+Sucrose acetate isobutyrate
+(SAIB)
+STAB, REG Acceptable daily intake up to 20 mg/kg body weight daily
+(JECFA 1996)
+Acetic acid GRAS/FS An isolate; buffering agent, acidifying agent, pH adjuster,
+Class 1 preservative
+Approved for use in food
+
+--- page 55 ---
+
+
+--- page 56 ---
+Acetate type and dose selection
+Quantitative:
+•Aitchison distance
+•Log-Variance Ratio
+Selected Compounds:
+•Apple cider vinegar
+•Manganese (II)
+acetate
+•Triacetin
+Compounds:
+•Apple cider vinegar
+•Calcium acetate
+•Ethyl acetate
+•Magnesium acetate
+•Manganese (II)
+acetate
+•Potassium acetate
+•Sodium acetate
+•Triacetin
+•Zinc acetate
+
+--- page 57 ---
+•Fermented apple juice, ubiquitous in the ‘health
+food’ market in liquid and powder forms
+•Safe option for an acetate-containing compound
+•We tested acetate in compounds:
+•Many vinegar powder products did not contain
+acetate
+•ACV 500 mg capsule
+•25 mg acetate/capsule
+6 capsules = acetate in Abiraterone acetate
+daily dose
+
+--- page 58 ---
+Delayed release capsules
+•Capsules are not typically enteric-coated to help
+delivery to the colon
+•Delayed-released (DR) and normal
+hydroxypropylmethylcellulose (HPMC) capsules to
+coat the commercial ACV capsules
+5
+Study Protocol and Execution
+The study was designed to investigate the in vivo behavior of DRcaps capsules
+using qualitative and quantitative scintigraphic methods to assess the
+gastrointestinal transit of the capsules and release of capsules based on the
+scintigraphic images obtained. Gamma scintigraphy is an established technique in
+which a radio label is swallowed and the disposition in the gut is photographed
+externally over time.
+In this study, DRcaps capsules were ﬁlled with 290 mg of cold lactose
+monohydrate and approximately 10 mg of lactose monohydrate radiolabeled with
+99mm Tc-DTPA. The capsules were closed and stored in individual, labeled plastic
+bijous in lead pots.
+After meeting eligibility requirements, eight subjects were enrolled. Each subject
+consumed a light breakfast comprising one slice of crisp bread, ﬁve grams of jam,
+and 200 mL apple juice. Approximately 30 minutes later, each subject swallowed
+whole one DRcaps capsule ﬁlled with the radio label with 150 mL of room
+temperature water.
+Scinitigraphic images were taken following the dosing until complete capsule
+radiolabel release, i.e. capsule disintegration, was conﬁrmed. Anterior and posterior
+abdominal images of 25-second duration each were acquired after dosing and
+then every ﬁve minutes up to four hours after dosing, then every 10 minutes to a
+maximum of 10 hours after dosing.
+Trained personnel analyzed the images with Weblink software relating to the
+position of the capsule in the gastrointestinal tract and onset and complete
+radiolabel release from the capsule.
+Three scenarios of capsule disintegration were noted: begun and completed in the
+stomach, started in the stomach and ﬁnished in the small intestine, and
+commenced and completed in the small intestine.
+DRcaps capsule has left the stomach
+and releases its contents in the intestine
+Intact DRcaps capsule reaches the stomach
+DRcaps capsule starts to release the contents
+DRcaps capsule administered
+
+--- page 59 ---
+28 May
+16 June
+24 June
+28 June
+30 June
+21 May
+-3
+-2
+-1
+0
+1
+CLR-transformed relative abundance
+Akkermansia
+28 May
+16 June
+24 June
+28 June
+30 June
+21 May
+2.0
+2.5
+3.0
+3.5
+4.0
+4.5
+CLR-transformed relative abundance
+Roseburia
+28 May
+16 June
+24 June
+28 June
+30 June
+21 May
+-3
+-2
+-1
+0
+1
+CLR-transformed relative abundance
+Superpathways
+MK-6
+MK-7
+MK-8 BI
+MK-8 BII
+MK-9
+MK-10
+MK-11
+MK-12
+MK-13
+3DEC20 21MAY21 28MAY21 16JUN21 24JUN21 28JUN21 30JUN21
+Phascolarctobacterium
+Lachnospiraceae UCG-001
+Anaerobutyricum
+CAG-56
+Ruminococcus
+Lachnoclostridium
+[Eubacterium] ruminantium
+Lachnospiraceae ND3007
+Lachnospira
+Anaerostipes
+Erysipelotrichaceae UCG-003
+Subdoligranulum
+Streptococcus
+Escherichia-Shigella
+Fusicatenibacter
+Roseburia
+Ruminococcus
+Faecalibacterium
+Blautia
+Bacteroides
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+28 May
+16 June
+24 June
+28 June
+30 June
+21 May
+-3
+-2
+-1
+0
+1
+CLR-transformed relative abundance
+Akkermansia
+28 May
+16 June
+24 June
+28 June
+30 June
+21 May
+2.0
+2.5
+3.0
+3.5
+4.0
+4.5
+CLR-transformed relative abundance
+Roseburia
+28 May
+16 June
+24 June
+28 June
+30 June
+21 May
+-3
+-2
+-1
+0
+1
+CLR-transformed relative abundance
+Superpathways
+MK-6
+MK-7
+MK-8 BI
+MK-8 BII
+MK-9
+MK-10
+MK-11
+MK-12
+MK-13
+Commercial capsule
+Pre samples
+Commercial coating + DR
+-HPMC
+Commercial coating + DR
+-HPMC x2
+6X ACV capsules daily
+
+--- page 60 ---
+•A pilot study of 16-35-year-olds
+using antidepressants and mood
+stabilizers
+•The barrier to treatment
+compliance is weight gain. Can
+we prevent weight gain by
+modulating the microbiota?
+•Typically, they have a poor diet
+•Won’t eat fermented food
+products, so substituting
+delayed-release ACV
+
+--- page 61 ---
+Participants
+16 to 35-year-olds who
+experienced weight gain on stable
+psychotropic medication doses.
+Intervention
+3 delayed-release enteric-coated
+oral acetate ACVOC capsules twice
+daily for 3 months.
+Study Design
+N-of-1 design to assess pre-and
+post-supplementation results.
+
+--- page 62 ---
+Preliminary results only
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+QIDS-SR scores
+0
+2
+4
+6
+8
+10
+12
+14
+16
+OASIS scores
+0
+0,5
+1
+1,5
+2
+2,5
+3
+3,5
+4
+4,5
+5
+LDL (mmol/L)
+Early study results, but positively trending values include weight,
+lipid and cholesterol markers, but those that are significant:
+
+--- page 63 ---
+Megamonas funiformis
+Bifidobacterium
+Murdochiella asaccharolytica
+Clostridium sensu stricto 1
+Tannerellaceae
+Intestinibacter bartlettii
+Ruminococcus torques group
+Bacteroides
+Ruminococcus torques group
+Subdoligranulum
+Blautia
+Lactiplantibacillus
+Prevotella
+Akkermansia muciniphila
+Corynebacterium pyruviciproducens
+Tyzzerella
+Corynebacterium
+Lactococcus
+Holdemanella biformis
+Alistipes finegoldii
+Parabacteroides
+Parabacteroides distasonis
+Segatella copri
+Streptococcus
+Escherichia / Shigella
+Lachnospiraceae
+Eubacterium xylanophilum group
+Prevotella corporis
+Sutterella
+Actinomycetota
+Bacteroidota
+Bacillota
+Pseudomonadota
+Verrucomicrobiota
+-0.5 0.0 0.5 1.0 1.5
+Effect Size
+Phylum
+Romboutsia
+Corynebacterium genitalium
+Corynebacterium urealyticum
+Enriched Post-ACV
+Depleted Post-ACV
+Delayed release ACV changes the gut microbiota
+
+--- page 64 ---
+What does it mean for existing gut-targeted
+microbial therapeutics?
+•Delayed-release technologies present an
+opportunity to enhance nutrient delivery.
+•Ensuring that vitamins, SCFAs, and other
+essential components are delivered directly to
+microbes may serve as a standalone therapy
+or complementaryapproach to improve the
+efficacy of existing treatments.
+•Enhance prebiotics (some require
+multigram amounts)
+•Certain microbial therapeutic and food
+products already have components of the
+pantryome
+•SCFA’s deep in some fermented foods are
+released slower due to their matrix
+
+--- page 65 ---
+Potential Donors Prescreened (n=46)
+Excluded (n=23)
+BMI >25
+History of Diabetes
+History of Auto-Immunity
+High Blood Pressure of Physical Examination
+Complete Blood and Stool Test
+Excluded (n=18)
+D. fragilis
+H. pylori Antibodies
+Hepatitis B antigen
+High ALT
+Hyperlipidemia
+Potential Donors Qualified (n=5)
+Donor Enrolled (n=1)
+Excluded (n=4) Acute Gastroenteritis after screening
+Traveled to tropical countries after screening
+Total Cost = $15,180
+Screening FMT donors is expensive
+
+--- page 66 ---
+Producing FMT capsules is expensive
+•More “user friendly” now delivered as 30-40
+triple layer oral capsules (from 1 stool)
+•Demand growing beyond C. difficile
+•Sometimes multiple FMT’s required (recurrent
+C. difficile, potentially ICI oncology)
+•Adjunct therapy is needed to lower doses and
+make more cost-effective
+•It could be a prebiotic or probiotic, but we know that
+acetate stimulates some of the microbes known to
+be important in some conditions, such as
+Akkermansia.
+
+--- page 67 ---
+•Call it what you will, but microbes must constantly cross-feed to make
+energy and build. This is connected beyond individual cells and relies
+on external public goods.
+
+--- page 68 ---
+Summary
+•"Pantryome": Microbiota develops interconnected and
+interdependent electron transport chains that rely on
+cooperative production and sharing of bioenergetic
+components and machinery in the extracellular space.Utilised
+by both microbes and the host. The performance of this
+environment links to the health of the host.
+Therapeutic Potential:
+•Delivering key pantryome components as therapeutic or
+supporting existing therapies
+•There are many potential molecules to be tested; we have
+focussed mainly on acetate.
+
+--- page 69 ---
+Microbiome at Lawson
+
+--- page 70 ---
+Acknowledgements
+Many, many others and not limited to:
+Dr. Kait Al
+Dr. John Chmiel
+Dr. Gerrit Stuivenberg
+WongsakornKiattiburut
+Rachel Penny
+Samantha Tapping
+Dr. Gregor Reid
+Dr Chris Munday
+Shannon Seney
+Division of Urology Physicians
+Dr. Donna Goldhawk, Dr. Frank Prato, Sarah Donnolly
+(Lawson Imaging)
+Dr. Mike Silverman, Dr. Seema Parvathy (FMT)
