@@ -1,0 +1,239 @@
+--- page 1 ---
+Proprietary & Confidential
+Proprietary & Confidential
+1
+AI, Scientific Wellness, and the
+Future of Personalized Nutrition
+Nathan Price, PhD
+Chief Scientific Officer, Thorne
+Professor, Buck Institute for Research on Aging
+Co-Director, Center for Human Healthspan
+
+--- page 2 ---
+Our point in history: The Birth of AI
+
+--- page 3 ---
+April 2023 (Weekend edition)
+Abundance of health would be the greatest
+application of AI to humanity
+
+--- page 4 ---
+Scientific Wellness:
+Unlocking Human Healthspan
+x
+Gathering deep data through life helps us understand long term effects of
+nutrients and feeds AI-driven personalized insights
+
+--- page 5 ---
+We are Beginning to See the Focus Shift
+Deloitte 2022
+ N. Price, Scientific American (2022)
+
+--- page 6 ---
+Scientific Wellness: Pioneer 5000
+PIs: Nathan Price and Lee Hood
+Price et al, Nature Biotechnology, 2017
+5000
+
+--- page 7 ---
+Database of
+200 actionable
+possibilities that
+will grow over
+time
+GENOME
+Whole Genome
+Sequencing
+SNPs Millions
+LABS
+Detailed lab tests 3x
+(blood, urine, saliva)
+Clinical chem. 150
+Metabolites 700
+Proteins 400
+~1200 analytes
+SELF-TRACKING
+Continual
+self-tracking of
+physiology
+& lifestyle monitoring
+MICROBIOME
+Gut Microbiome
+3x
+SELF-TRACKING
+Assays / Measurements
+Creating personal, dense, dynamic data (PD3) clouds – “deep phenotyping”
+Price et al, Nature Biotechnology, 2017
+
+--- page 8 ---
+What have we learned so far from
+analyzing scientific wellness data
+from 5000 people?
+
+--- page 9 ---
+Can genomics predict
+the outcome of
+lifestyle and dietary
+interventions?
+
+--- page 10 ---
+Genetics affects likely level of LDL cholesterol in the blood
+Zubair N et al, Scientific Reports (2019)
+PGS = polygenic score
+
+--- page 11 ---
+Genetics predicts success or failure in lowering LDL-C through
+lifestyle intervention
+Zubair N et al, Scientific Reports (2019
+PGS = polygenic score
+
+--- page 12 ---
+Personalize interventions can target the
+“Modifiability Gap”
+12
+Individual 1 Individual 2
+LDL Cholesterol
+Measured
+Genetically
+Predicted
+∆
+∆
+Key Idea: Individuals with a large gap between genetic
+prediction and measured value are most likely to
+respond
+∆ Represents non-genetic component of
+a value, that which can be modified
+
+--- page 13 ---
+Implications for nutrition and precision health
+• Genetics are not destiny, but they quantitatively affect the outcomes
+for lifestyle interventions
+• We can design health strategies for people that highlight the areas
+where the most progress is likely – where they would be working
+with their genes rather than against
+• We can deliver highly personalized insights and deliver AI-informed
+recommendations
+
+--- page 14 ---
+Gut microbiome effects
+on health and the
+metabolome:
+Nutrients and toxins
+
+--- page 15 ---
+Gut microbiome diversity affects metabolites in the blood
+Microbiome diversity
+0.4        -0.2        0.0 0.2
+Observed change in Shannon ⍺-diversity
+Metabolomics prediction
+of microbiome diversity
+Abdominal Pain
+Acid Reflux
+Antibiotics
+Bloating
+Constipation
+Diarrhea
+Type II diabetes
+Wilmanski, Rappaport…Price, Nature Biotechnology (2019)
+
+--- page 16 ---
+Indole propionate
+TMAO
+Imidazole propionate
+Hippurate
+Secondary Bile acids
+P-cresol
+sulfate
+Imidazole propionate
+Identified Metabolites Exert Biological Effects in the Host: Nutrients and Toxins
+Positive predictor
+Negative predictor
+
+--- page 17 ---
+Wilmanski…Price (Nature Metabolism, 2021)
+Gut microbiome is important for healthy aging and is highly personalized
+NAM
+Catalyst Award
+Our Microbiome Becomes
+More Unique as We Age:
+Around age 50, each
+person's gut microbiome
+starts to look more different
+from others', which can
+impact personalized health.
+Core Health Functions
+Remain Steady in Healthy
+Aging: Even with these
+differences, essential gut
+functions stay stable in
+people who age well.
+
+--- page 18 ---
+Microbiome was the only measure predictive of weight loss
+(independent of BMI)
+Diener et al., mSystems, 2021
+Correlation with
+subsequent weight loss
+
+--- page 19 ---
+Quantifying Metabolic Health Differently
+Watanabe… Price, Rappaport, Nature Medicine, 2023
+• Simple metric derived from height
+and weight
+• Correlates with mortality and chronic
+diseases
+• Limited capacity to capture complex
+metabolic and physiological
+differences
+• Misclassifies up to 30% of people
+Using phenomics to define data-driven health metrics
+Traditional BMI Biological BMI
+• Integrates various molecular data to
+capture heterogeneity in metabolic
+health and gut microbiome structure
+• May identify metabolically unhealthy
+individuals who occupy a normal BMI
+• Multidimensional profile of obesity,
+built on comprehensive profiling that
+integrates both new and existing
+biomarkers
+• Responsive to lifestyle interventions,
+offering rapid feedback on metabolic
+health independent of weight loss
+Height
+Weight
+Metabolites
+Clinical Labs
+Proteins
+
+--- page 20 ---
+Implications for nutrition and precision health
+• We should evaluate the contributions of the microbiome based on
+reflections in the host – especially the nutrients and toxins in the
+metabolome
+• Big need to more deeply map how diet and microbiome interact to
+inform AI-guided personalization platforms
+• Microbiome is a key component in healthy aging – and becomes
+increasingly unique to each individual
+
+--- page 21 ---
+Conclusions
+• AI represents a transformative opportunity
+for personalization, allowing us to leverage
+deep data
+• Microbiome has profound effects on aging,
+health, disease, and drug responses
+• Genetics and dynamic measures can provide
+a prioritization of where personalized
+nutrition where most benefit likely to be seen
+• AI insights powered by deep phenotyping
+across health and disease will provide
+revolutionary advances for AI-enabled 21st
+century medicine
+
+--- page 22 ---
+Thank You!
+Questions?
+Price Lab @ Buck Institute
+nprice@thorne.com
+nprice@buckinstitute.org
