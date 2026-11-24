@@ -4,20 +4,20 @@ date: '2025-06-24'
 start: ''
 end: ''
 format: panel
-track: ''
+track: Personalisation and New Technologies
 speakers:
 - name: Olivia Haslam
   organisation: NutraIngredients
-  role: Chair (Otter's speaker label)
+  role: Chair (Otter's speaker label); Section Editor (programme)
 - name: Mariette Abrahams
   organisation: Qina
-  role: CEO and founder (her deck in abrahams-glp1-ai-personalised-nutrition)
+  role: Founder and Chief Executive Officer (programme); deck in abrahams-glp1-ai-personalised-nutrition
 - name: Marimiina Pykälistö
-  organisation: ''
-  role: Certified nutritionist (her deck in pykalisto-nutrigenomics)
+  organisation: Marimiina
+  role: Nutritionist and Consulting Advisor (programme); deck in pykalisto-nutrigenomics
 - name: Femke Hoevenaars
   organisation: TNO
-  role: ''
+  role: Senior Scientist Nutritional Physiology and Metabolism (programme)
 - name: Unnamed speaker
   organisation: ''
   role: Panellist (Otter's Speaker 3)
@@ -35,11 +35,13 @@ reviewed_date: ''
 attended_by: []
 links:
   otter: https://otter.ai/u/YEaFS-vU6WJIadQHZK_M-ogP6Qs
-to_check: Billed title not known (Otter's is "Personalized Health Panel - ANS 2025"). Day 2 (24 Jun 2025) from the recording's date;
-  start time and room not given. Names and organisations rest on Otter's speaker labels (the chair's closing thanks is garbled, "Sharna
-  I'm pregnant and Maria"); roles come from the panellists' own decks at this event. Otter's Speaker 3 is not named; she works with
-  doctors and has her own clients, and may be one of the labelled panellists. The "Marimiina Pykalisto" label carries a line about working
-  "in France for an association" doing genetic testing, which may be mislabelled. "Nathan's talk" is taken to be price-ai-scientific-wellness
-  and "the weight management session earlier" is not identified. Whether Nathan attended is not known.
+to_check: Billed title not known (Otter's is "Personalized Health Panel - ANS 2025"); the programme's Day 2 block is "Personalisation
+  and New Technologies", billing Abrahams, Hoevenaars, Nathan Price and Pykälistö. Day 2 (24 Jun 2025) from the recording's date and
+  the programme; start time and room not given. Names rest on Otter's speaker labels (the chair's closing thanks is garbled, "Sharna
+  I'm pregnant and Maria"); roles and organisations come from the programme. Otter's Speaker 3 is not named; this panellist works with
+  doctors and has their own clients, and may be one of the labelled panellists. The "Marimiina Pykalisto" label carries a line about
+  working "in France for an association" doing genetic testing, which may be mislabelled. "Nathan's talk" is taken to be price-ai-scientific-wellness
+  and "the weight management session earlier" is not identified. The programme spells the name "Mariëtte"; the deck's "Mariette" is
+  kept. Whether Nathan attended is not known.
 added: '2026-11-24'
 added_by: Claude (from Nathan's Otter recording, 24 Nov 2026)

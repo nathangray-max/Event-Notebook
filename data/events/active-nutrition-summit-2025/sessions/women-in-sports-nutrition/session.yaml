@@ -4,20 +4,20 @@ date: '2025-06-24'
 start: ''
 end: ''
 format: panel
-track: ''
+track: The Female Athlete
 speakers:
-- name: Stefan (surname not said)
+- name: Steffen Oesser
+  organisation: CRI (Collagen Research Institute)
+  role: Director (programme); spoke on collagen peptide studies
+- name: James Morton
+  organisation: SiS (Science in Sport)
+  role: Chief Scientific Officer (programme)
+- name: Renee McGregor
   organisation: ''
-  role: Panellist; spoke on collagen peptide studies he worked on
-- name: James (surname not said)
-  organisation: ''
-  role: Panellist; gave a talk earlier at the event (as referred to)
-- name: Unnamed speaker
-  organisation: ''
-  role: Panellist; a sports dietitian (as she said)
-- name: Unnamed speaker
-  organisation: ''
-  role: Panellist; a medical doctor (as said)
+  role: Sports Dietitian and Clinical Lead (programme)
+- name: Nicky Keay
+  organisation: UCL
+  role: Honorary Clinical Lecturer (programme); a medical doctor (as said)
 - name: Unnamed chair
   organisation: ''
   role: Chair
@@ -39,12 +39,14 @@ reviewed_date: ''
 attended_by: []
 links:
   otter: https://otter.ai/u/8wiNhrRgQVxL7wdV_aE6giPhSUo
-to_check: 'No billed title or programme; the title is Otter''s. Day 2 (24 Jun 2025) from the recording''s date, which agrees with the
-  chair of the Day 1 panel announcing "our women''s health session tomorrow"; start time and room not given. The recording starts mid-answer,
-  so the introductions (names, organisations) are missing. Attribution is from what is said - Speaker 1 is Stefan (the chair asks "Stefan"
-  and Speaker 1 answers), Speaker 4 is James (addressed as James twice). Speaker 2 (a sports dietitian) and Speaker 3 (a medical doctor)
-  are not named; the names heard are "Nikki" (Speaker 2: "we Nikki and I"), "Rene" and "Greg" (Speaker 3), and which belongs to whom
-  is not clear. The chair is Speaker 5, unnamed. Which company Stefan''s "specific collagen peptides" come from is not said, nor the
-  studies'' authors. Which talk was James''s is not known. Whether Nathan attended is not known.'
+to_check: 'No billed title; the title is Otter''s. The programme''s Day 2 block "The Female Athlete" bills Dr Jane Durga (Balchem),
+  Dr Nicky Keay (UCL), Renee McGregor, Prof. James Morton (SiS) and Prof. Steffen Oesser (CRI). Day 2 (24 Jun 2025) from the recording''s
+  date and the programme, which agrees with the chair of the Day 1 panel announcing "our women''s health session tomorrow"; start time
+  and room not given. The recording starts mid-answer, so the introductions are missing, and names are matched to the programme: Speaker
+  1 is "Stefan" (the chair asks "Stefan"), taken as Steffen Oesser, the block''s collagen researcher; Speaker 4 is "James" (addressed
+  twice), taken as James Morton; Speaker 2, the sports dietitian, mentions "Nikki" as a colleague and is taken as Renee McGregor, the
+  block''s sports dietitian; Speaker 3, the medical doctor, refers to "Rene" and "Greg" and is taken as Nicky Keay. Whether Jane Durga
+  was on the panel is not known. The chair is Speaker 5, unnamed. Which CRI product or partner the "specific collagen peptides" are,
+  and the studies'' authors, are not said. Which talk was Morton''s is not known. Whether Nathan attended is not known.'
 added: '2026-11-24'
 added_by: Claude (from Nathan's Otter recording, 24 Nov 2026)

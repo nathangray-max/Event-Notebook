@@ -4,14 +4,14 @@ date: '2025-06-23'
 start: ''
 end: ''
 format: panel
-track: ''
+track: State of the Market
 speakers:
 - name: Nick Morgan
-  organisation: Nutrition Integrated (as heard)
-  role: Founder and managing director (as introduced)
+  organisation: Nutrition Integrated
+  role: Founder and Managing Director (programme)
 - name: Luca Bucchini
   organisation: ESSNA
-  role: Chair (his own deck at this event); introduced as an expert in food supplement regulation
+  role: Chair (the ESSNA title, on the deck and in the programme); introduced as an expert in food supplement regulation
 - name: Dr Mark Evans
   organisation: Holland & Barrett
   role: Senior Scientist
@@ -45,12 +45,14 @@ attended_by: []
 links:
   otter: https://otter.ai/u/zRm5GgSBH29_sVter46nJfQBuR0
   otter_intro: https://otter.ai/u/hGW_YzPhcwWc92zSzE83n-XuR2I
-to_check: No billed title or programme; the title is Otter's. Day 1 (23 Jun 2025) from the recordings' dates and the chair's "women's
-  health session tomorrow". Start time and room not given. The chair is not named. Attribution is from the recordings only - Speaker
-  1 is taken as Nick Morgan (he answers the chair's "Nick" question across the two recordings), Speaker 3 as Mark Evans (answers "Mark",
-  Holland & Barrett's science team) and Speaker 4 as Luca Bucchini (the regulatory answers; "I'm relative person"); Speakers 5 to 8
-  are not identified. Otter heard Morgan's company as "nutrition integrated" and Bucchini's title as "Chair of restaurant and food,
-  Best Science"; his ESSNA role comes from his deck in bucchini-essna-regulatory-update. Much of Speaker 4's audio is garbled (the regulation
-  answers at [06:33] to [07:16] and the maximum-levels answer at [15:48]). Whether Nathan attended is not known.
+to_check: No billed title; the title is Otter's. The programme's Day 1 "State of the Market" block bills Luca Bucchini, Stephen Daniells
+  (NutraIngredients), Dr Mark Evans, Nick Morgan, Michael O'Leary (ESN) and Aishwarya Rajpara; whether Daniells or O'Leary chaired or
+  are among Speakers 5 to 8 is not known. Day 1 (23 Jun 2025) from the recordings' dates, the chair's "women's health session tomorrow"
+  and the programme. Start time and room not given. The chair is not named. Attribution is from the recordings only - Speaker 1 is taken
+  as Nick Morgan (answers the chair's "Nick" question across the two recordings), Speaker 3 as Mark Evans (answers "Mark", Holland &
+  Barrett's science team) and Speaker 4 as Luca Bucchini (the regulatory answers; "I'm relative person"); Speakers 5 to 8 are not identified.
+  Otter heard Morgan's company as "nutrition integrated" (the programme confirms Nutrition Integrated) and Bucchini's title as "Chair
+  of restaurant and food, Best Science". Much of Speaker 4's audio is garbled (the regulation answers at [06:33] to [07:16] and the
+  maximum-levels answer at [15:48]). Whether Nathan attended is not known.
 added: '2026-11-24'
 added_by: Claude (from Nathan's Otter recordings, 24 Nov 2026)

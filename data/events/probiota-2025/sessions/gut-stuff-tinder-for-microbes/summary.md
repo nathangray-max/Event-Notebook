@@ -3,11 +3,11 @@
 ## Summary
 Alana MacFarlane Kempner, founder of The Gut Stuff, a UK gut health brand, made the case for partnerships between brands, ingredient makers and educators. The Gut Stuff began as an education business and grew into products, an app, a podcast and a Channel 4 TV series.
 
-Her starting point is that gut health matters to almost everyone but information is complex and products are confusing and expensive. Her market figures: 80% of UK consumers consider gut health important, and in July 2024 searches for "gut health" edged ahead of "weight loss diet". Yet only 40% are confident they know what a healthy gut should feel like.
+Their starting point is that gut health matters to almost everyone but information is complex and products are confusing and expensive. Their market figures: 80% of UK consumers consider gut health important, and in July 2024 searches for "gut health" edged ahead of "weight loss diet". Yet only 40% are confident they know what a healthy gut should feel like.
 
-She then set out why probiotics disappoint. Customers expect quick results, with 19% expecting changes within a day, though the British Dietetic Association advises at least four weeks. They forget doses, do not track symptoms and do not know which product to trust. Brands lack data on who their customers are and whether the product helps.
+MacFarlane Kempner then set out why probiotics disappoint. Customers expect quick results, with 19% expecting changes within a day, though the British Dietetic Association advises at least four weeks. They forget doses, do not track symptoms and do not know which product to trust. Brands lack data on who their customers are and whether the product helps.
 
-Her answer is the partnership with Novonesis and PrecisionBiotics. Customers on a 12-week plan get free access to The Gut Stuff app, with education, tracking and reminders, and their consented data become real-world evidence. She closed on shared responsibility: emerging categories need collective voices.
+Their answer is the partnership with Novonesis and PrecisionBiotics. Customers on a 12-week plan get free access to The Gut Stuff app, with education, tracking and reminders, and their consented data become real-world evidence. MacFarlane Kempner closed on shared responsibility: emerging categories need collective voices.
 
 ## Key takeaways
 - Consumers care but are unsure: 96% know gut health affects their quality of life, yet only 40% are confident they know what a healthy gut should feel like, 33% are unsure and 27% have no idea (PrecisionBiotics research, 2024) (slide 6).

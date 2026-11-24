@@ -1,7 +1,7 @@
 # Personalised Health Panel
 
 ## Summary
-A short panel on the second day, chaired by Olivia Haslam of NutraIngredients, with Mariette Abrahams (Qina), Marimiina Pykälistö (a certified nutritionist), Femke Hoevenaars (TNO) and a fourth panellist Otter does not name.
+A short panel on the second day, chaired by Olivia Haslam of NutraIngredients, with Mariette Abrahams (Qina), Marimiina Pykälistö (nutritionist and consulting advisor), Femke Hoevenaars (TNO) and a fourth panellist Otter does not name.
 
 They agreed the field is moving from personalised nutrition to personalised health: lifestyle, mind and body, with tools that tell people what to do. Digital twins drew caution. Abrahams said fewer than five companies offer them and the term is used loosely; the others called them expensive, promising for research and not yet applicable.
 
@@ -29,11 +29,11 @@ To build trust they called for transparency and plain explanations of why an ing
 
 ## Detail
 - Names are Otter's speaker labels; roles come from the panellists' own decks at this event (abrahams-glp1-ai-personalised-nutrition, pykalisto-nutrigenomics). The fourth panellist is Otter's Speaker 3 (see to_check).
-- Pykälistö (label): referred to "my presentation"; the line about working "in France for an association" that trains professionals in epigenetics and runs genetic testing is under her label; she said even oncologists ask for genetic tools because patients want personalisation [01:22].
-- Hoevenaars: people need a road map of what they can do themselves [02:15]; she had seen digital twins used in Alzheimer's research and clinical practice, "really promising" [04:40].
+- Pykälistö (label): referred to "my presentation"; the line about working "in France for an association" that trains professionals in epigenetics and runs genetic testing is under the Pykälistö label; the same speaker said even oncologists ask for genetic tools because patients want personalisation [01:22].
+- Hoevenaars: people need a road map of what they can do themselves [02:15]; Hoevenaars had seen digital twins used in Alzheimer's research and clinical practice, "really promising" [04:40].
 - Pykälistö: those most in need cannot afford digital twins; a population-level twin with simpler measurements could help healthcare [04:13].
-- Abrahams: the EU AI Act came into force before other regulatory measures; she noted the Pope speaking on AI ethics [06:02] [06:39].
-- Speaker 3: doctors she works with use AI to look at patient data in a different way; her clients check ChatGPT answers with her by email; "We still need the human mind" [07:08] [07:45].
+- Abrahams: the EU AI Act came into force before other regulatory measures; Abrahams noted the Pope speaking on AI ethics [06:02] [06:39].
+- Speaker 3: doctors this panellist works with use AI to look at patient data in a different way; their clients check ChatGPT answers with them by email; "We still need the human mind" [07:08] [07:45].
 - Speaker 3 on weight: weight management is "the gate opener" to energy, muscle, sleep and fewer menopausal symptoms; longevity seekers "want to live until 120 years" [09:19].
 - Abrahams on trust: consumers want transparency and the counterpoint to benefits, not marketing; video is "exploding" [11:30].
 - Final answers: Pykälistö, inspired by "the previous talk of Nathan" (taken to be price-ai-scientific-wellness), wants statistics that show personalised recommendations work [13:18]; Speaker 3 wants a wearable or tool that gives people their own health data [13:51].

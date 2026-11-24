@@ -3,31 +3,31 @@
 ## Summary
 Mark Gilbert, a nutritionist at The 1:1 Diet by Cambridge Weight Plan and former ESSNA vice chair, challenged two established views about rapid weight loss with total diet replacement (TDR): that it costs disproportionately more lean body mass, and that the weight comes back faster.
 
-On lean mass, he showed that weight loss of any kind removes fat and lean mass in proportion to how much is lost, with or without exercise, and after bariatric surgery too. Exercise adds little to diet for weight or lean mass. Every study he found comparing rapid TDR with slower dieting seemed, he said, to show no greater loss of lean mass.
+On lean mass, Gilbert showed that weight loss of any kind removes fat and lean mass in proportion to how much is lost, with or without exercise, and after bariatric surgery too. Exercise adds little to diet for weight or lean mass. Every study Gilbert found comparing rapid TDR with slower dieting seemed, Gilbert said, to show no greater loss of lean mass.
 
-On regain, he cited the DROPLET trial and Susan Jebb: faster early loss did not lead to faster regain, and those who lost fast were more likely to reach their target. A Copenhagen study kept all of a 10 kg loss over three years of maintenance with meal replacements.
+On regain, Gilbert cited the DROPLET trial and Susan Jebb: faster early loss did not lead to faster regain, and those who lost fast were more likely to reach their target. A Copenhagen study kept all of a 10 kg loss over three years of maintenance with meal replacements.
 
-He closed by asking what lean mass is. Only about 40% is muscle; organs also shrink with weight loss, and that may be healthy. Calorie restriction also triggers autophagy, a cellular clean-up linked to longer lifespan in research from yeast to primates.
+Gilbert closed by asking what lean mass is. Only about 40% is muscle; organs also shrink with weight loss, and that may be healthy. Calorie restriction also triggers autophagy, a cellular clean-up linked to longer lifespan in research from yeast to primates.
 
 ## Key takeaways
 - Weight loss reduces both fat and lean body mass "in proportion to degree of weight loss", usually even with exercise, and bariatric surgery does the same (slide 6).
-- His conclusion on lean mass: "all of the comparator studies I found seem to disprove the idea that rapid, substantial weight loss (with TDR) causes greater LBM loss" (slide 16).
+- Their conclusion on lean mass: "all of the comparator studies I found seem to disprove the idea that rapid, substantial weight loss (with TDR) causes greater LBM loss" (slide 16).
 - In the TEMPO trial (101 postmenopausal women with obesity), severe restriction for 4 months gave twice the weight and fat loss of moderate restriction for 12 months, about 1.5 times as much lean mass loss, and no greater adverse effect on relative lean mass or grip strength (slide 12).
-- On regain, he said experts now believe the idea that fast loss means fast regain "is a myth", citing DROPLET and Susan Jebb: the rapid group "were more likely to achieve their target weight loss and more likely to stick with the programme" (slide 18) (slide 19).
+- On regain, Gilbert said experts now believe the idea that fast loss means fast regain "is a myth", citing DROPLET and Susan Jebb: the rapid group "were more likely to achieve their target weight loss and more likely to stick with the programme" (slide 18) (slide 19).
 - Only about 40% of lean body mass is muscle; other organs shrink with weight loss, and "it may be healthy for these other organs to shrink" (slide 22).
 
 ## For Vita Actives
-- Relevance medium: TDR and meal replacement products are a protein-led format, and his argument answers the muscle-loss worry that drives much of the weight-management protein story (slide 16). My reading: his data are a counterpoint brands will hear.
-- His view differs from the muscle-protection message heard elsewhere: GLP-1 users' named need is protecting muscle (beyond-the-glp-1-boom-nutrition, from-hype-to-healthspan-building-the). Both are valid; he argues lean mass loss is proportionate and partly not muscle, and he does not discuss GLP-1 medicines (slide 22). My reading: pitch protein and creatine for muscle on its own evidence, not on a claim that rapid weight loss uniquely wastes muscle.
+- Relevance medium: TDR and meal replacement products are a protein-led format, and their argument answers the muscle-loss worry that drives much of the weight-management protein story (slide 16). My reading: their data are a counterpoint brands will hear.
+- Their view differs from the muscle-protection message heard elsewhere: GLP-1 users' named need is protecting muscle (beyond-the-glp-1-boom-nutrition, from-hype-to-healthspan-building-the). Both are valid; Gilbert argues lean mass loss is proportionate and partly not muscle, and does not discuss GLP-1 medicines (slide 22). My reading: pitch protein and creatine for muscle on its own evidence, not on a claim that rapid weight loss uniquely wastes muscle.
 - Cambridge Weight Plan's 1:1 Diet is a TDR brand (slide 2). My reading: a possible customer for proteins and other meal-replacement ingredients.
 
 ## Quotes
-- "Research “shows clearly that the common claim that more rapid initial weight loss is associated with more rapid regain is false…" Susan Jebb, as quoted on his slide (slide 19)
+- "Research “shows clearly that the common claim that more rapid initial weight loss is associated with more rapid regain is false…" Susan Jebb, as quoted on Gilbert's slide (slide 19)
 - "Experts now believe this is a myth" (slide 18)
 - "Furthermore, it may be healthy for these other organs to shrink…" (slide 22)
 
 ## Detail
-- His roles: nutritionist at The 1:1 Diet by Cambridge Weight Plan; Science Committee at TDMR Europe; BASc (Nutrition), RNutr, CISSN; sports nutrition consultant on formulas, labels and regulation; pharma and clinical nutrition; former ESSNA vice chair; advisory board and columnist for M&F, Flex and Muscle Insider; co-founder of Fitness Genes and GoMetabolic (slide 2).
+- Their roles: nutritionist at The 1:1 Diet by Cambridge Weight Plan; Science Committee at TDMR Europe; BASc (Nutrition), RNutr, CISSN; sports nutrition consultant on formulas, labels and regulation; pharma and clinical nutrition; former ESSNA vice chair; advisory board and columnist for M&F, Flex and Muscle Insider; co-founder of Fitness Genes and GoMetabolic (slide 2).
 - Why lean mass matters: it is associated with healthy ageing, mobility, avoiding falls, survival and a higher metabolic rate, "BUT…Muscle is only one component of LBM" (slide 5).
 - Exercise: used for weight loss it usually reduces lean mass; with diet it adds small, often insignificant effects; sustained supervised exercise gives about 2 kg loss (Wing, 1999) (slide 7).
 - Weinheimer 2010 review: with diet, 75% of groups lost 5 to 10 kg; diet and exercise both left over 75% of groups losing 0 to 40% of fat-free mass; exercise gave under 5% loss in 94% of studies and 15% gained fat-free mass (slide 8) (slide 9).

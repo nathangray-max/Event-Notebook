@@ -1,13 +1,13 @@
 # Bifidobacterium longum subsp. iuvenis thrives around weaning and is adapted to transition from milk to solid diets
 
 ## Summary
-Olga Sakwinska of Nestlé Research presented the discovery of a new subspecies of a common infant gut bacterium. Her starting point: the gut microbiome of early life shapes later health, from growth and metabolism to infections and vaccine response.
+Olga Sakwinska of Nestlé Research presented the discovery of a new subspecies of a common infant gut bacterium. Their starting point: the gut microbiome of early life shapes later health, from growth and metabolism to infections and vaccine response.
 
 Bifidobacteria dominate the infant gut, and one subspecies, B. longum subsp. infantis, is built to feed on the sugars in breast milk. Nestlé followed 220 infants in Dhaka, Bangladesh, from birth to two years, with stool samples and metagenomic data. In that data a third group of B. longum turned up that was neither the infant nor the adult type. It peaked between about 10 and 24 months, in children eating both breast milk and solid food.
 
 The group was common in Bangladesh, at about 61%, and rare elsewhere. Nestlé isolated five strains, read their genomes and found they can digest both breast-milk sugars and food glycans. The group was named a new subspecies, B. longum subsp. iuvenis, in 2023.
 
-Her conclusion: B. l. iuvenis thrives around weaning and is adapted to the move from milk to solid food. The deck shows no product and no human trial of the strain.
+Their conclusion: B. l. iuvenis thrives around weaning and is adapted to the move from milk to solid food. The deck shows no product and no human trial of the strain.
 
 ## Key takeaways
 - A transitional clade of B. longum, distinct from the infant (infantis) and adult (longum) types, was found in the metagenomes of infants in a Nestlé cohort in Bangladesh (slide 8).

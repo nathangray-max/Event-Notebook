@@ -5,16 +5,16 @@ Mads Bjørnhof, Chief Commercial Officer of Migalis, a Danish supplement start-u
 
 The HMOs feed good bacteria. Pomegranate supplies compounds that some gut bacteria turn into urolithin A, and many people lack those bacteria. Urolithin A is said to support the clearing out and renewal of worn mitochondria.
 
-The evidence shown is one chart: urolithin A at about 4.9 mg/L with the blend, against about 1 with pomegranate alone, with no test type given. On stage he said the effect was confirmed in a lab gut simulation and a very small study, with clinical trials ahead. The focus is endurance athletes, for gut trouble, recovery and muscle fatigue; the product has soft-launched in Denmark.
+The evidence shown is one chart: urolithin A at about 4.9 mg/L with the blend, against about 1 with pomegranate alone, with no test type given. On stage Bjørnhof said the effect was confirmed in a lab gut simulation and a very small study, with clinical trials ahead. The focus is endurance athletes, for gut trouble, recovery and muscle fatigue; the product has soft-launched in Denmark.
 
-In the panel he said it is not a rival to taking urolithin A directly, and that which gut bacteria do the work is not yet known. He would put new money into research first.
+In the panel Bjørnhof said it is not a rival to taking urolithin A directly, and that which gut bacteria do the work is not yet known. Bjørnhof would put new money into research first.
 
 ## Key takeaways
 - The company's claim: urolithin A is a "metabolite that supports mitochondrial health through mitophagy", and many people lack the gut bacteria to make it; the blend "aims to support gut health and promote the production of urolithin A" (slide 4) (slide 2).
 - One chart shows urolithin A at about 0.35 mg/L (blank), 0.27 (HMO), 1.0 (pomegranate) and 4.9 (HMO plus pomegranate), read from the chart; no study design, source or sample is given (slide 4).
 - Target areas: brain, longevity and muscle, with endurance sport first: "Athletes struggle with GI challenges, recovery and muscle fatigue" (slide 6).
-- Human clinical trials are listed as a next step (slide 8); on stage he said the effect was confirmed "in in vitro gut simulation study as well as in very small" study, as Otter heard it, with "lots of trials ahead of us" [22:40].
-- Asked why not supplement urolithin A directly, he said "it's not sort of a competition", the aim being the natural process plus general gut health [40:38].
+- Human clinical trials are listed as a next step (slide 8); on stage Bjørnhof said the effect was confirmed "in in vitro gut simulation study as well as in very small" study, as Otter heard it, with "lots of trials ahead of us" [22:40].
+- Asked why not supplement urolithin A directly, Bjørnhof said "it's not sort of a competition", the aim being the natural process plus general gut health [40:38].
 - Which strain converts pomegranate to urolithin A is not known: "We just know that with HMOs, it works" [57:06].
 
 ## For Vita Actives

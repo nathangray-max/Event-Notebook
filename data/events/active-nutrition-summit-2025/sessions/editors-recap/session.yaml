@@ -6,12 +6,12 @@ end: ''
 format: other
 track: ''
 speakers:
-- name: Lauren
+- name: Lauren Nicolle
   organisation: NutraIngredients
-  role: Editor, co-host (Otter's label)
-- name: Olivia
+  role: Senior Reporter, summit host (programme)
+- name: Olivia Haslam
   organisation: NutraIngredients
-  role: Editor, co-host (Otter's label)
+  role: Section Editor, summit host (programme)
 themes: []
 categories: [sports, glp1, healthspan]
 tags: [market-data, regulation]
@@ -29,6 +29,8 @@ reviewed_date: ''
 attended_by: []
 links:
   otter: https://otter.ai/u/UPSSIpWj843Qlk-MxIGa_JyLCs0
-to_check: 'The editors'' surnames and roles (not said; first names and organisation are Otter''s labels); which talks "Steve''s presentation" and "Paul" refer to; time and room. The closing session of the summit, recorded on the last day.'
+to_check: The recording gives first names only (Otter's labels); the surnames and roles are the programme's summit hosts, its only Lauren
+  and Olivia. Which talks "Steve's presentation" and "Paul" refer to; time and room. The closing session of the summit, recorded on
+  the last day.
 added: '2026-11-24'
 added_by: Claude (from Nathan's archive upload, 24 Nov 2026)

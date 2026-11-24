@@ -1,15 +1,15 @@
 # DynaMAP – Precision metagenomics beyond sequencing
 
 ## Summary
-Arno Bouwens, R&D Director at Perseus Biomics, one of NutraIngredients' Probiota Pioneers for 2025, presented DynaMAP, the company's way of profiling a microbiome without sequencing. His problem: benefits are strain-specific and labels must name the strain, but today's methods have low resolution and sensitivity.
+Arno Bouwens, R&D Director at Perseus Biomics, one of NutraIngredients' Probiota Pioneers for 2025, presented DynaMAP, the company's way of profiling a microbiome without sequencing. Their problem: benefits are strain-specific and labels must name the strain, but today's methods have low resolution and sensitivity.
 
-DynaMAP labels long strands of native DNA with fluorescent dye at a short sequence motif, stretches and images them, and matches each pattern of dots to a reference database. Because it reads genome structure, he said it can tell apart strains almost identical in sequence, without PCR amplification.
+DynaMAP labels long strands of native DNA with fluorescent dye at a short sequence motif, stretches and images them, and matches each pattern of dots to a reference database. Because it reads genome structure, Bouwens said it can tell apart strains almost identical in sequence, without PCR amplification.
 
-His evidence is the company's own preprint. In a standard mock community all strains were found, spikes down to 0.1% were detected, and strains up to 99.9% identical were told apart. On a stool sample, results matched shotgun sequencing closely.
+Their evidence is the company's own preprint. In a standard mock community all strains were found, spikes down to 0.1% were detected, and strains up to 99.9% identical were told apart. On a stool sample, results matched shotgun sequencing closely.
 
-He closed with the roadmap: a profiling service from the company's lab in Belgium with under five days' turnaround, available now, and a benchtop device from the second quarter of 2025.
+Bouwens closed with the roadmap: a profiling service from the company's lab in Belgium with under five days' turnaround, available now, and a benchtop device from the second quarter of 2025.
 
-In the panel he said customers had failed to find their own probiotic in samples with amplification-based methods. His customers are experts, so the hurdle is conservatism, not education; new money would go on marketing.
+In the panel Bouwens said customers had failed to find their own probiotic in samples with amplification-based methods. Their customers are experts, so the hurdle is conservatism, not education; new money would go on marketing.
 
 ## Key takeaways
 - The pitch: strain specificity drives benefit, and labels must declare genus, species and strain, yet current methods face low resolution, sensitivity issues and noise (slide 2).
@@ -39,7 +39,7 @@ In the panel he said customers had failed to find their own probiotic in samples
 - Spoken: the central lab is "based in Belgium", turnaround "less than five days", and the device for use in a customer's own lab is being introduced "this year" [31:35].
 - The shotgun comparison used about 10 gigabases of sequencing [43:01].
 - Cost: "we were able to reach the same level as 60 this" (Otter; the method compared is unclear), including sample preparation and bioinformatics; a relative abundance profile is delivered [43:21].
-- Customers hold their data and can reprocess it, under the FAIR principles [50:35]. What makes a microbiome start-up stand out, he said, is data quality, comparable across technologies [53:58].
+- Customers hold their data and can reprocess it, under the FAIR principles [50:35]. What makes a microbiome start-up stand out, Bouwens said, is data quality, comparable across technologies [53:58].
 - All performance data are the company's own, from its preprint (bioRxiv, December 2024) (slide 6). Figures and the roadmap date from February 2025; whether the benchtop device launched is not known. No slide is marked Confidential.
 
 ## Follow-ups

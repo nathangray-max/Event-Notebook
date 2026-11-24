@@ -1,13 +1,13 @@
 # Editors' Recap
 
 ## Summary
-Two NutraIngredients editors, Lauren and Olivia, closed the summit with a six-minute run through what they had heard over three days.
+Two NutraIngredients hosts, Lauren Nicolle and Olivia Haslam, closed the summit with a six-minute run through what they had heard over three days.
 
 They went through the programme roughly in order. Protein is still big, with hydration supplements rising in the US. There is a gap between how worried people are about sleep and how many buy sleep products. GLP-1 remains a major topic, with brands labelling products as supporting GLP-1 and the question of whether they have the right to make that claim.
 
 From the female athlete session they took the culture of carbohydrate fear and a finding that the menstrual cycle may matter less than thought. Gut health and performance, personalisation, wearables that could mean fewer doctor visits, and a move from "healthy ageing" to "ageless" language followed. Cellular health, beauty from within and recovery were rising. Creatine as a possible semi-essential nutrient, regulation that makes it hard for brands to say what they want, and functional mushrooms rounded it off.
 
-Olivia named active parenting as a space to watch; Lauren suggested it for next year.
+Haslam named active parenting as a space to watch; Nicolle suggested it for next year.
 
 ## Key takeaways
 - Protein remains the biggest topic, and hydration supplements are rising in the US [00:00].

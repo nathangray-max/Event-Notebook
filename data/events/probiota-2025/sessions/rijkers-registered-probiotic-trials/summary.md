@@ -1,13 +1,13 @@
 # Clinical outcome of registered trials with probiotics
 
 ## Summary
-Ger Rijkers of University College Roosevelt in Middelburg, the Netherlands, presented a review of probiotic trials registered on ClinicalTrials.gov, with co-authors Samuel Varga and Tiara Dusselier. He declared grant support and lecture fees from the IPA.
+Ger Rijkers of University College Roosevelt in Middelburg, the Netherlands, presented a review of probiotic trials registered on ClinicalTrials.gov, with co-authors Samuel Varga and Tiara Dusselier. Rijkers declared grant support and lecture fees from the IPA.
 
 The question is whether registered probiotic trials show a clinical benefit. The team found 504 publications from registered trials. Gastrointestinal conditions led with 148 studies, then infants with 49 and metabolic disorders with 40.
 
 Those studies used 405 different outcome measures. The team set a strict bar for benefit: a significant improvement in a predefined clinical measure and also in the patient's own reported quality of life.
 
-The deck then charts the overall clinical benefit, compares metabolic with gastrointestinal trials and single-strain with multi-strain products, and looks at trends over time. Those results are in charts with no values in the deck's text. The most studied strains are LGG and BB-12, from his group's earlier global analysis published in 2020.
+The deck then charts the overall clinical benefit, compares metabolic with gastrointestinal trials and single-strain with multi-strain products, and looks at trends over time. Those results are in charts with no values in the deck's text. The most studied strains are LGG and BB-12, from Rijkers's group's earlier global analysis published in 2020.
 
 ## Key takeaways
 - Source: probiotic trials registered on ClinicalTrials.gov, leading to 504 publications (slide 5) (slide 7).
@@ -27,7 +27,7 @@ The deck then charts the overall clinical benefit, compares metabolic with gastr
 - "Most studied species: LGG and BB-12" (slide 19)
 
 ## Detail
-- Disclosure: grant support and lecture fees from the IPA; most of the work presented was done by his students and PhD students (slide 2).
+- Disclosure: grant support and lecture fees from the IPA; most of the work presented was done by Rijkers's students and PhD students (slide 2).
 - Probiotics are defined as "live microorganisms that, when administered in adequate amounts, confer a health benefit on the host" (slide 3).
 - The search used is ClinicalTrials.gov with the term "probiotics" (slide 5).
 - Charts without text values: the clinical outcome measures, the overall clinical benefit of probiotics, metabolic against gastrointestinal, and single against multi-species or multi-strain products (slide 13) (slide 14) (slide 15) (slide 16) (slide 18).

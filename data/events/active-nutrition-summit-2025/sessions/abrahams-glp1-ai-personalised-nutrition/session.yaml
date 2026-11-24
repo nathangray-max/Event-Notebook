@@ -4,11 +4,11 @@ date: '2025-06-24'
 start: ''
 end: ''
 format: talk
-track: ''
+track: Personalisation and New Technologies
 speakers:
 - name: Mariette Abrahams
   organisation: Qina
-  role: CEO & Founder
+  role: Founder and Chief Executive Officer
 themes: []
 categories: [glp1]
 tags: [ai, market-data]
@@ -30,10 +30,12 @@ reviewed_date: ''
 attended_by: []
 links:
   otter: https://otter.ai/u/IKJTH-eqncMjSj5SZqGf2nzP38w
-to_check: Start, end and track are not given; the day (24 June 2025) is the recording's date in Otter, and Nathan Price's talk, recorded
-  later the same day, refers back to it. The deck's cover calls the slot "Bytesize". The chair (Otter's "Speaker 1", called "Olivia"
-  by the speaker) is not fully named. Company and product names in the GLP-1 and Bayer passages are garbled by Otter ("care", "in tractor",
-  "car", "coon guru", "Lou"), as is the currency of Bayer's "two 50 million". The nutrient-gap study is cited on the slide as Johnson
-  et al 2025 and Mozzaffarian et al 2025; which one had 60 people is not said. Whether Nathan attended is not known.
+to_check: Start and end times are not given; the day (24 June 2025) is the recording's date in Otter and the programme's Day 2, and
+  Nathan Price's talk, recorded later the same day, refers back to it. The track is the programme's session block. The deck's cover
+  calls the slot "Bytesize". The chair (Otter's "Speaker 1", called "Olivia" by the speaker) is not fully named; the programme's only
+  Olivia is the host Olivia Haslam (NutraIngredients). Company and product names in the GLP-1 and Bayer passages are garbled by Otter
+  ("care", "in tractor", "car", "coon guru", "Lou"), as is the currency of Bayer's "two 50 million". The nutrient-gap study is cited
+  on the slide as Johnson et al 2025 and Mozzaffarian et al 2025; which one had 60 people is not said. The programme spells the name
+  "Mariëtte"; the deck's "Mariette" is kept. Whether Nathan attended is not known.
 added: '2026-11-24'
 added_by: Claude (from Nathan's archive upload and Otter recording, 24 Nov 2026)

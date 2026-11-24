@@ -3,11 +3,11 @@
 ## Summary
 Dr Deyan Yavorov Dayliev of Genbioma Aplicaciones presented its postbiotic, a heat-treated strain of Pediococcus acidilactici called pA1c®HI. The aim is to position it as a food supplement for blood sugar control in people with prediabetes and type 2 diabetes.
 
-He worked up from worms to mice to people. In worms it reversed the effect of glucose on insulin signalling, and kept working after ultra-high-temperature treatment. In mice on a high-fat diet it cut fasting blood glucose by almost half against controls, lowered leptin and raised GLP-1 in the colon.
+Dayliev worked up from worms to mice to people. In worms it reversed the effect of glucose on insulin signalling, and kept working after ultra-high-temperature treatment. In mice on a high-fat diet it cut fasting blood glucose by almost half against controls, lowered leptin and raised GLP-1 in the colon.
 
 In a 12-week pilot in 17 people with obesity, HbA1c fell 0.22% against placebo. In a small subgroup with prediabetes there were trends in insulin and weight, and fat mass fell 2.16 kg against placebo. In seven people with type 2 diabetes, with no placebo group, HbA1c fell 0.27% and LDL cholesterol fell too.
 
-He concluded the postbiotic improves short- and long-term blood sugar control and is a stable option for preventing type 2 diabetes. In questions he said its effect beside GLP-1 drugs has not been studied, and that three trials at a lower dose were running, with results expected before summer 2025.
+Dayliev concluded the postbiotic improves short- and long-term blood sugar control and is a stable option for preventing type 2 diabetes. In questions Dayliev said its effect beside GLP-1 drugs has not been studied, and that three trials at a lower dose were running, with results expected before summer 2025.
 
 ## Key takeaways
 - The pitch for postbiotics over probiotics: no need for live cells, so stable at ultra-high temperatures and in storage; the deck says few postbiotics have been studied for blood sugar (slide 2).
@@ -34,7 +34,7 @@ He concluded the postbiotic improves short- and long-term blood sugar control an
 - Pilot site: the University Hospital of Vinalopó, overseen by Bioithas, with ethics approval (slide 7). Fasting glucose rose 3.2 mg/dL on the postbiotic against 7.29 on placebo, not significant (p=0.43) (slide 8).
 - Prediabetes subgroup: HOMA-IR "tendency" to fall 25.6% at 6 weeks and 60.3% at 12 weeks against placebo (p=0.18); insulin down 9.74 μU/mL (50.2%, p=0.22); weight down 1.55 kg and BMI down 0.59 against baseline (p=0.04); against placebo, weight and BMI were trends only (p=0.08, p=0.06) (slide 11) (slide 12).
 - Type 2 diabetes series at the Public University of Navarra: fasting glucose down 15 mg/dL, a tendency only (slide 13) (slide 14).
-- The postbiotic still contains a small residue of live cells, which he suggested may explain the Pediococcus seen in the gut analysis [11:58].
+- The postbiotic still contains a small residue of live cells, which Dayliev suggested may explain the Pediococcus seen in the gut analysis [11:58].
 - The deck closes that the postbiotic holds promise as an innovative tool for blood sugar control in type 2 diabetes, and that it reduces BMI, body fat mass and cholesterol (slide 15). Figures date from February 2025. No slide is marked Confidential.
 
 ## Follow-ups

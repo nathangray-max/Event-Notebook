@@ -31,18 +31,18 @@ On regulation, George of the IPA said no government is yet ready to regulate pos
 
 ## Detail
 - Rescigno is developing a product Otter renders "postbiotics, mood", to be tested on zonulin and other leakiness markers plus a questionnaire, starting with people with anxiety and depression [00:46]. Day says ADM is running a trial in adults with Parkinson's [01:39].
-- Rescigno says her production set-up took almost 10 years and makes metabolites without culture medium, under patent [02:24].
+- Rescigno says the production set-up took almost 10 years and makes metabolites without culture medium, under patent [02:24].
 - Rescigno: postbiotics act fast and are host-independent, whereas a probiotic must survive the stomach, compete in the gut and depends on diet [03:41].
 - Guglielmetti's theoretical risks: antibiotic-resistance genes surviving in the DNA, and residual enzyme activity, neither shown to cause harm [06:22].
 - Pane: healthy people lack safety guidelines; in principle, a gram-negative postbiotic carrying lipopolysaccharide is less safe than live gram-positive bacteria; smaller molecules are likelier to spread through the body [08:55].
 - Day: ADM has worked on postbiotics for about 10 years, is moving into dogs, and has linked BPL1's metabolic effect to its lipoteichoic acid [11:29].
-- Rescigno sees less variability between people with postbiotics, as the end products act directly; she and Guglielmetti stress starting from a safe or approved strain [17:04] [18:15].
-- Day: depending on the definition, over 80% responded to both the probiotic and the postbiotic in the IBS trial; he says postbiotic research is at an early stage [18:46]. Wang sees effects that may be strain-specific [20:36].
-- Pane wants dose, quantity and validated methods behind any efficacy claim; he cites a number needed to treat of 67 for aspirin [21:16].
+- Rescigno sees less variability between people with postbiotics, as the end products act directly; Rescigno and Guglielmetti stress starting from a safe or approved strain [17:04] [18:15].
+- Day: depending on the definition, over 80% responded to both the probiotic and the postbiotic in the IBS trial; Day says postbiotic research is at an early stage [18:46]. Wang sees effects that may be strain-specific [20:36].
+- Pane wants dose, quantity and validated methods behind any efficacy claim; Pane cites a number needed to treat of 67 for aspirin [21:16].
 - Pane: flow cytometry is best for counting inactivated cells, and was the basis of the Akkermansia approval [23:40].
 - Day wants large, well-designed randomised controlled trials; Guglielmetti sees communication with regulators, through bodies like the IPA, as the main problem [26:46] [27:42].
 - Pane links the boom partly to probiotic market saturation and the search for new space [31:55]. Rescigno adds gynaecological uses and other mucosae [34:46].
-- To a questioner from what Otter renders "Dan on" (possibly Danone): Pane would use live cells for a metabolic outcome and inactivated cells for an immune one, testing both where possible; Rescigno says she has identified the metabolite behind each activity [35:52] [37:49].
+- To a questioner from what Otter renders "Dan on" (possibly Danone): Pane would use live cells for a metabolic outcome and inactivated cells for an immune one, testing both where possible; Rescigno says they have identified the metabolite behind each activity [35:52] [37:49].
 - To a questioner from DSM: Rescigno saw the postbiotic stabilise the microbiota in the cancer patients rather than change it; Day saw only modest taxonomic changes despite a large clinical effect in the IBS trial; Guglielmetti says exopolysaccharides can act as prebiotics; Pane does not trust microbiome composition as a marker of efficacy [39:48] [40:24] [41:27] [42:16].
 - The regulatory route in the EU is covered in more depth by the UCAM talk later in the event (ucam-postbiotics-new-frontier).
 

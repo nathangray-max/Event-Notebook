@@ -1,9 +1,9 @@
 # Fireside with Tonic Health
 
 ## Summary
-Sunna, founder and CEO of Tonic Health, a UK supplement brand, talked with Olivia of NutraIngredients about building a brand almost entirely on social media.
+Sunna Van Kampen, founder and CEO of Tonic Health, a UK supplement brand, talked with Olivia Haslam of NutraIngredients about building a brand almost entirely on social media.
 
-Sunna started the business during COVID after finding that most supermarket supplements were dosed too low to correct deficiencies. Their products use what they called the right doses, without sugar, sweeteners or additives. Science-heavy podcasts and newsletters did not work: focus groups showed customers had no time for them. What did work was short videos, under 60 seconds, telling people to swap one product for another and why. After 10 to 15 TikTok posts, one reached 250,000 views; the brand now gets 50 million views a month.
+Van Kampen started the business during COVID after finding that most supermarket supplements were dosed too low to correct deficiencies. Their products use what they called the right doses, without sugar, sweeteners or additives. Science-heavy podcasts and newsletters did not work: focus groups showed customers had no time for them. What did work was short videos, under 60 seconds, telling people to swap one product for another and why. After 10 to 15 TikTok posts, one reached 250,000 views; the brand now gets 50 million views a month.
 
 Their case is that consumers buy supplements on trust and awareness, so click-through rates per post miss the point; they credit the brand's growth entirely to social media. They never make medical claims, but argue the ASA holds back science, and that regulators should focus on safety and fake products, such as a creatine brand found to contain no creatine.
 
