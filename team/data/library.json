@@ -1,7 +1,7 @@
 {
  "schema": "confnotes.team/1",
  "built": "2026-11-24",
- "commit": "d68cead",
+ "commit": "95ccb11",
  "courses": [
   {
    "id": "nutra-healthspan-summit-2026",
@@ -29,7 +29,7 @@
       }
      ],
      "themes": [
-      "longevity-positioning"
+      "healthy-ageing"
      ],
      "ingredients": [],
      "level": "Background",
@@ -71,9 +71,8 @@
       }
      ],
      "themes": [
-      "longevity-positioning",
-      "branded-ingredients-differentiation",
-      "whey-price-squeeze"
+      "protein",
+      "healthy-ageing"
      ],
      "ingredients": [
       "protein",
@@ -145,10 +144,8 @@
       }
      ],
      "themes": [
-      "longevity-positioning",
-      "outcomes-over-mechanisms",
-      "glp-1-nutrition",
-      "ai-in-nutraceuticals"
+      "glp1-weight",
+      "healthy-ageing"
      ],
      "ingredients": [
       "vitamins",
@@ -245,12 +242,8 @@
       }
      ],
      "themes": [
-      "longevity-positioning",
-      "outcomes-over-mechanisms",
-      "creatine-beyond-strength",
-      "glp-1-nutrition",
-      "branded-ingredients-differentiation",
-      "muscle-health-beyond-protein"
+      "creatine-muscle",
+      "glp1-weight"
      ],
      "ingredients": [
       "NAD (Otter heard \"NAD\" and \"NAD Plus\")",
@@ -307,8 +300,8 @@
       }
      ],
      "themes": [
-      "probiotic-category-evolution",
-      "longevity-positioning"
+      "gut-health",
+      "healthy-ageing"
      ],
      "ingredients": [
       "bifidobacteria",
@@ -404,12 +397,8 @@
       }
      ],
      "themes": [
-      "outcomes-over-mechanisms",
-      "branded-ingredients-differentiation",
-      "marketing-compliance-social",
-      "ai-in-nutraceuticals",
-      "longevity-positioning",
-      "novel-proteins-and-blends"
+      "protein",
+      "healthy-ageing"
      ],
      "ingredients": [
       "amla (Indian gooseberry)",
@@ -474,9 +463,8 @@
       }
      ],
      "themes": [
-      "longevity-positioning",
-      "creatine-beyond-strength",
-      "muscle-health-beyond-protein"
+      "creatine-muscle",
+      "healthy-ageing"
      ],
      "ingredients": [
       "creatine",
@@ -540,10 +528,8 @@
       }
      ],
      "themes": [
-      "longevity-positioning",
-      "branded-ingredients-differentiation",
-      "outcomes-over-mechanisms",
-      "eu-regulation-brake"
+      "healthy-ageing",
+      "evidence-claims"
      ],
      "ingredients": [
       "NMN (nicotinamide mononucleotide; UTHEVER, EffePharm)",
@@ -590,9 +576,8 @@
       }
      ],
      "themes": [
-      "glp-1-nutrition",
-      "longevity-positioning",
-      "branded-ingredients-differentiation"
+      "glp1-weight",
+      "healthy-ageing"
      ],
      "ingredients": [
       "iron",
@@ -637,9 +622,7 @@
       }
      ],
      "themes": [
-      "ai-in-nutraceuticals",
-      "marketing-compliance-social",
-      "outcomes-over-mechanisms"
+      "evidence-claims"
      ],
      "ingredients": [
       "magnesium (citrate, glycinate, bisglycinate, threonate; Otter also heard \"L-3-on-8\")"
@@ -682,9 +665,8 @@
       }
      ],
      "themes": [
-      "ai-in-nutraceuticals",
-      "branded-ingredients-differentiation",
-      "cdmo-partnership-models"
+      "formats-supply",
+      "evidence-claims"
      ],
      "ingredients": [
       "avocatin B (from avocado; Otter heard \"avocat and B\"; ALT's product metavo)",
@@ -769,8 +751,7 @@
       }
      ],
      "themes": [
-      "ai-in-nutraceuticals",
-      "outcomes-over-mechanisms"
+      "evidence-claims"
      ],
      "ingredients": [],
      "level": "Essential",
@@ -818,9 +799,8 @@
       }
      ],
      "themes": [
-      "longevity-positioning",
-      "branded-ingredients-differentiation",
-      "marketing-compliance-social"
+      "healthy-ageing",
+      "evidence-claims"
      ],
      "ingredients": [
       "collagen (True Collagen, bovine; pictured on the title slide)",
@@ -870,10 +850,8 @@
       }
      ],
      "themes": [
-      "longevity-positioning",
-      "branded-ingredients-differentiation",
-      "delivery-formats",
-      "supply-security"
+      "healthy-ageing",
+      "formats-supply"
      ],
      "ingredients": [
       "Centella asiatica extract formulated with phospholipids (CAP; Centextra in the in vitro paper)",
@@ -934,14 +912,8 @@
       }
      ],
      "themes": [
-      "whey-price-squeeze",
-      "sports-nutrition-mainstream",
-      "novel-proteins-and-blends",
-      "creatine-beyond-strength",
-      "hydration-electrolytes",
-      "branded-ingredients-differentiation",
-      "longevity-positioning",
-      "glp-1-nutrition"
+      "creatine-muscle",
+      "protein"
      ],
      "ingredients": [
       "whey protein",
@@ -1019,10 +991,8 @@
       }
      ],
      "themes": [
-      "whey-price-squeeze",
-      "supply-security",
-      "glp-1-nutrition",
-      "sports-nutrition-mainstream"
+      "protein",
+      "glp1-weight"
      ],
      "ingredients": [
       "whey protein",
@@ -1118,9 +1088,7 @@
       }
      ],
      "themes": [
-      "marketing-compliance-social",
-      "ai-in-nutraceuticals",
-      "outcomes-over-mechanisms"
+      "evidence-claims"
      ],
      "ingredients": [
       "creatine",
@@ -1168,9 +1136,8 @@
       }
      ],
      "themes": [
-      "female-athlete-nutrition",
-      "creatine-beyond-strength",
-      "branded-ingredients-differentiation"
+      "creatine-muscle",
+      "womens-health"
      ],
      "ingredients": [
       "creatine",
@@ -1230,9 +1197,8 @@
       }
      ],
      "themes": [
-      "carbohydrate-fuelling",
-      "female-athlete-nutrition",
-      "branded-ingredients-differentiation"
+      "womens-health",
+      "sports-performance"
      ],
      "ingredients": [
       "carbohydrate",
@@ -1300,9 +1266,8 @@
       }
      ],
      "themes": [
-      "whey-price-squeeze",
-      "novel-proteins-and-blends",
-      "muscle-health-beyond-protein"
+      "creatine-muscle",
+      "protein"
      ],
      "ingredients": [
       "whey protein",
@@ -1362,9 +1327,8 @@
       }
      ],
      "themes": [
-      "sports-nutrition-mainstream",
-      "creatine-beyond-strength",
-      "delivery-formats"
+      "creatine-muscle",
+      "sports-performance"
      ],
      "ingredients": [
       "creatine",
@@ -1417,9 +1381,7 @@
       }
      ],
      "themes": [
-      "outcomes-over-mechanisms",
-      "branded-ingredients-differentiation",
-      "marketing-compliance-social"
+      "evidence-claims"
      ],
      "ingredients": [
       "polyphenols",
@@ -1478,8 +1440,8 @@
       }
      ],
      "themes": [
-      "carbohydrate-fuelling",
-      "female-athlete-nutrition"
+      "womens-health",
+      "sports-performance"
      ],
      "ingredients": [
       "carbohydrate",
@@ -1528,8 +1490,8 @@
       }
      ],
      "themes": [
-      "glp-1-nutrition",
-      "sports-nutrition-mainstream"
+      "glp1-weight",
+      "sports-performance"
      ],
      "ingredients": [
       "protein",
@@ -1586,9 +1548,8 @@
       }
      ],
      "themes": [
-      "glp-1-nutrition",
-      "muscle-health-beyond-protein",
-      "outcomes-over-mechanisms"
+      "creatine-muscle",
+      "glp1-weight"
      ],
      "ingredients": [
       "protein",
@@ -1657,10 +1618,8 @@
       }
      ],
      "themes": [
-      "glp-1-nutrition",
-      "whey-price-squeeze",
-      "novel-proteins-and-blends",
-      "creatine-beyond-strength"
+      "creatine-muscle",
+      "protein"
      ],
      "ingredients": [
       "protein",
@@ -1730,10 +1689,8 @@
       }
      ],
      "themes": [
-      "longevity-positioning",
-      "muscle-health-beyond-protein",
-      "branded-ingredients-differentiation",
-      "supply-security"
+      "creatine-muscle",
+      "healthy-ageing"
      ],
      "ingredients": [
       "krill oil (Superba Krill, Superba2, Superba Boost)",
@@ -1779,9 +1736,8 @@
       }
      ],
      "themes": [
-      "ai-in-nutraceuticals",
-      "cdmo-partnership-models",
-      "delivery-formats"
+      "formats-supply",
+      "evidence-claims"
      ],
      "ingredients": [
       "phospholipids",
@@ -1837,12 +1793,8 @@
       }
      ],
      "themes": [
-      "creatine-beyond-strength",
-      "delivery-formats",
-      "branded-ingredients-differentiation",
-      "hydration-electrolytes",
-      "sports-nutrition-mainstream",
-      "cdmo-partnership-models"
+      "creatine-muscle",
+      "sports-performance"
      ],
      "ingredients": [
       "CreaWin",
@@ -1894,10 +1846,8 @@
       }
      ],
      "themes": [
-      "longevity-positioning",
-      "creatine-beyond-strength",
-      "outcomes-over-mechanisms",
-      "delivery-formats"
+      "creatine-muscle",
+      "healthy-ageing"
      ],
      "ingredients": [
       "creatine",
@@ -1956,10 +1906,8 @@
       }
      ],
      "themes": [
-      "muscle-health-beyond-protein",
-      "ai-in-nutraceuticals",
-      "branded-ingredients-differentiation",
-      "cdmo-partnership-models"
+      "creatine-muscle",
+      "formats-supply"
      ],
      "ingredients": [
       "PeptiStrong",
@@ -2018,9 +1966,8 @@
       }
      ],
      "themes": [
-      "longevity-positioning",
-      "branded-ingredients-differentiation",
-      "delivery-formats"
+      "healthy-ageing",
+      "formats-supply"
      ],
      "ingredients": [
       "Kaneka Ubiquinol",
@@ -2075,9 +2022,8 @@
       }
      ],
      "themes": [
-      "delivery-formats",
-      "muscle-health-beyond-protein",
-      "branded-ingredients-differentiation"
+      "creatine-muscle",
+      "formats-supply"
      ],
      "ingredients": [
       "NovaSOL Curcumin",
@@ -2131,10 +2077,8 @@
       }
      ],
      "themes": [
-      "muscle-health-beyond-protein",
-      "supply-security",
-      "eu-regulation-brake",
-      "longevity-positioning"
+      "creatine-muscle",
+      "healthy-ageing"
      ],
      "ingredients": [
       "RhoSera",
@@ -2185,10 +2129,8 @@
       }
      ],
      "themes": [
-      "creatine-beyond-strength",
-      "branded-ingredients-differentiation",
-      "delivery-formats",
-      "cdmo-partnership-models"
+      "creatine-muscle",
+      "formats-supply"
      ],
      "ingredients": [
       "creatine",
@@ -2243,10 +2185,8 @@
       }
      ],
      "themes": [
-      "longevity-positioning",
-      "creatine-beyond-strength",
-      "cdmo-partnership-models",
-      "delivery-formats"
+      "creatine-muscle",
+      "healthy-ageing"
      ],
      "ingredients": [
       "creatine",
@@ -2297,10 +2237,8 @@
       }
      ],
      "themes": [
-      "novel-proteins-and-blends",
-      "eu-regulation-brake",
-      "longevity-positioning",
-      "glp-1-nutrition"
+      "protein",
+      "glp1-weight"
      ],
      "ingredients": [
       "Fermotein (The Protein Brewery, mycelium protein)",
@@ -2352,9 +2290,8 @@
       }
      ],
      "themes": [
-      "outcomes-over-mechanisms",
-      "longevity-positioning",
-      "glp-1-nutrition"
+      "glp1-weight",
+      "healthy-ageing"
      ],
      "ingredients": [
       "NAD boosters (nicotinamide riboside, nicotinamide mononucleotide, nicotinamide)",
@@ -2412,7 +2349,7 @@
       }
      ],
      "themes": [
-      "cdmo-partnership-models"
+      "formats-supply"
      ],
      "ingredients": [],
      "level": "Recommended",
@@ -2474,10 +2411,8 @@
       }
      ],
      "themes": [
-      "eu-regulation-brake",
-      "supply-security",
-      "ai-in-nutraceuticals",
-      "outcomes-over-mechanisms"
+      "formats-supply",
+      "evidence-claims"
      ],
      "ingredients": [
       "creatine",
@@ -2531,9 +2466,8 @@
       }
      ],
      "themes": [
-      "probiotic-category-evolution",
-      "outcomes-over-mechanisms",
-      "eu-regulation-brake"
+      "gut-health",
+      "evidence-claims"
      ],
      "ingredients": [
       "probiotics",
@@ -2596,9 +2530,8 @@
       }
      ],
      "themes": [
-      "probiotic-category-evolution",
-      "cdmo-partnership-models",
-      "branded-ingredients-differentiation"
+      "gut-health",
+      "formats-supply"
      ],
      "ingredients": [
       "Lactoflorene (Montefarmaco)",
@@ -2650,10 +2583,8 @@
       }
      ],
      "themes": [
-      "probiotic-category-evolution",
-      "muscle-health-beyond-protein",
-      "longevity-positioning",
-      "cdmo-partnership-models"
+      "creatine-muscle",
+      "gut-health"
      ],
      "ingredients": [
       "CA15 (Sacco, L. rhamnosus CA15 DSM 33960, patented strain)",
@@ -2710,10 +2641,8 @@
       }
      ],
      "themes": [
-      "delivery-formats",
-      "probiotic-category-evolution",
-      "hydration-electrolytes",
-      "glp-1-nutrition"
+      "glp1-weight",
+      "gut-health"
      ],
      "ingredients": [
       "Compressol ProTab (SPI Pharma; polyol-based chewable platform)",
@@ -2761,15 +2690,19 @@
    ]
   }
  ],
- "topics": [
+ "themes": [
   {
-   "id": "whey-price-squeeze",
-   "name": "Whey price squeeze and protein reformulation",
-   "description": "Record whey protein prices in 2026 and what brands do about them (price, pack size, blends, hybrids, portfolio shifts).",
+   "id": "creatine-muscle",
+   "name": "Creatine and muscle",
+   "description": "Creatine beyond the gym, and keeping muscle with age.",
    "lessons": [
     {
      "event": "nutra-healthspan-summit-2026",
-     "session": "euromonitor-who-is-winning-healthspan"
+     "session": "from-hype-to-healthspan-building-the"
+    },
+    {
+     "event": "nutra-healthspan-summit-2026",
+     "session": "nutrition-to-improve-mitochondrial-functions"
     },
     {
      "event": "sans-europe-2026",
@@ -2777,7 +2710,7 @@
     },
     {
      "event": "sans-europe-2026",
-     "session": "unfiltered-an-insider-s-view-of"
+     "session": "fuelling-female-performance"
     },
     {
      "event": "sans-europe-2026",
@@ -2785,22 +2718,15 @@
     },
     {
      "event": "sans-europe-2026",
-     "session": "beyond-the-glp-1-boom-nutrition"
-    }
-   ]
-  },
-  {
-   "id": "supply-security",
-   "name": "Ingredient supply security",
-   "description": "Structural supply limits and shocks (whey from cheese, fish oil, wild botanicals) and the move to secured or cultivated supply.",
-   "lessons": [
-    {
-     "event": "nutra-healthspan-summit-2026",
-     "session": "indena-longevity-appearance"
+     "session": "built-in-the-gym-turning-athlete"
     },
     {
      "event": "sans-europe-2026",
-     "session": "unfiltered-an-insider-s-view-of"
+     "session": "from-hype-to-proof-the-science"
+    },
+    {
+     "event": "sans-europe-2026",
+     "session": "beyond-the-glp-1-boom-nutrition"
     },
     {
      "event": "remedy-cdmo-2026",
@@ -2808,19 +2734,47 @@
     },
     {
      "event": "remedy-cdmo-2026",
+     "session": "nathan-gray-creatine-new-buyers"
+    },
+    {
+     "event": "remedy-cdmo-2026",
+     "session": "nick-morgan-longevity"
+    },
+    {
+     "event": "remedy-cdmo-2026",
+     "session": "nuritas-peptistrong"
+    },
+    {
+     "event": "remedy-cdmo-2026",
+     "session": "novosol-optimsm"
+    },
+    {
+     "event": "remedy-cdmo-2026",
      "session": "martin-bauer-rhosera"
     },
     {
      "event": "remedy-cdmo-2026",
-     "session": "panel-evidence-regulation-ai"
+     "session": "solabia-launches"
+    },
+    {
+     "event": "remedy-cdmo-2026",
+     "session": "tantus-longevity-concepts"
+    },
+    {
+     "event": "remedy-cdmo-2026",
+     "session": "sacco-probiotics"
     }
    ]
   },
   {
-   "id": "novel-proteins-and-blends",
-   "name": "Novel proteins, hybrids and blends",
-   "description": "New protein sources (mycelium, plant, peptides) and blends (dairy plus plant, whey plus collagen) as the answer to cost and benefit.",
+   "id": "protein",
+   "name": "Protein",
+   "description": "Protein prices, blends and new protein sources.",
    "lessons": [
+    {
+     "event": "nutra-healthspan-summit-2026",
+     "session": "euromonitor-who-is-winning-healthspan"
+    },
     {
      "event": "nutra-healthspan-summit-2026",
      "session": "consumer-insights-straight-from-the-horse"
@@ -2828,6 +2782,10 @@
     {
      "event": "sans-europe-2026",
      "session": "a-bigger-sports-nutrition-landscape-growth"
+    },
+    {
+     "event": "sans-europe-2026",
+     "session": "unfiltered-an-insider-s-view-of"
     },
     {
      "event": "sans-europe-2026",
@@ -2844,36 +2802,9 @@
    ]
   },
   {
-   "id": "sports-nutrition-mainstream",
-   "name": "Sports nutrition going mainstream",
-   "description": "Protein and sports ingredients entering everyday food and drink, with the identity and value tensions that brings.",
-   "lessons": [
-    {
-     "event": "sans-europe-2026",
-     "session": "a-bigger-sports-nutrition-landscape-growth"
-    },
-    {
-     "event": "sans-europe-2026",
-     "session": "unfiltered-an-insider-s-view-of"
-    },
-    {
-     "event": "sans-europe-2026",
-     "session": "built-in-the-gym-turning-athlete"
-    },
-    {
-     "event": "sans-europe-2026",
-     "session": "glp-won-market-opportunities-for-the"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "nathan-gray-creatine-new-buyers"
-    }
-   ]
-  },
-  {
-   "id": "glp-1-nutrition",
-   "name": "GLP-1 users as a nutrition market",
-   "description": "Protein, fibre and companion products for people on GLP-1 medicines, and GLP-1 as a demand driver.",
+   "id": "glp1-weight",
+   "name": "GLP-1 and weight",
+   "description": "What people on GLP-1 medicines need, and the market around them.",
    "lessons": [
     {
      "event": "nutra-healthspan-summit-2026",
@@ -2889,10 +2820,6 @@
     },
     {
      "event": "sans-europe-2026",
-     "session": "a-bigger-sports-nutrition-landscape-growth"
-    },
-    {
-     "event": "sans-europe-2026",
      "session": "unfiltered-an-insider-s-view-of"
     },
     {
@@ -2902,10 +2829,6 @@
     {
      "event": "sans-europe-2026",
      "session": "from-hype-to-proof-the-science"
-    },
-    {
-     "event": "sans-europe-2026",
-     "session": "beyond-the-glp-1-boom-nutrition"
     },
     {
      "event": "remedy-cdmo-2026",
@@ -2922,9 +2845,82 @@
    ]
   },
   {
-   "id": "longevity-positioning",
-   "name": "Longevity and healthspan positioning",
-   "description": "Selling ingredients and products on healthy ageing, cellular health and healthspan rather than lifespan, and the words consumers respond to.",
+   "id": "womens-health",
+   "name": "Women's health",
+   "description": "Nutrition for women, from athletes to menopause.",
+   "lessons": [
+    {
+     "event": "sans-europe-2026",
+     "session": "fuelling-female-performance"
+    },
+    {
+     "event": "sans-europe-2026",
+     "session": "fuelling-the-female-runner-from-paper"
+    },
+    {
+     "event": "sans-europe-2026",
+     "session": "fuel-the-frame-carbohydrate-recovery-and"
+    }
+   ]
+  },
+  {
+   "id": "gut-health",
+   "name": "Gut health",
+   "description": "Probiotics, prebiotics and the microbiome.",
+   "lessons": [
+    {
+     "event": "nutra-healthspan-summit-2026",
+     "session": "jens-walter-microbiome-ageing"
+    },
+    {
+     "event": "remedy-cdmo-2026",
+     "session": "hmt-probiotic-market"
+    },
+    {
+     "event": "remedy-cdmo-2026",
+     "session": "novonesis-montefarmaco"
+    },
+    {
+     "event": "remedy-cdmo-2026",
+     "session": "sacco-probiotics"
+    },
+    {
+     "event": "remedy-cdmo-2026",
+     "session": "spi-pharma-nordic-biotic"
+    }
+   ]
+  },
+  {
+   "id": "sports-performance",
+   "name": "Sports and performance",
+   "description": "Sports nutrition going mainstream: fuelling, hydration and recovery.",
+   "lessons": [
+    {
+     "event": "sans-europe-2026",
+     "session": "fuelling-the-female-runner-from-paper"
+    },
+    {
+     "event": "sans-europe-2026",
+     "session": "built-in-the-gym-turning-athlete"
+    },
+    {
+     "event": "sans-europe-2026",
+     "session": "fuel-the-frame-carbohydrate-recovery-and"
+    },
+    {
+     "event": "sans-europe-2026",
+     "session": "glp-won-market-opportunities-for-the"
+    },
+    {
+     "event": "remedy-cdmo-2026",
+     "session": "nathan-gray-creatine-new-buyers"
+    }
+   ]
+  },
+  {
+   "id": "healthy-ageing",
+   "name": "Healthy ageing",
+   "description": "Longevity and healthspan, and how they are sold.",
    "lessons": [
     {
      "event": "nutra-healthspan-summit-2026",
@@ -2940,10 +2936,6 @@
     },
     {
      "event": "nutra-healthspan-summit-2026",
-     "session": "from-hype-to-healthspan-building-the"
-    },
-    {
-     "event": "nutra-healthspan-summit-2026",
      "session": "jens-walter-microbiome-ageing"
     },
     {
@@ -2971,10 +2963,6 @@
      "session": "indena-longevity-appearance"
     },
     {
-     "event": "sans-europe-2026",
-     "session": "a-bigger-sports-nutrition-landscape-growth"
-    },
-    {
      "event": "remedy-cdmo-2026",
      "session": "aker-biomarine-krill-peakspan"
     },
@@ -2996,168 +2984,26 @@
     },
     {
      "event": "remedy-cdmo-2026",
-     "session": "protein-brewery-fermotein"
-    },
-    {
-     "event": "remedy-cdmo-2026",
      "session": "alex-glover-holland-barrett"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "sacco-probiotics"
     }
    ]
   },
   {
-   "id": "creatine-beyond-strength",
-   "name": "Creatine beyond strength",
-   "description": "Creatine repositioned for healthspan, cognition and women, and moved into new formats (gummies, chewables, chocolates).",
+   "id": "formats-supply",
+   "name": "Formats and supply",
+   "description": "New dosage forms, contract manufacturers and secure supply.",
    "lessons": [
-    {
-     "event": "nutra-healthspan-summit-2026",
-     "session": "from-hype-to-healthspan-building-the"
-    },
-    {
-     "event": "nutra-healthspan-summit-2026",
-     "session": "nutrition-to-improve-mitochondrial-functions"
-    },
-    {
-     "event": "sans-europe-2026",
-     "session": "a-bigger-sports-nutrition-landscape-growth"
-    },
-    {
-     "event": "sans-europe-2026",
-     "session": "fuelling-female-performance"
-    },
-    {
-     "event": "sans-europe-2026",
-     "session": "built-in-the-gym-turning-athlete"
-    },
-    {
-     "event": "sans-europe-2026",
-     "session": "beyond-the-glp-1-boom-nutrition"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "nathan-gray-creatine-new-buyers"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "nick-morgan-longevity"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "solabia-launches"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "tantus-longevity-concepts"
-    }
-   ]
-  },
-  {
-   "id": "muscle-health-beyond-protein",
-   "name": "Muscle health beyond protein",
-   "description": "Ingredients claimed to support muscle in ageing or inactivity beyond protein itself (peptides, botanicals, probiotics, MSM).",
-   "lessons": [
-    {
-     "event": "nutra-healthspan-summit-2026",
-     "session": "from-hype-to-healthspan-building-the"
-    },
-    {
-     "event": "nutra-healthspan-summit-2026",
-     "session": "nutrition-to-improve-mitochondrial-functions"
-    },
-    {
-     "event": "sans-europe-2026",
-     "session": "whey-collagen-the-protein-power-couple"
-    },
-    {
-     "event": "sans-europe-2026",
-     "session": "from-hype-to-proof-the-science"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "aker-biomarine-krill-peakspan"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "nuritas-peptistrong"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "novosol-optimsm"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "martin-bauer-rhosera"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "sacco-probiotics"
-    }
-   ]
-  },
-  {
-   "id": "branded-ingredients-differentiation",
-   "name": "Branded ingredients and science as differentiation",
-   "description": "Branded, clinically documented ingredients and memorable naming as the way to stand out among thousands of products.",
-   "lessons": [
-    {
-     "event": "nutra-healthspan-summit-2026",
-     "session": "euromonitor-who-is-winning-healthspan"
-    },
-    {
-     "event": "nutra-healthspan-summit-2026",
-     "session": "from-hype-to-healthspan-building-the"
-    },
-    {
-     "event": "nutra-healthspan-summit-2026",
-     "session": "consumer-insights-straight-from-the-horse"
-    },
-    {
-     "event": "nutra-healthspan-summit-2026",
-     "session": "uthever-nmn-nad-metabolism-sleep-health"
-    },
-    {
-     "event": "nutra-healthspan-summit-2026",
-     "session": "absorbed-or-assumed-why-pharmacokinetic"
-    },
     {
      "event": "nutra-healthspan-summit-2026",
      "session": "artificial-intelligence-to-rapidly-develop"
-    },
-    {
-     "event": "nutra-healthspan-summit-2026",
-     "session": "ancient-brave-womens-healthspan"
     },
     {
      "event": "nutra-healthspan-summit-2026",
      "session": "indena-longevity-appearance"
     },
     {
-     "event": "sans-europe-2026",
-     "session": "a-bigger-sports-nutrition-landscape-growth"
-    },
-    {
-     "event": "sans-europe-2026",
-     "session": "fuelling-female-performance"
-    },
-    {
-     "event": "sans-europe-2026",
-     "session": "fuelling-the-female-runner-from-paper"
-    },
-    {
-     "event": "sans-europe-2026",
-     "session": "is-the-juice-worth-the-squeeze"
-    },
-    {
      "event": "remedy-cdmo-2026",
-     "session": "aker-biomarine-krill-peakspan"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "nathan-gray-creatine-new-buyers"
+     "session": "favea-ai-mental-shift"
     },
     {
      "event": "remedy-cdmo-2026",
@@ -3174,244 +3020,6 @@
     {
      "event": "remedy-cdmo-2026",
      "session": "solabia-launches"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "novonesis-montefarmaco"
-    }
-   ]
-  },
-  {
-   "id": "outcomes-over-mechanisms",
-   "name": "Consumer outcomes over mechanisms",
-   "description": "Consumers and retailers buy felt benefits (sleep, joints, energy), not biomarkers or mechanisms; science has to be translated.",
-   "lessons": [
-    {
-     "event": "nutra-healthspan-summit-2026",
-     "session": "lumina-new-longevity-consumer"
-    },
-    {
-     "event": "nutra-healthspan-summit-2026",
-     "session": "from-hype-to-healthspan-building-the"
-    },
-    {
-     "event": "nutra-healthspan-summit-2026",
-     "session": "consumer-insights-straight-from-the-horse"
-    },
-    {
-     "event": "nutra-healthspan-summit-2026",
-     "session": "uthever-nmn-nad-metabolism-sleep-health"
-    },
-    {
-     "event": "nutra-healthspan-summit-2026",
-     "session": "ai-driven-personalization-at-scale"
-    },
-    {
-     "event": "nutra-healthspan-summit-2026",
-     "session": "from-data-to-decisions-personalizing"
-    },
-    {
-     "event": "sans-europe-2026",
-     "session": "clicks-to-community-turning-digital-engagement"
-    },
-    {
-     "event": "sans-europe-2026",
-     "session": "is-the-juice-worth-the-squeeze"
-    },
-    {
-     "event": "sans-europe-2026",
-     "session": "from-hype-to-proof-the-science"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "nick-morgan-longevity"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "alex-glover-holland-barrett"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "panel-evidence-regulation-ai"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "hmt-probiotic-market"
-    }
-   ]
-  },
-  {
-   "id": "delivery-formats",
-   "name": "New dosage forms and delivery systems",
-   "description": "Chewables, effervescents, fast melts, sticks, micellar and cap-in-cap systems as product differentiation and compliance aids.",
-   "lessons": [
-    {
-     "event": "nutra-healthspan-summit-2026",
-     "session": "indena-longevity-appearance"
-    },
-    {
-     "event": "sans-europe-2026",
-     "session": "built-in-the-gym-turning-athlete"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "favea-ai-mental-shift"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "nathan-gray-creatine-new-buyers"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "nick-morgan-longevity"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "kaneka-ubiquinol"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "novosol-optimsm"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "solabia-launches"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "tantus-longevity-concepts"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "spi-pharma-nordic-biotic"
-    }
-   ]
-  },
-  {
-   "id": "eu-regulation-brake",
-   "name": "EU claims and regulation as a brake",
-   "description": "EU health-claim and novel-food rules slowing innovation, and the workarounds (borrowed claims, emotional branding, lawyers early).",
-   "lessons": [
-    {
-     "event": "nutra-healthspan-summit-2026",
-     "session": "uthever-nmn-nad-metabolism-sleep-health"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "martin-bauer-rhosera"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "protein-brewery-fermotein"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "panel-evidence-regulation-ai"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "hmt-probiotic-market"
-    }
-   ]
-  },
-  {
-   "id": "marketing-compliance-social",
-   "name": "Compliance and education in digital marketing",
-   "description": "Influencer and social content built on education and humanised science, policed by advertising rules and reviewed for claims.",
-   "lessons": [
-    {
-     "event": "nutra-healthspan-summit-2026",
-     "session": "consumer-insights-straight-from-the-horse"
-    },
-    {
-     "event": "nutra-healthspan-summit-2026",
-     "session": "ai-driven-personalization-at-scale"
-    },
-    {
-     "event": "nutra-healthspan-summit-2026",
-     "session": "ancient-brave-womens-healthspan"
-    },
-    {
-     "event": "sans-europe-2026",
-     "session": "clicks-to-community-turning-digital-engagement"
-    },
-    {
-     "event": "sans-europe-2026",
-     "session": "is-the-juice-worth-the-squeeze"
-    }
-   ]
-  },
-  {
-   "id": "ai-in-nutraceuticals",
-   "name": "AI in discovery, factories and marketing",
-   "description": "AI used to find ingredients, run plants, check compliance and scale content, with a human kept in the loop.",
-   "lessons": [
-    {
-     "event": "nutra-healthspan-summit-2026",
-     "session": "lumina-new-longevity-consumer"
-    },
-    {
-     "event": "nutra-healthspan-summit-2026",
-     "session": "consumer-insights-straight-from-the-horse"
-    },
-    {
-     "event": "nutra-healthspan-summit-2026",
-     "session": "ai-driven-personalization-at-scale"
-    },
-    {
-     "event": "nutra-healthspan-summit-2026",
-     "session": "artificial-intelligence-to-rapidly-develop"
-    },
-    {
-     "event": "nutra-healthspan-summit-2026",
-     "session": "from-data-to-decisions-personalizing"
-    },
-    {
-     "event": "sans-europe-2026",
-     "session": "clicks-to-community-turning-digital-engagement"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "favea-ai-mental-shift"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "nuritas-peptistrong"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "panel-evidence-regulation-ai"
-    }
-   ]
-  },
-  {
-   "id": "cdmo-partnership-models",
-   "name": "Supplier and CDMO co-development",
-   "description": "Ingredient suppliers, CDMOs and brands co-developing concepts and sharing science, and the platforms that connect them.",
-   "lessons": [
-    {
-     "event": "nutra-healthspan-summit-2026",
-     "session": "artificial-intelligence-to-rapidly-develop"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "favea-ai-mental-shift"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "nathan-gray-creatine-new-buyers"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "nuritas-peptistrong"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "solabia-launches"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "tantus-longevity-concepts"
     },
     {
      "event": "remedy-cdmo-2026",
@@ -3419,91 +3027,58 @@
     },
     {
      "event": "remedy-cdmo-2026",
-     "session": "novonesis-montefarmaco"
+     "session": "panel-evidence-regulation-ai"
     },
     {
      "event": "remedy-cdmo-2026",
-     "session": "sacco-probiotics"
+     "session": "novonesis-montefarmaco"
     }
    ]
   },
   {
-   "id": "probiotic-category-evolution",
-   "name": "Probiotic category evolution",
-   "description": "From CFU counts to documented strains, new indications (women's health, ageing, mental balance) and whole-ecosystem claims.",
+   "id": "evidence-claims",
+   "name": "Evidence and claims",
+   "description": "Proof, branded ingredients, EU rules and AI.",
    "lessons": [
     {
      "event": "nutra-healthspan-summit-2026",
-     "session": "jens-walter-microbiome-ageing"
+     "session": "uthever-nmn-nad-metabolism-sleep-health"
+    },
+    {
+     "event": "nutra-healthspan-summit-2026",
+     "session": "ai-driven-personalization-at-scale"
+    },
+    {
+     "event": "nutra-healthspan-summit-2026",
+     "session": "artificial-intelligence-to-rapidly-develop"
+    },
+    {
+     "event": "nutra-healthspan-summit-2026",
+     "session": "from-data-to-decisions-personalizing"
+    },
+    {
+     "event": "nutra-healthspan-summit-2026",
+     "session": "ancient-brave-womens-healthspan"
+    },
+    {
+     "event": "sans-europe-2026",
+     "session": "clicks-to-community-turning-digital-engagement"
+    },
+    {
+     "event": "sans-europe-2026",
+     "session": "is-the-juice-worth-the-squeeze"
+    },
+    {
+     "event": "remedy-cdmo-2026",
+     "session": "favea-ai-mental-shift"
+    },
+    {
+     "event": "remedy-cdmo-2026",
+     "session": "panel-evidence-regulation-ai"
     },
     {
      "event": "remedy-cdmo-2026",
      "session": "hmt-probiotic-market"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "novonesis-montefarmaco"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "sacco-probiotics"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "spi-pharma-nordic-biotic"
-    }
-   ]
-  },
-  {
-   "id": "carbohydrate-fuelling",
-   "name": "Carbohydrate fuelling science",
-   "description": "Intake rates, dual-source blends and personalisation for endurance performance.",
-   "lessons": [
-    {
-     "event": "sans-europe-2026",
-     "session": "fuelling-the-female-runner-from-paper"
-    },
-    {
-     "event": "sans-europe-2026",
-     "session": "fuel-the-frame-carbohydrate-recovery-and"
-    }
-   ]
-  },
-  {
-   "id": "female-athlete-nutrition",
-   "name": "Female athlete nutrition",
-   "description": "Evidence and products for women in sport, and the knowledge and tolerance barriers to fuelling.",
-   "lessons": [
-    {
-     "event": "sans-europe-2026",
-     "session": "fuelling-female-performance"
-    },
-    {
-     "event": "sans-europe-2026",
-     "session": "fuelling-the-female-runner-from-paper"
-    },
-    {
-     "event": "sans-europe-2026",
-     "session": "fuel-the-frame-carbohydrate-recovery-and"
-    }
-   ]
-  },
-  {
-   "id": "hydration-electrolytes",
-   "name": "Hydration and electrolytes",
-   "description": "Everyday, superior and performance hydration positioning, wide sodium doses, and hydration formats as a growth category.",
-   "lessons": [
-    {
-     "event": "sans-europe-2026",
-     "session": "a-bigger-sports-nutrition-landscape-growth"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "nathan-gray-creatine-new-buyers"
-    },
-    {
-     "event": "remedy-cdmo-2026",
-     "session": "spi-pharma-nordic-biotic"
     }
    ]
   }

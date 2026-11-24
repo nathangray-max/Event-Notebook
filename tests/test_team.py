@@ -33,7 +33,7 @@ def test_confidential_sessions_never_reach_the_team_library(fixture_copy, tmp_pa
     assert "creatine-beyond-muscle" not in text
     lib = json.loads(text)
     assert all(l["id"] != "creatine-beyond-muscle" for c in lib["courses"] for l in c["lessons"])
-    assert "creatine-beyond-muscle" not in json.dumps(lib["topics"])
+    assert "creatine-beyond-muscle" not in json.dumps(lib["themes"])
 
 
 def test_team_build_refuses_to_name_a_confidential_lead(fixture_copy, tmp_path):
@@ -44,3 +44,10 @@ def test_team_build_refuses_to_name_a_confidential_lead(fixture_copy, tmp_path):
     with pytest.raises(team.TeamLeak):
         team.write(tmp_path / "team", fixture_copy, stamp=STAMP, render=False)
     assert not (tmp_path / "team" / "data" / "library.json").exists()
+
+
+def test_basic_themes_are_few_and_ordered():
+    assert team.basic_themes(["longevity-positioning", "creatine-beyond-strength", "delivery-formats"]) == ["creatine-muscle", "healthy-ageing"]
+    assert team.basic_themes(["ai-in-nutraceuticals"]) == ["evidence-claims"]
+    assert team.basic_themes([]) == []
+    assert len(team.BASIC_THEMES) <= 10

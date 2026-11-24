@@ -27,6 +27,30 @@ SLIDE_WIDTH = 1400          # px, rendered deck pages and photos are scaled to t
 WEBP_QUALITY = 72
 LEVELS = {"high": "Essential", "medium": "Recommended", "low": "Background"}
 
+# The team sees a few plain themes, not the admin store's 19 (Nathan, 24 Nov 2026). Each groups admin theme ids; a talk
+# takes at most two, in this order, so the broad ones (formats, evidence) apply only when nothing more specific does.
+BASIC_THEMES = [
+    ("creatine-muscle", "Creatine and muscle", "Creatine beyond the gym, and keeping muscle with age.",
+     ["creatine-beyond-strength", "muscle-health-beyond-protein"]),
+    ("protein", "Protein", "Protein prices, blends and new protein sources.", ["whey-price-squeeze", "novel-proteins-and-blends"]),
+    ("glp1-weight", "GLP-1 and weight", "What people on GLP-1 medicines need, and the market around them.", ["glp-1-nutrition"]),
+    ("womens-health", "Women's health", "Nutrition for women, from athletes to menopause.", ["female-athlete-nutrition"]),
+    ("gut-health", "Gut health", "Probiotics, prebiotics and the microbiome.", ["probiotic-category-evolution"]),
+    ("sports-performance", "Sports and performance", "Sports nutrition going mainstream: fuelling, hydration and recovery.",
+     ["sports-nutrition-mainstream", "carbohydrate-fuelling", "hydration-electrolytes"]),
+    ("healthy-ageing", "Healthy ageing", "Longevity and healthspan, and how they are sold.", ["longevity-positioning"]),
+    ("formats-supply", "Formats and supply", "New dosage forms, contract manufacturers and secure supply.",
+     ["delivery-formats", "cdmo-partnership-models", "supply-security"]),
+    ("evidence-claims", "Evidence and claims", "Proof, branded ingredients, EU rules and AI.",
+     ["branded-ingredients-differentiation", "outcomes-over-mechanisms", "eu-regulation-brake", "marketing-compliance-social",
+      "ai-in-nutraceuticals"]),
+]
+
+
+def basic_themes(admin_ids: List[str]) -> List[str]:
+    have = set(admin_ids or [])
+    return [b for b, _n, _d, ids in BASIC_THEMES if have & set(ids)][:2]
+
 
 class TeamLeak(Exception):
     pass
@@ -47,7 +71,7 @@ def _lesson(e: Dict[str, Any], s: Dict[str, Any], slides: int) -> Dict[str, Any]
     sm = s.get("summary") or {}
     return {
         "id": s["id"], "event": e["id"], "title": s["title"], "date": s.get("date"), "start": s.get("start"),
-        "format": s.get("format"), "speakers": s.get("speakers") or [], "themes": s.get("themes") or [],
+        "format": s.get("format"), "speakers": s.get("speakers") or [], "themes": basic_themes(s.get("themes") or []),
         "ingredients": s.get("ingredients") or [], "level": LEVELS.get(s.get("relevance") or "", "Recommended"),
         "summary": sm.get("Summary", ""), "takeaways": [t["text"] for t in s.get("takeaways") or []],
         "for_us": sm.get("For Vita Actives", ""), "quotes": [q["text"] for q in s.get("quotes") or []],
@@ -136,14 +160,13 @@ def library(data: Dict[str, Any], root: Path, out: Path, render: bool = True) ->
         courses.append({"id": e["id"], "name": e["name"], "short": e.get("short") or e["name"], "start": e.get("start"),
                         "end": e.get("end"), "city": e.get("city"), "country": e.get("country"),
                         "organiser": e.get("organiser"), "description": e.get("description"), "lessons": lessons})
-    public = {(c["id"], l["id"]) for c in courses for l in c["lessons"]}
-    topics = []
-    for t in data["themes"]:
-        ls = [{"event": x["event"], "session": x["session"]} for x in t.get("sessions", []) if (x["event"], x["session"]) in public]
+    themes = []
+    for bid, name, desc, _ids in BASIC_THEMES:
+        ls = [{"event": c["id"], "session": l["id"]} for c in courses for l in c["lessons"] if bid in l["themes"]]
         if ls:
-            topics.append({"id": t["id"], "name": t["name"], "description": t.get("description", ""), "lessons": ls})
+            themes.append({"id": bid, "name": name, "description": desc, "lessons": ls})
     return {"schema": "confnotes.team/1", "built": data["generated"]["date"], "commit": data["generated"]["commit"],
-            "courses": courses, "topics": topics}
+            "courses": courses, "themes": themes}
 
 
 def write(out: Path = OUT, root: str | Path = DATA, stamp: Dict[str, Any] | None = None, render: bool = True) -> Dict[str, Any]:

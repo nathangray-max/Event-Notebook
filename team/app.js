@@ -1,263 +1,238 @@
-/* Show Learning Library: the team's view of the conference notes. Data: data/library.json (non-confidential lessons
-   only, built by `python -m confnotes team`) and slides/<event>--<session>.json (each lesson's slide images). */
+/* Show Learning Library, field guide edition. Data: data/library.json (non-confidential talks only, built by
+   `python -m confnotes team`) and slides/<event>--<session>.json (each talk's slide images). Progress lives in this browser. */
 (function () {
   "use strict";
-  var LIB = null, LESSONS = [], BY_KEY = {}, TOPIC = {};
+  var LIB = null, LESSONS = [], BY_KEY = {}, THEME = {}, COURSE = {};
   var app = document.getElementById("app");
+  var essentialOnly = false;
 
-  // ---------- small helpers ----------
+  // ---------- helpers ----------
   function esc(s) { return String(s == null ? "" : s).replace(/[&<>"']/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]; }); }
   function key(l) { return l.event + "--" + l.id; }
-  function fmtDate(d) {
-    if (!d) return "";
-    var p = d.split("-"), m = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
-    return (+p[2]) + " " + m[+p[1] - 1] + " " + p[0];
+  var MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+  function fmtDate(d) { if (!d) return ""; var p = d.split("-"); return (+p[2]) + " " + MONTHS[+p[1] - 1] + " " + p[0]; }
+  function shortDate(d) { if (!d) return ""; var p = d.split("-"); return (+p[2]) + " " + MONTHS[+p[1] - 1]; }
+  function names(l, max) {
+    var s = (l.speakers || []).filter(function (p) { return p.name; }).map(function (p) { return p.name; });
+    if (!s.length) return "Speaker to confirm";
+    return max && s.length > max ? s.slice(0, max).join(", ") + " and " + (s.length - max) + " more" : s.join(", ");
   }
-  function dayLabel(d) {
-    if (!d) return "Date to confirm";
-    var w = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"][new Date(d + "T12:00:00").getDay()];
-    return w + " " + fmtDate(d);
-  }
-  function speakers(l, plain, max) {
+  function byline(l) {
     var s = (l.speakers || []).filter(function (p) { return p.name; });
-    if (!s.length) return "";
-    if (max && s.length > max) return esc(s.slice(0, max).map(function (p) { return p.name; }).join(", ")) + " and " + (s.length - max) + " more";
-    return s.map(function (p) {
-      var org = p.organisation ? (plain ? ", " + esc(p.organisation) : " <span>" + esc(p.organisation) + "</span>") : "";
-      return plain ? esc(p.name) + org : "<span><b>" + esc(p.name) + "</b>" + org + "</span>";
-    }).join(plain ? "; " : "");
+    if (!s.length) return "<span>Speaker to confirm</span>";
+    return s.slice(0, 4).map(function (p) { return "<b>" + esc(p.name) + "</b>" + (p.organisation ? ", " + esc(p.organisation) : ""); }).join(" · ") +
+      (s.length > 4 ? " · and " + (s.length - 4) + " more" : "");
   }
   function level(l) { return '<span class="level level-' + esc(l.level) + '">' + esc(l.level) + "</span>"; }
-
-  // Source references: [12:40] and (notes) are dropped for the team; (slide N) and (photo N) become buttons that open the
-  // slide in the player; a lesson id in brackets becomes a link to that lesson.
-  function cleanText(text, l) {
+  function slideFor(text, l) {
+    if (!l.slides) return 0;
+    var re = l.slide_source === "deck" ? /\(slides? (\d+)\)/i : /\(photos? (\d+)\)/i, m = re.exec(text);
+    return m && +m[1] <= l.slides ? +m[1] : 0;
+  }
+  // Source references for the team: timestamps and (notes) go; (slide N) / (photo N) become small buttons, or nothing
+  // when asked (learnings carry their slide on the whole row); a lesson id in brackets becomes a link to that talk.
+  function clean(text, l, refs) {
     var t = esc(text);
-    t = t.replace(/\s*\[(\d{1,2}:)?\d{1,2}:\d{2}\](,\s*\[(\d{1,2}:)?\d{1,2}:\d{2}\])*/g, "");
-    t = t.replace(/\s*\((notes|otter)\)/gi, "");
-    t = t.replace(/\((slide|photo)s? (\d+)\)/gi, function (m, kind, n) {
-      var usable = l && l.slides && ((kind.toLowerCase() === "slide" && l.slide_source === "deck") || (kind.toLowerCase() === "photo" && l.slide_source === "photos"));
-      return usable && +n <= l.slides ? '<button type="button" class="slide-ref" data-slide="' + n + '">slide ' + n + "</button>" : "";
+    t = t.replace(/\s*\[(\d{1,2}:)?\d{1,2}:\d{2}\](,\s*\[(\d{1,2}:)?\d{1,2}:\d{2}\])*/g, "").replace(/\s*\((notes|otter)\)/gi, "");
+    t = t.replace(/\s*\((slide|photo)s? (\d+)\)/gi, function (m, kind, n) {
+      var ok = refs && l.slides && +n <= l.slides && ((kind.toLowerCase() === "slide") === (l.slide_source === "deck"));
+      return ok ? ' <button type="button" class="slide-ref" data-slide="' + n + '">slide ' + n + "</button>" : "";
     });
     t = t.replace(/\(([a-z0-9]+(?:-[a-z0-9]+){2,})\)/g, function (m, id) {
       var hit = LESSONS.filter(function (x) { return x.id === id; })[0];
       return hit ? '(see <a href="#' + key(hit) + '">' + esc(hit.title) + "</a>)" : "";
     });
-    t = t.replace(/\*\*(.+?)\*\*/g, "<b>$1</b>").replace(/\s+([.,;])/g, "$1");
-    return t;
+    return t.replace(/\*\*(.+?)\*\*/g, "<b>$1</b>").replace(/\s+([.,;:])/g, "$1");
   }
   function prose(md, l) {
-    var out = [], list = null;
+    var blocks = [], cur = null;
     (md || "").split("\n").forEach(function (line) {
       var m = /^\s*[-*]\s+(.*)$/.exec(line);
-      if (m) { if (!list) { list = []; out.push(list); } list.push(cleanText(m[1], l)); return; }
-      if (!line.trim()) { list = null; if (out.length && out[out.length - 1] !== null) out.push(null); return; }
-      if (list && /^\s{2,}/.test(line)) { list[list.length - 1] += " " + cleanText(line.trim(), l); return; }
-      list = null;
-      if (typeof out[out.length - 1] === "string" && !/^\s*$/.test(line)) out[out.length - 1] += " " + cleanText(line.trim(), l);
-      else out.push(cleanText(line.trim(), l));
+      if (m) { if (!cur || cur.t !== "ul") { cur = { t: "ul", items: [] }; blocks.push(cur); } cur.items.push(m[1]); return; }
+      if (!line.trim()) { cur = null; return; }
+      if (cur && cur.t === "ul") { cur.items[cur.items.length - 1] += " " + line.trim(); return; }
+      if (cur && cur.t === "p") { cur.text += " " + line.trim(); return; }
+      cur = { t: "p", text: line.trim() }; blocks.push(cur);
     });
-    return out.filter(function (b) { return b !== null; }).map(function (b) { return typeof b === "string" ? "<p>" + b + "</p>" : "<ul>" + b.map(function (i) { return "<li>" + i + "</li>"; }).join("") + "</ul>"; }).join("");
+    return blocks.map(function (b) {
+      return b.t === "p" ? "<p>" + clean(b.text, l, true) + "</p>" : "<ul>" + b.items.map(function (i) { return "<li>" + clean(i, l, true) + "</li>"; }).join("") + "</ul>";
+    }).join("");
   }
 
-  // ---------- per-viewer progress (this browser only) ----------
+  // ---------- progress, in this browser only ----------
   function load(k, d) { try { var v = localStorage.getItem(k); return v ? JSON.parse(v) : d; } catch (e) { return d; } }
   function save(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) { /* storage blocked: progress is not kept */ } }
-  var done = load("sll-done", {});
+  var done = load("sll-done", {}), seen = load("sll-seen", {});
   function isDone(l) { return !!done[key(l)]; }
   function setDone(l, v) { if (v) done[key(l)] = 1; else delete done[key(l)]; save("sll-done", done); updateCount(); }
-  function updateCount() {
-    var n = LESSONS.filter(isDone).length;
-    document.getElementById("done-count").textContent = n + "/" + LESSONS.length;
-  }
-  function courseDone(c) { return c.lessons.filter(isDone).length; }
+  function seenCount(l) { return Math.min(seen[key(l)] || 0, l.slides || 0); }
+  function markSeen(l, n) { if (n > (seen[key(l)] || 0)) { seen[key(l)] = n; save("sll-seen", seen); } }
+  function pct(l) { return isDone(l) ? 100 : (l.slides ? Math.round(100 * seenCount(l) / l.slides) : 0); }
+  function updateCount() { document.getElementById("done-count").textContent = LESSONS.filter(isDone).length + "/" + LESSONS.length; }
 
-  // ---------- views ----------
-  function home() {
-    var nSlides = LESSONS.reduce(function (a, l) { return a + (l.slides || 0); }, 0);
-    var last = BY_KEY[load("sll-last", "")];
-    var essentials = LESSONS.filter(function (l) { return l.level === "Essential" && !isDone(l); }).slice(0, 6);
-    var h = '<section class="hero"><div class="wrap"><div>' +
-      '<span class="eyebrow">Autumn 2026 show season</span>' +
-      "<h1>What we learned at the shows</h1>" +
-      '<p class="lead">Each talk our team attended, as a short lesson: the speaker\'s slides, the key learnings, a summary and what it means for Vita Actives.</p>' +
-      '<div class="hero-actions"><a class="btn btn-primary" href="#essentials">Start with the essentials</a>' +
-      '<a class="btn btn-ghost" href="#topics">Browse by topic</a></div></div>' +
-      '<div class="stats"><div class="stat"><b>' + LIB.courses.length + "</b><span>shows</span></div>" +
-      '<div class="stat"><b>' + LESSONS.length + "</b><span>talks</span></div>" +
-      '<div class="stat"><b>' + nSlides + "</b><span>slides</span></div></div></div></section>";
-    h += '<div class="wrap">';
-    if (last) {
-      h += '<section class="section"><div class="continue"><div><span class="eyebrow">Continue</span><h3>' + esc(last.title) + '</h3><span class="meta">' +
-        esc(courseOf(last).short) + "</span></div><a class=\"btn btn-primary\" href=\"#" + key(last) + '">Open</a></div></section>';
-    }
-    h += '<section class="section"><div class="section-head"><h2>Shows</h2><p>Each show is a course; each talk a lesson.</p></div><div class="courses">' +
-      LIB.courses.map(courseCard).join("") + "</div></section>";
-    if (essentials.length) {
-      h += '<section class="section" id="essentials-row"><div class="section-head"><h2>Essential talks</h2><p>The talks that matter most to our range and customers.</p></div>' +
-        '<div class="lesson-cards">' + essentials.map(lessonCard).join("") + '</div><p class="meta" style="margin-top:12px"><a href="#essentials">See all essential talks</a></p></section>';
-    }
-    h += '<section class="section"><div class="section-head"><h2>Topics</h2><p>Themes that ran across the shows.</p></div><div class="topics">' +
-      LIB.topics.map(function (t) { return '<a class="chip" href="#topic-' + esc(t.id) + '">' + esc(t.name) + " · " + t.lessons.length + "</a>"; }).join("") + "</div></section>";
-    h += '<div style="height:32px"></div></div>';
-    return h;
+  // ---------- the hub ----------
+  function rail(current) {
+    function item(href, label, n) { return '<a href="#' + href + '"' + (current === href ? ' aria-current="page"' : "") + ">" + esc(label) + "<span>" + n + "</span></a>"; }
+    return '<nav class="rail" aria-label="Browse"><div class="rail-inner">' +
+      item("home", "All talks", LESSONS.length) + item("essentials", "Essential", LESSONS.filter(function (l) { return l.level === "Essential"; }).length) +
+      item("my-learning", "My learning", LESSONS.filter(isDone).length) +
+      "<h4>Themes</h4>" + LIB.themes.map(function (t) { return item("theme-" + t.id, t.name, t.lessons.length); }).join("") +
+      "<h4>Shows</h4>" + LIB.courses.map(function (c) { return item(c.id, c.short, c.lessons.length); }).join("") + "</div></nav>";
   }
-  function courseOf(l) { return LIB.courses.filter(function (c) { return c.id === l.event; })[0]; }
-  function courseCard(c) {
-    var cover = (c.lessons.filter(function (l) { return l.thumb && l.level === "Essential"; })[0] || c.lessons.filter(function (l) { return l.thumb; })[0] || {}).thumb;
-    var n = courseDone(c), pct = Math.round(100 * n / c.lessons.length);
-    var where = [c.city, c.country].filter(Boolean).join(", ");
-    return '<a class="course-card" href="#' + esc(c.id) + '"><div class="cover">' + (cover ? '<img alt="" src="' + cover + '">' : "") +
-      '<span class="cover-label">' + c.lessons.length + " talks</span></div>" +
-      '<div class="course-body"><h3>' + esc(c.name) + '</h3><p>' + esc(dates(c)) + (where ? " · " + esc(where) : "") + "</p>" +
-      '<div class="course-foot"><div class="bar"><span style="width:' + pct + '%"></span></div><span class="meta"><span>' + n + " of " + c.lessons.length +
-      ' done</span><span>' + c.lessons.filter(function (l) { return l.level === "Essential"; }).length + " essential</span></span></div></div></a>";
+  function talkRow(l) {
+    var c = COURSE[l.event], p = pct(l);
+    return '<li class="talk"><a href="#' + key(l) + '"><div class="thumb">' + (l.thumb ? '<img alt="" loading="lazy" src="' + l.thumb + '">' : '<span class="none">No slides</span>') +
+      (isDone(l) ? '<span class="tick">✓ Done</span>' : "") + '</div><div class="talk-body"><h3>' + esc(l.title) + " " + level(l) + "</h3>" +
+      '<span class="meta">' + esc(names(l, 3)) + "</span>" + '<span class="meta">' + esc(c.short) + " · " + esc(shortDate(l.date)) + (l.slides ? " · " + l.slides + " slides" : "") + "</span>" +
+      (p && !isDone(l) ? '<div class="minibar" title="' + p + '% of the deck seen"><span style="width:' + p + '%"></span></div>' : "") + "</div></a></li>";
   }
-  function dates(c) {
-    if (!c.start) return "";
-    if (!c.end || c.end === c.start) return fmtDate(c.start);
-    var a = c.start.split("-"), b = c.end.split("-");
-    return a[1] === b[1] ? (+a[2]) + "–" + fmtDate(c.end) : fmtDate(c.start) + " – " + fmtDate(c.end);
+  function hub(current, kicker, title, lede, lessons, showFilter) {
+    var list = essentialOnly && showFilter ? lessons.filter(function (l) { return l.level === "Essential"; }) : lessons;
+    return '<div class="hub">' + rail(current) + '<section class="hub-main"><header class="hub-head"><span class="kicker">' + esc(kicker) + "</span><h1>" + esc(title) + "</h1>" +
+      (lede ? '<p class="lede">' + esc(lede) + "</p>" : "") + "</header>" +
+      (showFilter ? '<div class="filters"><button type="button" class="chip" id="ess" aria-pressed="' + essentialOnly + '">Essential only</button>' +
+        '<span class="meta" style="align-self:center">' + list.length + (list.length === 1 ? " talk" : " talks") + "</span></div>" : "") +
+      (list.length ? '<ol class="talks">' + list.map(talkRow).join("") + "</ol>" : '<p class="empty-note">No talks here yet.</p>') + "</section></div>";
   }
-  function lessonCard(l) {
-    return '<a class="lesson-card" href="#' + key(l) + '">' + level(l) + "<h3>" + esc(l.title) + '</h3><span class="meta">' +
-      (speakers(l, true, 3) || "Speaker to confirm") + "</span>" + '<span class="meta">' + esc(courseOf(l).short) + (l.slides ? " · " + l.slides + " slides" : "") +
-      (isDone(l) ? " · done" : "") + "</span></a>";
-  }
+  function ordered(ls) { return ls.slice().sort(function (a, b) { return (b.date || "").localeCompare(a.date || "") || (a.start || "").localeCompare(b.start || ""); }); }
 
-  function course(c) {
-    var n = courseDone(c), pct = Math.round(100 * n / c.lessons.length);
-    var h = '<section class="course-hero"><div class="wrap"><nav class="crumbs"><a href="#home">Library</a><span>/</span><span>' + esc(c.short) + "</span></nav>" +
-      "<h1>" + esc(c.name) + '</h1><p class="meta">' + esc(dates(c)) + ([c.city, c.country].filter(Boolean).length ? " · " + esc([c.city, c.country].filter(Boolean).join(", ")) : "") +
-      (c.organiser ? " · " + esc(c.organiser) : "") + "</p>" +
-      '<div class="course-progress"><div class="bar"><span style="width:' + pct + '%"></span></div><span class="meta tab-num">' + n + " of " + c.lessons.length + " done</span></div></div></section>";
-    h += '<div class="wrap" style="padding-bottom:48px">';
-    var days = {};
-    c.lessons.forEach(function (l) { (days[l.date || ""] = days[l.date || ""] || []).push(l); });
-    var i = 0;
-    Object.keys(days).sort().forEach(function (d) {
-      h += '<h2 class="day">' + esc(dayLabel(d)) + '</h2><ol class="lesson-list">' + days[d].map(function (l) { return row(l, ++i); }).join("") + "</ol>";
-    });
-    return h + "</div>";
+  // ---------- a talk ----------
+  function related(l) {
+    var c = COURSE[l.event], i = c.lessons.indexOf(l), next = c.lessons[i + 1] || null;
+    var scored = LESSONS.filter(function (x) { return x !== l && x !== next; }).map(function (x) {
+      var shared = x.themes.filter(function (t) { return l.themes.indexOf(t) >= 0; }).length;
+      return { x: x, s: shared * 3 + (x.event === l.event ? 1 : 0) + (x.level === "Essential" ? 1 : 0) + (x.thumb ? 1 : 0) - (isDone(x) ? 2 : 0) };
+    }).sort(function (a, b) { return b.s - a.s; }).slice(0, 6).map(function (o) { return o.x; });
+    return { next: next, more: scored };
   }
-  function row(l, i) {
-    return '<li class="lesson-row' + (isDone(l) ? " done" : "") + '"><a href="#' + key(l) + '"><span class="tick">' + (isDone(l) ? "✓" : i) + "</span>" +
-      '<span><span class="title">' + esc(l.title) + '</span><br><span class="sub">' + (l.start ? esc(l.start) + " · " : "") + (speakers(l, true, 3) || "Speaker to confirm") + "</span></span>" +
-      '<span class="row-side">' + level(l) + (l.slides ? '<span class="meta tab-num">' + l.slides + " slides</span>" : "") + "</span></a></li>";
+  function tile(x) {
+    return '<a href="#' + key(x) + '"><div class="thumb">' + (x.thumb ? '<img alt="" src="' + x.thumb + '">' : '<span class="none">No slides</span>') + "</div><b>" +
+      esc(x.title.length > 70 ? x.title.slice(0, 68) + "…" : x.title) + "</b><span>" + esc(COURSE[x.event].short) + (x.slides ? " · " + x.slides + " slides" : "") + "</span></a>";
   }
-
+  function exploreHtml(l, noSlides) {
+    var r = related(l), first = r.next || r.more[0], more = r.next ? r.more : r.more.slice(1);
+    return '<div class="explore" id="explore"><div class="explore-head"><h2>' + (noSlides ? "No slides were shared for this talk. Explore related talks" : "Now explore") + "</h2>" +
+      (noSlides ? "" : '<button type="button" id="replay">↺ Back to the first slide</button>') + "</div>" +
+      (first ? '<a class="up-next" href="#' + key(first) + '"><div class="thumb">' + (first.thumb ? '<img alt="" src="' + first.thumb + '">' : "") + '</div><div><span class="kicker" style="color:var(--lime)">' +
+        (r.next ? "Up next in " + esc(COURSE[l.event].short) : "Related") + "</span><br><b>" + esc(first.title) + "</b><br><span>" + esc(names(first, 2)) + "</span></div></a>" : "") +
+      '<div class="explore-grid">' + more.slice(0, 6).map(tile).join("") + "</div></div>";
+  }
   function lesson(l) {
-    var c = courseOf(l);
-    var outline = '<aside class="outline" aria-label="Talks in this show"><h2>' + esc(c.short) + '</h2><p class="meta">' + courseDone(c) + " of " + c.lessons.length +
-      " done</p><ol>" + c.lessons.map(function (x, i) {
-        return '<li class="' + (isDone(x) ? "done" : "") + '"><a href="#' + key(x) + '"' + (x === l ? ' aria-current="page"' : "") + '><span class="dot">' +
-          (isDone(x) ? "✓" : i + 1) + "</span><span>" + esc(x.title) + "</span></a></li>";
-      }).join("") + "</ol></aside>";
-    var idx = c.lessons.indexOf(l), next = c.lessons[idx + 1];
-    var h = '<div class="wrap"><div class="lesson-layout">' + outline + '<article class="lesson-main">' +
-      '<div class="lesson-head"><nav class="crumbs"><a href="#home">Library</a><span>/</span><a href="#' + esc(c.id) + '">' + esc(c.short) + "</a></nav>" +
-      "<h1>" + esc(l.title) + '</h1><div class="speakers">' + (speakers(l) || "<span>Speaker to confirm</span>") + "</div>" +
-      '<div class="tags">' + level(l) + '<span class="chip">' + esc(dayLabel(l.date)) + (l.start ? ", " + esc(l.start) : "") + "</span>" + "</div></div>";
-    h += player(l);
-    if (l.takeaways.length) h += '<section class="learnings"><h2>Key learnings</h2><ol>' + l.takeaways.map(function (t) { return "<li><span>" + cleanText(t, l) + "</span></li>"; }).join("") + "</ol></section>";
-    if (l.summary) h += '<section class="block"><h2>Summary</h2><div class="prose">' + prose(l.summary, l) + "</div></section>";
-    if (l.for_us) h += '<section class="block for-us"><h2>What it means for Vita Actives</h2><div class="prose">' + prose(l.for_us, l) + "</div></section>";
-    if (l.quotes.length) h += '<section class="block"><h2>In their words</h2><div class="quotes">' + l.quotes.map(function (q) { return "<blockquote>" + cleanText(q, l) + "</blockquote>"; }).join("") + "</div></section>";
-    if (l.detail) h += '<details class="more"><summary>More detail and figures</summary><div class="prose">' + prose(l.detail, l) + "</div></details>";
-    var topics = (l.themes || []).filter(function (t) { return TOPIC[t]; });
-    if (topics.length) h += '<div class="tags">' + topics.map(function (t) { return '<a class="chip" href="#topic-' + esc(t) + '">' + esc(TOPIC[t].name) + "</a>"; }).join("") + "</div>";
-    h += '<div class="lesson-foot"><button type="button" class="btn ' + (isDone(l) ? "btn-done" : "btn-ghost") + '" id="mark">' +
-      (isDone(l) ? "✓ Completed" : "Mark as complete") + "</button>" +
-      (next ? '<a class="btn btn-primary" href="#' + key(next) + '">Next talk: ' + esc(next.title.length > 48 ? next.title.slice(0, 46) + "…" : next.title) + "</a>"
-            : '<a class="btn btn-primary" href="#' + esc(c.id) + '">Back to ' + esc(c.short) + "</a>") + "</div>";
-    return h + "</article></div></div>";
+    var c = COURSE[l.event], i = c.lessons.indexOf(l), next = c.lessons[i + 1];
+    var deck = '<section class="deck" id="deck" aria-label="Slides"><div class="deck-inner"><div class="stage" id="stage">' +
+      (l.slides ? '<p class="msg">Loading slides…</p><button type="button" class="nav prev" id="prev" aria-label="Previous slide">‹</button><button type="button" class="nav next" id="next" aria-label="Next slide">›</button>'
+                : exploreHtml(l, true)) + "</div>" +
+      (l.slides ? '<div class="scrub" id="scrub">' + Array.apply(null, Array(l.slides)).map(function (_, j) { return '<button type="button" aria-label="Slide ' + (j + 1) + '"></button>'; }).join("") + "</div>" +
+        '<div class="deck-bar"><span><b id="counter">Slide 1 of ' + l.slides + '</b> · <span id="seen"></span></span><span class="grow"></span><span>' +
+        (l.slide_source === "deck" ? "The speaker's deck" : "Photos taken in the room") + '</span><button type="button" id="full">Full screen</button></div><div class="thumbs" id="thumbs"></div>' : "") +
+      "</div></section>";
+    var learn = l.takeaways.map(function (t, j) {
+      var n = slideFor(t, l), body = '<span class="n">' + (j + 1) + "</span><span>" + clean(t, l, false) + "</span>";
+      return n ? '<button type="button" class="learning" data-slide="' + n + '">' + body + '<span class="go">Show slide ' + n + " →</span></button>"
+               : '<div class="learning">' + body + "</div>";
+    }).join("");
+    var reading = '<article class="reading"><header class="reading-head"><nav class="crumbs"><a href="#home">All talks</a><span>/</span><a href="#' + esc(c.id) + '">' + esc(c.short) + "</a></nav>" +
+      '<span class="kicker">' + esc(c.short) + " · " + esc(l.level) + "</span><h1>" + esc(l.title) + '</h1><p class="byline">' + byline(l) + "</p>" +
+      '<p class="meta">' + esc(fmtDate(l.date)) + (l.start ? ", " + esc(l.start) : "") + (l.slides ? " · " + l.slides + " slides" : "") + "</p></header>" +
+      (l.summary ? '<section class="lede">' + prose(l.summary, l) + "</section>" : "") +
+      (learn ? '<section class="learnings"><h2>Key learnings</h2>' + learn + "</section>" : "") +
+      (l.for_us ? '<section class="panel for-us"><h2>What it means for Vita Actives</h2><div class="prose">' + prose(l.for_us, l) + "</div></section>" : "") +
+      (l.quotes.length ? '<section class="panel"><h2>In their words</h2>' + l.quotes.map(function (q) { return '<blockquote class="quote">' + clean(q, l, false) + "</blockquote>"; }).join("") + "</section>" : "") +
+      (l.detail ? '<details class="more"><summary>More detail and figures</summary><div class="prose">' + prose(l.detail, l) + "</div></details>" : "") +
+      (l.themes.length ? '<div class="tags">' + l.themes.filter(function (t) { return THEME[t]; }).map(function (t) { return '<a class="chip" href="#theme-' + t + '">' + esc(THEME[t].name) + "</a>"; }).join("") + "</div>" : "") +
+      '<div class="lesson-foot"><button type="button" class="btn ' + (isDone(l) ? "btn-done" : "btn-ghost") + '" id="mark">' + (isDone(l) ? "✓ Completed" : "Mark as complete") + "</button>" +
+      (next ? '<a class="btn btn-primary" href="#' + key(next) + '">Next talk →</a>' : '<a class="btn btn-primary" href="#' + esc(c.id) + '">Back to ' + esc(c.short) + "</a>") + "</div></article>";
+    return '<div class="lesson">' + deck + reading + "</div>";
   }
-  function player(l) {
-    if (!l.slides) return '<section class="player"><div class="stage"><p class="empty">No slides for this talk: the speaker did not share them.</p></div></section>';
-    var src = l.slide_source === "deck" ? "The speaker's deck" : "Photos of the slides, taken in the room";
-    return '<section class="player" id="player" aria-label="Slides"><div class="stage" id="stage"><p class="empty">Loading slides…</p>' +
-      '<button type="button" class="nav-btn prev" id="prev" aria-label="Previous slide">‹</button>' +
-      '<button type="button" class="nav-btn next" id="next" aria-label="Next slide">›</button></div>' +
-      '<div class="player-bar"><span class="counter" id="counter">– / ' + l.slides + '</span><span class="src">' + src + "</span>" +
-      '<button type="button" id="full">Full screen</button></div><div class="thumbs" id="thumbs"></div></section>';
-  }
-  function bindPlayer(l) {
-    var stage = document.getElementById("stage");
-    if (!stage) return;
-    var slides = [], at = 0;
-    var img = document.createElement("img");
+
+  function bindLesson(l) {
+    document.getElementById("mark").onclick = function () { setDone(l, !isDone(l)); route(); };
+    if (!l.slides) return;
+    var stage = document.getElementById("stage"), slides = [], at = 0, img = document.createElement("img");
+    var scrub = [].slice.call(document.querySelectorAll("#scrub button"));
+    function paintSeen() {
+      var n = seenCount(l);
+      scrub.forEach(function (b, j) { b.classList.toggle("seen", j < n); });
+      document.getElementById("seen").textContent = n >= l.slides ? "whole deck seen" : n + " of " + l.slides + " seen";
+    }
+    function closeExplore() { var e = document.getElementById("explore"); if (e) e.remove(); }
     function show(i) {
       if (!slides.length) return;
+      closeExplore();
       at = Math.max(0, Math.min(slides.length - 1, i));
       img.src = slides[at]; img.alt = "Slide " + (at + 1) + " of " + slides.length + ": " + l.title;
-      document.getElementById("counter").textContent = (at + 1) + " / " + slides.length;
+      document.getElementById("counter").textContent = "Slide " + (at + 1) + " of " + slides.length;
+      markSeen(l, at + 1); paintSeen();
+      scrub.forEach(function (b, j) { b.setAttribute("aria-current", j === at ? "true" : "false"); });
       [].forEach.call(document.querySelectorAll("#thumbs button"), function (b, j) { b.setAttribute("aria-current", j === at ? "true" : "false"); if (j === at) b.scrollIntoView({ block: "nearest", inline: "nearest" }); });
+      [].forEach.call(document.querySelectorAll(".learning[data-slide]"), function (b) { b.classList.toggle("on", +b.getAttribute("data-slide") === at + 1); });
     }
-    function go(n) { show(n - 1); document.getElementById("player").scrollIntoView({ behavior: "smooth", block: "start" }); }
+    function explore() {
+      closeExplore();
+      if (!isDone(l)) setDone(l, true);
+      stage.insertAdjacentHTML("beforeend", exploreHtml(l, false));
+      document.getElementById("replay").onclick = function () { show(0); };
+      var mark = document.getElementById("mark"); mark.className = "btn btn-done"; mark.textContent = "✓ Completed";
+    }
+    function forward() { if (document.getElementById("explore")) return; if (at >= slides.length - 1) explore(); else show(at + 1); }
+    function jump(n) {
+      show(n - 1);
+      if (window.matchMedia("(max-width: 1000px)").matches) document.getElementById("deck").scrollIntoView({ behavior: "smooth", block: "start" });
+    }
     document.getElementById("prev").onclick = function () { show(at - 1); };
-    document.getElementById("next").onclick = function () { show(at + 1); };
+    document.getElementById("next").onclick = forward;
+    scrub.forEach(function (b, j) { b.onclick = function () { show(j); }; });
     document.getElementById("full").onclick = function () {
-      var p = document.getElementById("player");
-      try { if (document.fullscreenElement) document.exitFullscreen(); else if (p.requestFullscreen) p.requestFullscreen().catch(function () {}); } catch (e) { /* not available here */ }
+      var d = document.getElementById("deck");
+      try { if (document.fullscreenElement) document.exitFullscreen(); else if (d.requestFullscreen) d.requestFullscreen().catch(function () {}); } catch (e) { /* not available here */ }
     };
-    app.onclick = function (ev) { var b = ev.target.closest && ev.target.closest(".slide-ref"); if (b) go(+b.getAttribute("data-slide")); };
+    app.onclick = function (ev) {
+      var b = ev.target.closest && ev.target.closest("[data-slide]");
+      if (b && !b.closest("#scrub")) jump(+b.getAttribute("data-slide"));
+    };
     document.onkeydown = function (ev) {
       if (/INPUT|TEXTAREA/.test((ev.target || {}).tagName || "")) return;
-      if (ev.key === "ArrowRight") show(at + 1); else if (ev.key === "ArrowLeft") show(at - 1);
+      if (ev.key === "ArrowRight") forward(); else if (ev.key === "ArrowLeft") show(at - 1);
     };
+    paintSeen();
     fetch("slides/" + key(l) + ".json").then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); }).then(function (d) {
       slides = d.slides || [];
-      stage.querySelector(".empty").remove(); stage.insertBefore(img, stage.firstChild);
+      stage.querySelector(".msg").remove(); stage.insertBefore(img, stage.firstChild);
       document.getElementById("thumbs").innerHTML = slides.map(function (s, j) { return '<button type="button" aria-label="Slide ' + (j + 1) + '"><img alt="" loading="lazy" src="' + s + '"></button>'; }).join("");
       [].forEach.call(document.querySelectorAll("#thumbs button"), function (b, j) { b.onclick = function () { show(j); }; });
       show(0);
-    }).catch(function () { stage.querySelector(".empty").textContent = "The slides could not be loaded. Reload the page to try again."; });
+    }).catch(function () { var m = stage.querySelector(".msg"); if (m) m.textContent = "The slides could not be loaded. Reload the page to try again."; });
   }
 
-  function listPage(title, sub, lessons, crumb) {
-    return '<section class="course-hero"><div class="wrap"><nav class="crumbs"><a href="#home">Library</a><span>/</span><span>' + esc(crumb) + "</span></nav><h1>" + esc(title) + "</h1>" +
-      (sub ? '<p class="meta">' + esc(sub) + "</p>" : "") + '</div></section><div class="wrap" style="padding-block:24px 48px">' +
-      (lessons.length ? '<div class="lesson-cards">' + lessons.map(lessonCard).join("") + "</div>" : '<p class="meta">Nothing here yet.</p>') + "</div>";
-  }
-  function topicsPage() {
-    return '<section class="course-hero"><div class="wrap"><nav class="crumbs"><a href="#home">Library</a><span>/</span><span>Topics</span></nav><h1>Topics</h1>' +
-      '<p class="meta">Themes that ran across the shows, with the talks that touched them.</p></div></section><div class="wrap" style="padding-block:24px 48px"><div class="lesson-cards">' +
-      LIB.topics.map(function (t) { return '<a class="lesson-card" href="#topic-' + esc(t.id) + '"><h3>' + esc(t.name) + '</h3><span class="meta">' + esc(t.description) +
-        '</span><span class="meta">' + t.lessons.length + " talks</span></a>"; }).join("") + "</div></div>";
-  }
-  function search(q) {
-    var words = q.toLowerCase().split(/\s+/).filter(Boolean);
-    var hits = LESSONS.filter(function (l) {
-      var hay = [l.title, speakers(l, true), l.summary, l.takeaways.join(" "), (l.ingredients || []).join(" "), courseOf(l).name].join(" ").toLowerCase();
-      return words.every(function (w) { return hay.indexOf(w) >= 0; });
-    });
-    return listPage("Search: " + q, hits.length + (hits.length === 1 ? " talk" : " talks"), hits, "Search");
-  }
-
+  // ---------- routing ----------
   function route() {
-    var h = decodeURIComponent((location.hash || "#home").slice(1)), html;
+    var h = decodeURIComponent((location.hash || "#home").slice(1)) || "home", html, l = BY_KEY[h];
     document.onkeydown = null; app.onclick = null;
-    if (h === "home" || !h) html = home();
-    else if (h === "essentials") html = listPage("Essential talks", "The talks that matter most to our range and customers, across all shows.", LESSONS.filter(function (l) { return l.level === "Essential"; }), "Essential talks");
-    else if (h === "topics") html = topicsPage();
-    else if (h === "my-learning") html = listPage("My learning", LESSONS.filter(isDone).length + " of " + LESSONS.length + " talks completed in this browser.", LESSONS.filter(isDone), "My learning");
-    else if (h.indexOf("topic-") === 0 && TOPIC[h.slice(6)]) {
-      var t = TOPIC[h.slice(6)];
-      html = listPage(t.name, t.description, t.lessons.map(function (x) { return BY_KEY[x.event + "--" + x.session]; }).filter(Boolean), "Topics");
-    } else if (h.indexOf("search-") === 0) html = search(h.slice(7).replace(/-/g, " "));
-    else if (BY_KEY[h]) { html = lesson(BY_KEY[h]); save("sll-last", h); }
-    else {
-      var c = LIB.courses.filter(function (x) { return x.id === h; })[0];
-      html = c ? course(c) : home();
-    }
+    var nSlides = LESSONS.reduce(function (a, x) { return a + (x.slides || 0); }, 0);
+    if (l) html = lesson(l);
+    else if (h === "essentials") html = hub(h, "Start here", "Essential talks", "The talks that matter most to our range and customers, across all three shows.", ordered(LESSONS.filter(function (x) { return x.level === "Essential"; })), false);
+    else if (h === "my-learning") html = hub(h, "Your progress", "My learning", LESSONS.filter(isDone).length + " of " + LESSONS.length + " talks completed in this browser.", ordered(LESSONS.filter(isDone)), false);
+    else if (h.indexOf("theme-") === 0 && THEME[h.slice(6)]) {
+      var t = THEME[h.slice(6)];
+      html = hub(h, "Theme", t.name, t.description, ordered(t.lessons.map(function (x) { return BY_KEY[x.event + "--" + x.session]; }).filter(Boolean)), true);
+    } else if (COURSE[h]) {
+      var c = COURSE[h];
+      html = hub(h, "Show · " + (c.city || ""), c.name, c.lessons.length + " talks, " + (c.start === c.end || !c.end ? fmtDate(c.start) : shortDate(c.start) + " to " + fmtDate(c.end)) + ".", c.lessons, true);
+    } else if (h.indexOf("search-") === 0) {
+      var q = h.slice(7).replace(/-/g, " "), words = q.split(/\s+/).filter(Boolean);
+      var hits = LESSONS.filter(function (x) {
+        var hay = [x.title, names(x), x.summary, x.takeaways.join(" "), (x.ingredients || []).join(" "), COURSE[x.event].name].join(" ").toLowerCase();
+        return words.every(function (w) { return hay.indexOf(w) >= 0; });
+      });
+      html = hub(h, "Search", "“" + q + "”", hits.length + (hits.length === 1 ? " talk matches." : " talks match."), ordered(hits), false);
+    } else html = hub("home", "Autumn 2026 · three shows", "What we learned at the shows",
+      LESSONS.length + " talks and " + nSlides + " slides from Remedy CDMO, SANS Europe and the Nutra Healthspan Summit. Pick a theme, or start with the essentials.", ordered(LESSONS), true);
     app.innerHTML = html;
     window.scrollTo(0, 0);
-    if (BY_KEY[h]) {
-      var l = BY_KEY[h];
-      bindPlayer(l);
-      document.getElementById("mark").onclick = function () { setDone(l, !isDone(l)); route(); };
-      document.title = l.title + " · Show Learning Library";
-    } else document.title = "Show Learning Library";
+    if (l) { bindLesson(l); save("sll-last", h); document.title = l.title + " · Show Learning Library"; }
+    else document.title = "Show Learning Library";
+    var ess = document.getElementById("ess");
+    if (ess) ess.onclick = function () { essentialOnly = !essentialOnly; route(); };
   }
 
   document.getElementById("search-form").addEventListener("submit", function (ev) {
@@ -269,8 +244,8 @@
 
   fetch("data/library.json").then(function (r) { return r.json(); }).then(function (lib) {
     LIB = lib;
-    lib.courses.forEach(function (c) { c.lessons.forEach(function (l) { LESSONS.push(l); BY_KEY[key(l)] = l; }); });
-    lib.topics.forEach(function (t) { TOPIC[t.id] = t; });
+    lib.courses.forEach(function (c) { COURSE[c.id] = c; c.lessons.forEach(function (x) { LESSONS.push(x); BY_KEY[key(x)] = x; }); });
+    lib.themes.forEach(function (t) { THEME[t.id] = t; });
     document.getElementById("stamp").textContent = "Updated " + fmtDate(lib.built);
     updateCount();
     route();
