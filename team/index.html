@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Show Learning Library</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500..800&family=Figtree:ital,wght@0,400..700;1,400&display=swap">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="masthead">
+  <div class="masthead-inner">
+    <a class="brand" href="#home" aria-label="Show Learning Library, home">
+      <span class="brand-mark" aria-hidden="true"></span>
+      <span class="brand-text"><span class="brand-name">Show Learning Library</span><span class="brand-sub">Vita Actives team</span></span>
+    </a>
+    <form class="search" id="search-form" role="search">
+      <label class="sr-only" for="q">Search talks</label>
+      <input id="q" type="search" placeholder="Search talks, speakers, ingredients" autocomplete="off">
+    </form>
+    <a class="progress-link" href="#my-learning" id="progress-link">My learning <span id="done-count" class="count">0</span></a>
+  </div>
+</header>
+<main id="app" aria-live="polite"><p class="loading">Loading the library…</p></main>
+<footer class="site-footer">
+  <div class="footer-inner">
+    <span>Summaries of public talks at the shows our team attended. For Vita Actives staff; speakers' slides are their copyright.</span>
+    <span id="stamp"></span>
+  </div>
+</footer>
+<script src="app.js"></script>
+</body>
+</html>

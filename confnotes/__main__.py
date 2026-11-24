@@ -6,6 +6,8 @@
     build                                   dashboard/data/events.json
     publish-files                           the slide photos' files map for publishing the dashboard
     api                                     exports/api/v1/*.json
+    team                                    the team library: team/data/library.json and the slide packs
+    team-files                              the team library's files map for publishing it (team/ARTIFACT.md)
     all                                     check, extract --all, build, api
     new-event <event-id> --name "..." [--start YYYY-MM-DD --end YYYY-MM-DD --city ... --organiser ... --url ...]
     new-session <event-id> <session-id> --title "..." [--date --start --end --format --track]
@@ -19,7 +21,7 @@ from pathlib import Path
 
 import yaml
 
-from confnotes import DATA, ROOT, api, build, extract, photos, store
+from confnotes import DATA, ROOT, api, build, extract, photos, store, team
 
 
 def _rel(path: Path) -> str:
@@ -155,6 +157,23 @@ def cmd_new_session(a) -> int:
     return 0
 
 
+def cmd_team(_a) -> int:
+    try:
+        lib = team.write()
+    except (build.StoreProblems, team.TeamLeak) as exc:
+        print(exc); return 1
+    n = sum(len(c["lessons"]) for c in lib["courses"])
+    s = sum(l["slides"] for c in lib["courses"] for l in c["lessons"])
+    print(f"team library: {len(lib['courses'])} courses, {n} lessons, {s} slides -> {_rel(team.OUT / 'data' / 'library.json')}")
+    return 0
+
+
+def cmd_team_files(_a) -> int:
+    import json
+    print(json.dumps(team.files_map(), indent=1))
+    return 0
+
+
 def main(argv=None) -> int:
     p = argparse.ArgumentParser(prog="python -m confnotes", description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     sub = p.add_subparsers(dest="cmd", required=True)
@@ -165,6 +184,8 @@ def main(argv=None) -> int:
     sub.add_parser("publish-files").set_defaults(fn=cmd_publish_files)
     sub.add_parser("api").set_defaults(fn=cmd_api)
     sub.add_parser("all").set_defaults(fn=cmd_all)
+    sub.add_parser("team").set_defaults(fn=cmd_team)
+    sub.add_parser("team-files").set_defaults(fn=cmd_team_files)
     ne = sub.add_parser("new-event"); ne.add_argument("event"); ne.add_argument("--name", required=True)
     for f in ("short", "start", "end", "city", "country", "venue", "organiser", "url", "to-check"):
         ne.add_argument("--" + f)

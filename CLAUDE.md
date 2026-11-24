@@ -33,8 +33,9 @@ reads it through `exports/api/v1/` (docs/api.md), never its files; this tool rea
 | `python -m confnotes api` | `exports/api/v1/*.json` |
 | `python -m confnotes publish-files` | the slide photos' files map for publishing the dashboard (`dashboard/ARTIFACT.md`) |
 | `python -m confnotes all` | check, extract, build, api |
+| `python -m confnotes team` / `team-files` | the team library (team/, non-confidential lessons and slide packs) and its publishing files map |
 | `python -m confnotes new-event <id> --name ...` / `new-session <event> <id> --title ...` | scaffold a record |
-| `python -m pytest -q` · `node dashboard/test/smoke.mjs` | tests · the dashboard in a browser on the synthetic fixture |
+| `python -m pytest -q` · `node dashboard/test/smoke.mjs` · `node team/test/smoke.mjs` | tests · the admin dashboard and the team library in a browser on the synthetic fixture |
 
 ## Where to read more
 
@@ -49,6 +50,12 @@ reads it through `exports/api/v1/` (docs/api.md), never its files; this tool rea
 | Companies to follow up (possible acquisitions, partners) for the cross-show roundup | `data/leads.yaml` |
 | Nathan's decisions | `docs/decisions.csv` |
 | Open small findings | `docs/backlog.md` |
+
+## Team library
+
+`team/` is a separate, simpler site for Nathan's team: courses (shows) and lessons (talks) with a slide player built from the
+original decks or slide photos. It never carries confidential sessions or leads; the build refuses if it would. Rebuild it
+(`python -m confnotes team`) after summaries change and republish per `team/ARTIFACT.md`.
 
 ## Dashboard
 
