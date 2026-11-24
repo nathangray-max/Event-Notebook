@@ -1,0 +1,205 @@
+--- page 1 ---
+Paul Cotter
+Head of Food Biosciences
+Teagasc Food Research Centre, Moorepark
+Principal Investigator, APC Microbiome Ireland & VistaMilk
+CTO SeqBiome Ltd
+paul.cotter@teagasc.ie
+paulcotter@seqbiome.com
+Twitter: @pauldcotter
+https://www.linkedin.com/in/paul-cotter-b6802026
+Harnessing Knowledge Gained from
+Studies of Athlete Microbiomes
+
+--- page 2 ---
+http://apc.ucc.ie
+Sender R, et al. Cell. 2016;164(3):337-340
+Human Gut Microbiome – quick reminder
+
+--- page 3 ---
+http://apc.ucc.ie
+Function
+• Vitamin synthesis
+• Weight gain
+• Satiety
+• Health immune system
+• Digestion and absorption
+• Immune stimulation
+• Control disease-causing microbes
+• Influencing the efficacy of energy harvest from ingested food
+• Intestinal epithelial cell proliferation & differentiation, pH
+• Signaling from the periphery to the brain (stress, anxiety, mental health)……..and many, many more
+Dictated by types of microbes, what they do/produce and microbial diversity
+Some Links Between the Gut Microbiota and Health
+
+--- page 4 ---
+http://apc.ucc.ie
+Effects of microbially derived components on host physiology
+Shehata et al Exp Physiol. 2022 Apr;107(4):257-264
+
+--- page 5 ---
+http://apc.ucc.ie
+• Antibiotics
+• Stress
+• Birth mode
+• Breast feeding
+• Environment
+• Probiotics*
+• Prebiotics**
+• Synbiotics***
+• Postbiotics****
+• Diet (incl. fibre
+&
+fermented
+foods)
+• Exercise
+* Probiotics: “Live microorganisms, which when administered in adequate amounts, confer a health benefit on the host”
+** Prebiotics: “A substrate that is selectively utilized by host microorganisms conferring a health benefit”
+*** Synbiotics: “A mixture, comprising live microorganisms and substrate(s) selectively utilized by host microorganisms, that confers a health benefit on the host”
+**** Postbiotics: “Preparation of inanimate microorganisms and/or their components that confers a health benefit on the host”
+A number of factors, such as
+Modulation or Maintenance of the Gut Microbiome for Health
+5
+influence the gut microbiota & health
+
+--- page 6 ---
+http://apc.ucc.ie
+Exercise as a factor influencing gut microbiota in adults
+Wosinska, et al. Nutrients. 2019;11(10):2270. https://doi.org/10.3390/nu11102270.
+
+--- page 7 ---
+http://apc.ucc.ie
+To assess the relationship between diet, exercise, gut microbiota, metabolic & inflammatory markers in elite
+athletes relative to controls
+Subject Recruited
+• Male
+• Age: 18-37
+• Elite Athletes n=40
+• Control BMI <25 n=23
+• Control BMI >28 n=23
+Data Collected
+• Fasting blood sample (metabolic
+& inflammatory markers)
+• Clinical bloods (CHOL, TG,
+fasting glucose, etc.)
+• Diet (FFQ)
+• Body composition (DXA
+and W:H measurement)
+• Faeces (microbial sequencing)
+BMI=Body Mass Index; CHOL=Cholesterol; TG=Triglycerides;
+FFQ=Food Frequency Questionnaire; DXA=Dual-energy X-ray Absorptiometry
+Clarke SF, et al. Gut. 2014;63(12):1913–1920.
+First insights
+7
+
+--- page 8 ---
+http://apc.ucc.ie
+Green = High BMI Controls
+Blue = Low BMI Controls
+Black = Athletes
+Beta diversity shows differences between athlete microbiomes and
+controls (though there are exceptions)
+Clarke SF, et al.Gut. 2014;63(12):1913–1920.
+Differences in between elite rugby players & controls
+Beta diversity
+(Unweighted Unifrac)
+8
+Taxonomy
+
+--- page 9 ---
+http://apc.ucc.ie
+NMR=Nuclear Magnetic Resonance
+Barton W , et al.Gut. 2018;67(4):625–-633.
+Differences in functional potential and metabolites produced
+Faecal NMR
+9
+
+--- page 10 ---
+http://apc.ucc.ie
+Ketogenic diet – unexpected consequences
+• 53 healthy adults for up to 12 weeks
+Followed a
+• moderate sugar diet (control)
+• a low-sugar diet (less than 5% of calories from sugar)
+• a ketogenic (keto) low-carbohydrate diet (less than 8% of
+calories from carbohydrates).
+• Both sugar restriction and keto diets achieved fat loss without
+changing physical activity levels. Keto Diet resulted in an
+average of 2.9 kg fat mass loss per person, whilst the sugar
+restricted diet followed with an average 2.1 kg fat mass loss
+per person at 12 weeks.
+• The keto diet raised cholesterol levels, particularly in LDL. In
+contrast, the low-sugar diet significantly reduced cholesterol in
+LDL particles.
+• Glucose Tolerance: The keto diet reduced glucose tolerance,
+meaning the adults’ bodies became less efficient at handling
+carbohydrates.
+
+--- page 11 ---
+http://apc.ucc.ie
+Ketogenic diet – unexpected consequences
+• The keto diet altered gut microbiome composition, notably decreasing bifidobacteria.
+• Sugar restriction did not significantly impact the gut microbiome composition.
+
+--- page 12 ---
+http://apc.ucc.ie
+Other points to note
+https://sportgenix.ie/
+Fermented foods with anti-obesity impacts
+Significant differences are represented by different letters (a, b,)
+1. Bourie BC, et al. British Journal of Nutrition. 2021;125(2):129–138.
+Plasma Cholesterol
+COM ICK Pitch PNY PNL
+Total Plasma Cholesterol (mmol/l)0
+100
+200
+a
+b
+a
+b
+a
+
+--- page 13 ---
+http://apc.ucc.ie
+Acknowledgements
+Teagasc
+Orla O’Sullivan
+Wiley Barton
+Ciara O’Donovan
+Siobhan Clarke
+Laura Wosinska
+UCC
+Owen Cronin
+Fergus Shanahan
+Mick Molloy
+Eileen Murphy
+Eanna Falvey
+Irish Sports Institute
+Sharon Madigan
+Imperial College London
+Elaine Holmes
+Nicholas Penney
+Isabel Garcia-Perez
+Univ of Bath
+Russell Davies
+Dylan Thompson
+Javier Gonzalez
+All athletes; elite and non
+
+--- page 14 ---
+http://apc.ucc.ie
+Investigating the Role of Diet and Exercise in Gut
+Microbe-Host Co-metabolism
+• Individuals classified according to an objective dietary assessment score of adherence to healthy
+dietary habits according to WHO guidelines, calculated from their 1H-NMR urinary profiles.
+• Models were generated comparing extremes of dietary habits, exercise, and the combined effect of
+both.
+Penney et al 2020
+mSystems 5:e00677-20
+
+--- page 15 ---
+http://apc.ucc.ie
+Investigating the Role of Diet and Exercise in Gut
+Microbe-Host Co-metabolism
+Penney et al 2020
+mSystems 5:e00677-20

@@ -1,0 +1,298 @@
+--- page 1 ---
+Creatine for
+Life-Long Nutrition
+Professor Sergej M. Ostojic, MD, PhD
+Department of Nutrition and Public Health, University of Agder, Kristiansand
+A semi-essential nutrient for healthy aging
+
+--- page 2 ---
+Disclosures
+ SMO serves as a member of the Scientific Advisory Board on Creatine in
+Health and Medicine (AlzChem LLC).
+ SMO co-owns patent “Supplements Based on Liquid Creatine” at the
+European Patent Office (WO2019150323 A1) and patent application
+“Composition Comprising Creatine for Use in Telomere Lengthening” at
+the U.S. Patent and Trademark Office (# 63/608,850).
+ SMO has received research support related to creatine during the past
+36 months from the Ministry of Science, Technological Development
+and Innovation; Provincial Secretariat for Higher Education and
+Scientific Research; AlzChem GmbH; Kaneka Nutrients; ThermoLife
+International; and Vireo Systems Inc.
+ SMO is the co-founder of KRE-ALL, a Norwegian biotech which develops
+food products enriched with creatine.
+
+--- page 3 ---
+Lecture outline
+ Brief introduction
+ Creatine metabolism: fundamentals
+ Creatine as a semi-essential nutrient
+ Creatine deficit in elderly
+ Creatine malnutrition and health risks
+ Creatine supplementation in elderly
+ Safety
+ Recommending creatine in elderly
+ Open questions
+ Take home message
+
+--- page 4 ---
+100 years of creatine research
+Dr. Alfred Chanutin
+1897 - 1986
+J Biol Chem. 1926 Jan 1;67(1):29-41.
+“Creatine may be
+stored as a reserve
+food material …”
+
+--- page 5 ---
+
+
+--- page 6 ---
+Creatine metabolism
+Circ Res. 2013 Mar 15;112(6):878-80.
+120 mmol/kg of
+dry muscle mass
+Neurotransmitter
+Antioxidant
+Buffer
+Appetite regulator
+
+--- page 7 ---
+Adv Nutr. 2022;13(1):34-37
+Creatine as semi-essential nutrient
+
+--- page 8 ---
+Creatine sources in food
+ Daily turnover of creatine = 2 grams per day
+ About half (1 g/day) of this daily need is consumed from an omnivorous diet
+
+--- page 9 ---
+Possible creatine deficit
+ Metabolic defects and nutritional deficits
+ Low intake, increased requirements, and/or exacerbated loss
+ Low creatine in plasma / brain / skeletal muscle
+ Intellectual disability, fatigue, movement disorders, behavior problems
+ Preterm infants
+ Inherited metabolic disorders
+ Myopathies
+ Multiple sclerosis
+ Sarcopenia
+ Vegetarians
+ Chronic kidney disease
+ Elderly
+Ped Res. 2020;88(5):704
+Neuroscience. 2019;409:276-289.
+Nutrients. 2019;11(5):1044.
+Can dietary
+creatine
+help?
+
+--- page 10 ---
+Creatine deficit in elderly
+ Reduced endogenous synthesis
+Decline in AGAT and GAMT activity leading to lower endogenous creatine production
+ Decreased dietary intake
+Elderly often consume less dietary creatine, particularly if they follow low-protein or plant-
+based diets. This reduces exogenous creatine availability.
+ Muscle creatine decline
+Age-related loss of skeletal muscle mass (sarcopenia) is linked to lower total body creatine
+stores. Aging muscle may also have reduced creatine uptake due to changes in the expression or
+function of the creatine transporter (SLC6A8).
+ Potential impairment in creatine transport
+Limited evidence suggests that the efficiency of creatine transport into tissues may decline with
+age, although this is still under investigation.
+ Altered energy demands and utilization
+Because creatine is central to cellular energy buffering via the phosphocreatine system,
+impairments in creatine metabolism may contribute to reduced energy availability, muscle
+weakness, and fatigue in older adults.
+Front Physiol. 2024 Dec 3;15:1496544
+J Clin Med. 2019 Apr 11;8(4):488.
+Subcell Biochem. 2018;90:145-168.
+
+--- page 11 ---
+Possible creatine malnutrition
+A significant negative trend
+for dietary creatine intake
+was found in infants (P =
+0.042), and children and
+adolescents (P < 0.001); and
+tendency in adults (P = 0.074)
+89,161 respondents aged 0–85 years
+J Int Soc Sports Nutr. 2021;18(1):53
+65.2% of NHANES adult
+participants were calculated to
+have dietary creatine intake
+below recommended levels of
+1.00 g/day
+Ann Nutr Metab.
+2021;77(3):154-158.
+
+--- page 12 ---
+Transl Psychiatry. 2020;10(1):52.
+Depression prevalence was 42% higher
+among adults in the lowest quartile (0
+– 0.26 g) compared to adults in the
+highest quartile (0.70 – 3.16 g) of
+creatine consumption.
+NHANES 2005–2012 for adult
+participants 20–85+ years of age.
+Depression screener data were
+available for 16,816 adult participants
+with dietary data; 1455 of these
+participants screened positive for
+depression.
+Risks of creatine malnutrition
+
+--- page 13 ---
+Elderly with the suboptimal intake of
+creatine were found to have 2.62 times
+higher risk of angina pectoris and 2.59
+times higher risk of liver conditions
+compared with older counterparts who
+consume ≥1.00 g of creatine per day after
+controlling for demographic and nutritional
+variables.
+The participants who consumed more than 0.95 g of
+creatine per day (3rd and 4th quartiles of creatine
+intake) were found to have higher scores on the
+cognitive functioning test as compared to their peers
+with lower creatine intake
+Food Sci Nutr. 2021;9(10):5746-5754
+Aging Clin Exp Res. 2021;33(12):3269-3274
+
+--- page 14 ---
+Consuming a diet that includes more
+creatine has been found to be associated
+with a reduced risk of cancer or malignancy
+in U.S. adults aged 20 years and over. In
+fact, for every additional milligram of food
+creatine per kilogram of body mass
+consumed daily, the cancer rate is reduced
+by approximately one percent.
+J Funct Foods. 2023;108:105733.
+
+--- page 15 ---
+*
+Figure 1. Cox
+regression survival
+curve for respondents
+with suboptimal intake
+(blue line) and those
+meeting the
+recommended intake
+(green line). An asterisk
+(*) denotes significant
+difference in survival
+between creatine
+intake categories, with
+a P-value of 0.05.
+Appl Nutr Physiol Metab 2025 (in revision)
+
+--- page 16 ---
+Ostojic et al. Habitual creatine intake is associated with greater lean
+body mass and handgrip strength in the general population. Journal of
+Health, Population and Nutrition 2025 (in review)
+
+--- page 17 ---
+Creatine supplementation in elderly
+ Reduce fat accumulation in the liver
+ Enhance glycemic control
+ Slow tumor growth in some types of cancers
+ Increase strength and/or muscle mass
+ Minimize bone loss
+ Improve functional capacity in patients with knee osteoarthritis
+ Positively affects cognitive function
+ Acts as an anti-depressant
+Curr Aging Sci. 2013;6(3):251-7.
+Amino Acids. 2016; 48(8):1793-805.
+Med Res Rev. 2019;39(6):2427-2459
+Frontiers in Physiology, 2024;15:1496544
+Commission Regulation (EU) 2017/672 of 07/04/2017
+Daily creatine consumption can enhance the effect of
+resistance training on muscle strength in adults over the
+age of 55.
+AUTHORIZED
+
+--- page 18 ---
+Is it safe for the general population?
+ No risk in cross-sectional epidemiological studies
+ No severe adverse events in long-term interventional studies
+ Over 1,000 interventional studies in humans
+ No major adverse health risks
+ 0.3 - 0.8 g per kg body weight per day
+ From 7 days to up to 5 years
+ Minor risks confirmed from RCTs
+ Weight gain due to water retention (?)
+ Kidney problems (?)
+ Mild gut disturbances (transitional)
+Front Nutr. 2025 Apr 4;12:1578564
+
+--- page 19 ---
+Recommending creatine in elderly
+Dietary
+supplements
+Foods fortified with
+creatine
+Foods rich in
+creatine
+ Daily intake
+ 1 gram to prevent malnutrition
+ Preventive strategy
+ Continuous daily use
+ 3-5 grams to improve functionality
+ Boost stores and muscle performance
+ Co-administered with exercise
+ Up to 20 grams to improve cognition
+ Two to six weeks +
+ During 5-7 days and followed by 3-5 g
+
+--- page 20 ---
+Open questions on creatine in elderly
+ Dietary reference intakes
+ No RDA determined in elderly
+ No Tolerable Upper Intake Level (UL)
+ Individual requirements
+ Gender, co-morbidities, microbiota etc.
+ Specific issues
+ Detailed food composition tables
+ Epidemiology and status of creatine malnutrition
+ Groups of risk from creatine malnutrition (mild and severe)
+ More efficacy and safety studies warranted
+ Health risks of excessive creatine (?)
+ Interaction with other food components and medications
+ How to deliver dietary creatine?
+ Eating foods rich in creatine
+ Dietary supplement
+ Food fortification (!!!)
+
+--- page 21 ---
+Fortifying food with creatine?
+ UN climate-change report has called for a transformation of the human diet
+ Reducing meat production and consumption
+ Eating less meat could lead to a low intake of several meat-specific nutrients (creatine)
+ Adding creatine to various meat-free foods could be a feasible public health intervention
+ Prevent a large-scale creatine malnutrition
+ Reducing meat consumption and promoting greenhouse-gas mitigation
+ Convenient in some populations (elderly)
+ Creatine can be produced industrially by several environmentally friendly processes
+ Creatine could be efficiently added to foods commonly consumed by the general
+ Market-driven fortification = voluntarily enrich convenient foods with creatine
+ Second step = mass fortification mandated and regulated by the government sector
+ The favorable safety and the bioavailability of dietary creatine support this approach
+ Establishing an appropriate level of fortification
+Clin Nutr. 2020 Jul;39(7):2320.
+
+--- page 22 ---
+https://www.creatine.global/
+
+--- page 23 ---
+Take home message
+ Creatine appears to be a semi-essential nutrient for humans
+ Many populations, including elderly, suffer from low dietary intake of creatine
+ Solid links between benefits of dietary creatine and health from the first round of population studies
+ Evidence of supplemental creatine benefits from interventional studies (muscle, bone, brain etc)
+ Relatively safe although more long-term studies in elderly are needed
+ Creatine is a promising food component for public health nutrition for healthy aging
+ From creatine-rich foods and dietary supplements to foods fortified with creatine
+
+--- page 24 ---
+Thank you for your attention!

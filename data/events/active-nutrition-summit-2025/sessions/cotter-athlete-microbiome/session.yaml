@@ -1,0 +1,38 @@
+id: cotter-athlete-microbiome
+title: Athlete Microbiome
+date: ''
+start: ''
+end: ''
+format: talk
+track: ''
+speakers:
+- name: Paul Cotter
+  organisation: Teagasc Food Research Centre, Moorepark; APC Microbiome Ireland and VistaMilk; SeqBiome Ltd
+  role: Head of Food Biosciences (Teagasc); Principal Investigator (APC Microbiome Ireland and VistaMilk); CTO (SeqBiome)
+themes: [probiotic-category-evolution]
+categories: [gut-health, sports]
+tags: [science]
+ingredients:
+- probiotics
+- prebiotics
+- synbiotics
+- postbiotics
+- fibre
+- fermented foods (kefir)
+- short-chain fatty acids (butyrate, acetate)
+relevance: medium
+status: summarised
+confidential: false
+summary_by: Claude
+summary_date: '2026-11-24'
+reviewed_by: ''
+reviewed_date: ''
+attended_by: []
+links:
+  sportgenix: https://sportgenix.ie/
+to_check: No recording was found, so the summary is from the deck alone. The day, start and end times and the track are not given. The
+  billed title is ours, from the deck's file name; the title slide reads "Harnessing Knowledge Gained from Studies of Athlete Microbiomes".
+  Most slides are figures; their content is read from the slide images. The sample codes on the kefir cholesterol chart (COM, ICK, Pitch,
+  PNY, PNL) are not explained on the slide, nor is the study population. Whether Nathan attended is not known.
+added: '2026-11-24'
+added_by: Claude (from the speaker's deck, 24 Nov 2026)
