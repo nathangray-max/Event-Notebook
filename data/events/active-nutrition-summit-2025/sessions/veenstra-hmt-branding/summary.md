@@ -21,7 +21,7 @@ Her conclusion: know where to play and how to win, and translate the message as 
 - Relevance medium: a marketing framework, not ingredient science, but it is the lens our customers' brand teams use to judge an ingredient. Factor 2, "accept the ingredient", is where we sit (slide 11). My reading: our pitch decks should say which mindset an ingredient serves, with proof matched to it.
 - Her Upfront example pairs 20g protein with matcha for "natural caffeine + L-theanine" energy and clarity, and Upfront also sells creatine tabs (slide 25) (slide 26). My reading: we sell matcha and creatine (CreaWin); Upfront is worth checking as a customer, starting with the creatine in its tabs.
 - Her Heinz case puts lycopene in a fruit drink under a trusted food brand (slide 29). My reading: we sell lycopene (LycoLex); her point is that a familiar brand carries an unfamiliar ingredient into the mass market.
-- HMT also presented on the probiotics category at Remedy CDMO 2026, with the speaker recorded there as Marit Weinstra, my reading the same person (remedy-cdmo-2026/hmt-probiotic-market); the misinformation side of this summit's marketing theme is millbank-nutrition-by-algorithm, and the regulatory side bucchini-essna-regulatory-update.
+- HMT also presented on the probiotics category at Remedy CDMO 2026, the same speaker, as Nathan confirmed (remedy-cdmo-2026/hmt-probiotic-market); the misinformation side of this summit's marketing theme is millbank-nutrition-by-algorithm, and the regulatory side bucchini-essna-regulatory-update.
 
 ## Quotes
 - "Not because the science was wrong." (slide 8)

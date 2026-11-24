@@ -1,7 +1,7 @@
 # Beyond Probiotics: Where the Biotics Category Is Really Heading
 
 ## Summary
-Marit Weinstra of HMT, the Healthy Marketing Team, a food and health branding and innovation agency, opened the probiotic programme. Her question was how to win in a biotics market that has grown into a jungle of products. Use keeps rising, yet in seven of eight European countries consumers do not feel informed about probiotics.
+Marit Veenstra of HMT, the Healthy Marketing Team, a food and health branding and innovation agency, opened the probiotic programme. Her question was how to win in a biotics market that has grown into a jungle of products. Use keeps rising, yet in seven of eight European countries consumers do not feel informed about probiotics.
 
 She traced four eras. Yakult made good bacteria a daily ritual. Activia made the benefit tangible, and brands began competing on CFU counts. Then survival technology became the story. Now the shift is from adding bacteria to nourishing the gut ecosystem, with the gut barrier as the gateway to the rest of the body.
 
@@ -24,10 +24,10 @@ Her conclusion: in Europe most of these claims cannot be made, so the brand has 
 - HMT lists B2B2C communication among its services, with Suntheanine as the case (slide 24). My reading: HMT is an agency, not a buyer; it could brand our ingredients to end consumers or support a customer's launch.
 
 ## Quotes
-- "...there are too many options out there, but there's not enough clarity in this industry." Speaker 2 (Marit Weinstra) [00:24]
-- "...numbers alone don't build trust anymore with the consumer" Speaker 2 (Marit Weinstra) [03:59]
-- "So in Europe, you can't claim most of it, and that's when the brand has to carry it." Speaker 2 (Marit Weinstra) [03:59]
-- "...science opens the doors, but it's a brand that keeps you in the room." Speaker 2 (Marit Weinstra) [03:59]
+- "...there are too many options out there, but there's not enough clarity in this industry." Speaker 2 (Marit Veenstra) [00:24]
+- "...numbers alone don't build trust anymore with the consumer" Speaker 2 (Marit Veenstra) [03:59]
+- "So in Europe, you can't claim most of it, and that's when the brand has to carry it." Speaker 2 (Marit Veenstra) [03:59]
+- "...science opens the doors, but it's a brand that keeps you in the room." Speaker 2 (Marit Veenstra) [03:59]
 
 ## Detail
 - The deck is "Beyond Probiotics: Where the Biotics Category Is Really Heading", HMT - Healthy Marketing Team, October 2026 (slide 1). Otter heard the agency as "H and D" and "HMDs" [00:24] [03:59]. Slides carry "© 2026 – Healthy Marketing Team" (a few © 2023 or © 2025); none is marked confidential. The last slide offers the slides by QR code and gives marit@thehmt.com (slide 25).
