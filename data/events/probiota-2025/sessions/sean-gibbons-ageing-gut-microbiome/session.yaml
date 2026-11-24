@@ -28,7 +28,9 @@ summary_date: '2026-11-24'
 reviewed_by: ''
 reviewed_date: ''
 attended_by: []
-links: {}
-to_check: No recording; slides only. The end time and whether Nathan attended are not known.
+links:
+  otter: https://otter.ai/u/t6inEkzC2R5Mi1CHgnZ5n4aCGDI
+to_check: The Otter recording ("Probiota 1") starts part-way through the talk; the opening slides are covered by the deck
+  only. The end time and whether Nathan attended are not known.
 added: '2026-11-24'
-added_by: Claude (from Nathan's archive upload, 24 Nov 2026)
+added_by: Claude (from Nathan's archive upload, 24 Nov 2026; Otter transcript added 24 Nov 2026)
