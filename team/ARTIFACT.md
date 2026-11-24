@@ -1,6 +1,6 @@
 # Published team library
 
-A separate private claude.ai artifact for Nathan's team: URL recorded below once published. Nathan shares it from the
+A separate private claude.ai artifact for Nathan's team: https://claude.ai/artifact/M1bnkiBYe2GE9K4kNYkVtZ. Nathan shares it from the
 artifact's Share menu; it is a different link from the admin dashboard (dashboard/ARTIFACT.md).
 
 What it holds: only summarised, non-confidential sessions (FiE's side conversations never appear), with each talk's
@@ -15,3 +15,4 @@ After any change: `node team/test/smoke.mjs`.
 
 | Version | Date | Commit | What changed |
 |---|---|---|---|
+| 1 | 2026-11-24 | 705266d | First version: Remedy CDMO (18 talks), SANS Europe (12), Healthspan Summit (14); 44 lessons, 619 slides; FiE's confidential conversations excluded. |
