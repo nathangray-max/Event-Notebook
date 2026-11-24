@@ -58,3 +58,11 @@ def test_facets_group_lessons_by_ingredient_category_and_tag(fixture_copy, tmp_p
     key = "example-summit-2025--creatine-beyond-muscle"
     assert [f["lessons"] for f in lib["facets"]["ingredients"]] == [[key]]
     assert lib["facets"]["categories"][0]["name"] == "Sports performance" and lib["facets"]["tags"][0]["lessons"] == [key]
+
+
+def test_person_ids():
+    assert team.person_id({"name": "Martina Pavlová", "organisation": "FAVEA a.s."}) == "martina-pavlova"
+    assert team.person_id({"name": "Dr. Ralf Spreemann", "organisation": "MartinBauer"}) == "ralf-spreemann"
+    assert team.person_id({"name": "Nicholas Morgan"}) == team.person_id({"name": "Nick Morgan"}) == "nick-morgan"
+    assert team.person_id({"name": "Miguel", "organisation": "Nuritas"}) != team.person_id({"name": "Miguel (surname unconfirmed)", "organisation": "SPI Pharma"})
+    assert team.person_id({"name": "Kane", "organisation": "consumer panellist"}) == ""

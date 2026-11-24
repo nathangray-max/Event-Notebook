@@ -9,12 +9,12 @@ speakers:
 - name: Alex Glover
   organisation: Holland & Barrett
   role: Leads the product formulation team (own-label); retail and consumer perspective
-- name: Martina (very likely Martina Pavlová)
-  organisation: FAVEA a.s. (my reading, from her own talk, favea-ai-mental-shift)
+- name: Martina Pavlová
+  organisation: FAVEA a.s.
   role: CEO
-- name: Matt
-  organisation: ''
-  role: Ingredient developer (company not named; spoke of a new brain ingredient and krill)
+- name: Matts Johansen
+  organisation: Aker BioMarine
+  role: CEO
 - name: Joanna
   organisation: ''
   role: Lawyer, food law (firm not named)
@@ -46,6 +46,6 @@ attended_by:
 - Nathan
 links:
   otter: https://otter.ai/u/ZEdFW2wF_FhJmfWkdH-p8aSyG74
-to_check: 'Billed title and room unconfirmed; the moderator is unnamed and the panellists'' surnames, companies and roles are not given except Alex Glover (Alexandra is heard as "Alexandra Dumchich" of "Zendiva"); Otter''s labels are mapped to names from the moderator''s cues (Speaker 2 Martina, Speaker 3 Joanna, Speaker 4 Alexandra, Speaker 5 Matt), and the moderator twice calls Matt "Max".'
+to_check: 'Billed title and room unconfirmed; the moderator is unnamed; Joanna''s and Alexandra''s surnames, firms and roles are not given (Alexandra is heard as "Alexandra Dumchich" of "Zendiva"). Martina Pavlová (FAVEA) and Matts Johansen (CEO, Aker BioMarine) confirmed by Nathan, 24 Nov 2026; the moderator twice calls him "Max". Otter''s labels are mapped from the moderator''s cues (Speaker 2 Martina, Speaker 3 Joanna, Speaker 4 Alexandra, Speaker 5 Matts).'
 added: '2026-11-09'
 added_by: Claude (from Nathan's Otter recordings, 9 Nov 2026)

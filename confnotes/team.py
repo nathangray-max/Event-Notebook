@@ -17,6 +17,7 @@ import json
 import re
 import subprocess
 import tempfile
+import unicodedata
 from pathlib import Path
 from typing import Any, Dict, List
 
@@ -26,6 +27,30 @@ OUT = ROOT / "team"
 SLIDE_WIDTH = 1400          # px, rendered deck pages and photos are scaled to this width at most
 WEBP_QUALITY = 72
 LEVELS = {"high": "Essential", "medium": "Recommended", "low": "Background"}
+
+
+# The same speaker under two billed names (Nathan's notes treat them as one person); the first is shown.
+PEOPLE_ALIASES = {"Nicholas Morgan": "Nick Morgan"}
+TITLES = re.compile(r"^(dr|prof|professor)\.?\s+", re.I)
+
+
+def _slug(s: str) -> str:
+    plain = unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode()  # Pavlová -> Pavlova
+    return re.sub(r"[^a-z0-9]+", "-", plain.lower()).strip("-")
+
+
+def person_id(sp: Dict[str, Any]) -> str:
+    """A stable id for a speaker's page, or '' for someone who gets none (consumer panellists, unnamed speakers).
+    A first name alone is told apart by the organisation (two different Miguels)."""
+    name, org = str(sp.get("name") or ""), str(sp.get("organisation") or "")
+    if not name or "panellist" in org.lower() or name.lower().startswith("not named"):
+        return ""
+    base = PEOPLE_ALIASES.get(name, name)
+    base = TITLES.sub("", re.sub(r"\s*\(.*?\)", "", base)).strip()
+    sid = _slug(base)
+    if " " not in base and org:
+        sid += "-" + _slug(" ".join(re.sub(r"\(.*?\)", "", org).split()[:2]))
+    return sid
 
 
 class TeamLeak(Exception):
@@ -47,7 +72,7 @@ def _lesson(e: Dict[str, Any], s: Dict[str, Any], slides: int) -> Dict[str, Any]
     sm = s.get("summary") or {}
     return {
         "id": s["id"], "event": e["id"], "title": s["title"], "date": s.get("date"), "start": s.get("start"),
-        "format": s.get("format"), "speakers": s.get("speakers") or [],
+        "format": s.get("format"), "speakers": [dict(sp, person=person_id(sp)) for sp in s.get("speakers") or [] if isinstance(sp, dict)],
         "categories": s.get("categories") or [], "tags": s.get("tags") or [], "ingredients": s.get("ingredient_groups") or [], "level": LEVELS.get(s.get("relevance") or "", "Recommended"),
         "summary": sm.get("Summary", ""), "takeaways": [t["text"] for t in s.get("takeaways") or []],
         "for_us": sm.get("For Vita Actives", ""), "quotes": [q["text"] for q in s.get("quotes") or []],
@@ -144,7 +169,22 @@ def library(data: Dict[str, Any], root: Path, out: Path, render: bool = True) ->
             ls = [f"{c['id']}--{l['id']}" for c in courses for l in c["lessons"] if f["id"] in l[field]]
             if ls:
                 facets[kind].append({"id": f["id"], "name": f["name"], "lessons": ls})
+    people: Dict[str, Dict[str, Any]] = {}
+    for c in courses:
+        for l in c["lessons"]:
+            for sp in l["speakers"]:
+                if not sp["person"]:
+                    continue
+                p = people.setdefault(sp["person"], {"id": sp["person"], "name": PEOPLE_ALIASES.get(sp["name"], sp["name"]),
+                                                     "organisations": [], "lessons": []})
+                org = re.sub(r"\s*\(.*?\)", "", str(sp.get("organisation") or "")).strip()
+                if org and org not in p["organisations"]:
+                    p["organisations"].append(org)
+                k = f"{c['id']}--{l['id']}"
+                if k not in p["lessons"]:
+                    p["lessons"].append(k)
     return {"schema": "confnotes.team/1", "built": data["generated"]["date"], "commit": data["generated"]["commit"],
+            "people": sorted(people.values(), key=lambda p: TITLES.sub("", p["name"]).split()[-1].lower()),
             "courses": courses, "facets": facets}
 
 

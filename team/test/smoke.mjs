@@ -58,7 +58,7 @@ for (const width of [1280, 390]) {
   page.on("pageerror", (e) => errors.push(String(e)));
   await page.goto(base + "#home");
   await page.waitForSelector(".choice");
-  check((await page.locator(".choice").count()) === 4 && (await page.locator(".topnav a").count()) === 5, `${width}: home asks what to explore, with the top menu`);
+  check((await page.locator(".choice").count()) === 5 && (await page.locator(".topnav a").count()) === 6, `${width}: home asks what to explore, with the top menu`);
   check(!(await page.content()).includes("Private side conversation"), `${width}: the confidential session is not on the home page`);
   await page.click(".choice[data-by='events']");
   await page.waitForSelector("#pick");
@@ -95,6 +95,21 @@ for (const width of [1280, 390]) {
   check((await page.locator(".learning").count()) >= 1, `${width}: the talk shows its key learnings`);
   check(await page.evaluate(() => document.getElementById("stage").getBoundingClientRect().right <= window.innerWidth), `${width}: the slide fits the screen`);
   check((await page.locator("#thumbs button").count()) >= 1 && (await page.locator("#scrub button").count()) >= 1, `${width}: the deck shows thumbnails and progress`);
+  const who = page.locator(".byline a.person").first();
+  if (await who.count()) {
+    const name = await who.textContent();
+    await who.click();
+    await page.waitForSelector(".hub-head h1");
+    check((await page.locator(".hub-head h1").textContent()) === name && (await page.locator(".talk").count()) === 1 &&
+      (await page.locator(".topnav a[aria-current='page']").textContent()) === "Speakers", `${width}: a speaker's name opens their page with their talks`);
+    await page.click(".talk a");
+    await page.waitForSelector("#stage img");
+  } else check(false, `${width}: the talk's speakers are links`);
+  await page.click(".kicker a");
+  await page.waitForSelector(".talk");
+  check((await page.locator(".topnav a[aria-current='page']").textContent()) === "Events", `${width}: the event name opens the event's page`);
+  await page.click(".talk a");
+  await page.waitForSelector("#stage img");
   const n = await page.locator("#scrub button").count();
   for (let i = 0; i < n; i++) await page.click("#next");
   await page.waitForSelector("#explore");

@@ -26,7 +26,10 @@
   function byline(l) {
     var s = (l.speakers || []).filter(function (p) { return p.name; });
     if (!s.length) return "<span>Speaker to confirm</span>";
-    return s.slice(0, 4).map(function (p) { return "<b>" + esc(p.name) + "</b>" + (p.organisation ? ", " + esc(p.organisation) : ""); }).join(" · ") +
+    return s.slice(0, 4).map(function (p) {
+      var nm = p.person && PERSON[p.person] ? '<a class="person" href="#person-' + p.person + '">' + esc(p.name) + "</a>" : "<b>" + esc(p.name) + "</b>";
+      return nm + (p.organisation ? ", " + esc(p.organisation) : "");
+    }).join(" · ") +
       (s.length > 4 ? " · and " + (s.length - 4) + " more" : "");
   }
   function level(l) { return '<span class="level level-' + esc(l.level) + '">' + esc(l.level) + "</span>"; }
@@ -83,10 +86,13 @@
     { id: "categories", label: "Market categories", one: "market", ask: "Which market?", kind: "categories", prefix: "cat-" },
     { id: "ingredients", label: "Ingredients", one: "ingredient", ask: "Which ingredient?", kind: "ingredients", prefix: "ing-" },
     { id: "insights", label: "Insight type", one: "kind of insight", ask: "What kind of insight?", kind: "tags", prefix: "tag-" },
+    { id: "people", label: "Speakers", one: "speaker", ask: "Which speaker?", prefix: "person-" },
   ];
+  var PERSON = {};  // person id -> {name, organisations, lessons}
   var SECTION = {}; SECTIONS.forEach(function (s) { SECTION[s.id] = s; });
   // the items of a section: {href, name, n, note}
   function items(sec) {
+    if (sec.id === "people") return LIB.people.map(function (p) { return { href: "person-" + p.id, name: p.name, n: p.lessons.length, note: p.organisations.join(", ") }; });
     if (sec.id === "events") return LIB.courses.map(function (c) { return { href: c.id, name: c.name, n: c.lessons.length, note: datesOf(c) + (c.city ? " · " + c.city : "") }; });
     var all = (LIB.facets[sec.kind] || []).map(function (f) { return { href: sec.prefix + f.id, name: f.name, n: f.lessons.length }; });
     return sec.id === "ingredients" ? all.sort(function (a, b) { return a.name.localeCompare(b.name); }) : all;
@@ -125,7 +131,7 @@
   function home() {
     var last = BY_KEY[load("sll-last", "")], sec = SECTION[exploreBy];
     var counts = { events: LIB.courses.length + " shows", categories: (LIB.facets.categories || []).length + " markets",
-      ingredients: (LIB.facets.ingredients || []).length + " ingredients", insights: (LIB.facets.tags || []).length + " kinds" };
+      ingredients: (LIB.facets.ingredients || []).length + " ingredients", insights: (LIB.facets.tags || []).length + " kinds", people: LIB.people.length + " speakers" };
     var ess = LESSONS.filter(function (x) { return x.level === "Essential"; }).length;
     return '<section class="ask-home"><div class="ask-inner"><span class="kicker">' + LESSONS.length + " talks from three shows · autumn 2026</span>" +
       "<h1>What do you want to explore?</h1>" +
@@ -204,7 +210,7 @@
                : '<div class="learning">' + body + "</div>";
     }).join("");
     var reading = '<article class="reading"><header class="reading-head"><nav class="crumbs"><a href="#home">Home</a><span>/</span><a href="#' + esc(c.id) + '">' + esc(c.short) + "</a></nav>" +
-      '<span class="kicker">' + esc(c.short) + " · " + esc(l.level) + "</span><h1>" + esc(l.title) + '</h1><p class="byline">' + byline(l) + "</p>" +
+      '<span class="kicker"><a href="#' + esc(c.id) + '">' + esc(c.name) + "</a> · " + esc(l.level) + "</span><h1>" + esc(l.title) + '</h1><p class="byline">' + byline(l) + "</p>" +
       '<p class="meta">' + esc(fmtDate(l.date)) + (l.start ? ", " + esc(l.start) : "") + (l.slides ? " · " + l.slides + " slides" : "") + "</p></header>" +
       (l.summary ? '<section class="lede">' + prose(l.summary, l) + "</section>" : "") +
       (learn ? '<section class="learnings"><h2>Key learnings</h2>' + learn + "</section>" : "") +
@@ -299,6 +305,10 @@
     else if (FACET[h]) {
       var f = FACET[h];
       html = hub(h, f.label, f.name, f.lessons.length + (f.lessons.length === 1 ? " talk" : " talks") + " across the shows.", ordered(f.lessons.map(function (k) { return BY_KEY[k]; }).filter(Boolean)), true);
+    } else if (h.indexOf("person-") === 0 && PERSON[h.slice(7)]) {
+      var pp = PERSON[h.slice(7)];
+      html = hub(h, "Speaker", pp.name, (pp.organisations.length ? pp.organisations.join(", ") + ". " : "") + pp.lessons.length + (pp.lessons.length === 1 ? " talk" : " talks") + " in the library.",
+        ordered(pp.lessons.map(function (k) { return BY_KEY[k]; }).filter(Boolean)), false);
     } else if (SECTION[h]) {
       html = sectionPage(SECTION[h]);
     } else if (COURSE[h]) {
@@ -339,6 +349,7 @@
   fetch("data/library.json").then(function (r) { return r.json(); }).then(function (lib) {
     LIB = lib;
     lib.courses.forEach(function (c) { COURSE[c.id] = c; c.lessons.forEach(function (x) { LESSONS.push(x); BY_KEY[key(x)] = x; }); });
+    (lib.people || []).forEach(function (p) { PERSON[p.id] = p; });
     KINDS.forEach(function (k) { (lib.facets[k.kind] || []).forEach(function (f) { FACET[k.prefix + f.id] = { name: f.name, lessons: f.lessons, label: k.label }; }); });
     document.getElementById("stamp").textContent = "Updated " + fmtDate(lib.built);
     updateCount();

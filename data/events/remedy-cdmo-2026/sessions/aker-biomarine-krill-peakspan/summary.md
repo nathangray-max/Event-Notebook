@@ -1,7 +1,7 @@
 # From Longevity to Peakspan: The Role of Krill Oil in Healthy Aging
 
 ## Summary
-Aker BioMarine pitched its Superba Krill oil to Remedy's contract manufacturers as an ingredient for healthy ageing. Its frame is "Peakspan": not how long we live, or how long we avoid disease, but how long we stay close to our personal best. Consumers put it in plainer words: maintaining mobility, keeping physically active and keeping an active mind.
+Matts Johansen, chief executive of Aker BioMarine, pitched its Superba Krill oil to Remedy's contract manufacturers as an ingredient for healthy ageing. Its frame is "Peakspan": not how long we live, or how long we avoid disease, but how long we stay close to our personal best. Consumers put it in plainer words: maintaining mobility, keeping physically active and keeping an active mind.
 
 The deck opens on the market. Europe's longevity supplement market is put at $0.50 billion in 2025, rising to $1.23 billion by 2035. It then names seven areas that come under pressure with age, from muscle and joints to heart and skin, and gives trial evidence for krill oil in five of them.
 
@@ -41,6 +41,6 @@ It closes with three product concepts built on two of its ingredients, labelled 
 - Slide 2 is blank in the PDF, probably a video in the original.
 
 ## Follow-ups
-- Confirm the speaker, the date and whether Nathan attended (the panel's Matt, "Max", is the likely speaker).
+- Confirm the date and whether Nathan attended. Matts Johansen also sat on the closing panel (panel-evidence-regulation-ai), where he warned of the fish oil shortage.
 - Ask Aker BioMarine whether krill oil has been tested with creatine or protein, and for the papers behind slides 7 to 9.
 - Ask for the source and update of the fish oil projection, and Aker's view of krill supply against it.

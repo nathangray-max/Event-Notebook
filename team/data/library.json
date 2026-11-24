@@ -1,7 +1,634 @@
 {
  "schema": "confnotes.team/1",
  "built": "2026-11-24",
- "commit": "23a10d5",
+ "commit": "82825c1",
+ "people": [
+  {
+   "id": "alessia-montefarmaco",
+   "name": "Alessia",
+   "organisations": [
+    "Montefarmaco"
+   ],
+   "lessons": [
+    "remedy-cdmo-2026--novonesis-montefarmaco"
+   ]
+  },
+  {
+   "id": "alexandra-pharmaceutical-company",
+   "name": "Alexandra",
+   "organisations": [
+    "Pharmaceutical company"
+   ],
+   "lessons": [
+    "remedy-cdmo-2026--panel-evidence-regulation-ai"
+   ]
+  },
+  {
+   "id": "ariel-annoni",
+   "name": "Ariel Annoni",
+   "organisations": [
+    "Novonesis"
+   ],
+   "lessons": [
+    "remedy-cdmo-2026--novonesis-montefarmaco"
+   ]
+  },
+  {
+   "id": "thomas-beadnall",
+   "name": "Thomas Beadnall",
+   "organisations": [
+    "Solabia Nutrition"
+   ],
+   "lessons": [
+    "remedy-cdmo-2026--solabia-launches"
+   ]
+  },
+  {
+   "id": "thijs-bosch",
+   "name": "Thijs Bosch",
+   "organisations": [
+    "The Protein Brewery"
+   ],
+   "lessons": [
+    "remedy-cdmo-2026--protein-brewery-fermotein"
+   ]
+  },
+  {
+   "id": "luca-bucchini",
+   "name": "Luca Bucchini",
+   "organisations": [
+    "Hylobates Consulting"
+   ],
+   "lessons": [
+    "sans-europe-2026--clicks-to-community-turning-digital-engagement"
+   ]
+  },
+  {
+   "id": "jeff-chen",
+   "name": "Jeff Chen",
+   "organisations": [
+    "Radicle Science"
+   ],
+   "lessons": [
+    "nutra-healthspan-summit-2026--from-data-to-decisions-personalizing"
+   ]
+  },
+  {
+   "id": "stephen-daniells",
+   "name": "Stephen Daniells",
+   "organisations": [
+    "NutraIngredients"
+   ],
+   "lessons": [
+    "nutra-healthspan-summit-2026--from-hype-to-healthspan-building-the",
+    "nutra-healthspan-summit-2026--consumer-insights-straight-from-the-horse",
+    "nutra-healthspan-summit-2026--from-data-to-decisions-personalizing"
+   ]
+  },
+  {
+   "id": "mark-evans",
+   "name": "Mark Evans",
+   "organisations": [
+    "Holland & Barrett"
+   ],
+   "lessons": [
+    "sans-europe-2026--is-the-juice-worth-the-squeeze"
+   ]
+  },
+  {
+   "id": "sinead-gibbons",
+   "name": "Sinead Gibbons",
+   "organisations": [
+    "Tonic Health"
+   ],
+   "lessons": [
+    "sans-europe-2026--clicks-to-community-turning-digital-engagement"
+   ]
+  },
+  {
+   "id": "alex-glover",
+   "name": "Alex Glover",
+   "organisations": [
+    "Holland & Barrett"
+   ],
+   "lessons": [
+    "remedy-cdmo-2026--alex-glover-holland-barrett",
+    "remedy-cdmo-2026--panel-evidence-regulation-ai"
+   ]
+  },
+  {
+   "id": "nathan-gray",
+   "name": "Nathan Gray",
+   "organisations": [
+    "Vita Actives"
+   ],
+   "lessons": [
+    "remedy-cdmo-2026--nathan-gray-creatine-new-buyers"
+   ]
+  },
+  {
+   "id": "morgan-griffiths",
+   "name": "Morgan Griffiths",
+   "organisations": [
+    "Lumina Intelligence"
+   ],
+   "lessons": [
+    "sans-europe-2026--glp-won-market-opportunities-for-the"
+   ]
+  },
+  {
+   "id": "philipp-gut",
+   "name": "Philipp Gut",
+   "organisations": [
+    "Nestlé Research"
+   ],
+   "lessons": [
+    "nutra-healthspan-summit-2026--nutrition-to-improve-mitochondrial-functions"
+   ]
+  },
+  {
+   "id": "brett-hamer",
+   "name": "Brett Hamer",
+   "organisations": [
+    "THG"
+   ],
+   "lessons": [
+    "sans-europe-2026--beyond-the-glp-1-boom-nutrition"
+   ]
+  },
+  {
+   "id": "nikki-hancocks",
+   "name": "Nikki Hancocks",
+   "organisations": [
+    "NutraIngredients"
+   ],
+   "lessons": [
+    "sans-europe-2026--clicks-to-community-turning-digital-engagement"
+   ]
+  },
+  {
+   "id": "julian-harvie",
+   "name": "Julian Harvie",
+   "organisations": [
+    "AG1"
+   ],
+   "lessons": [
+    "sans-europe-2026--clicks-to-community-turning-digital-engagement"
+   ]
+  },
+  {
+   "id": "olivia-haslam",
+   "name": "Olivia Haslam",
+   "organisations": [
+    "NutraIngredients"
+   ],
+   "lessons": [
+    "sans-europe-2026--fuelling-the-female-runner-from-paper"
+   ]
+  },
+  {
+   "id": "liam-holmes",
+   "name": "Liam Holmes",
+   "organisations": [
+    "Marchon"
+   ],
+   "lessons": [
+    "sans-europe-2026--built-in-the-gym-turning-athlete"
+   ]
+  },
+  {
+   "id": "ewa-hudson",
+   "name": "Ewa Hudson",
+   "organisations": [
+    "Lumina Intelligence"
+   ],
+   "lessons": [
+    "nutra-healthspan-summit-2026--lumina-new-longevity-consumer"
+   ]
+  },
+  {
+   "id": "mihail-jakubowski",
+   "name": "Mihail Jakubowski",
+   "organisations": [
+    "Nordic Biotic"
+   ],
+   "lessons": [
+    "remedy-cdmo-2026--spi-pharma-nordic-biotic"
+   ]
+  },
+  {
+   "id": "emily-jevons",
+   "name": "Emily Jevons",
+   "organisations": [
+    "Emily Jevons Nutrition"
+   ],
+   "lessons": [
+    "sans-europe-2026--fuelling-female-performance"
+   ]
+  },
+  {
+   "id": "joanna",
+   "name": "Joanna",
+   "organisations": [],
+   "lessons": [
+    "remedy-cdmo-2026--panel-evidence-regulation-ai"
+   ]
+  },
+  {
+   "id": "matts-johansen",
+   "name": "Matts Johansen",
+   "organisations": [
+    "Aker BioMarine"
+   ],
+   "lessons": [
+    "remedy-cdmo-2026--aker-biomarine-krill-peakspan",
+    "remedy-cdmo-2026--panel-evidence-regulation-ai"
+   ]
+  },
+  {
+   "id": "alan-johnstone",
+   "name": "Alan Johnstone",
+   "organisations": [
+    "Nutrilution"
+   ],
+   "lessons": [
+    "sans-europe-2026--unfiltered-an-insider-s-view-of"
+   ]
+  },
+  {
+   "id": "brian-keogh",
+   "name": "Brian Keogh",
+   "organisations": [
+    "Nuritas"
+   ],
+   "lessons": [
+    "remedy-cdmo-2026--nuritas-peptistrong"
+   ]
+  },
+  {
+   "id": "mateusz-korgul",
+   "name": "Mateusz Korgul",
+   "organisations": [
+    "Tantus"
+   ],
+   "lessons": [
+    "remedy-cdmo-2026--tantus-longevity-concepts"
+   ]
+  },
+  {
+   "id": "rachel-kreider",
+   "name": "Rachel Kreider",
+   "organisations": [
+    "GNC"
+   ],
+   "lessons": [
+    "nutra-healthspan-summit-2026--from-hype-to-healthspan-building-the"
+   ]
+  },
+  {
+   "id": "matthew-kwembowski",
+   "name": "Matthew Kwembowski",
+   "organisations": [
+    "2waves"
+   ],
+   "lessons": [
+    "remedy-cdmo-2026--2waves-platform"
+   ]
+  },
+  {
+   "id": "lena-leder",
+   "name": "Lena Leder",
+   "organisations": [
+    "Balchem"
+   ],
+   "lessons": [
+    "remedy-cdmo-2026--novosol-optimsm"
+   ]
+  },
+  {
+   "id": "victoria-lesiovski",
+   "name": "Victoria Lesiovski",
+   "organisations": [
+    "Tantus"
+   ],
+   "lessons": [
+    "remedy-cdmo-2026--tantus-longevity-concepts"
+   ]
+  },
+  {
+   "id": "federico-luna",
+   "name": "Federico Luna",
+   "organisations": [
+    "Timeline"
+   ],
+   "lessons": [
+    "nutra-healthspan-summit-2026--from-hype-to-healthspan-building-the"
+   ]
+  },
+  {
+   "id": "jenna-macciochi",
+   "name": "Dr Jenna Macciochi",
+   "organisations": [
+    "Ancient + Brave"
+   ],
+   "lessons": [
+    "nutra-healthspan-summit-2026--ancient-brave-womens-healthspan"
+   ]
+  },
+  {
+   "id": "sharon-madigan",
+   "name": "Sharon Madigan",
+   "organisations": [
+    "Sports Ireland Institute"
+   ],
+   "lessons": [
+    "sans-europe-2026--fuel-the-frame-carbohydrate-recovery-and"
+   ]
+  },
+  {
+   "id": "ohad-manor",
+   "name": "Ohad Manor",
+   "organisations": [
+    "Thorne"
+   ],
+   "lessons": [
+    "nutra-healthspan-summit-2026--ai-driven-personalization-at-scale",
+    "nutra-healthspan-summit-2026--from-data-to-decisions-personalizing"
+   ]
+  },
+  {
+   "id": "ollie-marchon",
+   "name": "Ollie Marchon",
+   "organisations": [
+    "Marchon"
+   ],
+   "lessons": [
+    "sans-europe-2026--built-in-the-gym-turning-athlete"
+   ]
+  },
+  {
+   "id": "miguel-nuritas",
+   "name": "Miguel",
+   "organisations": [
+    "Nuritas"
+   ],
+   "lessons": [
+    "remedy-cdmo-2026--nuritas-peptistrong"
+   ]
+  },
+  {
+   "id": "nick-morgan",
+   "name": "Nick Morgan",
+   "organisations": [
+    "Nutrition Integrated"
+   ],
+   "lessons": [
+    "sans-europe-2026--a-bigger-sports-nutrition-landscape-growth",
+    "sans-europe-2026--beyond-the-glp-1-boom-nutrition",
+    "remedy-cdmo-2026--nick-morgan-longevity"
+   ]
+  },
+  {
+   "id": "james-morton",
+   "name": "James Morton",
+   "organisations": [
+    "Science in Sport"
+   ],
+   "lessons": [
+    "sans-europe-2026--fuelling-the-female-runner-from-paper"
+   ]
+  },
+  {
+   "id": "lauren-nicolle",
+   "name": "Lauren Nicolle",
+   "organisations": [
+    "NutraIngredients+"
+   ],
+   "lessons": [
+    "nutra-healthspan-summit-2026--from-data-to-decisions-personalizing"
+   ]
+  },
+  {
+   "id": "jessica-pasco",
+   "name": "Jessica Pasco",
+   "organisations": [
+    "Holland & Barrett"
+   ],
+   "lessons": [
+    "nutra-healthspan-summit-2026--from-hype-to-healthspan-building-the"
+   ]
+  },
+  {
+   "id": "martina-pavlova",
+   "name": "Martina Pavlová",
+   "organisations": [
+    "FAVEA a.s."
+   ],
+   "lessons": [
+    "remedy-cdmo-2026--favea-ai-mental-shift",
+    "remedy-cdmo-2026--panel-evidence-regulation-ai"
+   ]
+  },
+  {
+   "id": "tess-plaquet",
+   "name": "Tess Plaquet",
+   "organisations": [
+    "Rousselot"
+   ],
+   "lessons": [
+    "sans-europe-2026--whey-collagen-the-protein-power-couple"
+   ]
+  },
+  {
+   "id": "amanda-rao",
+   "name": "Amanda Rao",
+   "organisations": [],
+   "lessons": [
+    "nutra-healthspan-summit-2026--absorbed-or-assumed-why-pharmacokinetic"
+   ]
+  },
+  {
+   "id": "dan-richardson",
+   "name": "Dan Richardson",
+   "organisations": [
+    "DRN Nutrition Group"
+   ],
+   "lessons": [
+    "sans-europe-2026--clicks-to-community-turning-digital-engagement"
+   ]
+  },
+  {
+   "id": "oliver-romanow",
+   "name": "Oliver Romanow",
+   "organisations": [
+    "Kaneka"
+   ],
+   "lessons": [
+    "remedy-cdmo-2026--kaneka-ubiquinol"
+   ]
+  },
+  {
+   "id": "torsten-seck",
+   "name": "Torsten Seck",
+   "organisations": [
+    "Aquanova AG"
+   ],
+   "lessons": [
+    "remedy-cdmo-2026--novosol-optimsm"
+   ]
+  },
+  {
+   "id": "colin-selman",
+   "name": "Colin Selman",
+   "organisations": [
+    "University of Glasgow; EffePharm"
+   ],
+   "lessons": [
+    "nutra-healthspan-summit-2026--uthever-nmn-nad-metabolism-sleep-health"
+   ]
+  },
+  {
+   "id": "paul-spagnuolo",
+   "name": "Paul Spagnuolo",
+   "organisations": [
+    "ALT"
+   ],
+   "lessons": [
+    "nutra-healthspan-summit-2026--artificial-intelligence-to-rapidly-develop",
+    "nutra-healthspan-summit-2026--from-data-to-decisions-personalizing"
+   ]
+  },
+  {
+   "id": "ralf-spreemann",
+   "name": "Dr. Ralf Spreemann",
+   "organisations": [
+    "MartinBauer Nutraceuticals"
+   ],
+   "lessons": [
+    "remedy-cdmo-2026--martin-bauer-rhosera"
+   ]
+  },
+  {
+   "id": "nick-stene",
+   "name": "Nick Stene",
+   "organisations": [
+    "Euromonitor International"
+   ],
+   "lessons": [
+    "nutra-healthspan-summit-2026--euromonitor-who-is-winning-healthspan"
+   ]
+  },
+  {
+   "id": "serena-tongiani",
+   "name": "Serena Tongiani",
+   "organisations": [
+    "Indena"
+   ],
+   "lessons": [
+    "nutra-healthspan-summit-2026--indena-longevity-appearance"
+   ]
+  },
+  {
+   "id": "ed-tooley",
+   "name": "Ed Tooley",
+   "organisations": [
+    "Ed Tooley Nutrition"
+   ],
+   "lessons": [
+    "sans-europe-2026--beyond-the-glp-1-boom-nutrition"
+   ]
+  },
+  {
+   "id": "viktor-tsevsky",
+   "name": "Viktor Tsevsky",
+   "organisations": [
+    "2waves"
+   ],
+   "lessons": [
+    "remedy-cdmo-2026--2waves-platform"
+   ]
+  },
+  {
+   "id": "simone-sacco-system",
+   "name": "Simone (surname unconfirmed)",
+   "organisations": [
+    "Sacco System"
+   ],
+   "lessons": [
+    "remedy-cdmo-2026--sacco-probiotics"
+   ]
+  },
+  {
+   "id": "miguel-spi-pharma",
+   "name": "Miguel (surname unconfirmed)",
+   "organisations": [
+    "SPI Pharma"
+   ],
+   "lessons": [
+    "remedy-cdmo-2026--spi-pharma-nordic-biotic"
+   ]
+  },
+  {
+   "id": "jens-walter",
+   "name": "Jens Walter",
+   "organisations": [
+    "APC Microbiome Ireland, University College Cork"
+   ],
+   "lessons": [
+    "nutra-healthspan-summit-2026--jens-walter-microbiome-ageing"
+   ]
+  },
+  {
+   "id": "jennifer-wang",
+   "name": "Jennifer Wang",
+   "organisations": [
+    "Alibaba Group"
+   ],
+   "lessons": [
+    "nutra-healthspan-summit-2026--from-hype-to-healthspan-building-the"
+   ]
+  },
+  {
+   "id": "david-weinkove",
+   "name": "David Weinkove",
+   "organisations": [
+    "British Society for Research on Ageing; Durham University"
+   ],
+   "lessons": [
+    "nutra-healthspan-summit-2026--the-challenge-and-opportunity-of-our"
+   ]
+  },
+  {
+   "id": "marit-weinstra",
+   "name": "Marit Weinstra",
+   "organisations": [
+    "HMT - Healthy Marketing Team"
+   ],
+   "lessons": [
+    "remedy-cdmo-2026--hmt-probiotic-market"
+   ]
+  },
+  {
+   "id": "jianjun-yu",
+   "name": "JianJun Yu",
+   "organisations": [
+    "EffePharm"
+   ],
+   "lessons": [
+    "nutra-healthspan-summit-2026--uthever-nmn-nad-metabolism-sleep-health"
+   ]
+  },
+  {
+   "id": "gulrez-zariwala",
+   "name": "Gulrez Zariwala",
+   "organisations": [
+    "Centre for Nutraceuticals, University of Westminster"
+   ],
+   "lessons": [
+    "sans-europe-2026--from-hype-to-proof-the-science"
+   ]
+  }
+ ],
  "courses": [
   {
    "id": "nutra-healthspan-summit-2026",
@@ -25,7 +652,8 @@
       {
        "name": "David Weinkove",
        "organisation": "British Society for Research on Ageing (BSRA); Durham University",
-       "role": "Emeritus Chair, British Society for Research on Ageing; Professor, Durham University"
+       "role": "Emeritus Chair, British Society for Research on Ageing; Professor, Durham University",
+       "person": "david-weinkove"
       }
      ],
      "categories": [
@@ -70,7 +698,8 @@
       {
        "name": "Nick Stene",
        "organisation": "Euromonitor International",
-       "role": "Senior Global Insight Manager, Consumer Health"
+       "role": "Senior Global Insight Manager, Consumer Health",
+       "person": "nick-stene"
       }
      ],
      "categories": [
@@ -146,7 +775,8 @@
       {
        "name": "Ewa Hudson",
        "organisation": "Lumina Intelligence",
-       "role": "Strategy & Insight Director, ReThink Global"
+       "role": "Strategy & Insight Director, ReThink Global",
+       "person": "ewa-hudson"
       }
      ],
      "categories": [
@@ -225,27 +855,32 @@
       {
        "name": "Stephen Daniells",
        "organisation": "NutraIngredients",
-       "role": "Global Editor-in-Chief (moderator)"
+       "role": "Global Editor-in-Chief (moderator)",
+       "person": "stephen-daniells"
       },
       {
        "name": "Jessica Pasco",
        "organisation": "Holland & Barrett",
-       "role": "Commercial Trading Director Health & Beauty"
+       "role": "Commercial Trading Director Health & Beauty",
+       "person": "jessica-pasco"
       },
       {
        "name": "Rachel Kreider",
        "organisation": "GNC",
-       "role": "Vice President Product Innovation & Scientific Affairs"
+       "role": "Vice President Product Innovation & Scientific Affairs",
+       "person": "rachel-kreider"
       },
       {
        "name": "Federico Luna",
        "organisation": "Timeline (powered by Mitopure)",
-       "role": "Chief Brand & Marketing Officer"
+       "role": "Chief Brand & Marketing Officer",
+       "person": "federico-luna"
       },
       {
        "name": "Jennifer Wang",
        "organisation": "Alibaba Group",
-       "role": "General Manager Europe, Taobao Tmall"
+       "role": "General Manager Europe, Taobao Tmall",
+       "person": "jennifer-wang"
       }
      ],
      "categories": [
@@ -305,7 +940,8 @@
       {
        "name": "Jens Walter",
        "organisation": "APC Microbiome Ireland, University College Cork",
-       "role": "Professor of Ecology, Food, and the Microbiome; founder and co-owner of Synbiotic Health"
+       "role": "Professor of Ecology, Food, and the Microbiome; founder and co-owner of Synbiotic Health",
+       "person": "jens-walter"
       }
      ],
      "categories": [
@@ -357,47 +993,56 @@
       {
        "name": "Stephen Daniells",
        "organisation": "NutraIngredients",
-       "role": "Global Editor-in-Chief (moderator)"
+       "role": "Global Editor-in-Chief (moderator)",
+       "person": "stephen-daniells"
       },
       {
        "name": "Robert",
        "organisation": "consumer panellist",
-       "role": "panellist, age 38"
+       "role": "panellist, age 38",
+       "person": ""
       },
       {
        "name": "Matt",
        "organisation": "consumer panellist",
-       "role": "panellist, age 27"
+       "role": "panellist, age 27",
+       "person": ""
       },
       {
        "name": "Mike",
        "organisation": "consumer panellist",
-       "role": "panellist, age 51"
+       "role": "panellist, age 51",
+       "person": ""
       },
       {
        "name": "Michelle",
        "organisation": "consumer panellist",
-       "role": "panellist, age 64"
+       "role": "panellist, age 64",
+       "person": ""
       },
       {
        "name": "Rahav",
        "organisation": "consumer panellist",
-       "role": "panellist, age 25"
+       "role": "panellist, age 25",
+       "person": ""
       },
       {
        "name": "Donella",
        "organisation": "consumer panellist",
-       "role": "panellist, age 51"
+       "role": "panellist, age 51",
+       "person": ""
       },
       {
        "name": "Nadine",
        "organisation": "consumer panellist",
-       "role": "panellist, age 46"
+       "role": "panellist, age 46",
+       "person": ""
       },
       {
        "name": "Kane",
        "organisation": "consumer panellist",
-       "role": "panellist, age not given"
+       "role": "panellist, age not given",
+       "person": ""
       }
      ],
      "categories": [
@@ -456,7 +1101,8 @@
       {
        "name": "Philipp Gut",
        "organisation": "Nestlé Research",
-       "role": "M.D."
+       "role": "M.D.",
+       "person": "philipp-gut"
       }
      ],
      "categories": [
@@ -511,12 +1157,14 @@
       {
        "name": "Colin Selman",
        "organisation": "University of Glasgow; EffePharm",
-       "role": "Professor of Biogerontology, Head of School of Molecular Biosciences"
+       "role": "Professor of Biogerontology, Head of School of Molecular Biosciences",
+       "person": "colin-selman"
       },
       {
        "name": "JianJun Yu",
        "organisation": "EffePharm (UTHEVER NMN)",
-       "role": ""
+       "role": "",
+       "person": "jianjun-yu"
       }
      ],
      "categories": [
@@ -567,7 +1215,8 @@
       {
        "name": "Amanda Rao",
        "organisation": "",
-       "role": ""
+       "role": "",
+       "person": "amanda-rao"
       }
      ],
      "categories": [
@@ -615,7 +1264,8 @@
       {
        "name": "Ohad Manor",
        "organisation": "Thorne",
-       "role": "Vice President, Computational Precision Health"
+       "role": "Vice President, Computational Precision Health",
+       "person": "ohad-manor"
       }
      ],
      "categories": [
@@ -662,7 +1312,8 @@
       {
        "name": "Paul Spagnuolo",
        "organisation": "ALT (Applied Laboratory Technologies Ltd.)",
-       "role": "Professor and CSO"
+       "role": "Professor and CSO",
+       "person": "paul-spagnuolo"
       }
      ],
      "categories": [
@@ -730,27 +1381,32 @@
       {
        "name": "Lauren Nicolle",
        "organisation": "NutraIngredients+",
-       "role": "Deputy Editor (moderator)"
+       "role": "Deputy Editor (moderator)",
+       "person": "lauren-nicolle"
       },
       {
        "name": "Ohad Manor",
        "organisation": "Thorne",
-       "role": "Vice President, Computational Precision Health"
+       "role": "Vice President, Computational Precision Health",
+       "person": "ohad-manor"
       },
       {
        "name": "Paul Spagnuolo",
        "organisation": "ALT (Applied Laboratory Technologies Ltd.)",
-       "role": "Professor and CSO"
+       "role": "Professor and CSO",
+       "person": "paul-spagnuolo"
       },
       {
        "name": "Jeff Chen",
        "organisation": "Radicle Science",
-       "role": "Co-founder & CEO"
+       "role": "Co-founder & CEO",
+       "person": "jeff-chen"
       },
       {
        "name": "Stephen Daniells",
        "organisation": "NutraIngredients",
-       "role": "Global Editor-in-Chief (Chair's Closing Remarks)"
+       "role": "Global Editor-in-Chief (Chair's Closing Remarks)",
+       "person": "stephen-daniells"
       }
      ],
      "categories": [
@@ -802,7 +1458,8 @@
       {
        "name": "Dr Jenna Macciochi",
        "organisation": "Ancient + Brave",
-       "role": "Director of Science & Innovation"
+       "role": "Director of Science & Innovation",
+       "person": "jenna-macciochi"
       }
      ],
      "categories": [
@@ -856,7 +1513,8 @@
       {
        "name": "Serena Tongiani",
        "organisation": "Indena",
-       "role": "Chief Portfolio Officer"
+       "role": "Chief Portfolio Officer",
+       "person": "serena-tongiani"
       }
      ],
      "categories": [
@@ -920,7 +1578,8 @@
       {
        "name": "Nicholas Morgan",
        "organisation": "Nutrition Integrated",
-       "role": ""
+       "role": "",
+       "person": "nick-morgan"
       }
      ],
      "categories": [
@@ -997,7 +1656,8 @@
       {
        "name": "Alan Johnstone",
        "organisation": "Nutrilution",
-       "role": "Owner (as introduced; formerly Arla Foods Ingredients)"
+       "role": "Owner (as introduced; formerly Arla Foods Ingredients)",
+       "person": "alan-johnstone"
       }
      ],
      "categories": [
@@ -1070,27 +1730,32 @@
       {
        "name": "Nikki Hancocks",
        "organisation": "NutraIngredients",
-       "role": "Chair"
+       "role": "Chair",
+       "person": "nikki-hancocks"
       },
       {
        "name": "Dan Richardson",
        "organisation": "DRN Nutrition Group",
-       "role": "Nutritionist (as he described himself; works across professional sport)"
+       "role": "Nutritionist (as he described himself; works across professional sport)",
+       "person": "dan-richardson"
       },
       {
        "name": "Sinead Gibbons",
        "organisation": "Tonic Health",
-       "role": ""
+       "role": "",
+       "person": "sinead-gibbons"
       },
       {
        "name": "Luca Bucchini",
        "organisation": "Hylobates Consulting",
-       "role": "Speaking for ESSNA (Otter's label)"
+       "role": "Speaking for ESSNA (Otter's label)",
+       "person": "luca-bucchini"
       },
       {
        "name": "Julian Harvie",
        "organisation": "AG1",
-       "role": ""
+       "role": "",
+       "person": "julian-harvie"
       }
      ],
      "categories": [
@@ -1142,7 +1807,8 @@
       {
        "name": "Emily Jevons",
        "organisation": "Emily Jevons Nutrition (ejn.)",
-       "role": "Registered Nutritionist (BSc, PhD, RNutr)"
+       "role": "Registered Nutritionist (BSc, PhD, RNutr)",
+       "person": "emily-jevons"
       }
      ],
      "categories": [
@@ -1197,12 +1863,14 @@
       {
        "name": "James Morton",
        "organisation": "Science in Sport",
-       "role": ""
+       "role": "",
+       "person": "james-morton"
       },
       {
        "name": "Olivia Haslam",
        "organisation": "NutraIngredients",
-       "role": "Chair (Q&A)"
+       "role": "Chair (Q&A)",
+       "person": "olivia-haslam"
       }
      ],
      "categories": [
@@ -1271,7 +1939,8 @@
       {
        "name": "Tess Plaquet",
        "organisation": "Rousselot",
-       "role": "Technical sport manager (as she introduced herself)"
+       "role": "Technical sport manager (as she introduced herself)",
+       "person": "tess-plaquet"
       }
      ],
      "categories": [
@@ -1325,12 +1994,14 @@
       {
        "name": "Ollie Marchon",
        "organisation": "Marchon",
-       "role": "Founder (as introduced)"
+       "role": "Founder (as introduced)",
+       "person": "ollie-marchon"
       },
       {
        "name": "Liam Holmes",
        "organisation": "Marchon",
-       "role": "Head of product (as introduced; Otter heard the name as \"Liam Bones\")"
+       "role": "Head of product (as introduced; Otter heard the name as \"Liam Bones\")",
+       "person": "liam-holmes"
       }
      ],
      "categories": [
@@ -1386,7 +2057,8 @@
       {
        "name": "Mark Evans",
        "organisation": "Holland & Barrett",
-       "role": "Senior Scientist"
+       "role": "Senior Scientist",
+       "person": "mark-evans"
       }
      ],
      "categories": [
@@ -1441,7 +2113,8 @@
       {
        "name": "Sharon Madigan",
        "organisation": "Sports Ireland Institute",
-       "role": ""
+       "role": "",
+       "person": "sharon-madigan"
       }
      ],
      "categories": [
@@ -1492,7 +2165,8 @@
       {
        "name": "Morgan Griffiths",
        "organisation": "Lumina Intelligence",
-       "role": "Commercial Lead"
+       "role": "Commercial Lead",
+       "person": "morgan-griffiths"
       }
      ],
      "categories": [
@@ -1549,7 +2223,8 @@
       {
        "name": "Gulrez Zariwala",
        "organisation": "Centre for Nutraceuticals, University of Westminster",
-       "role": "Director and Founder; Professor of Translational Physiology"
+       "role": "Director and Founder; Professor of Translational Physiology",
+       "person": "gulrez-zariwala"
       }
      ],
      "categories": [
@@ -1606,17 +2281,20 @@
       {
        "name": "Brett Hamer",
        "organisation": "THG",
-       "role": "Product director, Myprotein (as introduced)"
+       "role": "Product director, Myprotein (as introduced)",
+       "person": "brett-hamer"
       },
       {
        "name": "Nicholas Morgan",
        "organisation": "Nutrition Integrated",
-       "role": "Founder (as introduced, as Nick Morgan)"
+       "role": "Founder (as introduced, as Nick Morgan)",
+       "person": "nick-morgan"
       },
       {
        "name": "Ed Tooley",
        "organisation": "Ed Tooley Nutrition",
-       "role": "Performance nutritionist (as introduced)"
+       "role": "Performance nutritionist (as introduced)",
+       "person": "ed-tooley"
       }
      ],
      "categories": [
@@ -1686,9 +2364,10 @@
      "format": "talk",
      "speakers": [
       {
-       "name": "Not named on the slides",
+       "name": "Matts Johansen",
        "organisation": "Aker BioMarine (Superba Krill)",
-       "role": ""
+       "role": "CEO",
+       "person": "matts-johansen"
       }
      ],
      "categories": [
@@ -1702,7 +2381,7 @@
       "omega-3"
      ],
      "level": "Recommended",
-     "summary": "Aker BioMarine pitched its Superba Krill oil to Remedy's contract manufacturers as an ingredient for healthy ageing. Its frame is \"Peakspan\": not how long we live, or how long we avoid disease, but how long we stay close to our personal best. Consumers put it in plainer words: maintaining mobility, keeping physically active and keeping an active mind.\n\nThe deck opens on the market. Europe's longevity supplement market is put at $0.50 billion in 2025, rising to $1.23 billion by 2035. It then names seven areas that come under pressure with age, from muscle and joints to heart and skin, and gives trial evidence for krill oil in five of them.\n\nThe muscle evidence leads: in 102 adults over 65 taking 4 g a day for six months, strength rose against placebo. A weight-loss trial showed more of the weight lost coming from fat and less from muscle. Knee pain, triglycerides and skin follow.\n\nIt closes with three product concepts built on two of its ingredients, labelled as positioning directions, not approved claims, and a projection that fish oil supply falls short of demand from 2027.",
+     "summary": "Matts Johansen, chief executive of Aker BioMarine, pitched its Superba Krill oil to Remedy's contract manufacturers as an ingredient for healthy ageing. Its frame is \"Peakspan\": not how long we live, or how long we avoid disease, but how long we stay close to our personal best. Consumers put it in plainer words: maintaining mobility, keeping physically active and keeping an active mind.\n\nThe deck opens on the market. Europe's longevity supplement market is put at $0.50 billion in 2025, rising to $1.23 billion by 2035. It then names seven areas that come under pressure with age, from muscle and joints to heart and skin, and gives trial evidence for krill oil in five of them.\n\nThe muscle evidence leads: in 102 adults over 65 taking 4 g a day for six months, strength rose against placebo. A weight-loss trial showed more of the weight lost coming from fat and less from muscle. Knee pain, triglycerides and skin follow.\n\nIt closes with three product concepts built on two of its ingredients, labelled as positioning directions, not approved claims, and a projection that fish oil supply falls short of demand from 2027.",
      "takeaways": [
       "The frame: lifespan is how long we live, healthspan how long we avoid disease, \"Peakspan\" how long we stay close to our personal best; consumers rank mobility, staying active and an active mind as the top three aspects of healthy ageing (Innova survey, 11 countries) (slide 4).",
       "Muscle: in a six-month randomised, double-blind trial of 102 adults aged 65+ on 4 g a day (University of Glasgow), knee extension strength rose 9%, grip strength 11% and muscle thickness 3.5% against placebo (slide 7).",
@@ -1737,7 +2416,8 @@
       {
        "name": "Martina Pavlová",
        "organisation": "FAVEA a.s.",
-       "role": "CEO"
+       "role": "CEO",
+       "person": "martina-pavlova"
       }
      ],
      "categories": [],
@@ -1791,7 +2471,8 @@
       {
        "name": "Nathan Gray",
        "organisation": "Vita Actives",
-       "role": ""
+       "role": "",
+       "person": "nathan-gray"
       }
      ],
      "categories": [
@@ -1847,7 +2528,8 @@
       {
        "name": "Nick Morgan",
        "organisation": "Nutrition Integrated",
-       "role": ""
+       "role": "",
+       "person": "nick-morgan"
       }
      ],
      "categories": [
@@ -1902,12 +2584,14 @@
       {
        "name": "Miguel",
        "organisation": "Nuritas",
-       "role": "Business developer"
+       "role": "Business developer",
+       "person": "miguel-nuritas"
       },
       {
        "name": "Brian Keogh",
        "organisation": "Nuritas",
-       "role": "Chief Scientific Officer"
+       "role": "Chief Scientific Officer",
+       "person": "brian-keogh"
       }
      ],
      "categories": [
@@ -1963,7 +2647,8 @@
       {
        "name": "Oliver Romanow",
        "organisation": "Kaneka",
-       "role": ""
+       "role": "",
+       "person": "oliver-romanow"
       }
      ],
      "categories": [
@@ -2015,12 +2700,14 @@
       {
        "name": "Torsten Seck",
        "organisation": "Aquanova AG",
-       "role": "Director Sales & Marketing"
+       "role": "Director Sales & Marketing",
+       "person": "torsten-seck"
       },
       {
        "name": "Lena Leder",
        "organisation": "Balchem",
-       "role": "Senior manager nutrition science"
+       "role": "Senior manager nutrition science",
+       "person": "lena-leder"
       }
      ],
      "categories": [
@@ -2074,7 +2761,8 @@
       {
        "name": "Dr. Ralf Spreemann",
        "organisation": "MartinBauer Nutraceuticals (Nature Network)",
-       "role": ""
+       "role": "",
+       "person": "ralf-spreemann"
       }
      ],
      "categories": [
@@ -2129,7 +2817,8 @@
       {
        "name": "Thomas Beadnall",
        "organisation": "Solabia Nutrition",
-       "role": ""
+       "role": "",
+       "person": "thomas-beadnall"
       }
      ],
      "categories": [
@@ -2182,12 +2871,14 @@
       {
        "name": "Mateusz Korgul",
        "organisation": "Tantus",
-       "role": "Clinical dietician and business development manager"
+       "role": "Clinical dietician and business development manager",
+       "person": "mateusz-korgul"
       },
       {
        "name": "Victoria Lesiovski",
        "organisation": "Tantus",
-       "role": "Certified herbalist; sales and business development"
+       "role": "Certified herbalist; sales and business development",
+       "person": "victoria-lesiovski"
       }
      ],
      "categories": [
@@ -2241,7 +2932,8 @@
       {
        "name": "Thijs Bosch",
        "organisation": "The Protein Brewery",
-       "role": "CEO"
+       "role": "CEO",
+       "person": "thijs-bosch"
       }
      ],
      "categories": [
@@ -2297,7 +2989,8 @@
       {
        "name": "Alex Glover",
        "organisation": "Holland & Barrett",
-       "role": "Global Product Formulation Lead"
+       "role": "Global Product Formulation Lead",
+       "person": "alex-glover"
       }
      ],
      "categories": [
@@ -2353,12 +3046,14 @@
       {
        "name": "Viktor Tsevsky",
        "organisation": "2waves",
-       "role": "Co-founder; product manager (surname as transcribed)"
+       "role": "Co-founder; product manager (surname as transcribed)",
+       "person": "viktor-tsevsky"
       },
       {
        "name": "Matthew Kwembowski",
        "organisation": "2waves",
-       "role": "Co-founder; IT architecture and data security (surname as transcribed)"
+       "role": "Co-founder; IT architecture and data security (surname as transcribed)",
+       "person": "matthew-kwembowski"
       }
      ],
      "categories": [],
@@ -2401,27 +3096,32 @@
       {
        "name": "Alex Glover",
        "organisation": "Holland & Barrett",
-       "role": "Leads the product formulation team (own-label); retail and consumer perspective"
+       "role": "Leads the product formulation team (own-label); retail and consumer perspective",
+       "person": "alex-glover"
       },
       {
-       "name": "Martina (very likely Martina Pavlová)",
-       "organisation": "FAVEA a.s. (my reading, from her own talk, favea-ai-mental-shift)",
-       "role": "CEO"
+       "name": "Martina Pavlová",
+       "organisation": "FAVEA a.s.",
+       "role": "CEO",
+       "person": "martina-pavlova"
       },
       {
-       "name": "Matt",
-       "organisation": "",
-       "role": "Ingredient developer (company not named; spoke of a new brain ingredient and krill)"
+       "name": "Matts Johansen",
+       "organisation": "Aker BioMarine",
+       "role": "CEO",
+       "person": "matts-johansen"
       },
       {
        "name": "Joanna",
        "organisation": "",
-       "role": "Lawyer, food law (firm not named)"
+       "role": "Lawyer, food law (firm not named)",
+       "person": "joanna"
       },
       {
        "name": "Alexandra",
        "organisation": "Pharmaceutical company (heard as Zendiva)",
-       "role": ""
+       "role": "",
+       "person": "alexandra-pharmaceutical-company"
       }
      ],
      "categories": [],
@@ -2442,23 +3142,23 @@
       "vitamins-minerals"
      ],
      "level": "Recommended",
-     "summary": "The day's closing panel brought together a retailer (Alex Glover, Holland & Barrett), a CDMO (Martina), an ingredient developer (Matt), a food lawyer (Joanna) and a pharmaceutical company (Alexandra). The moderator asked what each wants in the next two or three years, then turned to regulation, supply and AI.\n\nThey agreed that the consumer comes first. Alexandra wanted evidence-based claims and better communication, Martina a focus on what consumers actually need, and Alex a few claims done well, starting from the consumer's problem rather than piling on ingredients. Matt wanted a revolution in clinical trials: high-dose studies in people with real problems, published where consumers' chatbots will find them.\n\nOn regulation they differed in tone. Joanna wants food law to be a shield for innovators, though the claims system was written for vitamins. Matt was blunter: a three-year longer approval in Europe than in the US almost makes innovation impossible.\n\nOn supply, Matt warned of a fish oil shortage reaching shelves next summer. Alex described pre-bought stock and protecting the claim shoppers buy. Joanna said blaming the supplier is no defence.\n\nOn AI they wanted a human in the loop and peer-reviewed sources, and Matt warned that anyone who cannot use AI will not be able to work in two years.",
+     "summary": "The day's closing panel brought together a retailer (Alex Glover, Holland & Barrett), a CDMO (Martina Pavlová, FAVEA), an ingredient company (Matts Johansen, chief executive of Aker BioMarine), a food lawyer (Joanna) and a pharmaceutical company (Alexandra). The moderator asked what each wants in the next two or three years, then turned to regulation, supply and AI.\n\nThey agreed that the consumer comes first. Alexandra wanted evidence-based claims and better communication, Martina a focus on what consumers actually need, and Alex a few claims done well, starting from the consumer's problem rather than piling on ingredients. Matts wanted a revolution in clinical trials: high-dose studies in people with real problems, published where consumers' chatbots will find them.\n\nOn regulation they differed in tone. Joanna wants food law to be a shield for innovators, though the claims system was written for vitamins. Matts was blunter: a three-year longer approval in Europe than in the US almost makes innovation impossible.\n\nOn supply, Matts warned of a fish oil shortage reaching shelves next summer. Alex described pre-bought stock and protecting the claim shoppers buy. Joanna said blaming the supplier is no defence.\n\nOn AI they wanted a human in the loop and peer-reviewed sources, and Matts warned that anyone who cannot use AI will not be able to work in two years.",
      "takeaways": [
-      "Matt: trials in this industry study healthy people for short periods, so effects look small; he would run high-dose studies in people with real problems and publish, because consumers will find it through chatbots [02:52].",
+      "Matts: trials in this industry study healthy people for short periods, so effects look small; he would run high-dose studies in people with real problems and publish, because consumers will find it through chatbots [02:52].",
       "Alex: consumers want evidence but not the EFSA wording; \"throwing the kitchen sink\" (90 plus ingredients, 35 claims) muddles the message; do a few things well for a defined audience [08:33].",
       "Joanna: EU food law and the claims regulation were written for vitamin C and D; innovators must combine what is legally possible with showing what trials found; food law should be \"a shield\", not \"a heartbreak\" [05:36].",
-      "Matt: same safety package, three years longer approval in Europe than the US; cost today, income later, so the delay \"almost makes the innovation impossible\" [14:53].",
-      "Matt: fish oil supply is collapsing for aquaculture now and reaches supplement shelves next summer; aquaculture buys the alternatives with higher willingness to pay [18:48].",
+      "Matts: same safety package, three years longer approval in Europe than the US; cost today, income later, so the delay \"almost makes the innovation impossible\" [14:53].",
+      "Matts: fish oil supply is collapsing for aquaculture now and reaches supplement shelves next summer; aquaculture buys the alternatives with higher willingness to pay [18:48].",
       "Alex: H&B holds up to nine months of pre-purchased stock on core lines; shoppers give three or four seconds at shelf, so protect the claim they buy (heart, eye) and find the alternative [19:36]."
      ],
      "for_us": "- Two of five panellists take creatine daily, including H&B's formulation lead [00:30], [00:57]. My reading: creatine is now a default daily supplement for industry insiders, which supports CreaWin's move into everyday and healthy-ageing products beyond sports.\n- A retailer and a CDMO both say the brief is the consumer problem and a few claims done well [08:33], [11:13]. My reading: our customer-facing materials should give one outcome per ingredient with the trial that shows it, not a list.\n- The fish oil shortage [18:48] is not ours, but H&B's response, protect the benefit and find the alternative, shows how a retailer treats any supply shock. My reading: supply continuity and traceability for CreaWin and IsoClr: Pea are selling points to put in front of buyers now.\n- Europe's three-year approval lag [14:53] means novel protein and creatine formats will launch in the US first (my reading).\n- Chatbots rank peer-reviewed science [03:45]. My reading: publishing the CreaWin and IsoClr: Pea evidence where AI assistants can find it is now part of marketing.\n- Relevance medium: regulation, supply and retail views, adjacent to our ingredients.",
      "quotes": [
       "\"I see so many brands throwing the kitchen sink at everything. It's 90 plus ingredients. It's got 35 claims on the front of the pack, and then your message gets muddled.\" Alex Glover (H&B) [08:33]",
-      "\"Three years delay, cost of fortune almost makes the innovation impossible, and I think that's a big, big problem for Europe.\" Speaker 5 (Matt) [14:53]",
+      "\"Three years delay, cost of fortune almost makes the innovation impossible, and I think that's a big, big problem for Europe.\" Speaker 5 (Matts Johansen) [14:53]",
       "\"The idea is to say it's my supplier's fault. It's not the solution.\" Speaker 3 (Joanna) [22:09]",
-      "\"I think with AI, if you can't operate AI, you have you can't work two years from now.\" Speaker 5 (Matt) [25:42]"
+      "\"I think with AI, if you can't operate AI, you have you can't work two years from now.\" Speaker 5 (Matts Johansen) [25:42]"
      ],
-     "detail": "- Wants for the next two or three years: evidence-based claims and better communication to consumers (Alexandra [02:10]); a \"revolution\" in clinical trials, high-dose studies in people with real problems, published (Matt [02:52]); a focus on what consumers actually need (Martina [04:30]); food law as \"a shield\" for innovators (Joanna [05:36]).\n- Matt, in his words: \"I would do high dose studies, you know, much higher than what you sell, but do people that have actually real problems, and then publish it, and then the consumer is going to find it through their chatbots\" [02:52].\n- Matt: AI assistants rank credibility, peer-reviewed science and university pages, after LinkedIn and Reddit were gamed; the language in published studies matters [03:45], [03:59].\n- Alex: H&B's own label has \"customer missions\" (joint, bone and muscle care; skin; weight management); where it wants to win it runs primary research with universities, clinical trials and standardised or branded ingredients; the lesson of seven years is start with the consumer problem [08:33].\n- Martina: legislation is an obstacle for a CDMO; do not fill every gap, stick to one piece and explain it; the customer, not the CDMO, has the power to sell [11:13], [12:26].\n- Alexandra: \"what is on the box should be in the box during the shelf life\"; brand means trust and quality [13:33].\n- Matt: micro-influencer social selling arriving from China via the US is \"almost impossible to regulate\" [14:53].\n- Matt on fish oil: \"it's not going to hit us on the shelves, on your shelves, until next summer, because we have a much longer value chain\" [18:48]. The risks are losing consumers to other ways of managing health, and shortcuts where traceability is absent [21:19].\n- Alex: rhodiola's endangered listing brought about 400 customer emails [19:36].\n- Joanna: liability stays with you; share responsibility by contract; \"it's my supplier's fault\" is not a defence [22:09].\n- AI: a human in the loop for anything legally binding and for IP (Joanna [23:33]); peer-reviewed databases, not blogs (Alexandra [24:59]); a ChatGPT over factory sensors (Matt [25:42]).\n- Panellists' own supplements: Alex takes creatine daily, omega-3, astaxanthin, vitamin D in winter and pre-workout; Matt protein, creatine, magnesium, zinc, vitamin D; Martina magnesium and krill oil [00:30], [00:51], [00:57].\n- Closing asks: \"speak the language of the consumer\" (Alex [30:07]); bring lawyers in at the laboratory stage (Joanna [27:27], [28:09]); talk to people outside your company (Matt [28:55]); think what you want, not what the market says (Martina [29:34]).",
+     "detail": "- Wants for the next two or three years: evidence-based claims and better communication to consumers (Alexandra [02:10]); a \"revolution\" in clinical trials, high-dose studies in people with real problems, published (Matts Johansen [02:52]); a focus on what consumers actually need (Martina [04:30]); food law as \"a shield\" for innovators (Joanna [05:36]).\n- Matts, in his words: \"I would do high dose studies, you know, much higher than what you sell, but do people that have actually real problems, and then publish it, and then the consumer is going to find it through their chatbots\" [02:52].\n- Matts: AI assistants rank credibility, peer-reviewed science and university pages, after LinkedIn and Reddit were gamed; the language in published studies matters [03:45], [03:59].\n- Alex: H&B's own label has \"customer missions\" (joint, bone and muscle care; skin; weight management); where it wants to win it runs primary research with universities, clinical trials and standardised or branded ingredients; the lesson of seven years is start with the consumer problem [08:33].\n- Martina: legislation is an obstacle for a CDMO; do not fill every gap, stick to one piece and explain it; the customer, not the CDMO, has the power to sell [11:13], [12:26].\n- Alexandra: \"what is on the box should be in the box during the shelf life\"; brand means trust and quality [13:33].\n- Matts: micro-influencer social selling arriving from China via the US is \"almost impossible to regulate\" [14:53].\n- Matts on fish oil: \"it's not going to hit us on the shelves, on your shelves, until next summer, because we have a much longer value chain\" [18:48]. The risks are losing consumers to other ways of managing health, and shortcuts where traceability is absent [21:19].\n- Alex: rhodiola's endangered listing brought about 400 customer emails [19:36].\n- Joanna: liability stays with you; share responsibility by contract; \"it's my supplier's fault\" is not a defence [22:09].\n- AI: a human in the loop for anything legally binding and for IP (Joanna [23:33]); peer-reviewed databases, not blogs (Alexandra [24:59]); a ChatGPT over factory sensors (Matts Johansen [25:42]).\n- Panellists' own supplements: Alex takes creatine daily, omega-3, astaxanthin, vitamin D in winter and pre-workout; Matts protein, creatine, magnesium, zinc, vitamin D; Martina magnesium and krill oil [00:30], [00:51], [00:57].\n- Closing asks: \"speak the language of the consumer\" (Alex [30:07]); bring lawyers in at the laboratory stage (Joanna [27:27], [28:09]); talk to people outside your company (Matts Johansen [28:55]); think what you want, not what the market says (Martina [29:34]).",
      "key_slides": [],
      "slides": 0,
      "slide_source": null,
@@ -2476,7 +3176,8 @@
       {
        "name": "Marit Weinstra",
        "organisation": "HMT - Healthy Marketing Team",
-       "role": ""
+       "role": "",
+       "person": "marit-weinstra"
       }
      ],
      "categories": [
@@ -2527,12 +3228,14 @@
       {
        "name": "Ariel Annoni",
        "organisation": "Novonesis",
-       "role": "Responsible for the Human Health business across Central and Eastern Europe, Middle East and Africa (as she said it)"
+       "role": "Responsible for the Human Health business across Central and Eastern Europe, Middle East and Africa (as she said it)",
+       "person": "ariel-annoni"
       },
       {
        "name": "Alessia",
        "organisation": "Montefarmaco",
-       "role": ""
+       "role": "",
+       "person": "alessia-montefarmaco"
       }
      ],
      "categories": [
@@ -2582,7 +3285,8 @@
       {
        "name": "Simone (surname unconfirmed)",
        "organisation": "Sacco System",
-       "role": ""
+       "role": "",
+       "person": "simone-sacco-system"
       }
      ],
      "categories": [
@@ -2634,12 +3338,14 @@
       {
        "name": "Miguel (surname unconfirmed)",
        "organisation": "SPI Pharma",
-       "role": ""
+       "role": "",
+       "person": "miguel-spi-pharma"
       },
       {
        "name": "Mihail Jakubowski",
        "organisation": "Nordic Biotic",
-       "role": ""
+       "role": "",
+       "person": "mihail-jakubowski"
       }
      ],
      "categories": [
