@@ -16,3 +16,4 @@ After any change: `node team/test/smoke.mjs`.
 | Version | Date | Commit | What changed |
 |---|---|---|---|
 | 1 | 2026-11-24 | 705266d | First version: Remedy CDMO (18 talks), SANS Europe (12), Healthspan Summit (14); 44 lessons, 619 slides; FiE's confidential conversations excluded. |
+| 2 | 2026-11-24 | bd079ed | Field guide edition (Nathan's choice from five concepts): hub front page filtered by nine plain themes; talk page with the deck pinned beside the reading, deck progress, key learnings that open their slide, Now explore after the last slide. |
