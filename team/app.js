@@ -77,17 +77,66 @@
   function updateCount() { document.getElementById("done-count").textContent = LESSONS.filter(isDone).length + "/" + LESSONS.length; }
 
   // ---------- the hub ----------
-  function rail(current) {
-    function item(href, label, n) { return '<a href="#' + href + '"' + (current === href ? ' aria-current="page"' : "") + ">" + esc(label) + "<span>" + n + "</span></a>"; }
-    return '<nav class="rail" aria-label="Browse"><div class="rail-inner">' +
-      item("home", "All talks", LESSONS.length) + item("essentials", "Essential", LESSONS.filter(function (l) { return l.level === "Essential"; }).length) +
-      item("my-learning", "My learning", LESSONS.filter(isDone).length) +
-      KINDS.map(function (k) {
-        var all = LIB.facets[k.kind] || [], top = k.kind === "ingredients" ? all.slice().sort(function (a, b) { return b.lessons.length - a.lessons.length; }).slice(0, 10) : all;
-        return "<h4>" + k.label + "</h4>" + top.map(function (f) { return item(k.prefix + f.id, f.name, f.lessons.length); }).join("") +
-          (top.length < all.length ? item("ingredients", "All " + all.length + " ingredients", "→") : "");
-      }).join("") +
-      "<h4>Shows</h4>" + LIB.courses.map(function (c) { return item(c.id, c.short, c.lessons.length); }).join("") + "</div></nav>";
+  // ---------- sections: the top menu, and the sidebar that lists one section's items ----------
+  var SECTIONS = [
+    { id: "events", label: "Events", one: "event", ask: "Which event?" },
+    { id: "categories", label: "Market categories", one: "market", ask: "Which market?", kind: "categories", prefix: "cat-" },
+    { id: "ingredients", label: "Ingredients", one: "ingredient", ask: "Which ingredient?", kind: "ingredients", prefix: "ing-" },
+    { id: "insights", label: "Insight type", one: "kind of insight", ask: "What kind of insight?", kind: "tags", prefix: "tag-" },
+  ];
+  var SECTION = {}; SECTIONS.forEach(function (s) { SECTION[s.id] = s; });
+  // the items of a section: {href, name, n, note}
+  function items(sec) {
+    if (sec.id === "events") return LIB.courses.map(function (c) { return { href: c.id, name: c.name, n: c.lessons.length, note: datesOf(c) + (c.city ? " · " + c.city : "") }; });
+    var all = (LIB.facets[sec.kind] || []).map(function (f) { return { href: sec.prefix + f.id, name: f.name, n: f.lessons.length }; });
+    return sec.id === "ingredients" ? all.sort(function (a, b) { return a.name.localeCompare(b.name); }) : all;
+  }
+  function datesOf(c) { return !c.end || c.end === c.start ? fmtDate(c.start) : shortDate(c.start) + " to " + fmtDate(c.end); }
+  function sectionOf(h) {
+    if (SECTION[h]) return h;
+    if (COURSE[h]) return "events";
+    for (var i = 1; i < SECTIONS.length; i++) if (h.indexOf(SECTIONS[i].prefix) === 0) return SECTIONS[i].id;
+    if (BY_KEY[h]) return "events";
+    return h === "essentials" ? "essentials" : "";
+  }
+  function topnav(h) {
+    var cur = sectionOf(h);
+    document.getElementById("topnav").innerHTML = SECTIONS.map(function (s) {
+      return '<a href="#' + s.id + '"' + (cur === s.id ? ' aria-current="page"' : "") + ">" + esc(s.label) + "</a>";
+    }).join("") + '<a href="#essentials"' + (cur === "essentials" ? ' aria-current="page"' : "") + ">Essential talks</a>";
+  }
+  function rail(current, sec) {
+    if (!sec) return "";
+    return '<nav class="rail" aria-label="' + esc(sec.label) + '"><div class="rail-inner"><h4><a href="#' + sec.id + '">' + esc(sec.label) + "</a></h4>" +
+      items(sec).map(function (it) { return '<a href="#' + it.href + '"' + (current === it.href ? ' aria-current="page"' : "") + ">" + esc(sec.id === "events" ? COURSE[it.href].short : it.name) + "<span>" + it.n + "</span></a>"; }).join("") +
+      "</div></nav>";
+  }
+  // a section's own page: every item as a card
+  function sectionPage(sec) {
+    var its = items(sec);
+    return '<div class="hub">' + rail(sec.id, sec) + '<section class="hub-main"><header class="hub-head"><span class="kicker">Explore</span><h1>' + esc(sec.label) + "</h1>" +
+      '<p class="lede">' + its.length + " to choose from. Pick one to see its talks.</p></header>" +
+      '<div class="cards">' + its.map(function (it) {
+        return '<a class="card" href="#' + it.href + '"><b>' + esc(it.name) + "</b><span>" + it.n + (it.n === 1 ? " talk" : " talks") + (it.note ? " · " + esc(it.note) : "") + "</span></a>";
+      }).join("") + "</div></section></div>";
+  }
+  // the home page: ask what to explore, then offer that section's choices
+  var exploreBy = "";
+  function home() {
+    var last = BY_KEY[load("sll-last", "")], sec = SECTION[exploreBy];
+    var counts = { events: LIB.courses.length + " shows", categories: (LIB.facets.categories || []).length + " markets",
+      ingredients: (LIB.facets.ingredients || []).length + " ingredients", insights: (LIB.facets.tags || []).length + " kinds" };
+    var ess = LESSONS.filter(function (x) { return x.level === "Essential"; }).length;
+    return '<section class="ask-home"><div class="ask-inner"><span class="kicker">' + LESSONS.length + " talks from three shows · autumn 2026</span>" +
+      "<h1>What do you want to explore?</h1>" +
+      '<div class="choices" role="group" aria-label="Explore by">' + SECTIONS.map(function (s) {
+        return '<button type="button" class="choice" data-by="' + s.id + '" aria-pressed="' + (exploreBy === s.id) + '"><b>' + esc(s.label) + "</b><span>" + counts[s.id] + "</span></button>";
+      }).join("") + "</div>" +
+      (sec ? '<div class="step"><label for="pick">' + esc(sec.ask) + '</label><div class="pick-row"><select id="pick"><option value="">Choose a' + (/^[aeiou]/i.test(sec.one) ? "n " : " ") + esc(sec.one) + "…</option>" +
+        items(sec).map(function (it) { return '<option value="' + esc(it.href) + '">' + esc(it.name) + " (" + it.n + ")</option>"; }).join("") +
+        '</select><a class="btn btn-ghost" href="#' + sec.id + '">See all ' + esc(sec.label.toLowerCase()) + "</a></div></div>" : "") +
+      '<p class="quiet">Or start with the <a href="#essentials">' + ess + " essential talks</a>" + (last ? ', or carry on with <a href="#' + key(last) + '">' + esc(last.title) + "</a>" : "") + ".</p>" +
+      "</div></section>";
   }
   // the first sentence or two of the summary, for scanning a list
   function snippet(l) {
@@ -104,10 +153,11 @@
       (p && !isDone(l) ? '<div class="minibar" title="' + p + '% of the deck seen"><span style="width:' + p + '%"></span></div>' : "") + "</div></a></li>";
   }
   function hub(current, kicker, title, lede, lessons, showFilter) {
+    var sec = SECTION[sectionOf(current)];
     var list = essentialOnly && showFilter ? lessons.filter(function (l) { return l.level === "Essential"; }) : lessons;
     list = sortBy === "essential" ? list.slice().sort(function (a, b) { return LEVEL_RANK[a.level] - LEVEL_RANK[b.level]; })
          : sortBy === "az" ? list.slice().sort(function (a, b) { return a.title.localeCompare(b.title); }) : list;
-    return '<div class="hub">' + rail(current) + '<section class="hub-main"><header class="hub-head"><span class="kicker">' + esc(kicker) + "</span><h1>" + esc(title) + "</h1>" +
+    return '<div class="hub' + (sec ? "" : " no-rail") + '">' + rail(current, sec) + '<section class="hub-main"><header class="hub-head"><span class="kicker">' + esc(kicker) + "</span><h1>" + esc(title) + "</h1>" +
       (lede ? '<p class="lede">' + esc(lede) + "</p>" : "") + "</header>" +
       (showFilter ? '<div class="filters"><button type="button" class="chip" id="ess" aria-pressed="' + essentialOnly + '">Essential only</button>' +
         '<span class="meta" style="align-self:center">' + list.length + (list.length === 1 ? " talk" : " talks") + "</span>" +
@@ -153,7 +203,7 @@
       return n ? '<button type="button" class="learning" data-slide="' + n + '">' + body + '<span class="go">Show slide ' + n + " →</span></button>"
                : '<div class="learning">' + body + "</div>";
     }).join("");
-    var reading = '<article class="reading"><header class="reading-head"><nav class="crumbs"><a href="#home">All talks</a><span>/</span><a href="#' + esc(c.id) + '">' + esc(c.short) + "</a></nav>" +
+    var reading = '<article class="reading"><header class="reading-head"><nav class="crumbs"><a href="#home">Home</a><span>/</span><a href="#' + esc(c.id) + '">' + esc(c.short) + "</a></nav>" +
       '<span class="kicker">' + esc(c.short) + " · " + esc(l.level) + "</span><h1>" + esc(l.title) + '</h1><p class="byline">' + byline(l) + "</p>" +
       '<p class="meta">' + esc(fmtDate(l.date)) + (l.start ? ", " + esc(l.start) : "") + (l.slides ? " · " + l.slides + " slides" : "") + "</p></header>" +
       (l.summary ? '<section class="lede">' + prose(l.summary, l) + "</section>" : "") +
@@ -249,12 +299,11 @@
     else if (FACET[h]) {
       var f = FACET[h];
       html = hub(h, f.label, f.name, f.lessons.length + (f.lessons.length === 1 ? " talk" : " talks") + " across the shows.", ordered(f.lessons.map(function (k) { return BY_KEY[k]; }).filter(Boolean)), true);
-    } else if (h === "ingredients") {
-      html = '<div class="hub">' + rail(h) + '<section class="hub-main"><header class="hub-head"><span class="kicker">Ingredients</span><h1>All ingredients</h1><p class="lede">Every ingredient discussed in a talk, grouped. Pick one to see the talks.</p></header><div class="filters">' +
-        LIB.facets.ingredients.map(function (f) { return '<a class="chip" href="#ing-' + f.id + '">' + esc(f.name) + " · " + f.lessons.length + "</a>"; }).join("") + "</div></section></div>";
+    } else if (SECTION[h]) {
+      html = sectionPage(SECTION[h]);
     } else if (COURSE[h]) {
       var c = COURSE[h];
-      html = hub(h, "Show · " + (c.city || ""), c.name, c.lessons.length + " talks, " + (c.start === c.end || !c.end ? fmtDate(c.start) : shortDate(c.start) + " to " + fmtDate(c.end)) + ".", c.lessons, true);
+      html = hub(h, "Event · " + (c.city || ""), c.name, c.lessons.length + " talks, " + datesOf(c) + ".", c.lessons, true);
     } else if (h.indexOf("search-") === 0) {
       var q = h.slice(7).replace(/-/g, " "), words = q.split(/\s+/).filter(Boolean);
       var hits = LESSONS.filter(function (x) {
@@ -262,14 +311,19 @@
         return words.every(function (w) { return hay.indexOf(w) >= 0; });
       });
       html = hub(h, "Search", "“" + q + "”", hits.length + (hits.length === 1 ? " talk matches." : " talks match."), ordered(hits), false);
-    } else html = hub("home", "Autumn 2026 · three shows", "What we learned at the shows",
-      LESSONS.length + " talks and " + nSlides + " slides from Remedy CDMO, SANS Europe and the Nutra Healthspan Summit. Browse by market, ingredient or kind of insight, or start with the essentials.", ordered(LESSONS), true);
+    } else { h = "home"; html = home(); }
     app.innerHTML = html;
+    topnav(h);
     window.scrollTo(0, 0);
     if (l) { bindLesson(l); save("sll-last", h); document.title = l.title + " · Show Learning Library"; }
     else document.title = "Show Learning Library";
     var ess = document.getElementById("ess");
     if (ess) ess.onclick = function () { essentialOnly = !essentialOnly; route(); };
+    [].forEach.call(document.querySelectorAll(".choice"), function (b) {
+      b.onclick = function () { exploreBy = b.getAttribute("data-by"); route(); var p = document.getElementById("pick"); if (p) p.focus(); };
+    });
+    var pick = document.getElementById("pick");
+    if (pick) pick.onchange = function () { if (pick.value) location.hash = pick.value; };
     var sel = document.getElementById("sort");
     if (sel) sel.onchange = function () { sortBy = sel.value; route(); };
   }
