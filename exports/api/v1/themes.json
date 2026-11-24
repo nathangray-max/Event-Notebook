@@ -1,7 +1,7 @@
 {
  "schema": "confnotes.themes/1",
  "built": "2026-11-24",
- "commit": "bea0428",
+ "commit": "6986db2",
  "count": 19,
  "items": [
   {
@@ -79,6 +79,12 @@
      "session": "panel-evidence-regulation-ai",
      "title": "Closing panel: evidence, regulation, supply and AI in nutraceuticals",
      "date": "2026-10-22"
+    },
+    {
+     "event": "active-nutrition-summit-2025",
+     "session": "nordic-mushrooms-functional-mushrooms",
+     "title": "Functional Mushrooms",
+     "date": "2025-06-25"
     }
    ]
   },
@@ -118,6 +124,12 @@
      "session": "protein-brewery-fermotein",
      "title": "How a novel food ingredient unlocks new solutions for the Health & Wellness market. What can you learn from successful US brands?",
      "date": "2026-10-22"
+    },
+    {
+     "event": "active-nutrition-summit-2025",
+     "session": "lux-functional-ingredient-trends",
+     "title": "From Insight to Innovation: Mapping Trends in Functional Health Ingredients",
+     "date": "2025-06-23"
     }
    ]
   },
@@ -157,6 +169,42 @@
      "session": "nathan-gray-creatine-new-buyers",
      "title": "The gym & beyond: Creatine’s new buyers … and what they want",
      "date": ""
+    },
+    {
+     "event": "active-nutrition-summit-2025",
+     "session": "consumer-health-survey",
+     "title": "Consumer health survey: 9 countries, 6,000 people",
+     "date": "2025-06-23"
+    },
+    {
+     "event": "active-nutrition-summit-2025",
+     "session": "holland-barrett-fitness-generations",
+     "title": "From Boomers to Zoomers: Fuelling fitness across generations",
+     "date": "2025-06-23"
+    },
+    {
+     "event": "active-nutrition-summit-2025",
+     "session": "lux-functional-ingredient-trends",
+     "title": "From Insight to Innovation: Mapping Trends in Functional Health Ingredients",
+     "date": "2025-06-23"
+    },
+    {
+     "event": "active-nutrition-summit-2025",
+     "session": "sports-nutrition-innovation-panel",
+     "title": "Sports Nutrition Innovation Insights",
+     "date": "2025-06-23"
+    },
+    {
+     "event": "active-nutrition-summit-2025",
+     "session": "euromonitor-sports-nutrition-trends",
+     "title": "Sports nutrition market: consumer trends and innovation in Europe",
+     "date": "2025-06-23"
+    },
+    {
+     "event": "active-nutrition-summit-2025",
+     "session": "veenstra-hmt-branding",
+     "title": "Branding that moves the right consumer in Active Nutrition",
+     "date": "2025-06-25"
     }
    ]
   },
@@ -232,6 +280,42 @@
      "session": "spi-pharma-nordic-biotic",
      "title": "SPI Pharma and Nordic Biotic: new dosage forms and clinically tested strains",
      "date": "2026-10-23"
+    },
+    {
+     "event": "active-nutrition-summit-2025",
+     "session": "consumer-health-survey",
+     "title": "Consumer health survey: 9 countries, 6,000 people",
+     "date": "2025-06-23"
+    },
+    {
+     "event": "active-nutrition-summit-2025",
+     "session": "sports-nutrition-innovation-panel",
+     "title": "Sports Nutrition Innovation Insights",
+     "date": "2025-06-23"
+    },
+    {
+     "event": "active-nutrition-summit-2025",
+     "session": "personalised-health-panel",
+     "title": "Personalised Health Panel",
+     "date": "2025-06-24"
+    },
+    {
+     "event": "active-nutrition-summit-2025",
+     "session": "gilbert-weight-loss-long-term",
+     "title": "Weight Loss & Long Term Outcomes",
+     "date": "2025-06-24"
+    },
+    {
+     "event": "probiota-2025",
+     "session": "lumina-biotics-unleashed",
+     "title": "Biotics Unleashed: How microbiome science and health tech transform consumer choices",
+     "date": ""
+    },
+    {
+     "event": "probiota-2025",
+     "session": "genbioma-postbiotic-glycemic-control",
+     "title": "Postbiotics for Glycemic Control: Insights into the Efficacy of Pediococcus acidilactici pA1c®HI",
+     "date": "2025-02-05"
     }
    ]
   },
@@ -361,6 +445,78 @@
      "session": "sacco-probiotics",
      "title": "From cell to scale: Patented strains & custom fermentation power",
      "date": "2026-10-23"
+    },
+    {
+     "event": "active-nutrition-summit-2025",
+     "session": "sports-nutrition-innovation-panel",
+     "title": "Sports Nutrition Innovation Insights",
+     "date": "2025-06-23"
+    },
+    {
+     "event": "active-nutrition-summit-2025",
+     "session": "ostojic-creatine-lifelong-nutrition",
+     "title": "Creatine for Lifelong Nutrition & Healthy Ageing",
+     "date": "2025-06-24"
+    },
+    {
+     "event": "active-nutrition-summit-2025",
+     "session": "chabloz-avea-longevity-supplements",
+     "title": "Making Smart Choices About Longevity Supplements",
+     "date": "2025-06-24"
+    },
+    {
+     "event": "active-nutrition-summit-2025",
+     "session": "personalised-health-panel",
+     "title": "Personalised Health Panel",
+     "date": "2025-06-24"
+    },
+    {
+     "event": "probiota-2025",
+     "session": "lumina-biotics-unleashed",
+     "title": "Biotics Unleashed: How microbiome science and health tech transform consumer choices",
+     "date": ""
+    },
+    {
+     "event": "probiota-2025",
+     "session": "gut-brain-debate-psychobiotics",
+     "title": "Gut-brain axis panel discussion",
+     "date": "2025-02-05"
+    },
+    {
+     "event": "probiota-2025",
+     "session": "gut-mitochondria-connection",
+     "title": "The Gut-Mitochondria Connection – A new way to optimize health through the gut",
+     "date": "2025-02-05"
+    },
+    {
+     "event": "probiota-2025",
+     "session": "omahony-gut-brain-gaps",
+     "title": "Highlighting Gaps & Opportunities in the Microbiome-Gut-Brain Axis Field",
+     "date": "2025-02-05"
+    },
+    {
+     "event": "probiota-2025",
+     "session": "morinaga-b-breve-cognitive",
+     "title": "Bifidobacterium breve MCC1274: The Unique Probiotics in Cognitive Health. Deep dive into Gut-Brain Axis",
+     "date": "2025-02-05"
+    },
+    {
+     "event": "probiota-2025",
+     "session": "longevity-panel-microbiome-healthspan",
+     "title": "Longevity panel: the microbiome and healthspan",
+     "date": "2025-02-06"
+    },
+    {
+     "event": "probiota-2025",
+     "session": "sean-gibbons-ageing-gut-microbiome",
+     "title": "healthy aging and the human gut microbiome",
+     "date": "2025-02-06"
+    },
+    {
+     "event": "probiota-2025",
+     "session": "kerry-womens-healthspan-biotics",
+     "title": "Supporting an improved healthspan in women with Biotics",
+     "date": "2025-02-06"
     }
    ]
   },
@@ -430,6 +586,36 @@
      "session": "tantus-longevity-concepts",
      "title": "Longevity - from a trend to a product",
      "date": "2026-10-22"
+    },
+    {
+     "event": "active-nutrition-summit-2025",
+     "session": "consumer-health-survey",
+     "title": "Consumer health survey: 9 countries, 6,000 people",
+     "date": "2025-06-23"
+    },
+    {
+     "event": "active-nutrition-summit-2025",
+     "session": "holland-barrett-fitness-generations",
+     "title": "From Boomers to Zoomers: Fuelling fitness across generations",
+     "date": "2025-06-23"
+    },
+    {
+     "event": "active-nutrition-summit-2025",
+     "session": "sports-nutrition-innovation-panel",
+     "title": "Sports Nutrition Innovation Insights",
+     "date": "2025-06-23"
+    },
+    {
+     "event": "active-nutrition-summit-2025",
+     "session": "euromonitor-sports-nutrition-trends",
+     "title": "Sports nutrition market: consumer trends and innovation in Europe",
+     "date": "2025-06-23"
+    },
+    {
+     "event": "active-nutrition-summit-2025",
+     "session": "ostojic-creatine-lifelong-nutrition",
+     "title": "Creatine for Lifelong Nutrition & Healthy Ageing",
+     "date": "2025-06-24"
     }
    ]
   },
@@ -493,6 +679,42 @@
      "session": "sacco-probiotics",
      "title": "From cell to scale: Patented strains & custom fermentation power",
      "date": "2026-10-23"
+    },
+    {
+     "event": "active-nutrition-summit-2025",
+     "session": "holland-barrett-fitness-generations",
+     "title": "From Boomers to Zoomers: Fuelling fitness across generations",
+     "date": "2025-06-23"
+    },
+    {
+     "event": "active-nutrition-summit-2025",
+     "session": "ostojic-creatine-lifelong-nutrition",
+     "title": "Creatine for Lifelong Nutrition & Healthy Ageing",
+     "date": "2025-06-24"
+    },
+    {
+     "event": "active-nutrition-summit-2025",
+     "session": "balchem-branded-ingredient-partnerships",
+     "title": "Propelling a Stronger Future Through Partnership",
+     "date": "2025-06-24"
+    },
+    {
+     "event": "active-nutrition-summit-2025",
+     "session": "gilbert-weight-loss-long-term",
+     "title": "Weight Loss & Long Term Outcomes",
+     "date": "2025-06-24"
+    },
+    {
+     "event": "probiota-2025",
+     "session": "gut-mitochondria-connection",
+     "title": "The Gut-Mitochondria Connection – A new way to optimize health through the gut",
+     "date": "2025-02-05"
+    },
+    {
+     "event": "probiota-2025",
+     "session": "minutia-gut-microbiota-sports",
+     "title": "Gut microbiota & sports",
+     "date": "2025-02-07"
     }
    ]
   },
@@ -616,6 +838,42 @@
      "session": "novonesis-montefarmaco",
      "title": "Novonesis and Montefarmaco: the Lactoflorene partnership, from science to consumer product",
      "date": "2026-10-23"
+    },
+    {
+     "event": "active-nutrition-summit-2025",
+     "session": "chabloz-avea-longevity-supplements",
+     "title": "Making Smart Choices About Longevity Supplements",
+     "date": "2025-06-24"
+    },
+    {
+     "event": "active-nutrition-summit-2025",
+     "session": "balchem-branded-ingredient-partnerships",
+     "title": "Propelling a Stronger Future Through Partnership",
+     "date": "2025-06-24"
+    },
+    {
+     "event": "active-nutrition-summit-2025",
+     "session": "nordic-mushrooms-functional-mushrooms",
+     "title": "Functional Mushrooms",
+     "date": "2025-06-25"
+    },
+    {
+     "event": "probiota-2025",
+     "session": "novonesis-b-longum-1714-psychobiotic",
+     "title": "Psychobiotic B. longum 1714 for mental wellness",
+     "date": "2025-02-05"
+    },
+    {
+     "event": "probiota-2025",
+     "session": "morinaga-b-breve-cognitive",
+     "title": "Bifidobacterium breve MCC1274: The Unique Probiotics in Cognitive Health. Deep dive into Gut-Brain Axis",
+     "date": "2025-02-05"
+    },
+    {
+     "event": "probiota-2025",
+     "session": "kerry-womens-healthspan-biotics",
+     "title": "Supporting an improved healthspan in women with Biotics",
+     "date": "2025-02-06"
     }
    ]
   },
@@ -703,6 +961,42 @@
      "session": "hmt-probiotic-market",
      "title": "Beyond Probiotics: Where the Biotics Category Is Really Heading",
      "date": "2026-10-23"
+    },
+    {
+     "event": "active-nutrition-summit-2025",
+     "session": "chabloz-avea-longevity-supplements",
+     "title": "Making Smart Choices About Longevity Supplements",
+     "date": "2025-06-24"
+    },
+    {
+     "event": "active-nutrition-summit-2025",
+     "session": "personalised-health-panel",
+     "title": "Personalised Health Panel",
+     "date": "2025-06-24"
+    },
+    {
+     "event": "active-nutrition-summit-2025",
+     "session": "veenstra-hmt-branding",
+     "title": "Branding that moves the right consumer in Active Nutrition",
+     "date": "2025-06-25"
+    },
+    {
+     "event": "probiota-2025",
+     "session": "gut-brain-debate-psychobiotics",
+     "title": "Gut-brain axis panel discussion",
+     "date": "2025-02-05"
+    },
+    {
+     "event": "probiota-2025",
+     "session": "rijkers-registered-probiotic-trials",
+     "title": "Clinical outcome of registered trials with probiotics",
+     "date": "2025-02-05"
+    },
+    {
+     "event": "probiota-2025",
+     "session": "longevity-panel-microbiome-healthspan",
+     "title": "Longevity panel: the microbiome and healthspan",
+     "date": "2025-02-06"
     }
    ]
   },
@@ -772,6 +1066,36 @@
      "session": "spi-pharma-nordic-biotic",
      "title": "SPI Pharma and Nordic Biotic: new dosage forms and clinically tested strains",
      "date": "2026-10-23"
+    },
+    {
+     "event": "active-nutrition-summit-2025",
+     "session": "lux-functional-ingredient-trends",
+     "title": "From Insight to Innovation: Mapping Trends in Functional Health Ingredients",
+     "date": "2025-06-23"
+    },
+    {
+     "event": "active-nutrition-summit-2025",
+     "session": "neutral-labs-startup-pitch",
+     "title": "NootroLabs: startup pitch (video)",
+     "date": "2025-06-23"
+    },
+    {
+     "event": "active-nutrition-summit-2025",
+     "session": "euromonitor-sports-nutrition-trends",
+     "title": "Sports nutrition market: consumer trends and innovation in Europe",
+     "date": "2025-06-23"
+    },
+    {
+     "event": "probiota-2025",
+     "session": "postbiotics-panel",
+     "title": "Postbiotics panel",
+     "date": "2025-02-05"
+    },
+    {
+     "event": "probiota-2025",
+     "session": "burton-pantryome-paradigm",
+     "title": "The Pantryome Paradigm: Framing the Microbial-Human Health Interface",
+     "date": "2025-02-06"
     }
    ]
   },
@@ -811,6 +1135,36 @@
      "session": "hmt-probiotic-market",
      "title": "Beyond Probiotics: Where the Biotics Category Is Really Heading",
      "date": "2026-10-23"
+    },
+    {
+     "event": "active-nutrition-summit-2025",
+     "session": "sports-nutrition-innovation-panel",
+     "title": "Sports Nutrition Innovation Insights",
+     "date": "2025-06-23"
+    },
+    {
+     "event": "probiota-2025",
+     "session": "postbiotics-panel",
+     "title": "Postbiotics panel",
+     "date": "2025-02-05"
+    },
+    {
+     "event": "probiota-2025",
+     "session": "guglielmetti-postbiotics-classification",
+     "title": "Postbiotics: a classification for industry and regulators",
+     "date": "2025-02-05"
+    },
+    {
+     "event": "probiota-2025",
+     "session": "novonesis-b-longum-1714-psychobiotic",
+     "title": "Psychobiotic B. longum 1714 for mental wellness",
+     "date": "2025-02-05"
+    },
+    {
+     "event": "probiota-2025",
+     "session": "ucam-postbiotics-new-frontier",
+     "title": "Postbiotics: The new frontier in microbial biotechnology",
+     "date": "2025-02-07"
     }
    ]
   },
@@ -850,6 +1204,36 @@
      "session": "is-the-juice-worth-the-squeeze",
      "title": "Is the Juice Worth the Squeeze? Polyphenols in Performance and Recovery",
      "date": "2026-11-09"
+    },
+    {
+     "event": "active-nutrition-summit-2025",
+     "session": "millbank-nutrition-by-algorithm",
+     "title": "Nutrition by Algorithm",
+     "date": ""
+    },
+    {
+     "event": "active-nutrition-summit-2025",
+     "session": "holland-barrett-fitness-generations",
+     "title": "From Boomers to Zoomers: Fuelling fitness across generations",
+     "date": "2025-06-23"
+    },
+    {
+     "event": "active-nutrition-summit-2025",
+     "session": "veenstra-hmt-branding",
+     "title": "Branding that moves the right consumer in Active Nutrition",
+     "date": "2025-06-25"
+    },
+    {
+     "event": "probiota-2025",
+     "session": "alba-health-child-gut-microbiome",
+     "title": "Alba Health (Probiota Pioneers 2025)",
+     "date": "2025-02-05"
+    },
+    {
+     "event": "probiota-2025",
+     "session": "gut-stuff-tinder-for-microbes",
+     "title": "Tinder for microbes: The Gut Stuff",
+     "date": "2025-02-05"
     }
    ]
   },
@@ -913,6 +1297,30 @@
      "session": "panel-evidence-regulation-ai",
      "title": "Closing panel: evidence, regulation, supply and AI in nutraceuticals",
      "date": "2026-10-22"
+    },
+    {
+     "event": "active-nutrition-summit-2025",
+     "session": "minutia-gut-microbiome-sports",
+     "title": "Gut Microbiota & Sports",
+     "date": "2025-06-23"
+    },
+    {
+     "event": "active-nutrition-summit-2025",
+     "session": "personalised-health-panel",
+     "title": "Personalised Health Panel",
+     "date": "2025-06-24"
+    },
+    {
+     "event": "probiota-2025",
+     "session": "minutia-gut-microbiota-sports",
+     "title": "Gut microbiota & sports",
+     "date": "2025-02-07"
+    },
+    {
+     "event": "probiota-2025",
+     "session": "differential-bio-ai-probiotic-media",
+     "title": "Aligning HTS Data and AI for Biotech R&D: Data, Model and Probiotic Media Optimisation",
+     "date": "2025-02-07"
     }
    ]
   },
@@ -976,6 +1384,18 @@
      "session": "sacco-probiotics",
      "title": "From cell to scale: Patented strains & custom fermentation power",
      "date": "2026-10-23"
+    },
+    {
+     "event": "active-nutrition-summit-2025",
+     "session": "neutral-labs-startup-pitch",
+     "title": "NootroLabs: startup pitch (video)",
+     "date": "2025-06-23"
+    },
+    {
+     "event": "probiota-2025",
+     "session": "gut-stuff-tinder-for-microbes",
+     "title": "Tinder for microbes: The Gut Stuff",
+     "date": "2025-02-05"
     }
    ]
   },
@@ -1015,6 +1435,150 @@
      "session": "spi-pharma-nordic-biotic",
      "title": "SPI Pharma and Nordic Biotic: new dosage forms and clinically tested strains",
      "date": "2026-10-23"
+    },
+    {
+     "event": "active-nutrition-summit-2025",
+     "session": "lux-functional-ingredient-trends",
+     "title": "From Insight to Innovation: Mapping Trends in Functional Health Ingredients",
+     "date": "2025-06-23"
+    },
+    {
+     "event": "active-nutrition-summit-2025",
+     "session": "minutia-gut-microbiome-sports",
+     "title": "Gut Microbiota & Sports",
+     "date": "2025-06-23"
+    },
+    {
+     "event": "active-nutrition-summit-2025",
+     "session": "cotter-athlete-microbiome",
+     "title": "Athlete Microbiome",
+     "date": "2025-06-24"
+    },
+    {
+     "event": "probiota-2025",
+     "session": "lumina-biotics-unleashed",
+     "title": "Biotics Unleashed: How microbiome science and health tech transform consumer choices",
+     "date": ""
+    },
+    {
+     "event": "probiota-2025",
+     "session": "alba-health-child-gut-microbiome",
+     "title": "Alba Health (Probiota Pioneers 2025)",
+     "date": "2025-02-05"
+    },
+    {
+     "event": "probiota-2025",
+     "session": "dynamap-precision-metagenomics",
+     "title": "DynaMAP – Precision metagenomics beyond sequencing",
+     "date": "2025-02-05"
+    },
+    {
+     "event": "probiota-2025",
+     "session": "gut-brain-debate-psychobiotics",
+     "title": "Gut-brain axis panel discussion",
+     "date": "2025-02-05"
+    },
+    {
+     "event": "probiota-2025",
+     "session": "postbiotics-panel",
+     "title": "Postbiotics panel",
+     "date": "2025-02-05"
+    },
+    {
+     "event": "probiota-2025",
+     "session": "rescigno-postbiotics-gut-barrier",
+     "title": "Postbiotics, the gut barrier and the leaky gut",
+     "date": "2025-02-05"
+    },
+    {
+     "event": "probiota-2025",
+     "session": "guglielmetti-postbiotics-classification",
+     "title": "Postbiotics: a classification for industry and regulators",
+     "date": "2025-02-05"
+    },
+    {
+     "event": "probiota-2025",
+     "session": "novonesis-b-longum-1714-psychobiotic",
+     "title": "Psychobiotic B. longum 1714 for mental wellness",
+     "date": "2025-02-05"
+    },
+    {
+     "event": "probiota-2025",
+     "session": "genbioma-postbiotic-glycemic-control",
+     "title": "Postbiotics for Glycemic Control: Insights into the Efficacy of Pediococcus acidilactici pA1c®HI",
+     "date": "2025-02-05"
+    },
+    {
+     "event": "probiota-2025",
+     "session": "omahony-gut-brain-gaps",
+     "title": "Highlighting Gaps & Opportunities in the Microbiome-Gut-Brain Axis Field",
+     "date": "2025-02-05"
+    },
+    {
+     "event": "probiota-2025",
+     "session": "rode-neuropsychobiology-biotics",
+     "title": "Neuropsychobiological effects of pro- and prebiotics",
+     "date": "2025-02-05"
+    },
+    {
+     "event": "probiota-2025",
+     "session": "morinaga-b-breve-cognitive",
+     "title": "Bifidobacterium breve MCC1274: The Unique Probiotics in Cognitive Health. Deep dive into Gut-Brain Axis",
+     "date": "2025-02-05"
+    },
+    {
+     "event": "probiota-2025",
+     "session": "rijkers-registered-probiotic-trials",
+     "title": "Clinical outcome of registered trials with probiotics",
+     "date": "2025-02-05"
+    },
+    {
+     "event": "probiota-2025",
+     "session": "gut-stuff-tinder-for-microbes",
+     "title": "Tinder for microbes: The Gut Stuff",
+     "date": "2025-02-05"
+    },
+    {
+     "event": "probiota-2025",
+     "session": "nestle-b-longum-iuvenis-weaning",
+     "title": "Bifidobacterium longum subsp. iuvenis thrives around weaning and is adapted to transition from milk to solid diets",
+     "date": "2025-02-06"
+    },
+    {
+     "event": "probiota-2025",
+     "session": "longevity-panel-microbiome-healthspan",
+     "title": "Longevity panel: the microbiome and healthspan",
+     "date": "2025-02-06"
+    },
+    {
+     "event": "probiota-2025",
+     "session": "burton-pantryome-paradigm",
+     "title": "The Pantryome Paradigm: Framing the Microbial-Human Health Interface",
+     "date": "2025-02-06"
+    },
+    {
+     "event": "probiota-2025",
+     "session": "sean-gibbons-ageing-gut-microbiome",
+     "title": "healthy aging and the human gut microbiome",
+     "date": "2025-02-06"
+    },
+    {
+     "event": "probiota-2025",
+     "session": "kerry-womens-healthspan-biotics",
+     "title": "Supporting an improved healthspan in women with Biotics",
+     "date": "2025-02-06"
+    },
+    {
+     "event": "probiota-2025",
+     "session": "minutia-gut-microbiota-sports",
+     "title": "Gut microbiota & sports",
+     "date": "2025-02-07"
+    },
+    {
+     "event": "probiota-2025",
+     "session": "ucam-postbiotics-new-frontier",
+     "title": "Postbiotics: The new frontier in microbial biotechnology",
+     "date": "2025-02-07"
     }
    ]
   },
@@ -1036,6 +1600,18 @@
      "session": "fuel-the-frame-carbohydrate-recovery-and",
      "title": "Fuel the Frame: Carbohydrate, recovery and the forgotten tissue",
      "date": "2026-11-09"
+    },
+    {
+     "event": "active-nutrition-summit-2025",
+     "session": "sports-nutrition-innovation-panel",
+     "title": "Sports Nutrition Innovation Insights",
+     "date": "2025-06-23"
+    },
+    {
+     "event": "active-nutrition-summit-2025",
+     "session": "women-in-sports-nutrition",
+     "title": "Women in Sports Nutrition",
+     "date": "2025-06-24"
     }
    ]
   },
@@ -1063,6 +1639,24 @@
      "session": "fuel-the-frame-carbohydrate-recovery-and",
      "title": "Fuel the Frame: Carbohydrate, recovery and the forgotten tissue",
      "date": "2026-11-09"
+    },
+    {
+     "event": "active-nutrition-summit-2025",
+     "session": "consumer-health-survey",
+     "title": "Consumer health survey: 9 countries, 6,000 people",
+     "date": "2025-06-23"
+    },
+    {
+     "event": "active-nutrition-summit-2025",
+     "session": "balchem-branded-ingredient-partnerships",
+     "title": "Propelling a Stronger Future Through Partnership",
+     "date": "2025-06-24"
+    },
+    {
+     "event": "active-nutrition-summit-2025",
+     "session": "women-in-sports-nutrition",
+     "title": "Women in Sports Nutrition",
+     "date": "2025-06-24"
     }
    ]
   },
@@ -1090,6 +1684,18 @@
      "session": "spi-pharma-nordic-biotic",
      "title": "SPI Pharma and Nordic Biotic: new dosage forms and clinically tested strains",
      "date": "2026-10-23"
+    },
+    {
+     "event": "active-nutrition-summit-2025",
+     "session": "consumer-health-survey",
+     "title": "Consumer health survey: 9 countries, 6,000 people",
+     "date": "2025-06-23"
+    },
+    {
+     "event": "active-nutrition-summit-2025",
+     "session": "euromonitor-sports-nutrition-trends",
+     "title": "Sports nutrition market: consumer trends and innovation in Europe",
+     "date": "2025-06-23"
     }
    ]
   }
