@@ -13,6 +13,9 @@ copy `index.html` to a scratch folder and publish it with the files map from `py
 (app.js, styles.css, data/library.json and slides/<event>--<session>.json). Leave out `test/` and this file.
 After any change: `node team/test/smoke.mjs`.
 
+Capabilities: the page declares `sample` ("Ask the library": each question goes to Claude on the viewer's own account, with the notes
+of the talks that match it; the first question asks the viewer to allow it). A redeploy that omits `capabilities` keeps it.
+
 | Version | Date | Commit | What changed |
 |---|---|---|---|
 | 1 | 2026-11-24 | 705266d | First version: Remedy CDMO (18 talks), SANS Europe (12), Healthspan Summit (14); 44 lessons, 619 slides; FiE's confidential conversations excluded. |
