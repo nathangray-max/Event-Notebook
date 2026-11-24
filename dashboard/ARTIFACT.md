@@ -26,3 +26,4 @@ Leave out `test/` and this file.
 | 15 | 2026-11-23 | 55eafba | Data only: SANS photo-based summaries final (no further slides exist); Cellaro confirmed in Nick Morgan's SANS keynote. |
 | 16 | 2026-11-23 | ab32aa7 | Data only: Healthspan decks (Weinkove, Hudson, Walter, Gut, Selman/Yu, Macciochi, Tongiani) filed and summarised; SANS and Healthspan marked complete for slides. Handover: docs/handover-2026-11-23.md. |
 | 17 | 2026-11-24 | 68ac7da | Data only, final build: tags (ingredient groups, market categories, insight types) in the data; clean stamp. |
+| 18 | 2026-11-24 | 558a42b | Data only: Matts Johansen (CEO, Aker BioMarine) on the closing panel and the krill talk; Martina Pavlová confirmed. |

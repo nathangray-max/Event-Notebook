@@ -24,3 +24,4 @@ Capabilities: none (the Ask the library assistant was removed on Nathan's word, 
 | 5 | 2026-11-24 | 68ac7da | Final build: the Ask the library assistant removed and its capability cleared (Nathan); data from a clean commit. |
 | 6 | 2026-11-24 | 00f3c72 | A summary line on every talk in a list, sorting (newest or programme order, Essential first, A to Z), swipe between slides on phones. |
 | 7 | 2026-11-24 | 3b49282 | Home asks what to explore and offers a dropdown for that section; top menu of sections; the sidebar lists only the chosen section; each section has its own page of cards. |
+| 8 | 2026-11-24 | 7237cc8 | Speaker pages (a Speakers section, a page per speaker listing their talks), speaker and event names linked on every talk; Matts Johansen and Martina Pavlová named. |
