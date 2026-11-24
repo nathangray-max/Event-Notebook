@@ -133,7 +133,7 @@
     var counts = { events: LIB.courses.length + " shows", categories: (LIB.facets.categories || []).length + " markets",
       ingredients: (LIB.facets.ingredients || []).length + " ingredients", insights: (LIB.facets.tags || []).length + " kinds", people: LIB.people.length + " speakers" };
     var ess = LESSONS.filter(function (x) { return x.level === "Essential"; }).length;
-    return '<section class="ask-home"><div class="ask-inner"><span class="kicker">' + LESSONS.length + " talks from three shows · autumn 2026</span>" +
+    return '<section class="ask-home"><div class="ask-inner"><span class="kicker">' + LESSONS.length + " talks from " + LIB.courses.length + " shows</span>" +
       "<h1>What do you want to explore?</h1>" +
       '<div class="choices" role="group" aria-label="Explore by">' + SECTIONS.map(function (s) {
         return '<button type="button" class="choice" data-by="' + s.id + '" aria-pressed="' + (exploreBy === s.id) + '"><b>' + esc(s.label) + "</b><span>" + counts[s.id] + "</span></button>";
@@ -300,7 +300,7 @@
     document.onkeydown = null; app.onclick = null;
     var nSlides = LESSONS.reduce(function (a, x) { return a + (x.slides || 0); }, 0);
     if (l) html = lesson(l);
-    else if (h === "essentials") html = hub(h, "Start here", "Essential talks", "The talks that matter most to our range and customers, across all three shows.", ordered(LESSONS.filter(function (x) { return x.level === "Essential"; })), false);
+    else if (h === "essentials") html = hub(h, "Start here", "Essential talks", "The talks that matter most to our range and customers, across every show.", ordered(LESSONS.filter(function (x) { return x.level === "Essential"; })), false);
     else if (h === "my-learning") html = hub(h, "Your progress", "My learning", LESSONS.filter(isDone).length + " of " + LESSONS.length + " talks completed in this browser.", ordered(LESSONS.filter(isDone)), false);
     else if (FACET[h]) {
       var f = FACET[h];
