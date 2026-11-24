@@ -1,0 +1,559 @@
+--- page 1 ---
+Postbiotics for Glycemic Control:
+Insights into the Efficacy of
+Pediococcus acidilactici pA1c®HI
+Dr.DeyanYavorovDayliev
+DepartmentofResearchandDevelopment
+GenbiomaAplicaciones
+Contact:deyan@genbioma.com
+
+--- page 2 ---
+Postbiotics: A Promising Tool for Glycemic Control
+qPostbioticsarepreparationsof
+inanimatemicroorganismsand/or
+theircomponentsthatconfersa
+healthbenefitonthehost.
+qWhileprobioticsrequireviabilityfor
+activity,postbioticsrelyonbioactive
+metabolites.
+qMorestabilityandbioactivity.
+qFewpostbioticshavebeenstudied
+forglycemicregulationanddiabetes
+prevention.
+Salminenet al., 2021
+PROBIOTICS POSTBIOTICS
+Live microorganisms Inanimate microorganisms and
+components
+Sensitive to heat, pH, and storage
+conditions
+Stable at Ultra High Temperatures
+(UHT) and across storage
+conditions
+Activity depends on viability and
+colonization
+Provide consistent bioactivity
+regardless of viability
+Traditionaluse Innovative and emerging
+Postbiotics vs. Probiotics
+
+--- page 3 ---
+Objectives of this work
+Thegeneralobjectiveofthisstudycompilationisthe
+determinationofthemechanismofactionbywhichthe
+postbioticbasedonPediococcusacidilacticipA1c®HIstrain
+regulatesglycemiainpopulationwithprediabetes(PreD)
+andType2diabetes(TD2).Thegoalistoposition
+pA1c®HIasaninnovativeandpromisingnutritional
+interventionforglycemiccontrolinindividualswithPreD
+andT2D.
+
+--- page 4 ---
+PRECLINICAL RESULTS
+C. elegans model
+NGM
+Orlistat
+pA1c®HI
+pA1c®HI 121
+pA1c®HI 135
+0
+50
+100
+150
+77.0478.9778.7274.67
+100.00
+Nile Red Staining in a
+Glucose-loaded medium (10mM)
+Fat Accumulation (%) NGM
+Orlistat
+pA1c®HI
+pA1c®HI 121
+pA1c®HI 135
+ns
+✱✱✱
+1. Glucose-counteracting effect 2. Gene expression
+daf-2 daf-16
+0.0
+0.5
+1.0
+1.5
+2.0
+15.0
+20.0
+0.5
+17.3
+0.5
+17.3
+1.0
+1.0
+1.0
+1.0
+qPCR Glucidic Metabolism
+Gene expression
+Control
+pA1c®HI
+✱✱
+✱
+3. Insulin signaling-null mutants
+pA1c®HIreversedtheinsulin
+signalingdysregulationcausedby
+glucose(p<0.001)
+pA1c®HIexposedtoUHTretainedthe
+sameefficacyinglucosemetabolism
+astheuntreatedpA1c®HI(p<0.001),
+withnodifferencesbetweenthem(p>
+0.05).
+pA1c®HIhalvedtheexpressionofdaf-
+2(genehomologoustotheinsulin
+receptorinC.elegans;p<0.05),while
+itincreasedtheexpressionofdaf-16
+(keygeneintheinsulinsignaling
+pathway;p<0.01)20-fold.
+0
+50
+100
+150
+99.9100.0
+Nile Red Staining
+double mutantdaf2/daf16
+% Fat Accumulation
+NGMg
+pA1c®HI
+pA1c®HIneedsalltheinsulin
+signalingpathwaytoexertits
+effect.
+
+--- page 5 ---
+PRECLINICAL RESULTS
+Murinemodel
+Weeks
+Glycemia  (mg/dL)
+0 2 4 6 8 10 12 14 16
+0
+30
+60
+90
+120
+150
+180
+Co pA1cÒ pA1cÒHI
+***
+**
+Glycemia
+pA1c®HIsupplementation
+significantlyreducedFBGbyalmost
+50%comparedwithcontrolmice.
+1. Experimental Design 2. Fasting Blood Glucose Monitorization
+1010CFU
+perday/mouse
+1010cells
+perday/mouse
+
+--- page 6 ---
+PRECLINICAL RESULTS
+Murinemodel
+Serum Leptin (ng/ml)
+Co
+pA1cÒ
+pA1cÒHI
+0
+15
+30
+45
+**
+*
+GLP-1 area/total area  (%)
+Co
+pA1cÒ
+pA1cÒHI
+0.0
+0.1
+0.2
+0.3
+0.4
+**
+3. Biochemical parameters 4. Metagenomic analyses
+log 2 abundance
+Pediococcus Fusibacter Clostridium XVIII
+0
+4
+8
+12
+16
+Co
+pA1c®
+pA1c®HI
+*
+***
+******
+*
+pA1c®HIstronglyinhibited
+leptin(p<0.01)suggesting
+thatpostbiotic
+supplementationaffect
+satiety.
+pA1c®HIincreaseGLP-1inthe
+colon(p<0.05),highlightingits
+potentialtoenhanceGLP-1
+secretionandimproveglycemic
+regulation.
+pA1c®HIsupplementationledtoanincreasein
+Pediococcusgenera(p<0.05),whilereducingthe
+abundanceofFusibacterandClostridiumcluster
+XVIII(p<0.001),whichareassociatedwith
+diabetes.
+
+--- page 7 ---
+CLINICAL RESULTS
+qApilotsinglesite,randomized,
+double blind, placebo-controlled
+nutritional intervention in 17
+individualswithobesity.
+qTheinterventionwascarriedoutin
+the facilities of the University
+HospitalofVinalopóandoverseenby
+Bioithas.
+qTheprotocolwasapprovedbythe
+EthicsCommitteeoftheHospital.
+qConsumption:1capsule/day;
+1x1010cells.
+Experimental design
+
+--- page 8 ---
+0 12 0 12
+5.0
+5.5
+6.0
+6.5
+7.0
+5.76
+5.625.72
+5.82
+Weeks
+HbA1c (%)
+Placebo
+pA1c®HI
+6.5%
+Pre-D
+5.7%
+T2D
+Non-Diabetic
+✱
+p = 0.018
+0 12
+0
+5
+10
+15
+Weeks
+Glycemia change (mg/dL)
+Placebo
+pA1c®HI
+p= 0.43
++ 7.29
+mg/dL
++ 3.2
+mg/dL
+•HbA1c:pA1c®HIdecrease0.22%theHbA1c(p=0.018),improvinglong-termglucosemetabolismregulation,asitnot
+onlystopstheprogressionfromPreDtoT2D,butalsoreducesHbA1cvaluestonon-Diabeteslevels.
+•Glycemia:pA1c®HIdelayedthetendencytoincreaseoftheFBGby4.09mg/dL,enhancingshort-termglucose
+metabolismregulation.
+0  6 12
+-0.2
+-0.1
+0.0
+0.1
+0.2
+Weeks
+HbA1c change (%)
+Placebo
+pA1c®HI
+✱
+p= 0.018
++ 0.10%
+- 0.12%
+CLINICAL RESULTS
+Glucose Metabolism Results
+
+--- page 9 ---
+CLINICAL RESULTS IN PREDIABETES
+Analysis Post-hoc
+Initialdatafromthestudywassubdividedtoevaluatetheeffectofthepostbioticonlyintheobese
+subjectswithPreD(6pA1c®HIvs3placebo)on:
+vGlucoseandinsulinmetabolisms:Glycemia,HbA1c,HOMA-IRandInsulin
+vAnthropometricmeasurements:totalweight,BMI,fatmass
+Pre-D:
+HbA1c: 5.7% -6.5%
+6volunteerspA1c®HI vs
+3volunteers placebo
+
+--- page 10 ---
+•HbA1c:pA1c®HIshowedatendencytodecreasetheHbA1cby0.17%.Moreover,pA1c®HInotonlyslowsthe
+progressionfromPreDtoT2D,butalsoreducesHbA1cvalues.
+•Glycemia:pA1c®HIslowedthetendencytoincreaseoftheFBGby11.16mg/dL,enhancingshort-termglucose
+metabolismregulation.
+CLINICAL RESULTS IN PREDIABETES
+Glucose Metabolism Results
+0 6 12
+-0.2
+-0.1
+0.0
+0.1
+0.2
+Weeks
+HbA1c change (%)
+Placebo
+pA1c®HI
+p= 0.34
++ 0.05%
+- 0.12%
+0  12 0  12
+5.0
+5.5
+6.0
+6.5
+7.0
+6.01
+5.90
+5.80
+5.85
+Weeks
+HbA1c (%)
+Placebo
+pA1c®HI
+6.5%
+Pre-D
+5.7%
+T2D
+Non-Diabetic
+0 6 12
+-5
+0
+5
+10
+15
+20
+Weeks
+Glycemia change (mg/dL)
+Placebo
+pA1c®HI
+p= 0.1
++ 14.33
+mg/dL
++ 3.17
+mg/dL
+
+--- page 11 ---
+CLINICAL RESULTS IN PREDIABETES
+0 6 12
+-2
+-1
+0
+1
+2
+3
+4
+Weeks
+HOMA-IR Index
+Placebo
+pA1c®HI
+p= 0.18
++ 2.72
+points
+- 0.01
+points
+0 6 12
+-10
+-5
+0
+5
+10
+15
+Weeks
+Insulin change (μU/ml)
+Placebo
+pA1c®HI
+p= 0.22
++ 9.10
+μU/ml
+- 0.64
+μU/ml
+Insulin Metabolism Results
+•HOMA-IR:pA1c®HIshowedatendencytoreducedHOMA-IRby1.16points(25.6%)in6Weeksand2.73points(60.3%)
+inonly12weekscomparedtoplacebo,suggestingareductionintheinsulinresistance.
+•Insulin:pA1c®HIshowedthetendencytoreducedInsulinlevelsby9.74μU/mL(50.2%)comparedwithplaceboinonly12
+weeksofintervention,suggestingthepostbioticpositivelyaffectshowbodyrespondstoinsulin,producingless.
+
+--- page 12 ---
+0  6 12
+-1.0
+-0.5
+0.0
+0.5
+Weeks
+Body Mass Index Change
+Placebo
+pA1c®HI
+p = 0.06
++ 0.19 Kg
+- 0.59 Kg
+*
+p postbiotic = 0.04
+0  6 12
+-1.5
+-1.0
+-0.5
+0.0
+0.5
+1.0
+Weeks
+Total Weight Change (Kg) Placebo
+pA1c®HI
+p = 0.08
++ 0.4 Kg
+- 1.55 Kg
+*
+p postbiotic = 0.04
+CLINICAL RESULTS IN PREDIABETES
+Anthropometric Measurements Results
+0 6 12
+-3
+-2
+-1
+0
+1
+Weeks
+Fat mass Change (Kg)
+Placebo
+pA1c®HI
+✱
+p = 0.04
+- 0.21 Kg
+- 1.95 Kg
+*
+p postbiotic =
+0.016
+•TotalWeight:pA1c®HIshowedatendencytoreducedTotalWeightby1.95Kgafter12weekscomparedtoplacebo.
+Moreover,pA1c®HIreduced1.55Kgthetotalweight(p=0.04)comparedwithitsbaseline.
+•BMI:pA1c®HIshowedthetendencytoreducedBMIby0.78pointscomparedwithplacebo.Inaddition,pA1c®HIreduced
+0.59pointsthetotalweight(p=0.04)comparedwithitsbaseline.
+•FatMass:pA1c®HIreduced2.16KgtheFatMass(p=0.04)comparedtoplacebo.
+
+--- page 13 ---
+REAL-LIFE CASES RESULTS IN T2D
+Experimental Design
+Durationof the intervention: 12 Weeks
+0 12
+qAReal-LifeCasesnutritional
+interventionin7individuals
+withT2D(12Weeks).
+qTheinterventionwascarried
+outinthefacilitiesofthe
+PublicUniversityofNavarra
+qConsumption:
+2capsule/day;5x1010cells.
+qBloodsamplecollectionand
+biochemical analyses at
+baselineandattheendof
+thestudy.Eachvolunteeris
+itsowncontrol.
+pA1c®HI:2capsules/day
+
+--- page 14 ---
+0 12
+50
+100
+150
+200
+250
+121.0
+136.0
+Glycemia after 3 months
+Weeks
+Glycemia (mg/dL) -15.0 mg/dL reduction
+126 mg/dL
+Pre-D
+100 mg/dL
+T2D
+Non-Diabetic
+0 12
+5
+6
+7
+8
+9
+10
+6.66
+6.93
+HbA1c after 3 months
+Weeks
+HbA1c (%)
+✱
+-0.27%  reduction
+6.5%
+Pre-D
+5.7%
+T2D
+Non-Diabetic
+0 12
+50
+100
+150
+200
+250
+168.3
+185.0
+Cholesterol after 3 months
+Weeks
+Cholesterol (mg/dL)
+✱
+-16.7 mg/dL reduction
+0 12
+50
+100
+150
+200
+92.3
+106.5
+LDL-Cholesterol after 3 months
+Weeks
+LDL-Cholesterol (mg/dL)
+✱
+-14.2 mg/dL reduction
+REAL-LIFE CASES RESULTS IN T2D
+1. Glucose Metabolism Results 2. Cholesterol Metabolism Results
+pA1c®HIshowedatendency
+toreducedFBGby15mg/dL.
+pA1c®HIreducedtheHbA1c
+by0.27%(p=0.03).
+pA1c®HIreducedtotal
+Cholesterolby16.7
+mg/dL(p=0.047).
+pA1c®HIreducedLDL-
+Cholesterolby14.2
+mg/dL(p=0.048).
+
+--- page 15 ---
+1.pA1c®HIimproveslong-term(HbA1c)andshort-term(fastingblood
+glucose)glycemiccontrol.
+2.Themechanismofactionseemstoberelatedtothemodulationofgenes
+relatedtoglucosemetabolismandtheinsulinsignalingpathway,stimulation
+ofGLP-1secretion,reducedinsulinresistanceandmodulationofthegut
+microbiota.
+3.pA1c®HIreducesBMI,bodyfatmass,andcholesterollevels,managingkey
+metaboliccomplicationsrelatedwithPreDandT2D.
+4.pA1c®HIoffersastable,bioactive,andeffectivenutritionalstrategyforPreD
+preventionandmetabolichealthimprovement.
+5.Thispostbioticholdspromiseasaninnovativetoolforaddressingglycemic
+controlinT2D.
+CONCLUSIONS
+
+--- page 16 ---
+ACKNOWLEDGEMENTS
+Dr.MariaIsabel
+Pérez
+Dr.MiguelBarajas
+Dr.MiriamAraña
+Dr.JosuneAyo
+Dr.IñakiIturria
+Dr.LuisGosálbez
+Dr.VicenteNavarro

@@ -1,10 +1,10 @@
 id: dynamap-precision-metagenomics
 title: DynaMAP – Precision metagenomics beyond sequencing
-date: ''
+date: '2025-02-05'
 start: ''
 end: ''
-format: talk
-track: ''
+format: pitch
+track: Probiota Pioneers 2025
 speakers:
 - name: Arno Bouwens
   organisation: Perseus Biomics
@@ -21,11 +21,15 @@ confidential: false
 summary_by: Claude
 summary_date: '2026-11-24'
 reviewed_by: ''
-reviewed_date: ''
+reviewed_date: '2025-02-05'
 attended_by: []
 links:
+  otter: https://otter.ai/u/9MRlQwa2f2zWDT2jGKouDgV63TI
   preprint: https://www.biorxiv.org/content/10.1101/2024.12.05.626436v1
-to_check: No recording; slides only. The day and time are not given (the event ran 5-7 Feb 2025). The company is from the
+to_check: Slides and the Otter recording of the Probiota Pioneers pitches and panel. Day 1 (5 Feb 2025) because the pitch
+  follows Genbioma's Day 1 talk in the same recording; the start time is not given (it follows Migalis, at 12:22 by its deck's
+  file name). Otter puts several of the moderator's panel questions under Nora Cavani's label. The cost comparison is heard
+  as "60 this" (perhaps 16S) [43:21]. The company is from the
   deck's logo and closing slide (Perseus Biomics). Whether Nathan attended is not known.
 added: '2026-11-24'
-added_by: Claude (from Nathan's archive upload, 24 Nov 2026)
+added_by: Claude (from Nathan's archive upload, 24 Nov 2026; recording added the same day)

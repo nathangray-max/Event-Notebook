@@ -26,14 +26,15 @@ ingredients:
 - Bifidobacterium BB-12
 - Lactobacillus acidophilus
 relevance: low
-status: captured
+status: summarised
 confidential: false
-summary_by: ''
-summary_date: ''
+summary_by: Claude
+summary_date: '2026-11-24'
 reviewed_by: ''
 reviewed_date: ''
 attended_by: []
 links: {}
-to_check: No recording; slides only. The end time and track, Ger Rijkers's role (the slides give none), and whether Nathan attended.
+to_check: No recording; slides only. The results (overall benefit, single against multi-strain, trends over time) are in
+  charts with no values in the deck's text, so the summary does not give them. The end time and track, Ger Rijkers's role (the slides give none), and whether Nathan attended.
 added: '2026-11-24'
 added_by: Claude (from Nathan's archive upload, 24 Nov 2026)
