@@ -5,16 +5,16 @@ start: '2025-06-23'
 end: '2025-06-25'
 city: Vienna
 country: Austria
-venue: ''
-organiser: ''
-url: ''
+venue: Andaz Vienna Am Belvedere
+organiser: NutraIngredients
+url: https://www.activenutritionsummit.com
 status: attended
 attended_by: []
 links: {}
-description: A three-day active and sports nutrition conference in Vienna (the organiser is to confirm). Filed from the archive in November 2026,
-  from the speakers' decks and Nathan's Otter recordings.
-to_check: Dates (23-25 June 2025) and city (Vienna) are from the overview report in Nathan's upload and the Otter recordings' dates; the venue,
-  the organiser (NutraIngredients editors host the recordings, to confirm), the full programme and who attended for Vita Actives are to confirm.
-  Archive event, added from decks and recordings.
+description: NutraIngredients' three-day active nutrition summit in Vienna, hosted by its journalists Nikki Hancocks, Stephen Daniells, Olivia
+  Haslam and Lauren Nicolle (advance programme). Filed from the archive in November 2026, from the speakers' decks, Nathan's Otter recordings
+  and the advance programme (files/).
+to_check: The advance programme gives days and session blocks but not every talk's time; the final programme may differ. Who attended for Vita
+  Actives is to confirm. Archive event, added from decks, recordings and the advance programme.
 added: '2026-11-24'
 added_by: Claude (from Nathan's archive upload, 24 Nov 2026)
