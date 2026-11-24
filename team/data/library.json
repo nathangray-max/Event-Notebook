@@ -1,7 +1,7 @@
 {
  "schema": "confnotes.team/1",
  "built": "2026-11-24",
- "commit": "c2c9e79",
+ "commit": "596a5e6",
  "courses": [
   {
    "id": "nutra-healthspan-summit-2026",
@@ -2783,7 +2783,7 @@
    },
    {
     "id": "brain-sleep",
-    "name": "Brain",
+    "name": "Brain, mood and sleep",
     "lessons": [
      "nutra-healthspan-summit-2026--uthever-nmn-nad-metabolism-sleep-health"
     ]
@@ -2944,7 +2944,7 @@
    },
    {
     "id": "nad",
-    "name": "NAD+ precursors (NMN",
+    "name": "NAD+ precursors (NMN, NR)",
     "lessons": [
      "nutra-healthspan-summit-2026--euromonitor-who-is-winning-healthspan",
      "nutra-healthspan-summit-2026--lumina-new-longevity-consumer",
