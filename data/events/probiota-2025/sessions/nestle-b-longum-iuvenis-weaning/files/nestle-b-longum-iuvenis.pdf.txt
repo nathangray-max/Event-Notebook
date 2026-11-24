@@ -1,0 +1,293 @@
+--- page 1 ---
+Bifidobacterium longum subsp. iuvenis thrives
+around weaning and is adapted to transition from
+milk to solid diets
+Olga Sakwinska, PhD
+Nestlé Institute of Health Sciences, Nestlé Research, Lausanne, Switzerland
+Probiota 2025
+
+--- page 2 ---
+2
+Early life gut microbiome is key for health outcomes
+Adapted from Tamburini et al. (2016) Nature Medicine
+➢ Early-life interactions between the microbiome and the gut immune
+system have long lasting effects on health outcomes
+Tamburini et al. The microbiome in early life: implications for health outcomes. Nature Medicine (2016)
+➢ Development of the gut microbiota is implicated in paediatric metabolic
+disorders via effects on host metabolic and immune homeostasis
+Jian et al. Early-life gut microbiota and its connection to metabolic health in children: Perspective on
+ecological drivers and need for quantitative approach. EBioMedicine (2021)
+➢ Perturbed postnatal gut microbiome development contributes to
+pathogenesis of undernutrition
+Barratt et al. Gut microbiome development and childhood undernutrition. Cell Host & Microbe (2022)
+➢ Composition of gut microbiome is one of the main factors accounting for
+variations in child immunisation outcomes
+Jordan et al. The early-life gut microbiome and vaccine efficacy. Lancet Microbe (2022)
+Homeostasis
+Dysbiosis
+©2025 Nestlé Research
+
+--- page 3 ---
+Human Milk Oligosaccharides (HMOs) are abundant diverse
+structures indigestible by human body
+• >160 structures with 20
+representing >80%
+• Mostly NOT digested and
+NOT absorbed by human
+body
+• Much greater concentration
+and diversity in human milk
+compared to farm animals or
+pets
+Macias Rostami et al. (2014); Austin et al. (2016); Sprenger et al. (2017); Samuel et al. (2019); Austin et al. (2019); Lefebvre et al. (2020)
+Some facts
+Protein
+Fat
+Lactose
+Oligosaccharides
+3
+©2025 Nestlé Research
+
+--- page 4 ---
+4
+Bifidobacteria are major players in early life microbiome
+B. longum subsp. infantis is adapted to thrive on HMOs
+Chichlowski et al. (2020) Nutrients
+©2025 Nestlé Research
+
+--- page 5 ---
+5
+Microbiota and Health observational cohort study
+©2025 Nestlé Research
+n=220
+- Anthropometry
+- Diarrhea and Acute Respiratory Infections (ARI)
+- Medication, incl. antibiotic use
+- Breastfeeding status
+Growth
+Nasopharynx
+Stool
+Stool during diarrhea
+Regular visits Birth 2 6 10 2412 15 18
+✓ ✓
+✓ ✓ ✓ ✓ ✓✓✓ ✓
+✓ ✓✓ ✓ ✓ ✓ ✓
+✓
+4
+✓
+8
+✓
+(months)
+Nestlé Microbiota and Health study in Dhaka,
+Bangladesh 2013-2016
+clinicaltrials.gov: NCT02361164
+metagenomics & metabolomics dataset
+
+--- page 6 ---
+6
+Feeding mode
+Majority breastfed
+Delivery mode
+Cesarean section: 25%
+0
+100
+200
+300
+400
+0 4 8 12 16 20 24
+Incidence rate
+per 100 Infant Years
+Series1 Series2
+0
+50
+100
+150
+200
+250
+1 2 3 4 5 6 7 8
+Number of infants
+Age (months)
+Non Breastfed
+Exclusively Breastfed
+Partially Breastfed
+Incidence of risk factors and key health outcomes in
+Microbiota and Health study
+Timing of infection episodes
+Vidal et al. (2019) medRxiv; Binia et al. (2021) mSphere; Vidal et al. (2022) Frontiers in Pediatrics
+©2025 Nestlé Research
+
+--- page 7 ---
+Increase of microbial diversity with age &
+dominance of bifidobacteria
+7
+Vatanen et al. (2022) Cell
+©2025 Nestlé Research
+
+--- page 8 ---
+Discovery of a transitional clade of Bifidobacterium longum
+8
+B. longum
+subsp. longum
+???
+B. longum
+“transitional”
+B. longum
+subsp. infantis
+Phylogenetic tree of the
+dominant B. longum
+strain per sample
+1
+ 1
+1
+Abundance %
+relative to B. longum
+Vatanen et al. (2022) Cell
+©2025 Nestlé Research
+
+--- page 9 ---
+Transitional B. longum is associated with diet combining
+human milk and solid foods
+9
+Vatanen et al. (2022) Cell
+EB Exclusive breastfeeding
+PB Partial breastfeeding combining human milk and diet
+NB No breastfeeding
+©2025 Nestlé Research
+
+--- page 10 ---
+Transitional B. longum is prevalent in Bangladesh but rare globally
+10
+Vatanen et al. (2022) Cell
+…and where present,
+remained unnoticed
+©2025 Nestlé Research
+
+--- page 11 ---
+Metagenomic-guided selective isolation of transitional B. longum
+11
+Fast sequencing (Illumina) revealed the presence of 54
+B. longum isolates, including 9 “transitional B. longum”
+Complete genome resequencing (PacBio):
+5 unique “transitional B. longum” strains
+Decipher the unique capabilities of “transitional B. longum”
+• Carbohydrate Active EnzYme (CaZy) annotation
+• Whole genome-based comparison
+• Metagenomics allowed to identify samples
+with high abundance of transitional B.
+longum
+• These samples were used for selective
+isolation of 77 Bifidobacterium isolates
+Vatanen et al. (2022) Cell
+©2025 Nestlé Research
+
+--- page 12 ---
+Transitional B. longum has capacity to utilize both HMOs and
+complex glycans
+12
+CAZymes
+Human milk glycans
+Host derived glycans
+Diet derived glycans
+Carbohydrate Active EnZymes
+-targeted substrates
+B. l. transitional
+B. l. suillum/ suis
+B. l. longum
+B. l. infantis
+Vatanen et al. (2022) Cell
+Food glycansFucosylated HMOs
+©2025 Nestlé Research
+
+--- page 13 ---
+Transitional B. longum constitutes a distinct subspecies:
+Bifidobacterium longum subsp. iuvenis
+13
+10 loci MLSA Clusters
+B. longum subsp. Infantis
+from breastfed infants
+B. longum subsp. longum
+from adults & animals
+B. longum subsp. suis
+from animals
+B. longum subsp. iuvenis
+from weaning infants/ young children
+Modesto et al. (2023) IJSEM
+• Phylogentically distinct from other B. longum
+subspecies
+• Demonstrates host association with weaning-
+phase: from late infancy to toddlerhood
+• Harbors fucosylated HMO utilization gene cluster
+• Similarly to B. l. infantis, and unlike B. l. suis,
+contains operon to produce riboflavin
+• Type strain: NCC 5000T (=LMG 32752T=CCOS
+2034T)
+• Isolates originate from Asia and Africa
+Concatenated split network tree based on 10 selected housekeeping gene loci
+©2025 Nestlé Research
+
+--- page 14 ---
+B. l. iuvenis efficiently uses fucosylated HMO predominant
+in human milk
+14
+Adapted from Modesto et al. (2023) IJSEM
+B. l. iuvenis
+B. l. suillum/suis
+B. l. longum
+B. l. infantis
+glu 2’FL 3-FL diFL LNT
+Growth in vitro
+Species Strains
++
+-
+-
++
+©2025 Nestlé Research
+
+--- page 15 ---
+Bifidobacterium longum subsp. iuvenis thrives around weaning
+and is adapted to transition from milk to solid diets
+Growth on HMOs & food glycans
+Birth 2 15 18 24
+Age (months)
+126
+Bifidobacterium
+longum
+subspecies
+abundance
+Breastmilk
+Solid foods
+B. l. iuvenis
+15
+Adapted from Vatanen et al. (2022) Cell
+©2025 Nestlé Research
+
+--- page 16 ---
+Thank you
+16
+Image: Christophe Barde
+@Nestle Research
+Tommi Vatanen*, Qi Yan Ang*, Léa Siegwald*, Shafiqul Alam Sarker, Caroline I. Le Roy, Stéphane
+Duboux, Omar Delannoy-Bruno, Catherine Ngom-Bru, Claire L. Boulangé, Martin Strazar, Julian
+Avila-Pacheco, Amy Deik, Kerry Pierce, Kevin Bullock, Courtney Dennis, Shamima Sultana, Sharika
+Sayed, Mahbubar Rahman, Tahmeed Ahmed, Monica Modesto, Paola Mattarelli, Clary B. Clish, Hera
+Vlamakis, Damian R. Plichta, Olga Sakwinska* and Ramnik J. Xavier*
+Stéphane
+Duboux
+Catherine
+Ngom-Bru
+Omar
+Delannoy Bruno
+Léa
+Siegwald
+Caroline
+Le Roy
+Claire
+Boulangé
+Ramnik
+Xavier
+Tommi
+Vatanen
+Qi Yan
+Ang
+Paola
+Mattarelli

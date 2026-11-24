@@ -1,0 +1,31 @@
+id: dynamap-precision-metagenomics
+title: DynaMAP – Precision metagenomics beyond sequencing
+date: ''
+start: ''
+end: ''
+format: talk
+track: ''
+speakers:
+- name: Arno Bouwens
+  organisation: Perseus Biomics
+  role: R&D Director
+themes:
+- probiotic-category-evolution
+categories: [gut-health]
+tags: [science, ai]
+ingredients:
+- probiotic strains (identified to strain level)
+relevance: low
+status: summarised
+confidential: false
+summary_by: Claude
+summary_date: '2026-11-24'
+reviewed_by: ''
+reviewed_date: ''
+attended_by: []
+links:
+  preprint: https://www.biorxiv.org/content/10.1101/2024.12.05.626436v1
+to_check: No recording; slides only. The day and time are not given (the event ran 5-7 Feb 2025). The company is from the
+  deck's logo and closing slide (Perseus Biomics). Whether Nathan attended is not known.
+added: '2026-11-24'
+added_by: Claude (from Nathan's archive upload, 24 Nov 2026)

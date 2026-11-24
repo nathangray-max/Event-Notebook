@@ -21,7 +21,7 @@ ingredients:
 - {id: coq10, name: CoQ10 and ubiquinol, match: ['coq10', 'coenzyme q10', 'ubiquinol', 'novasol q\b']}
 - {id: hmb, name: HMB, match: ['\bhmb\b']}
 - {id: peptides, name: Bioactive peptides, match: ['pepti']}
-- {id: probiotics, name: Probiotics and postbiotics, match: ['probiotic', 'postbiotic', 'synbiotic', 'bifido', 'lactobacillus', 'limosilactobacillus', 'akkermansia', 'biogaia', 'yakult', 'activia', 'lactoflorene', '\bca15\b', 'synbio', 'novonesis strains', 'northbiotic', 'referm', 'live biotherapeutics']}
+- {id: probiotics, name: Probiotics and postbiotics, match: ['probiotic', 'postbiotic', 'synbiotic', 'bifido', 'lactobacillus', 'limosilactobacillus', 'akkermansia', 'biogaia', 'yakult', 'activia', 'lactoflorene', '\bca15\b', 'synbio', 'novonesis strains', 'northbiotic', 'referm', 'live biotherapeutics', '^biotics$']}
 - {id: fibre, name: Fibre and prebiotics, match: ['fibre', 'fiber', 'prebiotic', 'inulin', 'oligosacch', '\bhmo\b', 'chitin', 'butyrate', 'acetate', 'microbiomex']}
 - {id: polyphenols, name: Polyphenols and berries, match: ['polyphenol', 'anthocyanin', 'quercetin', 'resveratrol', 'jotrol', 'cherry', 'blackcurrant', 'blueberry', 'pomegranate', 'cocoa', 'hydroxytyrosol', 'oleuropein', 'bonolive', 'brainberry', "watts'up", 'flavanol']}
 - {id: curcumin, name: Curcumin, match: ['curcumin', 'turmeric']}

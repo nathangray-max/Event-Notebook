@@ -1,0 +1,203 @@
+--- page 1 ---
+DynaMAP – Precision metagenomics beyond sequencing
+Arno Bouwens – R&D Director Probiota 2025
+
+--- page 2 ---
+2
+Precision in Complex
+Microbial Ecosystems
+Strains specificity maximizes therapeutic benefits…
+Yet, today we’re facing:
+• Low resolution
+• Sensitivity issues
+• High data to noise ratio
+Copied from Spacova, et al. Frontiers 2023 DOI: 10.3389/fmicb.2023.1272754
+
+--- page 3 ---
+4 Optical
+mapping
+DynaMAP - Microbiome Profiling by Optical Mapping
+3
+5 Microbiome
+profiling3 Molecular
+combing 2 High density
+fluorocoding1 HMW metagenomic
+DNA extraction
+Minimally biased
+purification of high
+molecular weight (HMW)
+metagenomic DNA.
+Site-specific enzymatic
+labelling of DNA
+molecules with
+fluorescent dye.
+High-density DNA
+deposition and
+molecular combing on a
+DNA binding surface.
+Read-out of the
+fluorescence signals
+along hundreds of
+thousands of DNA
+molecules.
+Signal matching to
+reference database for
+taxonomic classification
+and abundance
+profiling.
+~60 minutes ~10 minutes ~20 minutes ~30 minutes
+
+--- page 4 ---
+DynaMAP Reads the
+Genome Structure of
+Native Metagenomic DNA
+4
+31 µm S. cerevisiae DNA fragment (54 kbp long)
+• Automated tile-scanning of 100,000+ highly
+informative native HMW DNA molecules scanned
+per sample in <20 minutes
+• Each vertical trace is a single DNA molecule
+• DNA is fluorocoded with sequence-specific labels
+(bright dots)
+• The intensity signal of labels along a DNA
+molecule creates a taxonomic barcode
+• Barcodes have a taxonomic resolution down to
+strain level
+Optical mapping of fluorocoded DNA
+
+--- page 5 ---
+Whole genome alignment of six genomes of Yersinia pestis and two of Yersinia pseudotuberculosis.
+It reveals 78 locally collinear blocks conserved among all eight taxa but differently organized on the genome following
+numerous inversions, translocation, duplications [1]
+[1]Darling AE et al. Dynamics of genome rearrangement in bacterial populations. PLoS Genet. 2008
+[2] Periwal & Scaria. Insights into structural variations and genome rearrangements in prokaryotic genomes.
+Bioinformatics. 2015
+[3] D’huys et al., Assessing the Resolution of Methyltransferase-Mediated DNA Optical Mapping. ACS Omega 2021
+5
+DynaMAP Reads the Genome
+Structure of Native Metagenomic DNA
+• DynaMAP leverages prokaryotes’ intraspecies genomic
+heterogeneity
+• Strains can have >99% ANI but very different genome structures
+due to structural variants
+• DynaMAP reads our genome structure: site-specific labeling
+(e.g. “TCGA”) on long DNA fragments >30kbp
+• Read-out of native long DNA without amplification
+DynaMAP measures strain-level resolved
+microbiome profiles
+
+--- page 6 ---
+6
+Set-up:
+• Equal proportion (12.5%) microbial
+community Zymo D6300
+• 3 easy-to-lyse Gram-negative
+bacteria
+• 5 tough-to-lyse Gram-positive
+bacteria
+• DynaMAP analysis has 100% recall rate for
+bacteria (all strains detected)
+• DynaMAP accurately measures the
+composition: no significant G+ vs G- bias
+observed
+• DynaMAP limit of detection LoD better than
+0.1%
+• No false positives above relative
+abundance cut-off 0.05%
+DynaMAP – Accurate & Precise Microbiome Profiling
+DynaMAP SMS
+Relative abundance [%]
+Spike-in levels: 1%, 0.1%, 0.01%
+Spike-ins 1% and 0.1% are reliably
+detected by DynaMAP and SMS
+Preprint available: https://www.biorxiv.org/content/10.1101/2024.12.05.626436v1
+
+--- page 7 ---
+7
+DynaMAP – High-Resolution Microbiome Profiling
+
+-
+99.9% ANI99.5% ANI
+ground truth strain
+correctly identified
+false-positive strains
+have ANI >99.9% !
+[a.u.]
+Strain
+specificity
+>99.5% ANI
+Preprint available: https://www.biorxiv.org/content/10.1101/2024.12.05.626436v1
+Set-up:
+• Tested reference sequences included all available strains from
+NCBI, with completeness level of ‘complete’ , and excluding
+any references that do not reach a 200 kb threshold in length
+were included in the reference database
+Conclusions:
+• Strains with ANI higher than 99.5% can be
+differentiated with DynaMAP!
+
+--- page 8 ---
+8
+Strain
+specificity
+>99.5% ANI
+DynaMAP – High-Resolution Microbiome Profiling
+
+Preprint available: https://www.biorxiv.org/content/10.1101/2024.12.05.626436v1
+Set-up:
+• Cell mock microbiome ZymoResearch D6300 (8 bacteria)
+Conclusions:
+• Strains with ANI up to 99.9% can be differentiated!
+(Strain definitions set threshold at ANI 99.5% – 99.9%)
+
+--- page 9 ---
+9
+Relative
+abundance
+profiles
+similar to SMS
+Set-up:
+• 1 human fecal sample from healthy adult donor
+• 5 aliquots taken of the original fecal sample
+• DynaMAP was compared to Kraken classification of SMS readout using
+the same reference database
+• GTDB taxonomy
+DynaMAP – Precis Gut Microbiome Profiling
+DynaMAP
+Shotgun metagenomic sequencing (SMS)
+Species-level
+Phylum level
+Conclusions:
+• Log-log correlations 70-80%
+• Reproducibility of DynaMAP and SMS equivalent
+Preprint available: https://www.biorxiv.org/content/10.1101/2024.12.05.626436v1
+
+--- page 10 ---
+The DynaMAP Technology Roadmap
+10
+From an analysis service to a fully automated benchtop device
+Available now
+Microbiome profiling service with
+<5 business days turnaround time
+From Q2 2025
+Fully-automated benchtop device
+with 6h turnaround time
+Benchtop deviceEU-based central lab
+
+--- page 11 ---
+DynaMAP – Precision Metagenomics Beyond Sequencing
+11
+High specificity
+Strain resolution with ANI > 99.5%
+HMW metagenomic DNA +
+high-density fluorescence labeling
+High sensitivity
+Limit of detection at 0,1%
+relative abundance
+Unbiased
+Measures what’s in the sample
+No PCR amplification
+
+--- page 12 ---
+PerseusBiomics.com
+arno.bouwens@perseusbiomics.com
