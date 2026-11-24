@@ -102,6 +102,9 @@ button { font: inherit; color: inherit; }
 .thumb .tick { position: absolute; right: 6px; top: 6px; background: var(--lime); color: var(--lime-ink); font-size: var(--fs-12); font-weight: 700; padding: 0 7px; border-radius: 4px; }
 .talk-body { min-width: 0; display: flex; flex-direction: column; gap: 4px; }
 .talk-body h3 { font-size: var(--fs-18); }
+.talk-body .snip { margin: 2px 0; color: var(--ink-2); font-size: var(--fs-14); line-height: 1.45; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.sort { margin-left: auto; display: inline-flex; align-items: center; gap: 8px; font-size: var(--fs-13); color: var(--ink-3); }
+.sort select { font: inherit; font-size: var(--fs-13); color: var(--ink); background: var(--surface); border: 1px solid var(--line); border-radius: 6px; padding: 5px 8px; }
 .talk-body .minibar { max-width: 220px; margin-top: 4px; }
 .empty-note { color: var(--ink-3); padding: 24px 0; }
 
@@ -214,6 +217,7 @@ details.more .prose { padding-top: 12px; font-size: var(--fs-15); }
   .progress-link { margin-left: auto; }
   .talk a { grid-template-columns: 112px minmax(0, 1fr); gap: 12px; }
   .talk-body h3 { font-size: var(--fs-15); }
+  .talk-body .snip { display: none; }
   .explore { padding: 12px; }
   .explore .up-next { grid-template-columns: 1fr; }
   .explore-grid { display: none; }

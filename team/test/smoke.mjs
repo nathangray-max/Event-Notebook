@@ -65,8 +65,20 @@ for (const width of [1280, 390]) {
   await page.goto(base + "#cat-sports");
   await page.waitForSelector(".hub-head h1");
   check((await page.locator(".talk").count()) === 1 && (await page.locator(".rail a[href='#tag-science']").count()) === 1, `${width}: a market category lists its talk and the insight tags show`);
+  check((await page.locator(".talk .snip").count()) === 1 || width < 600, `${width}: talk rows show a summary line`);
+  await page.selectOption("#sort", "az");
+  check((await page.locator("#sort").inputValue()) === "az" && (await page.locator(".talk").count()) === 1, `${width}: the list can be sorted`);
   await page.click(".talk a");
   await page.waitForSelector("#stage img");
+  if ((await page.locator("#scrub button").count()) > 1) {
+    await page.evaluate(() => {
+      const s = document.getElementById("stage"), mk = (x) => new Touch({ identifier: 1, target: s, clientX: x, clientY: 200 });
+      s.dispatchEvent(new TouchEvent("touchstart", { touches: [mk(300)], changedTouches: [mk(300)], bubbles: true }));
+      s.dispatchEvent(new TouchEvent("touchend", { touches: [], changedTouches: [mk(150)], bubbles: true }));
+    });
+    check((await page.locator("#counter").textContent()).startsWith("Slide 2"), `${width}: swiping the slide moves to the next one`);
+    await page.click("#prev");
+  }
   check((await page.locator(".learning").count()) >= 1, `${width}: the talk shows its key learnings`);
   check(await page.evaluate(() => document.getElementById("stage").getBoundingClientRect().right <= window.innerWidth), `${width}: the slide fits the screen`);
   check((await page.locator("#thumbs button").count()) >= 1 && (await page.locator("#scrub button").count()) >= 1, `${width}: the deck shows thumbnails and progress`);

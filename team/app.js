@@ -9,7 +9,8 @@
                { kind: "tags", prefix: "tag-", label: "Insight type", field: "tags" }];
   var FACET = {};  // "cat-glp1" -> { name, lessons, kind }
   var app = document.getElementById("app");
-  var essentialOnly = false;
+  var essentialOnly = false, sortBy = "list";
+  var LEVEL_RANK = { Essential: 0, Recommended: 1, Background: 2 };
 
   // ---------- helpers ----------
   function esc(s) { return String(s == null ? "" : s).replace(/[&<>"']/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]; }); }
@@ -88,19 +89,31 @@
       }).join("") +
       "<h4>Shows</h4>" + LIB.courses.map(function (c) { return item(c.id, c.short, c.lessons.length); }).join("") + "</div></nav>";
   }
+  // the first sentence or two of the summary, for scanning a list
+  function snippet(l) {
+    var s = String(l.summary || "").replace(/\s*\[(\d{1,2}:)?\d{1,2}:\d{2}\]/g, "").replace(/\s*\((slide|photo|notes|otter)[^)]*\)/gi, "").replace(/\*\*/g, "").split(/\n\s*\n/)[0].trim();
+    if (s.length <= 200) return s;
+    var cut = s.slice(0, 200), end = Math.max(cut.lastIndexOf(". "), 0);
+    return end > 90 ? cut.slice(0, end + 1) : cut.slice(0, cut.lastIndexOf(" ")) + "…";
+  }
   function talkRow(l) {
     var c = COURSE[l.event], p = pct(l);
     return '<li class="talk"><a href="#' + key(l) + '"><div class="thumb">' + (l.thumb ? '<img alt="" loading="lazy" src="' + l.thumb + '">' : '<span class="none">No slides</span>') +
       (isDone(l) ? '<span class="tick">✓ Done</span>' : "") + '</div><div class="talk-body"><h3>' + esc(l.title) + " " + level(l) + "</h3>" +
-      '<span class="meta">' + esc(names(l, 3)) + "</span>" + '<span class="meta">' + esc(c.short) + " · " + esc(shortDate(l.date)) + (l.slides ? " · " + l.slides + " slides" : "") + "</span>" +
+      '<span class="meta">' + esc(names(l, 3)) + "</span>" + (snippet(l) ? '<p class="snip">' + esc(snippet(l)) + "</p>" : "") + '<span class="meta">' + esc(c.short) + " · " + esc(shortDate(l.date)) + (l.slides ? " · " + l.slides + " slides" : "") + "</span>" +
       (p && !isDone(l) ? '<div class="minibar" title="' + p + '% of the deck seen"><span style="width:' + p + '%"></span></div>' : "") + "</div></a></li>";
   }
   function hub(current, kicker, title, lede, lessons, showFilter) {
     var list = essentialOnly && showFilter ? lessons.filter(function (l) { return l.level === "Essential"; }) : lessons;
+    list = sortBy === "essential" ? list.slice().sort(function (a, b) { return LEVEL_RANK[a.level] - LEVEL_RANK[b.level]; })
+         : sortBy === "az" ? list.slice().sort(function (a, b) { return a.title.localeCompare(b.title); }) : list;
     return '<div class="hub">' + rail(current) + '<section class="hub-main"><header class="hub-head"><span class="kicker">' + esc(kicker) + "</span><h1>" + esc(title) + "</h1>" +
       (lede ? '<p class="lede">' + esc(lede) + "</p>" : "") + "</header>" +
       (showFilter ? '<div class="filters"><button type="button" class="chip" id="ess" aria-pressed="' + essentialOnly + '">Essential only</button>' +
-        '<span class="meta" style="align-self:center">' + list.length + (list.length === 1 ? " talk" : " talks") + "</span></div>" : "") +
+        '<span class="meta" style="align-self:center">' + list.length + (list.length === 1 ? " talk" : " talks") + "</span>" +
+        '<label class="sort"><span>Sort</span><select id="sort"><option value="list"' + (sortBy === "list" ? " selected" : "") + '>' + (current.indexOf("-2026") > 0 ? "Programme order" : "Newest first") + "</option>" +
+        '<option value="essential"' + (sortBy === "essential" ? " selected" : "") + ">Essential first</option>" +
+        '<option value="az"' + (sortBy === "az" ? " selected" : "") + ">A to Z</option></select></label></div>" : "") +
       (list.length ? '<ol class="talks">' + list.map(talkRow).join("") + "</ol>" : '<p class="empty-note">No talks here yet.</p>') + "</section></div>";
   }
   function ordered(ls) { return ls.slice().sort(function (a, b) { return (b.date || "").localeCompare(a.date || "") || (a.start || "").localeCompare(b.start || ""); }); }
@@ -192,6 +205,15 @@
       if (window.matchMedia("(max-width: 1000px)").matches) document.getElementById("deck").scrollIntoView({ behavior: "smooth", block: "start" });
     }
     document.getElementById("prev").onclick = function () { show(at - 1); };
+    // swipe left or right on the slide to page through on a phone or tablet
+    var touchX = null, touchY = null;
+    stage.addEventListener("touchstart", function (ev) { if (ev.touches.length === 1) { touchX = ev.touches[0].clientX; touchY = ev.touches[0].clientY; } }, { passive: true });
+    stage.addEventListener("touchend", function (ev) {
+      if (touchX === null) return;
+      var dx = ev.changedTouches[0].clientX - touchX, dy = ev.changedTouches[0].clientY - touchY;
+      touchX = null;
+      if (Math.abs(dx) > 45 && Math.abs(dx) > Math.abs(dy) * 1.5) { if (dx < 0) forward(); else show(at - 1); }
+    }, { passive: true });
     document.getElementById("next").onclick = forward;
     scrub.forEach(function (b, j) { b.onclick = function () { show(j); }; });
     document.getElementById("full").onclick = function () {
@@ -248,6 +270,8 @@
     else document.title = "Show Learning Library";
     var ess = document.getElementById("ess");
     if (ess) ess.onclick = function () { essentialOnly = !essentialOnly; route(); };
+    var sel = document.getElementById("sort");
+    if (sel) sel.onchange = function () { sortBy = sel.value; route(); };
   }
 
   document.getElementById("search-form").addEventListener("submit", function (ev) {
