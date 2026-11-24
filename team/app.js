@@ -155,7 +155,7 @@
     var c = COURSE[l.event], p = pct(l);
     return '<li class="talk"><a href="#' + key(l) + '"><div class="thumb">' + (l.thumb ? '<img alt="" loading="lazy" src="' + l.thumb + '">' : '<span class="none">No slides</span>') +
       (isDone(l) ? '<span class="tick">✓ Done</span>' : "") + '</div><div class="talk-body"><h3>' + esc(l.title) + " " + level(l) + "</h3>" +
-      '<span class="meta">' + esc(names(l, 3)) + "</span>" + (snippet(l) ? '<p class="snip">' + esc(snippet(l)) + "</p>" : "") + '<span class="meta">' + esc(c.short) + " · " + esc(shortDate(l.date)) + (l.slides ? " · " + l.slides + " slides" : "") + "</span>" +
+      '<span class="meta">' + esc(names(l, 3)) + "</span>" + (snippet(l) ? '<p class="snip">' + esc(snippet(l)) + "</p>" : "") + '<span class="meta">' + [esc(c.short), esc(shortDate(l.date)), l.slides ? l.slides + " slides" : ""].filter(Boolean).join(" · ") + "</span>" +
       (p && !isDone(l) ? '<div class="minibar" title="' + p + '% of the deck seen"><span style="width:' + p + '%"></span></div>' : "") + "</div></a></li>";
   }
   function hub(current, kicker, title, lede, lessons, showFilter) {
