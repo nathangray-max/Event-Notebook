@@ -1,0 +1,632 @@
+--- page 1 ---
+TÍTULO
+Subtítulo
+Postbiotics: Thenew frontierin microbial
+biotechnology
+ProfDrJavier Morán (IUIA-UCAM)
+
+--- page 2 ---
+A stabilitybug createda new concept
+
+--- page 3 ---
+BUT regulationbecomesthekeypointfornew
+launches
+Regulation
+Science
+MarketObjetives
+Marketing
+
+--- page 4 ---
+Theregulatoryvalidpathwayformarketing
+postbioticsin food
+
+--- page 5 ---
+Regulatoryopinionsin EU
+Novel foodsand emergingcandidates: Regulatory
+approvalsand evaluationstatus
+Year Bacteria/Ingredient QPS List Restrictions RegulatoryStatus
+2014
+Bacteroides
+xylanisolvens DSM
+23964
+No No Approved as Novel
+Food
+2015 Mycobacterium
+setense manresensis No Yes (use) Approved as Novel
+Food
+2021 Akkermansia
+muciniphila MucT No Yes (Shelf life) Approved as Novel
+Food
+2021 P. freudenreichii
+biomass
+Consumed in
+fermented cheeses No Novel Food
+2022
+IBalance (13 heat-
+treated
+microorganisms)
+No history of
+consumption Is Novel Food
+2025 Sourdough bread Yes No No Novel Food
+Pending M. aurum Aogashima
+DSM33539 No Dietary Supplement Pending
+Pending Anaerobutyricum
+soehngenii CH106 No Pending
+Regulatoryframeworkfornovel foods:
+Ensuringsafety ofprobioticderivatives
+Aspect Details A.
+muciniphila
+A.
+soehngenii
+B.
+xylanosolvens Ibalance M. aurum M. setense
+Presence
+in Human
+Microbiota
+Presencein
+microbiota does
+notguarantee
+safety.
+Present in
+human milk
+but no QPS
+Commensal
+butno QPS
+QPS List
+Role
+QPS isthegold
+standard for
+ensuring
+microorganism
+safety.
+No No No No (some) No No
+Production
+Process
+Evaluation
+Focuseson
+safety and
+standardization.
+Anaerobic
+fermentation
+Dairy
+industry
+techniques
+Heat
+inactivation
+History of
+Safe Use
+Significantfood
+consumption
+historybefore
+1997.
+No No No No
+
+--- page 6 ---
+A case study: Demonstratesthatsourdoughbread
+fermentedwithLAB, usinga similar methodas attenuated
+probiotics, isnotconsiderednovel food
+TechnicalDossier
+
+TECHNICAL DOSSIER
+
+SECCIÓN 1: SECTION 1: ALL FOODS (FOR FOODS RESULTING
+FROM A PRODUCTION PROCESS NOT USED FOR FOOD
+PRODUCTION WITHIN THE UNION BEFORE 15 MA Y 1997 ONLY
+POINTS 1 TO 3 AND POINT 7)
+1. Description of the food
+Bread made with sourdough containing different lactic acid bacteria (LAB).
+1.1. Name of the food
+S'Avia Rita bread made with sourdough containing different lactic acid
+bacteria (LAB).
+1.2. Detailed description of the food, including information whether
+the food consists of engineered nanomaterials as referred to in
+points (a)(viii) and (ix) of Article 3(2) of Regulation (EU) 2015/2283
+Bread is one of the most important staple foods consumed in the world1.
+The bread recipe comprises cereal flour and may include pseudocereals
+and/or legumes, water, salt, other minor ingredients and a leavening agent.
+Through lactic acid fermentation, the properties of these ingredients can
+be improved and the sensory characteristics of the final products
+improved. In recent years, the use of sourdough has become increasingly
+standardized and the interaction between microbial cultures has been
+studied with the aim of employing fermentation in baking to ferment, form
+flavor and improve stability. Furthermore, LAB-fermented sourdough is a
+source of proteolytic enzymes, activated by acid production, which are
+likely to eliminate gluten toxicity during bread making. Furthermore, phytic
+acid, which counteracts the effects of phytase abundant in whole grains by
+improving nutritional aspects, and other anti-nutritional factors of grains
+and legumes are reduced by specific enzymes produced during
+fermentation, resulting in greater bioavailability of important minerals in
+baked goods2.
+Sourdough is a very complex ecosystem, where heterofermentative LAB
+are the dominant organisms and coexist synergistically with yeasts, which
+ 1 Koistinen VM, Mattila O, Katina K, Poutanen K, Aura AM, Hanhineva K. Metabolic profiling of sourdough fermented
+wheat and rye bread. Sci Rep. 2018 Apr 9;8(1):5684. 2 Fekri A, To r b a t i M, Yari Khosrowshahi A, Bagherpour Shamloo H, Azadmard-Damirchi S. Functional effects of phytate-
+degrading, probiotic lactic acid bacteria and yeast strains isolated from Iranian traditional sourdough on the technological
+and nutritional properties of whole wheat bread. Food Chem. 2020 Feb 15;306:125620.
+BVL response
+
+Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit im Internet: www.bvl.bund.de
+DATENSCHUTZHINWEISE: www.bvl.bund.de/datenschutz
+
+Dr. Evelyn Breitweg-Lehmann
+Head of Unit
+Federal Office of Consumer Protection and Food Safety (BVL)
+Berlin Office • P.O. Box 11 02 60 • 10832 Berlin • Germany
+
+COMPOSED BY Dr. Marcel-Antoine Duhs
+S'Avia Rita SL.
+Av. Jaume I El Conqueridor
+51 - 07760 Citadella de Menorca
+Islas Baleares
+España
+
+saviarita@saviarita.com
+PHONE +49 3018 444-10107
+FAX +49 3018 444-89999
+E-MAIL marcel-antoine.duhs@bvl.bund.de
+  YOUR REFERENCE
+YOUR MESSAGE FROM 11 June 2024
+  OUR REFERENCE 111.11206.0.0035
+(specify when answering)
+  DATE 01 July 2024
+Via e-mail only
+Regulation (EU) 2015/2283 of the European Parliament and of the Council of 25 November
+2015 concerning novel foods
+Your request for determination of novel food status under Article 4(2) for “Bread made with
+sourdough containing different lactic acid bacteria (LAB)”
+Dear Quim Lorente,
+
+You submitted a consultation request to determine the status of a novel food under Article 4(2)
+of Regulation (EU) 2015/2283 (NFVO) for “Bread made with sourdough containing different
+lactic acid bacteria (LAB)”.
+
+Before I can validate the request according to Article 5 of Implementing Regulation (EU)
+2018/456 (IR), please answer the following questions.
+
+According to Article 4 of Regulation (EU) 2015/2283, food business operators shall consult the
+Member State in which they intend to place the food in question on the market first if they
+are unsure whether the food they intend to place on the market in the Union falls within the
+scope of this Regulation.
+
+1. Do you intend to place the sourdough bread in question on the market in Germany first?
+If not, why do you not address the request to the competent authority in the Member
+State where you plan to do so, e.g. in Spain?
+
+EC response
+Consultation on the determination of the status of a novel food
+under Article 4 (2) of Regulation (EU) 2015/2283
+Information according to Article 7 of Implementing Regulation (EU) 2018/456
+Recipient Member State: Germany
+
+1. Name and description of the food in question
+Sourdough bread
+The sourdough, which is used as an ingredient alongside flour made from common bread
+cereals, is produced in the traditional way and contains only naturally occurring
+microorganisms. No isolated or specially produced microorganisms are added.
+2. Status as a novel food
+The product is not a novel food.
+3. Food category
+irrelevant
+4. Reason
+The German federal states’ authorities responsible for food surveillance as well as the
+competent authorities of the EU Member States and the European Commission were
+consulted.
+Sourdough bread produced in the traditional way, containing only microorganisms naturally
+present and to which no isolated or specially produced microorganisms are added, is a
+traditional food which was used for human consumption to a significant degree in the EU
+before 15 May 1997.
+Paper
+Citation:Morán, J.; Kilasoniya, A.
+Integration of Postbiotics in Food
+Products through Attenuated
+Probiotics: A Case Study with Lactic
+Acid Bacteria in Bread.Foods2024,13,
+2042.https://doi.org/10.3390/
+foods13132042
+Academic Editor: Albert Ivanov
+Krastanov
+Received: 27 May 2024
+Revised: 21 June 2024
+Accepted: 25 June 2024
+Published: 27 June 2024
+Copyright:©2024 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+foods
+Review
+Integration of Postbiotics in Food Products through Attenuated
+Probiotics: A Case Study with Lactic Acid Bacteria in Bread
+Javier Morán1,* and Alina Kilasoniya2
+1 Department of Food Innovation, Universidad Católica San Antonio de Murcia, 30107 Murcia, Spain
+2 International PhD School, Universidad Católica San Antonio de Murcia, 30107 Murcia, Spain
+* Correspondence: jmoran@sat.ucam.edu
+Abstract:The study examines the integration of postbiotics in food products through the use of
+attenuated probiotics, speciﬁcally lactic acid bacteria (LAB) in bread. Postbiotics, non-viable microor-
+ganisms or their metabolites, offer health beneﬁts similar to probiotics without the risks associated
+with live bacteria. This research evaluates the regulatory aspects and safety of LAB in sourdough
+bread production, highlighting their historical and signiﬁcant use in Europe before 1997. The study
+includes microbial quantiﬁcation and Next-Generation Sequencing (NGS) to identify LAB in tra-
+ditional sourdough, comparing them with historical and current EFSA Qualiﬁed Presumption of
+Safety (QPS) lists. Findings show that the LAB present in sourdough have been extensively and
+safely used in bread making, supporting their classiﬁcation as non-novel foods under EU regulations.
+The stability and consistency of LAB metabolites in sourdough bread are also conﬁrmed, ensuring
+quality and safety in each batch. The study concludes that LAB in sourdough, when inactivated
+through bread-making processes, are not considered novel foods, aligning with historical, scientiﬁc,
+and regulatory evidence.
+Keywords:postbiotics; lactic acid bacteria (LAB); sourdough; bread production; food safety;
+European Union regulations; microbial quantiﬁcation; Next-Generation Sequencing
+1. Introduction
+The growing concern for health and food safety has driven research into alternatives
+to traditional probiotics. Postbiotics, deﬁned as non-viable microorganisms or their metabo-
+lites that offer health beneﬁts, have emerged as a promising solution. Unlike probiotics,
+postbiotics do not present the risks associated with the viability of live bacteria, making
+them particularly attractive for use in foods. In the food industry , postbiotics can enhance
+product functionality without compromising consumer safety .
+This study focuses on the integration of postbiotics in food products using lactic acid
+bacteria (LAB) in bread. By evaluating regulatory and safety aspects, this research not
+only expands knowledge on the application of postbiotics in baking but also provides a
+solid scientiﬁc basis for their future incorporation in other food products. Additionally ,
+this article deﬁnes a new pathway for manufacturing postbiotics that are not considered
+novel foods under current regulations, thereby addressing signiﬁcant concerns regarding
+their regulatory status. Until now, there have been uncertainties about how to classify and
+regulate these compounds, and this study offers a viable and scientiﬁcally justiﬁed solution
+to overcome these regulatory challenges.
+Thus, this work not only addresses a current scientiﬁc need but also has the potential
+to inﬂuence the food industry and regulatory policies, offering an innovative and practical
+perspective for the use of postbiotics in foods.
+To ensure a comprehensive and relevant selection of literature for this article, spe-
+cific search terms were utilized in PubMed. The search strategy included the following
+Foods2024,13, 2042.https://doi.org/10.3390/foods13132042 https://www.mdpi.com/journal/foods
+
+--- page 7 ---
+Sourdough(withLAB) bread
+Traditionaluse
+Use ofspecificLAB before1997
+in differentEU countries
+Aspect
+Safety and Historical Use
+TraditionalProductionProcess
+Inactivation During Baking
+Presence on QPS List
+Historical Consumption
+Regional Traditions
+Verification Methods
+ScientificLiteratureReview
+Country Lactic Acid Bacteria
+Finland L. acidophilus, L. plantarum, L. casei
+France
+L. plantarum, L. casei, L. delbrueckii subsp. delbrueckii, L. acidophilus,
+L. brevis, Leuc. mesenteroides subsp. mesenteroides, Leuc.
+mesenteroides subsp. dextranicum, P. pentosaceus, L. curvatus
+Germany
+L. delbrueckii, L. plantarum, L. casei, L. fermentum, L. buchneri, L.
+brevis, L. acidophilus, L. farciminis, L. alimentarius, L.
+sanfranciscensis, L. fructivorans, Pediococcus spp., L. homo-hiochii, L.
+hilgardii, W. viridescens
+Italy
+L. brevis, L. plantarum, L. sanfranciscensis, L. fermentum, Leuc.
+mesenteroides, Pediococcus spp., L. farciminis, L. sakei, Leuc.
+gelidum
+Spain L. brevis, L. plantarum, L. cellobiosus, Leuc. mesenteroides
+Sweden
+L. fermentum, L. delbrueckii, L. acidophilus, L. plantarum, L.
+rhamnosus, L. farciminis, L. sanfranciscensis, L. brevis, W.
+viridescens, Lactobacillus sp., P. pentosaceus
+
+--- page 8 ---
+Ourstudy
+Bacterialquantificationand
+identificationin sourdoughanalysis ComparisonofLAB
+Step Description Results
+Bacterial Quantification
+Sample homogenization,
+serial dilutions, and colony
+counting on MRS Broth
+with Agar Agar.
+-Sourdough: 5 x 10⁷
+CFU/g
+-Baked Bread: 0 CFU/g
+(LAB inactivated during
+baking).
+NGS Sequencing
+Oxford Nanopore
+sequencing to identify
+LAB in sourdough, dough,
+and bread.
+Reads obtained:
+-Sourdough: 13,080
+-Dough: 14,575
+-Bread: 14,774
+Comparison with
+Literature
+LAB species compared
+with pre-1997 literature
+and EFSA QPS review for
+alignment with safe
+strains.
+Identified species
+matched those
+documented in scientific
+literature before 1997.
+Summary
+Thisanalysis
+demonstratesthe
+inactivationofLAB during
+bakingand supportsthe
+historicalsafety of
+microorganismsidentified
+in artisanalsourdough.
+Microorganism < 1997 QPS 2022 Sourdough
+Bacillus paralicheniformis YES YES
+Bacillus subtilis YES YES
+Lactobacillus acidophilus YES
+Lactobacillus alimentarius YES
+Lactobacillus brevis YES YES YES
+Lactobacillus buchneri YES
+Lactobacillus casei YES YES YES
+Lactobacillus cellobiosus YES YES
+Lactobacillus curvatus YES YES YES
+Lactobacillus delbrueckii
+subsp. delbrueckii YES YES YES
+Lactobacillus farciminis YES
+Lactobacillus fermentum YES YES YES
+Lactobacillus fructivorans YES
+Lactobacillus hilgardii YES
+Lactobacillus homo-hiochii YES
+Lactobacillus paracasei YES YES
+Lactobacillus plantarum YES YES YES
+Lactobacillus rhamnosus YES YES YES
+Lactobacillus sakei YES YES YES
+Lactobacillus sanfranciscensis YES
+Leuconostoc gelidum YES
+Leuconostoc mesenteroides
+subsp. dextranicum YES
+Leuconostoc mesenteroides
+subsp. mesenteroides YES
+Pediococcus pentosaceus YES
+Pediococcus spp. YES YES YES
+Weissella viridescens YES
+
+--- page 9 ---
+Conclusions
+Criteria Details
+Definition of Novel Food Food not consumed significantly in the EU before May 15, 1997, including certain microorganisms.
+Sourdough Bread Natural fermentation used for thousands of years, well-documented before 1997.
+LAB Viability During Baking LAB inactivated during baking due to high temperatures; metabolites remain in the bread.
+History of Significant Use LAB historically used in bread fermentation in the EU and listed in the EFSA QPS list.
+Safety LAB have a history of safe use, supported by presence in the QPS list and historical use in foods.
+Consistency in Ingredients and
+Processes Consistent production ensures stable LAB metabolite levels across batches.
+Scientific Research Studies confirm LAB improve bread digestibility and nutritional value.
+EFSA and Regulators' Perspective Evaluations consider safety, production processes, and historical use; LAB meet all criteria.
+Medicinal Use No evidence sourdough is used as medicine; exclusive use in baking for food production.
+Conclusion LAB in sourdough, inactivatedbybaking, are notnovel foodsunderRegulation(EU) 2015/2283.
+
+--- page 10 ---
+Theregulatoryvalidpathwayformarketing
+postbioticsin medical devices
+
+--- page 11 ---
+Medical DeviceRegulation, inactivityand inviability
+Regulation2017/745
+Criteriafordeterminingmicroorganism
+inactivityand inviability
+Regulation(EU) 2017/745 Key Points
+Introduction
+Regulation(EU) 2017/745 addressesmedical devices,
+amendspreviousdirectives (2001/83/EC, 178/2002,
+1223/2009), and repealsDirectives 90/385/EEC and
+93/42/EEC. Itclarifiesthetreatmentofproducts
+containingviable biologicalmaterials.
+Recital (13)
+Products containing viable cells or tissues of human or
+animal origin, or viable biological materials of other
+origins, are excluded from this regulation.
+Article 1
+Point 6 excludes products containing viable biological
+materials, such as living microorganisms, bacteria,
+fungi, or viruses, from the scope of the regulation.
+Article 2 Defines "inviable" as the inability to undergo
+metabolism or multiplication.
+Annex I, Section 13.3
+Products manufactured using non-viable biological
+substances must be processed to ensure safety,
+including the removal of viruses and transmissible
+agents through validated methods.
+Summary
+Theregulationexcludesproductscontainingviable
+biologicalmaterials, defines "inviable," and mandates
+validatedinactivationmethodsforproductswithnon-
+viable biologicalsubstancesduringmanufacturing.
+Key Factors Details
+DefinitionofInactivity/Inviability
+Clearly define "inactive" or "inviable" for
+microorganisms. Demonstrate loss of cellular
+viability, including inability to grow, reproduce, or
+perform vital metabolic functions.
+Inactivation Methods
+Specify and validate the methods used for
+microorganism inactivation, ensuring the total loss of
+cellular viability through effective inactivation
+processes.
+Viability Tests
+Conduct specific viability tests, such as viable cell
+counts, microbial growth analysis, and cell viability
+assays, to confirm the microorganism's inviability.
+Scientific Evidence
+Provide robust scientific evidence, including stability
+studies, microbiological analyses, and process
+validation data, to support claims of microorganism
+inactivity and inviability post-inactivation.
+RegulatoryCompliance
+Addressallfactorstodemonstratethatthe
+inactivatedmicroorganismisinviable and complies
+withregulatorycriteriaforinclusionin medical
+products.
+
+--- page 12 ---
+A case study
+Allegations
+
+Prof Dr Javier Morán
+Full Professor and Director at Food innovation Institute at UCAM-Catholic University of Murcia.
+jmoran@sat.ucam.edu  - www.ucam.edu
+
+Prof Dr Javier Morán
+Full Professor of Food Innovation, Director of the University Institute of Food Innovation at UCAM-Catholic
+University of Murcia. Associate Professor of the National Institute of Public Health of Mexico and Visiting
+Professor at the Universities ISalud of Buenos Aires-Argentina, USIL of Lima-Peru, Ibero of Mexico City
+and IFFE Business School.
+
+"VIABLE BIOLOGICAL MATERIALS OR VIABLE ORGANISMS" IN
+REGULATION (EU) 2017/745
+Regulation (EU) 2017/745 of the European Parliament and of the Council of 5 April 2017 on
+medical devices, amending Directive 2001/83/EC, Regulation (EC) No 178/2002 and Regulation
+(EC) No 1223/2009 and repealing Council Directives 90/385/EEC and 93/42/EEC
+(13) It should be clarified that, just as products containing viable cells or tissues of human or animal origin are
+explicitly excluded from Directives 90/385/EEC and 93/42/EEC and therefore from this Regulation,
+products containing or consisting of viable biological materials or viable organisms from other origins
+in order to achieve or support the intended purposes of those products are also not covered by this Regulation.
+CHAPTER I. SCOPE AND DEFINITIONS
+Article 1. Purpose and scope of application
+6. This Regulation shall not apply:
+(h) products, other than those referred to in points (d), (f) and (g), which contain or are composed of
+viable biological material or viable organisms, including live micro-organisms, bacteria, fungi or
+viruses  in order to achieve or support the intended purposes of the product;
+Artículo 2. Definiciones
+INTERPRETATION OF THE TERM "NON-
+VIABLE" WITHIN THE MEDICAL DEVICE
+REGULATION 2017/745
+
+Paper
+
+Brief Report
+Viable Biological Materials or Organisms in
+Regulation (EU) 2017/745 on Medical Devices
+Javier Morán 1,* and Alina Kilasoniya 2
+1 Department of Food Innovation, Universidad Católica San Antonio de Murcia, 30107 Murcia, Spain
+2 International PhD School, Universidad Católica San Antonio de Murcia, 30107 Murcia, Spain
+* Correspondence: jmoran@sat.ucam.edu
+Abstract: Regulation (EU) 2017/745, addresses medical devices and clarifies the scope regarding products
+containing viable biological materials or organisms. This regulation excludes products containing viable cells
+or tissues of human or animal origin, as well as those containing viable biological materials or organisms of
+other origins intended to achieve or support the intended purpose of the products. The term "inviable" is
+defined as incapable of metabolism or multiplication. The regulation mandates that products manufactured
+using non-viable biological substances must ensure the highest safety standards, including validated methods
+of elimination or inactivation of transmissible agents during manufacturing. Several Directives and Regulations
+provide context for the term "viable" in medical devices, emphasizing the device's ability to perform effectively
+and safely. Notified Bodies in the EU have interpreted that thermally inactivated microorganisms in a product
+do not classify it as a medical device under Regulation 2017/745. To address this, it is crucial to differentiate
+between the inactivation of microorganisms and the viability of their metabolites. Demonstrating the inviability
+of microorganisms through rigorous testing and evidence is essential for regulatory compliance and safe use
+in medical products. Clarifying these points and providing necessary evidence can establish that inactivated
+microorganisms are inviable and meet the requirements for use in medical products.
+Keywords: viable biological materials, Regulation (EU) 2017/745, medical devices, microorganism inviability,
+regulatory compliance
+
+1. Introduction
+Regulation (EU) 2017/745 of the European Parliament and of the Council, dated 5 April 2017,
+addresses medical devices and amends Directives 2001/83/EC, Regulation (EC) No 178/2002, and
+Regulation (EC) No 1223/2009, while also repealing Council Directives 90/385/EEC and 93/42/EEC. A
+crucial aspect of this Regulation is the clarification regarding products containing viable biological
+materials or organisms (Regulation (EU) 2017/745).
+2. Regulation (EU) 2017/745
+Regulation (EU) 2017/745 in its recital (13) states that "it should be clarified that, just as products
+containing viable cells or tissues of human or animal origin are explicitly excluded from Directives
+90/385/EEC and 93/42/EEC and, therefore, from this Regulation, products containing or consisting of
+viable biological materials or viable organisms of other origins intended to achieve or support the
+intended purpose of those products are also not regulated by this Regulation."
+Moreover, in Chapter I, Scope and Definitions, Article 1, Objective and Scope, point 6 specifies that
+"this Regulation shall not apply to: (h) products, other than those referred to in points (d), (f), and (g),
+that contain or consist of viable biological material or viable organisms, including living
+microorganisms, bacteria, fungi, or viruses, intended to achieve or support the intended purpose of the
+product."
+In Article 2, Definitions, it is specified that for the purposes of this Regulation, "16) 'inviable' means
+incapable of metabolism or multiplication."
+Disclaimer/Publisher’s Note: The statements, opinions, and data contained in all publications are solely those of the individual author(s) and
+contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting
+from any ideas, methods, instructions, or products referred to in the content.
+Preprints.org (www.preprints.org)  |  NOT PEER-REVIEWED  |  Posted: 9 July 2024                   doi:10.20944/preprints202407.0761.v1
+©  2024 by the author(s). Distributed under a Creative Commons CC BY license.
+
+--- page 13 ---
+Conclusions
+Summary Details
+Interpretation of "Viable" Certain Notified Bodies interpret the presence of thermally inactivated microorganisms as
+not meeting the classification criteria for medical devices under Regulation 2017/745.
+Definitionof"Inviable"
+"Inviable" refers to the inability of an organism or biological material to perform metabolic
+processes, reproduce, or maintain normal biological function due to damage or adverse
+conditions.
+Differentiation: Microorganisms vs. MetabolitesThermally inactivated microorganisms are inviable, but their metabolites remain functional
+and should not be confused with the microorganism's viability.
+Evidence Requirements
+To demonstrate inviability, it is essential to: <ul><li>Define "inactive" and "inviable"
+clearly.</li><li>Provide evidence through validated inactivation methods.</li><li>Conduct
+viability tests.</li><li>Present scientific data supporting inviability claims.</li></ul>
+Compliance with Regulation 2017/745 Rigorous testing and evidence must confirm the inviability of microorganisms to comply
+with the regulation and ensure safe use in medical products.
+Conclusion
+Clarifyingdefinitionsand providingrequiredevidenceensurescompliance, demonstrating
+thatthermallyinactivatedmicroorganismsmeetregulatoryrequirementsformedical
+productuse.
+
+--- page 14 ---
+Theregulatoryvalidpathwayformarketing
+postbioticsas technologicaladjuvants
+
+--- page 15 ---
+Processing aids: Regulation
+Regulation1333/2008 Classification
+Regulation1333/2008
+Theyare notconsumedas foodin themselves.
+Theyare intentionallyusedin theprocessingofraw
+materials, foodstuffsortheiringredientstofulfila
+certaintechnologicalpurposeduringtreatmentor
+processing.
+Theymaylead totheunintentional, buttechnically
+unavoidable, presencein thefinal productof
+residuesofthesubstanceitselforitsderivatives,
+providedthattheydo notpresentanyrisktohealth
+and do nothaveanytechnologicaleffectonthefinal
+product.
+Limitingregulation
+Theyare consideredGMOs(Directive 2009/41/EC,
+Regulation(EC) 1829/2003 and Directive 2001/18/EC.
+Theyare classifiedas novel foodsaccordingto
+Regulation(EU) 2015/2283.
+Theyare consideredfoodadditivesaccordingto
+Regulation(EC) 1831/2003.
+
+--- page 16 ---
+Business case: Formationofnitrosylmyoglobinbyits
+nitricoxide synthaseactivity
+Results
+NitritewassubstitutedforLactobacillus fermentumto
+produce a curedpinkcolor in a sausage.
+TheUV-Vis spectraofthepigmentextractofsausages
+treatedwithL. fermentumwereidenticaltothoseofthe
+nitrosylmyoglobin(NO-Mb) formedin thenitrite-treated
+control.
+TheNO-Mb concentrationand colorimetricvalueof
+sausagetreatedwith10^8 CFU/g ofL. fermentum
+meatessentiallyreplicatedthoseofnitrite-curedmeat.
+
+--- page 17 ---
+Thefuture isalreadyhere: Microbiomeand cosmetics
+
+--- page 18 ---
+
+
+--- page 19 ---
+Thanks a lot!!
+“CalledtothefreedomofGod’schildren”
+IN LIBERTATEM VOCATI
+José Luis Mendoza Pérez
+1949 -2023
+In memoriam

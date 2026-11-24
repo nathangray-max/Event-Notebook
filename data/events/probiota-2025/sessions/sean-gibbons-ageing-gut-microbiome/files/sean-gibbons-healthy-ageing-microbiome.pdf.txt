@@ -1,0 +1,209 @@
+--- page 1 ---
+healthy aging and the human gut microbiome
+Sean M. Gibbons, PhD
+Associate Professor, Institute for Systems Biology (ISB)
+Affiliate Associate Professor, Dept. of Bioengineering, University of Washington
+Affiliate Associate Professor, Dept. of Genome Sciences, University of Washington
+Data Science Fellow, eScience Institute
+email: sgibbons@isbscience.org lab website: gibbons.isbscience.org
+Probiota, Copenhagen
+Feb 6, 2025
+bluesky: @gibbological.bsky.social
+
+--- page 2 ---
+the gut microbiome and aging: two schools of thought
+Artist: Niv Bavarsky
+aging-associated
+changes in the gut are…
+MANAGING
+THE DECLINE
+HEALTHY
+AGING?
+elderly in assisted living
+community
+-dwelling / centenarians
+
+--- page 3 ---
+the gut microbiome and healthy aging
+T omasz Wilmanski Nathan Price
+Christian Diener
+ Sushmita PatwardhanEric Orwoll
+Wilmanskiet al., 2021, Nature Metabolism
+NoaRappaport
+Artist: Niv Bavarsky
+
+--- page 4 ---
+identifying signatures of healthy aging in the gut:
+the cohorts
+Wilmanskiet al., 2021, Nature Metabolism
+*And we looked at the American Gut cohort as an additional validation set
+
+--- page 5 ---
+uniqueness: a signature of aging in the gut
+Wilmanskiet al., 2021, Nature Metabolism
+Arivale Arivale
+
+--- page 6 ---
+genus-level taxonomic signature of uniqueness across cohorts
+Wilmanskiet al., 2021, Nature Metabolism
+Arivale
+
+--- page 7 ---
+gut uniqueness reflected in community composition and
+in microbe-derived metabolites in the blood
+Wilmanskiet al., 2021, Nature Metabolism
+
+--- page 8 ---
+uniqueness pattern is associated with reduction in core
+taxa and with health state in older individuals
+MrOScohort
+Wilmanskiet al., 2021, Nature Metabolism
+healthy
+less healthy
+
+--- page 9 ---
+Bacteroidesabundance & uniqueness: both predict
+survival over 4-year follow-up of MrOSsubjects
+Cox Proportional Hazards Regression modelsKaplan Meier Curve
+Wilmanskiet al., 2021, Nature Metabolism
+
+--- page 10 ---
+preliminary follow-up: top metagenomic signatures of uniqueness
+C5A peptidase
+(complement inactivation)
+Spearman Rho
+= 0.51,
+P=1.04e-34
+alpha-L-fucosidase2
+(host glycan degradation)
+Bary-Curtis Uniqueness
+Spearman Rho
+= -0.42,
+P=3.65e-23
+aging gut
+K18206: beta-L-arabinobiosidase
+K13007: Fuc2NAc and GlcNActransferase
+K15923: AXY8, FUC95A, afcA; alpha-L-fucosidase2
+K08652: C5AP , C5A peptidase (complement inactivation)
+K12341: adhesin, YadA(also involved in complement
+inactivation)
+(?)
+(?)
+
+--- page 11 ---
+variable responses to drugs
+designed to minimize disease
+risk in older patients --statins
+Artist: Allison Kudla
+
+--- page 12 ---
+heterogeneous responses to statinsexplained by variation in the
+gut microbiome
+T omasz Wilmanski
+ NoaRappaport
+Andrew Magis
+ Ridikeret al., Eur Heart J, 2016
+Leroy Hood
+Dr. Christian Diener
+
+--- page 13 ---
+statin usage tracked in a subset of the Arivalecohort
+Arivalecohort (baseline time point)
+Wilmanskiet al., Med, 2022
+
+--- page 14 ---
+*models adjusted for sex, age, and BMI
+an instantaneous blood-derived measure of statin efficacy: HMG
+Wilmanskiet al., Med, 2022
+
+--- page 15 ---
+plasma HMG levels associate with statin dosage, LDL levels, and
+genomic variants previously associated with statin efficacy
+*models adjusted for sex, age, BMI, and clinical lab vendor (Quest/LCA) Wilmanskiet al., Med, 2022
+
+--- page 16 ---
+gut microbiome diversityis inversely associated with statin
+efficacy
+HMG~β(microbiome vendor)+β(sex)+β(age)+β(BMI)+β(alpha_diversity*statin_use)
+adjust models for therapy intensity/dose
+Wilmanskiet al., Med, 2022
+
+--- page 17 ---
+course-graining microbiomes intoenterotype clusters reveals
+interesting statin response patterns
+Arivaleenterotypes
+Wilmanskiet al., Med, 2022
+
+--- page 18 ---
+ecological composition of the gut explains heterogeneity in
+on-and off-target statin responses
+covariates: age, BMI, sex, vendor, and LDL and HMG (for HOMA-IR only) Wilmanskiet al., Med, 2022
+on-target metabolic side-effects
+
+--- page 19 ---
+resultsreplicatein an independent European
+cohort, suggesting translational potential
+Wilmanskiet al., Med, 2022
+covariates: sex, age, BMI, bacterial biomass
+MetaCardiscohort
+
+--- page 20 ---
+Wilmanskiet al., Med, 2022
+• maintaining high Bacteroidesdominance and
+lower levels of butyrate-producing clostridia
+& Akkermansiamuciniphilais associated
+with poorer metabolic health in statin users
+• probiotics, like A. muciniphila, and butyrate-
+producing species, like Faecalibacterium
+prausnitzii, could help mitigate metabolic
+side-effects of statins & improve overall
+metabolic health as we age
+implications for healthy aging?
+
+--- page 21 ---
+TLDR: Some aging-associated
+processes in the body may be
+protective (e.g., decline in
+Bacteroides).
+Maybe we shouldn’t give FMTs
+from younger to older individuals?
+Future work should focus on
+improved markers of healthy aging
+(e.g., frailty metrics) and functional
+outputs from the microbiota.
+Targeted interventions, based on
+mechanistic knowledge, are
+probably better (e.g., probiotics,
+prebiotics, postbiotics, drugs, and
+diet).
+Wilmanskiet al., 2022, Nature Aging
+
+--- page 22 ---
+collaborators
+Nathan Price
+Lee Hood
+Eric Orwoll
+Andrew Magis
+Alice Kane
+Tomasz Wilmanski
+Noa Rappaport
+Gibbons Lab
+Christian Diener
+Sushmita Patwardhan
+Alex Carr
+Nick Quinn-Bohmann
+Alyssa Easton
+Crystal Perez
+GechlangTang
+Jacob Cavon
+Thea Swanson
+bluesky: @gibbological.bsky.social email: sgibbons@isbscience.org website: gibbons.isbscience.org
+acknowledgements
+
+--- page 23 ---
+identifying causal associations between microbes and
+healthy aging in mice –NMN supplementation experiment
+NMN supplementation in mice; unpublished data
+Dr. Alice Kane
+Dr. Christian Diener
+Anaerotruncuscolihominis

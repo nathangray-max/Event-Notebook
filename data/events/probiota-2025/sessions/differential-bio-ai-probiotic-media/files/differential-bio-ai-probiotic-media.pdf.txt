@@ -1,0 +1,461 @@
+--- page 1 ---
+Aligning HTS Data and AI
+for Biotech R&D: Data, Model
+and Probiotic Media
+Optimisation
+Probiota 2025
+5 -7 February 2025
+Copenhagen
+
+--- page 2 ---
+© Differential Bio ‹nr.›
+Presenters
+Xiangdong Zhao
+dong@differential.bio
+Martin Patz
+martin@differential.bio
+Microbiology Data & AI
+
+--- page 3 ---
+© Differential Bio ‹nr.›
+Agenda
+1.Aligning AI modeling with data–Defining modeling strategy with existing
+data and future data acquisition.
+2.Collecting data via HTS fermentation-Downscaling fermentation in
+microtiter plates (MTPs) for effective data collection.
+3.Improving probiotic fermentation case-study: Probioticmedia
+reformulation via HTS data and modeling
+
+--- page 4 ---
+© Differential Bio ‹nr.›
+Where Data & AI delivered great improvements already
+Predicting optimal growth conditions for
+probiotic microorganisms (e.g. temperature
+control, pH regulation, nutrient composition
+optimization).
+Streamlining fermentation process
+[1] Galante, N., Palavecino Prpich, N., Campos, C., Cayré, M. E., & Castro, M. (2023). Alternative culture medium design for biomass production of autochthonous meat starter Latilactobacillus sakei sp. sakei ACU-2. Scientific Reports, 13(1), 5205.
+[2] Hashizume, T., & Ying, B. W. (2024). Challenges in developing cell culture media using machine learning. Biotechnology Advances, 70, 108293.
+Cost reductionthrough medium
+optimization of starter culture
+Latilactobacillus sakei sp. sakei[1]
+62%
+Analyzing genomic data, environmental
+factors, and health records, predicting
+microbiome interactions, optimizing
+formulations, and enabling scalable
+customization through continuous learning
+and virtual screening.
+Personalized probiotic formulations
+5.3xHigheryield of human interferon
+expression in pichia pastorisstrain
+with machine learning [2]
+to replace animal-derived media
+components and optimize growth
+performance of Lactobacillus rhamnosus
+Gorbach-Goldin with 10 media components.
+Probiotic media reformulation
+4xhigher Biomass (CFU) and 16%
+reducedcost of goods (COGS)
+compared to the baseline MRS media
+
+--- page 5 ---
+© Differential Bio ‹nr.›
+Data and AI have huge potential to
+solve complex problems in
+probiotics development
+Key takeaway 1:
+
+--- page 6 ---
+© Differential Bio ‹nr.›
+“What about them Large Language Models that everyone is talking about?”
+AI & data
+Source: Epoch AI, ‘Data on Notable AI Models’. Published online at epoch.ai. Retrieved from
+‘https://epoch.ai/data/notable-ai-models’ [online resource]. Accessed 15 Jan 2025.
+(2017): LLM
+Attention is all
+you need
+(2023)
+GPT-4
+(2019)
+GPT-2
+(1989) NN: Digit
+recognition
+Decision
+tree (2001)
+(2019) Img.
+ResNet
+AlphaFold 2
+(2020)
+SVM, Lin./Log. regression
+like ChatGPT
+by OpenAI
+
+--- page 7 ---
+© Differential Bio ‹nr.›
+Expanding predictive capability requires model & data to go in lock-step
+AI & data
+higher accuracy and
+more generalization …
+… requires more data
+and more variancev1
+v2
+
+--- page 8 ---
+© Differential Bio ‹nr.›
+today
+Status quo is small datasets (<10k), not suitable for complex use-cases
+AI & data
+●microbiome impact
+●health benefits
+●single-step scale-up
+●process control
+simple use-cases
+complex use-cases
+
+--- page 9 ---
+© Differential Bio ‹nr.›
+Misaligned data & AI wastes resources or limits performance
+AI & data
+model can’t be trained or
+problem too difficult
+e.g. LLM / DNN
+model’s capacity is reached and
+can’t benefit from more data
+e.g. SVM / NN / Decision Trees
+
+--- page 10 ---
+© Differential Bio ‹nr.›
+Aligning dataset and modeling
+approach for your goal
+Key takeaway 2:
+as you develop & execute your data strategy
+
+--- page 11 ---
+© Differential Bio ‹nr.›
+relevance for production & price / run
+industrial
+ benchtop
+ MTP
+🤝
+high relevance yet costly
+pilot
+ microfluidics
+Grow translatable datasets at a reasonable cost & time spend
+AI & data
+Build a cell
+response modelTranslate response via 3D-modeling Grow dataset via HTS automation
+
+--- page 12 ---
+© Differential Bio ‹nr.›
+Make MTP fermentation more
+relevant to probiotics?
+How to:
+
+--- page 13 ---
+© Differential Bio ‹nr.›
+Key factors to improve result transferability of MTP fermentation
+Downscale to MTP
+Scale down effect
+Downscaling to MTP has minimal influence at the single-
+cell level. The primary impacts arise from the high surface-
+to-volume ratio.
+Anaerobic environment
+MTP provides a natural environment for self-initiated semi-
+anaerobic fermentations. Factors such as shaking and
+covering significantly impact fermentation attributes.
+Data quality control
+Individual wells are not equally positioned relative to one
+another on the MTP. General setups and configurations
+can be optimized to improve data quality
+
+--- page 14 ---
+© Differential Bio ‹nr.›
+Scaleminiaturization: little impact on the individual cell physiology
+Downscale to MTP
+Observations
+● MTP fermentation resulted in a higher
+intracellular pH, signaling better cell vitality
+compared to that in a shaking flask.
+● Intracellular pH were similar in MTPs at
+different scale and shaking conditions.
+Findings
+● An MTP well provides sufficient volume space for
+single-cell microorganisms such as bacteria and
+yeast.
+● Downscaling fermentation to the MTP has minimal
+physiological impact at the individual cell level.
+
+--- page 15 ---
+© Differential Bio ‹nr.›
+Scaleminiaturization: higher static OTR led to early cell proliferation
+Downscale to MTP
+Observations
+● Smaller scale has significantly earlier and faster
+fermentation
+● Qualitative behavior is similar between MTP
+and shaking flask
+Findings
+● High surface to volume ratio caused higher air-
+liquid exchange surface, hence higher static
+OTR at early stage
+● High static OTR drives earlier and higher growth
+[1] Hegab, H. M., ElMekawy, A., & Stakenborg, T. (2013). Review of microfluidic microbioreactor technology for high-throughput submerged microbiological cultivation. Biomicrofluidics, 7(2).
+
+--- page 16 ---
+© Differential Bio ‹nr.›
+Scaleminiaturization: shaking efficiency increased with cell numbers
+Downscale to MTP
+Observations
+Shaking has minimal impact during the early stages of
+cell growth but results in higher cell numbers during
+the later stages of fermentation.
+Findings
+Surface tension decreases with accumulated cells,
+resulting in improved shaking efficiency, which
+ultimately leads to higher cell numbers by the end of
+fermentation.
+[1] Duetz WA (2007) Microtiter plates as mini-bioreactors: miniaturization of fermentation methods. Trends Microbiol 15:469–475
+
+--- page 17 ---
+© Differential Bio ‹nr.›
+Create anaerobicity: impact of headspace air and MTP incubation
+Downscale to MTP
+Observations
+Saturating the polystyrene MTP material with nitrogen
+significantly reduces and slows cell growth. Similarly,
+replacing headspace air with nitrogen also slows cell
+growth.
+Findings
+Fermentative growth is impacted by air in the MTP
+material and headspace. However, anaerobicity can
+be achieved by preventing air permeability through
+'placing in anaerobic’ or applying oxidizers in the
+microenvironment.
+
+--- page 18 ---
+© Differential Bio ‹nr.›
+Data quality: MTP “edge effect” and cover affect results reproducibility
+Downscale to MTP
+Observations
+● Peripheral wells in MTP are more prone to evaporation,
+temperature drift, and air diffusion, which can mislead
+cellular assays.
+● However, sealing the MTP with an airtight seal resulted
+in less than 5% CV for both OD600 and pH
+measurements.
+Findings
+● Individual wells are not equal conditions, which needs
+special configurations for sensitive cellular assays
+● Each MTP well in a plate is qualified as a independent
+fermentation vessel after careful configuration of cover
+and relative humidity.
+[1] Mansoury, M., Hamed, M., Karmustaji, R., Al Hannan, F., & Safrany, S. T. (2021). The edge effect: A global problem. The t rouble with culturing cells in 96-well plates. Biochemistry and biophysics reports, 26, 100987.
+[2] Sieben, M., Giese, H., Grosch, J. H., Kauffmann, K., & Büchs, J. (2016). Permeability of currently available microtiter p late sealing tapes fail to fulfil the requirements for aerobic microbial cultivation. Biotechnology journal, 11(12), 1525 -1538.
+‘Edge effects’ impacted cellular assay readouts[1] MTP cover impacted temperature and liquid loss[2]
+ MTP cover impacted shaking OTR[2]
+
+--- page 19 ---
+© Differential Bio ‹nr.›
+Simple approach to make MTP a HTS fermentation platform
+Methodology
+Microorganism
+Aerobic
+Data quality
+Anaerobic
+Fermentation setup
+●Well shape
+●Filling volume
+●Shaking
+●Breathable cover
+●Strict or facultative
+●Incubation
+environment
+●Air-tight seal
+●MTP configuration
+●Operational
+Standardization
+●Fermentation
+controls
+●Assay calibrations
+
+--- page 20 ---
+© Differential Bio ‹nr.›
+Customize your MTP screening
+to unlock it as a HTS
+fermentation platform!
+Key takeaway 3:
+
+--- page 21 ---
+© Differential Bio ‹nr.›
+today
+What is our path to holistic modeling?
+Case-study
+●microbiome impact
+●health benefits
+●single-step scale-up
+●process control
+simple use-cases
+complex use-cases
+?
+case-study:
+MTP-based
+fermentation modeling
+for probiotic media
+reformulation
+
+--- page 22 ---
+© Differential Bio ‹nr.›
+MTP-based fermentation modeling for probiotic media reformulation
+Case-study
+With liquid handling robot
+• Glucose
+• Peptone (Soy)
+• Yeast extract
+• Sodium acetate
+• Dipotassium phosphate
+• Ammonium citrate
+• Magnesium sulfate
+• Manganese sulfate
+• Tween 80
+• Meat extract
+3,000 media
+formulation
+Train nutrition
+model
+Predict/Test
+media growth
+In anaerobic tube fermentation
+• Manual prepare 44 unique
+media compositions
+• Run 15 mL tube fermentation
+in anaerobic jar;
+• Harvest cell on PBS buffer
+• Count CFUs of the harvested
+cell
+Validate biomass
+prediction
+Lactobacillus rhamnosusGorbach-Goldin
+Run MTP
+fermentation
+By reading OD600
+• 0.5 million CFU/mL
+cryo-inoculation
+• 37 °C static incubation
+• air-tight seal of MTP
+• Read OD every half
+hour for 24 hours
+Artificial Neural Network
+• Data cleaning
+• Growth fitting
+• Model training:
+Predictors: MRS
+component
+concentration;
+Response: maximum
+OD of the growth model
+With the model
+• Run growth simulation
+• Predict formula
+performance
+• Select interesting
+formula: 44 unique
+media compositions
+• Test prediction on the
+MTP fermentation
+
+--- page 23 ---
+© Differential Bio ‹nr.›
+Example reformulations found through in-silico modeling
+Case-study
+Origin:
+plant vs. animal
+Cost:
+low vs. high
+
+--- page 24 ---
+© Differential Bio ‹nr.›
+Generate new media formula via the nutrition model: low cost, plant-based
+🥬
+Case-study
+Findings
+The trained model can reliably predict unseen
+media formulas of interest!
+-16.3%
+
+--- page 25 ---
+© Differential Bio ‹nr.›
+Validate the new media formula by CFU counting in new fermentation setup
+Case-study
+Findings
+In-silico model is able to predict medium formula
+that at price parity yet quadruples (4x) the CFU
+count at a higher scale.
+4x
+
+--- page 26 ---
+© Differential Bio ‹nr.›
+4x
+KPI improvements after optimization
+for the media reformulation challenge on Lactobacillus
+rhamnosus Gorbach-Goldinto replace animal-based media
+components
+-16%higher CFU
+(biomass) count
+reduced media cost,
+while only reusing
+existing components
+HTS & AI-based modeling is showing promise to improve essential metrics
+
+--- page 27 ---
+© Differential Bio ‹nr.›
+R&D scale-up journey
+HTS & model-driven
+scales through automation
+HTS & AI-based modeling is faster today and more reusable tomorrow
+Case-study
+institutionalknowledge & intelligence
+- well-structured, large-scale data
+- continue training model (growing capability)
+- reusability (digital asset)
+expertknowledge & intuition
+2 weekscheap
+Manual & iterative
+1x
+4x
+ 8-12
+weeks
+ costly
+
+--- page 28 ---
+© Differential Bio ‹nr.›
+Data and AI have huge potential to solve complex problems in probiotics
+development.
+Summary of key takeaways:
+Use the right data and modeling approach for your goal.
+Customize your MTP screening to unlock it as a HTS fermentation platform!
+Xiangdong Zhao
+dong@differential.bio
+Martin Patz
+martin@differential.bio
+
+--- page 29 ---
+© Differential Bio ‹nr.›
+Backup / Archive
+
+--- page 30 ---
+© Differential Bio ‹nr.›
+Results transferability for strain screening applications
+MTP transferability
+Observations
+Strain performance followed the qualitative trends for
+alcohol and glycerol
+Findings
+MTP strain screening results is qualitativelytransferable
+from MTP to 2L scale benchtop fermentor
+
+--- page 31 ---
+© Differential Bio ‹nr.›
+Typical MRS media compositions
+Media
+Hayek, S. A., Gyawali, R., Aljaloud, S. O., Krastanov, A., & Ibrahim, S. A. (2019). Cultivation media for lactic acid bacteria used in dairy products. Journal of Dairy Research, 86(4), 490-502.
