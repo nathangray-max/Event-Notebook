@@ -30,15 +30,15 @@ Next come recipe content and a podcast with Channel Four.
 - The first viral video came after "maybe 1015 posts" (10 to 15) on TikTok, with about 250,000 views; they were early to TikTok as social media moved from pictures to video [04:41].
 - They said social media is now the number one source of news globally, bigger than TV, and the only channel that lets a brand grow without millions to spend on TV [08:11].
 - Risks: a competitor (Otter heard "fuel") paid influencers for take-down posts of the brand; audiences call out formulations and untrue claims [08:11].
-- Regulation: other supplement websites link products to autism and ADHD without data; they never make medical claims but will "push the ASA" where science is ahead of the rules, and asked "Who is the ASA?" He called UK health "a mess" [10:53].
+- Regulation: other supplement websites link products to autism and ADHD without data; they never make medical claims but will "push the ASA" where science is ahead of the rules, and asked "Who is the ASA?" They called UK health "a mess" [10:53].
 - The mushroom figure refers to an earlier talk that morning (nordic-mushrooms-functional-mushrooms) [13:06].
-- He argued that factory farming and ultra-processed food reduce the nutrition people get, so more supplements will be needed [14:07].
+- They argued that factory farming and ultra-processed food reduce the nutrition people get, so more supplements will be needed [14:07].
 - Next: recipe content showing how easy it is to eat whole foods, and a podcast launching "next week, Friday" with Channel Four, with celebrity guests; an earlier podcast failed for lack of distribution [14:07] [17:13].
-- On criticism: he does not argue in comment sections; debate belongs on the podcast. He commended a protein brand for moving to stevia while disagreeing with it, and used baked versus fried crisps to show health is a step-by-step journey [18:28] [19:55].
+- On criticism: they do not argue in comment sections; debate belongs on the podcast. They commended a protein brand for moving to stevia while disagreeing with it, and used baked versus fried crisps to show health is a step-by-step journey [18:28] [19:55].
 - Early posts about the brand itself did not work; supermarket content about bread, wine and yoghurt reached the mass market [21:47].
 - An in-house nutritionist answers every direct message, hundreds a day [22:56].
 - Related sessions: millbank-nutrition-by-algorithm (nutrition misinformation on social media), bucchini-essna-regulatory-update (claims regulation), veenstra-hmt-branding (branding), editors-recap.
 
 ## Follow-ups
 - Confirm the founder's full name and the company name.
-- Find his UK data source on how supplements are bought (heard as "Intel").
+- Find their UK data source on how supplements are bought (heard as "Intel").
