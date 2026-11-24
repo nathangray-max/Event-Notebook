@@ -15,7 +15,7 @@ ingredients:
 - {id: omega-3, name: Omega-3, match: ['omega', 'krill', 'cod liver', 'fish oil']}
 - {id: rhodiola, name: Rhodiola rosea, match: ['rhodiola', 'rhosera']}
 - {id: magnesium, name: Magnesium, match: ['magnesium', 'threonate']}
-- {id: nad, name: NAD+ precursors (NMN, NR), match: ['\bnad', 'nmn', 'nicotinamide', 'niagen']}
+- {id: nad, name: "NAD+ precursors (NMN, NR)", match: ['\bnad', 'nmn', 'nicotinamide', 'niagen']}
 - {id: urolithin, name: Urolithin A, match: ['urolithin']}
 - {id: spermidine, name: Spermidine, match: ['spermidine']}
 - {id: coq10, name: CoQ10 and ubiquinol, match: ['coq10', 'coenzyme q10', 'ubiquinol', 'novasol q\b']}
@@ -41,7 +41,7 @@ categories:
 - {id: sports, name: Sports performance}
 - {id: womens-health, name: Women's health}
 - {id: gut-health, name: Gut health}
-- {id: brain-sleep, name: Brain, mood and sleep}
+- {id: brain-sleep, name: "Brain, mood and sleep"}
 - {id: beauty, name: Beauty from within}
 
 tags:

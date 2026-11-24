@@ -217,6 +217,9 @@ def facet_problems(facets: Dict[str, Any]) -> List[str]:
                 out.append(f"{where}: needs an id (lower-case words joined by hyphens) and a name")
             if f.get("id") in seen:
                 out.append(f"{where}: id '{f.get('id')}' listed twice")
+            extra = set(f) - {"id", "name", "match"}
+            if extra:
+                out.append(f"{where}: unexpected keys {sorted(extra)} (quote a name that holds a comma)")
             seen.add(f.get("id"))
             for m in f.get("match") or []:
                 try:
