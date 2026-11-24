@@ -21,3 +21,4 @@ Capabilities: none (the Ask the library assistant was removed on Nathan's word, 
 | 2 | 2026-11-24 | bd079ed | Field guide edition (Nathan's choice from five concepts): hub front page filtered by nine plain themes; talk page with the deck pinned beside the reading, deck progress, key learnings that open their slide, Now explore after the last slide. |
 | 3 | 2026-11-24 | ba96df1 | Browsing by three kinds of tag (Nathan): market categories, ingredients (29 groups, top 10 in the menu), insight type; replaces the nine plain themes. |
 | 4 | 2026-11-24 | 0f96bad | Ask the library: an assistant (sample capability) answering from the talks' notes, citing talks and slides. |
+| 5 | 2026-11-24 | 68ac7da | Final build: the Ask the library assistant removed and its capability cleared (Nathan); data from a clean commit. |
