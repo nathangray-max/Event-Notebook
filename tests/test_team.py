@@ -66,3 +66,11 @@ def test_person_ids():
     assert team.person_id({"name": "Nicholas Morgan"}) == team.person_id({"name": "Nick Morgan"}) == "nick-morgan"
     assert team.person_id({"name": "Miguel", "organisation": "Nuritas"}) != team.person_id({"name": "Miguel (surname unconfirmed)", "organisation": "SPI Pharma"})
     assert team.person_id({"name": "Kane", "organisation": "consumer panellist"}) == ""
+
+
+def test_leak_check_ignores_image_data_but_catches_words():
+    from confnotes.team import _leaks
+    img = '"thumb": "data:image/webp;base64,QWxhbmFAIDPw3C9L/0SOVdmf+Y4="'
+    assert _leaks(["AIDP"], img) == []
+    assert _leaks(["AIDP"], img + ' "summary": "Talks with AIDP went well"') == ["AIDP"]
+    assert _leaks(["AIDP"], '"summary": "paid partnerships"') == []

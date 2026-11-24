@@ -68,6 +68,13 @@ def _forbidden_terms(st: Dict[str, Any], data: Dict[str, Any], root: Path) -> Li
     return terms
 
 
+def _leaks(terms: List[str], text: str) -> List[str]:
+    """The forbidden terms that appear in the build's words. Embedded images (data: URIs) are skipped, since their base64
+    can spell any short name by chance; a term counts only as a whole word."""
+    words = re.sub(r"data:[a-z]+/[a-z0-9.+-]+;base64,[A-Za-z0-9+/=]+", "", text)
+    return [t for t in terms if re.search(r"(?<![A-Za-z0-9])" + re.escape(t) + r"(?![A-Za-z0-9])", words, re.I)]
+
+
 def _lesson(e: Dict[str, Any], s: Dict[str, Any], slides: int) -> Dict[str, Any]:
     sm = s.get("summary") or {}
     return {
@@ -195,7 +202,7 @@ def write(out: Path = OUT, root: str | Path = DATA, stamp: Dict[str, Any] | None
     tmp.unlink(missing_ok=True)
     lib = library(data, root, out, render)
     text = json.dumps(lib, indent=1, ensure_ascii=False)
-    leaks = [t for t in _forbidden_terms(store.load(root), data, root) if re.search(re.escape(t), text, re.I)]
+    leaks = _leaks(_forbidden_terms(store.load(root), data, root), text)
     if leaks:
         raise TeamLeak("the team build names confidential items, nothing written: " + ", ".join(sorted(set(leaks))))
     # slide packs of lessons that are no longer public are removed
