@@ -1,7 +1,7 @@
 {
  "schema": "confnotes.sessions/1",
  "built": "2026-11-24",
- "commit": "23a10d5",
+ "commit": "bea0428",
  "count": 51,
  "items": [
   {
@@ -8059,9 +8059,9 @@
    "track": "",
    "speakers": [
     {
-     "name": "Not named on the slides",
+     "name": "Matts Johansen",
      "organisation": "Aker BioMarine (Superba Krill)",
-     "role": ""
+     "role": "CEO"
     }
    ],
    "themes": [
@@ -8092,7 +8092,7 @@
    "reviewed_date": "",
    "attended_by": [],
    "links": {},
-   "to_check": "The speaker (the deck names none; its file name carries the initials MJ; my reading, probably Matt, called \"Max\", who spoke on the fish oil shortage and \"my presentation earlier\" in the closing panel), the date and time, and whether Nathan saw the talk; slides only, no recording.",
+   "to_check": "The date and time, and whether Nathan saw the talk; slides only, no recording. Speaker confirmed by Nathan, 24 Nov 2026 (the deck names none; its file name carries his initials, MJ).",
    "added": "2026-11-23",
    "added_by": "Claude (from Nathan's upload, 23 Nov 2026)",
    "has_transcript": false,
@@ -8100,11 +8100,11 @@
    "has_notes": false,
    "has_summary": true,
    "summary": {
-    "Summary": "Aker BioMarine pitched its Superba Krill oil to Remedy's contract manufacturers as an ingredient for healthy ageing. Its frame is \"Peakspan\": not how long we live, or how long we avoid disease, but how long we stay close to our personal best. Consumers put it in plainer words: maintaining mobility, keeping physically active and keeping an active mind.\n\nThe deck opens on the market. Europe's longevity supplement market is put at $0.50 billion in 2025, rising to $1.23 billion by 2035. It then names seven areas that come under pressure with age, from muscle and joints to heart and skin, and gives trial evidence for krill oil in five of them.\n\nThe muscle evidence leads: in 102 adults over 65 taking 4 g a day for six months, strength rose against placebo. A weight-loss trial showed more of the weight lost coming from fat and less from muscle. Knee pain, triglycerides and skin follow.\n\nIt closes with three product concepts built on two of its ingredients, labelled as positioning directions, not approved claims, and a projection that fish oil supply falls short of demand from 2027.",
+    "Summary": "Matts Johansen, chief executive of Aker BioMarine, pitched its Superba Krill oil to Remedy's contract manufacturers as an ingredient for healthy ageing. Its frame is \"Peakspan\": not how long we live, or how long we avoid disease, but how long we stay close to our personal best. Consumers put it in plainer words: maintaining mobility, keeping physically active and keeping an active mind.\n\nThe deck opens on the market. Europe's longevity supplement market is put at $0.50 billion in 2025, rising to $1.23 billion by 2035. It then names seven areas that come under pressure with age, from muscle and joints to heart and skin, and gives trial evidence for krill oil in five of them.\n\nThe muscle evidence leads: in 102 adults over 65 taking 4 g a day for six months, strength rose against placebo. A weight-loss trial showed more of the weight lost coming from fat and less from muscle. Knee pain, triglycerides and skin follow.\n\nIt closes with three product concepts built on two of its ingredients, labelled as positioning directions, not approved claims, and a projection that fish oil supply falls short of demand from 2027.",
     "Key takeaways": "- The frame: lifespan is how long we live, healthspan how long we avoid disease, \"Peakspan\" how long we stay close to our personal best; consumers rank mobility, staying active and an active mind as the top three aspects of healthy ageing (Innova survey, 11 countries) (slide 4).\n- Muscle: in a six-month randomised, double-blind trial of 102 adults aged 65+ on 4 g a day (University of Glasgow), knee extension strength rose 9%, grip strength 11% and muscle thickness 3.5% against placebo (slide 7).\n- Weight loss: in a 12-week trial (52 randomised, 41 completed, BMI over 25, alternate-day fasting), both groups lost about 4.5 kg, but 96% of the weight lost was fat on krill oil against 73% on placebo; fat-free mass fell 0.2 kg against 1.2 kg (slide 9).\n- Joints: knee pain fell 18% against 13% on placebo (p=0.04) in 235 adults aged 40 to 65 with mild-to-moderate knee osteoarthritis; the deck cites a TGA assessed-listed knee claim in Australia (slide 8).\n- Supply: Aker's own projection has fish oil demand overtaking supply from about 2027, with a gap of 0.16 million tonnes by 2031 and aquaculture taking most of the demand (slide 13).\n- The three concepts (Peak, Renew, Strength) run on two products, Superba2 and Superba Boost, and are \"positioning directions, not approved on-pack claims\" (slide 12).",
     "For Vita Actives": "- Relevance medium: krill oil is outside our range, but it is pitched on strength in over-65s and on keeping muscle during weight loss, the same healthy-ageing muscle brief as CreaWin and IsoClr: Pea (slide 7) (slide 9).\n- My reading: a stacking partner rather than a rival; its \"Strength\" concept (muscle and mobility) could sit beside creatine or protein in one routine (slide 12).\n- My reading: the only EU-authorised claim the deck cites is for EPA and DHA and the heart (slide 10); the rest rests on trials, the same position our ingredients are in when pitched for healthy ageing.\n- The fish oil projection matches the panel's warning that aquaculture is buying up supply and shelves will feel it by next summer (panel-evidence-regulation-ai). My reading: supply continuity is a selling point buyers are listening for now.",
     "Quotes": "- \"How long we stay close to our personal best.\" (slide 4)\n- \"Maintaining strength matters only if people can keep moving\" (slide 8)\n- \"Concepts are positioning directions, not approved on-pack claims.\" (slide 12)",
-    "Follow-ups": "- Confirm the speaker, the date and whether Nathan attended (the panel's Matt, \"Max\", is the likely speaker).\n- Ask Aker BioMarine whether krill oil has been tested with creatine or protein, and for the papers behind slides 7 to 9.\n- Ask for the source and update of the fish oil projection, and Aker's view of krill supply against it.",
+    "Follow-ups": "- Confirm the date and whether Nathan attended. Matts Johansen also sat on the closing panel (panel-evidence-regulation-ai), where he warned of the fish oil shortage.\n- Ask Aker BioMarine whether krill oil has been tested with creatine or protein, and for the papers behind slides 7 to 9.\n- Ask for the source and update of the fish oil projection, and Aker's view of krill supply against it.",
     "Key slides": "",
     "Detail": "- Market (Future Market Insights 2025): EU longevity supplements $0.50 billion in 2025 to $1.23 billion in 2035, 9.4% a year, 146% in total; largest markets Germany, France, the UK and the Netherlands. The slide warns this definition is narrower than NBJ's US \"Healthy Aging\" category (slide 3).\n- Other figures on the market slide: 60% of consumers in the UK, Germany, the US and China rate healthy ageing a top or very important priority (McKinsey 2025, n over 9,000); 22% of the world aged 60 or over by 2050 (WHO); \"cellular health\" claims up 135% across 32 countries in the first half of 2024 (Euromonitor) (slide 3).\n- The seven areas: cellular health, muscle, joints, heart, metabolism, skin, and brain and eyes. Muscle: 3 to 5% of muscle mass is lost every decade from the 40s, and strength declines faster than mass; osteoarthritis and chronic pain are the main reasons adults over 55 stop being active (slide 5).\n- Muscle trial: Alkhedhairi et al., Clinical Nutrition 2022. The grip gain is described as comparable to the difference across a 10-year age gap (65 against 55) (slide 7).\n- Joints: Stonehouse et al., American Journal of Clinical Nutrition 2022; in the high-CRP subgroup knee pain fell 27% against 7% (p<0.001). A 12-week pilot in 40 adults over 60 with hip, knee or lower-back pain (Superba Boost, 4 g a day) showed improvement in 67% against 40%; the slide calls it a feasibility study, not powered for efficacy (Tamargo et al., 2026) (slide 8).\n- Weight loss: Alblaji et al., Obesity 2025. Grip strength fell 0.2 kg against 0.9 kg, chair-rise performance improved against no change, and the omega-3 index rose from 5.5% to 8.2% against 5.5% to 5.3%; blood pressure, TNF-alpha and CRP also improved against placebo (slide 9).\n- Heart: in 520 adults with severe hypertriglyceridaemia at 164 centres, 4 g a day for 26 weeks lowered triglycerides 33.5% against 20.8% on placebo, and 37.4% against 16.1% in those already on statins, without raising LDL (Mozaffarian et al., JAMA Network Open 2022); two meta-analyses cited (slide 10).\n- Skin: Superba Boost at 1 g and 2 g improved hydration, barrier function and elasticity against placebo, dose-dependently (Handeland and Wakeman, Journal of Cosmetic Dermatology 2024) (slide 11).\n- Fish oil model assumptions: aquaculture demand and supplement demand each growing 3% a year, pet food 4%, and a 5% shortfall in each El Niño dip (2023, 2026, 2029). The slide is marked \"Confidential\" by Aker (slide 13).\n- Slide 2 is blank in the PDF, probably a video in the original.",
     "Research": ""
@@ -8168,7 +8168,7 @@
     }
    ],
    "followups": [
-    "Confirm the speaker, the date and whether Nathan attended (the panel's Matt, \"Max\", is the likely speaker).",
+    "Confirm the date and whether Nathan attended. Matts Johansen also sat on the closing panel (panel-evidence-regulation-ai), where he warned of the fish oil shortage.",
     "Ask Aker BioMarine whether krill oil has been tested with creatine or protein, and for the papers behind slides 7 to 9.",
     "Ask for the source and update of the fish oil projection, and Aker's view of krill supply against it."
    ],
@@ -11399,14 +11399,14 @@
      "role": "Leads the product formulation team (own-label); retail and consumer perspective"
     },
     {
-     "name": "Martina (very likely Martina Pavlová)",
-     "organisation": "FAVEA a.s. (my reading, from her own talk, favea-ai-mental-shift)",
+     "name": "Martina Pavlová",
+     "organisation": "FAVEA a.s.",
      "role": "CEO"
     },
     {
-     "name": "Matt",
-     "organisation": "",
-     "role": "Ingredient developer (company not named; spoke of a new brain ingredient and krill)"
+     "name": "Matts Johansen",
+     "organisation": "Aker BioMarine",
+     "role": "CEO"
     },
     {
      "name": "Joanna",
@@ -11467,7 +11467,7 @@
    "links": {
     "otter": "https://otter.ai/u/ZEdFW2wF_FhJmfWkdH-p8aSyG74"
    },
-   "to_check": "Billed title and room unconfirmed; the moderator is unnamed and the panellists' surnames, companies and roles are not given except Alex Glover (Alexandra is heard as \"Alexandra Dumchich\" of \"Zendiva\"); Otter's labels are mapped to names from the moderator's cues (Speaker 2 Martina, Speaker 3 Joanna, Speaker 4 Alexandra, Speaker 5 Matt), and the moderator twice calls Matt \"Max\".",
+   "to_check": "Billed title and room unconfirmed; the moderator is unnamed; Joanna's and Alexandra's surnames, firms and roles are not given (Alexandra is heard as \"Alexandra Dumchich\" of \"Zendiva\"). Martina Pavlová (FAVEA) and Matts Johansen (CEO, Aker BioMarine) confirmed by Nathan, 24 Nov 2026; the moderator twice calls him \"Max\". Otter's labels are mapped from the moderator's cues (Speaker 2 Martina, Speaker 3 Joanna, Speaker 4 Alexandra, Speaker 5 Matts).",
    "added": "2026-11-09",
    "added_by": "Claude (from Nathan's Otter recordings, 9 Nov 2026)",
    "has_transcript": true,
@@ -11475,18 +11475,18 @@
    "has_notes": false,
    "has_summary": true,
    "summary": {
-    "Summary": "The day's closing panel brought together a retailer (Alex Glover, Holland & Barrett), a CDMO (Martina), an ingredient developer (Matt), a food lawyer (Joanna) and a pharmaceutical company (Alexandra). The moderator asked what each wants in the next two or three years, then turned to regulation, supply and AI.\n\nThey agreed that the consumer comes first. Alexandra wanted evidence-based claims and better communication, Martina a focus on what consumers actually need, and Alex a few claims done well, starting from the consumer's problem rather than piling on ingredients. Matt wanted a revolution in clinical trials: high-dose studies in people with real problems, published where consumers' chatbots will find them.\n\nOn regulation they differed in tone. Joanna wants food law to be a shield for innovators, though the claims system was written for vitamins. Matt was blunter: a three-year longer approval in Europe than in the US almost makes innovation impossible.\n\nOn supply, Matt warned of a fish oil shortage reaching shelves next summer. Alex described pre-bought stock and protecting the claim shoppers buy. Joanna said blaming the supplier is no defence.\n\nOn AI they wanted a human in the loop and peer-reviewed sources, and Matt warned that anyone who cannot use AI will not be able to work in two years.",
-    "Key takeaways": "- Matt: trials in this industry study healthy people for short periods, so effects look small; he would run high-dose studies in people with real problems and publish, because consumers will find it through chatbots [02:52].\n- Alex: consumers want evidence but not the EFSA wording; \"throwing the kitchen sink\" (90 plus ingredients, 35 claims) muddles the message; do a few things well for a defined audience [08:33].\n- Joanna: EU food law and the claims regulation were written for vitamin C and D; innovators must combine what is legally possible with showing what trials found; food law should be \"a shield\", not \"a heartbreak\" [05:36].\n- Matt: same safety package, three years longer approval in Europe than the US; cost today, income later, so the delay \"almost makes the innovation impossible\" [14:53].\n- Matt: fish oil supply is collapsing for aquaculture now and reaches supplement shelves next summer; aquaculture buys the alternatives with higher willingness to pay [18:48].\n- Alex: H&B holds up to nine months of pre-purchased stock on core lines; shoppers give three or four seconds at shelf, so protect the claim they buy (heart, eye) and find the alternative [19:36].",
+    "Summary": "The day's closing panel brought together a retailer (Alex Glover, Holland & Barrett), a CDMO (Martina Pavlová, FAVEA), an ingredient company (Matts Johansen, chief executive of Aker BioMarine), a food lawyer (Joanna) and a pharmaceutical company (Alexandra). The moderator asked what each wants in the next two or three years, then turned to regulation, supply and AI.\n\nThey agreed that the consumer comes first. Alexandra wanted evidence-based claims and better communication, Martina a focus on what consumers actually need, and Alex a few claims done well, starting from the consumer's problem rather than piling on ingredients. Matts wanted a revolution in clinical trials: high-dose studies in people with real problems, published where consumers' chatbots will find them.\n\nOn regulation they differed in tone. Joanna wants food law to be a shield for innovators, though the claims system was written for vitamins. Matts was blunter: a three-year longer approval in Europe than in the US almost makes innovation impossible.\n\nOn supply, Matts warned of a fish oil shortage reaching shelves next summer. Alex described pre-bought stock and protecting the claim shoppers buy. Joanna said blaming the supplier is no defence.\n\nOn AI they wanted a human in the loop and peer-reviewed sources, and Matts warned that anyone who cannot use AI will not be able to work in two years.",
+    "Key takeaways": "- Matts: trials in this industry study healthy people for short periods, so effects look small; he would run high-dose studies in people with real problems and publish, because consumers will find it through chatbots [02:52].\n- Alex: consumers want evidence but not the EFSA wording; \"throwing the kitchen sink\" (90 plus ingredients, 35 claims) muddles the message; do a few things well for a defined audience [08:33].\n- Joanna: EU food law and the claims regulation were written for vitamin C and D; innovators must combine what is legally possible with showing what trials found; food law should be \"a shield\", not \"a heartbreak\" [05:36].\n- Matts: same safety package, three years longer approval in Europe than the US; cost today, income later, so the delay \"almost makes the innovation impossible\" [14:53].\n- Matts: fish oil supply is collapsing for aquaculture now and reaches supplement shelves next summer; aquaculture buys the alternatives with higher willingness to pay [18:48].\n- Alex: H&B holds up to nine months of pre-purchased stock on core lines; shoppers give three or four seconds at shelf, so protect the claim they buy (heart, eye) and find the alternative [19:36].",
     "For Vita Actives": "- Two of five panellists take creatine daily, including H&B's formulation lead [00:30], [00:57]. My reading: creatine is now a default daily supplement for industry insiders, which supports CreaWin's move into everyday and healthy-ageing products beyond sports.\n- A retailer and a CDMO both say the brief is the consumer problem and a few claims done well [08:33], [11:13]. My reading: our customer-facing materials should give one outcome per ingredient with the trial that shows it, not a list.\n- The fish oil shortage [18:48] is not ours, but H&B's response, protect the benefit and find the alternative, shows how a retailer treats any supply shock. My reading: supply continuity and traceability for CreaWin and IsoClr: Pea are selling points to put in front of buyers now.\n- Europe's three-year approval lag [14:53] means novel protein and creatine formats will launch in the US first (my reading).\n- Chatbots rank peer-reviewed science [03:45]. My reading: publishing the CreaWin and IsoClr: Pea evidence where AI assistants can find it is now part of marketing.\n- Relevance medium: regulation, supply and retail views, adjacent to our ingredients.",
-    "Quotes": "- \"I see so many brands throwing the kitchen sink at everything. It's 90 plus ingredients. It's got 35 claims on the front of the pack, and then your message gets muddled.\" Alex Glover (H&B) [08:33]\n- \"Three years delay, cost of fortune almost makes the innovation impossible, and I think that's a big, big problem for Europe.\" Speaker 5 (Matt) [14:53]\n- \"The idea is to say it's my supplier's fault. It's not the solution.\" Speaker 3 (Joanna) [22:09]\n- \"I think with AI, if you can't operate AI, you have you can't work two years from now.\" Speaker 5 (Matt) [25:42]",
-    "Follow-ups": "- Identify the panellists: Martina (a CDMO), Matt (an ingredient company; spoke earlier on AI and trials; mentioned krill), Joanna (lawyer), Alexandra (heard \"Alexandra Dumchich\", of a pharmaceutical company heard as \"Zendiva\"), and the moderator.\n- Ask Nathan which earlier talks Matt and Martina gave (both refer to \"my presentation\").\n- Follow the fish oil supply story (El Niño, aquaculture buying, traceability reporting).\n- Question for H&B: what evidence pack does Alex's team want from an ingredient supplier for a \"tier three\" development?",
+    "Quotes": "- \"I see so many brands throwing the kitchen sink at everything. It's 90 plus ingredients. It's got 35 claims on the front of the pack, and then your message gets muddled.\" Alex Glover (H&B) [08:33]\n- \"Three years delay, cost of fortune almost makes the innovation impossible, and I think that's a big, big problem for Europe.\" Speaker 5 (Matts Johansen) [14:53]\n- \"The idea is to say it's my supplier's fault. It's not the solution.\" Speaker 3 (Joanna) [22:09]\n- \"I think with AI, if you can't operate AI, you have you can't work two years from now.\" Speaker 5 (Matts Johansen) [25:42]",
+    "Follow-ups": "- Identify the remaining panellists: Joanna (lawyer), Alexandra (heard \"Alexandra Dumchich\", of a pharmaceutical company heard as \"Zendiva\"), and the moderator.\n- Both Matts Johansen and Martina Pavlová refer to \"my presentation\": their talks are filed as aker-biomarine-krill-peakspan and favea-ai-mental-shift.\n- Follow the fish oil supply story (El Niño, aquaculture buying, traceability reporting).\n- Question for H&B: what evidence pack does Alex's team want from an ingredient supplier for a \"tier three\" development?",
     "Key slides": "",
-    "Detail": "- Wants for the next two or three years: evidence-based claims and better communication to consumers (Alexandra [02:10]); a \"revolution\" in clinical trials, high-dose studies in people with real problems, published (Matt [02:52]); a focus on what consumers actually need (Martina [04:30]); food law as \"a shield\" for innovators (Joanna [05:36]).\n- Matt, in his words: \"I would do high dose studies, you know, much higher than what you sell, but do people that have actually real problems, and then publish it, and then the consumer is going to find it through their chatbots\" [02:52].\n- Matt: AI assistants rank credibility, peer-reviewed science and university pages, after LinkedIn and Reddit were gamed; the language in published studies matters [03:45], [03:59].\n- Alex: H&B's own label has \"customer missions\" (joint, bone and muscle care; skin; weight management); where it wants to win it runs primary research with universities, clinical trials and standardised or branded ingredients; the lesson of seven years is start with the consumer problem [08:33].\n- Martina: legislation is an obstacle for a CDMO; do not fill every gap, stick to one piece and explain it; the customer, not the CDMO, has the power to sell [11:13], [12:26].\n- Alexandra: \"what is on the box should be in the box during the shelf life\"; brand means trust and quality [13:33].\n- Matt: micro-influencer social selling arriving from China via the US is \"almost impossible to regulate\" [14:53].\n- Matt on fish oil: \"it's not going to hit us on the shelves, on your shelves, until next summer, because we have a much longer value chain\" [18:48]. The risks are losing consumers to other ways of managing health, and shortcuts where traceability is absent [21:19].\n- Alex: rhodiola's endangered listing brought about 400 customer emails [19:36].\n- Joanna: liability stays with you; share responsibility by contract; \"it's my supplier's fault\" is not a defence [22:09].\n- AI: a human in the loop for anything legally binding and for IP (Joanna [23:33]); peer-reviewed databases, not blogs (Alexandra [24:59]); a ChatGPT over factory sensors (Matt [25:42]).\n- Panellists' own supplements: Alex takes creatine daily, omega-3, astaxanthin, vitamin D in winter and pre-workout; Matt protein, creatine, magnesium, zinc, vitamin D; Martina magnesium and krill oil [00:30], [00:51], [00:57].\n- Closing asks: \"speak the language of the consumer\" (Alex [30:07]); bring lawyers in at the laboratory stage (Joanna [27:27], [28:09]); talk to people outside your company (Matt [28:55]); think what you want, not what the market says (Martina [29:34]).",
+    "Detail": "- Wants for the next two or three years: evidence-based claims and better communication to consumers (Alexandra [02:10]); a \"revolution\" in clinical trials, high-dose studies in people with real problems, published (Matts Johansen [02:52]); a focus on what consumers actually need (Martina [04:30]); food law as \"a shield\" for innovators (Joanna [05:36]).\n- Matts, in his words: \"I would do high dose studies, you know, much higher than what you sell, but do people that have actually real problems, and then publish it, and then the consumer is going to find it through their chatbots\" [02:52].\n- Matts: AI assistants rank credibility, peer-reviewed science and university pages, after LinkedIn and Reddit were gamed; the language in published studies matters [03:45], [03:59].\n- Alex: H&B's own label has \"customer missions\" (joint, bone and muscle care; skin; weight management); where it wants to win it runs primary research with universities, clinical trials and standardised or branded ingredients; the lesson of seven years is start with the consumer problem [08:33].\n- Martina: legislation is an obstacle for a CDMO; do not fill every gap, stick to one piece and explain it; the customer, not the CDMO, has the power to sell [11:13], [12:26].\n- Alexandra: \"what is on the box should be in the box during the shelf life\"; brand means trust and quality [13:33].\n- Matts: micro-influencer social selling arriving from China via the US is \"almost impossible to regulate\" [14:53].\n- Matts on fish oil: \"it's not going to hit us on the shelves, on your shelves, until next summer, because we have a much longer value chain\" [18:48]. The risks are losing consumers to other ways of managing health, and shortcuts where traceability is absent [21:19].\n- Alex: rhodiola's endangered listing brought about 400 customer emails [19:36].\n- Joanna: liability stays with you; share responsibility by contract; \"it's my supplier's fault\" is not a defence [22:09].\n- AI: a human in the loop for anything legally binding and for IP (Joanna [23:33]); peer-reviewed databases, not blogs (Alexandra [24:59]); a ChatGPT over factory sensors (Matts Johansen [25:42]).\n- Panellists' own supplements: Alex takes creatine daily, omega-3, astaxanthin, vitamin D in winter and pre-workout; Matts protein, creatine, magnesium, zinc, vitamin D; Martina magnesium and krill oil [00:30], [00:51], [00:57].\n- Closing asks: \"speak the language of the consumer\" (Alex [30:07]); bring lawyers in at the laboratory stage (Joanna [27:27], [28:09]); talk to people outside your company (Matts Johansen [28:55]); think what you want, not what the market says (Martina [29:34]).",
     "Research": ""
    },
    "takeaways": [
     {
-     "text": "Matt: trials in this industry study healthy people for short periods, so effects look small; he would run high-dose studies in people with real problems and publish, because consumers will find it through chatbots [02:52].",
+     "text": "Matts: trials in this industry study healthy people for short periods, so effects look small; he would run high-dose studies in people with real problems and publish, because consumers will find it through chatbots [02:52].",
      "cites": [
       "02:52"
      ]
@@ -11504,13 +11504,13 @@
      ]
     },
     {
-     "text": "Matt: same safety package, three years longer approval in Europe than the US; cost today, income later, so the delay \"almost makes the innovation impossible\" [14:53].",
+     "text": "Matts: same safety package, three years longer approval in Europe than the US; cost today, income later, so the delay \"almost makes the innovation impossible\" [14:53].",
      "cites": [
       "14:53"
      ]
     },
     {
-     "text": "Matt: fish oil supply is collapsing for aquaculture now and reaches supplement shelves next summer; aquaculture buys the alternatives with higher willingness to pay [18:48].",
+     "text": "Matts: fish oil supply is collapsing for aquaculture now and reaches supplement shelves next summer; aquaculture buys the alternatives with higher willingness to pay [18:48].",
      "cites": [
       "18:48"
      ]
@@ -11530,7 +11530,7 @@
      ]
     },
     {
-     "text": "\"Three years delay, cost of fortune almost makes the innovation impossible, and I think that's a big, big problem for Europe.\" Speaker 5 (Matt) [14:53]",
+     "text": "\"Three years delay, cost of fortune almost makes the innovation impossible, and I think that's a big, big problem for Europe.\" Speaker 5 (Matts Johansen) [14:53]",
      "cites": [
       "14:53"
      ]
@@ -11542,22 +11542,22 @@
      ]
     },
     {
-     "text": "\"I think with AI, if you can't operate AI, you have you can't work two years from now.\" Speaker 5 (Matt) [25:42]",
+     "text": "\"I think with AI, if you can't operate AI, you have you can't work two years from now.\" Speaker 5 (Matts Johansen) [25:42]",
      "cites": [
       "25:42"
      ]
     }
    ],
    "followups": [
-    "Identify the panellists: Martina (a CDMO), Matt (an ingredient company; spoke earlier on AI and trials; mentioned krill), Joanna (lawyer), Alexandra (heard \"Alexandra Dumchich\", of a pharmaceutical company heard as \"Zendiva\"), and the moderator.",
-    "Ask Nathan which earlier talks Matt and Martina gave (both refer to \"my presentation\").",
+    "Identify the remaining panellists: Joanna (lawyer), Alexandra (heard \"Alexandra Dumchich\", of a pharmaceutical company heard as \"Zendiva\"), and the moderator.",
+    "Both Matts Johansen and Martina Pavlová refer to \"my presentation\": their talks are filed as aker-biomarine-krill-peakspan and favea-ai-mental-shift.",
     "Follow the fish oil supply story (El Niño, aquaculture buying, traceability reporting).",
     "Question for H&B: what evidence pack does Alex's team want from an ingredient supplier for a \"tier three\" development?"
    ],
    "key_slides": [],
    "detail": [
     {
-     "text": "Wants for the next two or three years: evidence-based claims and better communication to consumers (Alexandra [02:10]); a \"revolution\" in clinical trials, high-dose studies in people with real problems, published (Matt [02:52]); a focus on what consumers actually need (Martina [04:30]); food law as \"a shield\" for innovators (Joanna [05:36]).",
+     "text": "Wants for the next two or three years: evidence-based claims and better communication to consumers (Alexandra [02:10]); a \"revolution\" in clinical trials, high-dose studies in people with real problems, published (Matts Johansen [02:52]); a focus on what consumers actually need (Martina [04:30]); food law as \"a shield\" for innovators (Joanna [05:36]).",
      "cites": [
       "02:10",
       "02:52",
@@ -11566,13 +11566,13 @@
      ]
     },
     {
-     "text": "Matt, in his words: \"I would do high dose studies, you know, much higher than what you sell, but do people that have actually real problems, and then publish it, and then the consumer is going to find it through their chatbots\" [02:52].",
+     "text": "Matts, in his words: \"I would do high dose studies, you know, much higher than what you sell, but do people that have actually real problems, and then publish it, and then the consumer is going to find it through their chatbots\" [02:52].",
      "cites": [
       "02:52"
      ]
     },
     {
-     "text": "Matt: AI assistants rank credibility, peer-reviewed science and university pages, after LinkedIn and Reddit were gamed; the language in published studies matters [03:45], [03:59].",
+     "text": "Matts: AI assistants rank credibility, peer-reviewed science and university pages, after LinkedIn and Reddit were gamed; the language in published studies matters [03:45], [03:59].",
      "cites": [
       "03:45",
       "03:59"
@@ -11598,13 +11598,13 @@
      ]
     },
     {
-     "text": "Matt: micro-influencer social selling arriving from China via the US is \"almost impossible to regulate\" [14:53].",
+     "text": "Matts: micro-influencer social selling arriving from China via the US is \"almost impossible to regulate\" [14:53].",
      "cites": [
       "14:53"
      ]
     },
     {
-     "text": "Matt on fish oil: \"it's not going to hit us on the shelves, on your shelves, until next summer, because we have a much longer value chain\" [18:48]. The risks are losing consumers to other ways of managing health, and shortcuts where traceability is absent [21:19].",
+     "text": "Matts on fish oil: \"it's not going to hit us on the shelves, on your shelves, until next summer, because we have a much longer value chain\" [18:48]. The risks are losing consumers to other ways of managing health, and shortcuts where traceability is absent [21:19].",
      "cites": [
       "18:48",
       "21:19"
@@ -11623,7 +11623,7 @@
      ]
     },
     {
-     "text": "AI: a human in the loop for anything legally binding and for IP (Joanna [23:33]); peer-reviewed databases, not blogs (Alexandra [24:59]); a ChatGPT over factory sensors (Matt [25:42]).",
+     "text": "AI: a human in the loop for anything legally binding and for IP (Joanna [23:33]); peer-reviewed databases, not blogs (Alexandra [24:59]); a ChatGPT over factory sensors (Matts Johansen [25:42]).",
      "cites": [
       "23:33",
       "24:59",
@@ -11631,7 +11631,7 @@
      ]
     },
     {
-     "text": "Panellists' own supplements: Alex takes creatine daily, omega-3, astaxanthin, vitamin D in winter and pre-workout; Matt protein, creatine, magnesium, zinc, vitamin D; Martina magnesium and krill oil [00:30], [00:51], [00:57].",
+     "text": "Panellists' own supplements: Alex takes creatine daily, omega-3, astaxanthin, vitamin D in winter and pre-workout; Matts protein, creatine, magnesium, zinc, vitamin D; Martina magnesium and krill oil [00:30], [00:51], [00:57].",
      "cites": [
       "00:30",
       "00:51",
@@ -11639,7 +11639,7 @@
      ]
     },
     {
-     "text": "Closing asks: \"speak the language of the consumer\" (Alex [30:07]); bring lawyers in at the laboratory stage (Joanna [27:27], [28:09]); talk to people outside your company (Matt [28:55]); think what you want, not what the market says (Martina [29:34]).",
+     "text": "Closing asks: \"speak the language of the consumer\" (Alex [30:07]); bring lawyers in at the laboratory stage (Joanna [27:27], [28:09]); talk to people outside your company (Matts Johansen [28:55]); think what you want, not what the market says (Martina [29:34]).",
      "cites": [
       "30:07",
       "27:27",
