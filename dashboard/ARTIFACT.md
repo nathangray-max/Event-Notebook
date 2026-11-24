@@ -27,3 +27,4 @@ Leave out `test/` and this file.
 | 16 | 2026-11-23 | ab32aa7 | Data only: Healthspan decks (Weinkove, Hudson, Walter, Gut, Selman/Yu, Macciochi, Tongiani) filed and summarised; SANS and Healthspan marked complete for slides. Handover: docs/handover-2026-11-23.md. |
 | 17 | 2026-11-24 | 68ac7da | Data only, final build: tags (ingredient groups, market categories, insight types) in the data; clean stamp. |
 | 18 | 2026-11-24 | 558a42b | Data only: Matts Johansen (CEO, Aker BioMarine) on the closing panel and the krill talk; Martina Pavlová confirmed. |
+| 19 | 2026-11-24 | 49152e7 | Data only: archive events Probiota 2025 (23 sessions, 18 with Otter transcripts) and Active Nutrition Summit 2025 (26 sessions, matched to the advance programme); Marit Veenstra's name corrected at Remedy; neutral pronouns in the archive events. |
