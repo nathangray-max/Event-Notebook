@@ -1,0 +1,57 @@
+id: amino-acids
+title: Amino Acids
+course: ingredient-foundations
+order: 2
+owner: Vita Actives Training & Development
+version: ''
+level: high
+audience: ''
+minutes: 33
+categories: [sports, beauty, gut-health, brain-sleep]
+tags: [science, formats, market-data]
+ingredients:
+- amino acids
+- essential amino acids (EAAs)
+- BCAAs (leucine, isoleucine, valine)
+- glutamine
+- arginine
+- glycine, proline and hydroxyproline
+- tryptophan and tyrosine
+- beta-alanine
+- L-carnitine
+- taurine
+- collagen peptides
+- pea and rice protein blends
+deck: files/amino-acids.pdf
+source: files/amino-acids.pptx
+status: draft
+reviewed_by: ''
+to_check: >-
+  The PDF was rendered by LibreOffice and many slides have overlapping text (the "Amino Acids" title over "Objectives" on
+  slide 2, decorative shapes over the text on slides 4, 7, 10 and 13, titles over body text on slides 18 to 28) and
+  cut-off text (the last lines of slides 19, 22, 25, 28 and 29 are missing from the PDF but are in the pptx); a
+  PowerPoint-exported PDF would render more faithfully. Slides 6, 8, 14 and 16 are linked YouTube videos
+  (https://www.youtube.com/watch?v=aktEQ90Wpkw, 9ssCKw-7OvQ, fPrkarBzrg0, VI1ihdoX9lQ; the notes say slide 14 is a
+  MyProtein video on BCAAs) that show as grey boxes in the PDF; their content is not in this reading. The speaker notes
+  on slide 1 describe a session on "herbal and botanical extracts" (left over from another deck). The deck states no
+  version, date or audience; the notes say about 40 minutes.
+  Figures (slide 21): animal feed amino acids market about US$14.1 bn by 2027, 5% CAGR 2019-2027: an infographic with
+  no source named.
+  Accuracy to check: slide 24 writes "Glutamic Acid (Glutamine)" and slide 19 "Glutamine as a flavour enhancer", but
+  glutamic acid (glutamate, as in MSG) and glutamine are different amino acids; slide 13 spells aspartate "Asparatate"
+  and lists cysteine as non-essential; slide 10 describes primary structure as "short peptides ... e.g. collagen
+  peptides" where primary structure usually means the amino acid sequence of any protein.
+  Claim to check (slide 18): arginine "nitric oxide production for improved blood flow"; glutamine "supports gut health
+  and intestinal integrity"; leucine "activates muscle protein synthesis".
+  Claim to check (slide 19): collagen peptides "for skin hydration and elasticity"; tryptophan and tyrosine for mood and
+  focus.
+  Claim to check (slide 25): tryptophan in fortified foods "to support mood and sleep health".
+  Claim to check (slide 26): BCAAs "reduce exercise-induced muscle breakdown"; beta-alanine buffers lactic acid;
+  L-carnitine "enhances fat metabolism ... and endurance"; "reduces muscle soreness and recovery time".
+  Claim to check (slide 27): "reduces visible signs of aging, such as wrinkles and fine lines"; cysteine and methionine
+  for hair and nail strength; arginine "supporting a healthy glow".
+  Claim to check (slide 28): glycine "promotes deep, restful sleep"; tyrosine "enhancing focus and stress resilience";
+  glutamine "repairs intestinal lining"; arginine and cysteine for immune response.
+  The animal benefits on slides 20 and 22 fall under feed and pet food rules, not EU health claims.
+added: '2026-11-25'
+added_by: Claude (from Nathan's training decks, 25 Nov 2026)

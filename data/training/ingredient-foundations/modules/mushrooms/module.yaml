@@ -1,0 +1,48 @@
+id: mushrooms
+title: Mushrooms & Mushroom Extracts
+course: ingredient-foundations
+order: 4
+owner: Vita Actives Training & Development
+version: ''
+level: high
+audience: sales and product development
+minutes: 19
+categories: [brain-sleep, sports, beauty]
+tags: [science, market-data, formats, supply]
+ingredients:
+- functional mushrooms
+- reishi
+- lion's mane
+- cordyceps
+- chaga
+- turkey tail
+- shiitake
+- beta-glucans
+deck: files/mushrooms.pdf
+source: files/mushrooms.pptx
+status: draft
+reviewed_by: ''
+to_check: >-
+  The PDF was rendered by LibreOffice: stray labels from a graphic ("Design", "Evaluate") sit over the text on most
+  content slides (e.g. "ModernDesign science" on slide 4) and on slide 15 a white caption overlaps the charts; a
+  PowerPoint-exported PDF would render more faithfully. Slides 6 and 12 are linked YouTube videos
+  (https://www.youtube.com/watch?v=XN8dFLTH58o and QLmNiqjQ1Qo) that show as grey boxes in the PDF; their content is
+  not in this reading. The deck states no version or date; the audience is taken from objective 05 (slide 2).
+  Objective 02 (slide 2) promises extraction methods, but no slide covers them (slide 11 shows food processing only).
+  Slides 10 and 11 are diagrams with no source named. Slide 8's notes are repeated on slide 9.
+  Figures (slide 15): "All data from Spins", but no period, market or date is given.
+  Our position to confirm (slide 17): all our mushrooms are sourced on non-peanut substrates.
+  Claim to check (slide 3, 5, 8): lion's mane hericenones and erinacines "may stimulate" NGF on slide 3, but "stimulate
+  nerve growth factor (NGF), essential for cognitive health and nerve regeneration" unhedged on slide 8.
+  Claim to check (slide 9): cordycepin "has been shown to enhance ATP production and oxygen uptake"; betulinic acid
+  (chaga) "anticancer properties"; ergosterol "supports bone health"; ganoderic acids "adaptogenic, immune support".
+  Claim to check (slides 3, 5, 8): reishi "immune support and stress relief"; cordyceps "energy and endurance"; chaga
+  "antioxidant support, anti-aging"; turkey tail PSK and PSP "gut and immune health"; beta-glucans "immune
+  modulation"; triterpenoids "anti-inflammatory, adaptogenic".
+  Claim to check (slides 10, 11): diagram labels such as anti-diabetic, anti-carcinogenic, anti-viral, controls obesity,
+  osteoporosis, hepatoprotective, neuro-protective.
+  Claim to check (slide 4): "Modern science continues to validate their therapeutic properties".
+  Claim to check (slide 16): standardised extracts as "a cornerstone of reliable health claims"; as far as we know none
+  of these mushroom benefits is an authorised EU health claim.
+added: '2026-11-25'
+added_by: Claude (from Nathan's training decks, 25 Nov 2026)

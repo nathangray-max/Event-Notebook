@@ -1,0 +1,41 @@
+id: what-are-vitamins
+title: What Are Vitamins?
+course: ingredient-foundations
+order: 1
+owner: Vita Actives Training & Development
+version: ''
+level: high
+audience: ''
+minutes: 12
+categories: []
+tags: [science, formats]
+ingredients:
+- vitamins
+- vitamins A, C, D, E and K
+- B vitamins
+- folic acid and folate (vitamin B9)
+- vitamin B12 (methylcobalamin, cyanocobalamin)
+- vitamin D with calcium
+deck: files/what-are-vitamins.pdf
+source: files/what-are-vitamins.pptx
+status: draft
+reviewed_by: ''
+to_check: >-
+  The PDF was rendered by LibreOffice: titles overlap body text on slides 2, 4 and 11; a PowerPoint-exported PDF would
+  render more faithfully. Slides 3 and 9 are linked YouTube videos (https://youtu.be/uF2A-DQD9Fw from 1:23, and
+  https://youtu.be/SecPzas5T4o) that show as grey boxes in the PDF; their content is not in this reading. The deck
+  states no version, date or audience. Slides 5 and 6 are pasted table images with no source named.
+  Claim to check (slide 4): vitamins "prevent deficiency-related diseases (e.g., scurvy, rickets)".
+  Claim to check (slide 5): vitamin C "boosts immune defense against infections"; vitamin D "may reduce inflammation" and
+  "may support mood regulation and cognitive function"; vitamin E "helps reduce the risk of heart disease and other
+  oxidative stress-related conditions"; vitamin K "prevents calcium buildup in arteries, reducing cardiovascular risk"
+  and "improving bone density"; vitamin C "wound healing".
+  Claim to check (slide 6): vitamin B3 "helps lower bad cholesterol (LDL) and raise good cholesterol (HDL)"; B6, B9 and
+  B12 "reducing cardiovascular (disease) risk" / "the risk of heart disease"; B9 "prevents neural tube defects" (the
+  authorised folic acid claim is a narrower risk-reduction claim with conditions); B12 "promotes cognitive function and
+  brain health"; B7 "plays a role in gene regulation".
+  Claim to check (slide 11): folate with iron "prevents anemia"; vitamin K2 with D "for bone and heart health".
+  Science to check (slides 8, 10): methylcobalamin is "more bioavailable than cyanocobalamin"; active forms are "generally
+  more easily utilized".
+added: '2026-11-25'
+added_by: Claude (from Nathan's training decks, 25 Nov 2026)
