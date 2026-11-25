@@ -32,6 +32,14 @@
     }).join(" · ") +
       (s.length > 4 ? " · and " + (s.length - 4) + " more" : "");
   }
+  // a link into the training library: followable once its address is known, else plain text naming it
+  function trainingBox(list) {
+    if (!list || !list.length) return "";
+    return '<section class="panel cross"><h2>Training on this topic</h2><ul class="cross-list">' + list.map(function (x) {
+      return "<li>" + (/^https?:/.test(x.href) ? '<a class="cross-link" href="' + esc(x.href) + '" target="_blank" rel="noopener">' + esc(x.title) + "</a>"
+        : '<span class="cross-link plain">' + esc(x.title) + ' <span class="where">(in the Training library)</span></span>') + "</li>";
+    }).join("") + "</ul></section>";
+  }
   function level(l) { return '<span class="level level-' + esc(l.level) + '">' + esc(l.level) + "</span>"; }
   function slideFor(text, l) {
     if (!l.slides) return 0;
@@ -158,7 +166,7 @@
       '<span class="meta">' + esc(names(l, 3)) + "</span>" + (snippet(l) ? '<p class="snip">' + esc(snippet(l)) + "</p>" : "") + '<span class="meta">' + [esc(c.short), esc(shortDate(l.date)), l.slides ? l.slides + " slides" : ""].filter(Boolean).join(" · ") + "</span>" +
       (p && !isDone(l) ? '<div class="minibar" title="' + p + '% of the deck seen"><span style="width:' + p + '%"></span></div>' : "") + "</div></a></li>";
   }
-  function hub(current, kicker, title, lede, lessons, showFilter) {
+  function hub(current, kicker, title, lede, lessons, showFilter, after) {
     var sec = SECTION[sectionOf(current)];
     var list = essentialOnly && showFilter ? lessons.filter(function (l) { return l.level === "Essential"; }) : lessons;
     list = sortBy === "essential" ? list.slice().sort(function (a, b) { return LEVEL_RANK[a.level] - LEVEL_RANK[b.level]; })
@@ -170,7 +178,7 @@
         '<label class="sort"><span>Sort</span><select id="sort"><option value="list"' + (sortBy === "list" ? " selected" : "") + '>' + (current.indexOf("-2026") > 0 ? "Programme order" : "Newest first") + "</option>" +
         '<option value="essential"' + (sortBy === "essential" ? " selected" : "") + ">Essential first</option>" +
         '<option value="az"' + (sortBy === "az" ? " selected" : "") + ">A to Z</option></select></label></div>" : "") +
-      (list.length ? '<ol class="talks">' + list.map(talkRow).join("") + "</ol>" : '<p class="empty-note">No talks here yet.</p>') + "</section></div>";
+      (list.length ? '<ol class="talks">' + list.map(talkRow).join("") + "</ol>" : '<p class="empty-note">No talks here yet.</p>') + (after || "") + "</section></div>";
   }
   function ordered(ls) { return ls.slice().sort(function (a, b) { return (b.date || "").localeCompare(a.date || "") || (a.start || "").localeCompare(b.start || ""); }); }
 
@@ -217,6 +225,7 @@
       (l.for_us ? '<section class="panel for-us"><h2>What it means for Vita Actives</h2><div class="prose">' + prose(l.for_us, l) + "</div></section>" : "") +
       (l.quotes.length ? '<section class="panel"><h2>In their words</h2>' + l.quotes.map(function (q) { return '<blockquote class="quote">' + clean(q, l, false) + "</blockquote>"; }).join("") + "</section>" : "") +
       (l.detail ? '<details class="more"><summary>More detail and figures</summary><div class="prose">' + prose(l.detail, l) + "</div></details>" : "") +
+      trainingBox(l.training) +
       '<section class="facets">' + KINDS.map(function (k) {
         var fs = l[k.field].filter(function (id) { return FACET[k.prefix + id]; });
         return fs.length ? '<div class="facet-row"><span class="facet-label">' + k.label + '</span><div class="tags">' + fs.map(function (id) { return '<a class="chip" href="#' + k.prefix + id + '">' + esc(FACET[k.prefix + id].name) + "</a>"; }).join("") + "</div></div>" : "";
@@ -304,7 +313,7 @@
     else if (h === "my-learning") html = hub(h, "Your progress", "My learning", LESSONS.filter(isDone).length + " of " + LESSONS.length + " talks completed in this browser.", ordered(LESSONS.filter(isDone)), false);
     else if (FACET[h]) {
       var f = FACET[h];
-      html = hub(h, f.label, f.name, f.lessons.length + (f.lessons.length === 1 ? " talk" : " talks") + " across the shows.", ordered(f.lessons.map(function (k) { return BY_KEY[k]; }).filter(Boolean)), true);
+      html = hub(h, f.label, f.name, f.lessons.length + (f.lessons.length === 1 ? " talk" : " talks") + " across the shows.", ordered(f.lessons.map(function (k) { return BY_KEY[k]; }).filter(Boolean)), true, trainingBox(f.training));
     } else if (h.indexOf("person-") === 0 && PERSON[h.slice(7)]) {
       var pp = PERSON[h.slice(7)];
       html = hub(h, "Speaker", pp.name, (pp.organisations.length ? pp.organisations.join(", ") + ". " : "") + pp.lessons.length + (pp.lessons.length === 1 ? " talk" : " talks") + " in the library.",
@@ -350,7 +359,7 @@
     LIB = lib;
     lib.courses.forEach(function (c) { COURSE[c.id] = c; c.lessons.forEach(function (x) { LESSONS.push(x); BY_KEY[key(x)] = x; }); });
     (lib.people || []).forEach(function (p) { PERSON[p.id] = p; });
-    KINDS.forEach(function (k) { (lib.facets[k.kind] || []).forEach(function (f) { FACET[k.prefix + f.id] = { name: f.name, lessons: f.lessons, label: k.label }; }); });
+    KINDS.forEach(function (k) { (lib.facets[k.kind] || []).forEach(function (f) { FACET[k.prefix + f.id] = { name: f.name, lessons: f.lessons, label: k.label, training: f.training || [] }; }); });
     document.getElementById("stamp").textContent = "Updated " + fmtDate(lib.built);
     updateCount();
     route();

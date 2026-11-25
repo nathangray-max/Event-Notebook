@@ -200,6 +200,13 @@ def load_facets(root: str | Path = DATA) -> Dict[str, Any]:
     return _yaml(p) if p.exists() else {}
 
 
+def load_sites(root: str | Path = DATA) -> Dict[str, str]:
+    """data/sites.yaml: each published library's artifact url by name (team, training); '' when not yet published."""
+    p = Path(root) / "sites.yaml"
+    d = _yaml(p) if p.exists() else {}
+    return {k: str(d.get(k) or "") for k in ("team", "training")}
+
+
 def ingredient_groups(raw: List[str], facets: Dict[str, Any]) -> List[str]:
     """The ingredient group ids a session's recorded ingredients fall into, in the vocabulary's order."""
     text = [str(x).lower() for x in raw or []]

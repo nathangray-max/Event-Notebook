@@ -2,6 +2,8 @@
 
 `python -m confnotes team` writes:
 - team/data/library.json  the courses (events) and lessons (summarised, non-confidential sessions), committed;
+- each talk and each tag value carries `training: [{title, href}]`, the training modules on the same tags, read from
+  training/data/library.json when the training library has been built (docs/training.md);
 - team/build/slides/<event>--<session>.json  each lesson's slides as an array of image data URIs (deck pages rendered
   from the original PDF, otherwise the slide photos), generated, git-ignored, published beside the page.
 
@@ -51,6 +53,53 @@ def person_id(sp: Dict[str, Any]) -> str:
     if " " not in base and org:
         sid += "-" + _slug(" ".join(re.sub(r"\(.*?\)", "", org).split()[:2]))
     return sid
+
+
+# ---------- links between the team library and the training library (docs/training.md) ----------
+# Both builds score shared tags the same way: an ingredient group counts most, then a market category, then an insight
+# type. Insight types alone are too broad to link on (most talks are "science"), so a link needs a shared ingredient
+# group or category whenever the item has either.
+WEIGHTS = {"ingredients": 3, "categories": 2, "tags": 1}
+LEVEL_RANK = {"Essential": 0, "Recommended": 1, "Background": 2}
+
+
+def overlap(a: Dict[str, Any], b: Dict[str, Any]) -> int:
+    """How strongly two items (talks or modules: categories, ingredients, tags as id lists) share tags; 0 = no link."""
+    shared = {k: len(set(a.get(k) or []) & set(b.get(k) or [])) for k in WEIGHTS}
+    if (a.get("ingredients") or a.get("categories")) and not (shared["ingredients"] or shared["categories"]):
+        return 0
+    return sum(WEIGHTS[k] * n for k, n in shared.items())
+
+
+def site_href(url: str, route: str) -> str:
+    """A link into another library: its artifact url + '#' + route, or the route alone while the url is blank (the
+    front end then shows the link as plain text naming the other library)."""
+    return f"{url}#{route}" if url else route
+
+
+def load_training(path: Path) -> List[Dict[str, Any]]:
+    """The training library's modules (training/data/library.json, the training build's output); [] when it does not exist."""
+    if not Path(path).exists():
+        return []
+    lib = json.loads(Path(path).read_text(encoding="utf-8"))
+    return [dict(l, course=c["id"]) for c in lib.get("courses") or [] for l in c.get("lessons") or []]
+
+
+def add_training_links(lib: Dict[str, Any], modules: List[Dict[str, Any]], url: str, most: int = 4) -> None:
+    """`training: [{title, href}]` on each talk (modules sharing tags, best overlap first, Essential first) and on each
+    facet value (modules carrying it, Essential first, in course order)."""
+    def link(m):
+        return {"title": m["title"], "href": site_href(url, f"{m['course']}--{m['id']}")}
+    order = {(m["course"], m["id"]): i for i, m in enumerate(modules)}
+    for c in lib["courses"]:
+        for l in c["lessons"]:
+            scored = [(overlap(l, m), m) for m in modules]
+            scored = sorted([x for x in scored if x[0]], key=lambda x: (-x[0], LEVEL_RANK.get(x[1].get("level"), 1), order[(x[1]["course"], x[1]["id"])]))
+            l["training"] = [link(m) for _, m in scored[:most]]
+    for kind, fs in lib["facets"].items():
+        for f in fs:
+            ms = sorted([m for m in modules if f["id"] in (m.get(kind) or [])], key=lambda m: (LEVEL_RANK.get(m.get("level"), 1), order[(m["course"], m["id"])]))
+            f["training"] = [link(m) for m in ms[:most]]
 
 
 class TeamLeak(Exception):
@@ -110,20 +159,13 @@ def _render_pdf(pdf: Path) -> List[str]:
         return [_webp_data_uri(Image.open(p)) for p in pages]
 
 
-def _photos(folder: Path, photos: Dict[str, str]) -> List[str]:
+def slide_pack(pack: Path, sources: List[Path], decks: bool) -> int:
+    """Write a slide pack (cached by the sources' hash): the PDF decks' pages rendered, or the photos in order.
+    Returns the number of slides. Shared with the training build (confnotes/training.py)."""
     from PIL import Image
-    return [_webp_data_uri(Image.open(folder / "files" / photos[k])) for k in sorted(photos, key=int)]
-
-
-def _slides_for(e: Dict[str, Any], s: Dict[str, Any], root: Path, out: Path) -> int:
-    """Write the lesson's slide pack (cached by the sources' hash); return the number of slides."""
-    folder = Path(root) / "events" / e["id"] / "sessions" / s["id"]
-    decks = [folder / "files" / f["name"] for f in _decks(s)]
-    sources = decks or ([folder / "files" / s["photos"][k] for k in sorted(s["photos"], key=int)] if s.get("photos") else [])
     if not sources:
         return 0
     h = hashlib.sha256(b"".join(p.read_bytes() for p in sources) + f"{SLIDE_WIDTH}/{WEBP_QUALITY}".encode()).hexdigest()[:16]
-    pack = out / "build" / "slides" / f"{e['id']}--{s['id']}.json"
     if pack.exists():
         try:
             cached = json.loads(pack.read_text(encoding="utf-8"))
@@ -131,10 +173,18 @@ def _slides_for(e: Dict[str, Any], s: Dict[str, Any], root: Path, out: Path) -> 
                 return len(cached["slides"])
         except (ValueError, KeyError):
             pass
-    slides = [u for d in decks for u in _render_pdf(d)] if decks else _photos(folder, s["photos"])
+    slides = [u for d in sources for u in _render_pdf(d)] if decks else [_webp_data_uri(Image.open(p)) for p in sources]
     pack.parent.mkdir(parents=True, exist_ok=True)
     pack.write_text(json.dumps({"hash": h, "slides": slides}), encoding="utf-8")
     return len(slides)
+
+
+def _slides_for(e: Dict[str, Any], s: Dict[str, Any], root: Path, out: Path) -> int:
+    """Write the lesson's slide pack (cached by the sources' hash); return the number of slides."""
+    folder = Path(root) / "events" / e["id"] / "sessions" / s["id"]
+    decks = [folder / "files" / f["name"] for f in _decks(s)]
+    sources = decks or ([folder / "files" / s["photos"][k] for k in sorted(s["photos"], key=int)] if s.get("photos") else [])
+    return slide_pack(out / "build" / "slides" / f"{e['id']}--{s['id']}.json", sources, bool(decks))
 
 
 def _thumb(out: Path, e: Dict[str, Any], s: Dict[str, Any], width: int) -> str:
@@ -201,6 +251,8 @@ def write(out: Path = OUT, root: str | Path = DATA, stamp: Dict[str, Any] | None
     data = build.build(tmp, root, stamp)
     tmp.unlink(missing_ok=True)
     lib = library(data, root, out, render)
+    # the training library beside this one (training/data/library.json): read only if built
+    add_training_links(lib, load_training(out.parent / "training" / "data" / "library.json"), store.load_sites(root)["training"])
     text = json.dumps(lib, indent=1, ensure_ascii=False)
     leaks = _leaks(_forbidden_terms(store.load(root), data, root), text)
     if leaks:

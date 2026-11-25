@@ -235,6 +235,16 @@ details.more .prose { padding-top: 12px; font-size: var(--fs-15); }
 .lesson-foot { display: flex; gap: 12px; flex-wrap: wrap; justify-content: space-between; align-items: center; border-top: 1px solid var(--line); padding-top: 20px; }
 .tags { display: flex; flex-wrap: wrap; gap: 6px; }
 
+/* Training on this topic (links into the training library) */
+.panel.cross { border-top: 1px solid var(--line); padding-top: 16px; }
+.panel.cross h2 { font-size: var(--fs-20); }
+.cross-list { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 8px; }
+.cross-list li { min-width: 0; padding: 8px 0; border-bottom: 1px solid var(--line); overflow-wrap: anywhere; }
+.cross-link { font-weight: 600; text-decoration: none; }
+a.cross-link:hover { text-decoration: underline; }
+.cross-link.plain { color: var(--ink); }
+.cross-link .where { color: var(--ink-3); font-weight: 400; }
+
 .site-footer { border-top: 1px solid var(--line); background: var(--bg); }
 .footer-inner { display: flex; gap: 8px 24px; flex-wrap: wrap; justify-content: space-between; color: var(--ink-3); font-size: var(--fs-13);
   padding-block: 14px calc(14px + env(safe-area-inset-bottom, 0px));

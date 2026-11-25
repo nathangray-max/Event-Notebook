@@ -8,6 +8,8 @@
     api                                     exports/api/v1/*.json
     team                                    the team library: team/data/library.json and the slide packs
     team-files                              the team library's files map for publishing it (team/ARTIFACT.md)
+    training                                the training library: check, then training/data/library.json and slide packs
+    training-files                          the training library's files map for publishing it (training/ARTIFACT.md)
     all                                     check, extract --all, build, api
     new-event <event-id> --name "..." [--start YYYY-MM-DD --end YYYY-MM-DD --city ... --organiser ... --url ...]
     new-session <event-id> <session-id> --title "..." [--date --start --end --format --track]
@@ -21,7 +23,7 @@ from pathlib import Path
 
 import yaml
 
-from confnotes import DATA, ROOT, api, build, extract, photos, store, team
+from confnotes import DATA, ROOT, api, build, extract, photos, store, team, training
 
 
 def _rel(path: Path) -> str:
@@ -37,7 +39,7 @@ def _dump(path: Path, data: dict) -> None:
 
 
 def cmd_check(_a) -> int:
-    probs = store.problems()
+    probs = store.problems() + training.problems()
     for p in probs:
         print(p)
     print(store.summary(store.load()))
@@ -174,6 +176,26 @@ def cmd_team_files(_a) -> int:
     return 0
 
 
+def cmd_training(_a) -> int:
+    try:
+        lib = training.write()
+    except training.TrainingProblems as exc:
+        print(exc); return 1
+    n = sum(len(c["lessons"]) for c in lib["courses"])
+    s = sum(l["slides"] for c in lib["courses"] for l in c["lessons"])
+    r = sum(len(l["related"]) for c in lib["courses"] for l in c["lessons"])
+    print(f"training library: {len(lib['courses'])} courses, {n} modules, {s} slides, {r} links to talks -> {_rel(training.OUT / 'data' / 'library.json')}")
+    if not (team.OUT / "data" / "library.json").exists():
+        print("the team library is not built, so no talks are linked: run `python -m confnotes team` first")
+    return 0
+
+
+def cmd_training_files(_a) -> int:
+    import json
+    print(json.dumps(training.files_map(), indent=1))
+    return 0
+
+
 def main(argv=None) -> int:
     p = argparse.ArgumentParser(prog="python -m confnotes", description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     sub = p.add_subparsers(dest="cmd", required=True)
@@ -186,6 +208,8 @@ def main(argv=None) -> int:
     sub.add_parser("all").set_defaults(fn=cmd_all)
     sub.add_parser("team").set_defaults(fn=cmd_team)
     sub.add_parser("team-files").set_defaults(fn=cmd_team_files)
+    sub.add_parser("training").set_defaults(fn=cmd_training)
+    sub.add_parser("training-files").set_defaults(fn=cmd_training_files)
     ne = sub.add_parser("new-event"); ne.add_argument("event"); ne.add_argument("--name", required=True)
     for f in ("short", "start", "end", "city", "country", "venue", "organiser", "url", "to-check"):
         ne.add_argument("--" + f)

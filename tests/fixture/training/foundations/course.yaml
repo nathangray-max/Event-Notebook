@@ -1,0 +1,5 @@
+id: foundations
+name: Ingredient foundations (fixture)
+short: Ingredients
+description: Invented course for the tests.
+order: 1

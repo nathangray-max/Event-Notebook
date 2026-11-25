@@ -1,0 +1,22 @@
+id: creatine-basics
+title: Creatine basics
+course: foundations
+order: 1
+owner: Invented Training Team
+version: V2
+level: high
+audience: commercial team
+minutes: 6
+categories:
+- sports
+tags:
+- science
+ingredients:
+- creatine monohydrate
+deck: creatine-basics.pdf
+source: creatine-basics.pdf
+status: draft
+reviewed_by: ''
+to_check: Invented fixture; nothing here was said by anyone.
+added: '2026-11-25'
+added_by: tests

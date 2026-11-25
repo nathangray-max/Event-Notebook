@@ -1,0 +1,21 @@
+id: botanical-basics
+title: Botanical basics
+course: foundations
+order: 2
+owner: Invented Training Team
+version: ''
+level: medium
+audience: commercial team
+minutes: 5
+categories: []
+tags:
+- science
+ingredients:
+- ashwagandha
+deck: botanical-basics.pdf
+source: botanical-basics.pdf
+status: draft
+reviewed_by: ''
+to_check: Invented fixture; nothing here was said by anyone.
+added: '2026-11-25'
+added_by: tests

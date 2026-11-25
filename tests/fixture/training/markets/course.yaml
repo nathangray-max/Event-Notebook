@@ -1,0 +1,5 @@
+id: markets
+name: Markets (fixture)
+short: Markets
+description: Invented course for the tests.
+order: 2

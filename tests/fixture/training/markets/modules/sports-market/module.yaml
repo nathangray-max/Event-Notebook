@@ -1,0 +1,21 @@
+id: sports-market
+title: The sports market
+course: markets
+order: 1
+owner: Invented Training Team
+version: H2 2026
+level: low
+audience: commercial team
+minutes: 5
+categories:
+- sports
+tags:
+- market-data
+ingredients: []
+deck: sports-market.pdf
+source: sports-market.pdf
+status: draft
+reviewed_by: ''
+to_check: Invented fixture; nothing here was said by anyone.
+added: '2026-11-25'
+added_by: tests

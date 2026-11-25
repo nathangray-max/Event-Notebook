@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Training library</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,500;6..72,600&family=Inter+Tight:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="masthead">
+  <div class="masthead-inner">
+    <a class="brand" href="#home" aria-label="Training library, home">
+      <span class="brand-name">Training library</span><span class="brand-sub">Vita Actives team</span>
+    </a>
+    <form class="search" id="search-form" role="search">
+      <label class="sr-only" for="q">Search modules</label>
+      <input id="q" type="search" placeholder="Search modules, ingredients, topics" autocomplete="off">
+    </form>
+    <a class="progress-link" href="#my-learning" id="progress-link">Completed <span id="done-count" class="count">0</span></a>
+  </div>
+  <nav class="topnav" id="topnav" aria-label="Sections"></nav>
+</header>
+<main id="app" aria-live="polite"><p class="loading">Loading the library…</p></main>
+<footer class="site-footer">
+  <div class="footer-inner">
+    <span>Vita Actives training and onboarding material. Internal: for Vita Actives staff only.</span>
+    <span id="stamp"></span>
+  </div>
+</footer>
+<script src="app.js"></script>
+</body>
+</html>

@@ -32,6 +32,11 @@ fs.cpSync(src, secret, { recursive: true });
 const sy = path.join(secret, "session.yaml");
 fs.writeFileSync(sy, fs.readFileSync(sy, "utf8").replace(/^id: .*$/m, "id: private-side-conversation").replace(/^title: .*$/m, "title: Private side conversation")
   .replace(/^format: .*$/m, "format: conversation") + "confidential: true\n");
+// a training library beside the team build (as training/data/library.json is beside team/): talks and tag pages link to it;
+// its address is blank (data/sites.yaml), so the links show as plain text naming the training library
+fs.mkdirSync(path.join(tmp, "training/data"), { recursive: true });
+fs.writeFileSync(path.join(tmp, "training/data/library.json"), JSON.stringify({ courses: [{ id: "foundations", lessons: [
+  { id: "creatine-basics", title: "Creatine basics (training)", level: "Essential", categories: ["sports"], ingredients: ["creatine"], tags: ["science"] }] }] }));
 execFileSync("python3", ["-c", `
 from pathlib import Path
 from confnotes import team
@@ -72,6 +77,7 @@ for (const width of [1280, 390]) {
   await page.waitForSelector(".hub-head h1");
   check((await page.locator(".talk").count()) === 1 && (await page.locator(".rail a[href='#cat-sports']").count()) === 1 && (await page.locator(".rail a[href='#tag-science']").count()) === 0,
     `${width}: a market lists its talk, and the sidebar lists only markets`);
+  check((await page.locator(".panel.cross li").count()) === 1, `${width}: a market's page shows training on it`);
   await page.goto(base + "#ingredients");
   await page.waitForSelector(".card");
   check((await page.locator(".card[href='#ing-creatine']").count()) === 1, `${width}: the Ingredients section lists every ingredient`);
@@ -93,6 +99,8 @@ for (const width of [1280, 390]) {
     await page.click("#prev");
   }
   check((await page.locator(".learning").count()) >= 1, `${width}: the talk shows its key learnings`);
+  check((await page.locator(".panel.cross .cross-link.plain").textContent()).startsWith("Creatine basics (training)") &&
+    (await page.locator(".panel.cross h2").textContent()) === "Training on this topic", `${width}: the talk shows training on its topic, as plain text while the training library has no address`);
   check(await page.evaluate(() => document.getElementById("stage").getBoundingClientRect().right <= window.innerWidth), `${width}: the slide fits the screen`);
   check((await page.locator("#thumbs button").count()) >= 1 && (await page.locator("#scrub button").count()) >= 1, `${width}: the deck shows thumbnails and progress`);
   const who = page.locator(".byline a.person").first();
