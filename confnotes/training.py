@@ -2,7 +2,15 @@
 
     load(root)       -> the courses (data/training/<course>/course.yaml), each with its modules (module.yaml + summary.md)
     problems(root)   -> what breaks the spec; [] when clean (`python -m confnotes check` runs it too)
-    write(...)       -> training/data/library.json and the slide packs in training/build/slides/<course>--<module>.json
+    write(...)       -> training/data/library.json and the slide packs in training/build/slides/<course>--<module>.json,
+                        plus the narration clips converted to small mono AAC in training/build/audio/<course>--<module>/
+    summary(root)    -> one line: modules, steps, narration sections written and missing, clips
+
+Narration (docs/training.md, "Narration and video slides"): each module may carry narration.md (`## Slide N` and
+`## Video after slide N` sections, a `Source:` line, then the script), `videos` in module.yaml (YouTube links shown as
+their own step after slide N, thumbnail in files/youtube-<id>.jpg) and audio/ (one clip per step, slide-NN.<ext> or
+video-after-NN.<ext>). Each lesson gets `sequence`: its steps in order, each {kind, slide, script, source, audio, video};
+a video step's thumbnail goes into the slide pack (`videos`: {id: data URI}), never into library.json.
 
 The library has the team library's shape (courses -> lessons, people, facets) so the same front end runs it; each module
 also carries its quiz, minutes, version, owner and `related`: the team library's talks on the same tags, read from
@@ -10,8 +18,12 @@ team/data/library.json (the team build's output), never from session files.
 """
 from __future__ import annotations
 
+import base64
+import hashlib
+import io
 import json
 import re
+import shutil
 import subprocess
 from pathlib import Path
 from typing import Any, Dict, List
@@ -39,6 +51,19 @@ SLIDE = re.compile(r"\(slides? (\d+)[^)]*\)")  # (slide 7), (slides 3-5), (slide
 EMAIL = re.compile(r"[\w.+-]+@[\w-]+\.[\w.-]+")
 PHONE = re.compile(r"(?<![\w-])(?:\+\d{1,3}[ -]?(?:\(0\)[ -]?)?|0)\d{2,5}[ -]?\d{3,4}[ -]?\d{3,4}(?![\w-])")  # +44 20 7946 0000, 020 7946 0000
 WHEY = re.compile(r"\bwhey\b", re.I)
+# narration and video steps
+OPTIONAL_KEYS = ["videos"]
+INTERNAL = {"_path", "summary_md", "headings", "sections", "pages", "narration", "clips"}
+NARR_SOURCES = {"speaker notes", "draft"}
+NARR_HEAD = re.compile(r"^## (?:Slide (\d+)|Video after slide (\d+))\s*$")
+VIDEO_KEYS = ["after", "url", "id", "title", "channel"]
+VIDEO_REQUIRED = ["after", "url", "id", "title"]
+YT_ID = re.compile(r"^[A-Za-z0-9_-]{6,20}$")
+YT_URL = re.compile(r"^https://(?:www\.|m\.)?(?:youtube\.com/|youtu\.be/)")
+AUDIO_EXT = {".m4a", ".mp3", ".wav", ".aac", ".ogg", ".oga", ".opus", ".webm", ".flac", ".aif", ".aiff", ".caf", ".mp4", ".wma", ".amr"}
+CLIP = re.compile(r"^(slide|video-after)-(\d+)$")
+AUDIO_SETTINGS = "aac/mono/48k/v1"         # part of the cache key: change it to re-encode every clip
+VIDEO_THUMB_WIDTH = 640
 
 
 # ---------- loading ----------
@@ -101,7 +126,93 @@ def load_module(folder: Path) -> Dict[str, Any]:
     m["sections"] = store.split_sections(md) if md else {}
     deck = module_file(folder, m.get("deck"))
     m["pages"] = deck_pages(deck) if m.get("deck") and deck.is_file() else 0
+    nf = folder / "narration.md"
+    m["narration"] = parse_narration(nf.read_text(encoding="utf-8")) if nf.exists() else None
+    m["clips"] = clips(folder)
     return m
+
+
+def parse_narration(text: str) -> Dict[str, Any]:
+    """narration.md -> {"sections": [{key: ("slide"|"video", N), heading, source, script}], "unknown": [headings]}.
+    `source` is None when the section has no `Source:` line; the script is the rest, paragraphs kept, lines joined."""
+    sections: List[Dict[str, Any]] = []
+    unknown: List[str] = []
+    cur: Dict[str, Any] | None = None
+    body: List[str] = []
+
+    def close() -> None:
+        if cur is None:
+            return
+        lines = list(body)
+        while lines and not lines[0].strip():
+            lines.pop(0)
+        if lines and re.match(r"^\s*Source:", lines[0], re.I):
+            cur["source"] = lines.pop(0).split(":", 1)[1].strip()
+        paras = [" ".join(l.strip() for l in p.splitlines() if l.strip()) for p in re.split(r"\n\s*\n", "\n".join(lines))]
+        cur["script"] = "\n\n".join(p for p in paras if p)
+        sections.append(cur)
+
+    for line in text.splitlines():
+        if line.startswith("## "):
+            close()
+            h = NARR_HEAD.match(line.rstrip())
+            if h:
+                cur = {"key": ("slide", int(h.group(1))) if h.group(1) else ("video", int(h.group(2))),
+                       "heading": line[3:].strip(), "source": None, "script": ""}
+            else:
+                cur = None
+                unknown.append(line[3:].strip())
+            body = []
+        elif cur is not None:
+            body.append(line)
+    close()
+    return {"sections": sections, "unknown": unknown}
+
+
+def clips(folder: Path) -> Dict[str, Any]:
+    """The recordings in the module's audio/ folder: {"by_key": {("slide"|"video", N): path}, "bad": [names], "dupes": [names]}."""
+    out: Dict[str, Any] = {"by_key": {}, "bad": [], "dupes": []}
+    a = folder / "audio"
+    if not a.is_dir():
+        return out
+    for p in sorted(a.iterdir()):
+        if p.name.startswith(".") or not p.is_file():
+            continue
+        m = CLIP.match(p.stem)
+        if not m or p.suffix.lower() not in AUDIO_EXT:
+            out["bad"].append(p.name)
+            continue
+        k = ("slide" if m.group(1) == "slide" else "video", int(m.group(2)))
+        if k in out["by_key"]:
+            out["dupes"].append(p.name)
+        else:
+            out["by_key"][k] = p
+    return out
+
+
+def videos(m: Dict[str, Any]) -> List[Dict[str, Any]]:
+    """The module's well-formed video entries (the checks report the rest)."""
+    v = m.get("videos") or []
+    return [x for x in v if isinstance(x, dict) and isinstance(x.get("after"), int)] if isinstance(v, list) else []
+
+
+def expected_steps(m: Dict[str, Any]) -> List[tuple]:
+    """The step keys in order: ("slide", N) for each page, ("video", N) right after slide N when a video follows it."""
+    after = {v["after"] for v in videos(m)}
+    keys: List[tuple] = []
+    for n in range(1, (m.get("pages") or 0) + 1):
+        keys.append(("slide", n))
+        if n in after:
+            keys.append(("video", n))
+    return keys
+
+
+def _key_name(k: tuple) -> str:
+    return f"Slide {k[1]}" if k[0] == "slide" else f"Video after slide {k[1]}"
+
+
+def _clip_name(k: tuple) -> str:
+    return f"{'slide' if k[0] == 'slide' else 'video-after'}-{k[1]:02d}.m4a"
 
 
 def load(root: str | Path = DATA) -> List[Dict[str, Any]]:
@@ -144,7 +255,7 @@ def module_problems(m: Dict[str, Any], course: str, facets: Dict[str, Any]) -> L
     for k in MODULE_KEYS:
         if k not in m:
             out.append(f"{where}/module.yaml: key '{k}' is missing")
-    for k in set(m) - set(MODULE_KEYS) - {"_path", "summary_md", "headings", "sections", "pages"}:
+    for k in set(m) - set(MODULE_KEYS) - set(OPTIONAL_KEYS) - INTERNAL:
         out.append(f"{where}/module.yaml: unknown key '{k}'")
     for k in REQUIRED:
         if k in m and m[k] in (None, "", []):
@@ -185,6 +296,8 @@ def module_problems(m: Dict[str, Any], course: str, facets: Dict[str, Any]) -> L
     for k in TEXT_KEYS:
         if k not in ("deck", "source") and isinstance(m.get(k), str) and (EMAIL.search(m[k]) or PHONE.search(m[k])):
             out.append(f"{where}/module.yaml: {k} carries an email address or phone number")
+
+    out.extend(narration_problems(m, where))
 
     # summary.md
     sw = f"{where}/summary.md"
@@ -240,6 +353,102 @@ def module_problems(m: Dict[str, Any], course: str, facets: Dict[str, Any]) -> L
     if EMAIL.search(sec.get("Detail", "")):
         out.append(f"{sw}: Detail carries an email address")
     return out
+
+
+def narration_problems(m: Dict[str, Any], where: str) -> List[str]:
+    """videos in module.yaml, narration.md and the audio/ clips. Sections not yet written are not problems (summary())."""
+    folder, pages, out = Path(m["_path"]), m.get("pages") or 0, []
+    yw = f"{where}/module.yaml"
+    vs = m.get("videos")
+    if vs is not None and not isinstance(vs, list):
+        out.append(f"{yw}: videos must be a list of {{after, url, id, title, channel}}")
+        vs = []
+    seen_after: Dict[int, str] = {}
+    for i, v in enumerate(vs or [], 1):
+        vw = f"{yw}: video {i}"
+        if not isinstance(v, dict):
+            out.append(f"{vw} must be a mapping of {', '.join(VIDEO_KEYS)}"); continue
+        for k in VIDEO_REQUIRED:
+            if v.get(k) in (None, ""):
+                out.append(f"{vw}: {k} is blank")
+        for k in set(v) - set(VIDEO_KEYS):
+            out.append(f"{vw}: unknown key '{k}'")
+        a = v.get("after")
+        if a is not None and (not isinstance(a, int) or isinstance(a, bool) or (pages and not 1 <= a <= pages)):
+            out.append(f"{vw}: after {a!r} must be a slide number from 1 to {pages}")
+        elif isinstance(a, int):
+            if a in seen_after:
+                out.append(f"{vw}: a video already follows slide {a} (one per slide)")
+            seen_after[a] = str(v.get("id"))
+        for k in ("url", "id", "title", "channel"):
+            if v.get(k) is not None and not isinstance(v[k], str):
+                out.append(f"{vw}: {k} must be text (quote it)")
+        vid, url = str(v.get("id") or ""), str(v.get("url") or "")
+        if vid and not YT_ID.match(vid):
+            out.append(f"{vw}: id '{vid}' is not a YouTube video id")
+        if url and (not YT_URL.match(url) or (vid and vid not in url)):
+            out.append(f"{vw}: url '{url}' must be a YouTube link to video '{vid}'")
+        if vid and YT_ID.match(vid) and not (folder / "files" / f"youtube-{vid}.jpg").is_file():
+            out.append(f"{vw}: the thumbnail files/youtube-{vid}.jpg is missing")
+
+    nw = f"{where}/narration.md"
+    n = m.get("narration")
+    if n is not None:
+        for h in n["unknown"]:
+            out.append(f"{nw}: unknown heading '## {h}' (use '## Slide N' or '## Video after slide N')")
+        keys = set()
+        for s in n["sections"]:
+            k, sw = s["key"], f"{nw} ({s['heading']})"
+            if k in keys:
+                out.append(f"{sw}: repeated")
+            keys.add(k)
+            if k[0] == "slide" and pages and not 1 <= k[1] <= pages:
+                out.append(f"{sw}: the deck has {pages} pages")
+            if k[0] == "video" and k[1] not in seen_after:
+                out.append(f"{sw}: no video follows slide {k[1]} in module.yaml videos")
+            if s["source"] is None:
+                out.append(f"{sw}: the 'Source: speaker notes' or 'Source: draft' line is missing")
+            elif s["source"].lower() not in NARR_SOURCES:
+                out.append(f"{sw}: Source '{s['source']}' must be 'speaker notes' or 'draft'")
+            if not s["script"]:
+                out.append(f"{sw}: the script is blank")
+            if SLIDE.search(s["script"]):
+                out.append(f"{sw}: a script is spoken; it carries no cites")
+            if EMAIL.search(s["script"]) or PHONE.search(s["script"]):
+                out.append(f"{sw}: the script carries an email address or phone number")
+            if (s["source"] or "").lower() == "draft" and WHEY.search(s["script"]):
+                out.append(f"{sw}: a draft script names whey; our own text never does")
+
+    aw = f"{where}/audio"
+    c = m.get("clips") or {"by_key": {}, "bad": [], "dupes": []}
+    for name in c["bad"]:
+        out.append(f"{aw}/{name}: name a clip slide-NN.<ext> or video-after-NN.<ext> (an audio format such as m4a, mp3, wav)")
+    for name in c["dupes"]:
+        out.append(f"{aw}/{name}: a second clip for the same step")
+    expected = set(expected_steps(m))
+    for k, p in sorted(c["by_key"].items()):
+        if pages and k not in expected:
+            out.append(f"{aw}/{p.name}: no such step ({_key_name(k)})")
+    return out
+
+
+def summary(root: str | Path = DATA) -> str:
+    """One line for `check`: modules, steps, narration written and missing (missing is not a problem), clips."""
+    try:
+        courses = load(root)
+    except (ValueError, yaml.YAMLError):
+        return "training: cannot be read"
+    mods = [m for c in courses for m in c["modules"]]
+    steps = written = recorded = 0
+    for m in mods:
+        keys = expected_steps(m)
+        have = {s["key"] for s in (m.get("narration") or {}).get("sections", [])}
+        steps += len(keys)
+        written += sum(1 for k in keys if k in have)
+        recorded += sum(1 for k in keys if k in (m.get("clips") or {}).get("by_key", {}))
+    vids = sum(len(videos(m)) for m in mods)
+    return (f"training: {len(mods)} modules, {steps} steps ({vids} videos), narration for {written} "
+            f"({steps - written} not yet written), {recorded} recorded")
 
 
 def problems(root: str | Path = DATA) -> List[str]:
@@ -298,7 +507,83 @@ def _lesson(c: Dict[str, Any], m: Dict[str, Any], facets: Dict[str, Any], slides
         "key_slides": ks, "quiz": quiz(sec.get("Check your understanding", "")),
         "slides": slides, "slide_source": "deck" if slides else None, "deck_names": [Path(str(m["deck"])).name] if m.get("deck") else [],
         "status": m.get("status") or "draft",
+        "sequence": [],
     }
+
+
+def sequence(m: Dict[str, Any], audio: Dict[tuple, str]) -> List[Dict[str, Any]]:
+    """The module's steps in order: each slide, with any video step right after its slide.
+    audio maps a step key to its published clip path ('' or missing: no recording)."""
+    text = {s["key"]: s for s in (m.get("narration") or {}).get("sections", [])}
+    vids = {v["after"]: v for v in videos(m)}
+    out = []
+    for k in expected_steps(m):
+        s = text.get(k) or {}
+        v = vids.get(k[1]) if k[0] == "video" else None
+        out.append({"kind": k[0], "slide": k[1], "script": s.get("script", ""), "source": (s.get("source") or "").lower(),
+                    "audio": audio.get(k, ""),
+                    "video": {"id": v["id"], "url": v["url"], "title": v["title"], "channel": v.get("channel") or "", "thumb": v["id"]} if v else None})
+    return out
+
+
+def build_audio(m: Dict[str, Any], dest: Path, published: str) -> Dict[tuple, str]:
+    """Convert the module's clips to mono AAC ~48 kbps .m4a in dest (cached by the source's hash; stale files removed).
+    Returns {step key: published path} for the steps that exist."""
+    by_key = {k: p for k, p in (m.get("clips") or {}).get("by_key", {}).items() if k in set(expected_steps(m))}
+    if not by_key:
+        if dest.is_dir():
+            shutil.rmtree(dest)
+        return {}
+    if not shutil.which("ffmpeg"):
+        raise TrainingProblems("ffmpeg is needed to convert the narration clips (apt-get install ffmpeg / brew install ffmpeg)")
+    dest.mkdir(parents=True, exist_ok=True)
+    cache_file = dest / "hashes.json"
+    try:
+        cache = json.loads(cache_file.read_text(encoding="utf-8"))
+    except (OSError, ValueError):
+        cache = {}
+    new_cache, out = {}, {}
+    for k, src in sorted(by_key.items()):
+        name = _clip_name(k)
+        h = hashlib.sha256(src.read_bytes() + AUDIO_SETTINGS.encode()).hexdigest()[:16]
+        target = dest / name
+        if not (cache.get(name) == h and target.is_file()):
+            tmp = dest / (name + ".part.m4a")
+            r = subprocess.run(["ffmpeg", "-nostdin", "-v", "error", "-y", "-i", str(src), "-vn", "-map_metadata", "-1", "-ac", "1",
+                                "-c:a", "aac", "-b:a", "48k", "-movflags", "+faststart", str(tmp)], capture_output=True, text=True)
+            if r.returncode != 0:
+                tmp.unlink(missing_ok=True)
+                raise TrainingProblems(f"{src}: ffmpeg could not convert it: {r.stderr.strip()[:300]}")
+            tmp.replace(target)
+        new_cache[name] = h
+        out[k] = f"{published}/{name}"
+    for p in dest.iterdir():
+        if p.name != "hashes.json" and p.name not in new_cache:
+            p.unlink()
+    cache_file.write_text(json.dumps(new_cache, indent=1) + "\n", encoding="utf-8")
+    return out
+
+
+def _video_thumbs(pack: Path, folder: Path, m: Dict[str, Any]) -> None:
+    """Add the video steps' thumbnails to the slide pack as data URIs ({"videos": {id: uri}}), rewriting only on change."""
+    from PIL import Image
+    if not pack.exists():
+        return
+    d = json.loads(pack.read_text(encoding="utf-8"))
+    want: Dict[str, str] = {}
+    for v in videos(m):
+        f = folder / "files" / f"youtube-{v['id']}.jpg"
+        if not f.is_file():
+            continue
+        img = Image.open(f).convert("RGB")
+        if img.width > VIDEO_THUMB_WIDTH:
+            img = img.resize((VIDEO_THUMB_WIDTH, round(img.height * VIDEO_THUMB_WIDTH / img.width)), Image.LANCZOS)
+        buf = io.BytesIO()
+        img.save(buf, "WEBP", quality=70)
+        want[v["id"]] = "data:image/webp;base64," + base64.b64encode(buf.getvalue()).decode()
+    if d.get("videos", {}) != want:
+        d["videos"] = want
+        pack.write_text(json.dumps(d), encoding="utf-8")
 
 
 def related(lesson: Dict[str, Any], talks: List[Dict[str, Any]], url: str, most: int = RELATED_MAX) -> List[Dict[str, Any]]:
@@ -330,7 +615,11 @@ def library(courses: List[Dict[str, Any]], root: Path, out: Path, stamp: Dict[st
             deck = module_file(Path(m["_path"]), m["deck"])
             pack = out / "build" / "slides" / f"{c['id']}--{m['id']}.json"
             n = team.slide_pack(pack, [deck], True) if render else 0
+            if render:
+                _video_thumbs(pack, Path(m["_path"]), m)
+            name = f"{c['id']}--{m['id']}"
             l = _lesson(c, m, facets, n)
+            l["sequence"] = sequence(m, build_audio(m, out / "build" / "audio" / name, f"audio/{name}"))
             l["related"] = related(l, talks, url)
             l["thumb"] = team._thumb(out, {"id": c["id"]}, {"id": m["id"]}, 360) if n else ""
             lessons.append(l)
@@ -361,18 +650,27 @@ def write(out: Path = OUT, root: str | Path = DATA, stamp: Dict[str, Any] | None
         for p in packs.glob("*.json"):
             if p.name not in keep:
                 p.unlink()
+    audio = out / "build" / "audio"
+    if audio.is_dir():
+        for p in audio.iterdir():
+            if p.is_dir() and f"{p.name}.json" not in keep:
+                shutil.rmtree(p)
     (out / "data").mkdir(parents=True, exist_ok=True)
     (out / "data" / "library.json").write_text(json.dumps(lib, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
     return lib
 
 
-def files_map(out: Path = OUT) -> Dict[str, str]:
-    """Published path -> local file, for publishing the training site (training/ARTIFACT.md)."""
-    m = {"app.js": str(out / "app.js"), "styles.css": str(out / "styles.css"), "data/library.json": str(out / "data" / "library.json")}
+def files_map(out: Path = OUT) -> Dict[str, Any]:
+    """Published path -> local file, for publishing the training site (training/ARTIFACT.md). Narration clips are
+    published under audio/<course>--<module>/ as {"from": file, "contentType": "audio/mp4"}."""
+    m: Dict[str, Any] = {"app.js": str(out / "app.js"), "styles.css": str(out / "styles.css"), "data/library.json": str(out / "data" / "library.json")}
     lib = json.loads((out / "data" / "library.json").read_text(encoding="utf-8"))
     for c in lib["courses"]:
         for l in c["lessons"]:
             if l["slides"]:
                 name = f"{c['id']}--{l['id']}.json"
                 m[f"slides/{name}"] = str(out / "build" / "slides" / name)
+            for s in l.get("sequence") or []:
+                if s.get("audio"):
+                    m[s["audio"]] = {"from": str(out / "build" / s["audio"]), "contentType": "audio/mp4"}
     return m

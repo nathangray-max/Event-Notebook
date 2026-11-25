@@ -165,6 +165,15 @@
   }
 
   // ---------- a module ----------
+  // the steps of a module's deck: each slide, with any YouTube video as its own step after its slide (library.json `sequence`)
+  function steps(l) {
+    if (l.sequence && l.sequence.length) return l.sequence;
+    return Array.apply(null, Array(l.slides || 0)).map(function (_, j) { return { kind: "slide", slide: j + 1, script: "", source: "", audio: "", video: null }; });
+  }
+  function stepName(s, l) { return s ? (s.kind === "video" ? "Video after slide " + s.slide : "Slide " + s.slide + " of " + l.slides) : ""; }
+  var captionsOn = load("tl-captions", true) !== false;
+  var reduceMotion = function () { try { return window.matchMedia("(prefers-reduced-motion: reduce)").matches; } catch (e) { return false; } };
+  var stopNarration = function () {};  // set by the open module; route() calls it so a clip never plays on another page
   function related(l) {
     var c = COURSE[l.course], i = c.lessons.indexOf(l), next = c.lessons[i + 1] || null;
     var scored = LESSONS.filter(function (x) { return x !== l && x !== next; }).map(function (x) {
@@ -195,11 +204,20 @@
   }
   function lesson(l) {
     var c = COURSE[l.course], i = c.lessons.indexOf(l), next = c.lessons[i + 1];
+    var st = steps(l);
     var deck = '<section class="deck" id="deck" aria-label="Slides"><div class="deck-inner"><div class="stage" id="stage">' +
-      (l.slides ? '<p class="msg">Loading slides…</p><button type="button" class="nav prev" id="prev" aria-label="Previous slide">‹</button><button type="button" class="nav next" id="next" aria-label="Next slide">›</button>'
+      (l.slides ? '<p class="msg">Loading slides…</p><button type="button" class="nav prev" id="prev" aria-label="Previous step">‹</button><button type="button" class="nav next" id="next" aria-label="Next step">›</button>'
                 : exploreHtml(l, true)) + "</div>" +
-      (l.slides ? '<div class="scrub" id="scrub">' + Array.apply(null, Array(l.slides)).map(function (_, j) { return '<button type="button" aria-label="Slide ' + (j + 1) + '"></button>'; }).join("") + "</div>" +
-        '<div class="deck-bar"><span><b id="counter">Slide 1 of ' + l.slides + '</b> · <span id="seen"></span></span><span class="grow"></span><span>The training deck</span>' +
+      (l.slides ? '<div class="scrub" id="scrub">' + st.map(function (s, j) {
+          return '<button type="button" class="' + (s.kind === "video" ? "is-video" : "") + '" aria-label="' + esc(stepName(s, l)) + '"></button>'; }).join("") + "</div>" +
+        '<div class="player" id="player" role="group" aria-label="Narration">' +
+          '<button type="button" class="play" id="play" aria-pressed="false"><span class="ico" aria-hidden="true">▶</span><span class="lbl">Play</span></button>' +
+          '<button type="button" id="p-prev" aria-label="Previous step">‹ Prev</button><button type="button" id="p-next" aria-label="Next step">Next ›</button>' +
+          '<span class="status" id="status" aria-live="polite"></span><span class="grow"></span>' +
+          '<label class="toggle"><input type="checkbox" id="auto" checked> Auto-advance</label>' +
+          '<button type="button" id="cc" aria-controls="captions" aria-pressed="' + captionsOn + '">Captions</button></div>' +
+        '<div class="captions" id="captions"' + (captionsOn ? "" : " hidden") + '></div><audio id="narration" preload="none"></audio>' +
+        '<div class="deck-bar"><span><b id="counter">' + esc(stepName(st[0], l)) + '</b> · <span id="seen"></span></span><span class="grow"></span><span>The training deck</span>' +
         '<button type="button" id="full">Full screen</button></div><div class="thumbs" id="thumbs"></div>' : "") +
       "</div></section>";
     var learn = l.takeaways.map(function (t, j) {
@@ -239,38 +257,129 @@
     document.getElementById("mark").onclick = function () { setDone(l, !isDone(l)); route(); };
     bindQuiz();
     if (!l.slides) return;
-    var stage = document.getElementById("stage"), slides = [], at = 0, img = document.createElement("img");
+    var st = steps(l), stage = document.getElementById("stage"), slides = [], vthumbs = {}, at = 0;
+    var img = document.createElement("img"), view = null;
+    var audio = document.getElementById("narration"), playBtn = document.getElementById("play"), status = document.getElementById("status");
+    var auto = document.getElementById("auto"), captions = document.getElementById("captions"), cc = document.getElementById("cc");
+    var deckEl = document.getElementById("deck"), counter = document.getElementById("counter");  // kept: media events can fire after the page changes
+    var running = false;  // the viewer pressed Play (and not Pause): each step's clip starts when the step opens
     var scrub = [].slice.call(document.querySelectorAll("#scrub button"));
+    stopNarration = function () { running = false; try { audio.pause(); } catch (e) { /* gone */ } };
     function paintSeen() {
       var n = seenCount(l);
-      scrub.forEach(function (b, j) { b.classList.toggle("seen", j < n); });
+      scrub.forEach(function (b, j) { b.classList.toggle("seen", st[j].slide <= n && (st[j].kind === "slide" || st[j].slide < n)); });
       document.getElementById("seen").textContent = n >= l.slides ? "whole deck seen" : n + " of " + l.slides + " seen";
     }
     function closeExplore() { var e = document.getElementById("explore"); if (e) e.remove(); }
-    function show(i) {
+    function fmt(s) { s = Math.max(0, Math.floor(s || 0)); return Math.floor(s / 60) + ":" + ("0" + (s % 60)).slice(-2); }
+    function paintPlayer() {
+      var s = st[at], on = running && !audio.paused;
+      playBtn.setAttribute("aria-pressed", String(running));
+      playBtn.querySelector(".ico").textContent = running ? "❚❚" : "▶";
+      playBtn.querySelector(".lbl").textContent = running ? "Pause" : "Play";
+      playBtn.setAttribute("aria-label", running ? "Pause narration" : "Play narration");
+      var msg;
+      if (!s.audio) msg = "No recording yet" + (running ? ": press Next to carry on" : "");
+      else if (on) msg = fmt(audio.currentTime) + " / " + fmt(audio.duration);
+      else if (s.kind === "video" && running && audio.ended) msg = "Watch the video, then press Next";
+      else msg = audio.currentTime && audio.src.indexOf(s.audio) >= 0 ? "Paused at " + fmt(audio.currentTime) : "Narrated";
+      status.textContent = msg;
+      deckEl.setAttribute("data-playing", String(on));
+    }
+    function paintCaptions() {
+      var s = st[at], text = s.script || "";
+      captions.innerHTML = (text ? text.split(/\n\s*\n/).map(function (p) { return "<p>" + esc(p) + "</p>"; }).join("") : '<p class="none">No narration for this step yet.</p>') +
+        (s.audio ? "" : '<span class="norec">No recording yet</span>') + (s.source === "draft" ? '<span class="src">Draft script, not yet reviewed</span>' : "");
+    }
+    function startClip() {
+      var s = st[at];
+      if (!s.audio) { paintPlayer(); return; }
+      if (audio.getAttribute("src") !== s.audio) { audio.setAttribute("src", s.audio); audio.load(); }
+      var p = audio.play();
+      if (p && p.catch) p.catch(function () { running = false; paintPlayer(); });
+      paintPlayer();
+    }
+    function paintStage(s) {
+      if (view) view.remove();
+      stage.classList.toggle("is-video", s.kind === "video");
+      if (s.kind === "slide") {
+        img.src = slides[s.slide - 1]; img.alt = "Slide " + s.slide + " of " + l.slides + ": " + l.title; view = img;
+      } else {
+        var v = s.video || {}, th = vthumbs[v.thumb || v.id];
+        var d = document.createElement("div");
+        d.className = "video-step";
+        d.innerHTML = '<a class="video-thumb" href="' + esc(v.url) + '" target="_blank" rel="noopener" aria-label="Watch ' + esc(v.title) + ' on YouTube (opens in a new tab)">' +
+          (th ? '<img alt="" src="' + th + '">' : "") + '<span class="play-badge" aria-hidden="true">▶</span></a>' +
+          '<div class="video-meta"><span class="kicker">Video</span><b class="video-title">' + esc(v.title) + "</b>" + (v.channel ? '<span class="channel">' + esc(v.channel) + "</span>" : "") +
+          '<a class="watch" href="' + esc(v.url) + '" target="_blank" rel="noopener">Watch on YouTube</a>' +
+          '<p class="note">Opens in a new tab. The narration waits here: press Next when you are back.</p></div>';
+        [].forEach.call(d.querySelectorAll("a"), function (a) { a.addEventListener("click", function () { try { audio.pause(); } catch (e) { /* */ } paintPlayer(); }); });
+        view = d;
+      }
+      stage.insertBefore(view, stage.firstChild);
+    }
+    function show(i, keepAudio) {
       if (!slides.length) return;
       closeExplore();
-      at = Math.max(0, Math.min(slides.length - 1, i));
-      img.src = slides[at]; img.alt = "Slide " + (at + 1) + " of " + slides.length + ": " + l.title;
-      document.getElementById("counter").textContent = "Slide " + (at + 1) + " of " + slides.length;
-      markSeen(l, at + 1); paintSeen();
+      var was = at;
+      at = Math.max(0, Math.min(st.length - 1, i));
+      var s = st[at];
+      paintStage(s);
+      counter.textContent = stepName(s, l);
+      if (s.kind === "slide") markSeen(l, s.slide);
+      paintSeen();
       scrub.forEach(function (b, j) { b.setAttribute("aria-current", j === at ? "true" : "false"); });
       [].forEach.call(document.querySelectorAll("#thumbs button"), function (b, j) { b.setAttribute("aria-current", j === at ? "true" : "false"); if (j === at) b.scrollIntoView({ block: "nearest", inline: "nearest" }); });
-      [].forEach.call(document.querySelectorAll(".learning[data-slide]"), function (b) { b.classList.toggle("on", +b.getAttribute("data-slide") === at + 1); });
+      [].forEach.call(document.querySelectorAll(".learning[data-slide]"), function (b) { b.classList.toggle("on", s.kind === "slide" && +b.getAttribute("data-slide") === s.slide); });
+      paintCaptions();
+      if (!keepAudio || was !== at) {
+        try { audio.pause(); } catch (e) { /* */ }
+        if (audio.getAttribute("src") && audio.getAttribute("src") !== s.audio) { audio.removeAttribute("src"); audio.load(); }
+        else if (s.audio) { try { audio.currentTime = 0; } catch (e) { /* not loaded */ } }
+        if (running) startClip();
+      }
+      paintPlayer();
     }
     function explore() {
       closeExplore();
+      stopNarration(); paintPlayer();
       if (!isDone(l)) setDone(l, true);
       stage.insertAdjacentHTML("beforeend", exploreHtml(l, false));
       document.getElementById("replay").onclick = function () { show(0); };
       var mark = document.getElementById("mark"); mark.className = "btn btn-done"; mark.textContent = "✓ Completed";
     }
-    function forward() { if (document.getElementById("explore")) return; if (at >= slides.length - 1) explore(); else show(at + 1); }
-    function jump(n) {
-      show(n - 1);
-      if (window.matchMedia("(max-width: 1000px)").matches) document.getElementById("deck").scrollIntoView({ behavior: "smooth", block: "start" });
+    function forward() { if (document.getElementById("explore")) return; if (at >= st.length - 1) explore(); else show(at + 1); }
+    function back() { show(at - 1); }
+    function toggle() {
+      if (document.getElementById("explore")) return;
+      running = !running;
+      if (running) startClip(); else { try { audio.pause(); } catch (e) { /* */ } }
+      paintPlayer();
     }
-    document.getElementById("prev").onclick = function () { show(at - 1); };
+    function jump(n) {
+      var j = -1;
+      st.forEach(function (s, k) { if (j < 0 && s.kind === "slide" && s.slide === n) j = k; });
+      show(j < 0 ? 0 : j);
+      if (window.matchMedia("(max-width: 1000px)").matches) document.getElementById("deck").scrollIntoView({ behavior: reduceMotion() ? "auto" : "smooth", block: "start" });
+    }
+    audio.addEventListener("ended", function () {
+      var s = st[at];
+      if (!deckEl.isConnected) return;
+      paintPlayer();
+      // a video step waits for Next; a slide moves on when Auto-advance is on (and playback carries on)
+      if (running && s.kind === "slide" && auto.checked) forward();
+    });
+    ["play", "pause", "timeupdate", "loadedmetadata"].forEach(function (ev) { audio.addEventListener(ev, paintPlayer); });
+    audio.addEventListener("error", function () { if (audio.getAttribute("src")) status.textContent = "The recording could not be played"; });
+    playBtn.onclick = toggle;
+    document.getElementById("prev").onclick = back;
+    document.getElementById("next").onclick = forward;
+    document.getElementById("p-prev").onclick = back;
+    document.getElementById("p-next").onclick = forward;
+    cc.onclick = function () {
+      captionsOn = !captionsOn; save("tl-captions", captionsOn);
+      captions.hidden = !captionsOn; cc.setAttribute("aria-pressed", String(captionsOn));
+    };
     // swipe left or right on the slide to page through on a phone or tablet
     var touchX = null, touchY = null;
     stage.addEventListener("touchstart", function (ev) { if (ev.touches.length === 1) { touchX = ev.touches[0].clientX; touchY = ev.touches[0].clientY; } }, { passive: true });
@@ -278,9 +387,8 @@
       if (touchX === null) return;
       var dx = ev.changedTouches[0].clientX - touchX, dy = ev.changedTouches[0].clientY - touchY;
       touchX = null;
-      if (Math.abs(dx) > 45 && Math.abs(dx) > Math.abs(dy) * 1.5) { if (dx < 0) forward(); else show(at - 1); }
+      if (Math.abs(dx) > 45 && Math.abs(dx) > Math.abs(dy) * 1.5) { if (dx < 0) forward(); else back(); }
     }, { passive: true });
-    document.getElementById("next").onclick = forward;
     scrub.forEach(function (b, j) { b.onclick = function () { show(j); }; });
     document.getElementById("full").onclick = function () {
       var d = document.getElementById("deck");
@@ -291,14 +399,21 @@
       if (b && !b.closest("#scrub")) jump(+b.getAttribute("data-slide"));
     };
     document.onkeydown = function (ev) {
-      if (/INPUT|TEXTAREA|SELECT/.test((ev.target || {}).tagName || "")) return;
-      if (ev.key === "ArrowRight") forward(); else if (ev.key === "ArrowLeft") show(at - 1);
+      var tag = (ev.target || {}).tagName || "";
+      if (/INPUT|TEXTAREA|SELECT/.test(tag) || ev.altKey || ev.ctrlKey || ev.metaKey) return;
+      if (ev.key === "ArrowRight") forward();
+      else if (ev.key === "ArrowLeft") back();
+      else if ((ev.key === " " || ev.key === "Spacebar") && !/BUTTON|A|SUMMARY/.test(tag)) { ev.preventDefault(); toggle(); }
     };
     paintSeen();
     fetch("slides/" + key(l) + ".json").then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); }).then(function (d) {
-      slides = d.slides || [];
-      stage.querySelector(".msg").remove(); stage.insertBefore(img, stage.firstChild);
-      document.getElementById("thumbs").innerHTML = slides.map(function (s, j) { return '<button type="button" aria-label="Slide ' + (j + 1) + '"><img alt="" loading="lazy" src="' + s + '"></button>'; }).join("");
+      slides = d.slides || []; vthumbs = d.videos || {};
+      stage.querySelector(".msg").remove();
+      document.getElementById("thumbs").innerHTML = st.map(function (s, j) {
+        var src = s.kind === "video" ? vthumbs[(s.video || {}).thumb || (s.video || {}).id] : slides[s.slide - 1];
+        return '<button type="button" class="' + (s.kind === "video" ? "is-video" : "") + '" aria-label="' + esc(stepName(s, l)) + '">' + (src ? '<img alt="" loading="lazy" src="' + src + '">' : "") +
+          (s.kind === "video" ? '<span class="play-badge" aria-hidden="true">▶</span>' : "") + "</button>";
+      }).join("");
       [].forEach.call(document.querySelectorAll("#thumbs button"), function (b, j) { b.onclick = function () { show(j); }; });
       show(0);
     }).catch(function () { var m = stage.querySelector(".msg"); if (m) m.textContent = "The slides could not be loaded. Reload the page to try again."; });
@@ -308,6 +423,7 @@
   function route() {
     var h = decodeURIComponent((location.hash || "#home").slice(1)) || "home", html, l = BY_KEY[h];
     document.onkeydown = null; app.onclick = null;
+    stopNarration(); stopNarration = function () {};
     if (l) html = lesson(l);
     else if (h === "start") html = hub(h, "Start here", "Essential modules", "The modules every new colleague should take first, in course order.", essentials(), false);
     else if (h === "my-learning") html = hub(h, "Your progress", "My learning", LESSONS.filter(isDone).length + " of " + LESSONS.length + " modules completed in this browser.", LESSONS.filter(isDone), false);

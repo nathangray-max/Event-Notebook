@@ -43,6 +43,7 @@ def cmd_check(_a) -> int:
     for p in probs:
         print(p)
     print(store.summary(store.load()))
+    print(training.summary())
     return 1 if probs else 0
 
 
@@ -185,6 +186,7 @@ def cmd_training(_a) -> int:
     s = sum(l["slides"] for c in lib["courses"] for l in c["lessons"])
     r = sum(len(l["related"]) for c in lib["courses"] for l in c["lessons"])
     print(f"training library: {len(lib['courses'])} courses, {n} modules, {s} slides, {r} links to talks -> {_rel(training.OUT / 'data' / 'library.json')}")
+    print(training.summary())
     if not (team.OUT / "data" / "library.json").exists():
         print("the team library is not built, so no talks are linked: run `python -m confnotes team` first")
     return 0

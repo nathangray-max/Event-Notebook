@@ -20,7 +20,10 @@ shows the link as plain text naming the other library. Each build reads the othe
 
 Publish from a commit: run the steps above, `python -m pytest -q`, `node training/test/smoke.mjs` and
 `node team/test/smoke.mjs`, commit, copy `index.html` to a scratch folder and publish it with the files map from
-`python -m confnotes training-files` (app.js, styles.css, data/library.json and slides/<course>--<module>.json).
+`python -m confnotes training-files` (app.js, styles.css, data/library.json, slides/<course>--<module>.json and the
+narration clips audio/<course>--<module>/<step>.m4a, each given as `{from, contentType: "audio/mp4"}`). The build converts
+each module's `audio/` recordings with ffmpeg (mono AAC, about 48 kbps) into training/build/audio/, cached and git-ignored;
+ffmpeg must be installed. Video steps' thumbnails travel inside the slide packs.
 Leave out `test/` and this file.
 
 Capabilities: none.

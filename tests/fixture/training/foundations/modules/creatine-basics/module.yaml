@@ -20,3 +20,9 @@ reviewed_by: ''
 to_check: Invented fixture; nothing here was said by anyone.
 added: '2026-11-25'
 added_by: tests
+videos:
+- after: 2
+  url: https://www.youtube.com/watch?v=abcDEF12345
+  id: abcDEF12345
+  title: An invented video
+  channel: Invented Channel
