@@ -70,3 +70,23 @@ data/training/
 - **Whey** is never named in our own text (Summary, Key learnings, In practice); the deck's wording may keep it in Detail.
 - No personal emails or phone numbers in our text.
 - Generated files (`training/data/`, slide packs) are never hand-edited: regenerate.
+
+## Narration and video slides (Nathan, 25 Nov 2026)
+
+Nathan: "Training would work better if we had audio over the top per slide, and when we advanced the next info started
+... There are also links to YouTube videos that should be embedded as 'slides' in the deck." Voice: his own recordings.
+
+- `narration.md` in each module: one section per slide, `## Slide N`, then a line `Source: speaker notes` (the deck's
+  notes, as written) or `Source: draft` (written by Claude from the slide, for Nathan to review), then the script:
+  plain spoken English, roughly 40-100 words (20-45 seconds), no cites. A video slide gets its own section,
+  `## Video after slide N`, introducing the video. Scripts follow the claims rules above: the deck's wording and hedges,
+  never stronger.
+- `module.yaml` gains `videos: [{after: N, url, id, title, channel}]`: the YouTube links found on slide N, shown as their
+  own slide right after slide N. Title and channel come from YouTube's oEmbed; the thumbnail is saved as
+  `files/youtube-<id>.jpg`. claude.ai pages cannot embed other sites' players, so a video slide shows the thumbnail and
+  title and opens the video on YouTube in a new tab; narration waits there.
+- Recordings: `audio/` in each module, one clip per slide as received (`slide-01.m4a`, `video-after-06.m4a`; any common
+  format). The build converts them to small mono AAC (`training/build/audio/`, git-ignored) for publishing. A slide with
+  no clip shows its script as text. Later option: one long recording per module split at slide boundaries.
+- The player: Play starts the current slide's clip; Next (or the clip ending, when "Auto-advance" is on) moves on and
+  starts the next slide's clip; the script shows as captions under the slide.
