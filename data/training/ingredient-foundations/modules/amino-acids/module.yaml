@@ -24,6 +24,27 @@ ingredients:
 - pea and rice protein blends
 deck: files/amino-acids.pdf
 source: files/amino-acids.pptx
+videos:
+- after: 6
+  url: 'https://www.youtube.com/watch?v=aktEQ90Wpkw'
+  id: 'aktEQ90Wpkw'
+  title: 'How Amino Acids Form Proteins with Dr. David Minkoff & Gary Brecka'
+  channel: 'Ultimate Human Podcast with Gary Brecka'
+- after: 8
+  url: 'https://www.youtube.com/watch?v=9ssCKw-7OvQ'
+  id: '9ssCKw-7OvQ'
+  title: 'Proteins & Amino Acids | Biochemistry'
+  channel: 'Dr Matt & Dr Mike'
+- after: 14
+  url: 'https://www.youtube.com/watch?v=fPrkarBzrg0'
+  id: 'fPrkarBzrg0'
+  title: 'BCAA Benefits & When To Take BCAAs | Nutritionist Explains... | Myprotein'
+  channel: 'Myprotein'
+- after: 16
+  url: 'https://www.youtube.com/watch?v=VI1ihdoX9lQ'
+  id: 'VI1ihdoX9lQ'
+  title: 'Amino Acids: Polar vs Non-Polar, Acidic, Basic, and Neutral'
+  channel: 'PremedHQ Science Academy'
 status: draft
 reviewed_by: ''
 to_check: >-
@@ -53,5 +74,24 @@ to_check: >-
   Claim to check (slide 28): glycine "promotes deep, restful sleep"; tyrosine "enhancing focus and stress resilience";
   glutamine "repairs intestinal lining"; arginine and cysteine for immune response.
   The animal benefits on slides 20 and 22 fall under feed and pet food rules, not EU health claims.
+  Narration (narration.md): 17 of 33 slide scripts are drafts for Nathan to review (slides 1, 3, 5, 6, 8, 9, 11, 12, 14,
+  16, 17, 20, 21, 23, 25, 27, 28), plus the 4 video introductions. Slide 1 is drafted because its speaker notes belong
+  to another deck (herbal and botanical extracts); slide 11 is drafted because its notes are an unfinished sentence
+  ("Depending on the amino acid polymer structure, this will impact the tertiary and quaternary"). Slide 9 repeats slide
+  5 (the 20 common amino acids chart). Speaker notes tidied: list dashes and line breaks joined into sentences (slides
+  4, 7), stray closing quotation marks removed (slides 10, 19, 29 to 32), "therefor it's function" corrected to
+  "therefore its function" (slide 7), missing full stops added (slides 4, 13). Several notes are far longer than the
+  40-100 word target (slide 13 about 350 words; slides 2, 4, 7 and 32 about 190 to 270). Video titles and channels from
+  YouTube oEmbed (25 Nov 2026); the videos are third-party and not reviewed by us. Claim to check (speaker notes, slide
+  13): BCAAs "key for muscle repair and energy"; glutamine "important for gut health and immune function"; arginine
+  "plays a role in wound healing and nitric oxide production, which supports blood flow". Claim to check (speaker notes,
+  slide 18): arginine "supports nitric oxide production, which improves blood flow"; glutamine "aids gut health";
+  leucine "known for its ability to trigger muscle protein synthesis". Claim to check (speaker notes, slide 19): EAAs
+  and BCAAs "staples for muscle repair, endurance, and recovery"; glutamine "to support intestinal integrity and
+  repair"; collagen supplements "promoting skin elasticity and hydration"; tryptophan and tyrosine "influencing mood and
+  focus". Claim to check (speaker notes, slide 26): leucine "the most potent BCAA for muscle protein synthesis". Claim
+  to check (speaker notes, slide 31): collagen's "benefits, such as promoting skin elasticity, hydration, and joint
+  health" and collagen peptides' "ability to stimulate collagen production in the skin". As far as we know none of these
+  is an authorised EU health claim for the amino acid or collagen named.
 added: '2026-11-25'
 added_by: Claude (from Nathan's training decks, 25 Nov 2026)

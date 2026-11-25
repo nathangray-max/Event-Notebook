@@ -20,6 +20,17 @@ ingredients:
 - beta-glucans
 deck: files/mushrooms.pdf
 source: files/mushrooms.pptx
+videos:
+- after: 6
+  url: 'https://www.youtube.com/watch?v=XN8dFLTH58o'
+  id: 'XN8dFLTH58o'
+  title: 'Before You Buy: What You Need To Know About Mushroom Supplements'
+  channel: 'FreshCap Mushrooms'
+- after: 12
+  url: 'https://www.youtube.com/watch?v=QLmNiqjQ1Qo'
+  id: 'QLmNiqjQ1Qo'
+  title: 'Functional Mushrooms: Ultimate Beginners Guide'
+  channel: 'FreshCap Mushrooms'
 status: draft
 reviewed_by: ''
 to_check: >-
@@ -44,5 +55,24 @@ to_check: >-
   Claim to check (slide 4): "Modern science continues to validate their therapeutic properties".
   Claim to check (slide 16): standardised extracts as "a cornerstone of reliable health claims"; as far as we know none
   of these mushroom benefits is an authorised EU health claim.
+  Narration (narration.md): 5 of 19 slide scripts are drafts for Nathan to review (slides 6, 11, 12, 14, 15), plus the 2
+  video introductions. Slide 9's speaker notes repeat slide 8's word for word, so its narration does not cover slide 9's
+  own bioactives (ganoderic acids, betulinic acid, ergosterol); a slide 9 script may be wanted. Speaker notes tidied:
+  stray closing quotation marks removed (slides 3, 18), missing full stops added (slides 1, 8, 9). The slide 14 draft
+  names the brands shown on the packs. Video titles and channels from YouTube oEmbed (25 Nov 2026); the videos are
+  third-party and not reviewed by us. Claim to check (speaker notes, slides 3 and 5): reishi "calming and immune-
+  boosting properties"; cordyceps "ability to enhance energy and endurance" and "enhances energy and endurance by
+  improving oxygen uptake and ATP production"; lion's mane compounds "shown to promote nerve growth factor"; chaga
+  "packed with antioxidants that fight oxidative stress"; turkey tail PSK and PSP "used in immune health and gut
+  support". Claim to check (speaker notes, slide 4): "modern science, which continues to uncover and validate the health
+  benefits of these incredible fungi". Claim to check (speaker notes, slides 8 and 9): beta-glucans "modulate the immune
+  system by enhancing the activity of immune cells"; triterpenoids "have potent anti-inflammatory and adaptogenic
+  effects. They help the body manage stress"; ergothioneine "protects cells from oxidative stress" (close to the wording
+  of an authorised claim for some vitamins and minerals, which does not cover ergothioneine); hericenones and
+  erinacines' "ability to stimulate nerve growth factor (NGF), which is vital for cognitive health and memory" (no
+  hedge); cordycepin "enhances energy production at the cellular level". Claim to check (speaker notes, slide 13):
+  cordyceps and lion's mane "for enhanced endurance, focus, and recovery". Claim to check (speaker notes, slide 16):
+  standardised extracts "more reliable for product formulation and health claims"; reishi standardised for triterpenoids
+  "for stress and immune support".
 added: '2026-11-25'
 added_by: Claude (from Nathan's training decks, 25 Nov 2026)
