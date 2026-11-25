@@ -1,4 +1,4 @@
 # Where each published library lives (docs/training.md): the claude.ai artifact url, '' until first published.
 # Links between the libraries are built from these; a blank url makes the other site show the link as plain text.
 team: https://claude.ai/artifact/M1bnkiBYe2GE9K4kNYkVtZ
-training: ''
+training: https://claude.ai/artifact/UUFBTsNXsEHAAJDTGFExAS
