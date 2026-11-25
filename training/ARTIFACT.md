@@ -27,3 +27,5 @@ Capabilities: none.
 
 | Version | Date | Commit | What changed |
 |---|---|---|---|
+| 1 | 2026-11-25 | 4897f7f | Pilot: two courses, five modules (vitamins, amino acids, fibres and prebiotics, mushrooms, GLP-1 market intelligence), all draft; links to the team library as plain text. |
+| 2 | 2026-11-25 | 4097550 | Links to the team library live (data/sites.yaml). |

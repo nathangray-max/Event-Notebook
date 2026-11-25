@@ -26,3 +26,4 @@ Capabilities: none (the Ask the library assistant was removed on Nathan's word, 
 | 7 | 2026-11-24 | 3b49282 | Home asks what to explore and offers a dropdown for that section; top menu of sections; the sidebar lists only the chosen section; each section has its own page of cards. |
 | 8 | 2026-11-24 | 7237cc8 | Speaker pages (a Speakers section, a page per speaker listing their talks), speaker and event names linked on every talk; Matts Johansen and Martina Pavlová named. |
 | 9 | 2026-11-24 | 49152e7 | Probiota 2025 and Active Nutrition Summit 2025 added (49 talks, 34 new slide packs); home counts the shows; the leak check no longer trips on image data. |
+| 10 | 2026-11-25 | 4097550 | 'Training on this topic' boxes linking to the training library pilot. |
