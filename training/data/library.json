@@ -1,0 +1,949 @@
+{
+ "schema": "confnotes.training/1",
+ "built": "2026-11-25",
+ "commit": "ef9c189",
+ "people": [],
+ "courses": [
+  {
+   "id": "ingredient-foundations",
+   "name": "Ingredient foundations",
+   "short": "Ingredients",
+   "order": 1,
+   "description": "The core ingredient categories we sell, from the basics of each to how they are used in products.",
+   "start": null,
+   "end": null,
+   "city": null,
+   "lessons": [
+    {
+     "id": "what-are-vitamins",
+     "event": "ingredient-foundations",
+     "course": "ingredient-foundations",
+     "title": "What Are Vitamins?",
+     "order": 1,
+     "date": null,
+     "start": null,
+     "format": "module",
+     "speakers": [],
+     "owner": "Vita Actives Training & Development",
+     "version": "",
+     "audience": "",
+     "minutes": 12,
+     "level": "Essential",
+     "categories": [],
+     "tags": [
+      "science",
+      "formats"
+     ],
+     "ingredients": [
+      "vitamins-minerals"
+     ],
+     "ingredient_words": [
+      "vitamins",
+      "vitamins A, C, D, E and K",
+      "B vitamins",
+      "folic acid and folate (vitamin B9)",
+      "vitamin B12 (methylcobalamin, cyanocobalamin)",
+      "vitamin D with calcium"
+     ],
+     "summary": "This module is the starting point for the vitamin side of our range. It defines a vitamin as an organic compound the body\nneeds in small amounts and cannot make in sufficient quantities, so it must come from food, supplements or fortified\nproducts. It splits vitamins into water-soluble ones, which are not stored and are needed regularly, and fat-soluble ones,\nwhich are stored and can build up to toxic levels.\n\nIt then walks through what each vitamin does, explains why the alphabet has gaps (substances once called vitamins, such\nas \"vitamin H\", were later reclassified or renamed), and introduces the forms a vitamin can take: provitamin, active,\nsynthetic and coenzyme. Bioavailability and conversion efficiency explain why form matters, especially for older people\nor those with genetic variations such as MTHFR. Vitamins also work together, which matters when building a\nmultivitamin.\n\nThe last slide is the commercial point. Vitamins often need stabilising, coating or encapsulating, and the right choice\ndepends on the customer's delivery format, other ingredients, taste profile and budget or positioning. Knowing the\nforms, and asking the right questions, is how we match an ingredient to a brief.",
+     "takeaways": [
+      "Vitamins are organic compounds needed in small quantities that the body cannot produce in sufficient amounts; they act as coenzymes or antioxidants (slide 2).",
+      "Water-soluble vitamins are not stored in large amounts and are needed regularly; fat-soluble vitamins are stored in fatty tissue and can accumulate to toxic levels if taken in excess (slide 4).",
+      "Missing letters and out-of-order B numbers come from reclassification: \"vitamin H\" is now biotin (B7), \"vitamin F\" the essential fatty acids, \"vitamin M\" folic acid (slide 7).",
+      "Vitamins come as provitamins (beta-carotene to vitamin A), active forms (retinol), synthetic forms (folic acid) and coenzyme forms (methylcobalamin) (slide 8).",
+      "Bioavailability depends on the form, digestive health and nutrient interactions; conversion efficiency on genetics (MTHFR), age and health status (slide 10).",
+      "Vitamins work in synergy, for example vitamin D with calcium and vitamin C with non-heme iron, which matters when formulating multivitamins (slide 11)."
+     ],
+     "in_practice": "- Start with the customer's needs: delivery format (capsule, softgel, bulk tub, stick pack, liquid shot, carbonated drink, protein bar, brownie), other ingredients, taste profile and budget or brand positioning, basic or premium (slide 12).\n- Expect to offer stabilised, coated or encapsulated forms: they change solubility, heat stability, bioavailability, oxidation stability and taste (slide 12).\n- Customers still ask for old names such as \"vitamin H\"; the reclassification table lets you translate them (slide 7, speaker notes).\n- Form is a selling point: the deck says people with certain conditions or who are ageing may benefit from active forms that bypass conversion (slide 10).\n- My reading: the synergy pairs on slide 11 (D with calcium, B12 with folate, D with K2) are natural starting points for a premix conversation.",
+     "for_us": "",
+     "quotes": [],
+     "detail": "- Slides 5 and 6 are per-vitamin tables (benefit and description) for A, C, D, E, K and B1, B2, B3, B5, B6, B7, B9, B12. Their wording is a training overview, not claim wording; several lines are in `to_check` as claims to check.\n- Slide 7 also lists vitamin B4 (adenine), B8 (inositol), B10 (PABA), B11, B13 (orotic acid), B14, B15 (pangamic acid), B17 (amygdalin, \"controversial for toxicity\"), I, J, L1, L2, P (flavonoids), T (carnitine) and U (S-methylmethionine), each with why it is no longer a vitamin.\n- Slide 11 has a second table of vitamins with other nutrients: C with collagen, D and K with calcium, A with zinc and with iron, E with omega-3, B6 with magnesium, folate with iron, B12 with protein, C with non-heme iron.\n- Slides 3 and 9 are videos linked in the pptx; see `to_check`.",
+     "key_slides": [
+      "(slide 4) Why vitamins matter; water-soluble versus fat-soluble.",
+      "(slide 7) The reclassification table: why letters are missing.",
+      "(slide 10) Bioavailability and conversion efficiency, with the factors table.",
+      "(slide 12) How to select the right vitamin for a client's needs."
+     ],
+     "quiz": [
+      {
+       "q": "Why do fat-soluble vitamins carry a toxicity risk that water-soluble ones mostly do not?",
+       "a": "They are stored in the body's fatty tissues and can accumulate to toxic levels if taken in excess; excess water-soluble vitamins are usually excreted in urine (slide 4).",
+       "slide": 4
+      },
+      {
+       "q": "A customer asks for \"vitamin H\". What do they mean?",
+       "a": "Biotin, vitamin B7, recognised as part of the B-complex (slide 7).",
+       "slide": 7
+      },
+      {
+       "q": "What is the difference between folic acid and folate in the deck's terms?",
+       "a": "Folic acid is the synthetic form of folate (vitamin B9): more stable in supplements, but it must be converted to the active form in the body (slide 8).",
+       "slide": 8
+      },
+      {
+       "q": "Name three factors that affect conversion efficiency.",
+       "a": "Genetics (e.g. MTHFR variation and folic acid), age (e.g. beta-carotene to vitamin A, B12 conversion) and health status such as liver or kidney disease (slide 10).",
+       "slide": 10
+      },
+      {
+       "q": "What four things does the deck say may affect which vitamin form you recommend?",
+       "a": "Delivery format, other ingredients, taste profile, and budget or brand positioning (slide 12).",
+       "slide": 12
+      }
+     ],
+     "slides": 12,
+     "slide_source": "deck",
+     "deck_names": [
+      "what-are-vitamins.pdf"
+     ],
+     "status": "draft",
+     "related": [
+      {
+       "title": "Novonesis and Montefarmaco: the Lactoflorene partnership, from science to consumer product",
+       "event": "Remedy CDMO 2026",
+       "href": "https://claude.ai/artifact/M1bnkiBYe2GE9K4kNYkVtZ#remedy-cdmo-2026--novonesis-montefarmaco",
+       "level": "Recommended"
+      },
+      {
+       "title": "SPI Pharma and Nordic Biotic: new dosage forms and clinically tested strains",
+       "event": "Remedy CDMO 2026",
+       "href": "https://claude.ai/artifact/M1bnkiBYe2GE9K4kNYkVtZ#remedy-cdmo-2026--spi-pharma-nordic-biotic",
+       "level": "Recommended"
+      },
+      {
+       "title": "Kaneka: Ubiquinol, the active form of coenzyme Q10",
+       "event": "Remedy CDMO 2026",
+       "href": "https://claude.ai/artifact/M1bnkiBYe2GE9K4kNYkVtZ#remedy-cdmo-2026--kaneka-ubiquinol",
+       "level": "Background"
+      },
+      {
+       "title": "The Pantryome Paradigm: Framing the Microbial-Human Health Interface",
+       "event": "Probiota 2025",
+       "href": "https://claude.ai/artifact/M1bnkiBYe2GE9K4kNYkVtZ#probiota-2025--burton-pantryome-paradigm",
+       "level": "Background"
+      },
+      {
+       "title": "Nutrition to Improve Mitochondrial Functions During Ageing",
+       "event": "Healthspan Summit 2026",
+       "href": "https://claude.ai/artifact/M1bnkiBYe2GE9K4kNYkVtZ#nutra-healthspan-summit-2026--nutrition-to-improve-mitochondrial-functions",
+       "level": "Essential"
+      },
+      {
+       "title": "Absorbed or Assumed? Why Pharmacokinetic Testing Matters",
+       "event": "Healthspan Summit 2026",
+       "href": "https://claude.ai/artifact/M1bnkiBYe2GE9K4kNYkVtZ#nutra-healthspan-summit-2026--absorbed-or-assumed-why-pharmacokinetic",
+       "level": "Essential"
+      }
+     ],
+     "thumb": "data:image/webp;base64,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"
+    },
+    {
+     "id": "amino-acids",
+     "event": "ingredient-foundations",
+     "course": "ingredient-foundations",
+     "title": "Amino Acids",
+     "order": 2,
+     "date": null,
+     "start": null,
+     "format": "module",
+     "speakers": [],
+     "owner": "Vita Actives Training & Development",
+     "version": "",
+     "audience": "",
+     "minutes": 33,
+     "level": "Essential",
+     "categories": [
+      "sports",
+      "beauty",
+      "gut-health",
+      "brain-sleep"
+     ],
+     "tags": [
+      "science",
+      "formats",
+      "market-data"
+     ],
+     "ingredients": [
+      "plant-protein",
+      "protein-general",
+      "collagen",
+      "peptides"
+     ],
+     "ingredient_words": [
+      "amino acids",
+      "essential amino acids (EAAs)",
+      "BCAAs (leucine, isoleucine, valine)",
+      "glutamine",
+      "arginine",
+      "glycine, proline and hydroxyproline",
+      "tryptophan and tyrosine",
+      "beta-alanine",
+      "L-carnitine",
+      "taurine",
+      "collagen peptides",
+      "pea and rice protein blends"
+     ],
+     "summary": "This module builds amino acids up from first principles. An amino acid is an organic molecule with an amine group, a\ncarboxyl group and a side chain that is unique to each one; there are 20 standard amino acids. Linked by peptide bonds\nthey form peptides (2 to 50 amino acids) and, as longer folded chains, proteins, which the deck explains through the\nfour levels of protein structure.\n\nIt then sorts amino acids into essential, conditionally essential and non-essential groups, picks out the branched-chain\namino acids, and shows how they can also be grouped by charge and polarity. The second half is about use: synergies\nwith minerals (chelates such as magnesium bisglycinate), applications in animal feed, pet food, baking, flavour,\nfortification, sports nutrition, nutricosmetics and dietary supplements, and the formulation issues that decide whether\na product works: heat, pH and oxidation stability, absorption, and the choice between free-form amino acids, peptides\nand intact proteins.\n\nIt ends with plant-based blends and their limits. Combining pea and rice protein completes the amino acid profile, but a\nblend of single amino acids has no peptide structure, so it cannot copy what hydrolysed collagen peptides do. That\ndistinction is what a colleague needs when customers ask about vegan alternatives.",
+     "takeaways": [
+      "Amino acids are organic molecules with an amine group, a carboxyl group and a unique side chain; there are 20 standard amino acids (slide 4).",
+      "Amino acids are single units, peptides are chains of 2 to 50, and proteins are longer chains (generally over 50) folded into functional structures (slide 7).",
+      "Nine amino acids are essential, including the three BCAAs leucine, isoleucine and valine; the deck lists others as conditionally non-essential (e.g. arginine, glutamine) or non-essential (slide 13).",
+      "Amino acids degrade with heat, pH and oxidation (sulfur amino acids such as methionine and cysteine are most vulnerable); microencapsulation, freeze-drying and liposomal encapsulation protect them (slide 29).",
+      "Free-form amino acids absorb fastest, peptides balance speed and sustained release, and intact proteins absorb slowest; amino acids can compete for the same absorption pathways (slide 29).",
+      "Plant blends such as pea plus rice protein complete the amino acid profile, but single amino acid blends lack the peptide functionality of hydrolysed collagen (slide 30) (slide 31)."
+     ],
+     "in_practice": "- When a customer asks for a vegan collagen, explain the deck's point: a plant amino acid blend can match collagen's profile but not its peptides, so it cannot mimic their structure or bioactivity (slide 31).\n- Match the form to the product: free-form for rapid absorption in sports and recovery products, peptides such as collagen peptides for balance, intact proteins for sustained release (slide 29).\n- Raise stability early: high heat can degrade glutamine and lysine, glutamine degrades in acidic environments, and many amino acids are hygroscopic, which affects shelf life (slide 29).\n- Chelation (e.g. magnesium bisglycinate) is the deck's example of amino acids improving mineral absorption and stability (slide 18).\n- My reading: the feed, pet food and baking slides (20 to 25) are context on where the bulk of amino acid demand sits rather than our own markets.",
+     "for_us": "",
+     "quotes": [],
+     "detail": "- Agenda (slide 2): introduction; categories and biochemistry; science, function and formulation; applications and trends.\n- Slide 10 gives the four protein structures with examples: collagen peptides (primary), keratin (secondary), enzymes such as lactase or whey protein (tertiary), fibrous collagen and haemoglobin (quaternary).\n- Slide 13 lists essential (histidine, isoleucine, leucine, lysine, methionine, phenylalanine, threonine, tryptophan, valine), conditionally non-essential (arginine, asparagine, glutamine, glycine, proline, serine, tyrosine) and non-essential (alanine, aspartate, cysteine, glutamate) amino acids.\n- Slide 15 groups amino acids by side chain: non-polar, electrically charged (basic and acidic), polar uncharged, and special (selenocysteine, pyrrolysine).\n- Slide 21 (animal feed amino acids infographic): market about US$14.1 bn by 2027, 5% CAGR 2019-2027, segments by animal (ruminants, poultry, swine, pets, equine, aqua) and product (tryptophan, lysine, methionine, threonine); no source named.\n- Sector slides: animal feed (slide 20), pet food (slide 22), baking (slide 23), flavour (slide 24), fortification (slide 25), sports nutrition (slide 26), nutricosmetics (slide 27), dietary supplements (slide 28). Each lists key amino acids, applications, benefits and emerging trends in the deck's wording; health lines are in `to_check`.\n- Emerging innovations (slide 32): targeted delivery (liposomal and enteric coatings), fermentation-derived amino acids, optimised plant blends as \"analogues for whey protein and collagen\", and pairing with probiotics, minerals or vitamins.",
+     "key_slides": [
+      "(slide 7) Amino acids, peptides and proteins.",
+      "(slide 13) Categories of amino acids and the nine essentials.",
+      "(slide 29) Stability and bioavailability.",
+      "(slide 31) The limits of plant-based analogues such as vegan collagen."
+     ],
+     "quiz": [
+      {
+       "q": "What three parts make up an amino acid?",
+       "a": "An amine group (-NH2), a carboxyl group (-COOH) and a side chain (R-group) unique to each amino acid (slide 4).",
+       "slide": 4
+      },
+      {
+       "q": "How does the deck distinguish peptides from proteins?",
+       "a": "Peptides are chains of 2 to 50 amino acids; proteins are long chains, generally over 50, folded into functional structures (slide 7).",
+       "slide": 7
+      },
+      {
+       "q": "Which three essential amino acids are the BCAAs?",
+       "a": "Leucine, isoleucine and valine (slide 13).",
+       "slide": 13
+      },
+      {
+       "q": "Why can two amino acids taken together in large amounts reduce each other's bioavailability?",
+       "a": "They often compete for the same absorption pathways, for example lysine and arginine (slide 29).",
+       "slide": 29
+      },
+      {
+       "q": "What is the main limitation of a plant-based collagen analogue?",
+       "a": "It is a blend of individual amino acids with no peptide functionality, so it cannot mimic collagen's peptides or their structural support (slide 31).",
+       "slide": 31
+      }
+     ],
+     "slides": 33,
+     "slide_source": "deck",
+     "deck_names": [
+      "amino-acids.pdf"
+     ],
+     "status": "draft",
+     "related": [
+      {
+       "title": "From Insight to Innovation: Mapping Trends in Functional Health Ingredients",
+       "event": "ANS 2025",
+       "href": "https://claude.ai/artifact/M1bnkiBYe2GE9K4kNYkVtZ#active-nutrition-summit-2025--lux-functional-ingredient-trends",
+       "level": "Recommended"
+      },
+      {
+       "title": "The Vitamin Shoppe Health & Wellness Trend Report 2025",
+       "event": "ANS 2025",
+       "href": "https://claude.ai/artifact/M1bnkiBYe2GE9K4kNYkVtZ#active-nutrition-summit-2025--vitamin-shoppe-trend-report-2025",
+       "level": "Essential"
+      },
+      {
+       "title": "Sports Nutrition Innovation Insights",
+       "event": "ANS 2025",
+       "href": "https://claude.ai/artifact/M1bnkiBYe2GE9K4kNYkVtZ#active-nutrition-summit-2025--sports-nutrition-innovation-panel",
+       "level": "Recommended"
+      },
+      {
+       "title": "Active Nutrition Summit 2025: Key Insights & Industry Trends",
+       "event": "ANS 2025",
+       "href": "https://claude.ai/artifact/M1bnkiBYe2GE9K4kNYkVtZ#active-nutrition-summit-2025--summit-overview-report",
+       "level": "Recommended"
+      },
+      {
+       "title": "Beyond the GLP-1 Boom: Nutrition, Innovation and the Future of Weight Management",
+       "event": "SANS Europe 2026",
+       "href": "https://claude.ai/artifact/M1bnkiBYe2GE9K4kNYkVtZ#sans-europe-2026--beyond-the-glp-1-boom-nutrition",
+       "level": "Essential"
+      },
+      {
+       "title": "Nuritas: AI-discovered plant peptides and the PeptiStrong trials",
+       "event": "Remedy CDMO 2026",
+       "href": "https://claude.ai/artifact/M1bnkiBYe2GE9K4kNYkVtZ#remedy-cdmo-2026--nuritas-peptistrong",
+       "level": "Essential"
+      }
+     ],
+     "thumb": "data:image/webp;base64,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"
+    },
+    {
+     "id": "fibres-prebiotics",
+     "event": "ingredient-foundations",
+     "course": "ingredient-foundations",
+     "title": "Prebiotics & Fibre: The Comprehensive Commercial Curriculum",
+     "order": 3,
+     "date": null,
+     "start": null,
+     "format": "module",
+     "speakers": [],
+     "owner": "Vita Actives",
+     "version": "V3, H2 2026",
+     "audience": "commercial team",
+     "minutes": 40,
+     "level": "Essential",
+     "categories": [
+      "gut-health",
+      "glp1"
+     ],
+     "tags": [
+      "science",
+      "regulation",
+      "formats",
+      "market-data"
+     ],
+     "ingredients": [
+      "fibre",
+      "polyphenols",
+      "carbohydrate"
+     ],
+     "ingredient_words": [
+      "dietary fibre",
+      "prebiotics",
+      "chicory inulin",
+      "FOS (oligofructose)",
+      "GOS (galacto-oligosaccharides)",
+      "PHGG (partially hydrolysed guar gum)",
+      "acacia gum",
+      "resistant starch",
+      "resistant dextrin and resistant maltodextrin",
+      "polydextrose",
+      "XOS (xylo-oligosaccharides)",
+      "arabinoxylan (AXOS)",
+      "psyllium fibre",
+      "oat and barley β-glucan",
+      "pectin",
+      "glucomannan (konjac)",
+      "larch arabinogalactan",
+      "HMO (human milk oligosaccharides)",
+      "polyphenols (as novel prebiotics)",
+      "short-chain fatty acids (butyrate, propionate, acetate)"
+     ],
+     "summary": "This module is the commercial team's grounding in dietary fibre and prebiotics. It starts with demand: most adults fall well\nshort of recommended fibre intake, and a cultural wave (fibermaxxing, GLP-1) and a surge of new products sit on top of that\nneed. It then separates two words customers often blur. Fibre is a compositional category with legal definitions and a number\non the label. Prebiotic is a function that must be shown, and in the EU and UK the word itself is treated as an implied health\nclaim. The deck keeps soluble versus insoluble as a first sort, then adds three dials (viscosity, fermentability and chain\nlength) that predict what a fibre does, including how much gas it causes. Each ingredient is graded Gold, Silver or Bronze on\nits human evidence, kept apart from whether it is a recognised prebiotic and whether a claim can go on pack. Formulation dials\n(dose, taste, ease of use, stability) decide whether an ingredient fits a format at all. The module ends with the authorised\nclaims list, a quick-pick by customer brief, a five-link decision chain and our H2 2026 priorities: the precision-prebiotic end,\nthe GLP-1 companion, credibility, and HMO supply.",
+     "takeaways": [
+      "The fibre gap is the demand driver: about 5% of men and 9% of women reach recommended daily fibre, a shortfall of about 14 g a day (16 g actual against 25–38 g), on US data (slide 2).",
+      "\"Fibre\" is a regulated number you can almost always put on a panel; \"prebiotic\" is a claim you must earn, and in the EU, UK and Canada it is an implied health claim (slide 26).",
+      "Solubility alone predicts little. Viscosity predicts cholesterol and glucose effects, fermentability predicts SCFAs and gas, and chain length predicts the speed and site of fermentation, so tolerability (slide 11).",
+      "Keep three questions apart: is it a recognised prebiotic, how strong is the human evidence for this benefit (Gold, Silver, Bronze), and can we say it on pack here (slide 17). Inulin, FOS and GOS are the deck's \"only three you can call prebiotic with full confidence\", and GOS works at much lower doses (slide 19).",
+      "Gentle is a selling point: inulin and FOS are gas-prone with a tolerance ceiling of about 5–10 g a day in one serving, while PHGG, acacia and resistant maltodextrin are fermented slowly and suit the sensitive-gut segment (slide 12).",
+      "Every decision runs through one chain: claim, evidence, dose, format, jurisdiction. If any link breaks, the claim breaks (slide 36)."
+     ],
+     "in_practice": "- Keep the quick-pick open in a customer meeting: GOS, XOS or RS2 for a low-dose capsule, gummy or small drink; soluble corn\n  fibre, resistant wheat dextrin, resistant maltodextrin or GOS for a clear drink; PHGG, acacia or low-dose XOS for sensitive gut\n  and low-FODMAP; oat β-glucan or psyllium for a cardiometabolic claim (slide 35).\n- When the brief is cholesterol or glucose, go to the viscous fibres with authorised claims; the deck says not to reach for\n  inulin, FOS, acacia or wheat dextrin there, as they lack the mechanism (slide 22).\n- When a claim must survive a regulator or a retailer's legal team, anchor it in the authorised claims list and quote the dose\n  (slides 27, 32).\n- Pick the ingredient that is good enough on every dial, not the best on one: the deck's worked example chose PHGG with GOS\n  because both were low-dose, clinically validated, near-tasteless and easy to use (slide 24).\n- For GLP-1 users, fibre has two roles: managing GI side effects and the \"fibre-first\" natural GLP-1 secretion story\n  (slide 29). The deck's gentle picks for a GLP-1 companion are PHGG, acacia gum and resistant dextrins (slide 35).\n- Use market sizes to size an opportunity, not to forecast; the deck says estimates vary two to three times (slide 28).",
+     "for_us": "",
+     "quotes": [],
+     "detail": "**Definitions.** Codex (2009) counts fibre from DP 10 and leaves DP 3–9 to national authorities; the US FDA (2016) and EU/UK\n(Regulation 1169/2011) count from DP 3, and the FDA requires isolated or synthetic fibres to show a physiological benefit. The\ndeck's key point: whether microbes selectively use a fibre is irrelevant to fibre status (slide 4). For prebiotics the\nscientific reference is ISAPP 2017 (\"a substrate that is selectively utilized by host microorganisms conferring a health\nbenefit\"); the deck adopts the GPA 2024 definition as our operating one, which drops the selectivity test and adds performance\nbenefits, so ingredients such as polyphenols can be credited with a \"prebiotic effect\" (slide 5). The biotic family is set out\nby contrast: probiotic (Hill 2014), prebiotic (ISAPP 2017), synbiotic (ISAPP 2020) and postbiotic (ISAPP 2021) (slide 6). In the\nVenn diagram, lactulose, HMOs, polyphenols and omega-3 sit outside fibre: lactulose is too small (DP 2), HMO fibre status is\ncontested, and polyphenols and omega-3 are not carbohydrates (slide 7).\n\n**Mechanism.** Fibre escapes digestion in the small intestine and is fermented in the colon into short-chain fatty acids\n(slide 9). Butyrate fuels colon cells and supports the gut barrier; propionate goes to the liver; acetate is the most abundant\nand reaches the circulation. The deck links SCFAs to satiety hormones (GLP-1, PYY via FFAR2/FFAR3), immunity and the gut-brain\naxis, and notes that some of these effects are better established than others (slide 10).\n\n**Taxonomy and hard cases.** Two tables classify the common fibres by solubility, viscosity, fermentability and prebiotic status\n(slides 14-15). The hard cases: methylcellulose is soluble and viscous but not fermented, so not a prebiotic; glucomannan is the\nmost viscous common fibre; acacia is soluble but non-viscous and very well tolerated; lignin is not a carbohydrate. IMO is \"the\ntrap\": much of it is digested and an FDA petition was denied. Resistant starch has five subtypes (RS1-RS5), and the deck says to\nspecify the type when claiming (slides 15-16).\n\n**Evidence tiers, as the deck gives them.** Gold: psyllium (Jovanovski 2018, 28 RCTs, about 10 g a day lowered LDL by 0.33\nmmol/L; dose 7–10 g a day with at least 250 mL water) and oat or barley β-glucan (Ho 2016, 58 RCTs, 3.5 g a day: LDL −4.2%;\ncompetitor brands OatWell, PromOat) (slide 18); inulin (5–20 g a day; Orafti, Fibruline), FOS (5–21 g a day; Parnell and Reimer\n2009, 21 g a day, −1.03 kg over 12 weeks; Orafti P95, Frutalose) and GOS (1.4–7 g a day; Bimuno, Vivinal/Biotis, Oligomate)\n(slide 19). Silver: resistant starch (200+ human trials but heterogeneous; Hi-Maize/VersaFibe, Fibersym RW4, Solnul) and PHGG\n(RCT n=108 on bloating; 5–7 g a day; Sunfiber) (slide 20). Bronze: XOS (Finegold 2014, 1.4–2.8 g a day; PreticX, Longlive),\nAXOS (about 10 g a day; NAXUS, Arrabina), larch arabinogalactan (Riede 2013, 4.5 g a day; ResistAid) and native guar, which\nthe deck says PHGG has largely superseded (slide 21). Bronze means the breadth of human evidence is thin, not that it does not\nwork. The master tables (slides 30-31) add resistant dextrin, resistant maltodextrin, polydextrose, acacia, pectin, glucomannan,\nlactulose, wheat dextrin, HMOs and branded botanicals (Solnul, AlphaGOS, Actazin/Livaux, Eldercraft, 360GUT, Baobest), with the\nnote to annotate each one's real benefit.\n\n**Formulation.** Effective dose, taste, ease of use and stability decide fit: a 10 g fibre will not fit a capsule, gummy or\nsmall drink (slide 23). Gas is \"the silent compliance-killer\", and a product nobody can tolerate is not bought again (slide 25).\n\n**Claims.** The authorised list (slide 32): oat or barley β-glucan for cholesterol and CHD risk (FDA 1997, EFSA 2010; at least\n3 g a day) and post-prandial glycaemia (EFSA; 4 g per 30 g carbohydrate); psyllium for CHD risk (FDA 1998; at least 7 g a day\nsoluble fibre); pectin for normal blood cholesterol (EFSA 2010; at least 6 g a day) and post-prandial glycaemia (at least 10 g\nper meal); glucomannan for weight loss in a calorie-restricted diet (EFSA 2010; 3 g a day as 1 g three times); chicory inulin\nfor normal defecation and stool frequency (EU Reg. 2015/2314; at least 12 g a day); high-amylose maize RS2 \"may reduce risk of\ntype 2 diabetes\" (FDA 2016, qualified). Only the EFSA and EU entries apply to European packs.\n\n**Market.** Prebiotics $6–11B and dietary fibre $9–14B (Grand View; FMI). Estimates vary two to three times depending on\nwhether ingredient or finished product and animal feed are counted; inulin is the largest single prebiotic (about 30–46% share),\ngut health the largest segment, and Europe (about 40%) and APAC vie for the lead (slide 28). On GLP-1: about 30M+ US adults have\ntaken a GLP-1 (about 18%; 12% currently), digestive supplements among GLP-1 users +52% and weight-management formulas −3%\nyear on year; the slide names no source (slide 29).\n\n**Reference tables.** Slides 33-34 reproduce the GPA table of established, novel and emerging prebiotics with doses and study\noutcomes from Deehan et al., Advances in Nutrition 2024;15:100329, Table 1 (open access, CC BY 4.0; attribution required).\n\n**Our H2 2026 priorities.** Lead at the precision-prebiotic end (low-dose, validated, palatable, blendable: PHGG, GOS, scFOS,\nXOS and novel polyphenols, while commodity inulin and FOS keep the volume); build the GLP-1 companion; make credibility the moat\n(honest dosing, evidence-matched claims, branded clinical ingredients); secure precision-fermentation supply of HMOs ahead of\nadult-nutrition expansion (slide 37).\n\nThe conference library has related talks on fibre, the microbiome and GLP-1; further reading is linked automatically from the\nshared tags.",
+     "key_slides": [
+      "(slide 7) The Venn diagram: fibre only, both, prebiotic only.",
+      "(slide 11) The four dials and what each predicts.",
+      "(slide 32) The authorised health claims with their dose conditions.",
+      "(slide 35) Quick-pick: customer brief to ingredient shortlist."
+     ],
+     "quiz": [
+      {
+       "q": "Why can we almost always say \"X g of fibre\" on a pack but not \"prebiotic\" in the EU?",
+       "a": "Fibre is a regulated, quantifiable label term defined by FDA, Codex and the EU; \"prebiotic\" is not a regulated nutrient claim, and in the EU, UK and Canada it is an implied health claim (slide 26)",
+       "slide": 26
+      },
+      {
+       "q": "A customer wants a cholesterol claim. Should we offer inulin or oat β-glucan, and why?",
+       "a": "Oat β-glucan, which has FDA and EFSA claims at 3 g a day or more; inulin is non-viscous and lacks the mechanism (slide 22)",
+       "slide": 22
+      },
+      {
+       "q": "Which three questions does the grading method keep separate?",
+       "a": "Prebiotic status, benefit-evidence depth (Gold, Silver, Bronze) and claimability on pack (slide 17)",
+       "slide": 17
+      },
+      {
+       "q": "What is the practical tolerance ceiling for rapidly fermented short-chain prebiotics, and name two ways round it?",
+       "a": "About 5–10 g a day in a single serving; blend short and long chain, use slow or well-tolerated fibres, use low-dose-effective ingredients or escalate the dose gradually (slide 25)",
+       "slide": 25
+      },
+      {
+       "q": "What are the five links of the decision chain?",
+       "a": "Claim, evidence, dose, format and jurisdiction; if any link breaks, the claim breaks (slide 36)",
+       "slide": 36
+      }
+     ],
+     "slides": 37,
+     "slide_source": "deck",
+     "deck_names": [
+      "fibres-prebiotics.pdf"
+     ],
+     "status": "draft",
+     "related": [
+      {
+       "title": "Active Nutrition Summit 2025: Key Insights & Industry Trends",
+       "event": "ANS 2025",
+       "href": "https://claude.ai/artifact/M1bnkiBYe2GE9K4kNYkVtZ#active-nutrition-summit-2025--summit-overview-report",
+       "level": "Recommended"
+      },
+      {
+       "title": "Too Young to Age? The New Consumer Rules of Longevity",
+       "event": "Healthspan Summit 2026",
+       "href": "https://claude.ai/artifact/M1bnkiBYe2GE9K4kNYkVtZ#nutra-healthspan-summit-2026--lumina-new-longevity-consumer",
+       "level": "Essential"
+      },
+      {
+       "title": "From hype to proof: the science behind GLP-1 targeted nutritional supplements",
+       "event": "SANS Europe 2026",
+       "href": "https://claude.ai/artifact/M1bnkiBYe2GE9K4kNYkVtZ#sans-europe-2026--from-hype-to-proof-the-science",
+       "level": "Essential"
+      },
+      {
+       "title": "AI, Scientific Wellness and the Future of Personalised Health",
+       "event": "ANS 2025",
+       "href": "https://claude.ai/artifact/M1bnkiBYe2GE9K4kNYkVtZ#active-nutrition-summit-2025--price-ai-scientific-wellness",
+       "level": "Recommended"
+      },
+      {
+       "title": "Longevity panel: the microbiome and healthspan",
+       "event": "Probiota 2025",
+       "href": "https://claude.ai/artifact/M1bnkiBYe2GE9K4kNYkVtZ#probiota-2025--longevity-panel-microbiome-healthspan",
+       "level": "Recommended"
+      },
+      {
+       "title": "The Gut-Mitochondria Connection – A new way to optimize health through the gut",
+       "event": "Probiota 2025",
+       "href": "https://claude.ai/artifact/M1bnkiBYe2GE9K4kNYkVtZ#probiota-2025--gut-mitochondria-connection",
+       "level": "Recommended"
+      }
+     ],
+     "thumb": "data:image/webp;base64,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"
+    },
+    {
+     "id": "mushrooms",
+     "event": "ingredient-foundations",
+     "course": "ingredient-foundations",
+     "title": "Mushrooms & Mushroom Extracts",
+     "order": 4,
+     "date": null,
+     "start": null,
+     "format": "module",
+     "speakers": [],
+     "owner": "Vita Actives Training & Development",
+     "version": "",
+     "audience": "sales and product development",
+     "minutes": 19,
+     "level": "Essential",
+     "categories": [
+      "brain-sleep",
+      "sports",
+      "beauty"
+     ],
+     "tags": [
+      "science",
+      "market-data",
+      "formats",
+      "supply"
+     ],
+     "ingredients": [
+      "mushrooms"
+     ],
+     "ingredient_words": [
+      "functional mushrooms",
+      "reishi",
+      "lion's mane",
+      "cordyceps",
+      "chaga",
+      "turkey tail",
+      "shiitake",
+      "beta-glucans"
+     ],
+     "summary": "This module introduces functional mushrooms: mushrooms valued for bioactive compounds rather than flavour, with a long\nhistory in Traditional Chinese Medicine, Ayurveda and other traditions and now one of the fastest-growing sectors in\nhealth and wellness. It covers the five the deck treats as key (reishi, lion's mane, cordyceps, chaga and turkey tail),\nthe benefits it associates with each, and the compounds behind them, from beta-glucans and triterpenoids to the\nhericenones and erinacines of lion's mane and the cordycepin of cordyceps.\n\nIt explains the choice between fruiting body and mycelium, then where mushrooms are used: supplements, functional foods\nand drinks such as mushroom coffee, nutricosmetics and sports nutrition. Retail data from SPINS shows mushrooms among\nthe fastest-growing functional ingredients in ready-to-drink and functional beverages.\n\nThe second half is about why our material is worth buying. Standardisation keeps bioactive levels consistent,\ncontamination testing covers heavy metals, mycotoxins and pesticides, and some mushrooms are grown on peanut substrates,\na hidden allergen risk. Our mushrooms are sourced on non-peanut substrates, which the deck calls a great USP. Quality,\ntransparency and allergen safety are its success factors.",
+     "takeaways": [
+      "Functional mushrooms contain bioactive compounds with specific health benefits and have been used in traditional medicine for centuries (slide 3) (slide 4).",
+      "The key mushrooms and the benefits the deck links them to: reishi (stress, immune), lion's mane (cognitive), cordyceps (energy, endurance), chaga (antioxidant), turkey tail (gut and immune) (slide 5).",
+      "The fruiting body is often richer in beta-glucans; mycelium offers scalability, lower cost and compounds such as ergothioneine (slide 7).",
+      "Mushrooms appear in supplements, functional foods and beverages (mushroom coffee, tea blends, bars), nutricosmetics and sports nutrition (slide 13).",
+      "In SPINS data, reishi grew 71% and cordyceps 52% by dollars year on year in RTD beverages, and mushroom sales in food and beverage were $642M, up 19.5% (slide 15).",
+      "Standardisation, contamination testing and allergen-safe sourcing build trust; our mushrooms are sourced on non-peanut substrates (slide 16) (slide 17)."
+     ],
+     "in_practice": "- Lead with allergen safety: some mushrooms are grown on peanut or peanut-shell substrates, and our non-peanut sourcing is, in the deck's words, a great USP (slide 17).\n- Talk standardisation: consistent levels of bioactives such as beta-glucans and triterpenoids, for example reishi standardised for triterpenoids (slide 16).\n- Help the customer choose fruiting body or mycelium by the compounds and benefits they want and by cost and scale (slide 7).\n- Point beverage customers to the growth data: kombucha and functional drinks, shelf-stable tea and coffee RTD, and lion's mane and turkey tail in functional beverages (slide 15).\n- Keep to the deck's hedges with customers: lion's mane compounds \"may stimulate\" nerve growth factor (slide 3).",
+     "for_us": "",
+     "quotes": [],
+     "detail": "- Slide 15 (all data from SPINS, period not stated): RTD beverages, YoY dollar and unit growth: reishi +71% and +70%, cordyceps +52% and +89%, other mushrooms +50% and +38% (magnesium +220% and prebiotic fibre +195% lead the table). Super mushrooms by channel: vitamins and minerals $114M (down, figure partly hidden by an arrow, about -2.9%), food and beverage $642M (+19.5%), body care $77M (-10.6%). Fastest food and beverage categories include shelf-stable tea and coffee RTD (+250.6%), baby and toddler food (+217.2%), kombucha and other functional beverages (+71.2%). Lion's mane in kombucha and functional beverages +158.2%; turkey tail +226.6%.\n- Slide 14 is a collage of retail mushroom products (no text), including Four Sigmatic, Laird Superfood, Dirtea, Rheal, Spacegoods, Lucid, Motion Nutrition, Aktivbar, Wise Bar, Balanced Tiger and Pro Shrooms.\n- Slide 9 lists further bioactives: cordycepin, hericenones and erinacines, ganoderic acids (reishi), polysaccharopeptides (turkey tail, shiitake), betulinic acid (chaga) and ergosterol (a vitamin D2 precursor). Its health wording is in `to_check`.\n- Trends (slide 18): adaptogenic blends of mushrooms with botanicals, new formats (RTD drinks, effervescent tablets, functional snacks), organic and non-GMO sourcing, and liposomal delivery. Opportunities (slide 19): personalised formulations, biohacking and longevity.\n- Further reading: the Nordic Mushrooms talk at the Sports & Active Nutrition Summit 2025 (Functional Mushrooms), linked below from the shows, argues that polysaccharides and beta-glucans are the wrong quality markers and that each species should be specified on its own compounds. That is the speaker's view, not this deck's.",
+     "key_slides": [
+      "(slide 5) The key functional mushrooms and their compounds.",
+      "(slide 7) Fruiting body versus mycelium.",
+      "(slide 15) SPINS growth data for mushrooms.",
+      "(slide 17) Allergen considerations and our non-peanut position."
+     ],
+     "quiz": [
+      {
+       "q": "What makes a mushroom \"functional\" rather than culinary?",
+       "a": "It contains bioactive compounds with specific health benefits (slide 3).",
+       "slide": 3
+      },
+      {
+       "q": "Which part of the mushroom is often richer in beta-glucans, and what does mycelium offer instead?",
+       "a": "The fruiting body; mycelium is scalable, cost-effective and offers compounds such as ergothioneine (slide 7).",
+       "slide": 7
+      },
+      {
+       "q": "Which compounds are unique to lion's mane?",
+       "a": "Hericenones and erinacines (slide 3) (slide 8).",
+       "slide": 3
+      },
+      {
+       "q": "Why does substrate matter, and what is our position?",
+       "a": "Some mushrooms are grown on peanut or peanut-shell substrates, a hidden allergen risk; ours are sourced on non-peanut substrates (slide 17).",
+       "slide": 17
+      },
+      {
+       "q": "What does contamination testing check for?",
+       "a": "Heavy metals, mycotoxins and pesticides (slide 16).",
+       "slide": 16
+      }
+     ],
+     "slides": 19,
+     "slide_source": "deck",
+     "deck_names": [
+      "mushrooms.pdf"
+     ],
+     "status": "draft",
+     "related": [
+      {
+       "title": "From Insight to Innovation: Mapping Trends in Functional Health Ingredients",
+       "event": "ANS 2025",
+       "href": "https://claude.ai/artifact/M1bnkiBYe2GE9K4kNYkVtZ#active-nutrition-summit-2025--lux-functional-ingredient-trends",
+       "level": "Recommended"
+      },
+      {
+       "title": "Functional Mushrooms",
+       "event": "ANS 2025",
+       "href": "https://claude.ai/artifact/M1bnkiBYe2GE9K4kNYkVtZ#active-nutrition-summit-2025--nordic-mushrooms-functional-mushrooms",
+       "level": "Essential"
+      },
+      {
+       "title": "From Boomers to Zoomers: Fuelling fitness across generations",
+       "event": "ANS 2025",
+       "href": "https://claude.ai/artifact/M1bnkiBYe2GE9K4kNYkVtZ#active-nutrition-summit-2025--holland-barrett-fitness-generations",
+       "level": "Essential"
+      },
+      {
+       "title": "Active Nutrition Summit 2025: Key Insights & Industry Trends",
+       "event": "ANS 2025",
+       "href": "https://claude.ai/artifact/M1bnkiBYe2GE9K4kNYkVtZ#active-nutrition-summit-2025--summit-overview-report",
+       "level": "Recommended"
+      },
+      {
+       "title": "Supporting an improved healthspan in women with Biotics",
+       "event": "Probiota 2025",
+       "href": "https://claude.ai/artifact/M1bnkiBYe2GE9K4kNYkVtZ#probiota-2025--kerry-womens-healthspan-biotics",
+       "level": "Background"
+      },
+      {
+       "title": "Editors' Recap",
+       "event": "ANS 2025",
+       "href": "https://claude.ai/artifact/M1bnkiBYe2GE9K4kNYkVtZ#active-nutrition-summit-2025--editors-recap",
+       "level": "Background"
+      }
+     ],
+     "thumb": "data:image/webp;base64,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"
+    }
+   ]
+  },
+  {
+   "id": "markets",
+   "name": "Markets and consumers",
+   "short": "Markets",
+   "order": 2,
+   "description": "The markets our customers sell into, their size, consumers and where the opportunities are.",
+   "start": null,
+   "end": null,
+   "city": null,
+   "lessons": [
+    {
+     "id": "glp1-market-intelligence",
+     "event": "markets",
+     "course": "markets",
+     "title": "GLP-1 Market Intelligence: The GLP-1 Revolution",
+     "order": 1,
+     "date": null,
+     "start": null,
+     "format": "module",
+     "speakers": [],
+     "owner": "Vita Actives Limited",
+     "version": "March 2026",
+     "audience": "",
+     "minutes": 35,
+     "level": "Essential",
+     "categories": [
+      "glp1",
+      "gut-health"
+     ],
+     "tags": [
+      "market-data",
+      "regulation",
+      "science",
+      "marketing",
+      "supply"
+     ],
+     "ingredients": [
+      "creatine",
+      "protein-general",
+      "collagen",
+      "magnesium",
+      "hmb",
+      "peptides",
+      "probiotics",
+      "fibre",
+      "polyphenols",
+      "curcumin",
+      "botanicals",
+      "vitamins-minerals"
+     ],
+     "ingredient_words": [
+      "prebiotic fibres (FOS, inulin, resistant starch)",
+      "PHGG (partially hydrolysed guar gum)",
+      "glucomannan",
+      "protein",
+      "collagen peptides",
+      "creatine monohydrate",
+      "HMB",
+      "L-glutamine (amino acid)",
+      "berberine",
+      "curcumin",
+      "quercetin",
+      "cinnamon",
+      "fenugreek",
+      "gymnema",
+      "mulberry leaf",
+      "spirulina",
+      "probiotics (B. coagulans, S. boulardii, L. reuteri, P. acidilactici)",
+      "Akkermansia muciniphila",
+      "Hafnia alvei",
+      "PRO W002",
+      "vitamin D3 and K2",
+      "iron bisglycinate",
+      "calcium",
+      "magnesium",
+      "B12 and folate",
+      "chromium",
+      "ginger extract",
+      "L-theanine",
+      "ashwagandha",
+      "saffron extract",
+      "green tea (EGCG)",
+      "capsaicin",
+      "polyphenols"
+     ],
+     "summary": "This module is our market-intelligence briefing on GLP-1 drugs and the supplement demand they create. It sizes the opportunity\n(a projected $2.5B GLP-1 supplement market by 2030, up from about $680M in 2024, per the deck), explains what the drugs do and\nwhat they cost the body (GI side effects, lean-mass loss, nutrient deficiencies, and most users stopping within three years),\nand uses the UK retail wave as a leading indicator for other markets. Its core idea is that GLP-1 is three supplement markets,\nnot one: natural alternatives for people without a prescription (highest demand, highest regulatory risk), adjunct support for\npeople on the drug (the immediate opportunity, with approved nutrient claims), and an off-ramp for people coming off it (the\nbiggest long-term white space, with no published protocols). For each segment the deck grades ingredients by evidence and EU\nstatus, and it stresses that fibres are not interchangeable. It sets out what can and cannot be said in the US, EU and UK: in\nthe EU there are no approved GLP-1 claims. It closes with the playbook for us as a supplier: segment-specific premixes, quality\nleadership where the supply chain is failing, and market-specific claims.",
+     "takeaways": [
+      "The deck sizes the market at 137M Americans potentially eligible for GLP-1 therapy (JAMA Cardiology via Innova Market Insights) and a GLP-1 supplement market projected at $2.5B by 2030, up from about $680M in 2024; 30% of users already take supplements, 80% will pay a premium and 23% of GLP-1 supplement buyers are new to supplements (slide 4).",
+      "GLP-1 is three segments with three strategies: natural alternatives (demand highest, regulatory risk high), adjunct support (evidence strong, risk low) and off-ramp (demand latent, evidence minimal, total white space) (slide 16).",
+      "The drugs work, and every benefit creates a need: 25–45% of weight lost is lean mass, 40–85% of users get GI side effects, 22.4% have vitamin deficiencies at 12 months, and only 8.1% remain on therapy at 3 years (slide 5).",
+      "In the EU there are zero EFSA-approved GLP-1 claims and any GLP-1 pathway reference is prohibited; the safest path is approved nutrient claims (for example glucomannan for weight loss at 3 g a day, chicory inulin for bowel function) placed outside medicinal territory (slide 12).",
+      "Fibres are not interchangeable: FOS has the best GLP-1 evidence but the worst GI tolerance; PHGG is the best GI fibre but has no GLP-1 data (slides 24, 34).",
+      "The deck's five strategic insights: Segment 2 is the immediate opportunity, Segment 3 the biggest long-term white space, quality leadership the moat, regulatory divergence needs market-specific strategies, and premixes capture the most value (slide 33)."
+     ],
+     "in_practice": "- Lead with adjunct support: it answers live retailer briefs, has approved nutrient claims and the lowest regulatory risk\n  (slide 33).\n- Frame two product conversations with an adjunct customer: acute support on dosing days (nausea, GI distress; sachets,\n  effervescents) and ongoing daily support (deficiency, protein, microbiome; capsules, powders) (slide 22).\n- Use the ten premix concepts as conversation starters with buyers, adapted to each customer's requirements (slide 31).\n- Never use \"nature's Ozempic\", drug-alternative or drug-comparison language, and in the EU and UK no GLP-1 reference at all\n  (slide 12).\n- Match the fibre to the segment: PHGG for GI support in people on the drug, and FOS only at 3 g a day or less there, starting\n  low (slide 24).\n- Lead with quality: a certificate of analysis per shipment, third-party testing shared up front, format guidance (powder or\n  capsule where gummies fail) and early warning on berberine's EFSA risk (slide 32).",
+     "for_us": "",
+     "quotes": [],
+     "detail": "The deck is marked \"Confidential\" on its cover. It is our own internal material (Vita Actives Limited, March 2026), fine for\nthe staff training site, not for customers or anyone outside the company as it stands.\n\n**Act 1: the opportunity.** $23.3B GLP-1 pharma revenue in 2024 (US); in Europe a €7.1B EU pharma market, 9.1% of Danish\nhouseholds on GLP-1 and 4.1% of UK households (doubled in 12 months); oral formulations and generics expand the eligible\npopulation from 6.5M current users toward 30–40% of US adults (slide 4; sources Innova Market Insights 2025, JAMA Cardiology,\nH&B Wellness Report 2026). Weight loss of 15–24% depending on drug and duration (semaglutide 14.9% in STEP 1, tirzepatide 20.9%\nin SURMOUNT-1, CagriSema 22.7%, retatrutide 24.2%), −20% MACE in SELECT, HbA1c −1.0 to −2.0% in type 2 diabetes; side effects\ninclude nausea 44%, constipation 24%, 28.2% discontinuing for adverse effects, vitamin D deficiency 13.6%, ferritin 26–30%\nlower, and 3–5.7% hair loss, with women disproportionately affected (slide 5). Users' top actions: added exercise 63%, drink\nmore water 46%, adjusted diet 40%, take supplements 30%; 28% will pay a premium over 50% and 52% a 25–50% premium; 25M US\nconsumers have used compounded semaglutide (slide 6).\n\n**The UK as leading indicator.** Morrisons and Applied Nutrition launched 53 SKUs on 2 January 2026 across about 400 stores\n(3-year exclusive deal, £3.75 per meal); M&S, Sainsbury's, Iceland, Co-op, Asda, Aldi and Lidl followed; Holland & Barrett is\nreformulating its range for GLP-1 users, with food sales up 34% and top 2025 searches magnesium (8.5M), collagen (6.2M) and\nvitamin D (5.1M) (slide 7). 1.6M UK GLP-1 users in the prior year and 3.3M more interested (UCL, Jan 2026), NHS prescriptions\n+900% since 2020, Mounjaro on the NHS with a 580K target over 5 years; users 77.6% women, average age 42.3 (slide 8). Brand\nmoves: SlimFast (Supreme bought the UK/EU assets from Glanbia for £20.1M), Huel Lite, Naturecan's GLP-1 collection, Pura\nCollagen GLPure+ (slide 8); Arrae, Lemme (class action filed), Pendulum, Nestlé Health Science, Huel and AG1, Isagenix and\nPlexus (slide 11). Ingredient signals: protein (£491M UK protein market in 2026 to £637M by 2031, the deck's wording keeps\n\"isolates, concentrates, collagen peptides, plant blends\"), fibre (M&S bet on fibre over protein; Sainsbury's trademarked \"Full\nOn Fibre\"), micronutrients, botanicals and muscle (slide 9).\n\n**Regulation (slide 12).** US: DSHEA structure/function claims such as \"supports natural GLP-1 levels\"; FDA issued 50+ warning\nletters (Sep 2025). EU: viable claims glucomannan for weight loss (3 g a day), chromium for blood glucose, protein for muscle\nmass, chicory inulin for bowel function; no GLP-1 reference, no berberine health claim; berberine under active EFSA safety\nassessment, flagged by France and Belgium. UK: GB NHC Register; no GLP-1 support reference or drug comparison; ASA banned 5\nsupplement brands (Aug 2025) and uses AI scanning.\n\n**The pill and the pipeline (slide 13).** Oral Wegovy approved December 2025 at $149 a month against $349 injectable;\nsemaglutide patent expiry March 2026 with generics across 87 countries; orforglipron (Eli Lilly); Medicare Part D coverage in\n2026. On SNAC, the absorption enhancer in oral semaglutide, the deck cites Feb 2026 data of a 77% reduction in faecal butyrate\nand a 70% increase in plasma TNF-alpha, and says \"if confirmed\" the oral drug may also create greater need for microbiome\nsupport. Slide 14 reports the WHO (Francesco Branca) and a 2025 ACLM/ASN/OMA joint advisory on protein of 1.2–2.0 g/kg a day,\nexercise and micronutrient monitoring.\n\n**Segment 1, natural alternatives.** Three gut pathways to GLP-1: SCFAs from prebiotic fibres via FFAR2/FFAR3, bitter-taste\nreceptors (berberine, curcumin, quercetin) and DPP-4 inhibition (curcumin, quercetin, collagen peptides; \"measurable but modest\")\n(slide 17). About 600 Amazon SKUs carry \"GLP-1\" in their names, 27% of weight-loss users self-prescribe, and the berberine market\nis $0.9–1.4B (slide 18). The deck maps 8 receptor systems that stimulate GLP-1 plus protect and amplify routes and six\ncomplementary pathways (slide 19). Tier 1 (human RCT with GLP-1 measurement): prebiotic fibres (inulin, FOS, GOS), berberine,\nPediococcus acidilactici, Akkermansia muciniphila (not legal in the EU) and L-glutamine; Tier 2: Ceylon cinnamon, curcumin,\ngymnema, fenugreek and quercetin (slide 20). The ingredient table gives doses and EU status, for example FOS 5–15 g a day,\ninulin 8–12 g, resistant starch 15–30 g, and in the deck's wording \"whey protein\" 20–40 g a day for amino-acid sensing\n(slide 21).\n\n**Segment 2, adjunct support.** Caloric intake falls 16–39%, 60%+ are below calcium and iron requirements and only 43% meet the\nprotein minimum; GI burden from Lumina: bloating 50%, diarrhoea 38%, acid reflux 34%; spending among GLP-1 users: superfoods and\ngreens +58%, protein shakes and bars +38%, bone health +23% (slide 22). Five pillars: GI support, micronutrient repletion, muscle\npreservation, skin, hair and nails, emotional and cognitive (slide 23), with the ingredient table on slide 24 (the deck lists\n\"Protein (whey/coll.)\" at 25–40 g a day).\n\n**Segment 3, off-ramp.** 52.3% remain at month 12, 20% at month 24 and 8.1% at month 36; about 50% cite cost ($900–1,400 a\nmonth) as the primary reason; 82.5% regain at least 25% within 12 months, 78.5% have appetite rebound; Rick Polito (Nutrition\nBusiness Journal) calls it \"the biggest market for all of us\" (slide 25). Weight returns as fat rather than muscle; average\nregain 0.8 kg a month after stopping (BMJ 2025 meta-analysis) (slide 26). Five pillars of maintenance: satiety bridge,\nmetabolic rate, weight-regain prevention, lean-mass rebuilding, appetite and emotional support (slide 27), with 14 ingredients\non slide 28; the deck notes that glucomannan holds the only EFSA weight-loss claim.\n\n**Playbook.** Four premixes (GI support, micronutrient repletion, muscle preservation, off-ramp phase 1) and why they win:\nmargin, lock-in, lower formulation risk for the customer, and positioning as a formulation partner (slide 30); ten concepts\nacross the three segments (slide 31). The quality crisis: berberine products failing label claims, most creatine gummies\ndelivering under 50% of label claim, probiotic viability below label at expiry (slide 32).\n\nThe conference library has related GLP-1 talks; further reading is linked automatically from the shared tags.",
+     "key_slides": [
+      "(slide 5) What the drugs do, and the side effects that create supplement needs.",
+      "(slide 12) What can and cannot be said in the US, EU and UK.",
+      "(slide 16) Three segments, three strategies.",
+      "(slide 34) Master table: ingredients by segment, with dose and EU/UK status."
+     ],
+     "quiz": [
+      {
+       "q": "Name the three GLP-1 supplement segments. Which does the deck call the immediate commercial opportunity?",
+       "a": "Natural GLP-1 alternatives, adjunct support and off-ramp or maintenance; Segment 2, adjunct support, is the immediate opportunity (slides 16, 33)",
+       "slide": 16
+      },
+      {
+       "q": "Can a supplement sold in the EU refer to GLP-1?",
+       "a": "No. There are zero EFSA-approved GLP-1 claims and any GLP-1 pathway reference is prohibited; 55 of 58 hunger and satiety claims were rejected (slide 12)",
+       "slide": 12
+      },
+      {
+       "q": "A customer making a product for people on a GLP-1 drug asks for a fibre. Which does the deck point to, and which should be kept low?",
+       "a": "PHGG (Sunfiber, 5–6 g a day) for GI support; FOS is flagged to avoid for GI-sensitive users, at 3 g a day or less, starting low (slide 24)",
+       "slide": 24
+      },
+      {
+       "q": "Why does the deck call berberine the highest commercial risk in Segment 1?",
+       "a": "A high quality failure rate, an active EFSA safety assessment that could lead to an EU ban, and US tariff exposure from China sourcing (slide 20)",
+       "slide": 20
+      },
+      {
+       "q": "What share of patients remain on GLP-1 therapy at 3 years, and why does that matter to us?",
+       "a": "8.1%; every new prescription is a future off-ramp customer, and no published protocols for supplement-based off-ramp support exist (slide 25)",
+       "slide": 25
+      }
+     ],
+     "slides": 35,
+     "slide_source": "deck",
+     "deck_names": [
+      "glp1-market-intelligence.pdf"
+     ],
+     "status": "draft",
+     "related": [
+      {
+       "title": "Active Nutrition Summit 2025: Key Insights & Industry Trends",
+       "event": "ANS 2025",
+       "href": "https://claude.ai/artifact/M1bnkiBYe2GE9K4kNYkVtZ#active-nutrition-summit-2025--summit-overview-report",
+       "level": "Recommended"
+      },
+      {
+       "title": "Beyond the GLP-1 Boom: Nutrition, Innovation and the Future of Weight Management",
+       "event": "SANS Europe 2026",
+       "href": "https://claude.ai/artifact/M1bnkiBYe2GE9K4kNYkVtZ#sans-europe-2026--beyond-the-glp-1-boom-nutrition",
+       "level": "Essential"
+      },
+      {
+       "title": "From Insight to Innovation: Mapping Trends in Functional Health Ingredients",
+       "event": "ANS 2025",
+       "href": "https://claude.ai/artifact/M1bnkiBYe2GE9K4kNYkVtZ#active-nutrition-summit-2025--lux-functional-ingredient-trends",
+       "level": "Recommended"
+      },
+      {
+       "title": "From Boomers to Zoomers: Fuelling fitness across generations",
+       "event": "ANS 2025",
+       "href": "https://claude.ai/artifact/M1bnkiBYe2GE9K4kNYkVtZ#active-nutrition-summit-2025--holland-barrett-fitness-generations",
+       "level": "Essential"
+      },
+      {
+       "title": "Consumer Insights - Straight from the Horse's Mouth",
+       "event": "Healthspan Summit 2026",
+       "href": "https://claude.ai/artifact/M1bnkiBYe2GE9K4kNYkVtZ#nutra-healthspan-summit-2026--consumer-insights-straight-from-the-horse",
+       "level": "Essential"
+      },
+      {
+       "title": "The Vitamin Shoppe Health & Wellness Trend Report 2025",
+       "event": "ANS 2025",
+       "href": "https://claude.ai/artifact/M1bnkiBYe2GE9K4kNYkVtZ#active-nutrition-summit-2025--vitamin-shoppe-trend-report-2025",
+       "level": "Essential"
+      }
+     ],
+     "thumb": "data:image/webp;base64,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"
+    }
+   ]
+  }
+ ],
+ "facets": {
+  "categories": [
+   {
+    "id": "glp1",
+    "name": "GLP-1 and weight management",
+    "lessons": [
+     "ingredient-foundations--fibres-prebiotics",
+     "markets--glp1-market-intelligence"
+    ]
+   },
+   {
+    "id": "sports",
+    "name": "Sports performance",
+    "lessons": [
+     "ingredient-foundations--amino-acids",
+     "ingredient-foundations--mushrooms"
+    ]
+   },
+   {
+    "id": "gut-health",
+    "name": "Gut health",
+    "lessons": [
+     "ingredient-foundations--amino-acids",
+     "ingredient-foundations--fibres-prebiotics",
+     "markets--glp1-market-intelligence"
+    ]
+   },
+   {
+    "id": "brain-sleep",
+    "name": "Brain, mood and sleep",
+    "lessons": [
+     "ingredient-foundations--amino-acids",
+     "ingredient-foundations--mushrooms"
+    ]
+   },
+   {
+    "id": "beauty",
+    "name": "Beauty from within",
+    "lessons": [
+     "ingredient-foundations--amino-acids",
+     "ingredient-foundations--mushrooms"
+    ]
+   }
+  ],
+  "ingredients": [
+   {
+    "id": "creatine",
+    "name": "Creatine",
+    "lessons": [
+     "markets--glp1-market-intelligence"
+    ]
+   },
+   {
+    "id": "plant-protein",
+    "name": "Pea and plant protein",
+    "lessons": [
+     "ingredient-foundations--amino-acids"
+    ]
+   },
+   {
+    "id": "protein-general",
+    "name": "Protein and amino acids",
+    "lessons": [
+     "ingredient-foundations--amino-acids",
+     "markets--glp1-market-intelligence"
+    ]
+   },
+   {
+    "id": "collagen",
+    "name": "Collagen",
+    "lessons": [
+     "ingredient-foundations--amino-acids",
+     "markets--glp1-market-intelligence"
+    ]
+   },
+   {
+    "id": "magnesium",
+    "name": "Magnesium",
+    "lessons": [
+     "markets--glp1-market-intelligence"
+    ]
+   },
+   {
+    "id": "hmb",
+    "name": "HMB",
+    "lessons": [
+     "markets--glp1-market-intelligence"
+    ]
+   },
+   {
+    "id": "peptides",
+    "name": "Bioactive peptides",
+    "lessons": [
+     "ingredient-foundations--amino-acids",
+     "markets--glp1-market-intelligence"
+    ]
+   },
+   {
+    "id": "probiotics",
+    "name": "Probiotics and postbiotics",
+    "lessons": [
+     "markets--glp1-market-intelligence"
+    ]
+   },
+   {
+    "id": "fibre",
+    "name": "Fibre and prebiotics",
+    "lessons": [
+     "ingredient-foundations--fibres-prebiotics",
+     "markets--glp1-market-intelligence"
+    ]
+   },
+   {
+    "id": "polyphenols",
+    "name": "Polyphenols and berries",
+    "lessons": [
+     "ingredient-foundations--fibres-prebiotics",
+     "markets--glp1-market-intelligence"
+    ]
+   },
+   {
+    "id": "curcumin",
+    "name": "Curcumin",
+    "lessons": [
+     "markets--glp1-market-intelligence"
+    ]
+   },
+   {
+    "id": "botanicals",
+    "name": "Adaptogens and botanicals",
+    "lessons": [
+     "markets--glp1-market-intelligence"
+    ]
+   },
+   {
+    "id": "mushrooms",
+    "name": "Functional mushrooms",
+    "lessons": [
+     "ingredient-foundations--mushrooms"
+    ]
+   },
+   {
+    "id": "carbohydrate",
+    "name": "Carbohydrate",
+    "lessons": [
+     "ingredient-foundations--fibres-prebiotics"
+    ]
+   },
+   {
+    "id": "vitamins-minerals",
+    "name": "Vitamins and minerals",
+    "lessons": [
+     "ingredient-foundations--what-are-vitamins",
+     "markets--glp1-market-intelligence"
+    ]
+   }
+  ],
+  "tags": [
+   {
+    "id": "science",
+    "name": "Science and evidence",
+    "lessons": [
+     "ingredient-foundations--what-are-vitamins",
+     "ingredient-foundations--amino-acids",
+     "ingredient-foundations--fibres-prebiotics",
+     "ingredient-foundations--mushrooms",
+     "markets--glp1-market-intelligence"
+    ]
+   },
+   {
+    "id": "market-data",
+    "name": "Market and consumer data",
+    "lessons": [
+     "ingredient-foundations--amino-acids",
+     "ingredient-foundations--fibres-prebiotics",
+     "ingredient-foundations--mushrooms",
+     "markets--glp1-market-intelligence"
+    ]
+   },
+   {
+    "id": "regulation",
+    "name": "Regulation and claims",
+    "lessons": [
+     "ingredient-foundations--fibres-prebiotics",
+     "markets--glp1-market-intelligence"
+    ]
+   },
+   {
+    "id": "formats",
+    "name": "Formats and manufacturing",
+    "lessons": [
+     "ingredient-foundations--what-are-vitamins",
+     "ingredient-foundations--amino-acids",
+     "ingredient-foundations--fibres-prebiotics",
+     "ingredient-foundations--mushrooms"
+    ]
+   },
+   {
+    "id": "supply",
+    "name": "Supply and pricing",
+    "lessons": [
+     "ingredient-foundations--mushrooms",
+     "markets--glp1-market-intelligence"
+    ]
+   },
+   {
+    "id": "marketing",
+    "name": "Brand and marketing",
+    "lessons": [
+     "markets--glp1-market-intelligence"
+    ]
+   }
+  ]
+ }
+}
