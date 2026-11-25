@@ -1,7 +1,7 @@
 {
  "schema": "confnotes.training/1",
  "built": "2026-11-25",
- "commit": "98a6989",
+ "commit": "960643b",
  "people": [],
  "courses": [
   {
@@ -97,6 +97,132 @@
       "what-are-vitamins.pdf"
      ],
      "status": "draft",
+     "sequence": [
+      {
+       "kind": "slide",
+       "slide": 1,
+       "script": "This is the vitamins module from our Training and Development team: an introduction to what vitamins are and how to think about them. Each slide has a short explanation like this one, and there are two videos along the way. They open on YouTube in a new tab, so come back here when each one ends.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 2,
+       "script": "Vitamins are organic compounds that are essential in small amounts for various biological processes that sustain life. Unlike macronutrients like carbohydrates, proteins, or fats, which the body needs in larger quantities, vitamins are required in minute amounts to catalyze and regulate key biochemical reactions.\n\nSince the human body either cannot synthesize these compounds at all or cannot produce them in sufficient amounts, vitamins must be obtained from external sources such as food, supplements, or fortified products.\n\nMost vitamins act as coenzymes, meaning they assist enzymes in their role of catalyzing chemical reactions. Some vitamins also serve as antioxidants, helping to protect cells from damage caused by free radicals.",
+       "source": "speaker notes",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 3,
+       "script": "In the original deck this slide plays a video, and here it comes up as the next slide. It is \"From Scurvy to Success: How Vitamins Revolutionized Modern Nutrition Science\", from Dr. William Wallace's channel, and the link starts one minute twenty-three seconds in. It tells the story behind the definition we have just seen.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "video",
+       "slide": 3,
+       "script": "Watch from 1:23 for how deficiency diseases such as scurvy led to the idea of a vitamin. It is an outside channel's account, so take it as background, not as our wording.",
+       "source": "draft",
+       "audio": "",
+       "video": {
+        "id": "uF2A-DQD9Fw",
+        "url": "https://youtu.be/uF2A-DQD9Fw?t=83",
+        "title": "From Scurvy to Success: How Vitamins Revolutionized Modern Nutrition Science (The Vitamins Part 1)",
+        "channel": "Dr. William Wallace",
+        "thumb": "uF2A-DQD9Fw"
+       }
+      },
+      {
+       "kind": "slide",
+       "slide": 4,
+       "script": "Vitamins are vital for maintaining overall health and preventing disease. Without them, the body cannot function properly. Each vitamin has specific roles, such as promoting energy metabolism, supporting immune function, aiding in cell and tissue repair, and contributing to neurological functions. Deficiencies in certain vitamins can lead to a range of health issues, from fatigue and weakened immunity to more serious conditions like scurvy, rickets, or neurological disorders.\n\nFor instance, Vitamin D is crucial for calcium absorption, which is essential for bone health, while Vitamin C plays a major role in collagen synthesis and immune support. The right balance of vitamins is essential for optimal well-being, energy, and longevity.",
+       "source": "speaker notes",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 5,
+       "script": "This slide and the next are reference tables: each vitamin, the benefits the deck lists, and a line on each. Here are the fat-soluble vitamins A, D, E and K, plus vitamin C, which is water-soluble. For example, vitamin A is listed for vision in low light, vitamin C for collagen formation, vitamin D for calcium absorption and bones, and vitamin K for blood clotting. Some lines here are still being checked as claim wording, so use the table to learn the roles, not as words for a customer.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 6,
+       "script": "This table covers the water-soluble B vitamins: B1, B2, B3, B5, B6, B7, B9 and B12. Several are listed for energy metabolism, turning carbohydrates, fats and proteins into energy. B6 helps produce serotonin, dopamine and GABA. Folate, B9, is listed for DNA synthesis and repair, and B12 for red blood cell formation and normal nerve function. As with the last slide, some lines are still being checked as claim wording, so use it to learn the roles, not as words for a customer.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 7,
+       "script": "You might notice that some letters are missing in the sequence of vitamin names (e.g., there's no Vitamin F, H, or I).\n\nThis is because, as our understanding of these compounds evolved, some substances originally thought to be vitamins were later reclassified.\n\nFor example, what was once called \"Vitamin F\" is now known to be essential fatty acids (like Omega-3 and Omega-6).\n\nSimilarly, some vitamins were grouped together under a common name, such as the B-complex vitamins, which were originally thought to be individual vitamins.\n\nIt's important to be aware of some of this because even now, some people will ask us for Vitamin H, for example.",
+       "source": "speaker notes",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 8,
+       "script": "A vitamin can come in different forms, and the slide sets out four. Provitamins are converted by the body into the vitamin: beta-carotene becomes vitamin A. Active forms are ready to use, like retinol. Synthetic forms are made for stability or shelf life: folic acid, the synthetic form of folate, is more stable in supplements but must be converted in the body. Coenzyme forms, such as methylcobalamin for B12, need no further conversion; the deck describes it as more bioavailable than cyanocobalamin.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 9,
+       "script": "This slide holds the deck's second video, which comes up next: \"Multivitamins: Should You Be Taking Them?\", a nutritionist explaining on Myprotein's channel. It sits between the forms of vitamins we have just covered and the next slide, on how well the body absorbs and uses them.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "video",
+       "slide": 9,
+       "script": "Watch for how the nutritionist frames who might take a multivitamin and why. It comes from a brand's own channel, so treat it as a consumer view, not as our wording or claims.",
+       "source": "draft",
+       "audio": "",
+       "video": {
+        "id": "SecPzas5T4o",
+        "url": "https://youtu.be/SecPzas5T4o",
+        "title": "Multivitamins: Should You Be Taking Them? | Nutritionist Explains | Myprotein",
+        "channel": "Myprotein",
+        "thumb": "SecPzas5T4o"
+       }
+      },
+      {
+       "kind": "slide",
+       "slide": 10,
+       "script": "Two ideas decide how well a vitamin works in the body. Bioavailability is how much is absorbed and used. It depends on the form, on digestive health, and on other nutrients: fat helps absorb vitamin D, while phytic acid in grains inhibits iron absorption. Conversion efficiency is how well the body turns a provitamin into its active form, and genetics, such as MTHFR with folic acid, age and health status all affect it. The slide's point: people with certain conditions, or who are ageing, may benefit from active forms.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 11,
+       "script": "Vitamins rarely work alone, and the slide calls this synergy: one nutrient supporting another. Vitamin D increases calcium absorption in the gut. Vitamin C enhances absorption of non-heme iron from plant foods. B12 and folate are both needed for DNA synthesis and red blood cell formation, and vitamin C regenerates vitamin E's antioxidant capacity. The second table pairs vitamins with other nutrients, such as vitamin A with zinc and B6 with magnesium. The deck's point for us: these pairings matter when formulating a multivitamin.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 12,
+       "script": "This is the commercial slide. Vitamins often need stabilising, and they can be attached to or encapsulated by other ingredients to change their solubility, heat stability, bioavailability, oxidation stability or taste. So start with the customer. What is the delivery format: a capsule, softgel, bulk tub, stick pack, liquid shot, carbonated drink, protein bar or brownie? What else is in it, what taste do they want, and what is the budget and positioning, basic or premium?",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      }
+     ],
      "related": [
       {
        "title": "Novonesis and Montefarmaco: the Lactoflorene partnership, from science to consumer product",
@@ -235,6 +361,328 @@
       "amino-acids.pdf"
      ],
      "status": "draft",
+     "sequence": [
+      {
+       "kind": "slide",
+       "slide": 1,
+       "script": "Welcome to this module on amino acids. Amino acids sit behind many of the ingredients we talk about every day, so it's worth knowing the basics well. The next slide sets out the agenda and what you'll learn; after that, we start with what an amino acid actually is.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 2,
+       "script": "Welcome to the training session on amino acids.\n\nOver the next 40 minutes or so, we’re going to explore amino acids from the ground up—what they are, why they’re essential for human health, and how they’re used in various parts of the food and fitness industries.\n\nAs always, this is quite foundational, but I've also tried to tie in some data and trends stuff which is hopefully more advanced. So, whether you’re already familiar with amino acids or starting from scratch, this session should provide a newer and deeper understanding to some degree.\n\nWe’ll start with the basics: defining amino acids and their role in the body. Then, we’ll move into the differences between amino acids, peptides, and proteins—explaining how these compounds interact to support biological functions.\n\nAfter that, we’ll delve into the key categories of amino acids, including essential amino acids (EAAs), branched-chain amino acids (BCAAs), and others like conditional amino acids. Understanding these distinctions is critical for identifying their applications.\n\nFinally, we’ll discuss amino acid trends, market insights, and how the science of amino acids is advancing in terms of stability, bioavailability, and formulation innovations.\n\nBy the end of this session, you’ll not only understand amino acids but also the key industry areas where they’re making an impact and how we might see demand and supply evolve in the coming years.",
+       "source": "speaker notes",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 3,
+       "script": "Part one: an introduction to amino acids. In this section we'll cover what an amino acid is, the jobs amino acids do in the body, and how single amino acids link up into peptides and then proteins. There are two short videos along the way that show this in action.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 4,
+       "script": "Amino acids are often called the building blocks of life because they are fundamental to almost every biological process in the body.\n\nAt their core, amino acids are organic molecules with three key components: an amine group (-NH₂), a carboxyl group (-COOH), and a side chain or R-group that is unique to each amino acid.\n\nIt’s this side chain that determines the specific properties and functions of each amino acid.\n\nAmino acids serve as the foundation for two critical biological structures: peptides and proteins.\n\nWhen two or more amino acids link together, they form peptides. When these peptides grow into longer chains—50 or more amino acids—they become proteins, which fold into complex structures to carry out a wide range of functions in the body.\n\nThese functions include building and repairing tissues, acting as enzymes and hormones, and even supporting the immune system. Without amino acids, processes like muscle repair, energy production, and neurotransmitter synthesis simply wouldn’t happen.\n\nImportantly, amino acids are classified based on how we obtain them. Some are essential, meaning we must get them from food or supplements because the body can’t produce them. Others are non-essential, which the body can produce on its own. There’s also a category called conditional amino acids, which are usually non-essential but become essential in times of illness or stress.\n\nUnderstanding these basic properties is the foundation for exploring how amino acids are used in nutrition, health, and various industries.",
+       "source": "speaker notes",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 5,
+       "script": "This chart shows the 20 common amino acids, each with its name, its three-letter code and its one-letter code. They all share the same backbone: an amine group and a carboxyl group. What changes is the side chain, drawn in colour. The colours sort them by side chain: aliphatic, aromatic, amidic, hydroxylic, negatively or positively charged, and sulphur-containing. You don't need to learn the structures; just notice that the side chain gives each amino acid its character.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 6,
+       "script": "This slide is a video. It comes from the Ultimate Human Podcast and looks at how amino acids form proteins. Use it to picture what we've just covered: twenty different building blocks, each with its own side chain, joining together into the chains that make up proteins.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "video",
+       "slide": 6,
+       "script": "Next, a clip from the Ultimate Human Podcast with Dr David Minkoff and Gary Brecka on how amino acids form proteins. Watch for how single amino acids join into chains, the idea the next slide builds on.",
+       "source": "draft",
+       "audio": "",
+       "video": {
+        "id": "aktEQ90Wpkw",
+        "url": "https://www.youtube.com/watch?v=aktEQ90Wpkw",
+        "title": "How Amino Acids Form Proteins with Dr. David Minkoff & Gary Brecka",
+        "channel": "Ultimate Human Podcast with Gary Brecka",
+        "thumb": "aktEQ90Wpkw"
+       }
+      },
+      {
+       "kind": "slide",
+       "slide": 7,
+       "script": "To fully understand amino acids, it’s important to see how they relate to peptides and proteins.\n\nAmino acids are the smallest structural units in this hierarchy, but when they link together, they form peptides—chains of 2 to 50 amino acids held together by peptide bonds.\n\nThese peptide bonds are formed through a process called dehydration synthesis, where a molecule of water is removed as the amino acids join together.\n\nWhen these peptide chains grow larger, typically containing more than 50 amino acids, they fold into complex three-dimensional structures to form proteins.\n\nProteins are the workhorses of the body, responsible for countless vital functions, including acting as enzymes, transporting molecules, and providing structural support in tissues like muscles and skin.\n\nThe differences between amino acids, peptides, and proteins largely come down to size and complexity: Amino acids are individual units. Peptides are shorter chains of amino acids. Proteins are long, folded chains with specific shapes that determine their functions.\n\nIt's also important to note that the structure of any protein - and therefore its function - is defined by its amino acid and peptide structure, and that variations of these can give us truly unique protein forms and applications, such as: Linear proteins like collagen provide structure to skin and connective tissue. Globular proteins like hemoglobin transport oxygen in the blood. Enzymatic proteins catalyze reactions critical for life.\n\nThis hierarchy—amino acids to peptides to proteins—is fundamental to how the body works. Proteins are responsible for tasks as diverse as building muscle, repairing tissues, and transporting molecules. Understanding this relationship provides a foundation for exploring their applications in health and nutrition.",
+       "source": "speaker notes",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 8,
+       "script": "This slide is another video, from Dr Matt and Dr Mike, on proteins and amino acids. It goes over the same ground as the last slide, amino acids, peptides and proteins, with the biochemistry drawn out step by step. Watch it before we move on to protein structure.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "video",
+       "slide": 8,
+       "script": "Next, a short biochemistry lesson from Dr Matt and Dr Mike on proteins and amino acids. Watch for the difference between amino acids, peptides and proteins, and how a chain folds into a working shape.",
+       "source": "draft",
+       "audio": "",
+       "video": {
+        "id": "9ssCKw-7OvQ",
+        "url": "https://www.youtube.com/watch?v=9ssCKw-7OvQ",
+        "title": "Proteins & Amino Acids | Biochemistry",
+        "channel": "Dr Matt & Dr Mike",
+        "thumb": "9ssCKw-7OvQ"
+       }
+      },
+      {
+       "kind": "slide",
+       "slide": 9,
+       "script": "Here is the chart of the 20 common amino acids again, as we move on to how proteins are built. Keep the side chains in mind: each amino acid's side chain is different, and the next slides show how the order of amino acids in a chain leads to the folded shapes that give proteins their jobs.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 10,
+       "script": "Proteins are organized into four levels of structure, each adding complexity and defining function. The primary structure is the linear sequence of amino acids, which sets the foundation for the protein’s identity. This sequence folds into secondary structures, like alpha helices or beta sheets, stabilized by hydrogen bonds.\n\nNext, the tertiary structure forms when the chain folds into a specific 3D shape. This is where proteins take on their functional forms, like enzymes or hormones. Finally, some proteins form quaternary structures, where multiple folded chains combine into complexes, such as hemoglobin for oxygen transport or collagen in connective tissues.\n\nThese structural levels define the protein’s role—whether it’s a globular enzyme driving a chemical reaction or a fibrous protein providing strength to muscles or skin. This hierarchical design makes proteins incredibly versatile, supporting diverse industries like nutrition, beauty, and medicine.",
+       "source": "speaker notes",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 11,
+       "script": "This slide shows how the amino acid chain shapes the finished protein. Top left are three shapes: fibrous, like collagen; globular, like prolegumin; and random-coil, like casein. Below, collagen is built up from amino acid chains rich in glycine, proline and hydroxyproline, twisted into triple helices, then fibrils and fibres. On the right is an enzyme: forces between its amino acids hold the shape of its active site, and high temperatures can break those forces so the substrate no longer fits.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 12,
+       "script": "Part two: the categories and biochemistry of amino acids. Here we sort amino acids into groups, essential, conditionally non-essential and non-essential, take a closer look at the branched-chain amino acids, and then see how their chemistry sets them apart. Two short videos in this section help with both topics.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 13,
+       "script": "Amino acids are categorized based on how the body obtains and uses them, as well as their chemical properties.\n\nThe first grouping is essential amino acids (EAAs), which must be obtained through diet or supplementation because the body cannot produce them.\n\nThese include leucine, isoleucine, and valine—known as branched-chain amino acids (BCAAs)—which are key for muscle repair and energy.\n\nNon-essential amino acids, like alanine and aspartic acid, are produced by the body and support basic metabolic functions.\n\nThere are also conditional amino acids. Conditionally essential amino acids are a unique group. Under normal circumstances, the body can produce them in sufficient amounts, so they’re classified as non-essential. However, in certain situations—like illness, stress, or intense physical activity—the body’s demand for these amino acids increases beyond what it can synthesize. This is when they become ‘conditionally essential’ and must be obtained from diet or supplements.\n\nFor example, glutamine is important for gut health and immune function. During periods of illness or injury, the body’s need for glutamine increases, making dietary intake critical. Similarly, arginine plays a role in wound healing and nitric oxide production, which supports blood flow. During stress or trauma, the body cannot produce enough to meet its needs.\n\nThis concept is especially important in medical nutrition and sports recovery. Products targeting gut health, immune support, or post-exercise recovery often include these amino acids to meet the body’s heightened demands.\n\nI've put a short list of the 9 essential aminos, and some of their primary functions at the side here - as you can see, they are responsible for all sorts of important biological functions, from immunity, to muscle repair, to the health of our brain and nervous system, and more.\n\nI've also broken out BCAAs - that's branched chain amino acids - to show you their structure here. As you can see, the functional R group of each amino acid (that's the green section) has at least one branch in it off a carbon, and that structure gives us the 'branched chain' name.\n\nThe next slide will be a video from MyProtein, which explains a little more about BCAAs.",
+       "source": "speaker notes",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 14,
+       "script": "This slide is a video from Myprotein, in which a nutritionist explains BCAAs, the branched-chain amino acids leucine, isoleucine and valine, and when people take them. It follows on from the categories we've just covered. Remember it's a brand's own video: listen for how it explains BCAAs, not as a source of claims we can make.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "video",
+       "slide": 14,
+       "script": "Next, a Myprotein video in which a nutritionist explains BCAAs and when to take them. Watch for what makes leucine, isoleucine and valine branched-chain; the benefits it mentions are the brand's own words, not claims we can make.",
+       "source": "draft",
+       "audio": "",
+       "video": {
+        "id": "fPrkarBzrg0",
+        "url": "https://www.youtube.com/watch?v=fPrkarBzrg0",
+        "title": "BCAA Benefits & When To Take BCAAs | Nutritionist Explains... | Myprotein",
+        "channel": "Myprotein",
+        "thumb": "fPrkarBzrg0"
+       }
+      },
+      {
+       "kind": "slide",
+       "slide": 15,
+       "script": "I won't focus too much on this, because a video earlier started to explain it quite well, but we can additionally classify amino acids by their chemical properties, such as polarity, charge, or structural groupings.\n\nFor example, some amino acids are hydrophobic, like leucine, while others are hydrophilic, like serine, affecting how they interact in proteins and the body.\n\nBuilding on this, we can also classify amino acids by their charge and acidity. For instance, acidic amino acids, like aspartic acid and glutamic acid, have negatively charged side chains, while basic amino acids, like lysine and arginine, carry a positive charge. These properties influence how amino acids behave in different environments, such as binding to other molecules or stabilizing protein structures.\n\nAnother grouping considers the structure of the side chains. Aromatic amino acids, like phenylalanine and tyrosine, contain ring structures, making them critical in protein signaling and interactions.\n\nThese chemical distinctions are key when designing formulations or targeting specific physiological functions. Understanding these categories allows us to design products tailored to specific health and performance needs.",
+       "source": "speaker notes",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 16,
+       "script": "This slide is a video from PremedHQ Science Academy on grouping amino acids by their chemistry: polar or non-polar, and acidic, basic or neutral. It goes into more detail on the chemical groupings we've just touched on, which shape how amino acids behave in a protein and in a formulation.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "video",
+       "slide": 16,
+       "script": "Next, a video from PremedHQ Science Academy on polar and non-polar, acidic, basic and neutral amino acids. Watch for how the side chain decides which group an amino acid falls into.",
+       "source": "draft",
+       "audio": "",
+       "video": {
+        "id": "VI1ihdoX9lQ",
+        "url": "https://www.youtube.com/watch?v=VI1ihdoX9lQ",
+        "title": "Amino Acids: Polar vs Non-Polar, Acidic, Basic, and Neutral",
+        "channel": "PremedHQ Science Academy",
+        "thumb": "VI1ihdoX9lQ"
+       }
+      },
+      {
+       "kind": "slide",
+       "slide": 17,
+       "script": "Part three: science, function and formulation. This section covers how amino acids work with other nutrients such as minerals, where they're used today across food, feed, beauty and supplements, how stable and bioavailable they are in a finished product, and what's new, from plant-based blends to targeted delivery.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 18,
+       "script": "Amino acids don’t just work alone—they interact with other nutrients and compounds to enhance their effectiveness. One important synergy is between amino acids and minerals. For example, chelated minerals are formed when amino acids bind to minerals like magnesium or zinc, improving both stability and absorption. These chelates are widely used in supplements to enhance bioavailability.\n\nAmino acids also play critical roles in enzymatic and metabolic processes. Arginine, for instance, supports nitric oxide production, which improves blood flow and is a key component in sports and cardiovascular health products. Similarly, glutamine aids gut health by serving as a fuel source for intestinal cells.\n\nAnother functional aspect is how amino acids influence protein synthesis. Leucine, a branched-chain amino acid, is known for its ability to trigger muscle protein synthesis, making it essential in sports recovery products. These synergies and functions make amino acids indispensable in developing targeted health and performance solutions.",
+       "source": "speaker notes",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 19,
+       "script": "Amino acids are at the heart of many functional products across industries. In sports nutrition, essential amino acids (EAAs) and branched-chain amino acids (BCAAs) are staples for muscle repair, endurance, and recovery. Leucine, for instance, plays a key role in stimulating muscle protein synthesis, making it a common ingredient in post-workout supplements.\n\nFor gut health, glutamine is widely used to support intestinal integrity and repair, especially in products targeting digestive wellness or recovery from illness.\n\nIn the beauty sector, amino acids like glycine, proline, and hydroxyproline are key components in collagen supplements, promoting skin elasticity and hydration. They’re also used in nutricosmetics, where ‘beauty-from-within’ solutions are increasingly popular.\n\nIn cognitive health, amino acids like tryptophan and tyrosine are used to support neurotransmitter production, influencing mood and focus. These applications highlight the versatility of amino acids in addressing a wide range of health needs.",
+       "source": "speaker notes",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 20,
+       "script": "Amino acids aren't only for people. In animal feed, lysine, methionine, threonine and tryptophan are added to balance protein in feed formulations, including low-protein diets, to improve feed conversion: more meat, milk or eggs per unit of feed. The slide lists the benefits as cost efficiency, lower nitrogen excretion and support for animal health. Trends to watch: plant-based or fermentation-derived amino acids in feed, and premixes tailored to species and growth stage.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 21,
+       "script": "This infographic sizes the animal feed amino acids market: about 14.1 billion US dollars by 2027, growing at around 5% a year from 2019 to 2027. It splits the market by application, from ruminants, poultry and swine to pets, equine and aqua; by product, such as tryptophan, lysine, methionine and threonine; and by region. The key findings it names are a push to improve livestock quality and progress in biotechnology.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 22,
+       "script": "Taurine is essential for cats because they cannot synthesize it; deficiency can lead to heart disease and vision loss.",
+       "source": "speaker notes",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 23,
+       "script": "In baking, amino acids work as processing aids. L-cysteine acts as a dough conditioner, improving elasticity and cutting mixing time; methionine supports yeast fermentation for better volume and texture; and proline helps stabilise the gluten structure. The slide lists the results: more consistent dough, better texture and shelf life, and shorter baking times. Amino acids also help gluten-free products mimic the elasticity of gluten, and plant-based amino acids are part of clean-label baking.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 24,
+       "script": "Glutamic acid is the key driver of the umami flavor, often referred to as the 'fifth taste.'",
+       "source": "speaker notes",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 25,
+       "script": "Fortification is about filling gaps. Lysine is added to cereals and grains, and methionine to plant-based proteins, to complete their amino acid profiles. The slide also lists tryptophan in fortified foods aimed at mood and sleep, and glutamine in meal replacements. Uses run from staples like rice, wheat and corn in regions with protein malnutrition, to protein bars, cereals and shakes. The trends: fortified plant-based foods for flexitarians and vegans, and biofortified crops.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 26,
+       "script": "Leucine is the most potent BCAA for muscle protein synthesis, making it a key ingredient in recovery products.",
+       "source": "speaker notes",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 27,
+       "script": "In beauty, amino acids turn up both in supplements and on the skin. Glycine, proline and hydroxyproline are components of collagen, which is why they matter for collagen supplements sold as beauty from within. Cysteine and methionine supply sulphur for keratin, so they appear in hair and nail products, and the slide lists arginine for the skin's microcirculation. You'll also find amino acids in creams and serums. Trends include plant-based collagen analogues, vegan beauty products and nutricosmetics that target hair, skin and nails together.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 28,
+       "script": "In supplements, amino acids are grouped by need. For sleep, the slide lists tryptophan, a precursor to serotonin and melatonin, and glycine. For cognitive health, tyrosine and tryptophan, linked to dopamine and serotonin. For gut health, glutamine and proline. For immune support, arginine and cysteine, a precursor to glutathione. The trends it names are natural, non-habit-forming solutions, personalised formulas for gut, sleep and immune health, and products that combine several benefits.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 29,
+       "script": "Stability and bioavailability are critical factors when it comes to amino acids. Stability refers to how well an amino acid retains its structure and function during storage, processing, and digestion. Some amino acids, like glutamine, are prone to degradation in high heat or acidic environments, which can reduce their effectiveness in formulations.\n\nBioavailability, on the other hand, measures how efficiently the body absorbs and uses an amino acid. Free-form amino acids, which don’t need to be digested into smaller units, are highly bioavailable and are often used in supplements for rapid absorption. However, amino acids in complex proteins may require longer digestion, impacting the speed at which they become available to the body.\n\nTo address these challenges, technologies like microencapsulation protect amino acids from environmental factors, enhancing their stability. Other approaches, like pairing amino acids with minerals in chelated forms, not only improve stability but also enhance the absorption of both components. These innovations allow amino acids to be used effectively across diverse applications, from functional foods to advanced supplements.",
+       "source": "speaker notes",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 30,
+       "script": "Plant-based amino acid blends are increasingly popular as sustainable and ethical alternatives to animal-based proteins. The challenge with plant proteins, like pea or rice protein, is that they often lack one or more essential amino acids, making them incomplete proteins. To overcome this, blends of complementary plant proteins are used to mimic the amino acid profiles of animal proteins, ensuring a balanced intake.\n\nFor example, pea protein is high in lysine but low in methionine, while rice protein is the opposite. Combining these two creates a complete amino acid profile, comparable to whey or egg protein. These blends are commonly found in vegan protein powders, snacks, and meal replacements.\n\nBeyond basic nutrition, plant-based amino acids are used to develop analogues of functional proteins like collagen. By isolating and combining specific amino acids, companies can replicate the benefits of animal-derived products while catering to plant-based consumers. This innovation is driving growth in plant-based markets, particularly in sports nutrition and beauty.",
+       "source": "speaker notes",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 31,
+       "script": "While plant-based amino acid blends can replicate the amino acid profile of animal-derived proteins like hydrolyzed collagen, they face significant limitations.\n\nHydrolyzed collagen is composed of peptides—short chains of amino acids—that have unique structural and functional properties. These peptides are responsible for collagen’s benefits, such as promoting skin elasticity, hydration, and joint health.\n\nA blend of single amino acids, even with the same profile as collagen, does not have the same peptide structure. This lack of structure means it cannot mimic the bioactivity of true collagen peptides, such as their ability to stimulate collagen production in the skin or provide structural support in connective tissues.\n\nAdditionally, plant-based sources often require significant processing to isolate and combine amino acids, which can impact cost, sustainability, and scalability. While these blends are a step forward in offering alternatives to animal-derived collagen, they are not yet able to fully replace the functional benefits of true collagen peptides.",
+       "source": "speaker notes",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 32,
+       "script": "The science of amino acids continues to evolve, leading to new innovations in stability, delivery, and functionality. One key area of development is in targeted delivery systems, such as liposomal or enteric-coated amino acids. These technologies protect amino acids as they pass through the digestive system, ensuring they reach the intended site of absorption, like the intestines, for maximum effectiveness.\n\nAnother innovation is in fermentation-derived amino acids, which provide a sustainable and scalable alternative to traditional extraction methods. This process is particularly important for amino acids like tryptophan and lysine, which are challenging to source naturally at scale.\n\nWe’re also seeing advancements in amino acid blends for functional applications, such as analogues for specialty proteins. For instance, companies are working on plant-based alternatives to whey protein and collagen that incorporate optimized amino acid profiles for improved functionality and taste.\n\nLastly, research is focusing on the synergistic effects of amino acids with other nutrients. For example, amino acids are being combined with probiotics or minerals to enhance both stability and bioavailability in gut health and sports nutrition products. These innovations are opening up exciting possibilities for amino acids in personalized health and wellness.",
+       "source": "speaker notes",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 33,
+       "script": "To wrap up, amino acids are essential building blocks of life, with applications that extend far beyond basic nutrition. We’ve explored their foundational role in peptides and proteins, their classifications, and their structural importance. We’ve also discussed how their stability and bioavailability can be enhanced through innovative technologies like microencapsulation and targeted delivery systems.\n\nIn industry, amino acids play critical roles across diverse sectors—from sports nutrition and beauty to gut health and even cognitive support. Emerging trends, such as sustainable fermentation and plant-based analogues, highlight the versatility and growing importance of amino acids in meeting consumer demands for health, functionality, and sustainability.\n\nAs amino acid science continues to evolve, the potential for innovation in formulation, personalization, and applications will only expand. By understanding their properties and functions, we can create products that address specific health needs while staying at the forefront of industry trends.",
+       "source": "speaker notes",
+       "audio": "",
+       "video": null
+      }
+     ],
      "related": [
       {
        "title": "From Insight to Innovation: Mapping Trends in Functional Health Ingredients",
@@ -379,6 +827,304 @@
       "fibres-prebiotics.pdf"
      ],
      "status": "draft",
+     "sequence": [
+      {
+       "kind": "slide",
+       "slide": 1,
+       "script": "This is our commercial curriculum on prebiotics and fibre, written for the commercial team in the second half of 2026. Its aim is category fluency. It runs through definitions, mechanism, evidence, formulation, claims, the market and the ingredients themselves, and it ends with a decision framework and our priorities for the half.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 2,
+       "script": "Everything starts with the fibre gap. In the US data on this slide, about 5% of men and 9% of women reach the recommended daily fibre, a shortfall of about 14 grams: 16 grams eaten against 25 to 38 recommended. The deck cites a WHO-commissioned Lancet review from 2019, Reynolds and colleagues, which pooled 185 observational studies and 58 trials and reported lower death and disease rates, by 5 to 27%, with every extra 8 grams a day.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 3,
+       "script": "The deck sums up demand as a perfect storm of three forces. First, a real need: the fibre gap, which is structural and backed by the Lancet review. Second, a cultural wave: fibremaxxing, GLP-1 drugs, and the idea that \"fibre is the new protein\". Third, a product explosion: sodas, snacks and blends, and billion-dollar exits. Together, the deck says, they make durable demand and a growth opportunity.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 4,
+       "script": "What counts as fibre? The test is that it is not digested in the small intestine and, for isolated or added fibres, shows a physiological benefit. The definitions differ on chain length. Codex sets a degree of polymerisation of 10 or more and leaves 3 to 9 to national authorities. The US FDA and the EU and UK both use 3 or more. Note the key point: whether microbes selectively use it does not matter for fibre status.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 5,
+       "script": "What is a prebiotic? The scientific reference is ISAPP's 2017 definition: a substrate selectively used by host microorganisms, giving a health benefit. The one we operate on is the Global Prebiotic Association's 2024 definition: a compound used by the microbiota, producing a health or performance benefit. It drops the strict selectivity test and adds performance. That lets us credit ingredients such as polyphenols with a prebiotic effect without forcing the label \"prebiotic\" on them.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 6,
+       "script": "The biotic family is easiest to learn by contrast. Probiotics are live microorganisms that, in adequate amounts, confer a benefit: \"the bugs\". Prebiotics are the substrate those microbes use: \"food for the host's bugs\". Synbiotics combine the two. Postbiotics are inanimate microbes and their parts: \"the spent bugs\". Note that purified metabolites alone do not qualify as postbiotics.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 7,
+       "script": "This Venn diagram is the centrepiece. Some things are fibre only: cellulose, wheat bran, lignin, psyllium. Some are both: inulin, FOS and GOS. And some are prebiotic but not classic fibre. Lactulose is too small to count as fibre. HMOs feed infant bifidobacteria, but their fibre status is contested. Polyphenols and omega-3 are not carbohydrates at all, which is why the prebiotic circle reaches outside the fibre umbrella.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 8,
+       "script": "Start with the model customers already know: soluble and insoluble. Soluble fibre dissolves in water, often forming a gel, and slows digestion; the slide's list also mentions blood sugar and cholesterol, which later slides tie to specific viscous fibres at set doses. Insoluble fibre does not dissolve; it adds bulk and speeds transit. The standard advice is to eat a mix. It is a real, lab-measured distinction and a useful first cut, and the course builds on it.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 9,
+       "script": "Follow fibre through the gut. In the mouth and small intestine our enzymes break down starch and sugars, which are absorbed there. Fibre's bonds resist those enzymes, so it passes through intact. In the colon, trillions of microbes carry the enzymes we lack and ferment what arrives, producing short-chain fatty acids. So the colon, not the stomach, is the reaction vessel.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 10,
+       "script": "The deck says one chain explains most of the benefits we sell. Microbes make three short-chain fatty acids. Butyrate is the preferred fuel for the cells lining the colon. Propionate goes to the liver. Acetate, the most abundant, enters the circulation. From there the deck traces links to satiety hormones, since SCFAs can stimulate GLP-1 and PYY, to immunity and to the gut-brain axis. As the slide itself says, some of these effects are better established than others.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 11,
+       "script": "Four dials predict what a fibre will do. Solubility is the familiar starting point but a weak predictor on its own. Viscosity, whether it forms a gel, predicts cholesterol and glucose effects, as with beta-glucan, psyllium and guar. Fermentability predicts SCFAs and gas, as with inulin and FOS. Chain length predicts how fast and where it ferments, and so how well it is tolerated. When a customer asks what a fibre will do, reason through these dials.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 12,
+       "script": "Tolerability is a design lever. Fast, short-chain fibres such as inulin and FOS are powerful but gas-prone, with a ceiling of about 5 to 10 grams a day in a single serving. Slow or partly fermented fibres, such as PHGG, acacia and resistant maltodextrin or soluble corn fibre, are gentler, which opens the sensitive-gut, IBS-adjacent and low-FODMAP segment. Match ferment speed to the customer. Gentle is a feature: sell it.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 13,
+       "script": "There are four ways to classify fibre, and each predicts something different. Soluble versus insoluble is traditional and measurable, a useful first guide. Viscous versus non-viscous is linked to satiety and to cholesterol and glucose benefits. Fermentable or not is linked to microbiome benefits and to gas. Origin, whether intact, isolated or synthetic, matters for clean-label and sourcing questions, such as vegan or organic. Use viscosity and fermentability as the working lenses.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 14,
+       "script": "This is the first half of the fibre taxonomy: the structural, viscous and gel-forming fibres. For each one the table gives what it is, then whether it is soluble, viscous, fermentable and prebiotic. Cellulose, lignin and wheat bran are insoluble and not prebiotic. Beta-glucan and pectin are soluble gels. Psyllium forms a gel but resists fermentation. Glucomannan has the highest viscosity. Keep this table to hand rather than memorising it.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 15,
+       "script": "The second half covers the fermentable and oligosaccharide fibres, the prebiotic end. Inulin, FOS and GOS are soluble, rapidly fermented and established prebiotics. Resistant starch, acacia and PHGG are also listed as established. Resistant maltodextrin and polydextrose are slower to ferment and graded novel. The same columns apply: soluble, viscous, fermentable, prebiotic, so you can compare any two fibres at a glance.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 16,
+       "script": "These are the cases that trip people up. Methylcellulose is soluble and viscous but not fermented, so it is not a prebiotic. Glucomannan is the most viscous common fibre, with minimal prebiotic effect. Acacia is soluble but not viscous, slowly fermented and very well tolerated. Lignin is not a carbohydrate at all. And resistant starch has five subtypes, RS1 to RS5, so always specify the type when claiming.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 17,
+       "script": "The deck grades evidence Gold, Silver or Bronze. Gold means a large body of good human trials or meta-analyses and, or, authorised health claims. Silver means moderate, growing human evidence. Bronze means limited or emerging evidence. Keep three questions apart: is it a recognised prebiotic, how strong is the human evidence for this particular benefit, and can we use the word on pack here? Clinical evidence is not the same as commercial maturity.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 18,
+       "script": "The first Gold tier is psyllium and oat or barley beta-glucan, the regulator-backed viscous fibres. Psyllium: a review of 28 trials found about 10 grams a day lowered LDL by 0.33 millimoles per litre; the dose is 7 to 10 grams with at least 250 millilitres of water. Beta-glucan carries FDA and EFSA cholesterol claims at 3 grams a day or more. Neither is a prebiotic: the effect is physical, and the claim only holds at the dose.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 19,
+       "script": "The second Gold tier is the three proven prebiotics: inulin, FOS and GOS, the only three the deck says you can call prebiotic with full confidence. All three are bifidogenic. Inulin's dose is 5 to 20 grams a day, FOS 5 to 21. GOS works at much lower doses, 1.4 to 7 grams, and the slide cites studies on IBS, traveller's diarrhoea and immunity. Competitor brands are named for each, such as Orafti, Frutalose and Bimuno.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 20,
+       "script": "Silver tier: resistant starch and PHGG. Resistant starch has over 200 human trials, but they vary, so specify the type and the endpoint; the dose range here is 3.5 to 30 grams a day. PHGG, at 5 to 7 grams, is low-FODMAP. The slide cites a trial of 108 people that reported less bloating than placebo, and notes a Health Canada IBS claim. The deck calls it a quiet workhorse for sensitive-gut positioning.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 21,
+       "script": "Bronze tier: low-dose and emerging fibres. Bronze means the human evidence is thin, not that the ingredient does not work. XOS raised bifidobacteria at 1.4 to 2.8 grams a day in one small study. Arabinoxylan from wheat has an EFSA glycaemia claim. For larch arabinogalactan the slide cites a trial of 199 people at 4.5 grams a day that reported fewer colds: 58.4% against 72.4%. Native guar is largely superseded by PHGG.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 22,
+       "script": "Benefit by benefit, cholesterol and blood glucose belong to the viscous fibres. For LDL cholesterol the claims sit at dose thresholds: beta-glucan at 3 grams a day or more, psyllium 7, pectin 6. For post-meal glucose: beta-glucan at 4 grams per 30 grams of carbohydrate, and pectin at 10 grams per meal. Inulin, FOS, acacia and wheat dextrin are not cholesterol ingredients; they lack the mechanism. For a cardiometabolic brief, reach for the viscous fibres.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 23,
+       "script": "Science is only half the choice; the other half is whether we can use it. Four formulation dials. Effective dose: how many grams does it take, since a low dose fits more formats. Taste: neutral, sweet or off-note. Ease of use: solubility, mouthfeel, grittiness and processing. Stability: does it survive heat, low pH and shelf life? A 10-gram fibre will not fit a capsule, a gummy or a small drink.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 24,
+       "script": "The winner sits where behaviour and formulation overlap. The worked example on this slide is a product the deck calls Advanced Biotics, which uses PHGG with GOS, the Bimuno brand. Both were chosen because they cleared validation, dose, taste and handling at once: low-dose, clinically validated, near-tasteless and easy to use. Higher-dose or off-tasting options failed the formulation dials. Do not pick the best on one dial; pick the one good enough on all.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 25,
+       "script": "Gas is the silent compliance-killer. Rapidly fermented short-chain prebiotics such as FOS and short-chain inulin ferment early in the colon and make gas, with a ceiling of about 5 to 10 grams in a single serving. The deck gives four solutions: blend short and long chains, use slow, well-tolerated fibres, choose ingredients that work at low doses, and build the dose up gradually. A product nobody can tolerate does not get bought again.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 26,
+       "script": "Here is the core difference in claims. \"Dietary fibre\" is a regulated label term: you can put it on the nutrition panel, and you can almost always say how many grams of fibre a product has. \"Prebiotic\" is not a regulated nutrient claim. In the US it is a structure-function descriptor; in the EU, UK and Canada it is treated as an implied health claim. Fibre is a number; prebiotic is a claim you must earn.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 27,
+       "script": "This is the deck's list of authorised claims to anchor on, each with its authority and dose. In the EU: beta-glucan for cholesterol, from 3 grams a day; glucomannan for weight loss within a calorie-restricted diet, 3 grams a day; pectin for cholesterol and glucose; and chicory inulin for normal defecation, from 12 grams a day. Psyllium's cholesterol claim and the RS2 type 2 diabetes claim are US FDA claims. Always quote the dose.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 28,
+       "script": "The market is big and growing, but treat the figures as directional. Prebiotics are put at 6 to 11 billion dollars and dietary fibre at 9 to 14 billion, from Grand View and FMI, and estimates vary two to threefold by definition. Inulin is the largest single prebiotic, at about 30 to 46% share, and gut health the largest segment, with Europe, at about 40%, and Asia-Pacific vying for the lead.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 29,
+       "script": "GLP-1 is the deck's highest-momentum white space. The slide gives about 30 million or more US adults who have taken a GLP-1 drug, about 18%, with 12% taking one now; digestive supplements up 52% among users, and weight-management formulas down 3% year on year. Fibre plays two roles: managing side effects such as constipation and tolerability, and what the deck calls a \"fibre-first\" GLP-1 secretion story, a mechanism it links to SCFAs.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 30,
+       "script": "This is the first half of the evidence master table: the Gold and Silver tiers, each with whether it is fibre, prebiotic or both, its key benefit and its dose. Gold includes psyllium, beta-glucan, inulin, FOS, GOS and resistant dextrin. Silver includes resistant starch, PHGG, resistant maltodextrin, polydextrose, acacia, pectin and glucomannan. Use it as a lookup when a brief names an ingredient.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 31,
+       "script": "The second half covers Bronze, the botanicals and the flagged ingredients. Here are XOS, arabinoxylan, HMOs and larch arabinogalactan, branded ingredients such as Solnul, AlphaGOS, Actazin and Livaux, and botanicals such as Eldercraft, 360GUT and Baobest. Note the flags: IMO is contested because it is largely digestible, and methylcellulose is fibre but not a prebiotic. Check the tier and dose before you recommend any of them.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 32,
+       "script": "This is the anchor list of authorised claims with their exact conditions. Beta-glucan: lowers cholesterol, at 3 grams a day. Oat beta-glucan: reduces the blood sugar rise after a meal, at 4 grams per 30 grams of carbohydrate. Pectin: maintenance of normal blood cholesterol, at 6 grams a day. Glucomannan: weight loss in a calorie-restricted diet, 3 grams a day. Chicory inulin: normal defecation, 12 grams a day. Psyllium and RS2 are FDA claims.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 33,
+       "script": "This table, and the next, are reproduced from the Global Prebiotic Association reference by Deehan and colleagues, 2024. They give examples of studies on established, novel and emerging prebiotics: the health effect, the dose and format used, and the outcome reported. This half covers acacia gum, FOS, GOS, HMOs and more. Read each row as one study's result, not as a claim we can make.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 34,
+       "script": "The second half of the reference table covers the novel and emerging tiers: omega-3 fatty acids, polyphenols, resistant dextrin, resistant starch and xylans. Again, each row is a study: the effect looked at, the dose and format, and the outcome. The table comes from Deehan and colleagues, 2024, and that attribution stays with it whenever it is shown.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 35,
+       "script": "This is the quick pick: brief to shortlist. For a low-dose format, GOS, XOS or RS2. For a clear, stable drink, soluble corn fibre, resistant wheat dextrin, resistant maltodextrin or GOS. For a sensitive gut, PHGG, acacia or low-dose XOS. For a cardiometabolic claim, oat beta-glucan or psyllium. For a GLP-1 companion, PHGG, acacia or resistant dextrins. Keep it open in customer meetings.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 36,
+       "script": "Every commercial decision runs through one chain. Claim: what benefit do we want to say? Evidence: is it Gold, Silver or Bronze for that benefit? Dose: does the serving carry the studied dose? Format: can the format physically carry it? Jurisdiction: is the claim lawful in that market? If any link breaks, the claim breaks, and the break shows what to fix: the ingredient, the dose, the format, or the claim.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 37,
+       "script": "Our four priorities for the second half of 2026. Lead at the precision-prebiotic end: low-dose, validated, palatable ingredients such as PHGG, GOS, scFOS and XOS. Build the GLP-1 companion: gentle, nutrient-dense, tolerability-first products. Make credibility the moat: honest dosing, claims matched to evidence, and branded clinical ingredients. And secure precision-fermentation supply of HMOs, ahead of growth in adult nutrition.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      }
+     ],
      "related": [
       {
        "title": "Active Nutrition Summit 2025: Key Insights & Industry Trends",
@@ -510,6 +1256,188 @@
       "mushrooms.pdf"
      ],
      "status": "draft",
+     "sequence": [
+      {
+       "kind": "slide",
+       "slide": 1,
+       "script": "Welcome to this training session on functional mushrooms and mushroom extracts. Over the next few slides, we’ll explore how these fascinating fungi have evolved from ancient remedies into modern nutraceutical and functional food powerhouses.",
+       "source": "speaker notes",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 2,
+       "script": "Our goals are to help you understand the unique biology of functional mushrooms, the health benefits they provide, and the ways they are extracted and processed.\n\nWe’ll also look at their applications in key industries like supplements, food and beverages, and beauty, while highlighting emerging trends and innovations that are shaping the market.\n\nBy the end of this session, you’ll have the tools and insights to confidently discuss the science, applications, and market potential of functional mushrooms with your customers or team.",
+       "source": "speaker notes",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 3,
+       "script": "Let’s start with the basics: what are functional mushrooms?\n\nUnlike culinary mushrooms that are primarily used for flavor and nutrition, functional mushrooms are prized for their bioactive compounds, which deliver specific health benefits. These mushrooms have been used for centuries in traditional medicine systems like Traditional Chinese Medicine and Ayurveda.\n\nSome key examples include reishi, known as the ‘mushroom of immortality’ for its calming and immune-boosting properties, and lion’s mane, famous for its potential to support brain health. Cordyceps is another popular functional mushroom, celebrated for its ability to enhance energy and endurance.\n\nFunctional mushrooms aren’t just a trend—they’ve transitioned from ancient remedies into modern wellness staples, appearing in everything from capsules and powders to coffees and skincare products.",
+       "source": "speaker notes",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 4,
+       "script": "Functional mushrooms have been a part of human culture for thousands of years, valued for their healing properties and therapeutic potential. In Traditional Chinese Medicine, reishi was referred to as the ‘mushroom of immortality,’ symbolizing longevity and vitality. Cordyceps, discovered by Tibetan herders, was traditionally used to improve energy and stamina, especially at high altitudes.\n\nIn Ayurvedic medicine, mushrooms like shiitake were used for their nourishing properties, while indigenous cultures worldwide incorporated mushrooms like chaga for immunity and resilience. These ancient practices have informed modern science, which continues to uncover and validate the health benefits of these incredible fungi.\n\nToday, functional mushrooms are transitioning from traditional remedies to cutting-edge health and wellness products, thanks to advancements in extraction technologies and our understanding of their bioactive compounds.",
+       "source": "speaker notes",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 5,
+       "script": "Now that we’ve explored the history, let’s look at some of the most important functional mushrooms and their key benefits.\n\nReishi is known for its calming effects and immune-boosting properties, making it a popular choice in stress relief and immunity supplements.\n\nLion’s Mane supports cognitive health, with compounds like hericenones and erinacines shown to promote nerve growth factor, potentially aiding memory and focus.\n\nCordyceps enhances energy and endurance by improving oxygen uptake and ATP production, which makes it highly sought after in sports nutrition.\n\nChaga is packed with antioxidants that fight oxidative stress, making it a favorite for anti-aging and immune-boosting products.\n\nTurkey Tail is valued for its polysaccharides, especially PSK and PSP, which are used in immune health and gut support.\n\nEach of these mushrooms offers unique bioactive compounds that contribute to their health benefits and diverse applications.",
+       "source": "speaker notes",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 6,
+       "script": "This slide is a video from FreshCap Mushrooms on what you need to know before buying mushroom supplements. It follows on from the five key mushrooms we've just met, and sets up the next slide, on which parts of the mushroom are used. Watch it as a buyer would: what should a good mushroom supplement be made from?",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "video",
+       "slide": 6,
+       "script": "Next, a FreshCap Mushrooms video: what you need to know before you buy mushroom supplements. Watch for what separates one mushroom product from another, which leads into the next slide on fruiting body and mycelium.",
+       "source": "draft",
+       "audio": "",
+       "video": {
+        "id": "XN8dFLTH58o",
+        "url": "https://www.youtube.com/watch?v=XN8dFLTH58o",
+        "title": "Before You Buy: What You Need To Know About Mushroom Supplements",
+        "channel": "FreshCap Mushrooms",
+        "thumb": "XN8dFLTH58o"
+       }
+      },
+      {
+       "kind": "slide",
+       "slide": 7,
+       "script": "To understand the benefits of functional mushrooms, we need to know which parts of the mushroom are used in extracts and why.\n\nThe fruiting body, which is the visible part of the mushroom, is often the most concentrated source of active compounds like beta-glucans, triterpenoids, and polysaccharides. This makes it ideal for immune, cognitive, and stress-related supplements.\n\nThe mycelium, which is the root-like structure beneath the surface, is also gaining popularity. While it has a different bioactive profile compared to fruiting bodies, it’s a scalable and cost-effective option for producing polysaccharides and ergothioneine, which are antioxidants.\n\nChoosing between these parts depends on the desired health benefits, the cost of production, and the specific compounds being targeted. Both parts play important roles in creating high-quality mushroom extracts.",
+       "source": "speaker notes",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 8,
+       "script": "Functional mushrooms owe their health-promoting properties to a variety of bioactive compounds, each with unique benefits. These compounds are found in different mushrooms and often in specific parts, such as the fruiting body or mycelium.\n\nBeta-glucans are perhaps the most widely recognized. They modulate the immune system by enhancing the activity of immune cells like macrophages and natural killer cells. Reishi, Turkey Tail, and Shiitake are particularly rich in beta-glucans.\n\nTriterpenoids, abundant in Reishi and Chaga, have potent anti-inflammatory and adaptogenic effects. They help the body manage stress and support overall balance.\n\nPolysaccharides, such as polysaccharopeptides (PSP) in Turkey Tail and lentinan in Shiitake, are known for their role in gut health and immune function.\n\nErgothioneine, a powerful antioxidant found in mycelium, protects cells from oxidative stress and supports anti-aging benefits.\n\nHericenones and Erinacines, unique to Lion’s Mane, are particularly notable for their ability to stimulate nerve growth factor (NGF), which is vital for cognitive health and memory.\n\nCordycepin, from Cordyceps, enhances energy production at the cellular level by improving oxygen uptake and ATP production. This makes it a favorite for sports nutrition products.\n\nMelanin, found in Chaga, is an antioxidant that contributes to its potential skin-protective and anti-aging properties.",
+       "source": "speaker notes",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 9,
+       "script": "Functional mushrooms owe their health-promoting properties to a variety of bioactive compounds, each with unique benefits. These compounds are found in different mushrooms and often in specific parts, such as the fruiting body or mycelium.\n\nBeta-glucans are perhaps the most widely recognized. They modulate the immune system by enhancing the activity of immune cells like macrophages and natural killer cells. Reishi, Turkey Tail, and Shiitake are particularly rich in beta-glucans.\n\nTriterpenoids, abundant in Reishi and Chaga, have potent anti-inflammatory and adaptogenic effects. They help the body manage stress and support overall balance.\n\nPolysaccharides, such as polysaccharopeptides (PSP) in Turkey Tail and lentinan in Shiitake, are known for their role in gut health and immune function.\n\nErgothioneine, a powerful antioxidant found in mycelium, protects cells from oxidative stress and supports anti-aging benefits.\n\nHericenones and Erinacines, unique to Lion’s Mane, are particularly notable for their ability to stimulate nerve growth factor (NGF), which is vital for cognitive health and memory.\n\nCordycepin, from Cordyceps, enhances energy production at the cellular level by improving oxygen uptake and ATP production. This makes it a favorite for sports nutrition products.\n\nMelanin, found in Chaga, is an antioxidant that contributes to its potential skin-protective and anti-aging properties.",
+       "source": "speaker notes",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 10,
+       "script": "Let’s take a moment to summarize some of the most important functional mushrooms, their key bioactive compounds, and the health benefits they provide.",
+       "source": "speaker notes",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 11,
+       "script": "This diagram follows a mushroom from harvest to product. At the top are the bioactive compounds it contains: polysaccharides, terpenes, phenolics, proteins, vitamins and minerals. Below is processing: drying, freezing, canning, irradiation, pickling and packaging, which turn mushrooms into value-added products such as dehydrated mushroom, beverages, bakery products, soup powder, enriched flour and seasoning. On the right, the diagram labels areas of therapeutic potential, from antioxidant to gut health.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 12,
+       "script": "This slide is another video from FreshCap Mushrooms: a beginner's guide to functional mushrooms. It comes after the summary of key mushrooms, their compounds and the benefits linked to them, and brings those together before we look at how mushrooms are used in products. Listen for the names you already know.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "video",
+       "slide": 12,
+       "script": "Next, FreshCap Mushrooms' beginner's guide to functional mushrooms. Watch for the mushrooms we've just covered; any benefits it mentions are the channel's own words, not claims we can make.",
+       "source": "draft",
+       "audio": "",
+       "video": {
+        "id": "QLmNiqjQ1Qo",
+        "url": "https://www.youtube.com/watch?v=QLmNiqjQ1Qo",
+        "title": "Functional Mushrooms: Ultimate Beginners Guide",
+        "channel": "FreshCap Mushrooms",
+        "thumb": "QLmNiqjQ1Qo"
+       }
+      },
+      {
+       "kind": "slide",
+       "slide": 13,
+       "script": "Functional mushrooms are incredibly versatile and have found applications across multiple industries.\n\nIn dietary supplements, they are widely used in capsules, powders, and tinctures targeting specific health concerns like immunity, cognition, and stress. Reishi, Lion’s Mane, and Cordyceps are key players here.\n\nIn the functional food and beverage sector, mushroom extracts are added to coffee, tea, and protein bars to deliver health benefits in convenient formats. For example, mushroom coffee blends with Cordyceps for energy and Reishi for relaxation are increasingly popular.\n\nIn nutricosmetics, mushrooms like Chaga and Reishi, rich in antioxidants, are used in beauty-from-within products, targeting skin health and anti-aging.\n\nFinally, in sports nutrition, Cordyceps and Lion’s Mane are included in pre- and post-workout products for enhanced endurance, focus, and recovery.\n\nThese applications demonstrate the adaptability of functional mushrooms, making them a cornerstone ingredient in health and wellness innovations.",
+       "source": "speaker notes",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 14,
+       "script": "Here's what functional mushrooms look like on shelf. The slide shows mushroom coffees such as Four Sigmatic, Laird, Rheal and Motion; gummies from Dirtea; chocolate from Vital Leaf, Radek's and Cosmic Dealer; bars such as Lucid, Wise Bar, Aktivbar, Pro Shrooms and Balanced Tiger; and powders and capsules from brands like Spacegoods, Verve, Feel and OTO. Notice the range of formats: coffee, bars, chocolate and gummies sit right beside the capsules and powders.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 15,
+       "script": "All the data on this slide is from Spins. Mushrooms are among the fastest-growing functional ingredients in ready-to-drink and wider functional drinks. In RTD beverages, reishi grew 71% in dollars year on year, and cordyceps 52%. For lion's mane, kombucha and other functional beverages grew 158.2%; for turkey tail, the same category grew 226.6%. Overall, super mushroom sales in food and beverage reached 642 million dollars, up 19.5%, while vitamins and minerals fell 2.9% and body care fell 10.6%.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 16,
+       "script": "Quality and standardization are critical when it comes to functional mushroom products. Without proper standardization, the concentration of key bioactive compounds like beta-glucans or triterpenoids can vary significantly, impacting efficacy and consumer trust.\n\nStandardized extracts ensure consistent levels of active compounds, making them more reliable for product formulation and health claims. For example, Reishi products are often standardized to contain a specific percentage of triterpenoids for stress and immune support.\n\nAnother key quality consideration is contamination. Mushrooms, particularly those grown in the wild, can accumulate heavy metals or toxins from their environment. Rigorous testing for contaminants, such as mycotoxins, pesticides, and heavy metals, is essential to meet regulatory standards and protect consumer safety.\n\nFinally, sourcing and sustainability are becoming increasingly important to consumers. Using mushrooms grown in controlled environments ensures both purity and environmental responsibility, which are critical selling points in today’s market.",
+       "source": "speaker notes",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 17,
+       "script": "Allergen safety is a critical consideration in the production and sourcing of functional mushroom products. Some mushrooms, particularly those grown in mycelium form, are cultivated on substrates that may include peanuts or peanut shells. This can pose a significant risk to individuals with severe peanut allergies, a concern that should not be overlooked.\n\nAt Vita Actives, we prioritize allergen safety by sourcing mushrooms grown on non-peanut substrates, ensuring they are safe for a wider audience. This not only addresses consumer health concerns but also positions our products as more inclusive in the competitive marketplace.\n\nBy clearly communicating this allergen-friendly approach to customers, we can further build trust and differentiate our products, especially in markets where allergen labeling and transparency are top priorities.",
+       "source": "speaker notes",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 18,
+       "script": "The functional mushroom market is evolving rapidly, driven by consumer demand for innovative, effective, and sustainable products. One major trend is the growth of adaptogenic blends, which combine mushrooms like Reishi, Cordyceps, and Lion’s Mane with other botanicals to create synergistic effects for stress relief, energy, and focus.\n\nAnother trend is the expansion into new delivery formats, such as ready-to-drink beverages, effervescent tablets, and functional snacks like mushroom-infused bars and chips. These formats cater to on-the-go lifestyles and health-conscious consumers.\n\nSustainability and clean-label products are also driving innovation. Consumers increasingly prioritize mushrooms sourced from environmentally responsible farms, particularly organic and non-GMO options.\n\nFinally, bioavailability-enhancing technologies, like liposomal delivery systems, are becoming more common, ensuring that the bioactives in mushrooms are absorbed efficiently by the body.",
+       "source": "speaker notes",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 19,
+       "script": "Functional mushrooms have transitioned from ancient remedies to modern wellness essentials, offering a wide range of health benefits and applications. By understanding their bioactive compounds, extraction methods, and market potential, we can better position ourselves in this growing industry.\n\nLooking ahead, there are significant opportunities to explore. Personalized health solutions using mushroom-based formulations are gaining traction, allowing consumers to tailor products to their unique needs. The intersection of mushrooms and biohacking—a focus on longevity and optimized health—is another exciting frontier.\n\nTo succeed in this space, our focus should remain on quality, transparency, and innovation. By leveraging our non-peanut sourcing and commitment to sustainability, we can differentiate our products and meet the demands of today’s informed consumers.",
+       "source": "speaker notes",
+       "audio": "",
+       "video": null
+      }
+     ],
      "related": [
       {
        "title": "From Insight to Innovation: Mapping Trends in Functional Health Ingredients",
@@ -689,6 +1617,288 @@
       "glp1-market-intelligence.pdf"
      ],
      "status": "draft",
+     "sequence": [
+      {
+       "kind": "slide",
+       "slide": 1,
+       "script": "This is our GLP-1 market intelligence report, \"The GLP-1 Revolution\", a training and intelligence report from March 2026. The deck calls GLP-1 the fastest-growing category in supplement history. It is marked confidential, so keep it inside the company. Over the next slides it covers the opportunity, the landscape, three market segments and a playbook for us.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 2,
+       "script": "The report runs in four acts. Act one is the opportunity: market size, growth and the consumer shift behind GLP-1 demand. Act two is the landscape: the competition, the key players and the white space. Act three is three segments with three strategies: who the consumers are and how to position for them. Act four is the playbook: innovation, channels and go-to-market recommendations.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 3,
+       "script": "Act one: the opportunity. The next few slides size the market, explain what the drugs do to the body, show how users behave, and look at the UK, which the deck treats as the most advanced retail market outside the US.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 4,
+       "script": "The market in numbers. The deck gives 137 million Americans potentially eligible for GLP-1 therapy, and a GLP-1 supplement market projected at 2.5 billion dollars by 2030, up from about 680 million in 2024. 30% of users already take supplements, 80% are willing to pay a premium, and 23% of buyers are new to supplements. Europe is following: 9.1% of Danish households and 4.1% of UK households are on a GLP-1.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 5,
+       "script": "The deck starts with what the drugs do, benefits first. They mimic the hormone GLP-1, suppress appetite and slow stomach emptying. Weight loss runs from 15 to 24% depending on drug and duration. Then the costs: 25 to 45% of weight lost is lean mass, 40 to 85% of users have GI side effects, 22.4% have vitamin deficiencies at twelve months, and only 8.1% remain on therapy at three years. Each cost, the deck says, creates a supplement need.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 6,
+       "script": "What do GLP-1 users actually do? According to Innova's 2025 data in the deck, 30% take supplements while on the drugs, and 80% will pay more for GLP-1-specific products: 28% a premium above 50%, and 52% a premium of 25 to 50%. 25 million US consumers have used compounded semaglutide. Self-prescribers have no clinical guidance on nutrition or side effects, so the deck sees them as needing reliable products most.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 7,
+       "script": "The UK, the deck says, is the most advanced GLP-1 supplement retail market outside the US, and every major retailer responded within weeks. Morrisons launched 53 products with Applied Nutrition in January 2026 under a three-year exclusive deal. M&S, Sainsbury's, Iceland, Co-op, Asda, Aldi and Lidl all have ranges. Holland & Barrett is reformulating its whole range for GLP-1 users; its top searches in 2025 were magnesium, collagen and vitamin D.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 8,
+       "script": "UK brands are pivoting. SlimFast's new owner bought it from Glanbia for 20.1 million pounds, citing GLP-1. Huel launched a 190-calorie meal, Naturecan a GLP-1 collection, and Pura Collagen a collagen product making its own GLP-1 claims. The demographics explain it: 1.6 million UK users in the prior year and 3.3 million more interested, 77.6% of them women, average age 42.3: the core wellness-supplement shopper. The ASA is enforcing on positioning.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 9,
+       "script": "What does the UK wave mean for ingredient suppliers? The deck sees five categories, all accelerating. Protein is the baseline: every retail range leads with it. Fibre is emerging: M&S bet on fibre over protein. Micronutrients are the premium play: B12, D, iron, folate and collagen. Botanicals are an opportunity, such as ginger and adaptogens. And muscle is growing fast, because 25 to 45% of weight lost is lean mass.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 10,
+       "script": "Act two: the landscape. The next slides cover who is already buying ingredients, how the rules differ between the US, the EU and the UK, what the new oral pills change, and what the WHO says about nutrition alongside the drugs.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 11,
+       "script": "The brand wave is already under way. Arrae, a native GLP-1 brand, is berberine-based. Pendulum sells a GLP-1 probiotic at 165 dollars a month and has raised over 100 million. Huel and AG1 target nutrient gaps. Lemme's GLP-1 product faces a class action. Nestlé Health Science has repositioned a high-protein product, and Isagenix and Plexus are adapting their ranges. Every channel is responding: direct to consumer, retail, multi-level marketing and big consumer brands.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 12,
+       "script": "This is the most important slide for what we say. Three markets, three claim regimes. The US allows structure-function claims. The EU has zero approved GLP-1 claims, and any GLP-1 pathway reference is prohibited. In the UK, any GLP-1 support reference is prohibited, and the ASA banned five supplement brands in August 2025. The safest path, the deck says, is approved nutrient claims, such as glucomannan for weight loss or protein for muscle mass, kept outside medicinal territory.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 13,
+       "script": "The oral pill changes the scale. Oral Wegovy was approved in December 2025 at 149 dollars a month, against 349 for the injection. The semaglutide patent expires in March 2026, with generics in 87 countries. The deck projects users growing from 6.5 million today to 30 million or more by 2027 to 2028. It also reports new data on SNAC, the absorption enhancer in oral semaglutide, and says that if confirmed, the microbiome need may grow.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 14,
+       "script": "The deck reports that the WHO agrees drugs alone are not enough. It summarises Francesco Branca, WHO Director of Nutrition, as saying the drugs create a risk of nutritional deficiency that needs a supplementation strategy. A 2025 joint advisory from ACLM, ASN and OMA calls for protein at 1.2 to 2.0 grams per kilo per day, structured exercise and micronutrient monitoring. The deck lists the needs: protein, vitamin D with calcium, iron and B12, the microbiome, and lean mass.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 15,
+       "script": "Act three: three segments, three strategies. The GLP-1 supplement market is not one market. The next slides take each segment in turn: natural alternatives to the drugs, support for people taking them, and support for people coming off them. Each has its own consumers, evidence and timeline.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 16,
+       "script": "Here are the three segments side by side. Segment one, natural GLP-1 alternatives: the highest consumer demand, mixed evidence, and high regulatory risk, with no approved GLP-1 claims in the EU or UK. Segment two, adjunct support for people on the drugs: growing demand, strong evidence from the 2025 joint advisory, and low regulatory risk. Segment three, the off-ramp after stopping: latent demand, minimal evidence, and moderate risk. Each needs its own go-to-market strategy.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 17,
+       "script": "This slide explains the science segment one relies on: three pathways the deck describes linking the gut to GLP-1. First, fibre fermentation produces short-chain fatty acids that act on receptors on gut L-cells. Second, bitter compounds bind taste receptors on the same cells. Third, an enzyme, DPP-4, breaks GLP-1 down within about two minutes, and some compounds slow it. Remember that in the EU and UK no GLP-1 claim is allowed.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 18,
+       "script": "The \"nature's Ozempic\" market. Consumers want to lose weight without a prescription, from a product that works on several fronts: appetite, blood sugar, fat metabolism and gut health. The deck counts about 600 Amazon products with GLP-1 in the name, most of them single-pathway, and says 27% of weight-loss users self-prescribe. Its point for us: brands need a partner who can supply across all five layers of the stack, with the rationale and the defensible claims.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 19,
+       "script": "This is the deck's map of mechanisms. On the left, the GLP-1 axis in three parts: produce, protect and amplify, with the deck listing eight receptor systems and the ingredients it links to each. On the right, complementary pathways that do not involve GLP-1: AMPK activation, carbohydrate-enzyme inhibition, physical satiety, thermogenesis, serotonergic appetite and fat-cell formation. The deck's case is for formulations that combine several pathways. Treat this as mechanism, not as claims.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 20,
+       "script": "Segment one's evidence tiers. Tier one, human trials that measured GLP-1, includes prebiotic fibres, berberine, curcumin and Pediococcus acidilactici. Tier two, plausible but with gaps, includes cinnamon, gymnema, fenugreek, L-glutamine and quercetin. The deck singles out berberine: the most effective segment-one ingredient, it says, but the riskiest, with over 60% of tested products failing, an active EFSA safety assessment and US tariff exposure. Akkermansia is not legal in the EU.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 21,
+       "script": "This table lists the segment-one ingredients with pathway, tier, dose and EU status. Fibres lead: FOS at 5 to 15 grams a day, the deck's best GLP-1 evidence but the worst GI tolerance; inulin, with the EU bowel claim at 12 grams; and resistant starch, well tolerated. Note the EU column: most entries carry no GLP-1 claim, and glucomannan, at 3 grams a day, holds the EFSA weight-loss claim. Real formulations, the deck says, combine several pathways.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 22,
+       "script": "Segment two, support for people on the drugs, is the structurally larger opportunity. The deck gives a 16 to 39% cut in calorie intake, 22.4% deficiency within twelve months, and over 60% below calcium and iron needs. Only 43% meet the protein minimum. GI symptoms are common: bloating 50%, diarrhoea 38%. Spending is shifting to greens, protein and bone health. That makes two product conversations: acute help on dosing days, and daily nutrition.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 23,
+       "script": "The deck groups adjunct support into five pillars, each a product conversation. GI support, for bloating, with probiotics, ginger and PHGG. Micronutrient repletion, for deficiency, with D3 and K2, iron bisglycinate, calcium, magnesium and B vitamins. Muscle preservation, for lean mass, with protein, creatine and HMB. Skin, hair and nails, with collagen peptides. And emotional and cognitive support, with L-theanine, ashwagandha and saffron.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 24,
+       "script": "This table summarises the adjunct ingredients with category, role, dose and tier. A few to remember. PHGG is the deck's GI fibre for this segment, at 5 to 6 grams a day, while FOS is marked to avoid here, because it has the worst tolerability. Vitamin D3 with K2, iron bisglycinate and calcium address the deficiencies. Protein at 1.2 to 2.0 grams per kilo, creatine at 3 to 5 grams, and HMB at 3 grams address muscle.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 25,
+       "script": "Segment three is the off-ramp, and the deck says 92% will need one. Only 8.1% remain on therapy at three years. People stop because of side effects, with 28.2% citing adverse effects, because of cost, at 900 to 1,400 dollars a month, or because they feel done. When they stop, 82.5% regain at least a quarter within a year. The deck notes there are no published trial protocols for supplement support here: total white space.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 26,
+       "script": "What happens when people stop? The deck calls it the metabolic trap. In the STEP 1 extension, people regained much of what they lost, keeping a net loss of only 5.6%. The weight tends to return as fat rather than muscle, and because 25 to 45% of the weight lost was lean mass, metabolic rate drops and maintaining weight gets harder. The deck adds an average regain of 0.8 kilos a month, from a 2025 BMJ meta-analysis.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 27,
+       "script": "The deck proposes five pillars of off-ramp support. A satiety bridge, using fermentable and gel-forming fibres. Metabolic rate, using thermogenic ingredients. Weight-regain prevention, through the microbiome, with Hafnia alvei in the EU or Akkermansia in the US, plus polyphenols. Rebuilding lean mass, with higher protein, creatine and HMB. And appetite and mood support through what the deck calls a psychologically difficult transition.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 28,
+       "script": "This table gives the fourteen off-ramp ingredients across the five pillars, each with mechanism, tier and EU or UK status. The key regulatory point: glucomannan holds the only EFSA weight-loss claim, which the deck calls a unique regulatory moat. Protein has the EFSA muscle claim, and the fibres carry the inulin bowel claim. Note too that Akkermansia is marked not legal in the EU, while Hafnia alvei is marked EU legal.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 29,
+       "script": "Act four: the playbook. Having looked at the three segments, the deck now turns to what we do about them as a supplier: the premix opportunity, the quality crisis, and five strategic insights to take into customer conversations.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 30,
+       "script": "The premix opportunity: ready-made blends for each segment, which the deck calls the highest-value play for ingredient suppliers. Examples are a GI support premix and a micronutrient repletion premix for segment two, a muscle preservation premix for segments two and three, and an off-ramp premix for segment three. Premixes win on margin, on switching cost once validated, and on lower formulation risk for the customer. They make us a formulation partner, not just a supplier.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 31,
+       "script": "The deck turns the science into ten ready-to-brief premix concepts across the three segments, each with a format and its rationale. They include a metabolic fibre complex, a GI comfort capsule, a micronutrient repletion capsule, a lean mass powder with protein, 5 grams of creatine and 3 grams of HMB, and a two-phase off-ramp programme. Use them as conversation starters with buyers, adapted to each customer's needs.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 32,
+       "script": "The quality crisis is our opportunity. The deck cites independent testing: over 60% of tested berberine products fail label claims or contain undisclosed ingredients; most creatine gummies deliver less than half their label claim; and probiotic counts at expiry are often below label. Quality suppliers can lead with a certificate of analysis for every shipment, third-party testing, format guidance, regulatory alerts and strain-verified probiotics. Quality turns a commodity supplier into a trusted partner.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 33,
+       "script": "Five strategic insights. One: segment two is the immediate opportunity, with approved nutrient claims and the lowest regulatory risk. Two: segment three is the biggest long-term white space. Three: quality leadership is the moat. Four: the rules differ by market, so one formulation will not work everywhere. Five: the premix model captures the most value. Together: lead with science, quality and segment expertise.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 34,
+       "script": "This master table brings every ingredient together, with a traffic-light fit for each of the three segments, its role, dose and EU or UK status. Read across a row to see where an ingredient fits. The deck's main lesson here: fibres are not interchangeable. FOS is its GLP-1 fibre but risky for the gut; PHGG is the gentle GI fibre, with no GLP-1 data. Check the EU and UK column before any claim.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      },
+      {
+       "kind": "slide",
+       "slide": 35,
+       "script": "The deck closes on three numbers: 30% of users already take supplements, 92% stop the drug within three years, and the market is projected at 2.5 billion dollars by 2030. Its message: the window is open, and the supplier who leads with science, quality and segment expertise wins. That means evidence-graded ingredients, certificates and third-party testing, and a distinct strategy for each segment.",
+       "source": "draft",
+       "audio": "",
+       "video": null
+      }
+     ],
      "related": [
       {
        "title": "Active Nutrition Summit 2025: Key Insights & Industry Trends",
