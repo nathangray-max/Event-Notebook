@@ -18,6 +18,17 @@ ingredients:
 - vitamin D with calcium
 deck: files/what-are-vitamins.pdf
 source: files/what-are-vitamins.pptx
+videos:
+- after: 3
+  url: https://youtu.be/uF2A-DQD9Fw?t=83
+  id: uF2A-DQD9Fw
+  title: 'From Scurvy to Success: How Vitamins Revolutionized Modern Nutrition Science (The Vitamins Part 1)'
+  channel: Dr. William Wallace
+- after: 9
+  url: https://youtu.be/SecPzas5T4o
+  id: SecPzas5T4o
+  title: 'Multivitamins: Should You Be Taking Them? | Nutritionist Explains | Myprotein'
+  channel: Myprotein
 status: draft
 reviewed_by: ''
 to_check: >-
@@ -37,5 +48,10 @@ to_check: >-
   Claim to check (slide 11): folate with iron "prevents anemia"; vitamin K2 with D "for bone and heart health".
   Science to check (slides 8, 10): methylcobalamin is "more bioavailable than cyanocobalamin"; active forms are "generally
   more easily utilized".
+  Narration: 9 of 12 slide scripts are drafts for Nathan to review (slides 1, 3, 5, 6, 8, 9, 10, 11, 12), plus the two
+  video intros; slides 2, 4 and 7 use the speaker notes as written (no fixes needed), which run 107-109 words, above the
+  40-100 guide, and the slide 4 notes repeat the claim to check ("preventing disease") and add "crucial for calcium
+  absorption" and "longevity". Video URLs are stored without the share-tracking parameter; the slide 3 video keeps its
+  start at 1:23 (t=83). The slide 9 video is from Myprotein's own channel.
 added: '2026-11-25'
 added_by: Claude (from Nathan's training decks, 25 Nov 2026)
