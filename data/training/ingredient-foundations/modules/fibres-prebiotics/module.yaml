@@ -1,0 +1,62 @@
+id: fibres-prebiotics
+title: 'Prebiotics & Fibre: The Comprehensive Commercial Curriculum'
+course: ingredient-foundations
+order: 3
+owner: Vita Actives
+version: V3, H2 2026
+level: high
+audience: commercial team
+minutes: 40
+categories:
+- gut-health
+- glp1
+tags:
+- science
+- regulation
+- formats
+- market-data
+ingredients:
+- dietary fibre
+- prebiotics
+- chicory inulin
+- FOS (oligofructose)
+- GOS (galacto-oligosaccharides)
+- PHGG (partially hydrolysed guar gum)
+- acacia gum
+- resistant starch
+- resistant dextrin and resistant maltodextrin
+- polydextrose
+- XOS (xylo-oligosaccharides)
+- arabinoxylan (AXOS)
+- psyllium fibre
+- oat and barley β-glucan
+- pectin
+- glucomannan (konjac)
+- larch arabinogalactan
+- HMO (human milk oligosaccharides)
+- polyphenols (as novel prebiotics)
+- short-chain fatty acids (butyrate, propionate, acetate)
+deck: files/fibres-prebiotics.pdf
+source: files/fibres-prebiotics.pdf
+status: draft
+reviewed_by: ''
+to_check: 'Figures that differ within the deck: resistant starch dose 3.5–30 g/day (slide 20) vs 15–30 g (slide 30); XOS 1.4–2.8 g/day
+  (slide 21) vs 1–2.8 g (slide 31); glucomannan and pectin are in the "Gold list" of claims (slide 27) but graded Silver in the master
+  table (slide 30); resistant dextrin is graded Gold in the master table (slide 30) but is not on the Gold tier slides (18-19) and is
+  "Novel" in the GPA table (slide 34); the chicory inulin claim authority is "EU" on slide 27 and "EU Reg. 2015/2314" on slide 32; the
+  fibre gap gives the recommendation as 25–38 g (text) and 30 g (chart) on slide 2. Sources: the GLP-1 figures on slide 29 (~30M+ US
+  adults, ~18%/12%, +52% digestive supplements, −3% weight-management formulas) name no source; the market sizes (slide 28) are Grand
+  View and FMI and the deck itself calls them directional; the intake figures (slide 2) are US data (Miketinas/NHANES). The worked example
+  "Advanced Biotics (Nathan)" (slide 24): which product, and whether it can be shown to staff as is; it uses Bimuno, which slide 19
+  lists as a competitor brand. The GPA tables (slides 33-34) are reproduced from Deehan et al. 2024 under CC BY 4.0 and the attribution
+  must stay with them. Claim to check: "Every +8 g/day of fibre cut total deaths and incidence of CHD, type-2 diabetes and colorectal
+  cancer by 5–27%" (slide 2, observational data stated as cause). Claim to check: the SCFA chain to satiety hormones (GLP-1, PYY), immunity
+  and the gut-brain axis (slide 10; the deck adds that some effects are better established than others) and "fibre-first natural GLP-1
+  secretion" (slide 29). Claim to check: soluble fibre "blunts blood sugar, lowers cholesterol" stated generally (slide 8). Claim to
+  check: GOS for IBS relief, traveller''s diarrhoea and immunity, inulin for calcium and bone (slide 19). Claim to check: PHGG "helps
+  constipation AND diarrhoea", bloating and IBS (slides 20, 30; the IBS claim cited is Health Canada''s). Claim to check: larch arabinogalactan
+  cold reduction and Eldercraft "immune (strong)" (slides 21, 31). Claim to check: β-glucan listed with "glycaemia, faecal bulking"
+  in the Gold list (slide 27); check which authorised wording and ingredient each refers to. The psyllium CHD and RS2 type-2-diabetes
+  claims are US FDA claims (slides 27, 32), not EU claims.'
+added: '2026-11-25'
+added_by: Claude (from Nathan's training decks, 25 Nov 2026)
